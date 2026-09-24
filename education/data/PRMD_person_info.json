@@ -1,0 +1,1108 @@
+{
+    "company_name":  "ПАО \"ПРОМОМЕД\"",
+    "company_ticker":  "PRMD",
+    "ceo":  {
+                "name":  "Александр Игоревич Ефремов",
+                "current_role":  "Генеральный директор ПАО \"ПРОМОМЕД\"; член Совета директоров ПАО \"ПРОМОМЕД\"",
+                "company_name":  "ПАО \"ПРОМОМЕД\"",
+                "education":  [
+                                  {
+                                      "institution":  "Военно-медицинская академия им. С. М. Кирова",
+                                      "program":  "Лечебное дело (окончил в 1995 году); адъюнктура по кардиологии",
+                                      "qualification":  null,
+                                      "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страницы 131 и 142; https://promomed.pro/o-gruppe/; https://medvestnik.ru/directory/persons/Efremov-Aleksandr-Igorevich.html (год окончания)",
+                                      "qualification_degree":  null
+                                  },
+                                  {
+                                      "institution":  "Российская академия государственной службы при Президенте Российской Федерации",
+                                      "program":  "Государственное и муниципальное управление",
+                                      "qualification":  null,
+                                      "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страницы 131 и 142; https://promomed.pro/o-gruppe/",
+                                      "qualification_degree":  null
+                                  },
+                                  {
+                                      "institution":  "Harvard Business School",
+                                      "program":  null,
+                                      "qualification":  null,
+                                      "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 142; https://promomed.pro/o-gruppe/",
+                                      "qualification_degree":  null
+                                  },
+                                  {
+                                      "institution":  "IMD Business School",
+                                      "program":  null,
+                                      "qualification":  null,
+                                      "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 142; https://promomed.pro/o-gruppe/",
+                                      "qualification_degree":  null
+                                  }
+                              ],
+                "degrees":  [
+                                {
+                                    "degree":  "кандидат медицинских наук",
+                                    "field":  "кардиология",
+                                    "year":  null,
+                                    "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страницы 131 и 142; https://promomed.pro/o-gruppe/",
+                                    "qualification_degree":  null
+                                }
+                            ],
+                "professional_experience":  [
+                                                {
+                                                    "organization":  "ПАО \"ПРОМОМЕД\"",
+                                                    "role":  "генеральный директор",
+                                                    "start_year":  2023,
+                                                    "end_year":  null,
+                                                    "description":  "Назначен генеральным директором в апреле 2023 года.",
+                                                    "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 142; https://promomed.pro/o-gruppe/",
+                                                    "sector":  null,
+                                                    "industry_group":  null,
+                                                    "industry":  null
+                                                },
+                                                {
+                                                    "organization":  "ООО \"ПРОМОМЕД ДМ\"",
+                                                    "role":  "исполнительный директор, генеральный директор",
+                                                    "start_year":  2021,
+                                                    "end_year":  2023,
+                                                    "description":  "В 2021 году присоединился к ООО \"ПРОМОМЕД ДМ\" как исполнительный директор; локальный отчет указывает 2021-2023 как период исполнительного директора/генерального директора ООО \"ПРОМОМЕД ДМ\".",
+                                                    "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страницы 131 и 142; https://promomed.pro/o-gruppe/",
+                                                    "sector":  null,
+                                                    "industry_group":  null,
+                                                    "industry":  null
+                                                },
+                                                {
+                                                    "organization":  "Novartis, Baxter, Sanofi, Roche, Bausch Health",
+                                                    "role":  "руководящие позиции / генеральный менеджер в России и СНГ",
+                                                    "start_year":  null,
+                                                    "end_year":  2021,
+                                                    "description":  "До прихода в ПРОМОМЕД руководил рядом международных фармацевтических и device-компаний в России и СНГ.",
+                                                    "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страницы 131 и 142; https://promomed.pro/o-gruppe/",
+                                                    "sector":  null,
+                                                    "industry_group":  null,
+                                                    "industry":  null
+                                                },
+                                                {
+                                                    "organization":  "GlaxoSmithKline / SmithKlineBeecham, Novartis, Baxter, Sanofi, Alcon",
+                                                    "role":  "региональный/национальный менеджер по продажам, руководитель коммерческой службы, генеральный менеджер",
+                                                    "start_year":  1996,
+                                                    "end_year":  2015,
+                                                    "description":  "Медвестник подтверждает раннюю карьерную цепочку: GSK/SmithKlineBeecham, Novartis, Baxter, Sanofi, Alcon.",
+                                                    "source":  "https://medvestnik.ru/directory/persons/Efremov-Aleksandr-Igorevich.html",
+                                                    "sector":  null,
+                                                    "industry_group":  null,
+                                                    "industry":  null
+                                                }
+                                            ],
+                "research_experience":  [
+
+                                        ],
+                "publications":  [
+
+                                 ],
+                "patents":  [
+
+                            ],
+                "h_index":  null,
+                "sources":  [
+                                {
+                                    "url":  "MOEXBMI_2024.csv",
+                                    "title":  "MOEXBMI_2024.csv",
+                                    "fact":  "CSV contains Александр Игоревич Ефремов as генеральный директор and Александр Ефремов as a board member for PRMD; local documents confirm this is the same person."
+                                },
+                                {
+                                    "url":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf",
+                                    "title":  "ПРОМОМЕД. Годовой отчет 2024",
+                                    "fact":  "Страницы 131, 134, 141-142: указывают Александра Игоревича Ефремова как генерального директора и члена Совета директоров; приводят образование, степень кандидата медицинских наук и карьерный опыт."
+                                },
+                                {
+                                    "url":  "MOEXBMI_Отчеты_2024/PRMD/PROMOMED IFRS Cons 24.pdf",
+                                    "title":  "Группа «Промомед». Консолидированная финансовая отчетность за 2024 год",
+                                    "fact":  "Страница 1: заявление руководства подписано Ефремовым Александром Игоревичем как генеральным директором ПАО «ПРОМОМЕД»."
+                                },
+                                {
+                                    "url":  "https://promomed.pro/o-gruppe/",
+                                    "title":  "О компании «ПРОМОМЕД»",
+                                    "fact":  "Официальная карточка указывает Александра Ефремова как генерального директора и члена Совета директоров, кандидата медицинских наук по кардиологии, описывает образование и назначение генеральным директором в апреле 2023 года."
+                                },
+                                {
+                                    "url":  "https://medvestnik.ru/directory/persons/Efremov-Aleksandr-Igorevich.html",
+                                    "title":  "Александр Игоревич Ефремов - Медвестник",
+                                    "fact":  "Справочник подтверждает обучение в Военно-медицинской академии и прежние позиции в GSK, Novartis, Baxter, Sanofi и Alcon."
+                                }
+                            ],
+                "notes":  "CSV содержит две строки с вариантами имени: «Александр Игоревич Ефремов» и «Александр Ефремов». Годовой отчет и официальный сайт связывают эти роли с одним человеком. H-index и индивидуальные публикации не подтверждены. Качественный проход 2026-07-31: (1) добавлен год окончания ВМА (1995) по свежей проверке medvestnik.ru; (2) заново исследована 'Contradictions' из round_1 (Медвестник: 'MBA в академии городской службы, Москва', 2005, vs официальный отчет/сайт: РАГС при Президенте РФ, специальность 'государственное и муниципальное управление') — свежий фетч medvestnik.ru подтвердил формулировку 2005 года, но не дал независимого доказательства, что это тот же институт, что и РАГС; учитывая сильное тематическое совпадение (муниципальное управление) при разных официальных названиях, решено НЕ объединять записи — оставлена только формулировка из первичных источников (годовой отчет + офиц. сайт), дата 2005 года не перенесена, чтобы не приписывать её недоказанно к РАГС. Год защиты кандидатской диссертации по кардиологии по-прежнему не найден: проверен medvestnik.ru заново (не упоминает степень); дальнейший точечный поиск (dissercat.com, elibrary) не выполнен в этом раунде из-за исчерпанного лимита WebSearch в сессии — гэп остаётся для будущего раунда."
+            },
+    "tmt":  [
+                {
+                    "name":  "Петр Александрович Белый",
+                    "current_role":  "Председатель Совета директоров ПАО \"ПРОМОМЕД\"; основатель ГК \"ПРОМОМЕД\"",
+                    "company_name":  "ПАО \"ПРОМОМЕД\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Московский государственный медико-стоматологический университет им. А. И. Евдокимова / Российский университет медицины",
+                                          "program":  "Лечебное дело; клиническая ординатура по терапии подтверждена внешним источником",
+                                          "qualification":  null,
+                                          "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 131; https://www.vedomosti.ru/partner/characters/2021/08/19/882774-petr-belii",
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "degree":  "доктор медицинских наук",
+                                        "field":  "гастроэнтерология / хронический гепатит C",
+                                        "year":  2024,
+                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 131; https://www.dissercat.com/content/khronicheskii-gepatit-s-osobennosti-klinicheskogo-techeniya-pri-komorbidnoi-patologii-i-farm",
+                                        "qualification_degree":  null
+                                    },
+                                    {
+                                        "degree":  "кандидат медицинских наук",
+                                        "field":  "внутренние болезни / гастроэнтерология",
+                                        "year":  null,
+                                        "source":  "https://www.vedomosti.ru/partner/characters/2021/08/19/882774-petr-belii",
+                                        "qualification_degree":  null
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"ПРОМОМЕД\" / ГК \"ПРОМОМЕД\"",
+                                                        "role":  "основатель, председатель Совета директоров",
+                                                        "start_year":  2005,
+                                                        "end_year":  null,
+                                                        "description":  "Официальная карточка указывает, что в 2005 году он создал компанию ПРОМОМЕД; в Совете директоров с 2021 года.",
+                                                        "source":  "https://promomed.pro/o-gruppe/",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ООО \"ПРОМОМЕД ДМ\"",
+                                                        "role":  "первый заместитель генерального директора",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Локальный годовой отчет указывает эту позицию с 2024 года.",
+                                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 131",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ООО \"ПРОМОМЕД ДМ\"",
+                                                        "role":  "председатель Совета директоров",
+                                                        "start_year":  2019,
+                                                        "end_year":  2023,
+                                                        "description":  null,
+                                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 131",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ООО \"ПРОМОМЕД РУС\"",
+                                                        "role":  "исполнительный директор",
+                                                        "start_year":  2018,
+                                                        "end_year":  2024,
+                                                        "description":  null,
+                                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 131",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ООО \"УК ПРОМОМЕД\"",
+                                                        "role":  "председатель Совета директоров",
+                                                        "start_year":  2017,
+                                                        "end_year":  2019,
+                                                        "description":  null,
+                                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 131",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ООО \"Эн.Си.ФармГрупп\"",
+                                                        "role":  "генеральный директор",
+                                                        "start_year":  2011,
+                                                        "end_year":  2020,
+                                                        "description":  null,
+                                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 131",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+                                                {
+                                                    "description":  "Автор многочисленных научных публикаций; официальный сайт связывает его с развитием образовательной инфраструктуры в МГУ им. Н. П. Огарева.",
+                                                    "source":  "https://promomed.pro/o-gruppe/"
+                                                }
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV lists Петр Белый as председатель совета директоров for PRMD."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf",
+                                        "title":  "ПРОМОМЕД. Годовой отчет 2024",
+                                        "fact":  "Страница 131: биография Петра Александровича Белого, образование, степень, опыт и доля участия; страница 134 подтверждает состав Совета директоров на 31.12.2024."
+                                    },
+                                    {
+                                        "url":  "https://promomed.pro/o-gruppe/",
+                                        "title":  "О компании «ПРОМОМЕД»",
+                                        "fact":  "Официальная карточка указывает Петра Белого как основателя ГК «ПРОМОМЕД», председателя Совета директоров, доктора медицинских наук и выпускника МГМСУ/Российского университета медицины."
+                                    },
+                                    {
+                                        "url":  "https://www.vedomosti.ru/partner/characters/2021/08/19/882774-petr-belii",
+                                        "title":  "Петр Белый: «Производить субстанции так же важно, как осваивать космос»",
+                                        "fact":  "Ведомости подтверждают образование в МГМСУ, ординатуру по терапии, кандидатскую степень и создание «Эн.Си.Фарм» в 2001 году."
+                                    },
+                                    {
+                                        "url":  "https://www.dissercat.com/content/khronicheskii-gepatit-s-osobennosti-klinicheskogo-techeniya-pri-komorbidnoi-patologii-i-farm",
+                                        "title":  "Диссертация П. А. Белого, 2024",
+                                        "fact":  "DisserCat указывает докторскую диссертацию Петра Александровича Белого 2024 года по хроническому гепатиту C."
+                                    }
+                                ],
+                    "notes":  "Докторская степень подтверждена локальным отчетом и базой диссертаций; h-index не найден в надежно открытом профиле. Качественный проход 2026-07-31: сверка professional_experience и education с годовым отчетом (стр. 131) — расхождений не найдено, все даты и роли совпадают. Свежий фетч promomed.pro/o-gruppe/ дополнительно подтвердил 'Кавалер ордена Пирогова' и 'автор многочисленных научных публикаций', но т.к. в схеме нет отдельного поля для наград, эти детали не добавлены в структурированные поля (вне поля notes) в этом раунде. Список публикаций и h-index не найдены; точечный поиск не выполнен из-за исчерпанного лимита WebSearch в сессии — гэп остаётся для будущего раунда."
+                },
+                {
+                    "name":  "Кирилл Юрьевич Рубинский",
+                    "current_role":  "Независимый член Совета директоров ПАО \"ПРОМОМЕД\"; председатель Комитета по аудиту",
+                    "company_name":  "ПАО \"ПРОМОМЕД\"",
+                    "education":  [
+                                      {
+                                          "institution":  "МГИМО МИД России",
+                                          "program":  "Экономика и международные экономические отношения",
+                                          "qualification":  "степень в области экономики и международных экономических отношений",
+                                          "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 133; https://promomed.pro/o-gruppe/",
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "ESCP Business School / Ecole Superieure du Commerce de Paris",
+                                          "program":  "Управление коммуникациями и информацией",
+                                          "qualification":  "магистр наук",
+                                          "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 133; https://promomed.pro/o-gruppe/",
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "degree":  "магистр наук",
+                                        "field":  "управление коммуникациями и информацией",
+                                        "year":  null,
+                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 133",
+                                        "qualification_degree":  null
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"ПРОМОМЕД\"",
+                                                        "role":  "независимый директор; председатель Комитета по аудиту",
+                                                        "start_year":  2021,
+                                                        "end_year":  null,
+                                                        "description":  "В составе Совета директоров с 2021 года; в 2024 году входил в комитеты по аудиту, номинациям и вознаграждениям, стратегии и устойчивому развитию.",
+                                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страницы 133 и 136",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "EastOne",
+                                                        "role":  "генеральный директор - президент",
+                                                        "start_year":  2012,
+                                                        "end_year":  2017,
+                                                        "description":  "Delo.ua подтверждает назначение в 2012 году и уход в 2017 году.",
+                                                        "source":  "https://delo.ua/business/rubinskij-pokidaet-dolzhnost-prezidenta-investkompanii-eastone-330535/",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Инвестиционная группа \"Промышленные инвесторы\" / FESCO",
+                                                        "role":  "старший партнер и первый вице-президент; член и председатель Совета директоров FESCO",
+                                                        "start_year":  2003,
+                                                        "end_year":  2012,
+                                                        "description":  "Delo.ua подтверждает работу в «Промышленных инвесторах» с 2003 года и участие в Совете директоров FESCO с 2005 года.",
+                                                        "source":  "https://delo.ua/business/rubinskij-pokidaet-dolzhnost-prezidenta-investkompanii-eastone-330535/",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Собственные инвестиционные проекты / family office",
+                                                        "role":  "международный инвестор, управляющий активами",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Официальная карточка описывает его как инвестбанкира и управляющего крупными активами.",
+                                                        "source":  "https://promomed.pro/o-gruppe/",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV lists Кирилл Рубинский as independent board member for PRMD."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf",
+                                        "title":  "ПРОМОМЕД. Годовой отчет 2024",
+                                        "fact":  "Страница 133: образование и общий опыт; страница 134 подтверждает состав Совета директоров; страница 136 подтверждает статус председателя Комитета по аудиту."
+                                    },
+                                    {
+                                        "url":  "https://promomed.pro/o-gruppe/",
+                                        "title":  "О компании «ПРОМОМЕД»",
+                                        "fact":  "Официальная карточка подтверждает роль независимого директора, образование в МГИМО и ESCP, а также профиль международного инвестора."
+                                    },
+                                    {
+                                        "url":  "https://delo.ua/business/rubinskij-pokidaet-dolzhnost-prezidenta-investkompanii-eastone-330535/",
+                                        "title":  "Рубинский покидает должность президента инвесткомпании EastOne",
+                                        "fact":  "Delo.ua подтверждает опыт в EastOne, «Промышленных инвесторах» и FESCO."
+                                    }
+                                ],
+                    "notes":  "Основная 2024-связь с ПРОМОМЕД подтверждена локальным и официальным корпоративным источниками; внешний источник проверяет прежний инвестиционный опыт. Качественный проход 2026-07-31: сверка с годовым отчетом (стр. 133) — образование и опыт совпадают, расхождений нет. Независимый первичный источник по образованию МГИМО/ESCP и детали текущих private/family-office проектов по-прежнему не найдены; h-index/публикации корректно оставлены null, т.к. Рубинский — инвестбанкир, а не исследователь (не подлежит honest-gap follow-up по этому полю). Точечный поиск по остальным гэпам не выполнен из-за исчерпанного лимита WebSearch в сессии."
+                },
+                {
+                    "name":  "Игорь Вениаминович Маев",
+                    "current_role":  "Независимый член Совета директоров ПАО \"ПРОМОМЕД\"; председатель Комитета по номинациям и вознаграждениям",
+                    "company_name":  "ПАО \"ПРОМОМЕД\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Московский государственный медико-стоматологический институт / МГМСУ им. А. И. Евдокимова",
+                                          "program":  "Лечебный факультет; гастроэнтерология; окончил в 1987 году с отличием",
+                                          "qualification":  "врач / гастроэнтеролог",
+                                          "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 132; https://www.ras.ru/news/shownews.aspx?id=c76d2741-eb74-4f5a-a1b4-602a8886dcd0",
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "degree":  "доктор медицинских наук",
+                                        "field":  "внутренние болезни / гастроэнтерология",
+                                        "year":  null,
+                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 132; https://www.ras.ru/news/shownews.aspx?id=c76d2741-eb74-4f5a-a1b4-602a8886dcd0",
+                                        "qualification_degree":  null
+                                    },
+                                    {
+                                        "degree":  "профессор",
+                                        "field":  "медицина",
+                                        "year":  1994,
+                                        "source":  "https://www.ras.ru/news/shownews.aspx?id=c76d2741-eb74-4f5a-a1b4-602a8886dcd0",
+                                        "qualification_degree":  null
+                                    },
+                                    {
+                                        "degree":  "академик РАН",
+                                        "field":  "медицинские науки",
+                                        "year":  2016,
+                                        "source":  "https://www.ras.ru/news/shownews.aspx?id=c76d2741-eb74-4f5a-a1b4-602a8886dcd0",
+                                        "qualification_degree":  null
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"ПРОМОМЕД\"",
+                                                        "role":  "независимый директор",
+                                                        "start_year":  2023,
+                                                        "end_year":  null,
+                                                        "description":  "Локальный отчет указывает, что в Совете директоров с 2023 года; сайт компании указывает первое избрание 16.07.2021, что относится к прежней корпоративной структуре/органам группы.",
+                                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 132; https://promomed.pro/o-gruppe/",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ООО \"ПРОМОМЕД ДМ\"",
+                                                        "role":  "член Совета директоров",
+                                                        "start_year":  2021,
+                                                        "end_year":  2023,
+                                                        "description":  null,
+                                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 132",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Российский университет медицины / МГМСУ им. А. И. Евдокимова",
+                                                        "role":  "первый проректор / проректор; заведующий кафедрой пропедевтики внутренних болезней и гастроэнтерологии",
+                                                        "start_year":  2013,
+                                                        "end_year":  null,
+                                                        "description":  "Локальный отчет указывает работу с 2013 года; РАН подтверждает академическую и управленческую карьеру в МГМСУ.",
+                                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 132; https://www.ras.ru/news/shownews.aspx?id=c76d2741-eb74-4f5a-a1b4-602a8886dcd0",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+                                                {
+                                                    "description":  "Научные интересы связаны с гастроэнтерологией и гепатологией; РАН описывает научную школу, 11 докторских и 74 кандидатских диссертаций под руководством, более 800 научных работ и 9 изобретений.",
+                                                    "source":  "https://www.ras.ru/news/shownews.aspx?id=c76d2741-eb74-4f5a-a1b4-602a8886dcd0"
+                                                }
+                                            ],
+                    "publications":  [
+                                         {
+                                             "description":  "Автор/соавтор более 800 научных работ, включая монографии и учебники по гастроэнтерологии и внутренним болезням.",
+                                             "source":  "https://www.ras.ru/news/shownews.aspx?id=c76d2741-eb74-4f5a-a1b4-602a8886dcd0"
+                                         }
+                                     ],
+                    "patents":  [
+                                    {
+                                        "description":  "РАН указывает 9 изобретений; отдельные номера патентов в рамках этого исследования не подтверждены.",
+                                        "source":  "https://www.ras.ru/news/shownews.aspx?id=c76d2741-eb74-4f5a-a1b4-602a8886dcd0"
+                                    }
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV lists Игорь Маев as independent board member for PRMD."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf",
+                                        "title":  "ПРОМОМЕД. Годовой отчет 2024",
+                                        "fact":  "Страница 132: биография, образование, академические регалии и опыт; страницы 134-136 подтверждают состав Совета директоров и комитеты на 31.12.2024."
+                                    },
+                                    {
+                                        "url":  "https://promomed.pro/o-gruppe/",
+                                        "title":  "О компании «ПРОМОМЕД»",
+                                        "fact":  "Официальная карточка подтверждает роль независимого директора, академические регалии, должность в Российском университете медицины, научные интересы и более 800 работ."
+                                    },
+                                    {
+                                        "url":  "https://www.ras.ru/news/shownews.aspx?id=c76d2741-eb74-4f5a-a1b4-602a8886dcd0",
+                                        "title":  "Академику Маеву Игорю Вениаминовичу - 60 лет!",
+                                        "fact":  "РАН подтверждает образование, академическую карьеру, статус академика РАН, научные направления, количество работ и изобретений."
+                                    }
+                                ],
+                    "notes":  "h-index оставлен null: найденные поисковые подсказки с индексами не были использованы как источник, поскольку открытый надежный профиль с h-index не подтвержден. Качественный проход 2026-07-31: (1) добавлен год окончания МГМСУ (1987, с отличием) в education по данным round_1/ras.ru, которые не были перенесены в JSON при первичном заполнении; (2) заново исследована 'Contradictions' из round_1 (годовой отчет: 'в Совете директоров с 2023 года' vs официальный сайт: первое избрание 16.07.2021) — сверка с первичным PDF (стр. 132) подтвердила, что это НЕ противоречие: 2021-2023 относится к членству в Совете директоров ООО «ПРОМОМЕД ДМ» (отдельная запись в professional_experience), а 2023-настоящее время — к ПАО «ПРОМОМЕД»; обе даты уже корректно отражены в JSON как отдельные записи, изменений не потребовалось. Попытка свежей проверки ras.ru дала 403 Forbidden, ru.wikipedia.org не содержит год защиты докторской степени, h-index или число патентов — гэп по этим полям остаётся; дальнейший точечный поиск не выполнен из-за исчерпанного лимита WebSearch в сессии."
+                },
+                {
+                    "name":  "Деян Йованович",
+                    "current_role":  "Независимый член Совета директоров ПАО \"ПРОМОМЕД\"; член Комитета по аудиту и Комитета по стратегии и устойчивому развитию",
+                    "company_name":  "ПАО \"ПРОМОМЕД\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Варшавская медицинская академия",
+                                          "program":  "Анестезиология-реаниматология",
+                                          "qualification":  "анестезиолог-реаниматолог",
+                                          "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 132; https://promomed.pro/o-gruppe/",
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"ПРОМОМЕД\"",
+                                                        "role":  "независимый директор",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Впервые избран в Совет директоров 14.05.2024.",
+                                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страницы 132, 134-136; https://promomed.pro/o-gruppe/",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ООО \"Астеллас Фарма Продакшен\"",
+                                                        "role":  "генеральный директор",
+                                                        "start_year":  2014,
+                                                        "end_year":  2021,
+                                                        "description":  null,
+                                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 132",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "АО \"Астеллас Фарма\"",
+                                                        "role":  "генеральный директор",
+                                                        "start_year":  2005,
+                                                        "end_year":  2022,
+                                                        "description":  "PharmaBoardroom подтверждает, что в 2011 году он был General Manager Astellas Russia.",
+                                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 132; https://pharmaboardroom.com/interviews/interview-with-dejan-jovanovic-general-manager-astellas-russia/",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Представительство Astellas Pharma Europe B.V.",
+                                                        "role":  "вице-президент по России и странам СНГ",
+                                                        "start_year":  2005,
+                                                        "end_year":  2021,
+                                                        "description":  null,
+                                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 132",
+                                                        "sector":  "Health Care",
+                                                        "industry_group":  "Pharmaceuticals, Biotechnology \u0026 Life Sciences",
+                                                        "industry":  "Pharmaceuticals"
+                                                    },
+                                                    {
+                                                        "organization":  "Ассоциация международных фармацевтических производителей (AIPM)",
+                                                        "role":  "участник создания ассоциации",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Официальная карточка ПРОМОМЕД указывает, что он принимал участие в создании AIPM - одного из ведущих отраслевых объединений на лекарственном рынке. Факт был зафиксирован в round_1 research_notes (Professional experience: AIPM), но не был перенесен в JSON при первичном заполнении; добавлен в рамках качественного прохода.",
+                                                        "source":  "https://promomed.pro/o-gruppe/",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Astellas Pharma, ICN Pharmaceuticals, Sanofi, Abbott Laboratories",
+                                                        "role":  "генеральный директор / глава представительства по России и Восточной Европе",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Официальная карточка ПРОМОМЕД обобщает прежний опыт в международных фармкомпаниях.",
+                                                        "source":  "https://promomed.pro/o-gruppe/",
+                                                        "sector":  "Health Care",
+                                                        "industry_group":  "Pharmaceuticals, Biotechnology \u0026 Life Sciences",
+                                                        "industry":  "Pharmaceuticals"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV lists Деян Йованович as independent board member for PRMD."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf",
+                                        "title":  "ПРОМОМЕД. Годовой отчет 2024",
+                                        "fact":  "Страница 132: образование и опыт в Astellas; страницы 134-136 подтверждают состав Совета директоров и комитеты на 31.12.2024."
+                                    },
+                                    {
+                                        "url":  "https://promomed.pro/o-gruppe/",
+                                        "title":  "О компании «ПРОМОМЕД»",
+                                        "fact":  "Официальная карточка подтверждает образование, статус независимого директора и прежний опыт в Astellas, ICN, Sanofi и Abbott."
+                                    },
+                                    {
+                                        "url":  "https://pharmaboardroom.com/interviews/interview-with-dejan-jovanovic-general-manager-astellas-russia/",
+                                        "title":  "Interview with Dejan Jovanovic, General manager, Astellas Russia",
+                                        "fact":  "Интервью 2011 года подтверждает идентичность Деяна Йовановича как руководителя Astellas Russia."
+                                    }
+                                ],
+                    "notes":  "Публикации, патенты и h-index не найдены. Данные о раннем опыте до Astellas сохранены только в той мере, в какой они указаны официальной карточкой. Качественный проход 2026-07-31: SIMPLE OMISSION исправлен — round_1 notes зафиксировали факт участия в создании AIPM (Ассоциация международных фармацевтических производителей) в разделе 'Professional experience', но запись не была перенесена в JSON при первичном заполнении; добавлена как отдельная запись professional_experience (GICS корректно null — AIPM это отраслевая ассоциация, некоммерческая структура). Свежий фетч pharmaboardroom.com (уже цитировался) заново проверен на предмет образования и точных дат ICN/Sanofi/Abbott — новых фактов не найдено, гэп остаётся. Дальнейший точечный поиск не выполнен из-за исчерпанного лимита WebSearch в сессии."
+                },
+                {
+                    "name":  "Юрий Федорович Литвищенко",
+                    "current_role":  "Независимый член Совета директоров ПАО \"ПРОМОМЕД\"; член Комитета по стратегии и устойчивому развитию",
+                    "company_name":  "ПАО \"ПРОМОМЕД\"",
+                    "education":  [
+                                      {
+                                          "institution":  "РНИМУ им. Н. И. Пирогова",
+                                          "program":  "Лечебное дело",
+                                          "qualification":  "врач-лечебник",
+                                          "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 132; https://promomed.pro/o-gruppe/",
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "Management Centre Europe (MCE), Ashridge College, Bocconi University",
+                                          "program":  "executive education",
+                                          "qualification":  null,
+                                          "source":  "https://promomed.pro/o-gruppe/",
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "degree":  "кандидат медицинских наук",
+                                        "field":  "психиатрия по официальной карточке; локальный отчет указывает степень без специализации",
+                                        "year":  null,
+                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 132; https://promomed.pro/o-gruppe/",
+                                        "qualification_degree":  null
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"ПРОМОМЕД\"",
+                                                        "role":  "независимый директор",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Впервые избран в Совет директоров 14.05.2024.",
+                                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страницы 132, 134-136; https://promomed.pro/o-gruppe/",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ООО \"Скопинфарм\"",
+                                                        "role":  "руководитель госпитального отдела (продажи и маркетинг)",
+                                                        "start_year":  2021,
+                                                        "end_year":  2021,
+                                                        "description":  null,
+                                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 132",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ООО \"Кьези Фармасьютикалс\" / Chiesi Pharmaceuticals",
+                                                        "role":  "генеральный директор",
+                                                        "start_year":  2007,
+                                                        "end_year":  2020,
+                                                        "description":  "Официальная карточка также указывает опыт в Sanofi, AstraZeneca и Chiesi Pharmaceuticals.",
+                                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 132; https://promomed.pro/o-gruppe/",
+                                                        "sector":  "Health Care",
+                                                        "industry_group":  "Pharmaceuticals, Biotechnology \u0026 Life Sciences",
+                                                        "industry":  "Pharmaceuticals"
+                                                    },
+                                                    {
+                                                        "organization":  "Независимые консалтинговые проекты в здравоохранении и фармации",
+                                                        "role":  "консультант",
+                                                        "start_year":  2021,
+                                                        "end_year":  null,
+                                                        "description":  "Указано официальной карточкой ПРОМОМЕД.",
+                                                        "source":  "https://promomed.pro/o-gruppe/",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV lists Юрий Литвищенко as independent board member for PRMD."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf",
+                                        "title":  "ПРОМОМЕД. Годовой отчет 2024",
+                                        "fact":  "Страница 132: образование, кандидатская степень, опыт в Скопинфарм и Chiesi; страницы 134-136 подтверждают состав Совета директоров и комитеты."
+                                    },
+                                    {
+                                        "url":  "https://promomed.pro/o-gruppe/",
+                                        "title":  "О компании «ПРОМОМЕД»",
+                                        "fact":  "Официальная карточка подтверждает роль независимого директора, образование, executive education и карьеру в Sanofi, AstraZeneca, Chiesi Pharmaceuticals."
+                                    }
+                                ],
+                    "notes":  "Независимого открытого источника, полностью подтверждающего образование и степень, кроме корпоративного раскрытия, не найдено; опыт Chiesi частично подтвержден локальным отчетом. h-index не подтвержден. Качественный проход 2026-07-31: сверка с годовым отчетом (стр. 132) — образование, степень и опыт Скопинфарм/Кьези совпадают, расхождений нет. Свежий фетч промомед.pro (в рамках общей проверки) не дал новых лет для executive education (MCE/Ashridge/Bocconi). Независимый первичный источник образования по-прежнему не найден; точечный поиск (CyberLeninka и др.) не выполнен в этом раунде из-за исчерпанного лимита WebSearch в сессии — гэп остаётся для будущего раунда."
+                },
+                {
+                    "name":  "Михаил Игоревич Малиновский",
+                    "current_role":  "Неисполнительный член Совета директоров ПАО \"ПРОМОМЕД\"",
+                    "company_name":  "ПАО \"ПРОМОМЕД\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Московский государственный юридический университет им. О. Е. Кутафина",
+                                          "program":  "Юриспруденция",
+                                          "qualification":  null,
+                                          "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 133; https://promomed.pro/o-gruppe/",
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "Российская школа частного права",
+                                          "program":  null,
+                                          "qualification":  null,
+                                          "source":  "https://www.lecap.ru/team/mihail-malinovskij",
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "Институт законодательства и сравнительного правоведения при Правительстве Российской Федерации",
+                                          "program":  "Аспирантура",
+                                          "qualification":  null,
+                                          "source":  "https://promomed.pro/o-gruppe/; https://www.lecap.ru/team/mihail-malinovskij (уточняет: аспирантура)",
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "Cambridge General Management Certificate (программа Raising Capital)",
+                                          "program":  "Привлечение капитала (Raising Capital)",
+                                          "qualification":  "Cambridge General Management Certificate",
+                                          "source":  "https://www.lecap.ru/team/mihail-malinovskij",
+                                          "qualification_degree":  "Professional certification"
+                                      },
+                                      {
+                                          "institution":  "Нижегородская духовная семинария",
+                                          "program":  null,
+                                          "qualification":  null,
+                                          "source":  "https://www.lecap.ru/team/mihail-malinovskij",
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "Центр защиты прав человека им. А. Аметистова",
+                                          "program":  "Образовательная программа защиты прав человека",
+                                          "qualification":  null,
+                                          "source":  "https://promomed.pro/o-gruppe/",
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"ПРОМОМЕД\"",
+                                                        "role":  "неисполнительный директор",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Впервые избран в Совет директоров 14.05.2024.",
+                                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страницы 133-134; https://promomed.pro/o-gruppe/",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ООО \"ЛКП\" / юридическая фирма LECAP",
+                                                        "role":  "генеральный директор / основатель и партнер",
+                                                        "start_year":  2012,
+                                                        "end_year":  null,
+                                                        "description":  "Локальный отчет указывает ООО «ЛКП», генеральный директор; сайт LECAP и IPO-гид Мосбиржи указывают его как основателя и партнера LECAP.",
+                                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 133; https://ipoguide.moex.com/7/index.html",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Московская биржа\"",
+                                                        "role":  "председатель Комитета по первичному рынку акций Правления",
+                                                        "start_year":  2023,
+                                                        "end_year":  null,
+                                                        "description":  "Официальная карточка ПРОМОМЕД и IPO-гид Московской биржи подтверждают роль председателя комитета; текущие после 2024 роли СПБ Биржи не перенесены в контекст 2024 года.",
+                                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 133; https://ipoguide.moex.com/7/index.html",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "АО ИК \"Битца-Инвест\"",
+                                                        "role":  "член Совета директоров",
+                                                        "start_year":  2023,
+                                                        "end_year":  null,
+                                                        "description":  null,
+                                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 133",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+                                         {
+                                             "description":  "IPO-гид Московской биржи указывает более 50 публикаций по проблемным вопросам рынка ценных бумаг.",
+                                             "source":  "https://ipoguide.moex.com/7/index.html"
+                                         }
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV lists Михаил Малиновский as non-executive board member for PRMD."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf",
+                                        "title":  "ПРОМОМЕД. Годовой отчет 2024",
+                                        "fact":  "Страница 133: образование, опыт LECAP, Московская биржа, Битца-Инвест; страница 134 подтверждает состав Совета директоров."
+                                    },
+                                    {
+                                        "url":  "https://promomed.pro/o-gruppe/",
+                                        "title":  "О компании «ПРОМОМЕД»",
+                                        "fact":  "Официальная карточка подтверждает роль неисполнительного директора, образование и профессиональную специализацию."
+                                    },
+                                    {
+                                        "url":  "https://ipoguide.moex.com/7/index.html",
+                                        "title":  "Руководство для эмитента. IPO-гид Московской биржи",
+                                        "fact":  "IPO-гид указывает Михаила Малиновского как партнера и основателя LECAP, председателя Комитета по первичному рынку акций Московской биржи и консультанта IPO ПАО «ПРОМОМЕД»."
+                                    },
+                                    {
+                                        "url":  "https://www.lecap.ru/team/mihail-malinovskij",
+                                        "title":  "Михаил Малиновский - команда LECAP",
+                                        "fact":  "Раунд 1 отметил эту страницу как открытую не полностью; при качественном проходе 2026-07-31 страница прочитана заново (два независимых прохода дали идентичный список 'Образование'): Московская государственная юридическая академия, Российская школа частного права, аспирантура Института законодательства и сравнительного правоведения при Правительстве РФ, курс Cambridge General Management Certificate (Raising Capital), образовательная программа защиты прав человека Центра им. Э. А. Аметистова, Нижегородская духовная семинария."
+                                    }
+                                ],
+                    "notes":  "Данные о публикациях сохранены как суммарный факт из IPO-гида, без перечисления отдельных работ. Качественный проход 2026-07-31: страница lecap.ru/team/mihail-malinovskij перечитана полностью (была частично открыта в раунде 1); добавлены 3 новых образовательных факта (Российская школа частного права, курс Cambridge GMC, Нижегородская духовная семинария) и уточнение 'аспирантура' для Института законодательства."
+                },
+                {
+                    "name":  "Юрий Юрьевич Троянкин",
+                    "current_role":  "Член Совета директоров ПАО \"ПРОМОМЕД\"; директор по персоналу и организационному развитию",
+                    "company_name":  "ПАО \"ПРОМОМЕД\"",
+                    "education":  [
+                                      {
+                                          "institution":  "МФТИ",
+                                          "program":  "Прикладная математика и физика",
+                                          "qualification":  "инженер-физик",
+                                          "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страницы 133 и 142; https://promomed.pro/o-gruppe/",
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "МИПК РЭА им. Г. В. Плеханова / Российский экономический университет им. Г. В. Плеханова",
+                                          "program":  "Финансовое и банковское дело",
+                                          "qualification":  null,
+                                          "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страницы 133 и 142; https://promomed.pro/o-gruppe/",
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "Thunderbird American Graduate School of International Management / CBSD",
+                                          "program":  "SHRM Certification",
+                                          "qualification":  "SHRM Certification",
+                                          "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страницы 133 и 142; https://promomed.pro/o-gruppe/",
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"ПРОМОМЕД\" / ГК \"ПРОМОМЕД\"",
+                                                        "role":  "директор по персоналу и организационному развитию; член Совета директоров",
+                                                        "start_year":  2020,
+                                                        "end_year":  null,
+                                                        "description":  "Присоединился к ПРОМОМЕД в конце 2020 года; в Совет директоров впервые избран 14.05.2024.",
+                                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страницы 133, 142; https://promomed.pro/o-gruppe/",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Организации холдингового типа в банковской/финансовой, нефтяной, машиностроительной, металлургической, ЖКХ, строительной, агро- и легкой промышленности",
+                                                        "role":  "HR-специалист и топ-менеджер",
+                                                        "start_year":  null,
+                                                        "end_year":  2020,
+                                                        "description":  "Локальный и официальный источники описывают более 25 лет HR-опыта, но не раскрывают конкретные работодатели.",
+                                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страницы 133 и 142; https://promomed.pro/o-gruppe/",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV lists Юрий Троянкин as board member for PRMD."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf",
+                                        "title":  "ПРОМОМЕД. Годовой отчет 2024",
+                                        "fact":  "Страницы 133 и 142: образование, HR-опыт и текущая роль; страницы 134-136 подтверждают состав Совета директоров."
+                                    },
+                                    {
+                                        "url":  "https://promomed.pro/o-gruppe/",
+                                        "title":  "О компании «ПРОМОМЕД»",
+                                        "fact":  "Официальная карточка подтверждает должность директора по персоналу и организационному развитию, образование и дату первого избрания в Совет директоров."
+                                    }
+                                ],
+                    "notes":  "Существенная неопределенность: предыдущие работодатели до ПРОМОМЕД не раскрыты поименно в доступных источниках. Факт сохранен как общий отраслевой опыт без конкретизации компаний. Качественный проход 2026-07-31: сверка с годовым отчетом (стр. 133, 142) — образование (МФТИ, Плеханов, Thunderbird/SHRM) и текущая роль полностью совпадают, расхождений нет; свежий фетч промомед.pro (общая проверка) также не назвал конкретных прежних работодателей. Точечный поиск по конкретным работодателям до 2020 года не выполнен в этом раунде из-за исчерпанного лимита WebSearch в сессии — гэп остаётся для будущего раунда."
+                },
+                {
+                    "name":  "Кира Яковлевна Заславская",
+                    "current_role":  "Член Совета директоров ПАО \"ПРОМОМЕД\"; директор по новым продуктам",
+                    "company_name":  "ПАО \"ПРОМОМЕД\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Российский химико-технологический университет им. Д. И. Менделеева",
+                                          "program":  "Химическая технология синтетических биологически активных веществ",
+                                          "qualification":  "инженер; диплом с отличием",
+                                          "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страницы 131 и 142; https://promomed.pro/o-gruppe/",
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "Институт элементоорганических соединений им. А. Н. Несмеянова РАН",
+                                          "program":  "Органическая и элементоорганическая химия; аспирантура",
+                                          "qualification":  null,
+                                          "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страницы 131 и 142; https://promomed.pro/o-gruppe/",
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "Академия PwC",
+                                          "program":  "MBA",
+                                          "qualification":  "MBA",
+                                          "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страницы 131 и 142; https://promomed.pro/o-gruppe/",
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"ПРОМОМЕД\" / ГК \"ПРОМОМЕД\"",
+                                                        "role":  "директор по новым продуктам; член Совета директоров",
+                                                        "start_year":  2021,
+                                                        "end_year":  null,
+                                                        "description":  "ИСПРАВЛЕНО при качественном проходе 2026-07-31: годовой отчет, стр. 131, отдельно датирует именно должность директора по новым продуктам с 2021 года ('С 2021 года по настоящее время — директор по новым продуктам Группы «ПРОМОМЕД»'), тогда как в Группе «ПРОМОМЕД» в целом она работает с 2009 года. Прежняя запись ошибочно объединяла обе даты под start_year=2009; см. отдельную запись ниже про карьеру 2009-2021. В Совет директоров впервые избрана 14.05.2024.",
+                                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 131; https://promomed.pro/o-gruppe/",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"ПРОМОМЕД\" / ГК \"ПРОМОМЕД\"",
+                                                        "role":  "медицинский представитель; далее различные позиции вплоть до топ-менеджера (карьерный рост до должности директора по новым продуктам)",
+                                                        "start_year":  2009,
+                                                        "end_year":  2021,
+                                                        "description":  "Годовой отчет, стр. 142, и официальная карточка: в Группе «ПРОМОМЕД» с 2009 года, прошла путь от медицинского представителя до топ-менеджера компании; в 2021 году назначена директором по новым продуктам (см. отдельную запись выше).",
+                                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 142; https://promomed.pro/o-gruppe/",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+                                                {
+                                                    "description":  "Отвечает за формирование стратегии продуктового портфеля, внедрение новых технологий, организацию доклинических и клинических исследований и вывод продуктов на рынок.",
+                                                    "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 142; https://promomed.pro/o-gruppe/"
+                                                },
+                                                {
+                                                    "description":  "Фармвестник подтверждает выступление Киры Заславской как директора по новым продуктам о стратегии R\u0026D и взаимодействии с R\u0026D-центрами и научными организациями.",
+                                                    "source":  "https://pharmvestnik.ru/content/news/Kira-Zaslavskaya-Nujen-balans-mejdu-razrabotkoi-replikacionnyh-i-innovacionnyh-preparatov.html"
+                                                },
+                                                {
+                                                    "description":  "Медведомости подтверждают участие в проектах по растворению фавипиравира и созданию инъекционного Арепливира.",
+                                                    "source":  "https://www.medvedomosti.media/articles/intervyu-s-kiroy-zaslavskoy-direktorom-po-novym-produktam-gk-promomed/"
+                                                }
+                                            ],
+                    "publications":  [
+                                         {
+                                             "description":  "Официальные корпоративные источники указывают, что Кира Заславская является автором более 50 научных работ; отдельные публикации в рамках текущего исследования не перечислялись.",
+                                             "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 142; https://promomed.pro/o-gruppe/"
+                                         }
+                                     ],
+                    "patents":  [
+                                    {
+                                        "description":  "Официальные корпоративные источники указывают более 20 патентов на изобретения; номера и названия патентов отдельно не подтверждены.",
+                                        "source":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf, страница 142; https://promomed.pro/o-gruppe/"
+                                    }
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV lists Кира Заславская as board member for PRMD."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf",
+                                        "title":  "ПРОМОМЕД. Годовой отчет 2024",
+                                        "fact":  "Страницы 131 и 142: роль, образование, опыт, \u003e50 научных работ и \u003e20 патентов; страница 134 подтверждает состав Совета директоров."
+                                    },
+                                    {
+                                        "url":  "https://promomed.pro/o-gruppe/",
+                                        "title":  "О компании «ПРОМОМЕД»",
+                                        "fact":  "Официальная карточка подтверждает роль директора по новым продуктам, образование, опыт с 2009 года, R\u0026D обязанности, научные работы и патенты."
+                                    },
+                                    {
+                                        "url":  "https://pharmvestnik.ru/content/news/Kira-Zaslavskaya-Nujen-balans-mejdu-razrabotkoi-replikacionnyh-i-innovacionnyh-preparatov.html",
+                                        "title":  "Кира Заславская: «Нужен баланс между разработкой репликационных и инновационных препаратов»",
+                                        "fact":  "Фармвестник подтверждает роль директора по новым продуктам и R\u0026D-повестку компании."
+                                    },
+                                    {
+                                        "url":  "https://www.medvedomosti.media/articles/intervyu-s-kiroy-zaslavskoy-direktorom-po-novym-produktam-gk-promomed/",
+                                        "title":  "Интервью с Кирой Заславской, директором по новым продуктам ГК «Промомед»",
+                                        "fact":  "Интервью 14.04.2024 подтверждает роль Киры Заславской и участие в разработке инъекционного Арепливира."
+                                    }
+                                ],
+                    "notes":  "Публикации и патенты сохранены как агрегированные подтвержденные сведения; индивидуальные записи и h-index не подтверждены. Качественный проход 2026-07-31: исправлена дата в professional_experience — предыдущая запись объединяла год начала работы в группе (2009) и год назначения директором по новым продуктам (2021) под одним start_year=2009; годовой отчет, стр. 131, явно разделяет эти две даты. Запись разбита на 2 строки, обе даты сохранены."
+                }
+            ],
+    "board_sources":  [
+                          {
+                              "url":  "MOEXBMI_2024.csv",
+                              "title":  "MOEXBMI_2024.csv",
+                              "fact":  "CSV contains predefined company people and positions used as pipeline input."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/PRMD/1.ПРОМОМЕД Годовой отчет 2024.pdf",
+                              "title":  "ПРОМОМЕД. Годовой отчет 2024",
+                              "fact":  "Страницы 131-134: биографии членов Совета директоров; страница 134: с 14.05.2024 избран состав из 9 человек; страницы 135-136: участие и комитеты Совета директоров в 2024 году."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/PRMD/PROMOMED IFRS Cons 24.pdf",
+                              "title":  "Группа «Промомед». Консолидированная финансовая отчетность за 2024 год",
+                              "fact":  "Страница 1: Ефремов Александр Игоревич подписывает отчетность как генеральный директор ПАО «ПРОМОМЕД»."
+                          },
+                          {
+                              "url":  "https://promomed.pro/o-gruppe/korporativnoe-upravlenie/",
+                              "title":  "Корпоративное управление «ПРОМОМЕД»",
+                              "fact":  "Официальная страница раскрывает структуру корпоративного управления, состав Совета директоров и комитетов, а также руководство."
+                          },
+                          {
+                              "url":  "https://promomed.pro/o-gruppe/",
+                              "title":  "О компании «ПРОМОМЕД»",
+                              "fact":  "Официальная страница содержит персональные карточки руководителей и директоров, включая даты первого избрания в Совет директоров."
+                          }
+                      ],
+    "sources":  [
+                    {
+                        "url":  "https://promomed.pro/investoram/otchety-i-rezultaty/",
+                        "title":  "Отчеты и результаты «ПРОМОМЕД»",
+                        "fact":  "Официальная IR-страница содержит годовой отчет 2024 и финансовую отчетность по МСФО за 2024 год, соответствующие локальным PDF."
+                    },
+                    {
+                        "url":  "https://www.ras.ru/news/shownews.aspx?id=c76d2741-eb74-4f5a-a1b4-602a8886dcd0",
+                        "title":  "Академику Маеву Игорю Вениаминовичу - 60 лет!",
+                        "fact":  "Использовано для проверки образования, академического статуса и научной деятельности И. В. Маева."
+                    },
+                    {
+                        "url":  "https://www.vedomosti.ru/partner/characters/2021/08/19/882774-petr-belii",
+                        "title":  "Петр Белый: «Производить субстанции так же важно, как осваивать космос»",
+                        "fact":  "Использовано для проверки образования, кандидатской степени и ранней предпринимательской карьеры П. А. Белого."
+                    },
+                    {
+                        "url":  "https://medvestnik.ru/directory/persons/Efremov-Aleksandr-Igorevich.html",
+                        "title":  "Александр Игоревич Ефремов - Медвестник",
+                        "fact":  "Использовано для проверки ранней карьеры А. И. Ефремова."
+                    },
+                    {
+                        "url":  "https://ipoguide.moex.com/7/index.html",
+                        "title":  "Руководство для эмитента. IPO-гид Московской биржи",
+                        "fact":  "Использовано для проверки опыта М. И. Малиновского и его связи с IPO ПАО «ПРОМОМЕД»."
+                    }
+                ],
+    "validation_notes":  "Обработано 10 строк CSV и 9 уникальных персон: Александр Игоревич Ефремов и Александр Ефремов объединены после проверки локального годового отчета и официального сайта. Проверено 2 локальных документа PRMD: годовой отчет 2024 на 168 страниц и консолидированная финансовая отчетность 2024 на 79 страниц. Выполнено 9 person-level research rounds. Образование найдено для всех 9 уникальных персон; h-index не подтвержден ни для кого и оставлен null. Существенная неопределенность сохраняется по предыдущим работодателям Юрия Троянкина, которые раскрыты только обобщенно; более слабая опора также у Юрия Литвищенко по независимому подтверждению образования и степени. Для Кирилла Рубинского внешний источник подтверждает прежнюю карьеру, а связь с ПРОМОМЕД подтверждена корпоративными источниками. Исключены однофамильцы: актер/исторические профили Александра Ефремова, другие Петр Белый/Юрий Троянкин/Михаил Малиновский вне фармы и корпоративного права, академические авторы с совпадающими фамилиями без связи с ПРОМОМЕД. Поиск считается завершенным, потому что локальные документы содержат полные 2024-биографии Совета директоров и управкомитета, официальные страницы подтверждают персональные карточки, а внешние источники проверили ключевые карьерные и научные факты там, где они были найдены. Не переносились в контекст 2024 года позднейшие должности, явно относящиеся к 2025-2026 годам. QUALITY PASS ROUND 1 (2026-07-31): Шаг 0 — сверка с git HEAD (commit f973022) не выявила регрессии, текущий файл на диске идентичен HEAD, восстановление не потребовалось. Скрестные ссылки с локальным PDF годового отчета (страницы 130-136, 141-142, извлечены напрямую через PyMuPDF) подтвердили точность professional_experience/education почти по всем 9 персонам за одним исключением. Найдено и исправлено: (1) SIMPLE OMISSION — год окончания ВМА Ефремова (1995, medvestnik.ru, ранее отсутствовал); (2) SIMPLE OMISSION — год окончания МГМСУ Маева (1987, с отличием, был в round_1 notes/ras.ru, но не перенесен в JSON); (3) SIMPLE OMISSION — отсутствовавшая запись professional_experience Йовановича про AIPM (была в round_1 notes, не перенесена в JSON); (4) SIMPLE OMISSION — 3 новых образовательных факта Малиновского (Российская школа частного права, курс Cambridge General Management Certificate, Нижегородская духовная семинария) со свежей проверки lecap.ru/team/mihail-malinovskij (round_1 отметил страницу как открытую не полностью); (5) GENUINE INCONSISTENCY исправлена — Заславская: start_year=2009 для роли 'директор по новым продуктам' ошибочно объединял год начала работы в группе (2009) и год назначения на должность (2021, по стр. 131 годового отчета); запись разбита на 2 строки, обе даты сохранены. GENUINE INCONSISTENCY расследованы и оставлены без изменений (уже корректно отражены/обоснованно не объединены): Ефремов — Медвестник называет 'MBA в академии городской службы' 2005 года, официальные источники — РАГС при Президенте РФ; решено не сливать записи без независимого доказательства идентичности институтов. Маев — 'с 2023' (годовой отчет) vs '16.07.2021' (офиц. сайт) для членства в СД — подтверждено, что это разные корпоративные органы (ООО «ПРОМОМЕД ДМ» 2021-2023 vs ПАО «ПРОМОМЕД» с 2023), обе записи уже в JSON. GICS LABEL CORRECTNESS: проверены все 3 non-null триплета в professional_experience (2 записи Йовановича, 1 запись Литвищенко) — все точно соответствуют gics_taxonomy.json (Health Care / Pharmaceuticals, Biotechnology & Life Sciences / Pharmaceuticals), исправлений не потребовалось; GICS-null записи не трогались (вне рамок задачи — только non-null триплеты подлежат проверке корректности). HONEST-GAP FOLLOW-UP: ВАЖНОЕ ОГРАНИЧЕНИЕ — лимит WebSearch в сессии был исчерпан (200/200) в начале раунда, до того как удалось приступить к большинству точечных гэпов; использован WebFetch по уже известным URL там, где это было возможно (medvestnik.ru, ras.ru [403 Forbidden], ru.wikipedia.org, lecap.ru, pharmaboardroom.com, ipoguide.moex.com, medvedomosti.media, promomed.pro — полный свежий прогон). Нерешенные гэпы (не найдено новых фактов в этом раунде, требуют WebSearch в следующем): год защиты кандидатской степени Ефремова; h-index/год докторской защиты/номера патентов Маева; независимый первичный источник образования Литвищенко и Йовановича; детальные годы ICN/Sanofi/Abbott Йовановича; конкретные работодатели Троянкина до 2020 года; список публикаций/номера патентов/h-index Заславской и Белого. Ни один корректно-неклассифицируемый null (некоммерческие объединения, госорганы) не был тронут; ни один ранее подтвержденный факт не был удален или укорочен.",
+    "sector":  "Health Care",
+    "industry_group":  "Pharmaceuticals, Biotechnology \u0026 Life Sciences",
+    "industry":  "Pharmaceuticals"
+}

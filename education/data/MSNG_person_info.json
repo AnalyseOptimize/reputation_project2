@@ -1,0 +1,1050 @@
+{
+  "company_name": "ПАО \"Мосэнерго\"",
+  "company_ticker": "MSNG",
+  "ceo": {
+    "name": "Александр Александрович Бутко",
+    "current_role": "Управляющий директор / CEO-equivalent; CSV также содержит его как Chief Executive Officer и Director/Board Member. В 2024 году полномочия единоличного исполнительного органа ПАО \"Мосэнерго\" осуществляла управляющая организация, поэтому роль не трактуется как самостоятельный статутный ЕИО.",
+    "company_name": "ПАО \"Мосэнерго\"",
+    "education": [
+      {
+        "institution": "Рижский институт инженеров гражданской авиации имени Ленинского комсомола",
+        "year": 1986,
+        "details": "Высшее образование по специальности, связанной с эксплуатацией летательных аппаратов и двигателей (РКИИГА); источник вторичный, использован с осторожностью. QUALITY PASS ROUND 1 (2026-07-30): институт исправлен; предыдущий Round 2 (2026-07-19) заявил в notes, что нашёл это исправление при повторном чтении того же источника, но фактически JSON не был обновлен и всё ещё содержал \"Московский энергетический институт\" (round-1 значение). Перепроверено прямым повторным WebFetch того же URL в эту сессию: страница явно называет РКИИГА, 1986 год выпуска.",
+        "source_url": "https://energostrana.ru/persons/butko-aleksandr-aleksandrovich.html",
+        "qualification_degree": "Specialist degree"
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "ООО \"Межрегионэнергострой\"",
+        "role": "Генеральный директор",
+        "start_year": 2007,
+        "end_year": 2015,
+        "description": "Дочерняя строительная структура Газпром энергохолдинга, курировал крупные проекты энергетического строительства. QUALITY PASS ROUND 1 (2026-07-30): запись восстановлена; предыдущий Round 2 заявил в notes о её добавлении, но запись фактически отсутствовала в professional_experience. Перепроверено прямым повторным WebFetch того же уже процитированного источника (energostrana.ru).",
+        "source_url": "https://energostrana.ru/persons/butko-aleksandr-aleksandrovich.html",
+        "sector": "Industrials",
+        "industry_group": "Capital Goods",
+        "industry": "Construction & Engineering"
+      },
+      {
+        "organization": "ПАО \"Мосэнерго\"",
+        "role": "Управляющий директор",
+        "start_year": 2015,
+        "end_year": null,
+        "description": "CSV содержит отдельную строку о членстве в Совете директоров с 2016-05-30; локальный годовой отчет 2024 подтверждает избрание нового состава Совета директоров 25.06.2024, но без персонального списка.",
+        "source_url": "MOEXBMI_Отчеты_2024/MSNG/МСФО на 31.12.2024.pdf",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Independent Power and Renewable Electricity Producers"
+      },
+      {
+        "organization": "ПАО \"Мосэнерго\"",
+        "role": "Член Совета директоров",
+        "start_year": 2016,
+        "end_year": null,
+        "description": "CSV содержит отдельную строку о членстве в Совете директоров с 2016-05-30; локальный годовой отчет 2024 подтверждает избрание нового состава Совета директоров 25.06.2024, но без персонального списка.",
+        "source_url": "MOEXBMI_Отчеты_2024/MSNG/Годовой отчет Мосэнерго 2024 сокр.pdf",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Independent Power and Renewable Electricity Producers"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "CSV содержит Aleksandr Aleksandrovich Butko как Chief Executive Officer с 2015-04-30 и отдельной строкой как Director/Board Member с 2016-05-30."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/MSNG/Годовой отчет Мосэнерго 2024 сокр.pdf",
+        "title": "Годовой отчет ПАО \"Мосэнерго\" за 2024 год",
+        "fact": "Страница 19: в 2024 году функции ЕИО осуществляла управляющая организация; коллегиальный исполнительный орган не предусмотрен. Страница 20: 25.06.2024 избран новый Совет директоров."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/MSNG/МСФО на 31.12.2024.pdf",
+        "title": "Консолидированная финансовая отчетность ПАО \"Мосэнерго\" за 2024 год",
+        "fact": "Страницы 9-12: отчетность подписана А.А. Бутко как управляющим директором."
+      },
+      {
+        "url": "https://energostrana.ru/persons/butko-aleksandr-aleksandrovich.html",
+        "title": "Энергетическая страна: Бутко Александр Александрович",
+        "fact": "Вторичная биография указывает образование и карьерный контур Бутко в энергетике."
+      }
+    ],
+    "notes": "Ключевая роль за 2024 год подтверждена локальной отчетностью; детальное образование основано на вторичном источнике. ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): corrected education institution (see education[] description for full reasoning); added a previously-missing 2007-2015 pre-Mosenergo professional_experience entry (Межрегионэнергострой) from the same already-cited source, now re-read in full. GICS sector/industry_group/industry added to company level and to every professional_experience entry. QUALITY PASS ROUND 1 (2026-07-30): found that Round 2's two claimed fixes above were never actually applied to the JSON -- education still said \"Московский энергетический институт\" and the Межрегионэнергострой entry was entirely absent, while the Мосэнерго \"Управляющий директор\" entry carried the Construction & Engineering GICS triple that should have belonged to the new Межрегионэнергострой entry instead (likely the root cause: the GICS triple was written to the wrong entry and the new entry was never created). Re-verified via a fresh WebFetch of the same already-cited energostrana.ru URL and confirmed both facts are genuinely stated there; applied both corrections and restored the Мосэнерго entry's GICS to Utilities/Utilities/Independent Power and Renewable Electricity Producers."
+  },
+  "tmt": [
+    {
+      "name": "Денис Сергеевич Ворончихин",
+      "current_role": "Контакт для инвесторов и аналитиков",
+      "company_name": "ПАО \"Мосэнерго\"",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ОАО \"Третья генерирующая компания оптового рынка электроэнергии\" (ОГК-3)",
+          "role": "Главный специалист по работе с инвесторами",
+          "start_year": null,
+          "end_year": null,
+          "description": "Профиль Executive.ru указывает предыдущую работу в ОГК-3 в сфере инвесторских отношений (роудшоу, годовые отчеты для инвесторов, взаимодействие с аналитиками) до перехода в Мосэнерго; точные даты в источнике не приведены. QUALITY PASS ROUND 1 (2026-07-30): запись добавлена -- Round 2 уже процитировал этот факт в sources[], но соответствующая запись professional_experience фактически отсутствовала; восстановлена после повторного WebFetch того же уже процитированного источника.",
+          "source_url": "https://www.e-xecutive.ru/users/327398-denis-voronchihin",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО \"Мосэнерго\"",
+          "role": "Investor Relations Contact",
+          "start_year": null,
+          "end_year": null,
+          "description": "Годовой отчет 2024 указывает его контактным лицом для инвесторов и аналитиков.",
+          "source_url": "MOEXBMI_Отчеты_2024/MSNG/Годовой отчет Мосэнерго 2024 сокр.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Denis Sergeyevich Voronchikhin как Investor Relations Contact."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MSNG/Годовой отчет Мосэнерго 2024 сокр.pdf",
+          "title": "Годовой отчет ПАО \"Мосэнерго\" за 2024 год",
+          "fact": "Страница 71: для инвесторов и аналитиков указан Ворончихин Денис Сергеевич."
+        },
+        {
+          "url": "https://www.e-xecutive.ru/users/327398-denis-voronchihin",
+          "title": "Executive.ru: профиль Дениса Ворончихина",
+          "fact": "Профессиональный профиль подтверждает специализацию в инвесторских отношениях и прежнюю работу в ОГК-3."
+        }
+      ],
+      "notes": "Образование и предыдущий опыт в открытых источниках не подтверждены. ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): targeted re-search found one new pre-Mosenergo professional_experience fact (OGK-3 IR role) via Executive.ru; education remains unconfirmed after this round's re-check and stays null rather than guessed. QUALITY PASS ROUND 1 (2026-07-30): the OGK-3 fact Round 2 claimed to have added was actually missing from professional_experience (only cited in sources[]); restored as its own entry after re-fetching the same URL. Bounded honest-gap follow-up for education (WebSearch budget already exhausted this session; used WebFetch against Yandex/Bing result pages instead) -- fresh queries tried: \"Ворончихин Денис Сергеевич\" образование вуз (DDG, blocked by CAPTCHA); Yandex text search \"Ворончихин Денис Сергеевич\" образование (returned only INN/business-registry and court-record hits for a same-name entrepreneur/founder of ООО \"Премиум-НЕТ\", not tied to Mosenergo/OGK-3/IR -- treated as an unconfirmed possible namesake, not incorporated). No education source found; field stays null."
+    },
+    {
+      "name": "Александр Алексеевич Афанасьев",
+      "current_role": "Руководитель по управлению персоналом / Human Resources Officer",
+      "company_name": "ПАО \"Мосэнерго\"",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Мосэнерго\"",
+          "role": "Human Resources Officer",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "CSV содержит дату 2019-04-30; профессиональные профили связывают его с HR/social-policy функцией Мосэнерго.",
+          "source_url": "MOEXBMI_2024.csv",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Alexander Alekseevich Afanasiev как Human Resources Officer с 2019-04-30."
+        },
+        {
+          "url": "https://roscongress.ru/speakers/afanasev-aleksandr-41082/",
+          "title": "Roscongress: Афанасьев Александр",
+          "fact": "Профессиональный профиль используется как дополнительный идентификационный источник по HR/social-policy роли в Мосэнерго."
+        }
+      ],
+      "notes": "Локальные отчеты 2024 не содержат его биографии; образование не подтверждено. ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): targeted re-search for education found only a namesake -- a РУВИКИ biography entry for a different, much older Aleksandr Afanasiev (1961 graduate of the Voronezh Engineering-Construction Institute, later a 1970s academic administrator), rejected per project rule against mixing namesakes (age/era do not match a current Mosenergo HR director). A secondary snippet described this HR director's own profile as having more than 20 years of personnel-management experience in organizations with up to 24,000 employees, and joint activity with MPEI (Moscow Power Engineering Institute) on training projects, but did not state which institution he himself graduated from, so education remains null rather than guessed. GICS added to the existing professional_experience entry. QUALITY PASS ROUND 1 (2026-07-30) bounded honest-gap follow-up (WebSearch budget exhausted; used WebFetch against Yandex result pages instead) -- fresh queries tried: \"Афанасьев Александр Алексеевич\" Мосэнерго образование институт; \"Афанасьев Александр Алексеевич\" Мосэнерго окончил. Results (Union-aees.ru, VK.com, Myseldon.com, Mosenergo_life Telegram) confirmed only his HR-director role at conferences/seminars/tournaments, no education or institution named in any of them. Still unresolved; education stays null."
+    },
+    {
+      "name": "Елена Юрьевна Новенькова",
+      "current_role": "Главный бухгалтер / Corporate Officer",
+      "company_name": "ПАО \"Мосэнерго\"",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Мосэнерго\"",
+          "role": "Главный бухгалтер",
+          "start_year": null,
+          "end_year": null,
+          "description": "Финансовая отчетность за 2024 год подписана Е.Ю. Новеньковой как главным бухгалтером.",
+          "source_url": "MOEXBMI_Отчеты_2024/MSNG/МСФО на 31.12.2024.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Elena Yuryevna Novenkova как Corporate Officer/Principal."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MSNG/МСФО на 31.12.2024.pdf",
+          "title": "Консолидированная финансовая отчетность ПАО \"Мосэнерго\" за 2024 год",
+          "fact": "Страницы 9-12: отчетность подписана Е.Ю. Новеньковой как главным бухгалтером."
+        }
+      ],
+      "notes": "CSV дает более общий функциональный ярлык; локальная отчетность уточняет роль главного бухгалтера. ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): targeted re-search for education/prior career found no additional public source beyond corporate-database roster listings (Bloomberg, MarketScreener, The Official Board) that repeat only the chief-accountant role already confirmed by the 2024 IFRS signature; education stays null rather than guessed. GICS added to the existing professional_experience entry. QUALITY PASS ROUND 1 (2026-07-30) bounded honest-gap follow-up (WebSearch budget exhausted; used WebFetch against Yandex result pages instead) -- fresh queries tried: \"Новенькова Елена Юрьевна\" главный бухгалтер карьера ОГК ТГК; \"Новенькова Елена Юрьевна\" окончила. Found only birth year (1974) and a repeat of the chief-accountant title in mosenergo.gazprom.ru/moek.ru issuer reports; one snippet appeared to mislabel her as \"Управляющий директор\" but this looks like a document-extraction artifact from a multi-person roster table (that title belongs to Butko in the same filing), not a real role change, so it was not incorporated. No education source found; field stays null."
+    },
+    {
+      "name": "Анна Александровна Ефимова",
+      "current_role": "Руководитель юридической функции / General Counsel",
+      "company_name": "ПАО \"Мосэнерго\"",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Мосэнерго\"",
+          "role": "General Counsel",
+          "start_year": 2000,
+          "end_year": null,
+          "description": "CSV содержит дату 2000-12-31 для правовой функции; дополнительные профессиональные поиски подтверждают юридический контекст, но не дают полноценной биографии.",
+          "source_url": "MOEXBMI_2024.csv",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "Московский государственный юридический университет имени О.Е. Кутафина (МГЮА)",
+          "role": "Преподаватель кафедры энергетического права",
+          "start_year": null,
+          "end_year": null,
+          "description": "QUALITY PASS ROUND 1 (2026-07-30) honest-gap follow-up: два независимых источника прямо связывают эту функцию с той же Ефимовой А.А. из Мосэнерго в одном предложении, поэтому это НЕ та же ситуация, что отклоненный в Round 2 однофамилец \"заместитель ректора\" -- это подтвержденная совмещенная преподавательская позиция того же человека, а не собственное образование Ефимовой. Образование самой Ефимовой (где она сама училась) по-прежнему не подтверждено.",
+          "source_url": "https://www.msal.ru/upload/medialibrary/5ab/Buklet_Magistry_Energetika_-2018_2019.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Anna Alexandrovna Efimova как General Counsel с 2000-12-31."
+        },
+        {
+          "url": "https://www.marketscreener.com/quote/stock/MOSENERGO-PAO-9059288/company/",
+          "title": "MarketScreener: Mosenergo PAO company management",
+          "fact": "Вторичный профиль используется как вспомогательная текущая ростер-проверка управленческого состава."
+        },
+        {
+          "url": "https://www.msal.ru/upload/medialibrary/5ab/Buklet_Magistry_Energetika_-2018_2019.pdf",
+          "title": "МГЮА им. О.Е. Кутафина: буклет магистратуры по энергетике 2018/2019",
+          "fact": "\"Ефимова Анна Александровна — преподаватель кафедры энергетического права, заместитель генерального директора по правовым вопросам ПАО «Мосэнерго».\" Корроборировано также alrf.ru (состав Комиссии по энергетическому праву): \"Ефимова Анна Александровна Заместитель управляющего директора – директор по правовым вопросам ПАО «Мосэнерго», преподаватель кафедры энергетического права Университета имени О.Е. Кутафина (МГЮА).\""
+        }
+      ],
+      "notes": "Образование, степени и предыдущие работодатели не подтверждены надежными открытыми источниками. ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): role title refined via Bloomberg roster listing. Targeted re-search for education found only a namesake -- an Anna Efimova who is deputy rector/assistant professor at Kutafin Moscow State Law University (MGYuA) -- explicitly rejected as a different individual per project rule against mixing namesakes (no Mosenergo/energy-sector anchor); education stays null rather than guessed. QUALITY PASS ROUND 1 (2026-07-30) bounded honest-gap follow-up (WebSearch budget exhausted; used WebFetch against Yandex result pages instead) -- fresh queries tried: \"Ефимова Анна Александровна\" Мосэнерго юрист карьера правовой департамент; \"Ефимова Анна Александровна\" Мосэнерго окончила; \"Ефимова Анна Александровна\" Мосэнерго энергетического права МГЮА. The last query found a genuine (not namesake) concurrent adjunct-lecturer role at Kutafin's energy-law department, confirmed by two independent PDFs (msal.ru official university booklet, alrf.ru Russian Arbitration Association energy-law commission roster) that both name her Mosenergo legal-director title in the same sentence -- added as a new professional_experience entry. This is distinct from Round 2's rejected \"deputy rector\" namesake claim (a different, senior administrative role with no Mosenergo anchor). Her own education (where she studied) remains unconfirmed; stays null."
+    },
+    {
+      "name": "Денис Владимирович Федоров",
+      "current_role": "Член Совета директоров ПАО \"Мосэнерго\" по CSV/current roster; генеральный директор ООО \"Газпром энергохолдинг\" в корпоративных биографиях",
+      "company_name": "ПАО \"Мосэнерго\"",
+      "education": [
+        {
+          "institution": "Московский государственный технический университет имени Н.Э. Баумана",
+          "year": null,
+          "details": "Специальность/квалификация \"экономист-менеджер\" по источнику OGK-2. QUALITY PASS ROUND 1 (2026-07-30): институт приведен к канонической форме из university_names.json (был указан как алиас \"МГТУ имени Н.Э. Баумана\"); Round 2 заявил, что эта нормализация уже была сделана, но фактически не была.",
+          "source_url": "https://ogk2.ru/report/5/4/",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Национальный исследовательский университет «МЭИ»",
+          "year": null,
+          "details": "Очная аспирантура по источнику OGK-2. QUALITY PASS ROUND 1 (2026-07-30): институт приведен к канонической форме из university_names.json (был указан как алиас \"Московский энергетический институт\"); Round 2 заявил, что эта нормализация уже была сделана, но фактически не была.",
+          "source_url": "https://ogk2.ru/report/5/4/",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат экономических наук",
+          "source_url": "https://ogk2.ru/report/5/4/",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Газпром\"",
+          "role": "Начальник Управления",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "Указано в корпоративной биографии OGK-2.",
+          "source_url": "https://ogk2.ru/report/5/4/",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ООО \"Газпром энергохолдинг\"",
+          "role": "Генеральный директор",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "Указано в корпоративной биографии OGK-2.",
+          "source_url": "https://ogk2.ru/report/5/4/",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО \"Мосэнерго\"",
+          "role": "Член Совета директоров",
+          "start_year": 2010,
+          "end_year": null,
+          "description": "CSV содержит членство с 2010-06-24; локальный годовой отчет 2024 подтверждает избрание нового состава Совета директоров 25.06.2024, но не раскрывает персональный список.",
+          "source_url": "MOEXBMI_2024.csv",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [
+        {
+          "description": "Ученая степень кандидата экономических наук подтверждена корпоративной биографией; отдельный научный профиль не подтвержден.",
+          "source_url": "https://ogk2.ru/report/5/4/"
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Denis Fedorov как Director/Board Member с 2010-06-24."
+        },
+        {
+          "url": "https://ogk2.ru/report/5/4/",
+          "title": "ОГК-2: отчет о корпоративном управлении",
+          "fact": "Структурированная биография Федорова содержит образование, степень, должности в Газпроме и Газпром энергохолдинге."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MSNG/Годовой отчет Мосэнерго 2024 сокр.pdf",
+          "title": "Годовой отчет ПАО \"Мосэнерго\" за 2024 год",
+          "fact": "Страница 20: 25.06.2024 акционерами избран новый состав Совета директоров; персональный список в локальном отчете не раскрыт."
+        }
+      ],
+      "notes": "По образованию Федорова встречаются конфликтующие биографические указания; сохранены только факты, привязанные к OGK-2. ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): institutions normalized to university_names.json canonical forms; qualification_degree added to both education entries and the degree; degree refined with dual VAK specialty and birth year (1978) from a fuller re-read of the same primary corporate source; dissertation defense institution/year re-search did not produce a confirmed match and remains null. GICS added to all three professional_experience entries. QUALITY PASS ROUND 1 (2026-07-30): found that the institution normalization Round 2 claimed above was never actually applied -- both entries still held the alias forms (\"МГТУ имени Н.Э. Баумана\", \"Московский энергетический институт\") instead of the university_names.json canonical forms; now corrected to \"Московский государственный технический университет имени Н.Э. Баумана\" and \"Национальный исследовательский университет «МЭИ»\"."
+    },
+    {
+      "name": "Елена Владимировна Михайлова",
+      "current_role": "Член/председатель Совета директоров по CSV/current roster; руководитель в ПАО \"Газпром\"",
+      "company_name": "ПАО \"Мосэнерго\"",
+      "education": [
+        {
+          "institution": "Санкт-Петербургский государственный экономический университет",
+          "year": 1999,
+          "details": "Высшее образование по биографическим сведениям Газпрома. QUALITY PASS ROUND 1 (2026-07-30): институт приведен к канонической форме из university_names.json (был указан как алиас \"Санкт-Петербургский государственный университет экономики и финансов\"); Round 2 заявил, что эта нормализация уже была сделана, но фактически не была.",
+          "source_url": "https://www.gazprom.ru/about/management/management-committee/mikhailova/",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Санкт-Петербургский государственный университет",
+          "year": 2004,
+          "details": "Юридическое образование по биографическим сведениям Газпрома.",
+          "source_url": "https://www.gazprom.ru/about/management/management-committee/mikhailova/",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Газпром\"",
+          "role": "Руководящая должность в корпоративно-правовом/имущественном блоке",
+          "start_year": null,
+          "end_year": null,
+          "description": "Газпром-профиль и старые раскрытия Мосэнерго связывают ее с управленческой должностью в Газпроме.",
+          "source_url": "https://www.gazprom.ru/about/management/management-committee/mikhailova/",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ПАО \"Мосэнерго\"",
+          "role": "Chairman / board role per CSV",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "CSV указывает Chairman с 2019-06-23; локальный годовой отчет 2024 не раскрывает персонально председателя.",
+          "source_url": "MOEXBMI_2024.csv",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Elena Mikhailova как Chairman с 2019-06-23."
+        },
+        {
+          "url": "https://www.gazprom.ru/about/management/management-committee/mikhailova/",
+          "title": "Газпром: Михайлова Елена Владимировна",
+          "fact": "Официальный профиль Газпрома используется для образования и карьерного якоря."
+        },
+        {
+          "url": "https://www.marketscreener.com/quote/stock/MOSENERGO-PAO-9059288/company/",
+          "title": "MarketScreener: Mosenergo PAO company management",
+          "fact": "Вторичный профиль перечисляет ее в составе органов управления Mosenergo."
+        }
+      ],
+      "notes": "CSV также содержит Vitaly Markelov как Chairman; из-за отсутствия персонального списка в локальном отчете 2024 точная председательская функция помечена как ограниченно подтвержденная. ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): institutions normalized to university_names.json canonical forms; qualification_degree added to both education entries. A conflicting secondary-aggregator claim about birth year/education/department was found and explicitly rejected in favor of the already-confirmed official gazprom.ru source (see professional_experience description for detail) -- flagged here as a possible same-name mix-up, not incorporated as fact. GICS added to both professional_experience entries. QUALITY PASS ROUND 1 (2026-07-30): found that the institution normalization Round 2 claimed above was never actually applied to the first education entry -- it still held the alias form (\"Санкт-Петербургский государственный университет экономики и финансов\") instead of the university_names.json canonical form; now corrected to \"Санкт-Петербургский государственный экономический университет\"."
+    },
+    {
+      "name": "Иванников Александр Сергеевич",
+      "current_role": "Член Совета директоров по CSV/current roster; руководитель финансово-экономического блока ПАО \"Газпром\" в биографических источниках",
+      "company_name": "ПАО \"Мосэнерго\"",
+      "education": [
+        {
+          "institution": "Высшее военно-морское училище радиоэлектроники имени А.С. Попова",
+          "year": 1988,
+          "details": "Специальность инженера радиоэлектронной техники. QUALITY PASS ROUND 1 (2026-07-30): запись восстановлена; Round 2 заявил в notes, что добавил три записи об образовании (морское училище + два курса переподготовки), но education фактически оставалось пустым []. Перепроверено повторным WebFetch того же уже процитированного источника (runetbook.ru). Институт не найден в university_names.json -- логируется как новый институт, не переименован.",
+          "source_url": "https://runetbook.ru/catalog/ivannikov-aleksandr-sergeevich",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Санкт-Петербургский государственный университет",
+          "year": 1993,
+          "details": "Переподготовка по специальности \"Экономика предприятия\", 1992-1993. QUALITY PASS ROUND 1 (2026-07-30): запись восстановлена (см. описание в education[0]).",
+          "source_url": "https://runetbook.ru/catalog/ivannikov-aleksandr-sergeevich",
+          "qualification_degree": "Professional certification"
+        },
+        {
+          "institution": "Санкт-Петербургский политехнический университет Петра Великого",
+          "year": 1999,
+          "details": "Обучение по программе \"Инновационный менеджмент\" в рамках Президентской программы подготовки управленческих кадров, 1998-1999. QUALITY PASS ROUND 1 (2026-07-30): запись восстановлена; институт приведен к канонической форме из university_names.json (в источнике указан как \"Санкт-Петербургский государственный технический университет\").",
+          "source_url": "https://runetbook.ru/catalog/ivannikov-aleksandr-sergeevich",
+          "qualification_degree": "Professional certification"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат экономических наук",
+          "source_url": "https://runetbook.ru/catalog/ivannikov-aleksandr-sergeevich",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ОАО \"Промышленно-строительный банк\"",
+          "role": "От ревизора-аудитора аналитической группы до начальника отдела аудита",
+          "start_year": 1994,
+          "end_year": 1997,
+          "description": "QUALITY PASS ROUND 1 (2026-07-30): запись восстановлена; Round 2 заявил в notes о добавлении банковской и петербургской госслужбенной записей, но professional_experience фактически их не содержал (только ТГК-1/Газпром/Мосэнерго). Перепроверено повторным WebFetch того же уже процитированного источника (runetbook.ru).",
+          "source_url": "https://runetbook.ru/catalog/ivannikov-aleksandr-sergeevich",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "Комитет по экономическому развитию, промышленной политике и торговле Санкт-Петербурга",
+          "role": "Первый заместитель председателя комитета",
+          "start_year": 2001,
+          "end_year": 2006,
+          "description": "QUALITY PASS ROUND 1 (2026-07-30): запись восстановлена (см. описание в предыдущей записи). Городской комитет правительства Санкт-Петербурга, не GICS-классифицируемая государственная структура.",
+          "source_url": "https://runetbook.ru/catalog/ivannikov-aleksandr-sergeevich",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"ТГК-1\"",
+          "role": "Заместитель генерального директора по экономике и финансам",
+          "start_year": 2006,
+          "end_year": 2007,
+          "description": "Указано в биографических источниках и старом раскрытии ТГК-1.",
+          "source_url": "https://www.tgc1.ru/fileadmin/ir/Reports/Annual/2007/AR_2007_management_RUS.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО \"Мосэнерго\"",
+          "role": "Заместитель генерального директора по финансам (с 2008 -- по финансам и бюджетированию)",
+          "start_year": 2007,
+          "end_year": 2010,
+          "description": "QUALITY PASS ROUND 1 (2026-07-30) honest-gap follow-up: обнаружена ранее не учтенная должность в самом Мосэнерго непосредственно перед переходом в Газпром в 2010 году, при повторном полном чтении уже процитированного источника (runetbook.ru).",
+          "source_url": "https://runetbook.ru/catalog/ivannikov-aleksandr-sergeevich",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО \"Газпром\"",
+          "role": "Руководящая должность в финансово-экономическом блоке",
+          "start_year": 2010,
+          "end_year": null,
+          "description": "Биографические источники указывают переход в Газпром с 2010 года и последующую руководящую должность.",
+          "source_url": "https://runetbook.ru/catalog/ivannikov-aleksandr-sergeevich",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ПАО \"Мосэнерго\"",
+          "role": "Член Совета директоров",
+          "start_year": 2016,
+          "end_year": null,
+          "description": "CSV содержит членство с 2016-05-30; локальный отчет 2024 не раскрывает персональный список.",
+          "source_url": "MOEXBMI_2024.csv",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [
+        {
+          "description": "Подтверждена степень кандидата экономических наук; публикационный профиль не подтвержден.",
+          "source_url": "https://runetbook.ru/catalog/ivannikov-aleksandr-sergeevich"
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Aleksandr Sergeevich Ivannikov как Director/Board Member с 2016-05-30."
+        },
+        {
+          "url": "https://www.tgc1.ru/ir/releases/ir-reliz/item/18749/",
+          "title": "ТГК-1: корпоративный релиз",
+          "fact": "Официальный релиз ТГК-1 идентифицирует Иванникова как руководителя департамента ПАО \"Газпром\"."
+        },
+        {
+          "url": "https://runetbook.ru/catalog/ivannikov-aleksandr-sergeevich",
+          "title": "Иванников Александр Сергеевич - биография",
+          "fact": "Источник подтверждает степень и карьерный контур в ТГК-1/Газпроме."
+        }
+      ],
+      "notes": "Точное высшее учебное заведение не сохранено, потому что доступные фрагменты были неполными. ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): education (previously entirely empty) filled with three entries (naval academy 1988, two retraining programmes) plus two new pre-TGC-1 professional_experience entries (bank, St. Petersburg city government), all from a fuller re-read of the already-cited runetbook.ru source and one additional corroborating aggregator; identity confirmed by consistent birth details and career trajectory across sources, low namesake risk. GICS added to all professional_experience entries; the city-government committee is left null/null/null as a non-GICS-classifiable government body. QUALITY PASS ROUND 1 (2026-07-30): found this was the largest desync in the file -- every single addition Round 2 claimed above (all 3 education entries, both new professional_experience entries) was entirely absent from the actual JSON (education was still [] and professional_experience still only had the original 3 TGC-1/Gazprom/Mosenergo entries). Re-verified via a fresh WebFetch of the same already-cited runetbook.ru source; all facts confirmed genuinely present there, so all 3 education entries and both professional_experience entries were restored. Two GICS misclassifications were also found and fixed while restoring this record: the existing ТГК-1 entry was labeled Financials/Banks/Banks (wrong -- TGC-1 is a Gazprom Energoholding thermal/hydro generation company, a sister company to Mosenergo, not a bank; corrected to Utilities/Utilities/Independent Power and Renewable Electricity Producers) and the existing ПАО Газпром entry had a null/null/null GICS triple despite Газпром already having an established, unambiguous classification (Energy/Energy/Oil, Gas & Consumable Fuels) used elsewhere in this same file for Федоров and Михайлова -- filled in directly, not a genuine research gap. Additional honest-gap-adjacent depth found on the same already-cited source while verifying the above (not previously mentioned by Round 2 at all): two Mosenergo Deputy General Director (finance) stints in 2007-2010, immediately before the 2010 move to Gazprom -- added as one combined professional_experience entry, matching this file's existing convention of summarizing same-employer sequential title changes into one entry (as already done for the Gazprom 2010-2015/2015+ entry)."
+    },
+    {
+      "name": "Маркелов Виталий Анатольевич",
+      "current_role": "Chairman по CSV/current roster; заместитель Председателя Правления ПАО \"Газпром\"",
+      "company_name": "ПАО \"Мосэнерго\"",
+      "education": [
+        {
+          "institution": "Самарский национальный исследовательский университет имени академика С.П. Королёва",
+          "year": 1986,
+          "details": "Специальность \"Эксплуатация летательных аппаратов и двигателей\". QUALITY PASS ROUND 1 (2026-07-30): институт приведен к канонической форме из university_names.json (был указан как исторический алиас \"Куйбышевский авиационный институт\"); Round 2 заявил, что эта нормализация уже была сделана, но фактически не была.",
+          "source_url": "https://ssau.ru/info/person/around/outstanding/markelov",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат технических наук",
+          "source_url": "https://ssau.ru/info/person/around/outstanding/markelov",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ООО \"Волгатрансгаз\"",
+          "role": "Главный инженер, заместитель генерального директора",
+          "start_year": 1997,
+          "end_year": 2000,
+          "description": "QUALITY PASS ROUND 1 (2026-07-30) honest-gap follow-up: запись восстановлена; Round 2 заявил в notes о добавлении этой и следующей (Дальтрансгаз) записей для закрытия карьерного разрыва 1986-2003, но обе фактически отсутствовали в professional_experience. Перепроверено повторным WebFetch того же уже процитированного источника (ssau.ru).",
+          "source_url": "https://ssau.ru/info/person/around/outstanding/markelov",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ООО \"Газпром трансгаз Томск\"",
+          "role": "Генеральный директор",
+          "start_year": 2003,
+          "end_year": 2011,
+          "description": "Указано в биографии Самарского университета.",
+          "source_url": "https://ssau.ru/info/person/around/outstanding/markelov",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ООО \"Дальтрансгаз\"",
+          "role": "Генеральный директор",
+          "start_year": 2008,
+          "end_year": 2011,
+          "description": "QUALITY PASS ROUND 1 (2026-07-30) honest-gap follow-up: параллельная (concurrent) должность с руководством Газпром трансгаз Томск; запись восстановлена (см. описание в предыдущей записи).",
+          "source_url": "https://ssau.ru/info/person/around/outstanding/markelov",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ООО \"Газпром инвест Восток\"",
+          "role": "Генеральный директор",
+          "start_year": 2011,
+          "end_year": null,
+          "description": "Назначение указано в биографии Самарского университета; дата завершения в использованном источнике не раскрыта.",
+          "source_url": "https://ssau.ru/info/person/around/outstanding/markelov",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ПАО \"Газпром\"",
+          "role": "Заместитель Председателя Правления",
+          "start_year": 2011,
+          "end_year": null,
+          "description": "Указано в биографии Самарского университета и профиле Газпрома.",
+          "source_url": "https://www.gazprom.ru/about/management/board/markelov/",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ПАО \"Мосэнерго\"",
+          "role": "Chairman / board role per CSV",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "CSV указывает Chairman с 2019-08-15; локальный годовой отчет 2024 не раскрывает персонально председателя. QUALITY PASS ROUND 1 (2026-07-30): GICS-триплет исправлен -- был ошибочно скопирован как Energy/Energy/Oil, Gas & Consumable Fuels (триплет соседней записи Газпрома), но Мосэнерго classified consistently everywhere else in this file as Utilities/Utilities/Independent Power and Renewable Electricity Producers.",
+          "source_url": "MOEXBMI_2024.csv",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [
+        {
+          "description": "Кандидат технических наук; диссертационный контекст связан с реконструкцией и развитием региональных объектов транспорта газа.",
+          "source_url": "https://www.dissercat.com/content/rekonstruktsiya-i-razvitie-regionalnykh-obektov-transporta-gaza-na-osnove-sistemnogo-analiza"
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Vitaly Markelov как Chairman с 2019-08-15."
+        },
+        {
+          "url": "https://www.gazprom.ru/about/management/board/markelov/",
+          "title": "Газпром: Маркелов Виталий Анатольевич",
+          "fact": "Официальный профиль Газпрома подтверждает руководящую роль в ПАО \"Газпром\"."
+        },
+        {
+          "url": "https://ssau.ru/info/person/around/outstanding/markelov",
+          "title": "Самарский университет: Маркелов Виталий Анатольевич",
+          "fact": "Источник подтверждает образование, карьеру в Газпроме и степень кандидата технических наук."
+        }
+      ],
+      "notes": "Точная председательская роль в Мосэнерго за 2024 год ограниченно подтверждена, потому что локальный отчет не раскрывает персональный список. ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): institution normalized to university_names.json canonical form; qualification_degree added to education/degree entries; two new pre-2003 and concurrent professional_experience entries (Volgatransgaz, Daltransgaz) added from a fuller re-read of the already-cited ssau.ru source, closing the 1986-2003 career gap round 1 left open. GICS added to all professional_experience entries. QUALITY PASS ROUND 1 (2026-07-30): found that both claimed Round 2 fixes above were never actually applied -- the institution was still the alias \"Куйбышевский авиационный институт\" (now corrected to canonical \"Самарский национальный исследовательский университет имени академика С.П. Королёва\"), and the Волгатрансгаз/Дальтрансгаз entries were entirely absent from professional_experience (now restored after a fresh WebFetch re-confirmed both facts on the same already-cited ssau.ru source). Also found and fixed a GICS misclassification: the Мосэнерго board-chairman entry carried Energy/Energy/Oil, Gas & Consumable Fuels (the adjacent Газпром entry's triple, apparently copied by mistake) instead of the Utilities/Utilities/Independent Power and Renewable Electricity Producers triple used consistently for Мосэнерго everywhere else in this file."
+    },
+    {
+      "name": "Комиссаров Константин Васильевич",
+      "current_role": "Член Совета директоров",
+      "company_name": "ПАО \"Мосэнерго\"",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "АО \"ИК РЕГИОН\"",
+          "role": "Заместитель генерального директора по рыночным инвестициям",
+          "start_year": null,
+          "end_year": null,
+          "description": "QUALITY PASS ROUND 1 (2026-07-30): запись добавлена -- этот факт уже был процитирован в sources[] (пресс-релиз Мосэнерго от 16.08.2019), но соответствующей записи в professional_experience не было. Дополнительно корроборировано через e-disclosure.ru и Globalstat (2021 г.), которые независимо повторяют ту же формулировку должности.",
+          "source_url": "https://www.mosenergo.ru/press/news/2019/08/551/",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "ПАО \"Мосэнерго\"",
+          "role": "Член Совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "CSV/current roster содержит его как Director/Board Member; локальный отчет 2024 подтверждает избрание нового состава, но не раскрывает персональный список.",
+          "source_url": "MOEXBMI_2024.csv",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Konstantin Vasilyevich Komissarov как Director/Board Member."
+        },
+        {
+          "url": "https://www.mosenergo.ru/d/textpage/d4/212/godovoj-otchet-gosa-mosehnergo-23.06.2021.pdf",
+          "title": "Годовой отчет ПАО \"Мосэнерго\" за 2020 год / ГОСА 23.06.2021",
+          "fact": "Старый официальный отчет используется как идентификационный источник по членам Совета директоров и указывает высшее образование, но без извлеченного названия вуза."
+        },
+        {
+          "url": "https://www.marketscreener.com/quote/stock/MOSENERGO-PAO-9059288/company/",
+          "title": "MarketScreener: Mosenergo PAO company management",
+          "fact": "Вторичный профиль перечисляет его в составе органов управления Mosenergo."
+        },
+        {
+          "url": "https://www.mosenergo.ru/press/news/2019/08/551/",
+          "title": "Мосэнерго: сообщение об избрании Совета директоров (16.08.2019)",
+          "fact": "Официальный пресс-релиз называет Комиссарова К.В. заместителем генерального директора по рыночным инвестициям АО «ИК РЕГИОН»."
+        }
+      ],
+      "notes": "Точное образование и полная карьера не подтверждены открытыми источниками. ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): primary employer/role identity gap closed via an official Mosenergo press release (16.08.2019), corroborated by Finam.ru. Targeted re-search for education still found only an unrelated namesake (a Soviet military officer, 1898-1942), rejected; education stays empty. GICS added. QUALITY PASS ROUND 1 (2026-07-30): found that the АО \"ИК РЕГИОН\" employer fact was already cited in sources[] but had no corresponding professional_experience entry; added it, with GICS Financials/Financial Services (New Name)/Capital Markets (investment company doing market investments, matching the classification already documented for this organization in this file's validation_notes). Bounded honest-gap follow-up for education (WebSearch budget exhausted; used WebFetch against Yandex result pages) -- fresh queries tried: \"Комиссаров Константин Васильевич\" \"ИК РЕГИОН\" биография образование. Result: multiple sources (mosenergo.gazprom.ru, e-disclosure.ru, globalstat.ru) corroborate the ИК РЕГИОН role but none state where he studied. Still unresolved; education stays empty."
+    },
+    {
+      "name": "Сухов Геннадий Николаевич",
+      "current_role": "Член Совета директоров",
+      "company_name": "ПАО \"Мосэнерго\"",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Газпром\"",
+          "role": "Член Правления, начальник Департамента",
+          "start_year": null,
+          "end_year": null,
+          "description": "QUALITY PASS ROUND 1 (2026-07-30): запись добавлена -- этот факт уже был процитирован в sources[] (пресс-релиз Мосэнерго от 16.08.2019), но соответствующей записи в professional_experience не было.",
+          "source_url": "https://www.mosenergo.ru/press/news/2019/08/551/",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ПАО \"Мосэнерго\"",
+          "role": "Член Совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "CSV/current roster содержит его как Director/Board Member; локальный отчет 2024 подтверждает избрание нового состава, но не раскрывает персональный список.",
+          "source_url": "MOEXBMI_2024.csv",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Gennady Sukhov как Director/Board Member."
+        },
+        {
+          "url": "https://www.mosenergo.ru/d/textpage/d4/212/godovoj-otchet-gosa-mosehnergo-23.06.2021.pdf",
+          "title": "Годовой отчет ПАО \"Мосэнерго\" за 2020 год / ГОСА 23.06.2021",
+          "fact": "Старый официальный отчет используется как идентификационный источник по членам Совета директоров."
+        },
+        {
+          "url": "https://www.marketscreener.com/quote/stock/MOSENERGO-PAO-9059288/company/",
+          "title": "MarketScreener: Mosenergo PAO company management",
+          "fact": "Вторичный профиль перечисляет его в составе органов управления Mosenergo."
+        },
+        {
+          "url": "https://www.mosenergo.ru/press/news/2019/08/551/",
+          "title": "Мосэнерго: сообщение об избрании Совета директоров (16.08.2019)",
+          "fact": "Официальный пресс-релиз называет Сухова Г.Н. членом Правления, начальником Департамента ПАО «Газпром»."
+        }
+      ],
+      "notes": "Образование, степень и подробный опыт не подтверждены надежными открытыми источниками. ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): primary employer/role identity gap closed via an official Mosenergo press release (16.08.2019). Targeted re-search for education did not surface a reliable result (only sanctions-registry aggregator hits with no education field); education stays empty per project rule to prefer null over an unverified guess. GICS added. QUALITY PASS ROUND 1 (2026-07-30): found that the ПАО \"Газпром\" employer fact was already cited in sources[] but had no corresponding professional_experience entry; added it, GICS Energy/Energy/Oil, Gas & Consumable Fuels (matches Газпром classification used elsewhere in this file). Bounded honest-gap follow-up for education (WebSearch budget exhausted; used WebFetch against Yandex result pages) -- fresh queries tried: \"Сухов Геннадий Николаевич\" Газпром департамент биография образование. Results repeated the Department-314 role (mosenergo.gazprom.ru, agent39.ru, rus.team) and surfaced a birth-year discrepancy across aggregators (1961 per an akm.ru mirror of the same already-cited old Mosenergo annual report vs. 1965 per investonic.ru's Gazprom 2021 report) -- noted here as a possible identity flag but not actionable (no birth_year field in this schema) and not resolved; education itself remains unconfirmed and stays empty."
+    },
+    {
+      "name": "Табельский Андрей Николаевич",
+      "current_role": "Член Совета директоров",
+      "company_name": "ПАО \"Мосэнерго\"",
+      "education": [
+        {
+          "institution": "Московский городской университет управления Правительства Москвы",
+          "year": 2007,
+          "details": "Специальность, связанная с государственным и муниципальным управлением. QUALITY PASS ROUND 1 (2026-07-30) honest-gap follow-up: найдено на независимой биографической вики-странице (wiki.letopis.ru), сильно корроборировано совпадением карьерной траектории (Департамент городского имущества города Москвы, от главного специалиста до заместителя начальника управления, 2007-2021) с уже процитированным официальным пресс-релизом Мосэнерго (16.08.2019), называющим ту же должность. Институт не найден в university_names.json -- логируется как новый институт, не переименован. Степень квалификации указана как Unknown -- программа 2007 года могла быть как специалитетом, так и уже бакалавриатом на фоне болонской реформы, источник не уточняет.",
+          "source_url": "https://wiki.letopis.ru/index.php?title=Табельский_Андрей_Николаевич",
+          "qualification_degree": "Unknown"
+        },
+        {
+          "institution": "Московский государственный юридический университет имени О.Е. Кутафина (МГЮА)",
+          "year": 2011,
+          "details": "Юридическое образование (второе высшее). QUALITY PASS ROUND 1 (2026-07-30) honest-gap follow-up: найдено на той же биографической вики-странице (wiki.letopis.ru); институт приведен к канонической форме из university_names.json. Степень квалификации указана как Unknown -- источник не уточняет тип диплома второго высшего образования.",
+          "source_url": "https://wiki.letopis.ru/index.php?title=Табельский_Андрей_Николаевич",
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Департамент городского имущества города Москвы",
+          "role": "Заместитель начальника Управления (2007-2021: от главного специалиста до заместителя начальника управления; с апреля 2021 -- начальник управления корпоративных отношений)",
+          "start_year": 2007,
+          "end_year": 2021,
+          "description": "QUALITY PASS ROUND 1 (2026-07-30): запись добавлена -- этот факт уже был процитирован в sources[] (пресс-релиз Мосэнерго от 16.08.2019), но соответствующей записи в professional_experience не было. Карьерная траектория и точная должность подтверждены двумя независимыми источниками (официальный пресс-релиз Мосэнерго 16.08.2019 и wiki.letopis.ru). Городской департамент правительства Москвы, не GICS-классифицируемая государственная структура.",
+          "source_url": "https://www.mosenergo.ru/press/news/2019/08/551/",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"Мосэнерго\"",
+          "role": "Член Совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "CSV/current roster содержит его как Director/Board Member; локальный отчет 2024 подтверждает избрание нового состава, но не раскрывает персональный список.",
+          "source_url": "MOEXBMI_2024.csv",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Andrey Nikolaevich Tabelskiy как Director/Board Member."
+        },
+        {
+          "url": "https://www.mosenergo.ru/d/textpage/d4/212/godovoj-otchet-gosa-mosehnergo-23.06.2021.pdf",
+          "title": "Годовой отчет ПАО \"Мосэнерго\" за 2020 год / ГОСА 23.06.2021",
+          "fact": "Старый официальный отчет используется как идентификационный источник по членам Совета директоров."
+        },
+        {
+          "url": "https://www.marketscreener.com/quote/stock/MOSENERGO-PAO-9059288/company/",
+          "title": "MarketScreener: Mosenergo PAO company management",
+          "fact": "Вторичный профиль перечисляет его в составе органов управления Mosenergo."
+        },
+        {
+          "url": "https://www.mosenergo.ru/press/news/2019/08/551/",
+          "title": "Мосэнерго: сообщение об избрании Совета директоров (16.08.2019)",
+          "fact": "Официальный пресс-релиз называет Табельского А.Н. заместителем начальника Управления Департамента городского имущества города Москвы."
+        },
+        {
+          "url": "https://wiki.letopis.ru/index.php?title=Табельский_Андрей_Николаевич",
+          "title": "Letopis Wiki: Табельский Андрей Николаевич",
+          "fact": "\"Табельский Андрей Николаевич (род. 1985) -- управленец. Родился 25 февраля 1985 года в Чимкенте Казахской ССР. В 2007 году окончил Московский городской университет управления... В 2011 году окончил Московский государственный юридический университет имени О. Е. Кутафина... 2007-2021 -- от главного специалиста до заместителя начальника управления в Департаменте городского имущества города Москвы. В апреле 2021 года был назначен на должность начальника управления корпоративных отношений Департамента городского имущества города Москвы.\" Карьерная траектория и точная должность совпадают с уже процитированным официальным пресс-релизом Мосэнерго от 16.08.2019, что подтверждает идентичность (низкий риск однофамильца)."
+        }
+      ],
+      "notes": "Образование и подробный предыдущий опыт не подтверждены; вероятные Moscow-government контексты не расширены без сильного источника. ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): primary employer/role identity gap closed (from a vague generic anchor to an exact position) via an official Mosenergo press release (16.08.2019); classified null/null/null as a city government body, not GICS-classifiable. Targeted re-search for education did not surface a reliable result beyond round 1's already-noted 'higher education indicated'; education stays empty. QUALITY PASS ROUND 1 (2026-07-30): first, added the missing Департамент городского имущества professional_experience entry (fact was already cited in sources[] but had no corresponding entry). Bounded honest-gap follow-up for education (WebSearch budget exhausted; used WebFetch against Yandex result pages) -- fresh query tried: \"Табельский Андрей Николаевич\" образование окончил. This resolved the gap: an independent biography wiki (wiki.letopis.ru) names two institutions and years (2007 Московский городской университет управления Правительства Москвы, 2011 МГЮА им. О.Е. Кутафина), strongly corroborated by an exact match of career trajectory and job title with the already-cited official Mosenergo press release. qualification_degree set to Unknown for both (not null) because a real degree is confirmed to exist but its precise tier (specialist vs. bachelor's, given the 2007/2011 timing straddling Russia's Bologna transition) is not stated by the source and this project's rule (REFINEMENT.md) is to fill qualification_degree only at high confidence."
+    },
+    {
+      "name": "Хорев Андрей Викторович",
+      "current_role": "Член Совета директоров",
+      "company_name": "ПАО \"Мосэнерго\"",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Банк ГПБ (АО)",
+          "role": "Советник Председателя Правления",
+          "start_year": null,
+          "end_year": null,
+          "description": "QUALITY PASS ROUND 1 (2026-07-30): запись добавлена -- этот факт уже был процитирован в sources[] (пресс-релиз Мосэнерго от 16.08.2019), но соответствующей записи в professional_experience не было.",
+          "source_url": "https://www.mosenergo.ru/press/news/2019/08/551/",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "ПАО \"Мосэнерго\"",
+          "role": "Член Совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "CSV/current roster содержит его как Director/Board Member; локальный отчет 2024 подтверждает избрание нового состава, но не раскрывает персональный список.",
+          "source_url": "MOEXBMI_2024.csv",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Andrey Viktorovich Khorev как Director/Board Member."
+        },
+        {
+          "url": "https://www.mosenergo.ru/d/textpage/d4/212/godovoj-otchet-gosa-mosehnergo-23.06.2021.pdf",
+          "title": "Годовой отчет ПАО \"Мосэнерго\" за 2020 год / ГОСА 23.06.2021",
+          "fact": "Старый официальный отчет используется как идентификационный источник по членам Совета директоров."
+        },
+        {
+          "url": "https://www.marketscreener.com/quote/stock/MOSENERGO-PAO-9059288/company/",
+          "title": "MarketScreener: Mosenergo PAO company management",
+          "fact": "Вторичный профиль перечисляет его в составе органов управления Mosenergo."
+        },
+        {
+          "url": "https://www.mosenergo.ru/press/news/2019/08/551/",
+          "title": "Мосэнерго: сообщение об избрании Совета директоров (16.08.2019)",
+          "fact": "Официальный пресс-релиз называет Хорева А.В. советником Председателя Правления Банк ГПБ (АО)."
+        }
+      ],
+      "notes": "Образование и подробный предыдущий опыт не подтверждены; Gazprombank-linked search results were treated only as identity clues. ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): primary employer/role identity gap closed via an official Mosenergo press release (16.08.2019), confirming the Gazprombank anchor round 1 already suspected. A conflicting unrelated career-path snippet (Kommersant, Federal Drug Control Service) was found and rejected as a likely namesake rather than incorporated. GICS added. QUALITY PASS ROUND 1 (2026-07-30): found that the Банк ГПБ (АО) employer fact was already cited in sources[] but had no corresponding professional_experience entry; added it, GICS Financials/Banks/Banks. Bounded honest-gap follow-up for education (WebSearch budget exhausted; used WebFetch against Yandex result pages) -- fresh query tried: \"Хорев Андрей Викторович\" Газпромбанк советник биография образование. This re-surfaced the exact same Kommersant/security-service namesake Round 2 already rejected (this time worded as \"Родился 2 июля 1972 года в Свердловске... Окончил Суворовское военное училище\" plus a separate МВД/Федеральная служба по контролю за оборотом наркотиков-linked career at defence.mgimo.ru) -- reconfirms Round 2's rejection was correct (different person, security/police career, no Gazprombank/Mosenergo anchor), not incorporated. No education source found for the correct person; field stays empty."
+    },
+    {
+      "name": "Шацкий Павел Олегович",
+      "current_role": "Член Совета директоров по CSV/current roster; первый заместитель генерального директора ООО \"Газпром энергохолдинг\"",
+      "company_name": "ПАО \"Мосэнерго\"",
+      "education": [
+        {
+          "institution": "Российский государственный университет народного хозяйства имени В.И. Вернадского",
+          "year": null,
+          "details": "Высшее образование. QUALITY PASS ROUND 1 (2026-07-30): институт приведен к текущей канонической форме из university_names.json. Round 2 залогировал \"Российский государственный аграрный заочный университет\" (РГАЗУ) как отсутствующий в справочнике; проверено WebFetch независимой страницы (ru.wikipedia.org): в 2023 году РГАЗУ переименован именно в \"Российский государственный университет народного хозяйства имени В.И. Вернадского\" -- это то же самое учреждение, university_names.json уже содержит этот алиас (возможно, добавлен позже отдельным synthesis-проходом).",
+          "source_url": "https://ogk2.ru/report/5/4/",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Государственный университет управления",
+          "year": null,
+          "details": "Высшее образование.",
+          "source_url": "https://ogk2.ru/report/5/4/",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ООО \"Газпром энергохолдинг\"",
+          "role": "Первый заместитель генерального директора",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "Указано в корпоративной биографии OGK-2.",
+          "source_url": "https://ogk2.ru/report/5/4/",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО \"Мосэнерго\"",
+          "role": "Член Совета директоров",
+          "start_year": 2014,
+          "end_year": null,
+          "description": "CSV содержит членство с 2014-12-31; OGK-2 перечисляет Mosenergo среди советов директоров в корпоративном контуре.",
+          "source_url": "MOEXBMI_2024.csv",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Pavel Olegovich Shatsky как Director/Board Member с 2014-12-31."
+        },
+        {
+          "url": "https://ogk2.ru/report/5/4/",
+          "title": "ОГК-2: отчет о корпоративном управлении",
+          "fact": "Биография Шацкого содержит образование, должность первого заместителя генерального директора Газпром энергохолдинга и членство в советах директоров, включая Мосэнерго."
+        },
+        {
+          "url": "https://www.marketscreener.com/quote/stock/MOSENERGO-PAO-9059288/company/",
+          "title": "MarketScreener: Mosenergo PAO company management",
+          "fact": "Вторичный профиль перечисляет его в составе органов управления Mosenergo."
+        }
+      ],
+      "notes": "Биография хорошо подтверждена корпоративным отчетом OGK-2; публикации и h-index не подтверждены. ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): qualification_degree added to both education entries; birth year (1972) and a fuller board-membership list (chairs Ситуационный центр ГЭХ, Свободненская ТЭС, Спецавтотранс; member of Центрэнергохолдинг, ТГК-1, МОЭК, Газпром энергоремонт boards) were confirmed via a fuller re-read of the already-cited ogk2.ru source but not added as separate professional_experience entries this round, to keep this gap-filling pass scoped to previously null/vague fields rather than a full board-membership expansion; RGAZU logged in new_institutions_found as a real, distinct institution. GICS added to both existing professional_experience entries. QUALITY PASS ROUND 1 (2026-07-30): the RGAZU institution is normalized to \"Российский государственный университет народного хозяйства имени В.И. Вернадского\" -- verified via ru.wikipedia.org that RGAZU was officially renamed to this exact name in 2023 (same institution, not a merge with a different one), and university_names.json now carries this as an alias, so Round 2's \"not found in taxonomy\" note is superseded."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MSNG/Годовой отчет Мосэнерго 2024 сокр.pdf",
+      "title": "Годовой отчет ПАО \"Мосэнерго\" за 2024 год",
+      "fact": "Страница 19 подтверждает структуру органов управления и передачу функций ЕИО управляющей организации; страница 20 сообщает, что 25.06.2024 акционерами избран новый состав Совета директоров."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MSNG/МСФО на 31.12.2024.pdf",
+      "title": "Консолидированная финансовая отчетность ПАО \"Мосэнерго\" за 2024 год",
+      "fact": "Страница 24 указывает, что главным руководящим органом для операционных решений являются Совет директоров и Управляющий директор; страницы 9-12 подписаны управляющим директором А.А. Бутко и главным бухгалтером Е.Ю. Новеньковой."
+    },
+    {
+      "url": "https://www.mosenergo.ru/d/textpage/4e/846/soobshchenie-o-resheniyakh-sd-ot-04.04.2024_v-raskrytie-v-interfakse-tsrki.pdf",
+      "title": "Сообщение о решениях Совета директоров ПАО \"Мосэнерго\" от 04.04.2024",
+      "fact": "Официальное сообщение фиксирует рассмотрение повестки годового собрания и кандидатур для избрания в Совет директоров."
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/stock/MOSENERGO-PAO-9059288/company/",
+      "title": "MarketScreener: Mosenergo PAO company management",
+      "fact": "Вторичный источник использован как текущая ростер-проверка персоналий из CSV; не заменяет локальный отчет и официальное раскрытие."
+    },
+    {
+      "url": "https://www.mosenergo.ru/d/textpage/d4/212/godovoj-otchet-gosa-mosehnergo-23.06.2021.pdf",
+      "title": "Годовой отчет ПАО \"Мосэнерго\" за 2020 год / ГОСА 23.06.2021",
+      "fact": "Старый официальный отчет использован для идентификации и биографических якорей членов Совета директоров, поскольку отчет 2024 не раскрывает персональный состав."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "Исходный CSV содержит 15 строк MSNG и 14 уникальных людей после объединения двух строк Александра Бутко."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MSNG/Годовой отчет Мосэнерго 2024 сокр.pdf",
+      "title": "Годовой отчет ПАО \"Мосэнерго\" за 2024 год",
+      "fact": "Локальный отчет проверен полностью перед интернет-поиском; он подтверждает 2024 governance context, но не раскрывает персональные биографии директоров."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MSNG/МСФО на 31.12.2024.pdf",
+      "title": "Консолидированная финансовая отчетность ПАО \"Мосэнерго\" за 2024 год",
+      "fact": "Локальная МСФО-отчетность проверена полностью; биографий не содержит, но подтверждает подписи Бутко и Новеньковой."
+    },
+    {
+      "url": "https://ogk2.ru/report/5/4/",
+      "title": "ОГК-2: отчет о корпоративном управлении",
+      "fact": "Источник использован для биографий Федорова и Шацкого как общих директоров компаний Газпром энергохолдинга."
+    },
+    {
+      "url": "https://ssau.ru/info/person/around/outstanding/markelov",
+      "title": "Самарский университет: Маркелов Виталий Анатольевич",
+      "fact": "Источник использован для образования, карьеры и степени Маркелова."
+    }
+  ],
+  "validation_notes": "Обработано 14 уникальных людей из 15 строк CSV MSNG: Александр Бутко объединен из строк CEO и Director/Board Member. Проверено 2 локальных документа в MOEXBMI_Отчеты_2024/MSNG: годовой отчет за 2024 год и консолидированная финансовая отчетность МСФО за 2024 год. Выполнен 1 основной research round по каждому человеку плюс общий orchestrator pass; всего 14 person research rounds и 1 overview. Образование не подтверждено для Ворончихина, Афанасьева, Новеньковой, Ефимовой, Иванникова как конкретное учебное заведение, Комиссарова, Сухова, Табельского и Хорева; у Бутко образование основано на вторичном источнике, у Михайловой на официальном профиле Газпрома, у Федорова и Шацкого на корпоративном отчете OGK-2, у Маркелова на профиле Газпрома/Самарского университета. Слабые источники использованы для текущего roster-подтверждения MarketScreener и для образования Бутко; они отмечены в notes. Главная остаточная неопределенность: локальный отчет 2024 подтверждает избрание Совета директоров 25.06.2024, но не раскрывает персональный состав и председателя, поэтому персональные board-role факты частично зависят от CSV/current roster и старых официальных биографий. Конфликт по chairman labels: CSV называет Chairman и Елену Михайлову, и Виталия Маркелова; в JSON это не расширено без прямого 2024 источника. Конфликт по образованию Дениса Федорова отмечен; сохранены только source-attributed факты OGK-2. Исключены однофамильцы без Mosenergo/Gazprom/Gazprom Energoholding/energy-sector anchors. Поиск считается завершенным, потому что локальные документы проверены первыми, выполнены отдельные поиски образования, профессионального опыта, назначений, профессиональных биографий, научных данных и однофамильцев; два последовательных веб-прохода после официальных источников не дали более полного персонального 2024 board-bio источника. --- Round 2 (2026-07-19, gap-filling pass) --- Company-level sector/industry_group/industry added: Utilities / Utilities / Independent Power and Renewable Electricity Producers, copied verbatim from gics_taxonomy.json. Justification: Mosenergo is a pure thermal-generation company (CHP electricity + heat production for Moscow) selling into the wholesale market, not a vertically-integrated regulated transmission/distribution utility; this matches the same classification already given to its own parent, OOO Gazprom Energoholding (a generation-asset holding company), in the already-processed IRAO and MRKU ticker files, and to the standalone Yugo-Zapadnaya TETs generation plant in the LSNGP ticker file. The same triple was applied to every professional_experience entry naming ПАО \"Мосэнерго\" as employer, for all 14 people, and to every other Gazprom-generation-group entity (ПАО \"ТГК-1\", ООО \"Газпром энергохолдинг\"). Other organizations were classified by their own primary business, not Mosenergo's: ПАО \"Газпром\" and its gas-transport subsidiaries (Газпром трансгаз Томск, Газпром инвест Восток, Волгатрансгаз, Дальтрансгаз) = Energy/Energy/Oil, Gas & Consumable Fuels (matches existing GAZP/IRAO precedent); Банк ГПБ (АО) / Газпромбанк and Промышленно-строительный банк = Financials/Banks/Banks (matches existing GAZP/ALRS/IVAT precedent); АО \"ИК РЕГИОН\" = Financials/Financial Services (New Name)/Capital Markets (investment company, matching how similar investment/asset-management firms are classified elsewhere in this dataset); ООО \"Межрегионэнергострой\" (a Gazprom Energoholding power-plant construction contractor) = Industrials/Capital Goods/Construction & Engineering (matches how АО ИК \"АСЭ\", a comparable power-plant construction contractor, is classified in the IRAO ticker file). Left null/null/null with reasoning for the Комитет по экономическому развитию, промышленной политике и торговле Санкт-Петербурга (city government committee, not GICS-classifiable) and for Департамент городского имущества города Москвы (city government department, not GICS-classifiable). qualification_degree added to every education[]/degrees[] entry using only the 10 allowed enum values: explicit pre-Bologna specialist-track graduations (Бутко 1986, Федоров's МГТУ entry, Михайлова's two SPbSU entries, Иванников's 1988 naval academy, Маркелов 1986, Шацкий's two entries) = Specialist degree; short named retraining/переквалификация programmes (Иванников's 1992-1993 and 1998-1999 entries) = Professional certification; \"кандидат наук\" degrees (Федоров, Иванников, Маркелов) and Федоров's full-time postgraduate (aspirantura) education entry = Doctoral degree, per this project's standing convention for mapping the Russian \"кандидат\" tier to the nearest available enum value. Комиссаров, Сухов, Табельский, Хорев, Ворончихин, Афанасьев, Новенькова and Ефимова still have no confirmed education after this round's targeted re-search; left empty rather than guessed. Institution normalization per university_names.json: Бутко's corrected institution (Рижский институт инженеров гражданской авиации имени Ленинского комсомола), Федоров's МГТУ and МЭИ entries, Михайлова's \"экономики и финансов\" entry, Маркелов's Куйбышевский авиационный институт entry, and Иванников's 1999 retraining entry were all changed to their canonical forms. Two institutions not found in university_names.json are logged in new_institutions_found: Иванников's 1988 naval radio-electronics academy (Высшее военно-морское училище радиоэлектроники имени А.С. Попова) and Шацкий's Российский государственный аграрный заочный университет (a real, distinct institution, not the same as the already-catalogued Timiryazev Agrarian Academy). Targeted re-research this round (local filings first -- no new local-filing content was found beyond what round 1 already extracted, so all new facts come from re-fetching or newly finding web sources): corrected Бутко's education (round 1 flagged it as a weak secondary-source fact; the same URL, re-read in full, actually names a different institution) and added his missing 2007-2015 pre-Mosenergo professional_experience entry (Межрегионэнергострой), both from energostrana.ru; filled Иванников's entirely-empty education with three entries and two new pre-2006 professional_experience entries (bank, St. Petersburg city government) from a fuller re-read of runetbook.ru; filled Маркелов's 1986-2003 career gap with two new professional_experience entries (Волгатрансгаз, Дальтрансгаз) from a fuller re-read of ssau.ru; closed the core employer/role identity gap for Комиссаров, Сухов, Табельский and Хорев (all four had only \"Director/Board Member\" with no organizational context in round 1) via one newly found official Mosenergo press release (16.08.2019) listing the full board with each member's stated employer; added one new pre-Mosenergo professional_experience entry for Ворончихин (OGK-3, via Executive.ru) and refined Ефимова's role title (via a Bloomberg roster listing). Rejected namesakes/unconfirmed leads this round, explicitly not incorporated: an unrelated 1898-1942 Soviet military officer for Комиссаров; a 1961 Voronezh Engineering-Construction Institute graduate (much older, wrong era) for Афанасьев; a Kutafin Moscow State Law University deputy rector for Ефимова; a Kommersant snippet describing an unrelated Federal Drug Control Service career for Хорев; a candidate-of-economic-sciences dissertation PDF (new-disser.ru) whose garbled Cyrillic OCR and mismatched visible topic could not be confirmed as Федоров's own dissertation; and a conflicting secondary-aggregator claim about Михайлова's birth year/education/department (1977, Pskov, Moscow State Industrial University) that contradicts round 1's official gazprom.ru-sourced fact and was kept out of the record as a likely same-name mix-up. This session's WebSearch budget (200/200) was exhausted before this round began; all research this round used WebFetch against specific URLs and DuckDuckGo/Bing HTML result pages instead. No previously confirmed fact was deleted or silently overwritten; every change above is either additive (new field, new entry) or an explicitly documented in-place correction with the source's own quoted text (Бутко's education). MASS DATA-LOSS REPAIR (2026-07-30): restored 14 shortened person notes, 1 shortened experience descriptions, 0 shortened education descriptions, 5 missing person-level sources, and 0 missing experience-level sources using git HEAD (commit 03bfe9f, 2026-07-20) as the reliable baseline. Nothing else in this file was touched. --- QUALITY PASS ROUND 1 (2026-07-30, correctness/depth pass; see research_notes/MSNG/quality_pass_round1_20260730.md for full detail) --- Step 0 check: the on-disk file was byte-identical to git HEAD (commit f973022, the prior mass-restore commit) before this round began, so no regression restore was needed at the start of this pass. Main finding: Round 2 (2026-07-19)'s own notes claimed a large number of fixes/additions that were never actually written to the JSON data -- the notes text and validation_notes described corrections and new entries that the underlying arrays simply did not contain. Every one of these was individually re-verified against the same already-cited source via a fresh WebFetch before being restored (never restored on notes-text alone), consistent with this pass's anti-fabrication requirement. Desyncs found and fixed (10 total): Бутко education institution (was still \"Московский энергетический институт\", corrected to \"Рижский институт инженеров гражданской авиации имени Ленинского комсомола\", re-verified via energostrana.ru) and his missing 2007-2015 Межрегионэнергострой professional_experience entry (restored); Иванников's entire education array (was still empty, 3 entries restored) and 2 missing pre-2010 professional_experience entries (bank, city-government committee), re-verified via runetbook.ru; Маркелов's 2 missing professional_experience entries (Волгатрансгаз, Дальтрансгаз), re-verified via ssau.ru; Ворончихин's missing OGK-3 professional_experience entry (fact was already cited in sources[] but had no array entry), re-verified via e-xecutive.ru; Комиссаров/Сухов/Хорев's missing employer professional_experience entries (АО ИК РЕГИОН / ПАО Газпром / Банк ГПБ), each already cited in sources[] via the 16.08.2019 Mosenergo press release but missing from professional_experience; institution-name normalization claimed-but-not-applied for Федоров (2 entries), Михайлова (1 entry) and Маркелов (1 entry), now actually normalized to their university_names.json canonical forms. GICS misclassifications found and corrected (3): Бутко's Мосэнерго \"Управляющий директор\" entry carried Industrials/Capital Goods/Construction & Engineering (the triple that belonged to the new Межрегионэнергострой entry) -- corrected to Utilities/Utilities/Independent Power and Renewable Electricity Producers; Иванников's ПАО \"ТГК-1\" entry carried Financials/Banks/Banks (TGC-1 is a Gazprom Energoholding thermal/hydro generation company, not a bank) -- corrected to Utilities/Utilities/Independent Power and Renewable Electricity Producers; Маркелов's Мосэнерго board entry carried Energy/Energy/Oil, Gas & Consumable Fuels (the adjacent Газпром entry's triple) -- corrected to Utilities/Utilities/Independent Power and Renewable Electricity Producers. One simple GICS omission filled: Иванников's ПАО \"Газпром\" entry had a null/null/null triple despite Газпром already having an established classification (Energy/Energy/Oil, Gas & Consumable Fuels) used elsewhere in this same file. Institution-name discovery: Шацкий's \"Российский государственный аграрный заочный университет\" (logged by Round 2 as absent from the taxonomy) was verified via ru.wikipedia.org to have been officially renamed in 2023 to \"Российский государственный университет народного хозяйства имени В.И. Вернадского\", which is already in university_names.json -- normalized. Honest-gap follow-ups attempted for all 8 people with empty education (Ворончихин, Афанасьев, Новенькова, Ефимова, Комиссаров, Сухов, Табельский, Хорев): WebSearch budget was already exhausted (200/200) at the start of this round, so fresh queries were run via WebFetch against Yandex/Bing/DuckDuckGo result pages instead. One gap fully resolved: Табельский's education (2 institutions, 2007 and 2011, found on an independent biography wiki, corroborated by an exact career-trajectory match with the already-cited official Mosenergo press release). One partial finding: Ефимова has a confirmed, source-verified concurrent adjunct-lecturer role at Kutafin University's energy-law department (added as professional_experience), though her own education remains unconfirmed. The other 6 gaps (Ворончихин, Афанасьев, Новенькова, Комиссаров, Сухов, Хорев) remain unresolved after this round's fresh queries; each is logged with its exact fresh queries and outcome in this person's notes field and in the round file. No previously confirmed fact was deleted; every change above is either an additive new entry/field or an in-place correction backed by a freshly re-fetched, already-cited source, with the superseded value's reasoning kept visible in the person's notes for auditability.",
+  "sector": "Utilities",
+  "industry_group": "Utilities",
+  "industry": "Independent Power and Renewable Electricity Producers"
+}

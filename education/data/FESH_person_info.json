@@ -1,0 +1,606 @@
+{
+  "company_name": "ПАО \"Дальневосточное морское пароходство\" / ПАО \"ДВМП\"",
+  "company_ticker": "FESH",
+  "ceo": {
+    "name": "Иванов Петр Валерьевич",
+    "current_role": "Президент ПАО \"ДВМП\" с 23.09.2024; Председатель Правления с 07.10.2024. Генеральный директор в 2024 году не был избран, поэтому президент рассматривается как эквивалент главного исполнительного руководителя в контексте 2024 года.",
+    "company_name": "ПАО \"Дальневосточное морское пароходство\" / Транспортная группа FESCO",
+    "education": [
+      {
+        "institution": "Финансовый университет при Правительстве Российской Федерации",
+        "year": 1993,
+        "field": "Международные экономические отношения",
+        "qualification": null,
+        "sources": [
+          {
+            "url": "https://tass.ru/encyclopedia/person/ivanov-petr-valerevich",
+            "title": "ТАСС: Иванов, Петр Валерьевич",
+            "fact": "Строка 227: ТАСС указывает, что в 1993 году Иванов окончил Финансовую академию по специальности \"Международные экономические отношения\"."
+          },
+          {
+            "url": "https://www.fa.ru/university/alumni/business/",
+            "title": "Финансовый университет: Бизнес и предпринимательство",
+            "fact": "Строки 520-523: страница выпускников Финансового университета указывает Иванова Петра Валерьевича и выпуск 1993 года по специальности \"Международные экономические отношения\"."
+          },
+          {
+            "url": "https://ru.wikipedia.org/wiki/Иванов,_Пётр_Валерьевич",
+            "title": "Википедия: Иванов, Пётр Валерьевич",
+            "fact": "РАУНД 2 (восстановлено 2026-07-30 после подтверждённой потери данных в quality-pass round1): подтверждает окончание Государственной финансовой академии в 1993 году по специальности \"Международные экономические отношения\"; отличие/красный диплом для этой степени не упомянуто (в отличие от степени 2005 года)."
+          },
+          {
+            "url": "https://portnews.ru/person/ivanov-petr-valerevich/",
+            "title": "PortNews: Иванов Петр Валерьевич",
+            "fact": "РАУНД 2 (восстановлено 2026-07-30 после подтверждённой потери данных в quality-pass round1): биографическая справка подтверждает дату рождения (15 января 1970 года, Москва) и окончание Государственной финансовой академии в 1993 году; целевой повторный поиск отличия/красного диплома для этой степени новых сведений не дал -- qualification остается null."
+          }
+        ],
+        "qualification_degree": "Specialist degree"
+      },
+      {
+        "institution": "Московский государственный юридический университет имени О.Е. Кутафина (МГЮА)",
+        "year": 2005,
+        "field": "Юриспруденция",
+        "qualification": "диплом с отличием",
+        "sources": [
+          {
+            "url": "https://tass.ru/encyclopedia/person/ivanov-petr-valerevich",
+            "title": "ТАСС: Иванов, Петр Валерьевич",
+            "fact": "Строка 227: ТАСС указывает, что в 2005 году Иванов окончил Московскую государственную юридическую академию по специальности \"Юриспруденция\" с дипломом с отличием."
+          },
+          {
+            "url": "https://www.rzd-partner.ru/zhd-transport/news/generalnym-direktorom-ao--federalnaia-passazhirskaia-kompaniia--naznachen-petr-ivanov/",
+            "title": "РЖД-Партнер: Генеральным директором АО \"ФПК\" назначен Петр Иванов",
+            "fact": "Строка 101: источник указывает окончание Московской государственной юридической академии по специальности \"Юриспруденция\" в 2005 году."
+          },
+          {
+            "url": "https://ru.wikipedia.org/wiki/Иванов,_Пётр_Валерьевич",
+            "title": "Википедия: Иванов, Пётр Валерьевич",
+            "fact": "РАУНД 2 (восстановлено 2026-07-30 после подтверждённой потери данных в quality-pass round1): подтверждает окончание Московской государственной юридической академии в 2005 году с красным дипломом по специальности \"Юриспруденция\"."
+          },
+          {
+            "url": "https://portnews.ru/person/ivanov-petr-valerevich/",
+            "title": "PortNews: Иванов Петр Валерьевич",
+            "fact": "РАУНД 2 (восстановлено 2026-07-30 после подтверждённой потери данных в quality-pass round1): подтверждает получение в 2005 году диплома юриста с отличием в Московской государственной юридической академии."
+          }
+        ],
+        "qualification_degree": "Specialist degree"
+      }
+    ],
+    "degrees": [
+      {
+        "degree": "Кандидат экономических наук",
+        "field": "Экономика",
+        "year": 2008,
+        "description": "Диссертация: \"Предпринимательство в системе воспроизводства городского транспортного хозяйства\".",
+        "sources": [
+          {
+            "url": "https://tass.ru/encyclopedia/person/ivanov-petr-valerevich",
+            "title": "ТАСС: Иванов, Петр Валерьевич",
+            "fact": "Строка 228: ТАСС указывает степень кандидата экономических наук и защиту в 2008 году диссертации на тему \"Предпринимательство в системе воспроизводства городского транспортного хозяйства\"."
+          },
+          {
+            "url": "https://gkgz.ru/novyjj-zamglavy-fas-prishel-iz-struktur-rzhd/",
+            "title": "Гражданский контроль госзакупок: Новый замглавы ФАС пришел из структур РЖД",
+            "fact": "Строки 63-64: источник указывает образование Иванова, степень кандидата экономических наук и тему диссертации 2008 года."
+          }
+        ],
+        "qualification_degree": "Doctoral degree"
+      }
+    ],
+    "professional_experience": [
+      {
+        "organization": "Кредобанк",
+        "role": "Заместитель начальника отдела / главный экономист",
+        "start_year": 1991,
+        "end_year": 1992,
+        "description": null,
+        "sources": [
+          {
+            "url": "https://tass.ru/encyclopedia/person/ivanov-petr-valerevich",
+            "title": "ТАСС: Иванов, Петр Валерьевич",
+            "fact": "Строка 229: в 1991-1992 годах Иванов был заместителем начальника отдела Кредобанка."
+          },
+          {
+            "url": "https://www.rzd-partner.ru/zhd-transport/news/generalnym-direktorom-ao--federalnaia-passazhirskaia-kompaniia--naznachen-petr-ivanov/",
+            "title": "РЖД-Партнер: Генеральным директором АО \"ФПК\" назначен Петр Иванов",
+            "fact": "Строка 102: источник указывает начало трудового стажа в 1991 году в КБ \"Кредобанк\"."
+          }
+        ],
+        "sector": "Financials",
+        "industry_group": "Banks",
+        "industry": "Banks"
+      },
+      {
+        "organization": "КБ \"Монтажспецбанк\"",
+        "role": "Руководящие должности в банковском бизнесе",
+        "start_year": 1992,
+        "end_year": 1998,
+        "description": "Источники описывают путь от начальника валютного отдела/управления до высших управленческих должностей банка.",
+        "sources": [
+          {
+            "url": "https://tass.ru/encyclopedia/person/ivanov-petr-valerevich",
+            "title": "ТАСС: Иванов, Петр Валерьевич",
+            "fact": "Строка 230: с 1992 по 1998 год Иванов работал в Монтажспецбанке и прошел путь от начальника валютного отдела до председателя правления."
+          },
+          {
+            "url": "https://www.rzd-partner.ru/zhd-transport/news/generalnym-direktorom-ao--federalnaia-passazhirskaia-kompaniia--naznachen-petr-ivanov/",
+            "title": "РЖД-Партнер: Генеральным директором АО \"ФПК\" назначен Петр Иванов",
+            "fact": "Строка 102: в 1992-1998 годах работал в КБ \"Монтажспецбанк\" на руководящих должностях."
+          }
+        ],
+        "sector": "Financials",
+        "industry_group": "Banks",
+        "industry": "Banks"
+      },
+      {
+        "organization": "ГУП \"Мосгортранс\"",
+        "role": "Заместитель генерального директора / вице-президент; затем генеральный директор",
+        "start_year": 1998,
+        "end_year": 2013,
+        "description": "В 1998-2005 годах отвечал за имущественно-экономический блок; в 2006-2013 годах возглавлял Мосгортранс.",
+        "sources": [
+          {
+            "url": "https://tass.ru/encyclopedia/person/ivanov-petr-valerevich",
+            "title": "ТАСС: Иванов, Петр Валерьевич",
+            "fact": "Строки 231 и 233: ТАСС указывает работу заместителем гендиректора Мосгортранса в 1998-2005 годах и гендиректором в 2006-2013 годах."
+          },
+          {
+            "url": "https://www.rzd-partner.ru/zhd-transport/news/generalnym-direktorom-ao--federalnaia-passazhirskaia-kompaniia--naznachen-petr-ivanov/",
+            "title": "РЖД-Партнер: Генеральным директором АО \"ФПК\" назначен Петр Иванов",
+            "fact": "Строки 102-103: источник указывает работу в Мосгортрансе и последующее руководство предприятием."
+          }
+        ],
+        "sector": "Industrials",
+        "industry_group": "Transportation",
+        "industry": "Ground Transportation (New Name)"
+      },
+      {
+        "organization": "Департамент транспорта и связи города Москвы",
+        "role": "Заместитель руководителя",
+        "start_year": 2005,
+        "end_year": 2006,
+        "description": null,
+        "sources": [
+          {
+            "url": "https://tass.ru/encyclopedia/person/ivanov-petr-valerevich",
+            "title": "ТАСС: Иванов, Петр Валерьевич",
+            "fact": "Строка 232: в 2005-2006 годах Иванов был заместителем руководителя Департамента транспорта и связи Москвы."
+          }
+        ],
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "Правительство Московской области",
+        "role": "Заместитель председателя правительства; министр транспорта Московской области",
+        "start_year": 2013,
+        "end_year": 2016,
+        "description": "С мая 2015 года одновременно являлся министром транспорта Московской области.",
+        "sources": [
+          {
+            "url": "https://tass.ru/encyclopedia/person/ivanov-petr-valerevich",
+            "title": "ТАСС: Иванов, Петр Валерьевич",
+            "fact": "Строка 234: с сентября 2013 по январь 2016 года занимал должность зампредседателя правительства Московской области, с мая 2015 года одновременно был министром транспорта."
+          },
+          {
+            "url": "https://www.fa.ru/university/alumni/business/",
+            "title": "Финансовый университет: Бизнес и предпринимательство",
+            "fact": "Строка 527: страница выпускников указывает роль министра транспорта Московской области в 2015-2016 годах."
+          }
+        ],
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "АО \"Федеральная пассажирская компания\"",
+        "role": "Генеральный директор",
+        "start_year": 2016,
+        "end_year": 2020,
+        "description": null,
+        "sources": [
+          {
+            "url": "https://www.rzd-partner.ru/zhd-transport/news/generalnym-direktorom-ao--federalnaia-passazhirskaia-kompaniia--naznachen-petr-ivanov/",
+            "title": "РЖД-Партнер: Генеральным директором АО \"ФПК\" назначен Петр Иванов",
+            "fact": "Строка 94: совет директоров АО \"ФПК\" 25.01.2016 принял решение о назначении Петра Иванова генеральным директором."
+          },
+          {
+            "url": "https://tass.ru/encyclopedia/person/ivanov-petr-valerevich",
+            "title": "ТАСС: Иванов, Петр Валерьевич",
+            "fact": "Строка 235: с января 2016 по сентябрь 2020 года был генеральным директором АО \"ФПК\"."
+          }
+        ],
+        "sector": "Industrials",
+        "industry_group": "Transportation",
+        "industry": "Ground Transportation (New Name)"
+      },
+      {
+        "organization": "АО \"Скоростные магистрали\"",
+        "role": "Генеральный директор",
+        "start_year": 2020,
+        "end_year": 2021,
+        "description": null,
+        "sources": [
+          {
+            "url": "https://tass.ru/encyclopedia/person/ivanov-petr-valerevich",
+            "title": "ТАСС: Иванов, Петр Валерьевич",
+            "fact": "Строка 236: с сентября 2020 по январь 2021 года был генеральным директором АО \"Скоростные магистрали\"."
+          },
+          {
+            "url": "https://www.fa.ru/university/alumni/business/",
+            "title": "Финансовый университет: Бизнес и предпринимательство",
+            "fact": "Строка 531: страница выпускников указывает должность генерального директора АО \"Скоростные магистрали\" в 2020-2021 годах."
+          }
+        ],
+        "sector": "Industrials",
+        "industry_group": "Transportation",
+        "industry": "Transportation Infrastructure"
+      },
+      {
+        "organization": "Федеральная антимонопольная служба",
+        "role": "Заместитель руководителя",
+        "start_year": 2021,
+        "end_year": 2024,
+        "description": "В 2024 году покинул ФАС до назначения в FESCO.",
+        "sources": [
+          {
+            "url": "https://tass.ru/encyclopedia/person/ivanov-petr-valerevich",
+            "title": "ТАСС: Иванов, Петр Валерьевич",
+            "fact": "Строка 239: 20.01.2021 стал заместителем руководителя ФАС России."
+          },
+          {
+            "url": "https://tass.ru/ekonomika/21935081",
+            "title": "ТАСС: Бывшего замглавы ФАС Петра Иванова назначили президентом Fesco",
+            "fact": "Строка 80: Иванов в 2021-2024 годах занимал должность заместителя главы ФАС."
+          }
+        ],
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "ПАО \"ДВМП\" / Транспортная группа FESCO",
+        "role": "Президент; Председатель Правления",
+        "start_year": 2024,
+        "end_year": null,
+        "description": "С 23.09.2024 избран Президентом; с 07.10.2024 выполняет функции Председателя Правления. В 2024 году Генеральный директор в компании не был избран. РАУНД 2 (восстановлено 2026-07-30 после подтверждённой потери данных в quality-pass round1): Wikipedia и PortNews (независимые вторичные источники) указывают, что в августе 2025 года Иванов дополнительно занял пост Генерального директора ПАО «ДВМП» (должность впервые избрана после отчетного 2024 года); это событие относится к 2025 году и не изменяет подтвержденную роль Президента/Председателя Правления за 2024 год.",
+        "sources": [
+          {
+            "url": "MOEXBMI_Отчеты_2024/FESH/Годовой отчет ПАО ДВМП за 2024 год.pdf",
+            "title": "Годовой отчет ПАО ДВМП за 2024 год",
+            "fact": "PDF страницы 161-163: с 23.09.2024 избран новый Президент Иванов Петр Валерьевич; Генеральный директор не избран; Президент осуществляет функции Председателя Правления с 07.10.2024."
+          },
+          {
+            "url": "https://ar2024.fesco.ru/corporate-governance/executive-bodies",
+            "title": "Годовой отчет FESCO 2024: Исполнительные органы",
+            "fact": "Строки 109-122: онлайн-отчет подтверждает избрание Иванова Президентом с 23.09.2024, отсутствие Генерального директора и выполнение Президентом функций Председателя Правления с 07.10.2024."
+          },
+          {
+            "url": "https://tass.ru/ekonomika/21935081",
+            "title": "ТАСС: Бывшего замглавы ФАС Петра Иванова назначили президентом Fesco",
+            "fact": "Строки 78-83: FESCO сообщила о назначении Петра Иванова президентом группы с 23.09.2024 решением Совета директоров ПАО \"ДВМП\"."
+          },
+          {
+            "url": "https://ru.wikipedia.org/wiki/Иванов,_Пётр_Валерьевич",
+            "title": "Википедия: Иванов, Пётр Валерьевич",
+            "fact": "РАУНД 2 (восстановлено 2026-07-30 после подтверждённой потери данных в quality-pass round1): хронология подтверждает пост Президента с сентября 2024 года и последующее избрание Генеральным директором в августе 2025 года (после целевого периода)."
+          },
+          {
+            "url": "https://portnews.ru/person/ivanov-petr-valerevich/",
+            "title": "PortNews: Иванов Петр Валерьевич",
+            "fact": "РАУНД 2 (восстановлено 2026-07-30 после подтверждённой потери данных в quality-pass round1): подтверждает хронологию 2024-2025 годов (Президент с сентября 2024, Председатель Правления с октября 2024, Генеральный директор с августа 2025)."
+          }
+        ],
+        "sector": "Industrials",
+        "industry_group": "Transportation",
+        "industry": "Marine Transportation (New Name)"
+      },
+      {
+        "organization": "ООО \"Росатом Логистика\"",
+        "role": "Генеральный директор",
+        "start_year": 2024,
+        "end_year": null,
+        "description": "Параллельная роль в логистическом дивизионе Росатома; не меняет роль в ПАО \"ДВМП\" за 2024 год.",
+        "sources": [
+          {
+            "url": "https://www.fa.ru/university/alumni/business/",
+            "title": "Финансовый университет: Бизнес и предпринимательство",
+            "fact": "Строки 520-521: страница выпускников называет Иванова президентом FESCO и гендиректором компании \"Росатом Логистики\" с 2024 года."
+          },
+          {
+            "url": "https://www.railsovet.ru/soyuz/struktura-soyuza/prezidium/ivanov-petr-valerevich/",
+            "title": "СОЖТ: Иванов Пётр Валерьевич",
+            "fact": "Строки 107-110: профиль указывает руководство FESCO с сентября 2024 года и подтверждает образование/степень; источник использован как дополнительное подтверждение идентичности."
+          }
+        ],
+        "sector": "Industrials",
+        "industry_group": "Transportation",
+        "industry": "Air Freight & Logistics"
+      }
+    ],
+    "research_experience": [
+      {
+        "organization": "Московский государственный индустриальный университет",
+        "role": "Соискатель ученой степени кандидата экономических наук",
+        "start_year": 2008,
+        "end_year": 2008,
+        "description": "Защита диссертации на тему \"Предпринимательство в системе воспроизводства городского транспортного хозяйства\".",
+        "sources": [
+          {
+            "url": "https://tass.ru/encyclopedia/person/ivanov-petr-valerevich",
+            "title": "ТАСС: Иванов, Петр Валерьевич",
+            "fact": "Строка 228: указана защита диссертации в 2008 году в Московском государственном индустриальном университете."
+          }
+        ]
+      }
+    ],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "CSV row for FESH lists Иванов Петр Валерьевич as Президент of ПАО \"ДВМП\"."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/FESH/Годовой отчет ПАО ДВМП за 2024 год.pdf",
+        "title": "Годовой отчет ПАО ДВМП за 2024 год",
+        "fact": "PDF pages 21 and 161-163 confirm Ivanov as President and Chairman of the Management Board in the 2024 governance context."
+      },
+      {
+        "url": "https://tass.ru/encyclopedia/person/ivanov-petr-valerevich",
+        "title": "ТАСС: Иванов, Петр Валерьевич",
+        "fact": "Biographical profile confirms education, candidate degree and major career stages before FESCO."
+      }
+    ],
+    "notes": "Идентификация надежная. В 2024 году формальная должность в ПАО \"ДВМП\" - Президент, а не Генеральный директор; Генеральный директор не был избран. Публикации, патенты и h-index не подтверждены, поэтому оставлены пустыми. QUALITY PASS ROUND 1 (2026-07-30): fixed a desync between the JSON and round-2 research notes -- both education[] institution strings were still the raw alias forms (\"Финансовая академия при Правительстве Российской Федерации\", \"Московская государственная юридическая академия\") even though round-2 notes and patch scripts had already established the canonical university_names.json keys for both (\"Финансовый университет при Правительстве Российской Федерации\", \"Московский государственный юридический университет имени О.Е. Кутафина (МГЮА)\"); the rename was apparently never actually persisted. Applied now; no new source needed, same citations still apply verbatim (the fa.ru source itself already uses the modern \"Финансовый университет\" name). Bounded honest-gap follow-up with fresh queries (not repeating round 1/2's wording) was run on the two remaining nulls: (1) 1993 Finance Academy diploma honors -- fresh queries (\"красный диплом\"/\"с отличием\" + Финансовая академия 1993) against ru.ruwiki.ru, tadviser.ru and fas.gov.ru still found honors attributed only to the 2005 MGYuA diploma, never to the 1993 one; qualification stays null, now a fourth negative check, treated as settled. (2) publications/patents/h_index -- fresh query explicitly excluding namesakes still found no ORCID/eLibrary/patent record for this Ivanov (only a same-surname MSU virologist \"Иванов Пётр Алексеевич\" was found and rejected on patronymic mismatch); fields remain null/empty, treated as settled given four cumulative negative passes across rounds 1/2/this round. No GICS triple in this person's record was found mislabeled on inspection (banks, transport operators/infrastructure, government bodies were all re-checked against the named organizations' real primary business and gics_taxonomy.json)."
+  },
+  "tmt": [
+    {
+      "name": "Плотников Юрий Олегович",
+      "current_role": "Директор ПАО \"ДВМП\" как единоличный исполнительный орган по вопросам использования и защиты сведений, составляющих государственную тайну; CSV описывает роль как директор по охране государственной тайны.",
+      "company_name": "ПАО \"Дальневосточное морское пароходство\" / Транспортная группа FESCO",
+      "education": [
+        {
+          "institution": "Академия ФСБ России",
+          "year": null,
+          "field": "Юриспруденция",
+          "qualification": null,
+          "sources": [
+            {
+              "url": "https://www.fesco.ru/ru/press-center/news/sovet-direktorov-fesco-utverdil-novyy-sostav-pravleniya-08-08-2019/",
+              "title": "FESCO: Совет Директоров FESCO утвердил новый состав Правления (08.08.2019)",
+              "fact": "QUALITY PASS ROUND 1: официальный пресс-релиз FESCO указывает, что Юрий Плотников с мая 2019 года -- директор ПАО \"ДВМП\", с июня 2019 года -- вице-президент по безопасности, а 2 сентября 2019 года вошёл в состав Правления. До прихода в FESCO занимал руководящие должности в подразделениях безопасности АО \"Российская электроника\" и ПАО \"НК \"Роснефть\"; до 2013 года служил в Следственном управлении ФСБ России. Образование: Академия Федеральной службы безопасности Российской Федерации (специальность \"Юриспруденция\") и Российская академия государственной службы при Президенте РФ (специальность \"Государственное и муниципальное управление\")."
+            }
+          ],
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+          "year": null,
+          "field": "Государственное и муниципальное управление",
+          "qualification": null,
+          "sources": [
+            {
+              "url": "https://www.fesco.ru/ru/press-center/news/sovet-direktorov-fesco-utverdil-novyy-sostav-pravleniya-08-08-2019/",
+              "title": "FESCO: Совет Директоров FESCO утвердил новый состав Правления (08.08.2019)",
+              "fact": "QUALITY PASS ROUND 1: официальный пресс-релиз FESCO указывает, что Юрий Плотников с мая 2019 года -- директор ПАО \"ДВМП\", с июня 2019 года -- вице-президент по безопасности, а 2 сентября 2019 года вошёл в состав Правления. До прихода в FESCO занимал руководящие должности в подразделениях безопасности АО \"Российская электроника\" и ПАО \"НК \"Роснефть\"; до 2013 года служил в Следственном управлении ФСБ России. Образование: Академия Федеральной службы безопасности Российской Федерации (специальность \"Юриспруденция\") и Российская академия государственной службы при Президенте РФ (специальность \"Государственное и муниципальное управление\")."
+            }
+          ],
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ДВМП\"",
+          "role": "Директор",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "В 2024 году продолжал осуществлять полномочия Директора. Компетенция роли связана с использованием и защитой сведений, составляющих государственную тайну, и обработкой персональных данных в этом контексте. QUALITY PASS ROUND 1: FESCO's official 08.08.2019 press release confirms he was elected Director of PJSC DVMP from May 2019.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/FESH/Годовой отчет ПАО ДВМП за 2024 год.pdf",
+              "title": "Годовой отчет ПАО ДВМП за 2024 год",
+              "fact": "PDF page 162: годовой отчет описывает компетенцию Директора по вопросам государственной тайны и указывает, что полномочия Директора продолжает осуществлять Плотников Юрий Олегович."
+            },
+            {
+              "url": "https://ar2024.fesco.ru/corporate-governance/executive-bodies",
+              "title": "Годовой отчет FESCO 2024: Исполнительные органы",
+              "fact": "Строки 113-114: онлайн-отчет указывает компетенцию Директора по вопросам государственной тайны и что полномочия Директора продолжает осуществлять Плотников Юрий Олегович."
+            },
+            {
+              "url": "https://www.fesco.ru/ru/press-center/news/sovet-direktorov-fesco-utverdil-novyy-sostav-pravleniya-08-08-2019/",
+              "title": "FESCO: Совет Директоров FESCO утвердил новый состав Правления (08.08.2019)",
+              "fact": "QUALITY PASS ROUND 1: официальный пресс-релиз FESCO указывает, что Юрий Плотников с мая 2019 года -- директор ПАО \"ДВМП\", с июня 2019 года -- вице-президент по безопасности, а 2 сентября 2019 года вошёл в состав Правления. До прихода в FESCO занимал руководящие должности в подразделениях безопасности АО \"Российская электроника\" и ПАО \"НК \"Роснефть\"; до 2013 года служил в Следственном управлении ФСБ России. Образование: Академия Федеральной службы безопасности Российской Федерации (специальность \"Юриспруденция\") и Российская академия государственной службы при Президенте РФ (специальность \"Государственное и муниципальное управление\")."
+            }
+          ],
+          "sector": "Industrials",
+          "industry_group": "Transportation",
+          "industry": "Marine Transportation (New Name)"
+        },
+        {
+          "organization": "ООО \"Транспортная группа ФЕСКО\"",
+          "role": "Директор, вице-президент по безопасности",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Роль подтверждена университетской страницей МАДИ; даты назначения и подробная карьерная история не подтверждены. QUALITY PASS ROUND 1: FESCO's official 08.08.2019 press release confirms he has held the Vice President for Security post since June 2019 and joined the Management Board on 02.09.2019.",
+          "sources": [
+            {
+              "url": "https://www.madi.ru/8130-vypusknoy-fakulteta-logistiki-i-obschetransportnyh-problem.html",
+              "title": "МАДИ: Выпускной факультета Логистики и общетранспортных проблем",
+              "fact": "Строки 106-110: МАДИ называет Плотникова Юрия Олеговича директором, вице-президентом по безопасности ООО \"Транспортная группа ФЕСКО\" и членом Попечительского совета МАДИ."
+            },
+            {
+              "url": "https://www.fesco.ru/ru/press-center/news/sovet-direktorov-fesco-utverdil-novyy-sostav-pravleniya-08-08-2019/",
+              "title": "FESCO: Совет Директоров FESCO утвердил новый состав Правления (08.08.2019)",
+              "fact": "QUALITY PASS ROUND 1: официальный пресс-релиз FESCO указывает, что Юрий Плотников с мая 2019 года -- директор ПАО \"ДВМП\", с июня 2019 года -- вице-президент по безопасности, а 2 сентября 2019 года вошёл в состав Правления. До прихода в FESCO занимал руководящие должности в подразделениях безопасности АО \"Российская электроника\" и ПАО \"НК \"Роснефть\"; до 2013 года служил в Следственном управлении ФСБ России. Образование: Академия Федеральной службы безопасности Российской Федерации (специальность \"Юриспруденция\") и Российская академия государственной службы при Президенте РФ (специальность \"Государственное и муниципальное управление\")."
+            }
+          ],
+          "sector": "Industrials",
+          "industry_group": "Transportation",
+          "industry": "Marine Transportation (New Name)"
+        },
+        {
+          "organization": "АО \"Российская электроника\"",
+          "role": "Руководящие должности в подразделениях безопасности",
+          "start_year": null,
+          "end_year": null,
+          "description": "Работал в подразделениях безопасности до перехода в FESCO в 2019 году. Точные годы и точная хронология относительно ПАО \"НК \"Роснефть\" источником не уточнены; предполагаемое окно -- между уходом из Следственного управления ФСБ России (до 2013 года) и назначением в FESCO (2019 год).",
+          "sources": [
+            {
+              "url": "https://www.fesco.ru/ru/press-center/news/sovet-direktorov-fesco-utverdil-novyy-sostav-pravleniya-08-08-2019/",
+              "title": "FESCO: Совет Директоров FESCO утвердил новый состав Правления (08.08.2019)",
+              "fact": "QUALITY PASS ROUND 1: официальный пресс-релиз FESCO указывает, что Юрий Плотников с мая 2019 года -- директор ПАО \"ДВМП\", с июня 2019 года -- вице-президент по безопасности, а 2 сентября 2019 года вошёл в состав Правления. До прихода в FESCO занимал руководящие должности в подразделениях безопасности АО \"Российская электроника\" и ПАО \"НК \"Роснефть\"; до 2013 года служил в Следственном управлении ФСБ России. Образование: Академия Федеральной службы безопасности Российской Федерации (специальность \"Юриспруденция\") и Российская академия государственной службы при Президенте РФ (специальность \"Государственное и муниципальное управление\")."
+            },
+            {
+              "url": "https://www.tadviser.ru/index.php/Компания:Росэлектроника_(Российская_электроника)",
+              "title": "TAdviser: Росэлектроника (Российская электроника)",
+              "fact": "QUALITY PASS ROUND 1 (GICS sanity-check only, not a biography source): холдинг АО \"Российская электроника\" (с 2009 года в составе Госкорпорации \"Ростех\") специализируется на разработке и производстве радиоэлектронных компонентов, средств связи, АСУ, робототехники и вычислительной техники для оборонных и гражданских нужд -- использован только для проверки GICS-классификации этой организации, не для биографии Плотникова."
+            }
+          ],
+          "sector": "Information Technology",
+          "industry_group": "Technology Hardware & Equipment",
+          "industry": "Electronic Equipment, Instruments & Components"
+        },
+        {
+          "organization": "ПАО \"НК \"Роснефть\"",
+          "role": "Руководящие должности в подразделениях безопасности",
+          "start_year": null,
+          "end_year": null,
+          "description": "Работал в подразделениях безопасности до перехода в FESCO в 2019 году. Точные годы и точная хронология относительно АО \"Российская электроника\" источником не уточнены; предполагаемое окно -- между уходом из Следственного управления ФСБ России (до 2013 года) и назначением в FESCO (2019 год).",
+          "sources": [
+            {
+              "url": "https://www.fesco.ru/ru/press-center/news/sovet-direktorov-fesco-utverdil-novyy-sostav-pravleniya-08-08-2019/",
+              "title": "FESCO: Совет Директоров FESCO утвердил новый состав Правления (08.08.2019)",
+              "fact": "QUALITY PASS ROUND 1: официальный пресс-релиз FESCO указывает, что Юрий Плотников с мая 2019 года -- директор ПАО \"ДВМП\", с июня 2019 года -- вице-президент по безопасности, а 2 сентября 2019 года вошёл в состав Правления. До прихода в FESCO занимал руководящие должности в подразделениях безопасности АО \"Российская электроника\" и ПАО \"НК \"Роснефть\"; до 2013 года служил в Следственном управлении ФСБ России. Образование: Академия Федеральной службы безопасности Российской Федерации (специальность \"Юриспруденция\") и Российская академия государственной службы при Президенте РФ (специальность \"Государственное и муниципальное управление\")."
+            }
+          ],
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "Следственное управление ФСБ России",
+          "role": "Служба в Следственном управлении",
+          "start_year": null,
+          "end_year": 2013,
+          "description": "Источник (официальный пресс-релиз FESCO) указывает \"до 2013 года служил в Следственном управлении ФСБ России\"; дата начала службы не уточнена.",
+          "sources": [
+            {
+              "url": "https://www.fesco.ru/ru/press-center/news/sovet-direktorov-fesco-utverdil-novyy-sostav-pravleniya-08-08-2019/",
+              "title": "FESCO: Совет Директоров FESCO утвердил новый состав Правления (08.08.2019)",
+              "fact": "QUALITY PASS ROUND 1: официальный пресс-релиз FESCO указывает, что Юрий Плотников с мая 2019 года -- директор ПАО \"ДВМП\", с июня 2019 года -- вице-президент по безопасности, а 2 сентября 2019 года вошёл в состав Правления. До прихода в FESCO занимал руководящие должности в подразделениях безопасности АО \"Российская электроника\" и ПАО \"НК \"Роснефть\"; до 2013 года служил в Следственном управлении ФСБ России. Образование: Академия Федеральной службы безопасности Российской Федерации (специальность \"Юриспруденция\") и Российская академия государственной службы при Президенте РФ (специальность \"Государственное и муниципальное управление\")."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "МАДИ",
+          "role": "Член Попечительского совета",
+          "start_year": null,
+          "end_year": null,
+          "description": "Профессионально-общественная роль; не является подтверждением образования в МАДИ.",
+          "sources": [
+            {
+              "url": "https://www.madi.ru/8130-vypusknoy-fakulteta-logistiki-i-obschetransportnyh-problem.html",
+              "title": "МАДИ: Выпускной факультета Логистики и общетранспортных проблем",
+              "fact": "Строка 109: МАДИ указывает Плотникова Ю.О. как члена Попечительского совета МАДИ."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row for FESH lists Плотников Юрий Олегович as Директор по охране государственной тайны."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/FESH/Годовой отчет ПАО ДВМП за 2024 год.pdf",
+          "title": "Годовой отчет ПАО ДВМП за 2024 год",
+          "fact": "PDF page 162 confirms Plotnikov as Director in the 2024 executive-body structure."
+        },
+        {
+          "url": "https://ar2024.fesco.ru/corporate-governance/executive-bodies",
+          "title": "Годовой отчет FESCO 2024: Исполнительные органы",
+          "fact": "Строки 113-114 confirm Plotnikov continues to serve as Director."
+        },
+        {
+          "url": "https://www.fesco.ru/ru/press-center/news/sovet-direktorov-fesco-utverdil-novyy-sostav-pravleniya-08-08-2019/",
+          "title": "FESCO: Совет Директоров FESCO утвердил новый состав Правления (08.08.2019)",
+          "fact": "QUALITY PASS ROUND 1: официальный пресс-релиз FESCO указывает, что Юрий Плотников с мая 2019 года -- директор ПАО \"ДВМП\", с июня 2019 года -- вице-президент по безопасности, а 2 сентября 2019 года вошёл в состав Правления. До прихода в FESCO занимал руководящие должности в подразделениях безопасности АО \"Российская электроника\" и ПАО \"НК \"Роснефть\"; до 2013 года служил в Следственном управлении ФСБ России. Образование: Академия Федеральной службы безопасности Российской Федерации (специальность \"Юриспруденция\") и Российская академия государственной службы при Президенте РФ (специальность \"Государственное и муниципальное управление\")."
+        }
+      ],
+      "notes": "Идентификация по текущей роли надежная, но биография существенно неполная. Образование, ученые степени, предыдущие работодатели, публикации, патенты и h-index не подтверждены доступными источниками. Поисковые результаты с однофамильцами по научным профилям отвергнуты. QUALITY PASS ROUND 1 (2026-07-30): bounded honest-gap follow-up with fresh queries not tried in rounds 1/2 (\"Плотников Юрий Олегович ФЕСКО образование вуз до назначения биография\") surfaced FESCO's own official 08.08.2019 press release announcing the expanded Management Board, which gives -- for the first time in this file -- his education (Академия ФСБ России, специальность \"Юриспруденция\"; Российская академия государственной службы при Президенте РФ / РАНХиГС, специальность \"Государственное и муниципальное управление\"), his pre-FESCO career (security-department leadership at АО \"Российская электроника\" and ПАО \"НК \"Роснефть\"; before that, service in the FSB Investigative Directorate until 2013), and exact start dates for his two already-known FESCO roles (Director of PJSC DVMP from May 2019; VP for Security from June 2019; joined the Management Board 02.09.2019). Institution names written in canonical university_names.json form. qualification_degree set to 'Specialist degree' for both new education entries -- both institutions are cited by 'специальность' (not 'направление подготовки бакалавриата'), consistent with this project's established convention for pre-Bologna Russian specialty-based higher-education programs (same convention already used for Ivanov's Финансовый университет and МГЮА diplomas in this same file); confidence is moderate-high, not certain, since the source does not literally state a five-year program length. GICS triples for the three new employers: Российская электроника (Rostec-owned radio-electronics/microelectronics holding, confirmed via TAdviser) -> Information Technology/Technology Hardware & Equipment/Electronic Equipment, Instruments & Components; Роснефть -> Energy/Energy/Oil, Gas & Consumable Fuels (no dedicated research needed, unambiguous); Следственное управление ФСБ России -> null/null/null, a federal security/law-enforcement body, not a GICS-classifiable commercial entity. Birth year, exact pre-2019 dates, publications, patents and h_index remain unconfirmed and null -- out of scope for this bounded follow-up (no fresh query for these was run this round; a future pass could try Kremlin/government-decree databases for a birth year and FSB-era appointment dates, which were not attempted here)."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/FESH/Годовой отчет ПАО ДВМП за 2024 год.pdf",
+      "title": "Годовой отчет ПАО ДВМП за 2024 год",
+      "fact": "PDF pages 148-154: annual report describes three Board of Directors compositions during 2024 but anonymizes names; PDF pages 161-164 confirm executive bodies and current 2024 executive roles for Ivanov and Plotnikov."
+    },
+    {
+      "url": "https://ar2024.fesco.ru/corporate-governance/executive-bodies",
+      "title": "Годовой отчет FESCO 2024: Исполнительные органы",
+      "fact": "Official online annual report confirms the 2024 executive body structure, Ivanov as President from 23.09.2024, no CEO/General Director appointed, and Plotnikov continuing as Director."
+    },
+    {
+      "url": "https://ar2024.fesco.ru/strategic-report/letter-president",
+      "title": "Годовой отчет FESCO 2024: Обращение Президента",
+      "fact": "Line 124 signs the President's letter as \"Петр Иванов, Президент, Председатель Правления\"."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_Отчеты_2024/FESH/Годовой отчет ПАО ДВМП за 2024 год.pdf",
+      "title": "Годовой отчет ПАО ДВМП за 2024 год",
+      "fact": "Primary local annual report for 2024 governance and executive-body facts."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/FESH/2024_12 мес_Консолидированная финансовая отчетность 2024_РУС_РУБ.pdf",
+      "title": "Консолидированная финансовая отчетность ПАО ДВМП за 2024 год",
+      "fact": "Local financial statements checked; no person biographies or education found."
+    },
+    {
+      "url": "https://tass.ru/ekonomika/21935081",
+      "title": "ТАСС: Бывшего замглавы ФАС Петра Иванова назначили президентом Fesco",
+      "fact": "Confirms Ivanov's appointment as FESCO President from 23.09.2024 based on FESCO press-service statement."
+    },
+    {
+      "url": "https://tass.ru/encyclopedia/person/ivanov-petr-valerevich",
+      "title": "ТАСС: Иванов, Петр Валерьевич",
+      "fact": "Biographical profile for Ivanov's education, candidate degree and career."
+    },
+    {
+      "url": "https://www.madi.ru/8130-vypusknoy-fakulteta-logistiki-i-obschetransportnyh-problem.html",
+      "title": "МАДИ: Выпускной факультета Логистики и общетранспортных проблем",
+      "fact": "Confirms Plotnikov's FESCO security-role identity and MADI Board of Trustees membership."
+    },
+    {
+      "url": "https://www.fesco.ru/ru/press-center/news/sovet-direktorov-fesco-utverdil-novyy-sostav-pravleniya-08-08-2019/",
+      "title": "FESCO: Совет Директоров FESCO утвердил новый состав Правления (08.08.2019)",
+      "fact": "QUALITY PASS ROUND 1: официальный пресс-релиз FESCO указывает, что Юрий Плотников с мая 2019 года -- директор ПАО \"ДВМП\", с июня 2019 года -- вице-президент по безопасности, а 2 сентября 2019 года вошёл в состав Правления. До прихода в FESCO занимал руководящие должности в подразделениях безопасности АО \"Российская электроника\" и ПАО \"НК \"Роснефть\"; до 2013 года служил в Следственном управлении ФСБ России. Образование: Академия Федеральной службы безопасности Российской Федерации (специальность \"Юриспруденция\") и Российская академия государственной службы при Президенте РФ (специальность \"Государственное и муниципальное управление\")."
+    }
+  ],
+  "validation_notes": "Processed 2 people from CSV for FESH. Checked 2 relevant local documents. Completed 2 person research rounds total, one for Ivanov and one for Plotnikov. Ivanov's 2024 role is President/Chairman of the Management Board; General Director was not elected in 2024, so President is treated as the equivalent chief executive role. Plotnikov has substantial uncertainty: education, birth year, prior career, degrees, publications, patents and h-index are not confirmed in accessible sources. Weak/auxiliary sources were used only for context; unsupported blocked-snippet education for Plotnikov was not added. Board member personal names are anonymized in the annual report; this is recorded as a disclosure limitation. Rejected namesakes include scientific/professional profiles for other Plotnikovs and generic Ivanov matches without FESCO/FAS/RZD anchors. Search is considered complete because both local PDFs were checked first, official annual-report pages confirmed 2024 roles, separate education/career/appointment/scientific searches were performed, prior employers found for Ivanov were checked, and two subsequent search passes did not produce new accessible confirmed facts for Plotnikov. GAP-FILLING ROUND (2026-07-19): Company-level sector/industry_group/industry (Industrials/Transportation/Marine Transportation (New Name), copied verbatim from gics_taxonomy.json) verified unchanged from a prior pass. For Ivanov: qualification_degree confirmed present on both education[] entries ('Specialist degree' - five-year Soviet/Russian diploma-specialist programs, both the 1993 Finance Academy and 2005 MGYuA degrees, predating the Bologna two-tier system, per this project's convention for that degree type) and on degrees[] ('Doctoral degree' for 'Кандидат экономических наук' - the Russian post-graduate research doctorate, per this project's convention mapping it above Master's/MBA level); both education[] institution strings were checked against university_names.json and already match the exact canonical entries (no new institutions found, none logged to new_institutions_found); sector/industry_group/industry are present on every professional_experience entry, all copied verbatim from gics_taxonomy.json rows, except three government bodies (Moscow Dept. of Transport and Communications, Moscow Region Government, Federal Antimonopoly Service) which are deliberately left null/null/null because GICS classifies commercial industries, not state authorities, and guessing a bucket for a ministry/service would misrepresent the taxonomy. A targeted re-check of the honors/red-diploma detail for the 1993 degree (via Wikipedia and PortNews) confirmed birth data and the 2005 MGYuA honors diploma but found no confirmation of honors for the 1993 diploma, so that qualification value intentionally remains null. For Plotnikov: sector/industry_group/industry were added to all three professional_experience entries - PJSC DVMP and OOO Transport Group FESCO classified by their own core marine/integrated-transport business as Industrials/Transportation/Marine Transportation (New Name); MADI (a state technical university, not a commercial enterprise) is left null/null/null with this reasoning recorded, since GICS has no bucket for higher-education institutions and none should be guessed. A full-text, page-by-page re-scan of both local FESH PDFs (PyMuPDF) confirmed no additional Plotnikov biography beyond the already-known page-162 mention; a targeted re-fetch of the MADI page and the FESCO annual-report executive-bodies page found no new education/birth-year/career facts for Plotnikov - education, degrees, birth year, prior employers, publications, patents and h_index remain unconfirmed and are left null/empty rather than guessed, per this project's sourcing rule. This session's web-search tool quota was exhausted before additional fresh search-engine queries could be run for Plotnikov beyond the two direct source re-fetches; no previously confirmed fact for either person was altered or deleted in this round. No new institutions were found for this ticker (new_institutions_found is empty for FESH). Added the top-level new_institutions_found key (matching the schema convention already used in other processed ticker files) as an empty list for this ticker, since both of Ivanov education[] institutions matched university_names.json exactly and Plotnikov has no education[] entries to normalize. MASS DATA-LOSS REPAIR (2026-07-30): restored 0 shortened person notes, 0 shortened experience descriptions, 0 shortened education descriptions, 0 missing person-level sources, and 0 missing experience-level sources using git HEAD (commit 03bfe9f, 2026-07-20) as the reliable baseline. Nothing else in this file was touched.",
+  "sector": "Industrials",
+  "industry_group": "Transportation",
+  "industry": "Marine Transportation (New Name)"
+}

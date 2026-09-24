@@ -1,0 +1,111 @@
+﻿ticker,included,available_components,missing_components
+ABIO,True,5,
+AFKS,False,4,communication_score
+AFLT,True,5,
+AGRO,True,5,
+AKRN,False,4,face_score
+ALRS,True,5,
+APTK,True,5,
+AQUA,True,5,
+ASTR,True,5,
+BANEP,False,3,"face_score, communication_score"
+BELU,False,4,communication_score
+BSPB,False,3,"face_score, communication_score"
+CBOM,True,5,
+CHMF,False,3,"face_score, communication_score"
+CHMK,False,4,communication_score
+CIAN,True,5,
+DATA,True,5,
+DELI,True,5,
+DIAS,False,4,face_score
+DVEC,False,4,face_score
+ELFV,False,4,face_score
+ENPG,True,5,
+ETLN,True,5,
+EUTR,True,5,
+FEES,True,5,
+FESH,True,5,
+FIVE,True,5,
+FIXP,True,5,
+FLOT,False,4,communication_score
+GAZP,True,5,
+GEMC,True,5,
+GLTR,True,5,
+GMKN,True,5,
+HEAD,True,5,
+HNFG,True,5,
+HYDR,True,5,
+IRAO,True,5,
+IVAT,True,5,
+KAZT,True,5,
+KZOS,False,4,face_score
+LEAS,False,4,face_score
+LENT,False,4,face_score
+LKOH,False,3,"face_score, communication_score"
+LSNGP,True,5,
+LSRG,False,3,"face_score, communication_score"
+MAGN,False,4,face_score
+MBNK,False,4,face_score
+MDMG,False,4,face_score
+MGNT,False,4,face_score
+MGTSP,True,5,
+MOEX,True,5,
+MRKC,True,5,
+MRKP,True,5,
+MRKU,True,5,
+MRKV,True,5,
+MRKZ,True,5,
+MSNG,False,4,communication_score
+MSRS,True,5,
+MTLR,False,4,face_score
+MTSS,True,5,
+MVID,True,5,
+NKHP,False,3,"face_score, communication_score"
+NKNC,True,5,
+NLMK,True,5,
+NMTP,False,4,face_score
+NVTK,False,4,face_score
+OGKB,False,3,"face_score, communication_score"
+OKEY,False,3,"face_score, communication_score"
+OZON,False,3,"face_score, communication_score"
+OZPH,True,5,
+PHOR,True,5,
+PIKK,True,5,
+PLZL,False,4,communication_score
+POLY,False,4,communication_score
+POSI,True,5,
+PRMD,True,5,
+QIWI,False,1,"media_score, awards_score, face_score, communication_score"
+RASP,False,4,communication_score
+RENI,True,5,
+RKKE,False,4,communication_score
+RNFT,True,5,
+ROSN,True,5,
+RTKM,False,4,face_score
+RUAL,True,5,
+SBER,True,5,
+SELG,True,5,
+SFIN,False,4,face_score
+SGZH,True,5,
+SMLT,True,5,
+SNGS,False,4,communication_score
+SOFL,True,5,
+SPBE,True,5,
+SVAV,False,3,"face_score, communication_score"
+SVCB,True,5,
+T,False,4,communication_score
+TATN,True,5,
+TGKA,False,4,communication_score
+TGKB,False,4,face_score
+TRMK,False,4,communication_score
+TRNFP,True,5,
+TTLK,True,5,
+UGLD,True,5,
+UPRO,False,4,communication_score
+VKCO,False,4,communication_score
+VSEH,True,5,
+VSMO,False,3,"face_score, communication_score"
+VTBR,True,5,
+WUSH,False,4,face_score
+YDEX,True,5,
+ZAYM,False,4,face_score

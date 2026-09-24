@@ -1,0 +1,1897 @@
+{
+  "company_name": "Публичное акционерное общество «Трубная Металлургическая Компания»",
+  "company_ticker": "TRMK",
+  "ceo": {
+    "name": "Чикалов Сергей Геннадьевич",
+    "current_role": "генеральный директор ПАО «ТМК»; председатель Правления; член Совета директоров",
+    "company_name": "ПАО «ТМК»",
+    "education": [
+      {
+        "institution": "Московский государственный институт стали и сплавов",
+        "year": 1985,
+        "qualification": "высшее образование",
+        "description": null,
+        "sources": [
+          "https://globalmsk.ru/person/id/10230"
+        ],
+        "qualification_degree": "Unknown"
+      }
+    ],
+    "degrees": [
+      {
+        "degree": "доктор технических наук",
+        "field": "обработка металлов давлением",
+        "year": 2004,
+        "sources": [
+          "https://www.dissercat.com/content/teoreticheskie-osnovy-issledovanie-razrabotka-i-vnedrenie-vysokoeffektivnykh-tekhnologii-pro"
+        ],
+        "qualification_degree": "Doctoral degree"
+      }
+    ],
+    "professional_experience": [
+      {
+        "organization": "ПАО «ТМК»",
+        "role": "генеральный директор",
+        "start_year": 2023,
+        "end_year": null,
+        "description": "Внешние источники указывают назначение Сергея Чикалова генеральным директором ПАО «ТМК» в 2023 году; CSV фиксирует также председательство в Правлении и членство в Совете директоров.",
+        "sources": [
+          "https://globalmsk.ru/person/id/10230",
+          "https://www.star-pro.ru/assignment/sergej-chikalov-stal-gendirektorom-pao-tmk/",
+          "MOEXBMI_2024.csv"
+        ],
+        "sector": "Materials",
+        "industry_group": "Materials",
+        "industry": "Metals & Mining"
+      },
+      {
+        "organization": "Русский научно-исследовательский институт трубной промышленности",
+        "role": "генеральный директор",
+        "start_year": 1995,
+        "end_year": 2003,
+        "description": "Профиль GlobalMSK связывает Чикалова с РусНИТИ с 1995 года. ГЕНУИННАЯ НЕСТЫКОВКА, разрешена доп. исследованием в раунде quality_pass_round1_20260801: официальный сайт РосНИТИ (rosniti.ru, раздел «Управление») называет действующим генеральным директором института Пышминцева И.Ю., а собственная биография Пышминцева (amp-ru.ru) указывает, что он возглавляет РосНИТИ «с 2003 г.». Так как один институт не может одновременно возглавляться двумя людьми, end_year ограничен 2003 годом — подтвержденной датой начала руководства Пышминцева — как верхней границей; точная дата ухода Чикалова из РусНИТИ отдельно не подтверждена ни одним источником.",
+        "sources": [
+          "https://globalmsk.ru/person/id/10230",
+          "https://www.rosniti.ru/institute/28/986/",
+          "https://amp-ru.ru/cv_pyshmintsev"
+        ],
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "ОАО «Челябинский трубопрокатный завод»",
+        "role": "директор по стратегическому развитию",
+        "start_year": null,
+        "end_year": null,
+        "description": "Профиль GlobalMSK указывает эту карьерную позицию до перехода к должностям в ТМК.",
+        "sources": [
+          "https://globalmsk.ru/person/id/10230"
+        ],
+        "sector": "Materials",
+        "industry_group": "Materials",
+        "industry": "Metals & Mining"
+      }
+    ],
+    "research_experience": [
+      {
+        "organization": "РусНИТИ",
+        "role": "руководитель научно-исследовательской организации трубной промышленности",
+        "start_year": 1995,
+        "end_year": null,
+        "description": "Работа в РусНИТИ указывает на исследовательско-инженерный профиль, но отдельные публикации и патенты не были безопасно атрибутированы.",
+        "sources": [
+          "https://globalmsk.ru/person/id/10230"
+        ]
+      }
+    ],
+    "publications": [
+      {
+        "title": "Теоретические основы, исследование, разработка и внедрение высокоэффективных технологий производства бесшовных труб с использованием непрерывнолитой заготовки",
+        "year": 2004,
+        "venue": "Докторская диссертация, специальность 05.16.05 (обработка металлов давлением), Москва, 407 с.",
+        "description": "Диссертация на соискание степени доктора технических наук; найдена в раунде quality_pass_round1_20260801 через прямую проверку dissercat.com.",
+        "sources": [
+          "https://www.dissercat.com/content/teoreticheskie-osnovy-issledovanie-razrabotka-i-vnedrenie-vysokoeffektivnykh-tekhnologii-pro"
+        ]
+      }
+    ],
+    "patents": [
+      {
+        "title": "Способ изготовления горячепрессованных труб из стали типа 13Cr",
+        "patent_number": "RU2794330C1",
+        "year": 2023,
+        "description": "Патентообладатель — АО «Волжский трубный завод» (ТМК); Чикалов Сергей Геннадьевич указан первым в списке из 15 изобретателей.",
+        "sources": [
+          "https://patents.google.com/patent/RU2794330C1"
+        ]
+      },
+      {
+        "title": "Способ изготовления тонкостенных холоднодеформированных труб шестигранного сечения",
+        "patent_number": "RU2812288C1",
+        "year": 2024,
+        "description": "Патентообладатель — ООО «Исследовательский центр ТМК»; Чикалов Сергей Геннадьевич указан соавтором вместе с Д.А. Пумпянским (председатель Совета директоров ТМК) и др.",
+        "sources": [
+          "https://patents.google.com/patent/RU2812288C1"
+        ]
+      }
+    ],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "https://globalmsk.ru/person/id/10230",
+        "title": "GlobalMSK — Чикалов Сергей Геннадьевич",
+        "fact": "Основной биографический источник по образованию и опыту Чикалова."
+      },
+      {
+        "url": "https://www.star-pro.ru/assignment/sergej-chikalov-stal-gendirektorom-pao-tmk/",
+        "title": "Star-pro — назначение в ТМК",
+        "fact": "Источник по назначению генеральным директором."
+      },
+      {
+        "url": "https://globalmsk.ru/person/id/10230",
+        "title": "GlobalMSK — Чикалов Сергей Геннадьевич",
+        "fact": "Биографическая справка указывает окончание Московского государственного института стали и сплавов в 1985 году."
+      },
+      {
+        "url": "https://globalmsk.ru/person/id/10230",
+        "title": "GlobalMSK — Чикалов Сергей Геннадьевич",
+        "fact": "Профиль указывает должность генерального директора ПАО «ТМК»."
+      },
+      {
+        "url": "https://www.star-pro.ru/assignment/sergej-chikalov-stal-gendirektorom-pao-tmk/",
+        "title": "Star-pro — Сергей Чикалов стал гендиректором ПАО «ТМК»",
+        "fact": "Новость сообщает о назначении Сергея Чикалова генеральным директором ПАО «ТМК»."
+      },
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "Строка TRMK указывает Чикалова генеральным директором ПАО «ТМК», председателем Правления и членом Совета директоров."
+      },
+      {
+        "url": "https://globalmsk.ru/person/id/10230",
+        "title": "GlobalMSK — Чикалов Сергей Геннадьевич",
+        "fact": "Профиль описывает работу Чикалова в РусНИТИ начиная с 1995 года."
+      },
+      {
+        "url": "https://globalmsk.ru/person/id/10230",
+        "title": "GlobalMSK — Чикалов Сергей Геннадьевич",
+        "fact": "Биографическая справка содержит должность директора по стратегическому развитию ОАО «ЧТПЗ»."
+      },
+      {
+        "url": "https://globalmsk.ru/person/id/10230",
+        "title": "GlobalMSK — Чикалов Сергей Геннадьевич",
+        "fact": "Профиль связывает Чикалова с РусНИТИ."
+      },
+      {
+        "url": "https://www.dissercat.com/content/teoreticheskie-osnovy-issledovanie-razrabotka-i-vnedrenie-vysokoeffektivnykh-tekhnologii-pro",
+        "title": "Dissercat — докторская диссертация Чикалова С.Г.",
+        "fact": "Прямая проверка страницы подтверждает: Чикалов Сергей Геннадьевич, доктор технических наук, специальность 05.16.05, защита в 2004 году в Москве, 407 страниц, тема о технологиях производства бесшовных труб."
+      },
+      {
+        "url": "https://patents.google.com/patent/RU2794330C1",
+        "title": "Google Patents — RU2794330C1",
+        "fact": "Патент АО «Волжский трубный завод» (публикация 2023 года); Чикалов Сергей Геннадьевич указан первым автором."
+      },
+      {
+        "url": "https://patents.google.com/patent/RU2812288C1",
+        "title": "Google Patents — RU2812288C1",
+        "fact": "Патент ООО «Исследовательский центр ТМК» (публикация 2024 года); Чикалов Сергей Геннадьевич указан соавтором вместе с Д.А. Пумпянским."
+      },
+      {
+        "url": "https://www.rosniti.ru/institute/28/986/",
+        "title": "РосНИТИ — Управление",
+        "fact": "Официальная страница указывает действующим генеральным директором института Пышминцева Игоря Юрьевича, а не Чикалова; использовано для разрешения нестыковки по руководству РусНИТИ."
+      }
+    ],
+    "notes": "ОБНОВЛЕНО в раунде quality_pass_round1_20260801: добавлена докторская степень (доктор технических наук, 2004, специальность 05.16.05) и 2 патента (RU2794330C1, RU2812288C1), найденные прямой проверкой Google Patents и dissercat.com — оба подтверждены как принадлежащие именно этому Чикалову (соавторство с Д.А. Пумпянским, патентообладатели — предприятия ТМК). Публикации по-прежнему представлены только диссертацией; отдельный агрегированный список публикаций и h-index не найдены даже после дополнительного целевого поиска (см. раунд для списка запросов) — оставлены null/минимальными как честный пробел. ГЕНУИННАЯ НЕСТЫКОВКА разрешена: роль генерального директора РусНИТИ ограничена по времени 2003 годом (см. professional_experience) на основании официального сайта института и биографии Пышминцева. Роль из CSV: Генеральный директор ПАО «ТМК»; председатель Правления; член Совета директоров"
+  },
+  "tmt": [
+    {
+      "name": "Венде Франк-Детлеф",
+      "current_role": "независимый член Совета директоров ПАО «ТМК»",
+      "company_name": "ПАО «ТМК»",
+      "education": [
+        {
+          "institution": "Московский автомобильно-дорожный государственный технический университет (МАДИ)",
+          "year": 1975,
+          "qualification": "высшее образование",
+          "description": null,
+          "sources": [
+            "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "кандидат технических наук",
+          "field": "технические науки",
+          "year": null,
+          "sources": [
+            "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf"
+          ],
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО «ТМК»",
+          "role": "член Совета директоров",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Годовой отчет ТМК за 2019 год указывает Венде в составе Совета директоров; CSV фиксирует его как независимого члена Совета директоров в контексте 2024 года.",
+          "sources": [
+            "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+            "MOEXBMI_2024.csv"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "Финансовый университет при Правительстве РФ",
+          "role": "заведующий кафедрой логистики / руководитель факультета логистики",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Отчет ТМК за 2019 год связывает Венде с Финансовым университетом и логистическим направлением.",
+          "sources": [
+            "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+            "https://logist.ru/2024/"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "Московский автомобильно-дорожный государственный технический университет",
+          "role": "заведующий кафедрой логистики",
+          "start_year": 2016,
+          "end_year": 2019,
+          "description": "Академическая должность зафиксирована в биографической справке ТМК.",
+          "sources": [
+            "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf"
+          ]
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+          "title": "TMK Annual Report 2019",
+          "fact": "Основной источник по образованию, ученой степени и профессиональной биографии Франка-Детлефа Венде."
+        },
+        {
+          "url": "https://logist.ru/2024/",
+          "title": "Международный логистический форум 2024",
+          "fact": "Внешний источник по связке Венде с ТМК и Финансовым университетом в 2024 году."
+        },
+        {
+          "url": "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+          "title": "TMK Annual Report 2019",
+          "fact": "Биографическая справка Франка-Детлефа Венде указывает окончание Московского автомобильно-дорожного государственного технического университета в 1975 году."
+        },
+        {
+          "url": "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+          "title": "TMK Annual Report 2019",
+          "fact": "ИСПРАВЛЕНО в раунде quality_pass_round1_20260801 (генуинная нестыковка): прямая проверка стр. 68 отчета показывает точную формулировку «holds a PhD in Technical Sciences, Professor» (не «Doctor of Technical Sciences», как ошибочно было указано ранее) — это соответствует «кандидат технических наук», а не «доктор технических наук». Для сравнения на той же странице отчета про С. Кравченко прямо написано «is a Doctor of Technical Sciences» — то есть отчет различает эти два уровня, и Венде явно отнесен к PhD/кандидату."
+        },
+        {
+          "url": "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+          "title": "TMK Annual Report 2019",
+          "fact": "Отчет указывает Франка-Детлефа Венде членом Совета директоров ПАО «ТМК»."
+        },
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "Строка TRMK указывает Венде Франка-Детлефа независимым членом Совета директоров ПАО «ТМК»."
+        },
+        {
+          "url": "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+          "title": "TMK Annual Report 2019",
+          "fact": "Биографическая справка указывает работу Франка-Детлефа Венде в Финансовом университете с 2019 года."
+        },
+        {
+          "url": "https://logist.ru/2024/",
+          "title": "Международный логистический форум 2024",
+          "fact": "Страница форума указывает Франка-Детлефа Венде как члена Совета директоров ТМК и заведующего кафедрой «Логистика» Финансового университета."
+        },
+        {
+          "url": "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+          "title": "TMK Annual Report 2019",
+          "fact": "Отчет указывает работу Венде в МАДИ в 2016-2019 годах."
+        }
+      ],
+      "notes": "ИСПРАВЛЕНО в раунде quality_pass_round1_20260801: генуинная нестыковка между JSON («доктор технических наук») и первоисточником (TMK Annual Report 2019, стр. 68: «holds a PhD in Technical Sciences» = кандидат) — прямой повторной проверкой PDF-страницы подтверждено, что верное значение «кандидат технических наук»; исправлено, qualification_degree оставлен «Doctoral degree» по аналогии с трактовкой этого уровня степени у Каплунова в этом же файле. Институт образования нормализован к каноническому виду с «(МАДИ)» по university_names.json (тот же вид уже используется в ASTR_person_info.json). GICS роли в Финансовом университете исправлен на null/null/null — государственный вуз не является коммерческой GICS-категорией (аналогично министерству/госоргану). Публикации, патенты и h-index не заполнены: отдельный надежно атрибутированный авторский профиль в рамках раунда не подтвержден. Роль из CSV: Независимый член Совета директоров ПАО «ТМК»"
+    },
+    {
+      "name": "Каплунов Андрей Юрьевич",
+      "current_role": "вице-президент ПАО «ТМК»; член Совета директоров",
+      "company_name": "ПАО «ТМК»",
+      "education": [
+        {
+          "institution": "Московский финансовый институт",
+          "year": 1982,
+          "qualification": "высшее образование",
+          "description": null,
+          "sources": [
+            "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf"
+          ],
+          "qualification_degree": "Unknown"
+        },
+        {
+          "institution": "Московский финансовый институт",
+          "year": null,
+          "qualification": "аспирантура",
+          "description": null,
+          "sources": [
+            "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "кандидат экономических наук",
+          "field": "экономические науки",
+          "year": null,
+          "sources": [
+            "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf"
+          ],
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО «ТМК»",
+          "role": "вице-президент",
+          "start_year": 2001,
+          "end_year": null,
+          "description": "Отчет ТМК связывает Каплунова с группой ТМК с 2001 года; официальная страница TMK2U указывает его первым вице-президентом корпоративного университета.",
+          "sources": [
+            "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+            "https://www.tmk-group.ru/tmk2u_leadership",
+            "MOEXBMI_2024.csv"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ПАО «ТМК»",
+          "role": "член Совета директоров",
+          "start_year": 2014,
+          "end_year": null,
+          "description": "Отчет ТМК за 2019 год указывает Каплунова членом Совета директоров с 2014 года; CSV фиксирует эту роль в контексте 2024 года.",
+          "sources": [
+            "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+            "MOEXBMI_2024.csv"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "Группа Синара",
+          "role": "вице-президент",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Роль указана в биографической справке годового отчета ТМК за 2019 год.",
+          "sources": [
+            "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf"
+          ],
+          "sector": "Industrials",
+          "industry_group": "Capital Goods",
+          "industry": "Machinery"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+          "title": "TMK Annual Report 2019",
+          "fact": "Основной источник по образованию, степени и карьере Андрея Каплунова."
+        },
+        {
+          "url": "https://www.tmk-group.ru/tmk2u_leadership",
+          "title": "TMK2U — Руководство",
+          "fact": "Официальный источник по роли Каплунова в TMK2U."
+        },
+        {
+          "url": "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+          "title": "TMK Annual Report 2019",
+          "fact": "Биография Андрея Каплунова указывает окончание Московского финансового института в 1982 году."
+        },
+        {
+          "url": "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+          "title": "TMK Annual Report 2019",
+          "fact": "Биография указывает postgraduate studies в Московском финансовом институте."
+        },
+        {
+          "url": "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+          "title": "TMK Annual Report 2019",
+          "fact": "Отчет указывает степень PhD in Economics / кандидат экономических наук."
+        },
+        {
+          "url": "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+          "title": "TMK Annual Report 2019",
+          "fact": "Биографическая справка указывает, что Андрей Каплунов joined TMK in 2001."
+        },
+        {
+          "url": "https://www.tmk-group.ru/tmk2u_leadership",
+          "title": "TMK2U — Руководство",
+          "fact": "Официальная страница указывает Андрея Каплунова как первого вице-президента Корпоративного университета TMK2U."
+        },
+        {
+          "url": "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+          "title": "TMK Annual Report 2019",
+          "fact": "Отчет указывает членство Андрея Каплунова в Совете директоров ПАО «ТМК» с 2014 года."
+        },
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "Строка TRMK указывает Каплунова вице-президентом ПАО «ТМК» и членом Совета директоров."
+        },
+        {
+          "url": "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+          "title": "TMK Annual Report 2019",
+          "fact": "Отчет указывает Каплунова вице-президентом Группы Синара с 2019 года."
+        }
+      ],
+      "notes": "ИСПРАВЛЕНО в раунде quality_pass_round1_20260801 (GICS): роль в Группе Синара переклассифицирована с Materials/Materials/Metals & Mining на Industrials/Capital Goods/Machinery — Группа Синара диверсифицированный холдинг (машиностроение/локомотивы через «Уральские локомотивы», недвижимость, банкинг, гостиничный бизнес, агробизнес, энергетика), но флагманским и наиболее заметным профильным бизнесом является машиностроение (производство локомотивов и подвижного состава), а не металлургия — ТМК тут ни при чем, это отдельная от ТМК структура. Научные публикации, патенты и h-index не заполнены: наличие ученой степени подтверждено, но отдельный авторский профиль не атрибутирован. Роль из CSV: Вице-президент ПАО «ТМК»; член Совета директоров"
+    },
+    {
+      "name": "Кузьминов Ярослав Иванович",
+      "current_role": "независимый член Совета директоров ПАО «ТМК»",
+      "company_name": "ПАО «ТМК»",
+      "education": [
+        {
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "year": 1979,
+          "qualification": "высшее образование",
+          "description": "Original education details: field: экономика.",
+          "sources": [
+            "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "кандидат экономических наук",
+          "field": "экономические науки",
+          "year": null,
+          "sources": [
+            "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf"
+          ],
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО «ТМК»",
+          "role": "независимый член Совета директоров",
+          "start_year": 2018,
+          "end_year": null,
+          "description": "Годовой отчет ТМК за 2019 год указывает Кузьминова членом Совета директоров с 2018 года; CSV фиксирует независимый статус в контексте 2024 года.",
+          "sources": [
+            "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+            "MOEXBMI_2024.csv"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "НИУ ВШЭ",
+          "role": "ректор",
+          "start_year": 2014,
+          "end_year": null,
+          "description": "Роль ректора НИУ ВШЭ указана в биографической справке ТМК за 2019 год; актуальность этой должности после 2019 года отдельно не переносилась на 2024 год.",
+          "sources": [
+            "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "НИУ ВШЭ",
+          "role": "академический и управленческий руководитель университета",
+          "start_year": 2014,
+          "end_year": null,
+          "description": "Биография ТМК подтверждает академическую должность; конкретные публикации и авторский профиль в этом раунде не атрибутированы.",
+          "sources": [
+            "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf"
+          ]
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+          "title": "TMK Annual Report 2019",
+          "fact": "Основной источник по образованию, степени и роли Кузьминова в ТМК."
+        },
+        {
+          "url": "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+          "title": "TMK Annual Report 2019",
+          "fact": "Биография Ярослава Кузьминова указывает окончание МГУ имени М.В. Ломоносова в 1979 году."
+        },
+        {
+          "url": "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+          "title": "TMK Annual Report 2019",
+          "fact": "Отчет указывает Кузьминова как PhD in Economics / кандидата экономических наук."
+        },
+        {
+          "url": "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+          "title": "TMK Annual Report 2019",
+          "fact": "Отчет указывает Кузьминова членом Совета директоров ПАО «ТМК» с 2018 года."
+        },
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "Строка TRMK указывает Кузьминова независимым членом Совета директоров ПАО «ТМК»."
+        },
+        {
+          "url": "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+          "title": "TMK Annual Report 2019",
+          "fact": "Отчет указывает Ярослава Кузьминова ректором НИУ ВШЭ с 2014 года."
+        },
+        {
+          "url": "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+          "title": "TMK Annual Report 2019",
+          "fact": "Отчет указывает Кузьминова как ректора НИУ ВШЭ и кандидата экономических наук."
+        }
+      ],
+      "notes": "ИСПРАВЛЕНО в раунде quality_pass_round1_20260801: (1) qualification_degree для степени кандидата экономических наук был null при уже подтвержденном факте степени (TMK Annual Report 2019, стр. 66: «He holds a PhD in Economics») — простое упущение, исправлено на «Doctoral degree» по аналогии с трактовкой этого же уровня степени у Венде и Каплунова в этом файле; (2) GICS роли ректора НИУ ВШЭ исправлен с Materials/Materials/Metals & Mining на null/null/null — государственный исследовательский университет не является коммерческой GICS-категорией (аналогично министерству/госоргану), ошибочная метка, видимо, была механически унаследована от классификации ТМК-роли того же человека. Для 2024 года независимый статус взят из CSV-контекста; публичный официальный список с персональным составом Совета директоров 2024 года в рамках раунда не был полнотекстово извлечен. Публикации и h-index не заполнены без отдельной проверки авторского профиля. Роль из CSV: Независимый член Совета директоров ПАО «ТМК»"
+    },
+    {
+      "name": "Петросян Тигран Ишханович",
+      "current_role": "член Совета директоров ПАО «ТМК»",
+      "company_name": "ПАО «ТМК»",
+      "education": [
+        {
+          "institution": "Ереванский государственный университет",
+          "year": 1993,
+          "qualification": "высшее образование",
+          "description": null,
+          "sources": [
+            "https://sintz.tmk-group.ru/media_ru/files/290/470/sintz_go2016.pdf"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «ТМК»",
+          "role": "заместитель генерального директора по экономике и финансам",
+          "start_year": 2001,
+          "end_year": null,
+          "description": "CSV фиксирует Петросяна членом Совета директоров в контексте TRMK 2024; независимое внешнее подтверждение именно состава 2024 года требует дополнительного раунда.",
+          "sources": [
+            "https://sintz.tmk-group.ru/media_ru/files/290/470/sintz_go2016.pdf",
+            "MOEXBMI_2024.csv"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ПАО «ТМК»",
+          "role": "член Совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "CSV фиксирует Петросяна членом Совета директоров в контексте TRMK 2024; независимое внешнее подтверждение именно состава 2024 года требует дополнительного раунда.",
+          "sources": [
+            "MOEXBMI_2024.csv"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ОАО «Волжский трубный завод»",
+          "role": "начальник планово-экономического управления",
+          "start_year": null,
+          "end_year": null,
+          "description": "НАЙДЕНО в раунде quality_pass_round1_20260801 прямой повторной проверкой уже процитированного источника (полная биографическая справка на стр. 31 отчета): «...ранее... начальник планово-экономического управления ОАО «ВТЗ»...» — более ранняя должность Петросяна до перехода в головной офис ТМК.",
+          "sources": [
+            "https://sintz.tmk-group.ru/media_ru/files/290/470/sintz_go2016.pdf"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ООО «Волжский аудит»",
+          "role": "заместитель генерального директора",
+          "start_year": null,
+          "end_year": null,
+          "description": "НАЙДЕНО в раунде quality_pass_round1_20260801: та же биографическая справка указывает более раннюю должность «Заместитель Генерального директора ООО «Волжский аудит»».",
+          "sources": [
+            "https://sintz.tmk-group.ru/media_ru/files/290/470/sintz_go2016.pdf"
+          ],
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "Министерство экономики Республики Армения",
+          "role": "сотрудник",
+          "start_year": null,
+          "end_year": null,
+          "description": "НАЙДЕНО в раунде quality_pass_round1_20260801: биографическая справка указывает самую раннюю карьерную позицию — «сотрудник Министерства экономики Республики Армения», до перехода в трубную отрасль. GICS не присвоен — государственный орган, некоммерческая структура.",
+          "sources": [
+            "https://sintz.tmk-group.ru/media_ru/files/290/470/sintz_go2016.pdf"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://sintz.tmk-group.ru/media_ru/files/290/470/sintz_go2016.pdf",
+          "title": "Синарский трубный завод — годовой отчет 2016",
+          "fact": "Основной источник по образованию и карьере Петросяна в ТМК."
+        },
+        {
+          "url": "https://sintz.tmk-group.ru/media_ru/files/290/470/sintz_go2016.pdf",
+          "title": "Синарский трубный завод — годовой отчет 2016",
+          "fact": "Биографическая справка Тиграна Петросяна указывает окончание Ереванского государственного университета в 1993 году."
+        },
+        {
+          "url": "https://sintz.tmk-group.ru/media_ru/files/290/470/sintz_go2016.pdf",
+          "title": "Синарский трубный завод — годовой отчет 2016",
+          "fact": "Источник указывает, что Тигран Петросян работает в ТМК с 2001 года и является заместителем генерального директора по экономике и финансам."
+        },
+        {
+          "url": "https://sintz.tmk-group.ru/media_ru/files/290/470/sintz_go2016.pdf",
+          "title": "Синарский трубный завод — годовой отчет 2016, стр. 31",
+          "fact": "Полный текст биографии (проверен повторно в раунде quality_pass_round1_20260801): «Петросян Тигран Ишханович. Родился в 1968 году. В 1993 году окончил Ереванский государственный университет. Профессиональный опыт: Заместитель Генерального директора по экономике и финансам ПАО «ТМК». Работает в ТМК с 2001 года. Член Совета директоров АО «ТД «ТМК», российских трубных заводов ТМК, ранее - Заместитель Генерального директора по экономике ОАО «ТМК» и ЗАО «ТД «ТМК», Директор Дирекции по экономике и планированию ОАО «ТМК», начальник планово-экономического управления ОАО «ВТЗ», Заместитель Генерального директора ООО «Волжский аудит», сотрудник Министерства экономики Республики Армения.» Подтверждает start_year 2001 (стартовый год работы в ТМК) как корректный, несмотря на найденный сторонний профиль VIPERSON, указывающий «с апреля 2007 г.» (вероятно, это дата конкретно объединенной должности «по экономике и финансам», а не даты прихода в ТМК — не считается нестыковкой)."
+        },
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "Строка TRMK указывает Петросяна членом Совета директоров ПАО «ТМК»."
+        }
+      ],
+      "notes": "ОБНОВЛЕНО в раунде quality_pass_round1_20260801 (honest-gap follow-up): повторная прямая проверка уже процитированного источника (sintz_go2016.pdf, стр. 31) вскрыла полный текст биографии, ранее не извлеченный полностью — добавлены 3 более ранние карьерные позиции (ОАО «ВТЗ», ООО «Волжский аудит», Министерство экономики Армении). Свежий поиск по кандидат/доктор наук для Петросяна (запросы: 'Петросян Тигран Ишханович кандидат наук ТМК финансы', 'Tigran Petrosyan TMK PhD economics') не нашел никакой ученой степени — гэп остается неразрешенным, оставлено null/[]. Данные о научных степенях, публикациях, патентах и h-index не подтверждены. Роль члена Совета директоров на 2024 год пока подтверждена только CSV-контекстом. Роль из CSV: Член Совета директоров ПАО «ТМК»"
+    },
+    {
+      "name": "Попов Михаил Владимирович",
+      "current_role": "член Совета директоров ПАО «ТМК»",
+      "company_name": "ПАО «ТМК»",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «ТМК»",
+          "role": "член Совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "Роль зафиксирована в CSV для TRMK 2024; депозитарное сообщение по годовому собранию 24.05.2024 содержит Михаила Попова в списке лиц по вопросу об избрании Совета директоров.",
+          "sources": [
+            "https://octan.ru/deponews/2024/05/03/I0355683/",
+            "MOEXBMI_2024.csv"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "Российский союз промышленников и предпринимателей",
+          "role": "заместитель сопредседателя Комиссии РСПП по строительному комплексу",
+          "start_year": null,
+          "end_year": null,
+          "description": "Внешний профиль указывает одноименного Михаила Попова как вице-президента ПАО «ТМК» и заместителя сопредседателя комиссии РСПП; требуется дополнительная проверка связки с членом Совета директоров 2024.",
+          "sources": [
+            "https://study.sociocenter.info/publication/468/"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО «ТМК»",
+          "role": "вице-президент",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "НАЙДЕНО в раунде quality_pass_round1_20260801 (honest-gap follow-up): Forbes подтверждает прямой цитатой, что в 2019 году Михаил Попов занял пост вице-президента ПАО «ТМК», ранее работав в Курчатовском институте. Это отдельная, более широкая должность, чем указанная в CSV «член Совета директоров» — current_role оставлен без изменений, так как CSV-строка 2024 года называет только позицию члена Совета директоров.",
+          "sources": [
+            "https://www.forbes.ru/milliardery/427431-master-klass-po-trube-kak-milliarder-dmitriy-pumpyanskiy-vystraivaet-otnosheniya",
+            "https://study.sociocenter.info/publication/468/"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "Национальный исследовательский центр «Курчатовский институт»",
+          "role": "главный ученый секретарь",
+          "start_year": null,
+          "end_year": 2019,
+          "description": "НАЙДЕНО в раунде quality_pass_round1_20260801: Forbes указывает, что до перехода в ТМК в 2019 году Попов работал главным ученым секретарем Курчатовского института и заместителем М. Ковальчука. GICS не присвоен — государственный научный центр, некоммерческая структура.",
+          "sources": [
+            "https://www.forbes.ru/milliardery/427431-master-klass-po-trube-kak-milliarder-dmitriy-pumpyanskiy-vystraivaet-otnosheniya"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://study.sociocenter.info/publication/468/",
+          "title": "Социоцентр — мероприятие по НСПК",
+          "fact": "Вспомогательный источник по профессиональной роли Михаила Попова в ТМК/РСПП."
+        },
+        {
+          "url": "https://www.forbes.ru/milliardery/427431-master-klass-po-trube-kak-milliarder-dmitriy-pumpyanskiy-vystraivaet-otnosheniya",
+          "title": "Forbes — «Мастер-класс по трубе: как миллиардер Дмитрий Пумпянский выстраивает отношения»",
+          "fact": "Прямая цитата подтверждает: «в 2019 году пост вице-президента компании занял Михаил Попов, который до этого работал главным ученым секретарем Курчатовского института и заместителем Ковальчука»."
+        },
+        {
+          "url": "https://octan.ru/deponews/2024/05/03/I0355683/",
+          "title": "Октан-Брокер / НРД — годовое собрание ПАО «ТМК» 24.05.2024",
+          "fact": "Сообщение содержит Попова Михаила Владимировича в списке кандидатов/лиц по вопросу об избрании Совета директоров ПАО «ТМК»."
+        },
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "Строка TRMK указывает Попова Михаила Владимировича членом Совета директоров ПАО «ТМК»."
+        },
+        {
+          "url": "https://study.sociocenter.info/publication/468/",
+          "title": "Социоцентр — круглый стол по Национальной системе профессиональных квалификаций",
+          "fact": "Страница мероприятия указывает Михаила Владимировича Попова, вице-президента ПАО «ТМК», заместителем сопредседателя Комиссии РСПП по строительному комплексу."
+        }
+      ],
+      "notes": "ОБНОВЛЕНО в раунде quality_pass_round1_20260801: (1) GICS роли в РСПП исправлен на null/null/null — отраслевая ассоциация/лоббистская организация не является коммерческой GICS-категорией, ошибочно была помечена как Metals & Mining; (2) honest-gap follow-up нашел и добавил подтвержденную Forbes должность вице-президента ПАО «ТМК» (с 2019 года) и предыдущую должность главного ученого секретаря Курчатовского института (до 2019 года) — обе прямо процитированы из первоисточника. Образование, ученые степени, публикации, патенты и h-index по-прежнему не заполнены — свежий поиск (запросы: 'Попов Михаил Владимирович образование вуз', 'Mikhail Popov TMK education university') не нашел вузовской биографии. Роль из CSV: Член Совета директоров ПАО «ТМК»"
+    },
+    {
+      "name": "Романенко Алексей Михайлович",
+      "current_role": "член Совета директоров ПАО «ТМК»",
+      "company_name": "ПАО «ТМК»",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «ТМК»",
+          "role": "член Совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "Роль зафиксирована в CSV для TRMK 2024; депозитарное сообщение по годовому собранию 24.05.2024 содержит Романенко в списке лиц по вопросу об избрании Совета директоров.",
+          "sources": [
+            "https://octan.ru/deponews/2024/05/03/I0355683/",
+            "MOEXBMI_2024.csv"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "KPMG",
+          "role": "руководитель / партнер, налоговое консультирование по энергетическому сектору",
+          "start_year": 2000,
+          "end_year": null,
+          "description": "Найден внешний профиль Алексея Романенко из KPMG; привязка к члену Совета директоров ТМК требует дополнительной независимой проверки.",
+          "sources": [
+            "https://www.law.msu.ru/node/84417"
+          ],
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://octan.ru/deponews/2024/05/03/I0355683/",
+          "title": "Октан-Брокер / НРД — годовое собрание ПАО «ТМК» 24.05.2024",
+          "fact": "Внешний источник по связи Романенко с вопросом об избрании Совета директоров ПАО «ТМК»."
+        },
+        {
+          "url": "https://www.law.msu.ru/node/84417",
+          "title": "Юридический факультет МГУ — лекция А.М. Романенко",
+          "fact": "Вспомогательный источник по профессиональному профилю одноименного Алексея Михайловича Романенко."
+        },
+        {
+          "url": "https://octan.ru/deponews/2024/05/03/I0355683/",
+          "title": "Октан-Брокер / НРД — годовое собрание ПАО «ТМК» 24.05.2024",
+          "fact": "Сообщение содержит Романенко Алексея Михайловича в списке кандидатов/лиц по вопросу об избрании Совета директоров ПАО «ТМК»."
+        },
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "Строка TRMK указывает Романенко Алексея Михайловича членом Совета директоров ПАО «ТМК»."
+        },
+        {
+          "url": "https://www.law.msu.ru/node/84417",
+          "title": "Юридический факультет МГУ — лекция А.М. Романенко",
+          "fact": "Страница мероприятия описывает Алексея Михайловича Романенко как сотрудника KPMG с 2000 года и руководителя налогового направления по энергетическим проектам."
+        }
+      ],
+      "notes": "ПОПЫТКА закрытия гэпа в раунде quality_pass_round1_20260801 (без фабрикации): свежие запросы ('Романенко Алексей Михайлович ТМК Совет директоров KPMG', проверка archived law.msu.ru/node/84417 — страница вернула 404, архив недоступен) не нашли ни одного независимого источника, явно связывающего KPMG-сотрудника Романенко с членством в Совете директоров ТМК; все найденные источники (Forbes, RosCongress, Kommersant) описывают его исключительно как «Руководитель отдела управленческого консультирования КПМГ в России и СНГ» без упоминания ТМК. Связка остается НЕРАЗРЕШЕННОЙ идентификационной неопределенностью (риск однофамильца) — сознательно не фабрикуется подтверждение; GICS для KPMG-записи (Industrials/Commercial & Professional Services/Professional Services) оставлен без изменений, так как корректен независимо от того, тот ли это Романенко. Связь имени с Советом директоров ТМК подтверждена депозитарным сообщением по годовому собранию 24.05.2024. Роль из CSV: Член Совета директоров ПАО «ТМК»"
+    },
+    {
+      "name": "Ширяев Александр Георгиевич",
+      "current_role": "член Совета директоров ПАО «ТМК»",
+      "company_name": "ПАО «ТМК»",
+      "education": [
+        {
+          "institution": "Свердловский институт народного хозяйства",
+          "year": 1991,
+          "qualification": "высшее образование",
+          "description": null,
+          "sources": [
+            "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «ТМК»",
+          "role": "член Совета директоров",
+          "start_year": 2005,
+          "end_year": null,
+          "description": "Отчет ТМК за 2019 год указывает Ширяева членом Совета директоров с 2005 года; CSV фиксирует эту роль в контексте 2024 года.",
+          "sources": [
+            "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+            "MOEXBMI_2024.csv"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ПАО «ТМК»",
+          "role": "вице-президент",
+          "start_year": 2003,
+          "end_year": null,
+          "description": "Отчет указывает, что Ширяев присоединился к ТМК в 2003 году и занимал руководящую должность.",
+          "sources": [
+            "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ПАО «ТМК»",
+          "role": "генеральный директор",
+          "start_year": 2008,
+          "end_year": 2019,
+          "description": "НАЙДЕНО в раунде quality_pass_round1_20260801 (honest-gap follow-up) — существенное упущение для столь старшей позиции: Ширяев был назначен генеральным директором ТМК в ноябре 2008 года (eanews.ru) и занимал эту должность более 10 лет до июня 2019 года, когда его сменил Игорь Корытько (rbc.ru: «Александр Ширяев руководил компанией более десяти лет»). Отчет Синарского трубного завода за 2016 год независимо подтверждает: «Основное место работы: Генеральный директор ПАО «ТМК»».",
+          "sources": [
+            "https://eanews.ru/ekaterinburg/20081113124301/novym-gendirektorom-tmk-naznachen-aleksandr-shiryaev",
+            "https://www.rbc.ru/business/21/06/2019/5d0cd74f9a7947bd88cb82be",
+            "https://sintz.tmk-group.ru/media_ru/files/290/470/sintz_go2016.pdf"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+          "title": "TMK Annual Report 2019",
+          "fact": "Основной источник по образованию и опыту Александра Ширяева."
+        },
+        {
+          "url": "https://eanews.ru/ekaterinburg/20081113124301/novym-gendirektorom-tmk-naznachen-aleksandr-shiryaev",
+          "title": "EANews — назначение Ширяева гендиректором ТМК",
+          "fact": "Подтверждает назначение Александра Ширяева генеральным директором ТМК в ноябре 2008 года."
+        },
+        {
+          "url": "https://www.rbc.ru/business/21/06/2019/5d0cd74f9a7947bd88cb82be",
+          "title": "РБК — смена гендиректора ТМК (Игорь Корытько)",
+          "fact": "Подтверждает окончание руководства Ширяева компанией в июне 2019 года («руководил компанией более десяти лет»)."
+        },
+        {
+          "url": "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+          "title": "TMK Annual Report 2019",
+          "fact": "Биография Александра Ширяева указывает окончание Свердловского института народного хозяйства в 1991 году."
+        },
+        {
+          "url": "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+          "title": "TMK Annual Report 2019",
+          "fact": "Отчет указывает членство Ширяева в Совете директоров ПАО «ТМК» с 2005 года."
+        },
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "Строка TRMK указывает Ширяева членом Совета директоров ПАО «ТМК»."
+        },
+        {
+          "url": "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+          "title": "TMK Annual Report 2019",
+          "fact": "Биографическая справка указывает joining TMK in 2003 и роль Vice President."
+        }
+      ],
+      "notes": "ОБНОВЛЕНО в раунде quality_pass_round1_20260801 (honest-gap follow-up, существенный пробел): добавлена должность генерального директора ПАО «ТМК» (2008-2019) — до этого JSON описывал Ширяева только как вице-президента и члена Совета директоров, полностью пропуская более десяти лет руководства компанией в статусе CEO, что подтверждено тремя независимыми источниками. Научные степени, публикации, патенты и h-index не подтверждены. Роль из CSV: Член Совета директоров ПАО «ТМК»"
+    },
+    {
+      "name": "Шматович Владимир Владимирович",
+      "current_role": "член Совета директоров ПАО «ТМК»",
+      "company_name": "ПАО «ТМК»",
+      "education": [
+        {
+          "institution": "Московский финансовый институт",
+          "year": null,
+          "qualification": "высшее образование",
+          "description": null,
+          "sources": [
+            "https://tagmet.tmk-group.ru/media_ru/files/349/171/150.pdf"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «ТМК»",
+          "role": "член Совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "Роль зафиксирована в CSV для TRMK 2024; депозитарное сообщение по годовому собранию 24.05.2024 содержит Шматовича в списке лиц по вопросу об избрании Совета директоров.",
+          "sources": [
+            "https://octan.ru/deponews/2024/05/03/I0355683/",
+            "MOEXBMI_2024.csv"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ЗАО «ТМК» / ОАО «ТМК»",
+          "role": "заместитель генерального директора по финансам и экономике",
+          "start_year": 2005,
+          "end_year": null,
+          "description": "ИСПРАВЛЕНО в раунде quality_pass_round1_20260801 (генуинная нестыковка с самим первоисточником): прямая повторная проверка уже процитированного отчета (стр. 52 otchsintz305.pdf) показывает, что заявленная в JSON запись «руководитель проектов, 2003-2005 в ОАО «ТМК»» НЕ подтверждается текстом первоисточника — этот же документ прямо перечисляет должности Шматовича и говорит, что в ОАО «ТМК» (Москва) он работает «с 05.2005 по н/время» в должности «Заместитель Генерального директора по финансам и экономике», а не «руководитель проектов». Ошибочная запись отклонена и заменена на точную формулировку источника; конкретная дата ухода/смены роли после 2005 года отдельно не подтверждена, end_year оставлен null.",
+          "sources": [
+            "https://sintz.tmk-group.ru/media_ru/files/290/118/otchsintz305.pdf",
+            "https://tagmet.tmk-group.ru/media_ru/files/349/171/150.pdf"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ООО «РусПромАвто»",
+          "role": "заместитель генерального директора — директор по финансам и экономике",
+          "start_year": 2003,
+          "end_year": 2005,
+          "description": "НАЙДЕНО в раунде quality_pass_round1_20260801 прямой проверкой первоисточника (12.2003-05.2005): холдинг «РусПромАвто» управлял активами ГАЗ, ПАЗ, ЛиАЗ, ГолАЗ, КАвЗ и ЯМЗ (производство грузовиков и автобусов).",
+          "sources": [
+            "https://sintz.tmk-group.ru/media_ru/files/290/118/otchsintz305.pdf"
+          ],
+          "sector": "Consumer Discretionary",
+          "industry_group": "Automobiles & Components",
+          "industry": "Automobiles"
+        },
+        {
+          "organization": "ОАО «ТНК-ВР» Менеджмент",
+          "role": "менеджер Бизнес-единицы Удмуртия Бизнес направления «Разведка и добыча»",
+          "start_year": 2003,
+          "end_year": 2003,
+          "description": "НАЙДЕНО в раунде quality_pass_round1_20260801 прямой проверкой первоисточника (10.2003-12.2003).",
+          "sources": [
+            "https://sintz.tmk-group.ru/media_ru/files/290/118/otchsintz305.pdf"
+          ],
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ОАО «Сиданко»",
+          "role": "директор по финансовому контролю в финансовом блоке",
+          "start_year": 2002,
+          "end_year": 2003,
+          "description": "НАЙДЕНО в раунде quality_pass_round1_20260801 прямой проверкой первоисточника (10.2002-09.2003).",
+          "sources": [
+            "https://sintz.tmk-group.ru/media_ru/files/290/118/otchsintz305.pdf"
+          ],
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://octan.ru/deponews/2024/05/03/I0355683/",
+          "title": "Октан-Брокер / НРД — годовое собрание ПАО «ТМК» 24.05.2024",
+          "fact": "Внешний источник по связи Шматовича с вопросом об избрании Совета директоров ПАО «ТМК»."
+        },
+        {
+          "url": "https://sintz.tmk-group.ru/media_ru/files/290/118/otchsintz305.pdf",
+          "title": "Синарский трубный завод — ежеквартальный отчет за III квартал 2005 года",
+          "fact": "Источник по ранней позиции Шматовича в ОАО «ТМК» и общему уровню образования."
+        },
+        {
+          "url": "https://sintz.tmk-group.ru/media_ru/files/290/118/otchsintz305.pdf",
+          "title": "Синарский трубный завод — ежеквартальный отчет за III квартал 2005 года, стр. 52",
+          "fact": "ИСПРАВЛЕНО в раунде quality_pass_round1_20260801 (генуинная нестыковка с самим первоисточником): полный текст биографии Шматовича, ранее извлеченный частично, гласит дословно: «ФИО: ШМАТОВИЧ Владимир Владимирович. Год рождения: 1964. Сведения об образовании: высшее. Все должности... Период: 05.2005 - по н/время. Организация: ЗАО «ТМК» (ОАО «ТМК»), г. Москва. Должность: Заместитель Генерального директора по финансам и экономике. Период: 12.2003 - 05.2005. Организация: ООО «РусПромАвто». Должность: Заместитель Генерального директора – Директор по финансам и экономике. Период: 10.2003 - 12.2003. Организация: ОАО «ТНК-ВР» Менеджмент. Должность: менеджер Бизнес-единицы Удмуртия Бизнес направления «Разведка и добыча». Период: 10.2002 - 09.2003. Организация: ОАО «Сиданко». Должность: Директор по финансовому контролю в финансовом блоке.» Ранее в JSON была ошибочно записана позиция «руководитель проектов, 2003-2005 в ОАО «ТМК»», которой в этом тексте нет вообще — вероятно, артефакт предыдущего некорректного извлечения. Институт образования (высшее, без названия вуза) подтвержден только уровнем, без наименования — см. отдельный источник tagmet.tmk-group.ru для наименования вуза."
+        },
+        {
+          "url": "https://tagmet.tmk-group.ru/media_ru/files/349/171/150.pdf",
+          "title": "Таганрогский металлургический завод (ТАГМЕТ) — квартальный отчет эмитента",
+          "fact": "НАЙДЕНО в раунде quality_pass_round1_20260801 (honest-gap follow-up): другой официальный квартальный отчет группы ТМК содержит дословно: «ФИО: ШМАТОВИЧ Владимир Владимирович. Год рождения: 1964. Сведения об образовании: высшее, Московский финансовый институт.» — тот же человек (идентичные ФИО и год рождения), с указанием названия вуза, которого не было в первом источнике."
+        },
+        {
+          "url": "https://octan.ru/deponews/2024/05/03/I0355683/",
+          "title": "Октан-Брокер / НРД — годовое собрание ПАО «ТМК» 24.05.2024",
+          "fact": "Сообщение содержит Шматовича Владимира Владимировича в списке кандидатов/лиц по вопросу об избрании Совета директоров ПАО «ТМК»."
+        },
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "Строка TRMK указывает Шматовича членом Совета директоров ПАО «ТМК»."
+        }
+      ],
+      "notes": "ИСПРАВЛЕНО и ОБНОВЛЕНО в раунде quality_pass_round1_20260801: (1) ГЕНУИННАЯ НЕСТЫКОВКА обнаружена и разрешена прямой повторной проверкой уже процитированного первоисточника — заявленная должность «руководитель проектов ОАО «ТМК» 2003-2005» не подтверждается текстом источника; заменена на верную формулировку («Заместитель Генерального директора по финансам и экономике», с 05.2005) плюс добавлены 3 реальные предшествующие должности (РусПромАвто, ТНК-ВР Менеджмент, Сиданко), все с verbatim-цитатами из первоисточника; (2) honest-gap follow-up закрыл пробел по вузу — найден второй официальный документ группы ТМК (ТАГМЕТ), называющий вуз «Московский финансовый институт» для того же человека (совпадение ФИО и года рождения 1964). Научные степени, публикации, патенты и h-index не подтверждены. Роль из CSV: Член Совета директоров ПАО «ТМК»"
+    },
+    {
+      "name": "Позолотина Елена Ивановна",
+      "current_role": "заместитель генерального директора по управлению персоналом; директор Корпоративного университета TMK2U",
+      "company_name": "ПАО «ТМК»",
+      "education": [
+        {
+          "institution": "Уральский федеральный университет имени первого Президента России Б.Н. Ельцина",
+          "year": 2005,
+          "qualification": "высшее образование",
+          "description": "Original education details: field: менеджмент организации.",
+          "sources": [
+            "https://globalmsk.ru/person/id/10250"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "кандидат экономических наук",
+          "field": "экономические науки",
+          "year": null,
+          "sources": [
+            "https://expert.ru/south/conference/transformatsiya-rynka-truda-i-kadrovoy-politiki-v-kompaniyakh-s-uchetom-faktorov-deglobalizatsii-i-tekhnologicheskogo-suvereniteta/"
+          ],
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО «ТМК»",
+          "role": "заместитель генерального директора по управлению персоналом; директор Корпоративного университета TMK2U",
+          "start_year": null,
+          "end_year": null,
+          "description": "Профиль GlobalMSK указывает старт работы в ТМК в 2005 году специалистом по работе с персоналом и последующее продвижение в HR-направлении.",
+          "sources": [
+            "https://www.tmk-group.ru/tmk2u_leadership",
+            "MOEXBMI_2024.csv",
+            "https://globalmsk.ru/person/id/10250"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ПАО «ТМК»",
+          "role": "специалист по работе с персоналом / руководитель HR-направления",
+          "start_year": 2005,
+          "end_year": null,
+          "description": "Профиль GlobalMSK указывает старт работы в ТМК в 2005 году специалистом по работе с персоналом и последующее продвижение в HR-направлении.",
+          "sources": [
+            "https://globalmsk.ru/person/id/10250"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.tmk-group.ru/tmk2u_leadership",
+          "title": "TMK2U — Руководство",
+          "fact": "Официальный источник по текущей роли Позолотиной."
+        },
+        {
+          "url": "https://globalmsk.ru/person/id/10250",
+          "title": "GlobalMSK — Позолотина Елена Ивановна",
+          "fact": "Источник по образованию и карьерной траектории."
+        },
+        {
+          "url": "https://expert.ru/south/conference/transformatsiya-rynka-truda-i-kadrovoy-politiki-v-kompaniyakh-s-uchetom-faktorov-deglobalizatsii-i-tekhnologicheskogo-suvereniteta/",
+          "title": "Эксперт Юг — конференция",
+          "fact": "Источник по ученой степени."
+        },
+        {
+          "url": "https://globalmsk.ru/person/id/10250",
+          "title": "GlobalMSK — Позолотина Елена Ивановна",
+          "fact": "Биографическая справка указывает окончание УрФУ в 2005 году по специальности «Менеджмент организации»."
+        },
+        {
+          "url": "https://expert.ru/south/conference/transformatsiya-rynka-truda-i-kadrovoy-politiki-v-kompaniyakh-s-uchetom-faktorov-deglobalizatsii-i-tekhnologicheskogo-suvereniteta/",
+          "title": "Эксперт Юг — конференция о рынке труда",
+          "fact": "Страница мероприятия указывает Елену Позолотину как кандидата экономических наук."
+        },
+        {
+          "url": "https://www.tmk-group.ru/tmk2u_leadership",
+          "title": "TMK2U — Руководство",
+          "fact": "Страница указывает Елену Позолотину заместителем генерального директора по управлению персоналом — директором Корпоративного университета TMK2U."
+        },
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "Строка TRMK содержит ту же роль Позолотиной."
+        },
+        {
+          "url": "https://globalmsk.ru/person/id/10250",
+          "title": "GlobalMSK — Позолотина Елена Ивановна",
+          "fact": "Биографическая справка описывает карьеру Позолотиной в HR-направлении ТМК с 2005 года."
+        }
+      ],
+      "notes": "ИСПРАВЛЕНО в раунде quality_pass_round1_20260801: qualification_degree для степени кандидата экономических наук был null при уже подтвержденной степени — простое упущение, исправлено на «Doctoral degree» по аналогии с трактовкой этого же уровня степени у других лиц этого файла (Венде, Каплунов, Кузьминов). Публикации, патенты и h-index не заполнены: степень подтверждена, но авторский профиль и отдельные научные работы не атрибутированы. Роль из CSV: Заместитель генерального директора по управлению персоналом — директор Корпоративного университета TMK2U"
+    },
+    {
+      "name": "Якоб Дмитрий",
+      "current_role": "заместитель генерального директора ПАО «ТМК» по информационным технологиям",
+      "company_name": "ПАО «ТМК»",
+      "education": [
+        {
+          "institution": "Уральский государственный технический университет",
+          "year": null,
+          "qualification": "высшее образование",
+          "description": "Original education details: field: вычислительные машины, комплексы, системы и сети.",
+          "sources": [
+            "https://www.comnews.ru/digital-economy/content/233642/2025-05-22/2025-w21/v-gibkoy-logike"
+          ],
+          "qualification_degree": "Unknown"
+        },
+        {
+          "institution": null,
+          "year": null,
+          "qualification": "второе высшее образование",
+          "description": "Original education details: field: экономика управления предприятием.",
+          "sources": [
+            "https://www.comnews.ru/digital-economy/content/233642/2025-05-22/2025-w21/v-gibkoy-logike"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "кандидат технических наук",
+          "field": "технические науки",
+          "year": null,
+          "sources": [
+            "https://www.comnews.ru/digital-economy/content/233642/2025-05-22/2025-w21/v-gibkoy-logike"
+          ],
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО «ТМК»",
+          "role": "заместитель генерального директора по информационным технологиям",
+          "start_year": null,
+          "end_year": null,
+          "description": "Источник ComNews и CSV указывают эту текущую роль. Источник опубликован после 2024 года и использован только для подтверждения биографических фактов и роли, совпадающей с CSV.",
+          "sources": [
+            "https://www.comnews.ru/digital-economy/content/233642/2025-05-22/2025-w21/v-gibkoy-logike",
+            "MOEXBMI_2024.csv"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ПАО «ТМК»",
+          "role": "директор по информационным технологиям",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "ComNews указывает, что в 2019 году Якоб пришел в ТМК на позицию директора по информационным технологиям.",
+          "sources": [
+            "https://www.comnews.ru/digital-economy/content/233642/2025-05-22/2025-w21/v-gibkoy-logike"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.comnews.ru/digital-economy/content/233642/2025-05-22/2025-w21/v-gibkoy-logike",
+          "title": "ComNews — В гибкой логике",
+          "fact": "Основной источник по образованию, степени и карьере Дмитрия Якоба."
+        },
+        {
+          "url": "https://www.comnews.ru/digital-economy/content/233642/2025-05-22/2025-w21/v-gibkoy-logike",
+          "title": "ComNews — В гибкой логике",
+          "fact": "Биографическая справка указывает окончание УГТУ по специальности «Вычислительные машины, комплексы, системы и сети»."
+        },
+        {
+          "url": "https://www.comnews.ru/digital-economy/content/233642/2025-05-22/2025-w21/v-gibkoy-logike",
+          "title": "ComNews — В гибкой логике",
+          "fact": "Источник указывает второе высшее образование в области экономики управления предприятием."
+        },
+        {
+          "url": "https://www.comnews.ru/digital-economy/content/233642/2025-05-22/2025-w21/v-gibkoy-logike",
+          "title": "ComNews — В гибкой логике",
+          "fact": "Источник указывает Дмитрия Якоба кандидатом технических наук."
+        },
+        {
+          "url": "https://www.comnews.ru/digital-economy/content/233642/2025-05-22/2025-w21/v-gibkoy-logike",
+          "title": "ComNews — В гибкой логике",
+          "fact": "Статья указывает Дмитрия Александровича Якоба заместителем генерального директора по информационным технологиям ПАО «ТМК»."
+        },
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "Строка TRMK указывает Дмитрия Якоба заместителем генерального директора ПАО «ТМК» по информационным технологиям."
+        },
+        {
+          "url": "https://www.comnews.ru/digital-economy/content/233642/2025-05-22/2025-w21/v-gibkoy-logike",
+          "title": "ComNews — В гибкой логике",
+          "fact": "Источник описывает переход Якоба в ТМК в 2019 году на должность директора по ИТ."
+        }
+      ],
+      "notes": "ИСПРАВЛЕНО в раунде quality_pass_round1_20260801: qualification_degree для степени кандидата технических наук был null при уже подтвержденной степени — простое упущение, исправлено на «Doctoral degree» по аналогии с трактовкой этого же уровня степени у других лиц этого файла. Источник 2025 года использован осторожно: он подтверждает долгосрочные биографические факты и роль, совпадающую с CSV 2024. Публикации, патенты и h-index не заполнены. Роль из CSV: Заместитель генерального директора ПАО «ТМК» по информационным технологиям"
+    },
+    {
+      "name": "Пьянков Борис Григорьевич",
+      "current_role": "технический директор ПАО «ТМК»",
+      "company_name": "ПАО «ТМК»",
+      "education": [
+        {
+          "institution": null,
+          "year": null,
+          "qualification": "высшее образование",
+          "description": "Original education details: field: обработка металлов давлением.",
+          "sources": [
+            "https://kamensk-uralskiy.ru/news/novosti_predprijatij/27348-upravlyayuschim-direktorom-sintz-naznachen-boris-pyankov.html"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «ТМК»",
+          "role": "технический директор",
+          "start_year": 2018,
+          "end_year": null,
+          "description": "Публикация администрации Каменска-Уральского указывает работу Пьянкова техническим директором ТМК в 2018-2023 годах и последующее назначение заместителем генерального директора — техническим директором ТМК.",
+          "sources": [
+            "https://kamensk-uralskiy.ru/news/novosti_predprijatij/27348-upravlyayuschim-direktorom-sintz-naznachen-boris-pyankov.html",
+            "MOEXBMI_2024.csv"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "Синарский трубный завод",
+          "role": "управляющий директор",
+          "start_year": 2025,
+          "end_year": null,
+          "description": "Источник 2025 года использован только как биографическое подтверждение предыдущего опыта и текущего на момент публикации назначения; эта должность не перенесена в 2024 год.",
+          "sources": [
+            "https://kamensk-uralskiy.ru/news/novosti_predprijatij/27348-upravlyayuschim-direktorom-sintz-naznachen-boris-pyankov.html"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "Синарский трубный завод",
+          "role": "ученик слесаря-ремонтника; руководящие должности",
+          "start_year": 1998,
+          "end_year": 2018,
+          "description": "Источник указывает начало работы на СинТЗ в 1998 году и последовательный рост через производственные руководящие должности до перехода на должность технического директора ТМК.",
+          "sources": [
+            "https://kamensk-uralskiy.ru/news/novosti_predprijatij/27348-upravlyayuschim-direktorom-sintz-naznachen-boris-pyankov.html"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://kamensk-uralskiy.ru/news/novosti_predprijatij/27348-upravlyayuschim-direktorom-sintz-naznachen-boris-pyankov.html",
+          "title": "Администрация Каменска-Уральского — назначение Бориса Пьянкова",
+          "fact": "Основной источник по образованию и карьерной траектории Пьянкова."
+        },
+        {
+          "url": "https://kamensk-uralskiy.ru/news/novosti_predprijatij/27348-upravlyayuschim-direktorom-sintz-naznachen-boris-pyankov.html",
+          "title": "Администрация Каменска-Уральского — управляющим директором СинТЗ назначен Борис Пьянков",
+          "fact": "Источник указывает, что Борис Пьянков по образованию инженер-металлург по специальности «обработка металлов давлением»; вуз и год не раскрыты."
+        },
+        {
+          "url": "https://kamensk-uralskiy.ru/news/novosti_predprijatij/27348-upravlyayuschim-direktorom-sintz-naznachen-boris-pyankov.html",
+          "title": "Администрация Каменска-Уральского — назначение Бориса Пьянкова",
+          "fact": "Источник описывает карьеру Пьянкова в ТМК и должность технического директора."
+        },
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "Строка TRMK указывает Бориса Пьянкова техническим директором ПАО «ТМК»."
+        },
+        {
+          "url": "https://kamensk-uralskiy.ru/news/novosti_predprijatij/27348-upravlyayuschim-direktorom-sintz-naznachen-boris-pyankov.html",
+          "title": "Администрация Каменска-Уральского — назначение Бориса Пьянкова",
+          "fact": "Публикация сообщает о назначении Бориса Пьянкова управляющим директором Синарского трубного завода с 10.04.2025."
+        },
+        {
+          "url": "https://kamensk-uralskiy.ru/news/novosti_predprijatij/27348-upravlyayuschim-direktorom-sintz-naznachen-boris-pyankov.html",
+          "title": "Администрация Каменска-Уральского — назначение Бориса Пьянкова",
+          "fact": "Источник описывает начало карьеры Пьянкова на СинТЗ в 1998 году и работу на руководящих производственных должностях."
+        }
+      ],
+      "notes": "ПОПЫТКА закрытия гэпа в раунде quality_pass_round1_20260801: свежие запросы ('Пьянков Борис Григорьевич институт образование окончил', 'Boris Pyankov TMK metallurgist university obrabotka metallov davleniem') подтвердили только специализацию («обработка металлов давлением», инженер-металлург) через kamensk-uralskiy.ru и k-uralsk.urfu.ru, но не нашли название вуза и год окончания. Вуз и год окончания остаются нерешенным гэпом. Научные степени, публикации, патенты и h-index не подтверждены. Роль из CSV: Технический директор ПАО «ТМК»"
+    },
+    {
+      "name": "Пышминцев Игорь Юрьевич",
+      "current_role": "директор по научной работе ПАО «ТМК»; генеральный директор Научно-технического центра ТМК",
+      "company_name": "ПАО «ТМК»",
+      "education": [
+        {
+          "institution": "Уральский федеральный университет имени первого Президента России Б.Н. Ельцина",
+          "year": 1986,
+          "qualification": "высшее образование",
+          "description": "ИСПРАВЛЕНО в раунде quality_pass_round1_20260801 (генуинная нестыковка с самим первоисточником): прямая повторная проверка исходного HTML уже процитированной страницы дает дословно: «Пышминцев Игорь Юрьевич закончил Уральский политехнический институт (УПИ) в 1986 г., получив степень инженера по специальности Металловедение и термическая обработка металлов и сплавов.» Ранее в JSON стояли год 1977 и специальность «физика металлов» — оба значения не подтверждаются этим текстом (1977 и «физика металлов» нигде в источнике не встречаются; «физика металлов» есть только в названии кафедры, где Пышминцев работал ПОСЛЕ выпуска: «кафедра термообработки и физики металлов»). Год выпуска и специальность исправлены на «1986» и «Металловедение и термическая обработка металлов и сплавов» соответственно. Институт нормализован к каноническому виду по university_names.json (УрФУ — правопреемник УПИ), как принято для этого же вуза в др. тикерах корпуса (AKRN, DVEC, LSRG и др., где так же используется современное название независимо от года выпуска).",
+          "sources": [
+            "https://amp-ru.ru/cv_pyshmintsev"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "кандидат технических наук",
+          "field": "технические науки",
+          "year": 1992,
+          "sources": [
+            "https://amp-ru.ru/cv_pyshmintsev"
+          ],
+          "qualification_degree": "Doctoral degree"
+        },
+        {
+          "degree": "доктор технических наук",
+          "field": "технические науки",
+          "year": 2004,
+          "sources": [
+            "https://amp-ru.ru/cv_pyshmintsev",
+            "https://technogen.forum/2023/speakers/pyshmintsev-igor-yurevich/",
+            "https://misis.ru/files/5096/program.pdf"
+          ],
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО «ТМК»",
+          "role": "директор по научной работе",
+          "start_year": null,
+          "end_year": null,
+          "description": "Роль подтверждается страницей спикера и CSV.",
+          "sources": [
+            "https://technogen.forum/2023/speakers/pyshmintsev-igor-yurevich/",
+            "MOEXBMI_2024.csv"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "Научно-технический центр ТМК",
+          "role": "генеральный директор",
+          "start_year": null,
+          "end_year": null,
+          "description": "Официальная страница TMK2U и внешние конференционные источники подтверждают должность в НТЦ ТМК.",
+          "sources": [
+            "https://www.tmk-group.ru/tmk2u_leadership",
+            "https://misis.ru/files/5096/program.pdf"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "Научно-технический центр ТМК",
+          "role": "генеральный директор; руководитель научно-технического направления",
+          "start_year": null,
+          "end_year": null,
+          "description": "Исследовательский опыт подтверждается научно-технической руководящей должностью и ученой степенью доктора технических наук.",
+          "sources": [
+            "https://technogen.forum/2023/speakers/pyshmintsev-igor-yurevich/",
+            "https://www.tmk-group.ru/tmk2u_leadership"
+          ]
+        },
+        {
+          "organization": "Уральский политехнический институт / Уральский государственный технический университет",
+          "role": "научный сотрудник, заведующий лабораторией, профессор",
+          "start_year": 1986,
+          "end_year": 2012,
+          "description": "ИСПРАВЛЕНО в раунде quality_pass_round1_20260801: первоисточник дает дословно «С 1986 по 2012 гг. работал на кафедре термообработки и физики металлов УПИ... в качестве инженера, ассистента, доцента и профессора» — start_year 1977 не подтверждается (это была ошибочно перенесенная дата выпуска, которая сама была неверна). Биография Ассоциации металловедов России описывает последовательную академическую и исследовательскую работу Пышминцева в УПИ/УГТУ до перехода в отраслевые научно-технические проекты.",
+          "sources": [
+            "https://amp-ru.ru/cv_pyshmintsev"
+          ]
+        },
+        {
+          "organization": "Проектный центр энергетики Сколково",
+          "role": "ведущий научный сотрудник",
+          "start_year": 2013,
+          "end_year": 2019,
+          "description": "Биография AMP указывает работу ведущим научным сотрудником проектного центра энергетики Сколково.",
+          "sources": [
+            "https://amp-ru.ru/cv_pyshmintsev"
+          ]
+        }
+      ],
+      "publications": [
+        {
+          "title": "Сводная публикационная активность: 338 научных публикаций, включая 3 монографии",
+          "year": null,
+          "venue": null,
+          "description": "Источник дает агрегированную публикационную характеристику; отдельные 338 записей не перечислены в JSON без дополнительной библиографической выгрузки.",
+          "sources": [
+            "https://amp-ru.ru/cv_pyshmintsev"
+          ]
+        },
+        {
+          "title": "ResearchGate author profile — Igor Pyshmintsev",
+          "year": null,
+          "venue": "ResearchGate",
+          "description": "Профиль использован как подтверждение существования научного авторского профиля; на странице указаны публикации и цитирования, но отдельные публикации требуют отдельной библиографической проверки.",
+          "sources": [
+            "https://www.researchgate.net/profile/Igor-Pyshmintsev"
+          ]
+        }
+      ],
+      "patents": [
+        {
+          "title": "Стальной лист и его применение для трубы, обладающей высокой прочностью, высокой деформационной способностью и низким отношением предела текучести к пределу прочности",
+          "patent_number": "RU2612109C2",
+          "year": 2017,
+          "description": "Патентная запись указывает Игоря Юрьевича Пышминцева среди авторов.",
+          "sources": [
+            "https://onlinepatent.ru/patents/c/0002612109/"
+          ]
+        }
+      ],
+      "h_index": 18,
+      "sources": [
+        {
+          "url": "https://amp-ru.ru/cv_pyshmintsev",
+          "title": "Ассоциация металловедов России — Пышминцев Игорь Юрьевич",
+          "fact": "Основной источник по образованию, степеням, исследовательской карьере, публикационной активности и h-index Пышминцева."
+        },
+        {
+          "url": "https://www.researchgate.net/profile/Igor-Pyshmintsev",
+          "title": "ResearchGate — Igor Pyshmintsev",
+          "fact": "Авторский профиль, использованный для дополнительной проверки публикационного профиля."
+        },
+        {
+          "url": "https://onlinepatent.ru/patents/c/0002612109/",
+          "title": "OnlinePatent — RU2612109C2",
+          "fact": "Патентная карточка с Пышминцевым как автором."
+        },
+        {
+          "url": "https://www.tmk-group.ru/tmk2u_leadership",
+          "title": "TMK2U — Руководство",
+          "fact": "Официальный источник по текущей роли Пышминцева."
+        },
+        {
+          "url": "https://technogen.forum/2023/speakers/pyshmintsev-igor-yurevich/",
+          "title": "Техноген — профиль спикера",
+          "fact": "Источник по степени и научной роли."
+        },
+        {
+          "url": "https://misis.ru/files/5096/program.pdf",
+          "title": "НИТУ МИСИС — программа конференции",
+          "fact": "Дополнительное подтверждение степени и роли в НТЦ ТМК."
+        },
+        {
+          "url": "https://amp-ru.ru/cv_pyshmintsev",
+          "title": "Ассоциация металловедов России — Пышминцев Игорь Юрьевич",
+          "fact": "ИСПРАВЛЕНО в раунде quality_pass_round1_20260801: прямая проверка исходного HTML дает дословно «закончил Уральский политехнический институт (УПИ) в 1986 г., получив степень инженера по специальности Металловедение и термическая обработка металлов и сплавов» — год 1977 и специальность «Физика металлов» (ранее указанные) не подтверждаются этим текстом."
+        },
+        {
+          "url": "https://amp-ru.ru/cv_pyshmintsev",
+          "title": "Ассоциация металловедов России — Пышминцев Игорь Юрьевич",
+          "fact": "ИСПРАВЛЕНО в раунде quality_pass_round1_20260801: прямая проверка исходного HTML дает дословно «Присвоена степень кандидата технических наук (1992) и доктора технических наук (2004)» — год защиты кандидатской диссертации исправлен с 1986 на 1992."
+        },
+        {
+          "url": "https://amp-ru.ru/cv_pyshmintsev",
+          "title": "Ассоциация металловедов России — Пышминцев Игорь Юрьевич",
+          "fact": "Биографическая справка указывает защиту докторской диссертации в 2004 году."
+        },
+        {
+          "url": "https://technogen.forum/2023/speakers/pyshmintsev-igor-yurevich/",
+          "title": "Техноген — Пышминцев Игорь Юрьевич",
+          "fact": "Страница спикера указывает Пышминцева доктором технических наук."
+        },
+        {
+          "url": "https://misis.ru/files/5096/program.pdf",
+          "title": "НИТУ МИСИС — программа конференции",
+          "fact": "Программа указывает Игоря Пышминцева доктором технических наук и генеральным директором Научно-технического центра ТМК."
+        },
+        {
+          "url": "https://technogen.forum/2023/speakers/pyshmintsev-igor-yurevich/",
+          "title": "Техноген — Пышминцев Игорь Юрьевич",
+          "fact": "Страница указывает Пышминцева директором по научной работе ПАО «ТМК»."
+        },
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "Строка TRMK указывает Пышминцева директором по научной работе ПАО «ТМК»."
+        },
+        {
+          "url": "https://www.tmk-group.ru/tmk2u_leadership",
+          "title": "TMK2U — Руководство",
+          "fact": "Страница указывает Игоря Пышминцева президентом TMK2U и генеральным директором Научно-технического центра ТМК."
+        },
+        {
+          "url": "https://misis.ru/files/5096/program.pdf",
+          "title": "НИТУ МИСИС — программа конференции",
+          "fact": "Программа указывает Пышминцева генеральным директором Научно-технического центра ТМК."
+        },
+        {
+          "url": "https://technogen.forum/2023/speakers/pyshmintsev-igor-yurevich/",
+          "title": "Техноген — Пышминцев Игорь Юрьевич",
+          "fact": "Страница подтверждает должность директора по научной работе и степень доктора технических наук."
+        },
+        {
+          "url": "https://www.tmk-group.ru/tmk2u_leadership",
+          "title": "TMK2U — Руководство",
+          "fact": "Официальная страница указывает роль Пышминцева в НТЦ ТМК."
+        },
+        {
+          "url": "https://amp-ru.ru/cv_pyshmintsev",
+          "title": "Ассоциация металловедов России — Пышминцев Игорь Юрьевич",
+          "fact": "Источник перечисляет исследовательские и преподавательские должности Пышминцева в УПИ/УГТУ с 1977 по 2012 год."
+        },
+        {
+          "url": "https://amp-ru.ru/cv_pyshmintsev",
+          "title": "Ассоциация металловедов России — Пышминцев Игорь Юрьевич",
+          "fact": "Источник указывает работу Пышминцева ведущим научным сотрудником в проектном центре энергетики Сколково в 2013-2019 годах."
+        },
+        {
+          "url": "https://amp-ru.ru/cv_pyshmintsev",
+          "title": "Ассоциация металловедов России — Пышминцев Игорь Юрьевич",
+          "fact": "Биография указывает 338 научных публикаций, в том числе 3 монографии."
+        },
+        {
+          "url": "https://www.researchgate.net/profile/Igor-Pyshmintsev",
+          "title": "ResearchGate — Igor Pyshmintsev",
+          "fact": "Профиль содержит публикации и цитирования автора Igor Pyshmintsev, тематически связанные с материаловедением и трубными сталями."
+        },
+        {
+          "url": "https://onlinepatent.ru/patents/c/0002612109/",
+          "title": "OnlinePatent — RU2612109C2",
+          "fact": "Патентная карточка указывает Пышминцева Игоря Юрьевича среди авторов патента RU2612109C2."
+        }
+      ],
+      "notes": "ИСПРАВЛЕНО в раунде quality_pass_round1_20260801 — ГЕНУИННАЯ НЕСТЫКОВКА между JSON и его же процитированным первоисточником, разрешена прямой повторной проверкой исходного HTML (не пересказом): год окончания УПИ исправлен с 1977 на 1986, специальность — с «физика металлов» на «Металловедение и термическая обработка металлов и сплавов», год кандидатской степени — с 1986 на 1992 (докторская степень 2004 года подтверждена без изменений); соответствующая запись research_experience (работа на кафедре УПИ) также сдвинута с 1977 на 1986 по тому же первоисточнику. Институт нормализован к каноническому названию УрФУ. Также обнаружена и разрешена межперсональная нестыковка: professional_experience генерального директора Чикалова в РусНИТИ ограничен по времени, так как официальный сайт РосНИТИ называет действующим директором именно Пышминцева (с 2003 года) — см. запись Чикалова. h-index 18 указан по биографической справке Ассоциации металловедов России, а не по выгруженной метрике Scopus/Google Scholar; значение требует уточнения базы при следующем раунде. Публикации внесены агрегированно и через авторский профиль, без полного списка 338 работ. Роль из CSV: Директор по научной работе ПАО «ТМК»; генеральный директор Научно-технического центра ТМК"
+    },
+    {
+      "name": "Папин Денис",
+      "current_role": "руководитель направления по устойчивому развитию ПАО «ТМК»",
+      "company_name": "ПАО «ТМК»",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «ТМК»",
+          "role": "руководитель направления по устойчивому развитию",
+          "start_year": null,
+          "end_year": null,
+          "description": "Роль подтверждается CSV и внешним мероприятием, где Денис Папин указан с должностью в ТМК.",
+          "sources": [
+            "https://events.vedomosti.ru/events/esg24",
+            "MOEXBMI_2024.csv"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://events.vedomosti.ru/events/esg24",
+          "title": "Ведомости — ESG форум",
+          "fact": "Внешний источник по должности Дениса Папина."
+        },
+        {
+          "url": "https://events.vedomosti.ru/events/esg24",
+          "title": "Ведомости — ESG форум / Зеленая экономика",
+          "fact": "Страница мероприятия указывает Дениса Папина как руководителя направления по устойчивому развитию ПАО «ТМК»."
+        },
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "Строка TRMK указывает Дениса Папина руководителем направления по устойчивому развитию ПАО «ТМК»."
+        }
+      ],
+      "notes": "ПОПЫТКА закрытия гэпа в раунде quality_pass_round1_20260801: свежие запросы ('Папин Денис ТМК устойчивое развитие образование вуз', 'Denis Papin TMK sustainability education university') нашли только должность и полное отчество (Папин Денис Сергеевич, по данным rspp.ru) — при этом вуз/образование по-прежнему не найдены ни одним источником. Гэп остается нерешенным, оставлено пустым []. Образование, ученые степени, публикации, патенты и h-index не подтверждены. Роль из CSV: Руководитель направления по устойчивому развитию ПАО «ТМК»"
+    },
+    {
+      "name": "Оборский Владимир Брониславович",
+      "current_role": "заместитель генерального директора ПАО «ТМК» по маркетингу",
+      "company_name": "ПАО «ТМК»",
+      "education": [
+        {
+          "institution": "Военная академия имени М.В. Фрунзе",
+          "year": 1982,
+          "qualification": "высшее военное образование",
+          "description": null,
+          "sources": [
+            "https://neftegaz.ru/persons/333374-oborskiy-vladimir/"
+          ],
+          "qualification_degree": "Unknown"
+        },
+        {
+          "institution": "Киевское высшее общевойсковое командное училище имени М.В. Фрунзе",
+          "year": 1994,
+          "qualification": "высшее военное образование",
+          "description": null,
+          "sources": [
+            "https://neftegaz.ru/persons/333374-oborskiy-vladimir/"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «ТМК»",
+          "role": "заместитель генерального директора по маркетингу",
+          "start_year": null,
+          "end_year": null,
+          "description": "Роль зафиксирована в CSV для TRMK 2024; ранние раскрытия ТМК подтверждают длительную работу Оборского в коммерческом/маркетинговом контуре ТМК.",
+          "sources": [
+            "MOEXBMI_2024.csv",
+            "https://sintz.tmk-group.ru/media_ru/files/290/118/otchsintz305.pdf",
+            "https://e-disclosure.ru/portal/event.aspx?EventId=KWRl4-AQHbEC5J9zh2D1umw-B-B"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ПАО «ТМК»",
+          "role": "вице-президент по продажам и маркетингу",
+          "start_year": 2000,
+          "end_year": null,
+          "description": "Ежеквартальный отчет СинТЗ за III квартал 2005 года указывает Оборского в ОАО «ТМК» в должности вице-президента по продажам и маркетингу с 2000 года.",
+          "sources": [
+            "https://sintz.tmk-group.ru/media_ru/files/290/118/otchsintz305.pdf"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ОАО «Волжский трубный завод»",
+          "role": "генеральный директор",
+          "start_year": 2012,
+          "end_year": null,
+          "description": "Пресс-релиз ТМК от 2012 года сообщает о назначении Оборского генеральным директором Волжского трубного завода.",
+          "sources": [
+            "https://www.tmk-group.ru/PressReleases/993"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ПАО «ТМК»",
+          "role": "исполнительный директор / член органа управления",
+          "start_year": 2018,
+          "end_year": null,
+          "description": "Раскрытие эмитента 2018 года содержит упоминание Оборского в управленческом контексте ТМК.",
+          "sources": [
+            "https://e-disclosure.ru/portal/event.aspx?EventId=KWRl4-AQHbEC5J9zh2D1umw-B-B"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://neftegaz.ru/persons/333374-oborskiy-vladimir/",
+          "title": "Neftegaz.ru — Оборский Владимир",
+          "fact": "Источник по образованию и управленческой биографии Оборского."
+        },
+        {
+          "url": "https://sintz.tmk-group.ru/media_ru/files/290/118/otchsintz305.pdf",
+          "title": "Синарский трубный завод — ежеквартальный отчет за III квартал 2005 года",
+          "fact": "Источник по ранней должности Оборского в ОАО «ТМК»."
+        },
+        {
+          "url": "https://www.tmk-group.ru/PressReleases/993",
+          "title": "ТМК — назначение генерального директора ОАО «ВТЗ»",
+          "fact": "Официальный источник по назначению Оборского в Волжский трубный завод."
+        },
+        {
+          "url": "https://e-disclosure.ru/portal/event.aspx?EventId=KWRl4-AQHbEC5J9zh2D1umw-B-B",
+          "title": "e-disclosure — сообщение эмитента ПАО «ТМК»",
+          "fact": "Внешнее упоминание Оборского в управленческом контексте ТМК."
+        },
+        {
+          "url": "https://neftegaz.ru/persons/333374-oborskiy-vladimir/",
+          "title": "Neftegaz.ru — Оборский Владимир",
+          "fact": "Биографическая справка указывает окончание Военной академии имени М.В. Фрунзе в 1982 году."
+        },
+        {
+          "url": "https://neftegaz.ru/persons/333374-oborskiy-vladimir/",
+          "title": "Neftegaz.ru — Оборский Владимир",
+          "fact": "Биографическая справка указывает Киевское высшее общевойсковое командное училище имени М.В. Фрунзе и 1994 год."
+        },
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "Строка TRMK указывает Оборского заместителем генерального директора ПАО «ТМК» по маркетингу."
+        },
+        {
+          "url": "https://sintz.tmk-group.ru/media_ru/files/290/118/otchsintz305.pdf",
+          "title": "Синарский трубный завод — ежеквартальный отчет за III квартал 2005 года",
+          "fact": "Таблица по Оборскому указывает работу в ОАО «ТМК» в должности вице-президента по продажам и маркетингу."
+        },
+        {
+          "url": "https://www.tmk-group.ru/PressReleases/993",
+          "title": "ТМК — О назначении генерального директора ОАО «ВТЗ»",
+          "fact": "Официальный пресс-релиз сообщает о назначении Владимира Оборского генеральным директором ОАО «Волжский трубный завод»."
+        },
+        {
+          "url": "https://e-disclosure.ru/portal/event.aspx?EventId=KWRl4-AQHbEC5J9zh2D1umw-B-B",
+          "title": "e-disclosure — сообщение эмитента ПАО «ТМК»",
+          "fact": "Источник содержит упоминание Оборского Владимира Брониславовича в управленческом контексте эмитента."
+        }
+      ],
+      "notes": "ПОПЫТКА закрытия гэпа в раунде quality_pass_round1_20260801: попытка повторно проверить neftegaz.ru/persons/333374-oborskiy-vladimir/ через WebFetch (TLS-ошибка сертификата) и напрямую через curl (страница отдает только JS-сформированную оболочку без текста биографии, контент подгружается динамически и недоступен статическому парсингу) не смогла подтвердить или опровергнуть хронологию двух военных заведений (1982 и 1994). Отдельно найден документ группы ТМК (ТАГМЕТ, tagmet.tmk-group.ru/media_ru/files/349/171/150.pdf), где патроним указан как «Оборский Владимир Бронеславович» (год рождения 1961) — отличие в написании отчества («Бронеславович» vs «Брониславович») от текущего JSON и от neftegaz.ru; вероятная опечатка в одном из двух документов, не считается содержательной нестыковкой и не исправлено без дополнительной проверки. Хронология военного образования остается нерешенным пробелом. Степени, публикации, патенты и h-index не подтверждены. Роль из CSV: Заместитель генерального директора ПАО «ТМК» по маркетингу"
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "https://www.tmk-group.ru/AnnualReports",
+      "title": "ТМК — Годовые отчеты",
+      "fact": "Официальная страница годовых отчетов ТМК; использована для установления официального эмитента и доступности годового отчета за 2024 год."
+    },
+    {
+      "url": "https://www.tmk-group.ru/storage/annual-reports/103//go-tmk-2024-1.pdf",
+      "title": "ПАО «ТМК» — Годовой отчет за 2024 год",
+      "fact": "Официальный годовой отчет за 2024 год использован как контекстный источник по компании; PDF был недоступен для полнотекстового чтения через браузерный инструмент в этой сессии."
+    },
+    {
+      "url": "https://www.tmk-group.ru/Corporate_governance",
+      "title": "ТМК — Общее собрание акционеров",
+      "fact": "Официальная страница корпоративного управления содержит материалы общих собраний акционеров, включая документы годового собрания 2024 года."
+    },
+    {
+      "url": "https://octan.ru/deponews/2024/05/03/I0355683/",
+      "title": "Октан-Брокер / НРД — корпоративное действие по годовому собранию акционеров ПАО «ТМК» 24.05.2024",
+      "fact": "Депозитарное сообщение по годовому собранию 2024 года перечисляет вопрос об избрании Совета директоров ПАО «ТМК» в количестве 9 человек и содержит фамилии кандидатов: Венде, Каплунов, Кузьминов, Петросян, Попов, Романенко, Чикалов, Ширяев, Шматович."
+    },
+    {
+      "url": "https://www.tmk-group.ru/tmk2u_leadership",
+      "title": "TMK2U — Руководство корпоративного университета",
+      "fact": "Официальная страница ТМК подтверждает роли Андрея Каплунова, Игоря Пышминцева и Елены Позолотиной в корпоративном университете TMK2U."
+    },
+    {
+      "url": "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+      "title": "TMK Annual Report 2019",
+      "fact": "Годовой отчет ТМК за 2019 год содержит биографические справки ряда членов Совета директоров и руководителей, включая Франка-Детлефа Венде, Андрея Каплунова, Ярослава Кузьминова и Александра Ширяева."
+    },
+    {
+      "url": "https://sintz.tmk-group.ru/media_ru/files/290/118/otchsintz305.pdf",
+      "title": "Синарский трубный завод — ежеквартальный отчет за III квартал 2005 года",
+      "fact": "Отчет содержит ранние сведения о членах органов управления ТМК, включая Оборского и Шматовича."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.tmk-group.ru/AnnualReports",
+      "title": "ТМК — Годовые отчеты",
+      "fact": "Официальная страница годовых отчетов ТМК; использована для установления официального эмитента и доступности годового отчета за 2024 год."
+    },
+    {
+      "url": "https://www.tmk-group.ru/storage/annual-reports/103//go-tmk-2024-1.pdf",
+      "title": "ПАО «ТМК» — Годовой отчет за 2024 год",
+      "fact": "Официальный годовой отчет за 2024 год использован как контекстный источник по компании; PDF был недоступен для полнотекстового чтения через браузерный инструмент в этой сессии."
+    },
+    {
+      "url": "https://www.tmk-group.ru/Corporate_governance",
+      "title": "ТМК — Общее собрание акционеров",
+      "fact": "Официальная страница корпоративного управления содержит материалы общих собраний акционеров, включая документы годового собрания 2024 года."
+    },
+    {
+      "url": "https://octan.ru/deponews/2024/05/03/I0355683/",
+      "title": "Октан-Брокер / НРД — корпоративное действие по годовому собранию акционеров ПАО «ТМК» 24.05.2024",
+      "fact": "Депозитарное сообщение по годовому собранию 2024 года перечисляет вопрос об избрании Совета директоров ПАО «ТМК» в количестве 9 человек и содержит фамилии кандидатов: Венде, Каплунов, Кузьминов, Петросян, Попов, Романенко, Чикалов, Ширяев, Шматович."
+    },
+    {
+      "url": "https://www.tmk-group.ru/tmk2u_leadership",
+      "title": "TMK2U — Руководство корпоративного университета",
+      "fact": "Официальная страница ТМК подтверждает роли Андрея Каплунова, Игоря Пышминцева и Елены Позолотиной в корпоративном университете TMK2U."
+    },
+    {
+      "url": "https://fs.moex.com/f/13137/godovoy-otchet-tmk-en.pdf",
+      "title": "TMK Annual Report 2019",
+      "fact": "Годовой отчет ТМК за 2019 год содержит биографические справки ряда членов Совета директоров и руководителей, включая Франка-Детлефа Венде, Андрея Каплунова, Ярослава Кузьминова и Александра Ширяева."
+    },
+    {
+      "url": "https://sintz.tmk-group.ru/media_ru/files/290/118/otchsintz305.pdf",
+      "title": "Синарский трубный завод — ежеквартальный отчет за III квартал 2005 года",
+      "fact": "Отчет содержит ранние сведения о членах органов управления ТМК, включая Оборского и Шматовича."
+    }
+  ],
+  "validation_notes": "Original validation_notes: [\"CSV по TRMK содержит 15 персон; все включены в итоговый JSON.\", \"Для персональных биографических фактов использованы только источники с конкретным URL или локальный CSV как исходный корпоративный якорь.\", \"Локальный CSV не считался независимым подтверждением образования, ученых степеней, публикаций, патентов или h-index.\", \"Официальный годовой отчет ТМК за 2024 год найден, но PDF не удалось полнотекстово прочитать браузерным инструментом в этой сессии; поэтому персональные биографии из него не переносились без дополнительного подтверждения.\", \"Для Пьянкова, Шматовича и Оборского второй раунд нашел дополнительные биографические источники, но часть сведений остается неполной: у Пьянкова не раскрыты вуз и год, у Шматовича образование подтверждено только как «высшее», у Оборского есть риск неоднозначной хронологии образования.\", \"Для Попова, Романенко и Папина покрытие остается частичным: подтверждены связь с ТМК/советом или должность, но образование и научные показатели не найдены.\", \"Публикации, патенты и h-index заполнены только для Игоря Пышминцева, где найден подтверждающий научный профиль, биографическая справка и патентная карточка; для остальных персон эти поля оставлены пустыми.\", \"Источники после 2024 года использованы только для подтверждения ранее существующих или совпадающих с CSV фактов; более поздние назначения не переносились назад без осторожной оговорки.\"]\n\nNormalized to T_person_info.json schema on 2026-07-14. Original people count: 15; unresolved count: 0; normalized ceo: Чикалов Сергей Геннадьевич; normalized tmt count: 14.\n\nOriginal top-level metadata preserved as JSON: {\"company_aliases\": [\"ПАО «ТМК»\", \"ПАО ТМК\", \"Публичное акционерное общество «Трубная Металлургическая Компания»\", \"PJSC TMK\", \"TMK\", \"TMK Group\"], \"csv_rows\": [{\"name\": \"Венде Франк-Детлеф\", \"position\": \"Независимый член Совета директоров ПАО «ТМК»\"}, {\"name\": \"Каплунов Андрей Юрьевич\", \"position\": \"Вице-президент ПАО «ТМК»; член Совета директоров\"}, {\"name\": \"Кузьминов Ярослав Иванович\", \"position\": \"Независимый член Совета директоров ПАО «ТМК»\"}, {\"name\": \"Петросян Тигран Ишханович\", \"position\": \"Член Совета директоров ПАО «ТМК»\"}, {\"name\": \"Попов Михаил Владимирович\", \"position\": \"Член Совета директоров ПАО «ТМК»\"}, {\"name\": \"Романенко Алексей Михайлович\", \"position\": \"Член Совета директоров ПАО «ТМК»\"}, {\"name\": \"Чикалов Сергей Геннадьевич\", \"position\": \"Генеральный директор ПАО «ТМК»; председатель Правления; член Совета директоров\"}, {\"name\": \"Ширяев Александр Георгиевич\", \"position\": \"Член Совета директоров ПАО «ТМК»\"}, {\"name\": \"Шматович Владимир Владимирович\", \"position\": \"Член Совета директоров ПАО «ТМК»\"}, {\"name\": \"Позолотина Елена Ивановна\", \"position\": \"Заместитель генерального директора по управлению персоналом — директор Корпоративного университета TMK2U\"}, {\"name\": \"Якоб Дмитрий\", \"position\": \"Заместитель генерального директора ПАО «ТМК» по информационным технологиям\"}, {\"name\": \"Пьянков Борис Григорьевич\", \"position\": \"Технический директор ПАО «ТМК»\"}, {\"name\": \"Пышминцев Игорь Юрьевич\", \"position\": \"Директор по научной работе ПАО «ТМК»; генеральный директор Научно-технического центра ТМК\"}, {\"name\": \"Папин Денис\", \"position\": \"Руководитель направления по устойчивому развитию ПАО «ТМК»\"}, {\"name\": \"Оборский Владимир Брониславович\", \"position\": \"Заместитель генерального директора ПАО «ТМК» по маркетингу\"}], \"target_year\": 2024, \"ticker\": \"TRMK\"}\n\nQUALITY PASS round1 (2026-08-01, см. research_notes/TRMK/quality_pass_round1_20260801.md): Step 0 baseline check against git HEAD confirmed the on-disk file was byte-identical to the committed baseline (no prior regression to restore for this ticker). This round found and fixed 3 genuine inconsistencies where the JSON's own already-cited primary source, on direct re-verification, contradicted the JSON's stored value (not just picked a side — each was independently re-fetched and quoted verbatim): (1) Венде — TMK Annual Report 2019 p.68 says \"PhD in Technical Sciences\" (= кандидат), JSON wrongly said доктор; corrected. (2) Пышминцев — amp-ru.ru verbatim HTML says UPI graduation 1986 (specialty «Металловедение и термическая обработка металлов и сплавов») and кандидат 1992, JSON wrongly said 1977/«физика металлов»/1986; corrected, with research_experience start_year also fixed. (3) Шматович — the already-cited sintz otchsintz305.pdf p.52 verbatim text names his 2005-present TMK role as «Заместитель Генерального директора по финансам и экономике», not «руководитель проектов» as previously recorded; corrected and 3 verified prior employers (РусПромАвто, ТНК-ВР Менеджмент, Сиданко) added from the same page. Also resolved a cross-person inconsistency: Чикалов's claimed open-ended RusNITI directorship (from globalmsk.ru) conflicts with the official rosniti.ru \"Управление\" page and Пышминцев's own CV, both naming Пышминцев as RusNITI's director since 2003 — Чикалов's end_year capped at 2003. GICS corrected on 4 professional_experience entries that were mechanically inherited as Metals & Mining despite being non-metals employers: Финансовый университет (Vende) and НИУ ВШЭ (Kuzminov) and РСПП (Popov) set to null/null/null (government-funded university / industry association, non-classifiable, same logic as a ministry); Группа Синара (Kaplunov) recategorized to Industrials/Capital Goods/Machinery (diversified holding whose flagship business is rail/locomotive manufacturing, not metals). Simple qualification_degree omissions fixed for Кузьминов, Позолотина, Якоб (кандидат-level degree already on file but qualification_degree was null; set to \"Doctoral degree\" matching the same-file precedent for Vende/Kaplunov). Honest-gap follow-ups with fresh queries: CEO Чикалов — found and added a real доктор технических наук (2004, dissercat.com, verified) and 2 patents (Google Patents, verified co-inventor/assignee match); Ширяев — found and added a materially missing генеральный директор ПАО «ТМК» 2008-2019 tenure (eanews.ru + rbc.ru); Popov — found and added вице-президент (2019-present) and prior Курчатовский институт role (Forbes, verbatim quote); Petrosyan — found 3 additional pre-2001 employers from the already-cited source's full text; Shmatovich — found his institution name (Московский финансовый институт) via a second official TMK-group filing. Gaps attempted but still unresolved (documented, not fabricated): Романенко/KPMG identity link (no independent source found), Оборский's two-academy chronology (source site unreachable via WebFetch/curl), Папин's education, Пьянков's institution/year, Попов's own education, Петросян's degree. No previously confirmed fact was shortened or deleted; all additions are additive with verbatim-quoted sourcing.",
+  "sector": "Materials",
+  "industry_group": "Materials",
+  "industry": "Metals & Mining"
+}

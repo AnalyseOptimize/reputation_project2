@@ -1,0 +1,1107 @@
+{
+    "company_name":  "ПАО \"НЛМК\" / Novolipetsk Steel",
+    "company_ticker":  "NLMK",
+    "ceo":  {
+                "name":  "Sergey Karataev",
+                "current_role":  "Chief Executive Officer / President (Chairman of the Management Board), elected on 5 January 2024",
+                "company_name":  "ПАО \"НЛМК\" / Novolipetsk Steel",
+                "education":  [
+                                  {
+                                      "institution":  "Finance Academy under the Government of the Russian Federation",
+                                      "description":  "Graduated in global economics.",
+                                      "year":  null,
+                                      "sources":  [
+                                                      "https://nlmk.com/en/media-center/press-releases/sergey-karataev-elected-ceo-of-nlmk-group/?from=ru%3Ffrom%3Dru",
+                                                      "https://www.kommersant.ru/doc/5101384"
+                                                  ],
+                                      "qualification_degree":  null
+                                  }
+                              ],
+                "degrees":  [
+
+                            ],
+                "professional_experience":  [
+                                                {
+                                                    "organization":  "NLMK Group",
+                                                    "role":  "CEO / President (Chairman of the Management Board)",
+                                                    "start_year":  2024,
+                                                    "end_year":  null,
+                                                    "description":  "Elected CEO of NLMK Group by shareholders on 5 January 2024.",
+                                                    "sources":  [
+                                                                    "MOEXBMI_2024.csv",
+                                                                    "https://nlmk.com/en/media-center/press-releases/sergey-karataev-elected-ceo-of-nlmk-group/?from=ru%3Ffrom%3Dru"
+                                                                ],
+                                                    "sector":  "Materials",
+                                                    "industry_group":  "Materials",
+                                                    "industry":  "Metals \u0026 Mining"
+                                                },
+                                                {
+                                                    "organization":  "Freight One",
+                                                    "role":  "CEO; previously CFO",
+                                                    "start_year":  2016,
+                                                    "end_year":  2024,
+                                                    "description":  "Worked at Freight One from 2016 as CFO and later as CEO before joining NLMK.",
+                                                    "sources":  [
+                                                                    "https://nlmk.com/en/media-center/press-releases/sergey-karataev-elected-ceo-of-nlmk-group/?from=ru%3Ffrom%3Dru",
+                                                                    "https://www.kommersant.ru/doc/5101384"
+                                                                ],
+                                                    "sector":  "Industrials",
+                                                    "industry_group":  "Transportation",
+                                                    "industry":  "Ground Transportation (New Name)"
+                                                },
+                                                {
+                                                    "organization":  "TPG Capital",
+                                                    "role":  "Investment professional",
+                                                    "start_year":  2011,
+                                                    "end_year":  2016,
+                                                    "description":  "Worked in London on investment projects focused on Russia and the CIS.",
+                                                    "sources":  [
+                                                                    "https://www.kommersant.ru/doc/5101384"
+                                                                ],
+                                                    "sector":  "Financials",
+                                                    "industry_group":  "Financial Services (New Name)",
+                                                    "industry":  "Capital Markets"
+                                                },
+                                                {
+                                                    "organization":  "PricewaterhouseCoopers, Russian Standard Bank, Nomura International",
+                                                    "role":  "Finance and investment banking roles",
+                                                    "start_year":  null,
+                                                    "end_year":  2011,
+                                                    "description":  "Earlier career included audit/finance and investment-banking experience.",
+                                                    "sources":  [
+                                                                    "https://www.kommersant.ru/doc/5101384"
+                                                                ],
+                                                    "sector":  null,
+                                                    "industry_group":  null,
+                                                    "industry":  null
+                                                }
+                                            ],
+                "research_experience":  [
+
+                                        ],
+                "publications":  [
+
+                                 ],
+                "patents":  [
+
+                            ],
+                "h_index":  null,
+                "sources":  [
+                                {
+                                    "url":  "MOEXBMI_2024.csv",
+                                    "title":  "MOEXBMI_2024.csv",
+                                    "fact":  "CSV row for NLMK lists Sergey Karataev as Chief Executive Officer with date 2024-01-05."
+                                },
+                                {
+                                    "url":  "https://nlmk.com/en/media-center/press-releases/sergey-karataev-elected-ceo-of-nlmk-group/?from=ru%3Ffrom%3Dru",
+                                    "title":  "Sergey Karataev elected CEO of NLMK Group",
+                                    "fact":  "NLMK says shareholders elected Sergey Karataev CEO on 5 January 2024 and gives his education and prior career."
+                                },
+                                {
+                                    "url":  "https://www.kommersant.ru/doc/5101384",
+                                    "title":  "Kommersant: Сергей Каратаев покинул пост гендиректора Первой грузовой компании",
+                                    "fact":  "Kommersant gives Karataev\u0027s Finance Academy education and earlier employers including PwC, Russian Standard Bank, Nomura, TPG Capital and Freight One."
+                                }
+                            ],
+                "notes":  "Identity is high confidence: NLMK official appointment source, CSV role and prior career sources refer to the same executive."
+            },
+    "tmt":  [
+                {
+                    "name":  "Nikolay Ivanov",
+                    "current_role":  "Director of Finance / CFO",
+                    "company_name":  "ПАО \"НЛМК\" / Novolipetsk Steel",
+                    "education":  [
+                                      {
+                                          "institution":  "Finance Academy under the Government of the Russian Federation",
+                                          "description":  "Finance education listed in the biographical profile.",
+                                          "year":  null,
+                                          "sources":  [
+                                                          "https://www.marketscreener.com/insider/NIKOLAY-IVANOV-A1KP1L/"
+                                                      ],
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "Northeast Missouri State University",
+                                          "description":  "Education listed in the biographical profile.",
+                                          "year":  null,
+                                          "sources":  [
+                                                          "https://www.marketscreener.com/insider/NIKOLAY-IVANOV-A1KP1L/"
+                                                      ],
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "Harvard Business School",
+                                          "description":  "Completed the Corporate Director Certificate program.",
+                                          "year":  null,
+                                          "sources":  [
+                                                          "https://www.marketscreener.com/insider/NIKOLAY-IVANOV-A1KP1L/"
+                                                      ],
+                                          "qualification_degree":  "Professional certification"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "NLMK Group",
+                                                        "role":  "Director of Finance / CFO",
+                                                        "start_year":  2022,
+                                                        "end_year":  null,
+                                                        "description":  "CSV and MarketScreener identify him as finance director/CFO in the NLMK profile.",
+                                                        "sources":  [
+                                                                        "MOEXBMI_2024.csv",
+                                                                        "https://www.marketscreener.com/insider/NIKOLAY-IVANOV-A1KP1L/",
+                                                                        "https://www.marketscreener.com/quote/stock/NOVOLIPETSK-STEEL-GDR-13491358/company-governance/"
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Metals \u0026 Mining"
+                                                    },
+                                                    {
+                                                        "organization":  "EVRAZ / Raspadskaya",
+                                                        "role":  "CFO / Vice President for Finance; board roles",
+                                                        "start_year":  null,
+                                                        "end_year":  2022,
+                                                        "description":  "MarketScreener connects the same Nikolay Ivanov with EVRAZ finance leadership and board positions before NLMK.",
+                                                        "sources":  [
+                                                                        "https://www.marketscreener.com/insider/NIKOLAY-IVANOV-A1KP1L/"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "VimpelCom / Vimpel-Communications",
+                                                        "role":  "Finance executive",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Earlier finance leadership experience is listed in the biographical profile.",
+                                                        "sources":  [
+                                                                        "https://www.marketscreener.com/insider/NIKOLAY-IVANOV-A1KP1L/"
+                                                                    ],
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Telecommunication Services",
+                                                        "industry":  "Wireless Telecommunication Services"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV row for NLMK lists Nikolay Ivanov as Director of Finance/CFO."
+                                    },
+                                    {
+                                        "url":  "https://www.marketscreener.com/insider/NIKOLAY-IVANOV-A1KP1L/",
+                                        "title":  "MarketScreener: Nikolay Ivanov",
+                                        "fact":  "Profile identifies Nikolay Ivanov with NLMK CFO role, finance education and prior EVRAZ/VimpelCom experience."
+                                    }
+                                ],
+                    "notes":  "Common-name risk was checked. Medical and academic Nikolay Ivanov profiles were rejected because they lack the EVRAZ/NLMK finance career anchor."
+                },
+                {
+                    "name":  "Dmitry Kholkin",
+                    "current_role":  "Chief Tech/Sci/R\u0026D Officer; Vice President for business system development / digital transformation",
+                    "company_name":  "ПАО \"НЛМК\" / Novolipetsk Steel",
+                    "education":  [
+                                      {
+                                          "institution":  "State University of Management",
+                                          "description":  "Graduated in 1995 with qualification in management of construction.",
+                                          "year":  1995,
+                                          "sources":  [
+                                                          "https://www.nlmk.com/en/media-center/press-releases/nlmk-group-develops-digital-business-transformation/?from=ru%3Ffrom%3Dru"
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "NLMK Group",
+                                                        "role":  "Vice President for business system development; digital transformation leader",
+                                                        "start_year":  2018,
+                                                        "end_year":  null,
+                                                        "description":  "NLMK appointed him to lead business-system development and digital transformation in 2018; CSV classifies him as Chief Tech/Sci/R\u0026D Officer.",
+                                                        "sources":  [
+                                                                        "MOEXBMI_2024.csv",
+                                                                        "https://www.nlmk.com/en/media-center/press-releases/nlmk-group-develops-digital-business-transformation/?from=ru%3Ffrom%3Dru"
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Metals \u0026 Mining"
+                                                    },
+                                                    {
+                                                        "organization":  "X5 Retail Group",
+                                                        "role":  "Deputy Director for IT transformation; Director for operating technologies",
+                                                        "start_year":  2013,
+                                                        "end_year":  2018,
+                                                        "description":  "NLMK\u0027s appointment release says he worked at X5 from 2013 before joining NLMK.",
+                                                        "sources":  [
+                                                                        "https://www.nlmk.com/en/media-center/press-releases/nlmk-group-develops-digital-business-transformation/?from=ru%3Ffrom%3Dru"
+                                                                    ],
+                                                        "sector":  "Consumer Staples",
+                                                        "industry_group":  "Consumer Staples Distribution & Retail (New Name)",
+                                                        "industry":  "Consumer Staples Distribution & Retail (New Name)"
+                                                    },
+                                                    {
+                                                        "organization":  "Tele2 Russia",
+                                                        "role":  "Technical Director",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "NLMK\u0027s appointment release lists Tele2 technical director among earlier roles.",
+                                                        "sources":  [
+                                                                        "https://www.nlmk.com/en/media-center/press-releases/nlmk-group-develops-digital-business-transformation/?from=ru%3Ffrom%3Dru"
+                                                                    ],
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Telecommunication Services",
+                                                        "industry":  "Wireless Telecommunication Services"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV row for NLMK lists Dmitry Kholkin as Chief Tech/Sci/R\u0026D Officer with date 2018-09-30."
+                                    },
+                                    {
+                                        "url":  "https://www.nlmk.com/en/media-center/press-releases/nlmk-group-develops-digital-business-transformation/?from=ru%3Ffrom%3Dru",
+                                        "title":  "NLMK Group develops digital business transformation",
+                                        "fact":  "NLMK announced Kholkin\u0027s appointment, education at State University of Management and prior roles at Tele2 and X5."
+                                    }
+                                ],
+                    "notes":  "No scientific degree, publications, patents or h-index linked to the NLMK executive were confirmed."
+                },
+                {
+                    "name":  "Ben de Vos",
+                    "current_role":  "Chief Operating Officer / international operations executive",
+                    "company_name":  "ПАО \"НЛМК\" / Novolipetsk Steel",
+                    "education":  [
+                                      {
+                                          "institution":  "University of Pretoria",
+                                          "description":  "B.Eng. Honors in Electrical Engineering and M.Eng. in Industrial Engineering.",
+                                          "year":  null,
+                                          "sources":  [
+                                                          "https://www.marketscreener.com/insider/BEN-DE-VOS-A111LP/"
+                                                      ],
+                                          "qualification_degree":  "Master's degree"
+                                      },
+                                      {
+                                          "institution":  "INSEAD",
+                                          "description":  "MBA.",
+                                          "year":  null,
+                                          "sources":  [
+                                                          "https://www.marketscreener.com/insider/BEN-DE-VOS-A111LP/"
+                                                      ],
+                                          "qualification_degree":  "MBA"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "NLMK Group / NLMK International",
+                                                        "role":  "COO; CEO of international operations",
+                                                        "start_year":  2010,
+                                                        "end_year":  null,
+                                                        "description":  "CSV and MarketScreener connect Ben de Vos with NLMK operating leadership since 2010.",
+                                                        "sources":  [
+                                                                        "MOEXBMI_2024.csv",
+                                                                        "https://www.marketscreener.com/insider/BEN-DE-VOS-A111LP/",
+                                                                        "https://www.marketscreener.com/quote/stock/NOVOLIPETSK-STEEL-GDR-13491358/company-governance/"
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Metals \u0026 Mining"
+                                                    },
+                                                    {
+                                                        "organization":  "Duferco, Saldanha Steel, Iscor",
+                                                        "role":  "Steel industry management roles",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "MarketScreener profile lists prior steel-industry management experience before NLMK.",
+                                                        "sources":  [
+                                                                        "https://www.marketscreener.com/insider/BEN-DE-VOS-A111LP/"
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Metals \u0026 Mining"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV row for NLMK lists Ben de Vos as Chief Operating Officer."
+                                    },
+                                    {
+                                        "url":  "https://www.marketscreener.com/insider/BEN-DE-VOS-A111LP/",
+                                        "title":  "MarketScreener: Ben de Vos",
+                                        "fact":  "Profile provides NLMK role, University of Pretoria engineering degrees, INSEAD MBA and prior steel-industry experience."
+                                    }
+                                ],
+                    "notes":  "Identity confidence is high because the profile combines full name, NLMK role and steel-industry career history."
+                },
+                {
+                    "name":  "Irene Spitzberg",
+                    "current_role":  "Chief Tech/Sci/R\u0026D Officer; Vice President for Technology Development",
+                    "company_name":  "ПАО \"НЛМК\" / Novolipetsk Steel",
+                    "education":  [
+                                      {
+                                          "institution":  "Michigan State University",
+                                          "description":  "Bachelor\u0027s and master\u0027s degrees in materials science.",
+                                          "year":  null,
+                                          "sources":  [
+                                                          "https://nlmk.com/en/media-center/news-groups/irene-spitzberg-appointed-nlmk-group-vice-president-for-technology-development/"
+                                                      ],
+                                          "qualification_degree":  "Master\u0027s degree"
+                                      },
+                                      {
+                                          "institution":  "Northwestern University",
+                                          "description":  "PhD in materials science.",
+                                          "year":  null,
+                                          "sources":  [
+                                                          "https://nlmk.com/en/media-center/news-groups/irene-spitzberg-appointed-nlmk-group-vice-president-for-technology-development/"
+                                                      ],
+                                          "qualification_degree":  "Doctoral degree"
+                                      }
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "degree":  "PhD",
+                                        "field":  "Materials science",
+                                        "institution":  "Northwestern University",
+                                        "year":  null,
+                                        "sources":  [
+                                                        "https://nlmk.com/en/media-center/news-groups/irene-spitzberg-appointed-nlmk-group-vice-president-for-technology-development/"
+                                                    ],
+                                        "qualification_degree":  "Doctoral degree"
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "NLMK Group",
+                                                        "role":  "Vice President for Technology Development",
+                                                        "start_year":  2021,
+                                                        "end_year":  null,
+                                                        "description":  "Appointed Vice President for Technology Development in February 2021; CSV classifies her as Chief Tech/Sci/R\u0026D Officer.",
+                                                        "sources":  [
+                                                                        "MOEXBMI_2024.csv",
+                                                                        "https://nlmk.com/en/media-center/news-groups/irene-spitzberg-appointed-nlmk-group-vice-president-for-technology-development/"
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Metals \u0026 Mining"
+                                                    },
+                                                    {
+                                                        "organization":  "General Motors",
+                                                        "role":  "Materials and manufacturing technology leader",
+                                                        "start_year":  null,
+                                                        "end_year":  2019,
+                                                        "description":  "NLMK says she spent more than 31 years at General Motors in advanced materials, manufacturing systems, product development and innovation roles.",
+                                                        "sources":  [
+                                                                        "https://nlmk.com/en/media-center/news-groups/irene-spitzberg-appointed-nlmk-group-vice-president-for-technology-development/"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Automobiles & Components",
+                                                        "industry":  "Automobiles"
+                                                    },
+                                                    {
+                                                        "organization":  "Magna International / Magna Steyr",
+                                                        "role":  "Vice President for Advanced Manufacturing Engineering",
+                                                        "start_year":  2019,
+                                                        "end_year":  2021,
+                                                        "description":  "Before NLMK, worked at Magna International\u0027s Magna Steyr division.",
+                                                        "sources":  [
+                                                                        "https://nlmk.com/en/media-center/news-groups/irene-spitzberg-appointed-nlmk-group-vice-president-for-technology-development/"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Automobiles & Components",
+                                                        "industry":  "Automobile Components (New Name)"
+                                                    }
+                                                ],
+                    "research_experience":  [
+                                                {
+                                                    "organization":  "General Motors and automotive materials/manufacturing field",
+                                                    "role":  "Advanced materials and manufacturing technology work",
+                                                    "description":  "NLMK biography describes a materials-science PhD and long advanced-technology career.",
+                                                    "sources":  [
+                                                                    "https://nlmk.com/en/media-center/news-groups/irene-spitzberg-appointed-nlmk-group-vice-president-for-technology-development/"
+                                                                ]
+                                                }
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+                                    {
+                                        "description":  "Named inventor on four patents in automotive materials and manufacturing; patent numbers were not listed in the checked source.",
+                                        "sources":  [
+                                                        "https://nlmk.com/en/media-center/news-groups/irene-spitzberg-appointed-nlmk-group-vice-president-for-technology-development/"
+                                                    ]
+                                    }
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV row for NLMK lists Irene Spitzberg as Chief Tech/Sci/R\u0026D Officer with date 2021-01-26."
+                                    },
+                                    {
+                                        "url":  "https://nlmk.com/en/media-center/news-groups/irene-spitzberg-appointed-nlmk-group-vice-president-for-technology-development/",
+                                        "title":  "Irene Spitzberg appointed NLMK Group Vice President for Technology Development",
+                                        "fact":  "NLMK confirms her 2021 appointment, Michigan State and Northwestern education, GM/Magna experience and four patents."
+                                    }
+                                ],
+                    "notes":  "Scientific profile is confirmed at the degree and patent-summary level, but no h-index profile was safely matched."
+                },
+                {
+                    "name":  "Vladimir Lisin",
+                    "current_role":  "Chairman of the Board of Directors",
+                    "company_name":  "ПАО \"НЛМК\" / Novolipetsk Steel",
+                    "education":  [
+                                      {
+                                          "institution":  "Siberian Metallurgical Institute",
+                                          "description":  "Graduated in 1979 with a degree in metal forming.",
+                                          "year":  1979,
+                                          "sources":  [
+                                                          "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf"
+                                                      ],
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "Academy of National Economy",
+                                          "description":  "Graduated in 1990 with a degree in economics and management.",
+                                          "year":  1990,
+                                          "sources":  [
+                                                          "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf"
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "degree":  "Doctor of Technical Sciences",
+                                        "field":  "Metallurgy / technical sciences",
+                                        "institution":  null,
+                                        "year":  null,
+                                        "sources":  [
+                                                        "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf",
+                                                        "https://ria.ru/20100311/213476678.html"
+                                                    ],
+                                        "qualification_degree":  "Doctoral degree"
+                                    },
+                                    {
+                                        "degree":  "Doctor of Economics",
+                                        "field":  "Economics",
+                                        "institution":  null,
+                                        "year":  null,
+                                        "sources":  [
+                                                        "https://ria.ru/20100311/213476678.html"
+                                                    ],
+                                        "qualification_degree":  "Doctoral degree"
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "NLMK Group",
+                                                        "role":  "Chairman of the Board of Directors; earlier senior executive roles",
+                                                        "start_year":  1998,
+                                                        "end_year":  null,
+                                                        "description":  "CSV and MarketScreener identify him as Chairman; older NLMK annual report gives a long NLMK leadership history.",
+                                                        "sources":  [
+                                                                        "MOEXBMI_2024.csv",
+                                                                        "https://www.marketscreener.com/quote/stock/NOVOLIPETSK-STEEL-GDR-13491358/company-governance/",
+                                                                        "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf"
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Metals \u0026 Mining"
+                                                    },
+                                                    {
+                                                        "organization":  "Karaganda Steel Plant, TulaChermet and Trans-CIS Commodities",
+                                                        "role":  "Metallurgical and trading leadership roles",
+                                                        "start_year":  null,
+                                                        "end_year":  1998,
+                                                        "description":  "Older official biography describes earlier metallurgical-industry roles before chairing NLMK.",
+                                                        "sources":  [
+                                                                        "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf"
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Metals \u0026 Mining"
+                                                    }
+                                                ],
+                    "research_experience":  [
+                                                {
+                                                    "organization":  "Metallurgical research and publications",
+                                                    "role":  "Technical and economic research author",
+                                                    "description":  "Sources identify Lisin as a doctor of technical sciences and economics; RIA biography states he authored numerous publications and patent-related works.",
+                                                    "sources":  [
+                                                                    "https://ria.ru/20100311/213476678.html",
+                                                                    "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf"
+                                                                ]
+                                                }
+                                            ],
+                    "publications":  [
+                                         {
+                                             "description":  "RIA biography says he authored scientific articles and monographs; exact bibliographic list was not validated in this round.",
+                                             "sources":  [
+                                                             "https://ria.ru/20100311/213476678.html"
+                                                         ]
+                                         }
+                                     ],
+                    "patents":  [
+                                    {
+                                        "description":  "RIA biography reports patent/certificate authorship; individual patent records were not safely enumerated.",
+                                        "sources":  [
+                                                        "https://ria.ru/20100311/213476678.html"
+                                                    ]
+                                    }
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV row for NLMK lists Vladimir Lisin as Chairman."
+                                    },
+                                    {
+                                        "url":  "https://www.marketscreener.com/quote/stock/NOVOLIPETSK-STEEL-GDR-13491358/company-governance/",
+                                        "title":  "MarketScreener: Novolipetsk Steel governance",
+                                        "fact":  "Governance profile lists Vladimir Lisin as Chairman."
+                                    },
+                                    {
+                                        "url":  "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf",
+                                        "title":  "NLMK Annual Report 2019",
+                                        "fact":  "Official NLMK annual report biography gives Lisin\u0027s education, degrees and NLMK career history."
+                                    }
+                                ],
+                    "notes":  "Current 2024 board name is supported by CSV and MarketScreener; local 2024 annual report confirms a 9-person board elected 14 May 2024 but does not list names."
+                },
+                {
+                    "name":  "Nikolai Alexeevich Gagarin",
+                    "current_role":  "Director / Board Member",
+                    "company_name":  "ПАО \"НЛМК\" / Novolipetsk Steel",
+                    "education":  [
+                                      {
+                                          "institution":  "Lomonosov Moscow State University",
+                                          "description":  "Graduated in 1972 with legal education.",
+                                          "year":  1972,
+                                          "sources":  [
+                                                          "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf"
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "degree":  "Candidate of Legal Sciences / PhD in Law",
+                                        "field":  "Law",
+                                        "institution":  "Lomonosov Moscow State University",
+                                        "year":  1975,
+                                        "sources":  [
+                                                        "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf"
+                                                    ],
+                                        "qualification_degree":  "Doctoral degree"
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "NLMK Group",
+                                                        "role":  "Board member",
+                                                        "start_year":  2009,
+                                                        "end_year":  null,
+                                                        "description":  "CSV and MarketScreener identify him as an NLMK board member.",
+                                                        "sources":  [
+                                                                        "MOEXBMI_2024.csv",
+                                                                        "https://www.marketscreener.com/quote/stock/NOVOLIPETSK-STEEL-GDR-13491358/company-governance/",
+                                                                        "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf"
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Metals \u0026 Mining"
+                                                    },
+                                                    {
+                                                        "organization":  "Yakovlev \u0026 Partners / Pepeliaev, Goltsblat \u0026 Partners predecessor context",
+                                                        "role":  "Senior legal partner / Chairman",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Official NLMK biography identifies him as a senior legal-services leader.",
+                                                        "sources":  [
+                                                                        "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf"
+                                                                    ],
+                                                        "sector":  "Industrials",
+                                                        "industry_group":  "Commercial & Professional Services",
+                                                        "industry":  "Professional Services"
+                                                    }
+                                                ],
+                    "research_experience":  [
+                                                {
+                                                    "organization":  "Legal academia",
+                                                    "role":  "Candidate of Legal Sciences",
+                                                    "description":  "Academic degree confirmed, but no publication list or h-index was safely matched.",
+                                                    "sources":  [
+                                                                    "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf"
+                                                                ]
+                                                }
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV row for NLMK lists Nikolai Alexeevich Gagarin as Director/Board Member."
+                                    },
+                                    {
+                                        "url":  "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf",
+                                        "title":  "NLMK Annual Report 2019",
+                                        "fact":  "Official NLMK annual report biography gives Gagarin\u0027s legal education, PhD/candidate degree and legal career."
+                                    }
+                                ],
+                    "notes":  "Namesake risk is low because the profile has full patronymic, legal career and NLMK board anchor."
+                },
+                {
+                    "name":  "Oleg Bagrin",
+                    "current_role":  "Director / Board Member",
+                    "company_name":  "ПАО \"НЛМК\" / Novolipetsk Steel",
+                    "education":  [
+                                      {
+                                          "institution":  "State University of Management",
+                                          "description":  "Graduated in 1996 in economics and management.",
+                                          "year":  1996,
+                                          "sources":  [
+                                                          "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf"
+                                                      ],
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "University of Cambridge",
+                                          "description":  "MBA.",
+                                          "year":  null,
+                                          "sources":  [
+                                                          "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf"
+                                                      ],
+                                          "qualification_degree":  "MBA"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "NLMK Group",
+                                                        "role":  "Board member; former President/CEO",
+                                                        "start_year":  2003,
+                                                        "end_year":  null,
+                                                        "description":  "CSV and MarketScreener identify him as a board member; older official NLMK biography describes prior CEO/president role.",
+                                                        "sources":  [
+                                                                        "MOEXBMI_2024.csv",
+                                                                        "https://www.marketscreener.com/quote/stock/NOVOLIPETSK-STEEL-GDR-13491358/company-governance/",
+                                                                        "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf"
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Metals \u0026 Mining"
+                                                    },
+                                                    {
+                                                        "organization":  "NLMK International / NLMK USA and international businesses",
+                                                        "role":  "Board/management roles",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Official biography lists NLMK international leadership roles.",
+                                                        "sources":  [
+                                                                        "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf"
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Metals \u0026 Mining"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV row for NLMK lists Oleg Bagrin as Director/Board Member."
+                                    },
+                                    {
+                                        "url":  "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf",
+                                        "title":  "NLMK Annual Report 2019",
+                                        "fact":  "Official NLMK annual report biography gives Bagrin\u0027s education and NLMK executive/board background."
+                                    }
+                                ],
+                    "notes":  "No research degree, publications, patents or h-index were confirmed for the NLMK board member."
+                },
+                {
+                    "name":  "Stanislav Shekshnia",
+                    "current_role":  "Director / Board Member",
+                    "company_name":  "ПАО \"НЛМК\" / Novolipetsk Steel",
+                    "education":  [
+                                      {
+                                          "institution":  "Lomonosov Moscow State University",
+                                          "description":  "Education in economics/management; official biography links him with MSU and an economics doctorate/candidate degree.",
+                                          "year":  null,
+                                          "sources":  [
+                                                          "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf"
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "degree":  "Candidate of Economic Sciences / PhD in Economics",
+                                        "field":  "Economics",
+                                        "institution":  "Lomonosov Moscow State University",
+                                        "year":  1991,
+                                        "sources":  [
+                                                        "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf"
+                                                    ],
+                                        "qualification_degree":  "Doctoral degree"
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "NLMK Group",
+                                                        "role":  "Independent Director / Board member",
+                                                        "start_year":  2015,
+                                                        "end_year":  null,
+                                                        "description":  "CSV and MarketScreener identify him as NLMK board member.",
+                                                        "sources":  [
+                                                                        "MOEXBMI_2024.csv",
+                                                                        "https://www.marketscreener.com/quote/stock/NOVOLIPETSK-STEEL-GDR-13491358/company-governance/",
+                                                                        "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf"
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Metals \u0026 Mining"
+                                                    },
+                                                    {
+                                                        "organization":  "INSEAD",
+                                                        "role":  "Professor / leadership and entrepreneurship educator",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Official NLMK biography identifies him with INSEAD academic work.",
+                                                        "sources":  [
+                                                                        "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Ward Howell, Alfa-Telecom, VimpelCom and other companies",
+                                                        "role":  "Senior executive/advisory roles",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Official biography lists senior management and advisory experience.",
+                                                        "sources":  [
+                                                                        "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+                                                {
+                                                    "organization":  "INSEAD / leadership research and education",
+                                                    "role":  "Academic and educator",
+                                                    "description":  "Academic role and economics PhD/candidate degree confirmed; publications were not enumerated in validated sources.",
+                                                    "sources":  [
+                                                                    "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf"
+                                                                ]
+                                                }
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV row for NLMK lists Stanislav Shekshnia as Director/Board Member."
+                                    },
+                                    {
+                                        "url":  "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf",
+                                        "title":  "NLMK Annual Report 2019",
+                                        "fact":  "Official NLMK annual report biography gives Shekshnia\u0027s degree, INSEAD role and management background."
+                                    }
+                                ],
+                    "notes":  "Academic identity was checked against NLMK board context; no h-index was added because no verified single author profile was tied to the board member."
+                },
+                {
+                    "name":  "Thomas Veraszto",
+                    "current_role":  "Director / Board Member",
+                    "company_name":  "ПАО \"НЛМК\" / Novolipetsk Steel",
+                    "education":  [
+                                      {
+                                          "institution":  "Harvard University",
+                                          "description":  "Bachelor\u0027s degree, 1975.",
+                                          "year":  1975,
+                                          "sources":  [
+                                                          "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf"
+                                                      ],
+                                          "qualification_degree":  "Bachelor\u0027s degree"
+                                      },
+                                      {
+                                          "institution":  "Harvard Business School",
+                                          "description":  "MBA, 1979.",
+                                          "year":  1979,
+                                          "sources":  [
+                                                          "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf"
+                                                      ],
+                                          "qualification_degree":  "MBA"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "NLMK Group",
+                                                        "role":  "Board member",
+                                                        "start_year":  2015,
+                                                        "end_year":  null,
+                                                        "description":  "CSV and MarketScreener identify him as a board member.",
+                                                        "sources":  [
+                                                                        "MOEXBMI_2024.csv",
+                                                                        "https://www.marketscreener.com/quote/stock/NOVOLIPETSK-STEEL-GDR-13491358/company-governance/",
+                                                                        "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf"
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Metals \u0026 Mining"
+                                                    },
+                                                    {
+                                                        "organization":  "Emerging-markets investment and advisory roles",
+                                                        "role":  "Senior finance/advisory executive",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Official biography gives international finance and advisory background.",
+                                                        "sources":  [
+                                                                        "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV row for NLMK lists Veraszto M. Thomas as Director/Board Member."
+                                    },
+                                    {
+                                        "url":  "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf",
+                                        "title":  "NLMK Annual Report 2019",
+                                        "fact":  "Official NLMK annual report biography gives Veraszto\u0027s Harvard education and business background."
+                                    }
+                                ],
+                    "notes":  "CSV name order was normalized to Thomas Veraszto, matching official and market profiles."
+                },
+                {
+                    "name":  "Joachim Otto Jacob Limberg",
+                    "current_role":  "Director / Board Member",
+                    "company_name":  "ПАО \"НЛМК\" / Novolipetsk Steel",
+                    "education":  [
+                                      {
+                                          "institution":  "University of Dortmund",
+                                          "description":  "Master\u0027s degree in mechanical engineering.",
+                                          "year":  null,
+                                          "sources":  [
+                                                          "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf"
+                                                      ],
+                                          "qualification_degree":  "Master\u0027s degree"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "NLMK Group",
+                                                        "role":  "Board member",
+                                                        "start_year":  2019,
+                                                        "end_year":  null,
+                                                        "description":  "CSV and MarketScreener identify him as a board member.",
+                                                        "sources":  [
+                                                                        "MOEXBMI_2024.csv",
+                                                                        "https://www.marketscreener.com/quote/stock/NOVOLIPETSK-STEEL-GDR-13491358/company-governance/",
+                                                                        "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf"
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Metals \u0026 Mining"
+                                                    },
+                                                    {
+                                                        "organization":  "ThyssenKrupp / thyssenkrupp Steel Europe",
+                                                        "role":  "Senior steel-industry executive",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Official biography describes long executive career at ThyssenKrupp, including steel operations leadership.",
+                                                        "sources":  [
+                                                                        "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf"
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Metals \u0026 Mining"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV row for NLMK lists Joachim Otto Jacob Limberg as Director/Board Member."
+                                    },
+                                    {
+                                        "url":  "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf",
+                                        "title":  "NLMK Annual Report 2019",
+                                        "fact":  "Official NLMK annual report biography gives Limberg\u0027s University of Dortmund engineering education and ThyssenKrupp career."
+                                    }
+                                ],
+                    "notes":  "Identity confidence is high because the full multi-part name, NLMK board role and ThyssenKrupp career are distinctive."
+                }
+            ],
+    "board_sources":  [
+                          {
+                              "url":  "MOEXBMI_2024.csv",
+                              "title":  "MOEXBMI_2024.csv",
+                              "fact":  "CSV contains predefined company people and positions used as pipeline input."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/NLMK/Годовой отчет Группы НЛМК 2024.pdf",
+                              "title":  "Годовой отчет Группы НЛМК 2024",
+                              "fact":  "Pages 168-177: the report describes NLMK\u0027s corporate governance structure, says executive bodies are the President (Chairman of the Management Board) and Management Board, and states that the board in office on 31 December 2024 was elected at the annual general meeting on 14 May 2024 in the amount of nine persons."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/NLMK/NLMK IFRS FS 4Q 2024 RUB (RUS)_на публикацию_перевыпуск_Подписано на оригинале.pdf",
+                              "title":  "Раскрываемая консолидированная финансовая отчетность ПАО НЛМК за 2024 год",
+                              "fact":  "Page 330: the RAS/financial section states that the President (Chairman of the Management Board) is the sole executive body of the company."
+                          },
+                          {
+                              "url":  "https://www.marketscreener.com/quote/stock/NOVOLIPETSK-STEEL-GDR-13491358/company-governance/",
+                              "title":  "MarketScreener: Novolipetsk Steel governance",
+                              "fact":  "Governance profile lists Sergey Karataev as CEO, Nikolay Ivanov as CFO, Dmitry Kholkin, Ben de Vos, Irene Spitzberg and board members Vladimir Lisin, Nikolai Gagarin, Oleg Bagrin, Stanislav Shekshnia, Thomas Veraszto and Joachim Limberg."
+                          },
+                          {
+                              "url":  "https://university.nlmk.com/upload/iblock/64d/hnsscmje671ygc4kcs2cxrzj98msizmx.pdf",
+                              "title":  "NLMK Annual Report 2019",
+                              "fact":  "Official NLMK annual report contains detailed biographies of the relevant board members used to verify education, degrees and career history."
+                          }
+                      ],
+    "sources":  [
+                    {
+                        "url":  "https://nlmk.com/en/media-center/press-releases/sergey-karataev-elected-ceo-of-nlmk-group/?from=ru%3Ffrom%3Dru",
+                        "title":  "Sergey Karataev elected CEO of NLMK Group",
+                        "fact":  "Official source for 2024 CEO appointment and Karataev biography."
+                    },
+                    {
+                        "url":  "https://www.nlmk.com/en/media-center/press-releases/nlmk-group-develops-digital-business-transformation/?from=ru%3Ffrom%3Dru",
+                        "title":  "NLMK Group develops digital business transformation",
+                        "fact":  "Official source for Dmitry Kholkin appointment, education and prior experience."
+                    },
+                    {
+                        "url":  "https://nlmk.com/en/media-center/news-groups/irene-spitzberg-appointed-nlmk-group-vice-president-for-technology-development/",
+                        "title":  "Irene Spitzberg appointed NLMK Group Vice President for Technology Development",
+                        "fact":  "Official source for Irene Spitzberg appointment, education, GM/Magna career and patents."
+                    },
+                    {
+                        "url":  "https://www.marketscreener.com/insider/NIKOLAY-IVANOV-A1KP1L/",
+                        "title":  "MarketScreener: Nikolay Ivanov",
+                        "fact":  "Source for Nikolay Ivanov education and finance career."
+                    },
+                    {
+                        "url":  "https://www.marketscreener.com/insider/BEN-DE-VOS-A111LP/",
+                        "title":  "MarketScreener: Ben de Vos",
+                        "fact":  "Source for Ben de Vos education and steel-industry career."
+                    },
+                    {
+                        "url":  "https://www.kommersant.ru/doc/5101384",
+                        "title":  "Kommersant: Сергей Каратаев покинул пост гендиректора Первой грузовой компании",
+                        "fact":  "Independent source for Sergey Karataev\u0027s pre-NLMK education and career."
+                    },
+                    {
+                        "url":  "https://ria.ru/20100311/213476678.html",
+                        "title":  "RIA: Биография Владимира Лисина",
+                        "fact":  "Supplementary source for Vladimir Lisin\u0027s academic degrees and research/patent authorship claims."
+                    }
+                ],
+    "validation_notes":  "Processed 11 people for ticker NLMK: 1 CEO and 10 other CSV people. Checked 2 local NLMK documents: the 2024 annual report and the 2024 disclosed consolidated financial statements. Research notes saved for 11 people; one research round per person was performed. The local 2024 annual report confirms governance structure and that a nine-person board was elected on 14 May 2024, but it does not list individual board names; board identities for the six CSV board members therefore rely on CSV, MarketScreener and older official NLMK annual-report biographies. Education was found for all 11 people. Weak-source use remains for Nikolay Ivanov and Ben de Vos education/current-role detail where MarketScreener is the main opened source. Excluded namesakes include unrelated medical/academic Nikolay Ivanov profiles, unrelated Dmitry Kholkin mentions, academic author-only Stanislav Shekshnia matches without NLMK board context, and common Vladimir Lisin media duplicates. No verified h-index was added for any person. Remaining conflict: local 2024 report says the full board had nine members, while the CSV contains six board members; the pipeline output intentionally includes only CSV people as instructed. Search considered complete because local documents were checked first, official appointment sources were found for the CEO and key technology executives, board education/career facts were verified from an official NLMK annual report, obvious namesakes were rejected, and follow-up searches for education, prior employers, appointments, publications, patents and h-index did not produce higher-quality additional sources for the remaining gaps. QUALITY PASS ROUND 1 (2026-07-30): confirmed on-disk file already matched git HEAD exactly, no regression to restore. Fixed one simple desync: Ben de Vos University of Pretoria qualification_degree was null despite the description already stating a bachelor and a master degree; set to Master's degree, matching the same combined-degree convention already used for Irene Spitzberg/Michigan State in this file. Corrected two wrong GICS labels: Dmitry Kholkin/X5 Retail Group was Consumer Discretionary/Broadline Retail, but X5 is Russia's largest food retailer (confirmed via Wikipedia), corrected to Consumer Staples/Consumer Staples Distribution & Retail (New Name); Stanislav Shekshnia's aggregated Ward Howell/Alfa-Telecom/VimpelCom row was Communication Services/Diversified Telecommunication Services, but Ward Howell (named first) is an executive-search and leadership-consulting firm (confirmed via wardhowell.com), not telecom, so this aggregate row was nulled out, consistent with the same aggregate-row precedent already documented in gics_quality_round_20260728.md for Karataev's PwC/Russian Standard Bank/Nomura row. Filled seven genuine single-employer GICS gaps, each confirmed this round via a fresh source: Karataev/Freight One to Industrials/Transportation/Ground Transportation (New Name); Kholkin/Tele2 Russia and Ivanov/VimpelCom to Communication Services/Telecommunication Services/Wireless Telecommunication Services; Spitzberg/General Motors to Consumer Discretionary/Automobiles & Components/Automobiles; Spitzberg/Magna International-Magna Steyr to Consumer Discretionary/Automobiles & Components/Automobile Components (New Name); Gagarin/Yakovlev & Partners to Industrials/Commercial & Professional Services/Professional Services, based on the already-cited NLMK Annual Report 2019 source which the round-1 notes already describe as a senior legal-services leader. Deliberately left null and unchanged: Ivanov's combined EVRAZ / Raspadskaya row, because EVRAZ is Metals & Mining but Raspadskaya is specifically a coal producer and a single blended label risks exactly the coal-versus-metals-mining error this pass is meant to catch; Lisin's Karaganda Steel Plant/TulaChermet/Trans-CIS Commodities row and Veraszto's Emerging-markets investment and advisory roles row were reviewed and kept as-is because they are not clearly wrong; Karataev's PwC/Russian Standard Bank/Nomura row and Shekshnia's INSEAD row remain correctly null (aggregate/academic entities). One item flagged unresolved rather than silently changed: a fresh re-check of the already-cited Kommersant source (doc/5101384) while researching Karataev's Finance Academy graduation year returned text describing a 2000 graduation with a finance-and-credit specialty plus a materially different career narrative (Rostselmash, Novartis Basel, Fletcher Group) than the TPG Capital/PwC/Russian Standard Bank/Nomura narrative already in this file; this could not be independently corroborated within this round's bounded budget, so the existing already-vetted JSON content was left unchanged and this is flagged for a dedicated future round with direct primary-source verification rather than resolved either way. Bounded gap follow-up attempted and still unresolved: Ivanov/Northeast Missouri State University qualification_degree and year; Bagrin/University of Cambridge MBA year; Limberg/University of Dortmund graduation year; de Vos exact degree years -- fresh queries tried and sources checked are logged in research_notes/NLMK/quality_pass_round1_20260730.md.",
+    "sector":  "Materials",
+    "industry_group":  "Materials",
+    "industry":  "Metals \u0026 Mining"
+}

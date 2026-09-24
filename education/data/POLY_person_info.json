@@ -1,0 +1,1365 @@
+{
+    "company_name":  "Solidcore Resources plc (formerly Polymetal International plc until 10 June 2024)",
+    "company_ticker":  "POLY",
+    "ceo":  {
+                "name":  "Vitaly Nesis",
+                "current_role":  "Chief Executive Officer; member of the Board in the 2024 Solidcore context",
+                "company_name":  "Solidcore Resources plc",
+                "education":  [
+                                  {
+                                      "institution":  "Yale University",
+                                      "program_or_field":  "Economics",
+                                      "degree_or_qualification":  "BA",
+                                      "year":  null,
+                                      "sources":  [
+                                                      {
+                                                          "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                          "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                          "fact":  "Pages 104-106: Vitaly Nesis is listed as CEO and his biography states that he holds a BA in Economics from Yale University."
+                                                      }
+                                                  ],
+                                      "qualification_degree":  "Bachelor's degree"
+                                  },
+                                  {
+                                      "institution":  "Санкт-Петербургский горный университет императрицы Екатерины II",
+                                      "program_or_field":  "Mining Economics",
+                                      "degree_or_qualification":  "MA",
+                                      "year":  null,
+                                      "sources":  [
+                                                      {
+                                                          "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                          "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                          "fact":  "Pages 104-106: the official 2024 biography states that Vitaly Nesis holds an MA in Mining Economics from St. Petersburg State Mining University."
+                                                      },
+                                                      {
+                                                          "url":  "https://eusp.org/en/people/vitaly-nesis",
+                                                          "title":  "European University at St. Petersburg: Vitaly Nesis",
+                                                          "fact":  "The university trustee profile corroborates the St. Petersburg Mining Institute/University mining economics credential."
+                                                      }
+                                                  ],
+                                      "qualification_degree":  "Master's degree"
+                                  }
+                              ],
+                "degrees":  [
+
+                            ],
+                "professional_experience":  [
+                                                {
+                                                    "organization":  "Merrill Lynch",
+                                                    "role":  "professional role in New York",
+                                                    "start_year":  1997,
+                                                    "end_year":  1999,
+                                                    "description":  "Early finance career before McKinsey and industrial management roles.",
+                                                    "sources":  [
+                                                                    {
+                                                                        "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                        "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                        "fact":  "Pages 104-106: Nesis worked at Merrill Lynch in New York from 1997 to 1999."
+                                                                    }
+                                                                ],
+                                                    "sector":  null,
+                                                    "industry_group":  null,
+                                                    "industry":  null
+                                                },
+                                                {
+                                                    "organization":  "McKinsey \u0026 Company",
+                                                    "role":  "professional role in Moscow",
+                                                    "start_year":  1999,
+                                                    "end_year":  2000,
+                                                    "description":  "Consulting experience before industrial roles.",
+                                                    "sources":  [
+                                                                    {
+                                                                        "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                        "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                        "fact":  "Pages 104-106: Nesis worked at McKinsey in Moscow from 1999 to 2000."
+                                                                    }
+                                                                ],
+                                                    "sector":  null,
+                                                    "industry_group":  null,
+                                                    "industry":  null
+                                                },
+                                                {
+                                                    "organization":  "Ulyanovsk Automobile Plant",
+                                                    "role":  "Strategic Development Director",
+                                                    "start_year":  2000,
+                                                    "end_year":  2000,
+                                                    "description":  "Industrial strategic development role.",
+                                                    "sources":  [
+                                                                    {
+                                                                        "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                        "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                        "fact":  "Pages 104-106: Nesis was Strategic Development Director at Ulyanovsk Automobile Plant in 2000."
+                                                                    }
+                                                                ],
+                                                    "sector":  "Consumer Discretionary",
+                                                    "industry_group":  "Automobiles \u0026 Components",
+                                                    "industry":  "Automobiles"
+                                                },
+                                                {
+                                                    "organization":  "Vostsibugol",
+                                                    "role":  "CEO",
+                                                    "start_year":  2002,
+                                                    "end_year":  2003,
+                                                    "description":  "Chief executive role before becoming CEO of Polymetal/Solidcore.",
+                                                    "sources":  [
+                                                                    {
+                                                                        "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                        "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                        "fact":  "Pages 104-106: Nesis was CEO at Vostsibugol from 2002 to 2003."
+                                                                    }
+                                                                ],
+                                                    "sector":  null,
+                                                    "industry_group":  null,
+                                                    "industry":  null
+                                                },
+                                                {
+                                                    "organization":  "Polymetal International plc / Solidcore Resources plc",
+                                                    "role":  "Chief Executive Officer",
+                                                    "start_year":  2003,
+                                                    "end_year":  null,
+                                                    "description":  "The official 2024 report states that Nesis has been CEO since 2003 and a board member since September 2011.",
+                                                    "sources":  [
+                                                                    {
+                                                                        "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                        "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                        "fact":  "Pages 104-106: Nesis is CEO and has been a board member since September 2011."
+                                                                    },
+                                                                    {
+                                                                        "url":  "https://publicreg.myafsa.com/details/230840900131/",
+                                                                        "title":  "AIFC Public Register: Solidcore Resources plc",
+                                                                        "fact":  "The public register records Vitaly Nesis as Director and CEO effective 07-08-2023."
+                                                                    }
+                                                                ],
+                                                    "sector":  "Materials",
+                                                    "industry_group":  "Materials",
+                                                    "industry":  "Metals \u0026 Mining"
+                                                }
+                                            ],
+                "research_experience":  [
+
+                                        ],
+                "publications":  [
+
+                                 ],
+                "patents":  [
+
+                            ],
+                "h_index":  null,
+                "sources":  [
+                                {
+                                    "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                    "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                    "fact":  "Main source for 2024 CEO role, education and career history."
+                                },
+                                {
+                                    "url":  "https://publicreg.myafsa.com/details/230840900131/",
+                                    "title":  "AIFC Public Register: Solidcore Resources plc",
+                                    "fact":  "Confirms Director and CEO status in the registered company record."
+                                },
+                                {
+                                    "url":  "https://eusp.org/en/people/vitaly-nesis",
+                                    "title":  "European University at St. Petersburg: Vitaly Nesis",
+                                    "fact":  "Corroborates education and professional identity."
+                                }
+                            ],
+                "notes":  "No confirmed academic publications, patents or h-index were found for the target person. The local POLY PDF in MOEXBMI_Отчеты_2024 did not contain his biography."
+            },
+    "tmt":  [
+                {
+                    "name":  "HE Abdulsalam Al Murshidi",
+                    "current_role":  "Chair according to the current/CSV-linked Solidcore board context, but not a confirmed 2024 Solidcore director; AIFC records Solidcore director appointment effective 01-06-2026",
+                    "company_name":  "Solidcore Resources plc",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Oman Investment Authority",
+                                                        "role":  "President",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Confirmed as President of Oman Investment Authority in a January 2022 UK government release.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.gov.uk/government/news/uk-and-oman-kickstart-sovereign-investment-partnership-to-boost-investment-links",
+                                                                            "title":  "UK and Oman kickstart Sovereign Investment Partnership",
+                                                                            "fact":  "The UK government release names HE Abdulsalam Al Murshidi as President of Oman Investment Authority."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "Solidcore Resources plc",
+                                                        "role":  "Director / Chair appointment, post-2024",
+                                                        "start_year":  2026,
+                                                        "end_year":  null,
+                                                        "description":  "Included because CSV contains him, but the appointment is a 2026 fact and must not be backdated to the 2024 board.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://publicreg.myafsa.com/details/230840900131/",
+                                                                            "title":  "AIFC Public Register: Solidcore Resources plc",
+                                                                            "fact":  "The register records Abdul Sallam Mohamed Abdullah Al Murshidi as Director effective 01-06-2026."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/en/investors-and-media/news/press-releases/02-06-2026-c/",
+                                                                            "title":  "Solidcore announces appointment of HE Abdulsalam Al Murshidi",
+                                                                            "fact":  "The official release title confirms a 2026 appointment of HE Abdulsalam Al Murshidi."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://publicreg.myafsa.com/details/230840900131/",
+                                        "title":  "AIFC Public Register: Solidcore Resources plc",
+                                        "fact":  "Director appointment for Abdul Sallam Mohamed Abdullah Al Murshidi is effective 01-06-2026, not 2024."
+                                    },
+                                    {
+                                        "url":  "https://www.gov.uk/government/news/uk-and-oman-kickstart-sovereign-investment-partnership-to-boost-investment-links",
+                                        "title":  "UK and Oman kickstart Sovereign Investment Partnership",
+                                        "fact":  "Confirms HE Abdulsalam Al Murshidi as President of Oman Investment Authority."
+                                    }
+                                ],
+                    "notes":  "Education was not confirmed. Abdulmonem Al-Murshidi, who joined Solidcore in January 2025, was treated as a distinct/non-2024 profile and not merged with this CSV person. Quality-pass round 1 (2026-07-31) gap follow-up: made one bounded fresh attempt on education. Tried: (1) WebSearch was unavailable (session quota exhausted); (2) DuckDuckGo HTML search blocked by a CAPTCHA challenge; (3) Bing and Google searches via fetch returned no relevant snippets (fetch tooling could not execute a live query); (4) direct guesses at oia.gov.om board-of-directors page (certificate error) and en.wikipedia.org/wiki/Abdulsalam_Al_Murshidi (404, no page exists); (5) Zawya company profile (400) and a guessed Bloomberg profile id (403). No education information was found; the gap remains genuinely unresolved and these five specific angles should not be repeated verbatim in a future pass -- a working general web search tool is needed."
+                },
+                {
+                    "name":  "Omar Bahram",
+                    "current_role":  "Chair of the Board in the 2024 Solidcore context; later/current CSV context lists Vice-Chair after 2026 board changes",
+                    "company_name":  "Solidcore Resources plc",
+                    "education":  [
+                                      {
+                                          "institution":  "University of Hull",
+                                          "program_or_field":  "Law",
+                                          "degree_or_qualification":  "LLB",
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                              "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                              "fact":  "Pages 104-106: Omar Bahram holds an LLB from the University of Hull."
+                                                          },
+                                                          {
+                                                              "url":  "https://www.uzoman.uz/about",
+                                                              "title":  "Uzbek-Oman Investment Company: About",
+                                                              "fact":  "The company profile corroborates Omar Bahram\u0027s University of Hull LLB."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  "Bachelor's degree"
+                                      },
+                                      {
+                                          "institution":  "University of Law, Manchester",
+                                          "program_or_field":  "Legal Practice Course",
+                                          "degree_or_qualification":  "LPC",
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                              "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                              "fact":  "Pages 104-106: Omar Bahram completed the LPC at the University of Law, Manchester."
+                                                          },
+                                                          {
+                                                              "url":  "https://www.uzoman.uz/about",
+                                                              "title":  "Uzbek-Oman Investment Company: About",
+                                                              "fact":  "The company profile corroborates the LPC at the University of Law, Manchester."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  "Professional certification"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "OQ Group",
+                                                        "role":  "legal roles",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Worked in legal roles before joining Oman Investment Authority. Quality-pass round 1 (2026-07-31) flagged an unresolved conflict with the 2024 AGM notice on this pre-OIA employer; kept as OQ Group per the Integrated Report (see person notes).",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: Bahram worked in legal roles at OQ Group before joining OIA."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/1/24-05-23/2024-05-20-AGM_notice_eng.pdf",
+                                                                            "title":  "Solidcore Resources plc 2024 AGM Notice",
+                                                                            "fact":  "GENUINE INCONSISTENCY (quality-pass round 1, 2026-07-31): this AGM notice states Bahram was \u0027Legal Associate at the Takamul Investment Company working on project development and financing, 2011-2015\u0027 immediately before \u0027legal advisor at OIA, 2015-2023\u0027, which conflicts with the Integrated Report\u0027s \u0027OQ Group of Companies\u0027 claim for the same pre-OIA period. Attempted to verify whether Takamul Investment Company is or was part of the OQ Group of Companies, which would reconcile both accounts as consistent; could not confirm via the Takamul official site (DNS failure) or Wikipedia (no page found) in this session. Kept the existing OQ Group value (Integrated Report, the file\u0027s primary biography source) as the more conservative value; did not add Takamul as a separate entry. Unresolved -- see person-level notes."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Oman Investment Authority",
+                                                        "role":  "Legal Advisor",
+                                                        "start_year":  2015,
+                                                        "end_year":  2023,
+                                                        "description":  "Legal advisor at the sovereign investment authority.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: Bahram was Legal Advisor at OIA from 2015 to 2023."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "Uzbek-Oman Investment Company",
+                                                        "role":  "Chief Executive Officer / General Director",
+                                                        "start_year":  2023,
+                                                        "end_year":  null,
+                                                        "description":  "Investment-company CEO role.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: Bahram has been CEO of UzOman since 2023."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://orginfo.uz/ru/organization/ee44ebe89447/",
+                                                                            "title":  "Orginfo: Uzbek-Oman Investment Company",
+                                                                            "fact":  "The registry-style page lists Bahram Omar Mahmood Mohamed as the head of the company."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "Oman Infrastructure Investment Management",
+                                                        "role":  "Non-Executive Director",
+                                                        "start_year":  2019,
+                                                        "end_year":  null,
+                                                        "description":  "Board role listed in the official 2024 biography.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: Bahram has served as Non-Executive Director of Oman Infrastructure Investment Management since 2019."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "Majis Industrial Services",
+                                                        "role":  "Non-Executive Director",
+                                                        "start_year":  2021,
+                                                        "end_year":  null,
+                                                        "description":  "Board role listed in the official 2024 biography.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: Bahram has served as Non-Executive Director of Majis Industrial Services since 2021."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "OQ Gas Networks",
+                                                        "role":  "Non-Executive Director",
+                                                        "start_year":  2021,
+                                                        "end_year":  2023,
+                                                        "description":  "Past board role listed in the official 2024 biography.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: Bahram was Non-Executive Director of OQ Gas Networks from 2021 to 2023."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Energy",
+                                                        "industry_group":  "Energy",
+                                                        "industry":  "Oil, Gas \u0026 Consumable Fuels"
+                                                    },
+                                                    {
+                                                        "organization":  "Solidcore Resources plc",
+                                                        "role":  "Director and Chair in 2024",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Appointed to the Board on 29 March 2024 and became Chair on 29 April 2024.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://publicreg.myafsa.com/details/230840900131/",
+                                                                            "title":  "AIFC Public Register: Solidcore Resources plc",
+                                                                            "fact":  "The register records Omar Mahmood Mohamed Bahram as Director effective 29-03-2024."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/1/24-05-23/2024-05-20-AGM_notice_eng.pdf",
+                                                                            "title":  "Solidcore Resources plc 2024 AGM Notice",
+                                                                            "fact":  "The 2024 AGM notice lists Omar Bahram for re-appointment and is signed by Omar Bahram as Chair for the Board."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report & Accounts 2024",
+                                                                            "fact":  "Quality-pass round 1 (2026-07-31): the governance section (Board and executive succession) states \u0027Omar Bahram joined the Board as a Non-Executive Director on 29 March 2024 ... Mr Bahram was subsequently appointed Board Chair on 29 April 2024\u0027, giving the exact Chair-appointment date that was previously only generalised as \u00272024\u0027."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                        "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                        "fact":  "Main source for 2024 role, education and professional experience."
+                                    },
+                                    {
+                                        "url":  "https://www.uzoman.uz/about",
+                                        "title":  "Uzbek-Oman Investment Company: About",
+                                        "fact":  "Corroborates education and CEO role."
+                                    },
+                                    {
+                                        "url":  "https://publicreg.myafsa.com/details/230840900131/",
+                                        "title":  "AIFC Public Register: Solidcore Resources plc",
+                                        "fact":  "Confirms director effective date in 2024."
+                                    }
+                                ],
+                    "notes":  "The CSV role conflicts with 2024 evidence: in 2024 he was Chair, while Vice-Chair is a later/current role after 2026 changes. Quality-pass round 1 (2026-07-31): found a GENUINE INCONSISTENCY between the Integrated Report 2024 (\u0027OQ Group of Companies\u0027) and the 2024 AGM notice (\u0027Takamul Investment Company, 2011-2015\u0027) for Bahram\u0027s pre-OIA employer; could not verify a Takamul/OQ Group relationship in this session, so the OQ Group value was kept and the conflict is documented on that professional_experience entry -- see its sources."
+                },
+                {
+                    "name":  "Evgueni Konovalenko",
+                    "current_role":  "Senior Independent Non-Executive Director",
+                    "company_name":  "Solidcore Resources plc",
+                    "education":  [
+                                      {
+                                          "institution":  "Columbia College, Columbia University",
+                                          "program_or_field":  "Economics",
+                                          "degree_or_qualification":  "BA",
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                              "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                              "fact":  "Pages 104-106: Konovalenko holds a BA in Economics from Columbia College of Columbia University."
+                                                          },
+                                                          {
+                                                              "url":  "https://www.marketscreener.com/insider/EVGUENI-KONOVALENKO-A3J19C/",
+                                                              "title":  "MarketScreener: Evgueni Konovalenko",
+                                                              "fact":  "Corroborates Columbia College education."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  "Bachelor's degree"
+                                      },
+                                      {
+                                          "institution":  "Solvay Business School, Universite Libre de Bruxelles",
+                                          "program_or_field":  "Business administration",
+                                          "degree_or_qualification":  "MBA",
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                              "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                              "fact":  "Pages 104-106: Konovalenko holds an MBA from Solvay Business School, Universite Libre de Bruxelles."
+                                                          },
+                                                          {
+                                                              "url":  "https://www.marketscreener.com/insider/EVGUENI-KONOVALENKO-A3J19C/",
+                                                              "title":  "MarketScreener: Evgueni Konovalenko",
+                                                              "fact":  "Corroborates Solvay Business School MBA."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  "MBA"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Merrill Lynch",
+                                                        "role":  "Mergers and Acquisitions Group",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "New York M\u0026A experience, held prior to joining Renaissance Capital in 2005 per the official 2024 report and the 2024 AGM notice; exact start/end years still not confirmed in opened sources.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: Konovalenko worked at Merrill Lynch in New York in the M\u0026A Group."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/1/24-05-23/2024-05-20-AGM_notice_eng.pdf",
+                                                                            "title":  "Solidcore Resources plc 2024 AGM Notice",
+                                                                            "fact":  "Quality-pass round 1 (2026-07-31) gap follow-up: fetched and read this AGM notice PDF directly to look for exact years; it independently corroborates \u0027Prior to joining Renaissance Capital, he worked at UBS, London at Structured Products Group and at Merrill Lynch, New York at Mergers and Acquisitions Group\u0027 (i.e. before he joined Renaissance Capital in 2005), matching the Integrated Report wording exactly. Neither official source gives exact start/end years for Merrill Lynch; still unconfirmed."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "UBS",
+                                                        "role":  "Structured Products Group",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "London structured-products experience, held prior to joining Renaissance Capital in 2005 per the official 2024 report and the 2024 AGM notice; exact start/end years still not confirmed in opened sources.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: Konovalenko worked at UBS London in the Structured Products Group."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/1/24-05-23/2024-05-20-AGM_notice_eng.pdf",
+                                                                            "title":  "Solidcore Resources plc 2024 AGM Notice",
+                                                                            "fact":  "Quality-pass round 1 (2026-07-31) gap follow-up: fetched and read this AGM notice PDF directly to look for exact years; it independently corroborates the same \u0027prior to joining Renaissance Capital\u0027 (2005) framing as the Integrated Report. Neither official source gives exact start/end years for UBS; still unconfirmed."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Renaissance Capital",
+                                                        "role":  "Executive roles including Head of International Equities and FICC Sales",
+                                                        "start_year":  2005,
+                                                        "end_year":  null,
+                                                        "description":  "Senior capital-markets leadership roles.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: Konovalenko has held various executive positions at Renaissance Capital since 2005."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "ProMeritum Investment Management LLP",
+                                                        "role":  "Managing Partner, strategy and business development",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Current investment-management role; Companies House records appointment as a member on 09-12-2024.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: the 2024 report lists Konovalenko as Managing Partner of ProMeritum Investment Management LLP."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://find-and-update.company-information.service.gov.uk/company/OC393861/filing-history",
+                                                                            "title":  "Companies House: ProMeritum Investment Management LLP filing history",
+                                                                            "fact":  "Companies House records appointment of Mr Evgueni Konovalenko as a member on 09-12-2024."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "Solidcore Resources plc",
+                                                        "role":  "Senior Independent Non-Executive Director",
+                                                        "start_year":  2022,
+                                                        "end_year":  null,
+                                                        "description":  "Senior independent director in 2024.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: Konovalenko is Senior Independent Non-Executive Director and was appointed in March 2022."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://publicreg.myafsa.com/details/230840900131/",
+                                                                            "title":  "AIFC Public Register: Solidcore Resources plc",
+                                                                            "fact":  "The register records Evgueni Konovalenko as Director effective 07-08-2023."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                        "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                        "fact":  "Main source for 2024 director role, education and career history."
+                                    },
+                                    {
+                                        "url":  "https://www.marketscreener.com/insider/EVGUENI-KONOVALENKO-A3J19C/",
+                                        "title":  "MarketScreener: Evgueni Konovalenko",
+                                        "fact":  "Corroborates education and Solidcore/Renaissance Capital background."
+                                    }
+                                ],
+                    "notes":  "Exact years for Merrill Lynch and UBS were not confirmed in opened sources; they are left null. Quality-pass round 1 (2026-07-31) gap follow-up: fetched the 2024 AGM notice PDF directly, which independently confirms both roles were held \u0027prior to joining Renaissance Capital\u0027 in 2005, but still gives no exact start/end years for either; the gap remains genuinely unresolved after this fresh attempt."
+                },
+                {
+                    "name":  "Richard Sharko",
+                    "current_role":  "Independent Non-Executive Director",
+                    "company_name":  "Solidcore Resources plc",
+                    "education":  [
+                                      {
+                                          "institution":  "Loyola Marymount University",
+                                          "program_or_field":  "Accounting",
+                                          "degree_or_qualification":  "Bachelor of Science",
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                              "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                              "fact":  "Pages 104-106: Richard Sharko has a BS in Accounting from Loyola Marymount University."
+                                                          },
+                                                          {
+                                                              "url":  "https://www.lse.co.uk/rns/polymetal-board-changes-qytcekpzynjv60m.html",
+                                                              "title":  "Polymetal board changes",
+                                                              "fact":  "The regulatory-news page corroborates the Loyola Marymount accounting degree."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  "Bachelor's degree"
+                                      }
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "name":  "Certified Public Accountant",
+                                        "issuer":  "State of California",
+                                        "year":  null,
+                                        "status":  "retired",
+                                        "sources":  [
+                                                        {
+                                                            "url":  "https://www.pwc.com/az/en/press-room/assets/press_release-richsharko_iaasb_cee_9_december_2014.pdf",
+                                                            "title":  "PwC press release on Richard Sharko IAASB appointment",
+                                                            "fact":  "PwC describes Richard Sharko as a certified public accountant in the State of California."
+                                                        },
+                                                        {
+                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                            "fact":  "The 2024 report lists Richard Sharko as a Certified Public Accountant, retired, State of California."
+                                                        }
+                                                    ],
+                                        "qualification_degree":  "Professional certification"
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "PwC",
+                                                        "role":  "Partner and senior governance/accounting roles",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Partner for 25 years; held regional and global governance/risk/accounting roles.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: Sharko was a partner at PwC for 25 years and served on the PwC Global Board from 2009 to 2013."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.pwc.com/az/en/press-room/assets/press_release-richsharko_iaasb_cee_9_december_2014.pdf",
+                                                                            "title":  "PwC press release on Richard Sharko IAASB appointment",
+                                                                            "fact":  "PwC states he was CEE Chief Risk Officer, CEE Chief Accountant, and former member of the PwC Global Board."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "International Auditing and Assurance Standards Board",
+                                                        "role":  "Board member",
+                                                        "start_year":  2015,
+                                                        "end_year":  2020,
+                                                        "description":  "International audit standard-setting board role.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: Sharko was a board member of IAASB from 2015 to 2020."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://cfrr.worldbank.org/sites/default/files/2020-02/AuditToT-5-09-agenda.pdf",
+                                                                            "title":  "World Bank CFRR Audit Training of Trainers agenda",
+                                                                            "fact":  "The agenda bio corroborates Richard Sharko\u0027s IAASB membership and PwC background."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Agri Europe Cyprus Ltd",
+                                                        "role":  "Board member",
+                                                        "start_year":  2022,
+                                                        "end_year":  2024,
+                                                        "description":  "Board role listed in the official 2024 biography.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: Sharko was a board member at Agri Europe Cyprus Ltd from 2022 to 2024."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Solidcore Resources plc",
+                                                        "role":  "Independent Non-Executive Director",
+                                                        "start_year":  2022,
+                                                        "end_year":  null,
+                                                        "description":  "Independent director in 2024.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: Sharko is an Independent Non-Executive Director appointed in December 2022."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://publicreg.myafsa.com/details/230840900131/",
+                                                                            "title":  "AIFC Public Register: Solidcore Resources plc",
+                                                                            "fact":  "The register records Richard Sharko as Director effective 07-08-2023."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                        "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                        "fact":  "Main source for 2024 role, education and professional experience."
+                                    },
+                                    {
+                                        "url":  "https://www.pwc.com/az/en/press-room/assets/press_release-richsharko_iaasb_cee_9_december_2014.pdf",
+                                        "title":  "PwC press release on Richard Sharko IAASB appointment",
+                                        "fact":  "Independent PwC source corroborating CPA, PwC and IAASB facts."
+                                    }
+                                ],
+                    "notes":  "No confirmed academic publications, patents or h-index found."
+                },
+                {
+                    "name":  "Janat Berdalina",
+                    "current_role":  "Independent Non-Executive Director",
+                    "company_name":  "Solidcore Resources plc",
+                    "education":  [
+                                      {
+                                          "institution":  "École des Ponts ParisTech",
+                                          "program_or_field":  "Executive MBA",
+                                          "degree_or_qualification":  "Executive MBA",
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                              "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                              "fact":  "Pages 104-106: Janat Berdalina completed the Executive MBA programme at ENPC, France."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  "MBA"
+                                      },
+                                      {
+                                          "institution":  "Academy of Management, Kazakhstan",
+                                          "program_or_field":  "Economics",
+                                          "degree_or_qualification":  "degree",
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                              "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                              "fact":  "Pages 104-106: Janat Berdalina holds a degree in Economics from the Academy of Management, Kazakhstan."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  "Unknown"
+                                      },
+                                      {
+                                          "institution":  "University of Bristol",
+                                          "program_or_field":  "International Business",
+                                          "degree_or_qualification":  "degree",
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                              "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                              "fact":  "Pages 104-106: Janat Berdalina holds a degree in International Business from Bristol University, UK."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  "Unknown"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "KPMG Kazakhstan and Central Asia",
+                                                        "role":  "Co-shareholder, Managing Partner and President",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Senior audit/advisory leadership career.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: Berdalina spent most of her career as co-shareholder, Managing Partner and President of KPMG Kazakhstan and Central Asia."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "KPMG in the CIS",
+                                                        "role":  "Board member",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Governance role within KPMG in the CIS.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: Berdalina was a board member of KPMG in the CIS."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Kazakh state entities and professional bodies",
+                                                        "role":  "Independent director and governance contributor",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Independent director of several Kazakh state entities; executive of the Foreign Investors\u0027 Council; contributed to Kazakhstan tax and auditing legislation.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: the report describes these Kazakh governance and legislative contributions."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Solidcore Resources plc",
+                                                        "role":  "Independent Non-Executive Director",
+                                                        "start_year":  2022,
+                                                        "end_year":  null,
+                                                        "description":  "Independent director and Chair of the Safety and Sustainability Committee in 2024.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: Berdalina is an Independent Non-Executive Director appointed in March 2022 and is linked to the Safety and Sustainability Committee."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://publicreg.myafsa.com/details/230840900131/",
+                                                                            "title":  "AIFC Public Register: Solidcore Resources plc",
+                                                                            "fact":  "The register records Janat Berdalina as Director effective 07-08-2023."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Women in Tech Kazakhstan, AlmaU, Qazaq Independent Directors Association",
+                                                        "role":  "Advisory/trustee/independent-director roles",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Professional governance and advisory roles listed by Solidcore.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: the report lists these advisory and board roles."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+                                         {
+                                             "title":  "Corporate Governance. A Guide for Directors",
+                                             "type":  "professional book, not scholarly publication",
+                                             "year":  null,
+                                             "sources":  [
+                                                             {
+                                                                 "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                 "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                 "fact":  "Pages 104-106: Berdalina co-authored the book Corporate Governance. A Guide for Directors."
+                                                             }
+                                                         ]
+                                         }
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                        "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                        "fact":  "Main source for 2024 role, education and professional experience."
+                                    },
+                                    {
+                                        "url":  "https://people.equilar.com/bio/person/janat-berdalina-solidcore-resources-plc/47358701",
+                                        "title":  "Equilar: Janat Berdalina",
+                                        "fact":  "Lower-priority corroboration for education and career markers."
+                                    }
+                                ],
+                    "notes":  "The book is included as professional output, not as a scholarly publication. No patents or h-index found."
+                },
+                {
+                    "name":  "Pascale Jeannin Perez",
+                    "current_role":  "Independent Non-Executive Director",
+                    "company_name":  "Solidcore Resources plc",
+                    "education":  [
+                                      {
+                                          "institution":  "Ecole Normale",
+                                          "program_or_field":  null,
+                                          "degree_or_qualification":  null,
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                              "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                              "fact":  "Pages 104-106: Pascale Jeannin Perez graduated from Ecole Normale."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "University of Montpellier",
+                                          "program_or_field":  "Economics",
+                                          "degree_or_qualification":  "degree",
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                              "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                              "fact":  "Pages 104-106: Pascale Jeannin Perez holds a degree in Economics from the University of Montpellier."
+                                                          },
+                                                          {
+                                                              "url":  "https://www.lse.co.uk/rns/polymetal-board-changes-qytcekpzynjv60m.html",
+                                                              "title":  "Polymetal board changes",
+                                                              "fact":  "The regulatory-news page corroborates University of Montpellier economics education."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  "Unknown"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "DYD International Holding",
+                                                        "role":  "Director",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Director of a company linked by the official bio to a gold project in Ivory Coast.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: Perez is a Director of DYD International Holding, which owns the Ity gold project in Ivory Coast."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Derichebourg Polyurbaine Group",
+                                                        "role":  "Chair and CEO",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Senior executive role in an environmental-services group.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: Perez is Chair and CEO of Derichebourg Polyurbaine Group."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "High Power Exploration Inc.",
+                                                        "role":  "Special Adviser",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Adviser role in mining exploration.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: Perez is Special Adviser to HPX."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "International Services Corporation",
+                                                        "role":  "Founder and CEO",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "International consulting/business role.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: Perez is founder and CEO of International Services Corporation."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://iwb-bank.com/honorary-advisory-board/",
+                                                                            "title":  "International Water Bank: Honorary Advisory Board",
+                                                                            "fact":  "The advisory-board profile corroborates International Services Corporation and mining-sector roles."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Imperator Resources",
+                                                        "role":  "Shareholder and board member",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Resource-company board role.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: Perez is a shareholder and board member of Imperator Resources."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Solidcore Resources plc",
+                                                        "role":  "Independent Non-Executive Director",
+                                                        "start_year":  2022,
+                                                        "end_year":  null,
+                                                        "description":  "Independent director in 2024.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: Perez is an Independent Non-Executive Director appointed in December 2022."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://publicreg.myafsa.com/details/230840900131/",
+                                                                            "title":  "AIFC Public Register: Solidcore Resources plc",
+                                                                            "fact":  "The register records Pascale Rose Jeanne Perez as Director effective 07-08-2023."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                        "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                        "fact":  "Main source for 2024 role, education and professional experience."
+                                    },
+                                    {
+                                        "url":  "https://www.lse.co.uk/rns/polymetal-board-changes-qytcekpzynjv60m.html",
+                                        "title":  "Polymetal board changes",
+                                        "fact":  "Regulatory-news corroboration of appointment, education and career markers."
+                                    }
+                                ],
+                    "notes":  "AIFC uses full legal-style name Pascale Rose Jeanne Perez; CSV uses Pascale Jeannin Perez. Career markers tie them to the same Solidcore director."
+                },
+                {
+                    "name":  "Steven Dashevsky",
+                    "current_role":  "Independent Non-Executive Director",
+                    "company_name":  "Solidcore Resources plc",
+                    "education":  [
+                                      {
+                                          "institution":  "Baruch College, The City University of New York",
+                                          "program_or_field":  "Finance and Investments",
+                                          "degree_or_qualification":  "graduated",
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                              "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                              "fact":  "Pages 104-106: Steven Dashevsky graduated from Baruch College of The City University of New York in Finance and Investments."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  "Unknown"
+                                      }
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "name":  "Chartered Financial Analyst",
+                                        "issuer":  "CFA Institute",
+                                        "year":  null,
+                                        "status":  null,
+                                        "sources":  [
+                                                        {
+                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                            "fact":  "Pages 104-106: Dashevsky is described as a Chartered Financial Analyst."
+                                                        }
+                                                    ],
+                                        "qualification_degree":  "Professional certification"
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Aton Capital, UniCredit Securities and Kola Capital LLP",
+                                                        "role":  "senior management positions",
+                                                        "start_year":  1998,
+                                                        "end_year":  null,
+                                                        "description":  "Financial-markets leadership roles; per the official 2024 report and the 2024 AGM notice he has held these positions since 1998, exact end date not confirmed in opened sources.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-105: \u0027Since 1998, has held various senior management positions in leading financial services firms including Aton Capital, UniCredit Securities, Kola Capital LLP.\u0027"
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/1/24-05-23/2024-05-20-AGM_notice_eng.pdf",
+                                                                            "title":  "Solidcore Resources plc 2024 AGM Notice",
+                                                                            "fact":  "Quality-pass round 1 (2026-07-31): fetched and read this AGM notice PDF directly; it independently corroborates \u0027Since 1998 held various senior management positions in leading financial services firms including Aton Capital, UniCredit Securities, Kola Capital LLP\u0027, confirming the start_year that the original research round had left null."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.marketscreener.com/insider/STEVEN-DASHEVSKY-A0973G/",
+                                                                            "title":  "MarketScreener: Steven Dashevsky",
+                                                                            "fact":  "Corroborates Aton, UniCredit and Kola Capital links."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "Integra Group",
+                                                        "role":  "Non-Executive Director",
+                                                        "start_year":  2012,
+                                                        "end_year":  2013,
+                                                        "description":  "Past non-executive director role.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: Dashevsky was a Non-Executive Director of Integra Group from 2012 to 2013."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "D\u0026P Advisors LLP",
+                                                        "role":  "CEO and Chief Investment Officer",
+                                                        "start_year":  2015,
+                                                        "end_year":  null,
+                                                        "description":  "Investment-advisory role; Companies House confirms appointment from 23-11-2015.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: Dashevsky is CEO and CIO of D\u0026P Advisors LLP."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://find-and-update.company-information.service.gov.uk/officers/eZuG371vjLRFmsbSfNwWWhCcqVA/appointments",
+                                                                            "title":  "Companies House: Steven Dashevsky appointments",
+                                                                            "fact":  "Companies House records Steven Dashevsky as appointed to D \u0026 P Advisors LLP on 23-11-2015."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Solidcore Resources plc",
+                                                        "role":  "Independent Non-Executive Director",
+                                                        "start_year":  2022,
+                                                        "end_year":  null,
+                                                        "description":  "Independent director and Audit and Risk Committee Chair in 2024.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                                                            "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                                                            "fact":  "Pages 104-106: Dashevsky is an Independent Non-Executive Director appointed in March 2022 and is linked to the Audit and Risk Committee."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://publicreg.myafsa.com/details/230840900131/",
+                                                                            "title":  "AIFC Public Register: Solidcore Resources plc",
+                                                                            "fact":  "The register records Steven Dashevsky as Director effective 07-08-2023."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                                        "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                                        "fact":  "Main source for 2024 role, education and professional experience."
+                                    },
+                                    {
+                                        "url":  "https://find-and-update.company-information.service.gov.uk/officers/eZuG371vjLRFmsbSfNwWWhCcqVA/appointments",
+                                        "title":  "Companies House: Steven Dashevsky appointments",
+                                        "fact":  "Confirms D\u0026P Advisors appointment."
+                                    }
+                                ],
+                    "notes":  "No confirmed academic publications, patents or h-index found. Quality-pass round 1 (2026-07-31) gap follow-up: fetched the 2024 AGM notice PDF directly and cross-checked the Integrated Report 2024; both independently state \u0027Since 1998\u0027 for his tenure at Aton Capital/UniCredit Securities/Kola Capital LLP, resolving the previously-null start_year (see that professional_experience entry). Exact end year for that period is still not stated by either source."
+                }
+            ],
+    "board_sources":  [
+                          {
+                              "url":  "MOEXBMI_2024.csv",
+                              "title":  "MOEXBMI_2024.csv",
+                              "fact":  "CSV contains predefined company people and positions used as pipeline input."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/POLY/Polymetal_AR24.pdf",
+                              "title":  "АО \"Полиметалл\" · Годовой отчет за 2024 год",
+                              "fact":  "Local report checked before web research; it is a JSC Polymetal annual report and did not contain the CSV-person biographies for Solidcore/Polymetal International plc."
+                          },
+                          {
+                              "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                              "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                              "fact":  "Pages 104-106 provide 2024 Board biographies for Vitaly Nesis, Omar Bahram, Evgueni Konovalenko, Janat Berdalina, Steven Dashevsky, Pascale Jeannin Perez and Richard Sharko."
+                          },
+                          {
+                              "url":  "https://www.solidcore-resources.com/upload/ib/1/24-05-23/2024-05-20-AGM_notice_eng.pdf",
+                              "title":  "Solidcore Resources plc 2024 AGM Notice",
+                              "fact":  "The AGM notice lists 2024 director re-appointments, including Omar Bahram, Vitaly Nesis, Evgueni Konovalenko, Janat Berdalina, Steven Dashevsky, Pascale Jeannin Perez and Richard Sharko."
+                          },
+                          {
+                              "url":  "https://publicreg.myafsa.com/details/230840900131/",
+                              "title":  "AIFC Public Register: Solidcore Resources plc",
+                              "fact":  "The register confirms the company name change from Polymetal International plc to Solidcore Resources plc and records director effective dates; Abdul Sallam Mohamed Abdullah Al Murshidi is effective 01-06-2026, not 2024."
+                          },
+                          {
+                              "url":  "https://www.solidcore-resources.com/en/investors-and-media/news/press-releases/02-06-2026-c/",
+                              "title":  "Solidcore announces appointment of HE Abdulsalam Al Murshidi",
+                              "fact":  "Official post-2024 source used only to explain why the CSV/current-board role for HE Abdulsalam Al Murshidi is not a 2024 board fact."
+                          }
+                      ],
+    "sources":  [
+                    {
+                        "url":  "MOEXBMI_2024.csv",
+                        "title":  "MOEXBMI_2024.csv",
+                        "fact":  "Input source for ticker POLY and the eight CSV people."
+                    },
+                    {
+                        "url":  "MOEXBMI_Отчеты_2024/POLY/Polymetal_AR24.pdf",
+                        "title":  "АО \"Полиметалл\" · Годовой отчет за 2024 год",
+                        "fact":  "Only local POLY PDF found and checked; it did not provide Solidcore board biographies."
+                    },
+                    {
+                        "url":  "https://www.solidcore-resources.com/upload/ib/696602/Solidcore_integrated_report_2024_en.pdf",
+                        "title":  "Solidcore Resources plc Integrated Annual Report \u0026 Accounts 2024",
+                        "fact":  "Primary official source for 2024 board biographies, education and experience."
+                    },
+                    {
+                        "url":  "https://publicreg.myafsa.com/details/230840900131/",
+                        "title":  "AIFC Public Register: Solidcore Resources plc",
+                        "fact":  "Primary registry source for name change and director effective dates."
+                    },
+                    {
+                        "url":  "https://www.solidcore-resources.com/upload/ib/1/24-05-23/2024-05-20-AGM_notice_eng.pdf",
+                        "title":  "Solidcore Resources plc 2024 AGM Notice",
+                        "fact":  "Official 2024 governance source for director re-appointments."
+                    }
+                ],
+    "validation_notes":  "Processed 8 CSV people for POLY. Checked 1 local document: MOEXBMI_Отчеты_2024/POLY/Polymetal_AR24.pdf. Completed 8 person-level research rounds plus one ticker overview note. Education was not confirmed for HE Abdulsalam Al Murshidi; all other CSV people have education confirmed mainly by the official 2024 Solidcore report. The main conflict is temporal: CSV/current page lists HE Abdulsalam Al Murshidi as Chair and Omar Bahram as Vice-Chair, while 2024 sources show Omar Bahram as Chair and do not include HE Abdulsalam on the 2024 board. AIFC records HE Abdulsalam/Abdul Sallam Mohamed Abdullah Al Murshidi as director only from 01-06-2026. Abdulmonem Al-Murshidi, who joined in January 2025, was treated as a distinct/non-2024 profile and excluded from the CSV person facts. Weaker sources such as MarketScreener, Equilar, The Org and advisory-board pages were used only as corroboration, not to override official 2024 or registry evidence. No confirmed scholarly publication set, patents or h-index were found for the target people; Janat Berdalina\u0027s book is retained only as professional output. Search is considered complete because the local document was checked first, the official 2024 report contains full biographies for the seven 2024 directors/CEO, AGM/AIFC sources resolve board composition, and the remaining major uncertainty is explicitly limited to the post-2024 Abdulsalam role and missing education. QUALITY-PASS ROUND 1 (2026-07-31): step-0 git-baseline check confirmed the on-disk file matched git HEAD (commit f973022, already post-restoration) with no further regression to undo. Fixed a systemic desync: qualification_degree was null on all 15 education/degrees entries despite an earlier addendum note claiming it had been populated; normalized all 15 against the fixed ten-value enum using the already-cited degree_or_qualification text and REFINEMENT.md rules (14 filled, 1 left null -- Ecole Normale, no stated level). Normalized 3 institution names to the canonical forms in university_names.json (St. Petersburg Mining University, ENPC \u2192 \u00c9cole des Ponts ParisTech, Bristol University \u2192 University of Bristol), matching the convention already used by other tickers (ALRS, MRKZ, MBNK). Corrected 3 GICS labels: Nesis/Ulyanovsk Automobile Plant (Telecom \u2192 Consumer Discretionary/Automobiles); Dashevsky/Aton Capital-UniCredit Securities-Kola Capital LLP (Consumer Finance \u2192 Capital Markets); Sharko/IAASB nulled out (nonprofit standard-setting board, no genuine commercial GICS category), consistent with the rule that government/nonprofit bodies should not carry a commercial label. Verified OQ Gas Networks (gas transportation network operator) correctly sits under Energy/Oil, Gas \u0026 Consumable Fuels per real GICS convention, not Utilities; left it unchanged. Fetched the 2024 AGM notice PDF directly (new primary-source read) and cross-checked it against the already-cited Integrated Report 2024: resolved the Dashevsky Aton/UniCredit/Kola start_year gap (1998, confirmed by both sources) and Bahram\u0027s Chair-appointment date (29 April 2024, from the report\u0027s governance section); added \u0027prior to joining Renaissance Capital (2005)\u0027 context to Konovalenko\u0027s Merrill Lynch/UBS entries (exact years still unconfirmed). Found one GENUINE INCONSISTENCY: the Integrated Report says Bahram\u0027s pre-OIA employer was \u0027OQ Group of Companies\u0027 while the AGM notice says \u0027Takamul Investment Company, 2011-2015\u0027; could not verify a Takamul/OQ Group relationship via reachable sources in this session, so the existing OQ Group value was kept as the more conservative option and the conflict is documented on that entry, not silently resolved. Made one bounded fresh-query attempt on the HE Abdulsalam Al Murshidi education gap; still unresolved after 5 distinct angles (WebSearch quota exhausted, DuckDuckGo CAPTCHA, Bing/Google fetch returned nothing usable, guessed OIA/Wikipedia/Zawya/Bloomberg URLs all failed) -- see his notes field for the specific queries tried. No previously-saved notes, descriptions, or source citations were shortened or deleted in this round; all additions cite either an already-listed source or the freshly-fetched AGM notice PDF, quoted verbatim where a specific phrase is claimed.",
+    "sector":  "Materials",
+    "industry_group":  "Materials",
+    "industry":  "Metals \u0026 Mining"
+}

@@ -1,0 +1,844 @@
+{
+  "company_name": "O'KEY Group S.A. (CSV: АО О'КЕЙ ГРУПП)",
+  "company_ticker": "OKEY",
+  "ceo": {
+    "name": "KONSTANTIN ARABIDIS / Константин Арабидис",
+    "current_role": "Генеральный директор в 2024-контексте O'KEY; independent director of O'KEY Group S.A. from 29 April 2025",
+    "company_name": "O'KEY Group S.A. / ООО \"О'КЕЙ\"",
+    "education": [
+      {
+        "institution": "Peter the Great St. Petersburg Polytechnic University",
+        "program_or_field": "Technical Cybernetics",
+        "degree_or_qualification": "University education",
+        "year": null,
+        "sources": [
+          {
+            "url": "https://okeygroup.lu/about/corporate-governance/board-of-directors/",
+            "title": "O'KEY Group: Board of Directors",
+            "fact": "Current official board biography states that Konstantin Arabidis graduated from the Faculty of Technical Cybernetics at Peter the Great St. Petersburg Polytechnic University."
+          },
+          {
+            "url": "https://www.e-xecutive.ru/users/432868-konstantin-arabidis",
+            "title": "Executive.ru: Константин Арабидис",
+            "fact": "The biography states that he graduated from the Faculty of Technical Cybernetics at Peter the Great St. Petersburg Polytechnic University."
+          }
+        ],
+        "qualification_degree": null
+      },
+      {
+        "institution": "St. Petersburg State University",
+        "program_or_field": "Economics",
+        "degree_or_qualification": "University education",
+        "year": null,
+        "sources": [
+          {
+            "url": "https://okeygroup.lu/about/corporate-governance/board-of-directors/",
+            "title": "O'KEY Group: Board of Directors",
+            "fact": "Current official board biography states that Konstantin Arabidis graduated from the Faculty of Economics at St. Petersburg State University."
+          },
+          {
+            "url": "https://www.e-xecutive.ru/users/432868-konstantin-arabidis",
+            "title": "Executive.ru: Константин Арабидис",
+            "fact": "The biography states that he graduated from the Faculty of Economics at St. Petersburg State University."
+          }
+        ],
+        "qualification_degree": null
+      },
+      {
+        "institution": "Association of Chartered Certified Accountants",
+        "program_or_field": "Accounting and finance professional qualification",
+        "degree_or_qualification": "ACCA member",
+        "year": null,
+        "sources": [
+          {
+            "url": "https://okeygroup.lu/about/corporate-governance/board-of-directors/",
+            "title": "O'KEY Group: Board of Directors",
+            "fact": "Current official board biography states that Konstantin Arabidis is a member of ACCA."
+          },
+          {
+            "url": "https://www.e-xecutive.ru/users/432868-konstantin-arabidis",
+            "title": "Executive.ru: Константин Арабидис",
+            "fact": "The biography states that he is an ACCA member."
+          }
+        ],
+        "qualification_degree": "Professional certification"
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "PricewaterhouseCoopers / PwC",
+        "role": "Various roles in audit and consulting",
+        "start_year": null,
+        "end_year": 2012,
+        "description": "Before joining O'KEY Group, Konstantin Arabidis worked at PwC.",
+        "sources": [
+          {
+            "url": "https://okeygroup.lu/about/corporate-governance/board-of-directors/",
+            "title": "O'KEY Group: Board of Directors",
+            "fact": "The official biography says he worked at PwC before joining O'KEY Group in 2012."
+          }
+        ],
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "O'KEY Group",
+        "role": "Chief Financial Officer; member of the Management Board",
+        "start_year": 2016,
+        "end_year": 2023,
+        "description": "O'KEY's official 2023 release says he had served as CFO and Management Board member since 2016 before becoming CEO of the hypermarket format.",
+        "sources": [
+          {
+            "url": "https://okeygroup.lu/press-center/press-releases/2023/1872/",
+            "title": "O'KEY Group announces corporate governance changes",
+            "fact": "The official release dated 15 November 2023 says Konstantin Arabidis, CFO and Management Board member since 2016, was appointed CEO of the O'KEY hypermarket format."
+          }
+        ],
+        "sector": "Consumer Staples",
+        "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+        "industry": "Consumer Staples Distribution & Retail (New Name)"
+      },
+      {
+        "organization": "O'KEY hypermarket format / ООО \"О'КЕЙ\"",
+        "role": "Chief Executive Officer / Генеральный директор",
+        "start_year": 2023,
+        "end_year": null,
+        "description": "Appointed CEO of the hypermarket format from 15 November 2023; the local 2024 annual report signs him as General Director.",
+        "sources": [
+          {
+            "url": "https://okeygroup.lu/press-center/press-releases/2023/1872/",
+            "title": "O'KEY Group announces corporate governance changes",
+            "fact": "The official release says Konstantin Arabidis was appointed CEO of the O'KEY hypermarket format and would report directly to the Board of Directors from 15 November 2023."
+          },
+          {
+            "url": "MOEXBMI_Отчеты_2024/OKEY/OKEY_AR2024_RUS_final.pdf",
+            "title": "O'KEY Group Annual Report 2024",
+            "fact": "Pages 72-73: the management and directors' responsibility statement is signed by Konstantin Arabidis as \"Генеральный директор\"."
+          }
+        ],
+        "sector": "Consumer Staples",
+        "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+        "industry": "Consumer Staples Distribution & Retail (New Name)"
+      },
+      {
+        "organization": "O'KEY Group S.A.",
+        "role": "Independent Director",
+        "start_year": 2025,
+        "end_year": null,
+        "description": "Post-2024 board appointment included because the CSV lists him as Independent Director; it is not backdated to the 2024 board.",
+        "sources": [
+          {
+            "url": "https://okeygroup.lu/upload/iblock/364/jx69flhofkuy9g1dpu1idbmmyo1nas92/AGM-2025_Results-OKGSA.pdf",
+            "title": "O'KEY Group S.A. Annual General Meeting Results 29 April 2025",
+            "fact": "The AGM results say Konstantin Arabidis was elected as an independent director from 29 April 2025 until the 2026 AGM."
+          }
+        ],
+        "sector": "Consumer Staples",
+        "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+        "industry": "Consumer Staples Distribution & Retail (New Name)"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_Отчеты_2024/OKEY/OKEY_AR2024_RUS_final.pdf",
+        "title": "O'KEY Group Annual Report 2024",
+        "fact": "Primary local 2024 source confirming Konstantin Arabidis as General Director on pages 72-73."
+      },
+      {
+        "url": "https://okeygroup.lu/press-center/press-releases/2023/1872/",
+        "title": "O'KEY Group announces corporate governance changes",
+        "fact": "Official 15 November 2023 source for his appointment as CEO of the O'KEY hypermarket format and prior CFO/Management Board role."
+      },
+      {
+        "url": "https://okeygroup.lu/about/corporate-governance/board-of-directors/",
+        "title": "O'KEY Group: Board of Directors",
+        "fact": "Official current biography confirming education, ACCA qualification and current independent director status."
+      }
+    ],
+    "notes": "In the 2024 context he is the confirmed General Director/CEO-level executive; the Independent Director role is a 2025 AGM fact and is included only because the CSV uses that current board role. QUALITY PASS ROUND 1 (2026-07-31): ACCA education entry's qualification_degree set to 'Professional certification' (matches the identical treatment already applied to the same institution string for 8 other people across this corpus). The 'O'KEY hypermarket format' CEO professional_experience entry was mislabeled Consumer Discretionary/Broadline Retail; corrected to Consumer Staples/Consumer Staples Distribution & Retail (New Name), matching the company's own top-level GICS classification (O'KEY operates hypermarkets/supermarkets, i.e. grocery retail, not general-merchandise broadline retail). The CFO and Independent Director professional_experience entries (both at O'KEY itself) had null GICS despite the organization being the same already-classified company; filled with the same Consumer Staples triple for internal consistency. PwC role/dates remain unconfirmed after one fresh bounded search attempt this round (see round notes)."
+  },
+  "tmt": [
+    {
+      "name": "Андрей Кришнев / Andrey Krishnev",
+      "current_role": "CSV lists General Director, but public sources confirm O'KEY LLC CEO appointment only from 25 November 2025; not confirmed as 2024 CEO",
+      "company_name": "O'KEY Group S.A. / ООО \"О'КЕЙ\"",
+      "education": [
+        {
+          "institution": "Ural State University of Economics",
+          "program_or_field": "International Economics",
+          "degree_or_qualification": "University education",
+          "year": null,
+          "sources": [
+            {
+              "url": "https://www.retail.ru/news/andrey-krishnev-vozglavil-set-gipermarketov-o-key-25-noyabrya-2025-259917/",
+              "title": "Retail.ru: Андрей Кришнев возглавил сеть гипермаркетов \"О'КЕЙ\"",
+              "fact": "The 25 November 2025 industry article says Andrey Krishnev graduated from Ural State University of Economics with a degree in international economics."
+            },
+            {
+              "url": "https://adindex.ru/news/hr/2025/11/25/339558.phtml",
+              "title": "AdIndex: Андрей Кришнев возглавил сеть гипермаркетов \"О'КЕЙ\"",
+              "fact": "The 25 November 2025 article repeats the Ural State University of Economics / international economics education."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Procter & Gamble",
+          "role": "Commercial and key-account roles",
+          "start_year": 2002,
+          "end_year": 2010,
+          "description": "Secondary biographies describe a career path from manager to key-account director in Russia and Ukraine.",
+          "sources": [
+            {
+              "url": "https://synergy.online/speakers/krishnev",
+              "title": "Synergy Online: Андрей Кришнев",
+              "fact": "The speaker profile says he began his career at Procter & Gamble in 2002 and by 2006 was working in Moscow in key-account roles."
+            },
+            {
+              "url": "https://www.retail.ru/news/andrey-krishnev-vozglavil-set-gipermarketov-o-key-25-noyabrya-2025-259917/",
+              "title": "Retail.ru: Андрей Кришнев возглавил сеть гипермаркетов \"О'КЕЙ\"",
+              "fact": "The article says he worked more than 20 years in sales and marketing, including Procter & Gamble, where he rose from manager to key-account director."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Nike Russia / Nike Europe",
+          "role": "Commercial Director; CEO of Nike Russia",
+          "start_year": 2010,
+          "end_year": null,
+          "description": "Worked in Nike from 2010; secondary sources describe roles as strategic partners director, commercial director, European strategic-accounts role, and later CEO of Nike Russia.",
+          "sources": [
+            {
+              "url": "https://synergy.online/speakers/krishnev",
+              "title": "Synergy Online: Андрей Кришнев",
+              "fact": "The speaker profile says he joined Nike in 2010, became Commercial Director of Nike Russia in June 2011, led a European strategic-account role from September 2015 to August 2017, and from September 2017 was General Director of Nike Russia."
+            },
+            {
+              "url": "https://adindex.ru/news/hr/2025/11/25/339558.phtml",
+              "title": "AdIndex: Андрей Кришнев возглавил сеть гипермаркетов \"О'КЕЙ\"",
+              "fact": "The article says he was CEO of Nike Russia."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "MIXIT; Gloria Jeans",
+          "role": "Chief executive roles",
+          "start_year": null,
+          "end_year": null,
+          "description": "Post-Nike roles are reported by industry media, but exact dates were not independently confirmed in the accessible sources.",
+          "sources": [
+            {
+              "url": "https://adindex.ru/news/hr/2025/11/25/339558.phtml",
+              "title": "AdIndex: Андрей Кришнев возглавил сеть гипермаркетов \"О'КЕЙ\"",
+              "fact": "The article says that after Nike Russia he led MIXIT and Gloria Jeans."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ООО \"О'КЕЙ\"",
+          "role": "Chief Executive Officer / Генеральный директор",
+          "start_year": 2025,
+          "end_year": null,
+          "description": "Appointment is post-2024 and must not be treated as a 2024 CEO fact.",
+          "sources": [
+            {
+              "url": "https://www.retail.ru/news/andrey-krishnev-vozglavil-set-gipermarketov-o-key-25-noyabrya-2025-259917/",
+              "title": "Retail.ru: Андрей Кришнев возглавил сеть гипермаркетов \"О'КЕЙ\"",
+              "fact": "The article says Andrey Krishnev was appointed CEO of O'KEY LLC effective 25 November 2025."
+            },
+            {
+              "url": "https://adindex.ru/news/hr/2025/11/25/339558.phtml",
+              "title": "AdIndex: Андрей Кришнев возглавил сеть гипермаркетов \"О'КЕЙ\"",
+              "fact": "The article reports his appointment as CEO of O'KEY LLC from 25 November 2025."
+            }
+          ],
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 567 lists Andrey Krishnev as General Director for OKEY, with a comment that the information is current for 2025."
+        },
+        {
+          "url": "https://www.retail.ru/news/andrey-krishnev-vozglavil-set-gipermarketov-o-key-25-noyabrya-2025-259917/",
+          "title": "Retail.ru: Андрей Кришнев возглавил сеть гипермаркетов \"О'КЕЙ\"",
+          "fact": "Confirms the O'KEY LLC CEO appointment date as 25 November 2025 and gives education and career summary."
+        },
+        {
+          "url": "https://synergy.online/speakers/krishnev",
+          "title": "Synergy Online: Андрей Кришнев",
+          "fact": "Provides detailed earlier Procter & Gamble and Nike role chronology."
+        }
+      ],
+      "notes": "The 2024 local O'KEY annual report does not mention Andrey Krishnev. His O'KEY CEO role is confirmed only as a 2025 appointment, so he is not treated as the 2024 CEO. QUALITY PASS ROUND 1 (2026-07-31): O'KEY LLC CEO entry's GICS was null despite the organization being the ticker's own already-classified company; filled with Consumer Staples/Consumer Staples Distribution & Retail (New Name) for internal consistency. Bounded fresh-query attempt for exact MIXIT/Gloria Jeans dates found indicative but unverifiable secondary leads (aggregator profiles suggesting MIXIT circa 2022-2023) that could not be confirmed against a directly-fetched primary page within this round's budget; left unconfirmed rather than added without a checkable source (see round notes for the specific queries tried)."
+    },
+    {
+      "name": "DMITRIY TROITSKIY / Дмитрий Троицкий",
+      "current_role": "Non-executive Director in CSV/current board context; 2024 Board member and major indirect shareholder",
+      "company_name": "O'KEY Group S.A.",
+      "education": [
+        {
+          "institution": "State Marine Technical University of St. Petersburg",
+          "program_or_field": null,
+          "degree_or_qualification": "University education",
+          "year": null,
+          "sources": [
+            {
+              "url": "https://okeygroup.lu/about/corporate-governance/board-of-directors/",
+              "title": "O'KEY Group: Board of Directors",
+              "fact": "The official biography says Dmitriy Troitskiy graduated from the State Marine Technical University of St. Petersburg."
+            },
+            {
+              "url": "https://tadviser.com/index.php/Person%3ATroitsk_Dmitry",
+              "title": "TAdviser: Troitsky Dmitry",
+              "fact": "The profile repeats his State Marine Technical University of St. Petersburg education."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "O'KEY Group S.A.",
+          "role": "Member of the Board of Directors; Remuneration Committee member",
+          "start_year": 2010,
+          "end_year": null,
+          "description": "Confirmed board member in the 2024 local annual report and current/post-2025 official board materials.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/OKEY/OKEY_AR2024_RUS_final.pdf",
+              "title": "O'KEY Group Annual Report 2024",
+              "fact": "Pages 60-63: Dmitriy Troitskiy is listed among the 2024 Board members and as a Remuneration Committee member."
+            },
+            {
+              "url": "https://okeygroup.lu/upload/iblock/364/jx69flhofkuy9g1dpu1idbmmyo1nas92/AGM-2025_Results-OKGSA.pdf",
+              "title": "O'KEY Group S.A. Annual General Meeting Results 29 April 2025",
+              "fact": "The AGM results say Dmitriy Troitskiy has been a director since 2010 and was re-elected as a non-executive director from 29 April 2025."
+            },
+            {
+              "url": "MOEXBMI_Отчеты_2024/OKEY/OKGSA_12м2024_final.pdf",
+              "title": "O'KEY Group S.A. Consolidated Financial Statements 2024",
+              "fact": "Page 7: the financial statements state that the major indirect shareholders at 31 December 2024 and 2023 were Mr. Troitskii and Mr. Volchek."
+            }
+          ],
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "Capital Group JSC",
+          "role": "Development Director",
+          "start_year": 2005,
+          "end_year": null,
+          "description": "Official current board biography describes this long-running role outside O'KEY.",
+          "sources": [
+            {
+              "url": "https://okeygroup.lu/about/corporate-governance/board-of-directors/",
+              "title": "O'KEY Group: Board of Directors",
+              "fact": "The official biography says Dmitriy Troitskiy has been Development Director at Capital Group JSC since 2005."
+            }
+          ],
+          "sector": "Real Estate",
+          "industry_group": "Real Estate Management & Development (New)",
+          "industry": "Real Estate Management & Development (New Code)"
+        },
+        {
+          "organization": "Мега-Авто / Mega-Avto; Мултон / Multon",
+          "role": "Co-founder (entrepreneur)",
+          "start_year": 1993,
+          "end_year": null,
+          "description": "QUALITY PASS ROUND 1 (2026-07-31) gap-fill: two independent secondary sources say Dmitriy Troitskiy co-founded the VAZ car-dealership business Mega-Avto in 1993 together with classmate Dmitriy Korzhev, then co-founded the Multon juice factory (Nico brand) around 1995, which they sold to Coca-Cola in 2005 for a reported $501 million. GICS left null because the entry spans two genuinely different businesses (car dealership and beverage manufacturing) that cannot be reduced to one accurate GICS row.",
+          "sources": [
+            {
+              "url": "https://whoiswho.dp.ru/cart/person/1917981",
+              "title": "WhoIsWho.dp.ru: Дмитрий Коржев (profile also naming Troitskiy)",
+              "fact": "The profile says Korzhev began business in 1993 by co-founding Мега-Авто with classmate Dmitriy Troitskiy, then two years later launched the Мультон food-production plant, and later invested in the O'KEY hypermarket chain established in 2002."
+            },
+            {
+              "url": "https://newprospect.ru/tegi/dmitrij-korzhev",
+              "title": "NewProspect.ru: Дмитрий Коржев",
+              "fact": "Verbatim: \"В 1993 году Дмитрий Коржев вместе с однокурсником Дмитрием Троицким создал компанию «Мега-Авто»\" (VAZ car sales); Multon (Nico-brand juice) launched 1995 and sold to Coca-Cola in 2005 for $501 million."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "O'KEY Group S.A.",
+          "role": "Major indirect shareholder",
+          "start_year": null,
+          "end_year": null,
+          "description": "The local 2024 annual report and 2024 financial statements identify him as one of the two major indirect shareholders.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/OKEY/OKEY_AR2024_RUS_final.pdf",
+              "title": "O'KEY Group Annual Report 2024",
+              "fact": "Page 68: Dmitriy Troitskiy is described as a major indirect shareholder, indirectly holding approximately 34.54% of the issued share capital."
+            },
+            {
+              "url": "MOEXBMI_Отчеты_2024/OKEY/OKGSA_12м2024_final.pdf",
+              "title": "O'KEY Group S.A. Consolidated Financial Statements 2024",
+              "fact": "Page 7: the financial statements state that the major indirect shareholders at 31 December 2024 and 2023 were Mr. Troitskii and Mr. Volchek."
+            }
+          ],
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/OKEY/OKEY_AR2024_RUS_final.pdf",
+          "title": "O'KEY Group Annual Report 2024",
+          "fact": "Primary local 2024 source for Board membership, committee participation and shareholder disclosure."
+        },
+        {
+          "url": "https://okeygroup.lu/about/corporate-governance/board-of-directors/",
+          "title": "O'KEY Group: Board of Directors",
+          "fact": "Official current source for biography, education and current non-executive director role."
+        }
+      ],
+      "notes": "No confirmed scientific publications, patents or h-index were found for the O'KEY/Capital Group businessman; namesakes with similar transliterations were excluded. QUALITY PASS ROUND 1 (2026-07-31): Capital Group JSC entry was mislabeled Financials/Capital Markets; corrected to Real Estate/Real Estate Management & Development after directly confirming (capitalgroup.ru self-description and Russian Wikipedia) that Capital Group JSC is a Moscow residential/commercial real-estate developer, not a financial-services firm -- the 'Capital' in the name is coincidental. O'KEY board-member and shareholder entries had null GICS despite the organization being the ticker's own already-classified company; filled with Consumer Staples/Consumer Staples Distribution & Retail (New Name) for internal consistency. Added a new Mega-Avto/Multon co-founder entry addressing this person's previously flagged 'career chronology before Capital Group' gap (see round notes); a secondary-source claim that Multon-sale proceeds were partly invested in a 35.5% stake in Bank Saint-Petersburg was found but not added to the JSON because it rests on a single secondary source for a financially significant claim -- logged in round notes as an unconfirmed lead for a future round."
+    },
+    {
+      "name": "BORIS VOLCHEK / Борис Волчек",
+      "current_role": "Non-executive Director in CSV/current board context; 2024 Board member and major indirect shareholder",
+      "company_name": "O'KEY Group S.A.",
+      "education": [
+        {
+          "institution": "Leningrad Institute of Railway Engineers",
+          "program_or_field": null,
+          "degree_or_qualification": "University education",
+          "year": null,
+          "sources": [
+            {
+              "url": "https://okeygroup.lu/about/corporate-governance/board-of-directors/",
+              "title": "O'KEY Group: Board of Directors",
+              "fact": "The official biography says Boris Volchek graduated from Leningrad Institute of Railway Engineers."
+            },
+            {
+              "url": "https://www.dp.ru/a/2015/04/27/Ochakovo_lishilos_zastroj",
+              "title": "DP.ru: Очаково лишилось застройщика",
+              "fact": "The profile section says Boris Volchek graduated from Leningrad Institute of Railway Transport Engineers."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Union Group",
+          "role": "President",
+          "start_year": 1995,
+          "end_year": null,
+          "description": "Official O'KEY biography states that he has been President of Union Group since 1995.",
+          "sources": [
+            {
+              "url": "https://okeygroup.lu/about/corporate-governance/board-of-directors/",
+              "title": "O'KEY Group: Board of Directors",
+              "fact": "The official biography says Boris Volchek has been President of Union Group since 1995."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "O'KEY Group S.A.",
+          "role": "Member of the Board of Directors; Audit Committee and Remuneration Committee member",
+          "start_year": 2010,
+          "end_year": null,
+          "description": "Confirmed in local 2024 report and current official board materials.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/OKEY/OKEY_AR2024_RUS_final.pdf",
+              "title": "O'KEY Group Annual Report 2024",
+              "fact": "Pages 60-63: Boris Volchek is listed among the 2024 Board members and as a member of the Audit and Remuneration Committees."
+            },
+            {
+              "url": "https://okeygroup.lu/upload/iblock/364/jx69flhofkuy9g1dpu1idbmmyo1nas92/AGM-2025_Results-OKGSA.pdf",
+              "title": "O'KEY Group S.A. Annual General Meeting Results 29 April 2025",
+              "fact": "The AGM results say Boris Volchek has been a director since 2010 and was re-elected as a non-executive director from 29 April 2025."
+            },
+            {
+              "url": "MOEXBMI_Отчеты_2024/OKEY/OKGSA_12м2024_final.pdf",
+              "title": "O'KEY Group S.A. Consolidated Financial Statements 2024",
+              "fact": "Page 7: the financial statements state that the major indirect shareholders at 31 December 2024 and 2023 were Mr. Troitskii and Mr. Volchek."
+            }
+          ],
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "O'KEY Group S.A.",
+          "role": "Major indirect shareholder",
+          "start_year": null,
+          "end_year": null,
+          "description": "Local 2024 sources identify him as one of the two major indirect shareholders.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/OKEY/OKEY_AR2024_RUS_final.pdf",
+              "title": "O'KEY Group Annual Report 2024",
+              "fact": "Page 68: Boris Volchek is described as a major indirect shareholder, indirectly holding approximately 34.14% of the issued share capital."
+            },
+            {
+              "url": "MOEXBMI_Отчеты_2024/OKEY/OKGSA_12м2024_final.pdf",
+              "title": "O'KEY Group S.A. Consolidated Financial Statements 2024",
+              "fact": "Page 7: the financial statements state that the major indirect shareholders at 31 December 2024 and 2023 were Mr. Troitskii and Mr. Volchek."
+            }
+          ],
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/OKEY/OKEY_AR2024_RUS_final.pdf",
+          "title": "O'KEY Group Annual Report 2024",
+          "fact": "Primary local 2024 source for Board membership, committee participation and shareholder disclosure."
+        },
+        {
+          "url": "https://okeygroup.lu/about/corporate-governance/board-of-directors/",
+          "title": "O'KEY Group: Board of Directors",
+          "fact": "Official current source for biography, education and current non-executive director role."
+        }
+      ],
+      "notes": "A well-known Soviet cinematographer with the same name was excluded as a namesake; no confirmed research publications, patents or h-index were found for the O'KEY businessman. QUALITY PASS ROUND 1 (2026-07-31): O'KEY board-member and shareholder entries had null GICS despite the organization being the ticker's own already-classified company; filled with Consumer Staples/Consumer Staples Distribution & Retail (New Name) for internal consistency. Made a bounded fresh-query attempt to classify the 'Union Group' entry (President since 1995): multiple unrelated companies share the 'Юнион Групп' name in Russian business registries (electrotechnical contractor, real-estate agency, a construction/engineering firm on novostroy.ru, several generic registered LLCs), and none could be confidently identity-matched to Boris Volchek specifically within this round's budget; GICS for that entry is left null and the specific identity match remains unresolved for a future round (see round notes for the queries tried)."
+    },
+    {
+      "name": "DMITRIY KORZHEV / Дмитрий Коржев",
+      "current_role": "Non-executive Director in CSV/current board context; 2024 Board member",
+      "company_name": "O'KEY Group S.A.",
+      "education": [
+        {
+          "institution": "State Marine Technical University of St. Petersburg",
+          "program_or_field": null,
+          "degree_or_qualification": "University education",
+          "year": null,
+          "sources": [
+            {
+              "url": "https://okeygroup.lu/about/corporate-governance/board-of-directors/",
+              "title": "O'KEY Group: Board of Directors",
+              "fact": "The official biography says Dmitriy Korzhev graduated from the State Marine Technical University of St. Petersburg."
+            },
+            {
+              "url": "https://tadviser.com/index.php/Person%3AKorzhev_Dmitry_Viktorovich",
+              "title": "TAdviser: Korzhev Dmitry Viktorovich",
+              "fact": "The profile repeats his State Marine Technical University of St. Petersburg education."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "O'KEY Group S.A.",
+          "role": "Member of the Board of Directors; Audit Committee member",
+          "start_year": 2010,
+          "end_year": null,
+          "description": "Confirmed in local 2024 report and current official board materials.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/OKEY/OKEY_AR2024_RUS_final.pdf",
+              "title": "O'KEY Group Annual Report 2024",
+              "fact": "Pages 60-63: Dmitriy Korzhev is listed among the 2024 Board members and as an Audit Committee member."
+            },
+            {
+              "url": "https://okeygroup.lu/upload/iblock/364/jx69flhofkuy9g1dpu1idbmmyo1nas92/AGM-2025_Results-OKGSA.pdf",
+              "title": "O'KEY Group S.A. Annual General Meeting Results 29 April 2025",
+              "fact": "The AGM results say Dmitriy Korzhev has been a director since 2010 and was re-elected as a non-executive director from 29 April 2025."
+            }
+          ],
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "Capital Group JSC",
+          "role": "Director; Commercial Director",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "Official current board biography states that he was Director from 2015 to 2019 and has been Commercial Director since 2019.",
+          "sources": [
+            {
+              "url": "https://okeygroup.lu/about/corporate-governance/board-of-directors/",
+              "title": "O'KEY Group: Board of Directors",
+              "fact": "The official biography says Dmitriy Korzhev was Director of Capital Group JSC from 2015 to 2019 and has been Commercial Director since 2019."
+            }
+          ],
+          "sector": "Real Estate",
+          "industry_group": "Real Estate Management & Development (New)",
+          "industry": "Real Estate Management & Development (New Code)"
+        },
+        {
+          "organization": "Mega-Avto; Multon; O'KEY retail project",
+          "role": "Entrepreneur / co-founder roles",
+          "start_year": 1993,
+          "end_year": null,
+          "description": "Secondary profiles connect him to the founders' business chain before and around O'KEY's launch; exact legal role boundaries were not fully reconstructed from primary sources. QUALITY PASS ROUND 1 (2026-07-31): GICS corrected -- see note.",
+          "sources": [
+            {
+              "url": "https://tadviser.com/index.php/Person%3AKorzhev_Dmitry_Viktorovich",
+              "title": "TAdviser: Korzhev Dmitry Viktorovich",
+              "fact": "The profile says he founded Mega-Avto in 1993, founded Multon in 1995 with partners, and in 2002 they opened the first O'KEY hypermarket in St. Petersburg."
+            },
+            {
+              "url": "https://newprospect.ru/tegi/dmitrij-korzhev",
+              "title": "NewProspect.ru: Дмитрий Коржев",
+              "fact": "Confirms Mega-Avto was a VAZ car-dealership business (1993) and Multon produced Nico-brand juice (1995), sold to Coca-Cola in 2005 for $501 million, with proceeds partly funding O'KEY's expansion."
+            }
+          ],
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/OKEY/OKEY_AR2024_RUS_final.pdf",
+          "title": "O'KEY Group Annual Report 2024",
+          "fact": "Primary local 2024 source for Board membership and responsibility-statement signature."
+        },
+        {
+          "url": "https://okeygroup.lu/about/corporate-governance/board-of-directors/",
+          "title": "O'KEY Group: Board of Directors",
+          "fact": "Official current source for biography, education and current non-executive director role."
+        }
+      ],
+      "notes": "No confirmed academic publications, patents or h-index were found for the target person. QUALITY PASS ROUND 1 (2026-07-31): Capital Group JSC entry was mislabeled Financials/Capital Markets; corrected to Real Estate/Real Estate Management & Development after directly confirming (capitalgroup.ru self-description and Russian Wikipedia) that Capital Group JSC is a Moscow residential/commercial real-estate developer, not a financial-services firm. The combined 'Mega-Avto; Multon; O'KEY retail project' entry was mislabeled Consumer Discretionary/Broadline Retail, which fits none of the three named businesses (car dealership, juice manufacturing, grocery retail); corrected to Consumer Staples/Consumer Staples Distribution & Retail (New Name) anchored on the O'KEY portion (the entity this whole file/ticker is about, and the entry's culminating outcome per the cited source), while acknowledging Mega-Avto (autos) and Multon (beverages, sold to Coca-Cola in 2005) individually belong to different GICS categories -- a single triple cannot represent all three. O'KEY board-member entry had null GICS despite being the ticker's own already-classified company; filled with Consumer Staples/Consumer Staples Distribution & Retail (New Name) for consistency. Bounded fresh research also newly confirmed Dmitriy Troitskiy (fellow O'KEY board member) was Korzhev's co-founding partner in Mega-Avto/Multon since 1993 -- see Troitskiy's notes for the new entry this added there."
+    },
+    {
+      "name": "ILYA ILIN / Илья Ильин",
+      "current_role": "Non-executive Director in CSV/current board context; in 2024 local report he was an external consultant/member of Board committees, not a Board director",
+      "company_name": "O'KEY Group S.A.",
+      "education": [
+        {
+          "institution": "Russian Customs Academy",
+          "program_or_field": "Law",
+          "degree_or_qualification": "Lawyer",
+          "year": 2006,
+          "sources": [
+            {
+              "url": "https://okeygroup.lu/about/corporate-governance/board-of-directors/",
+              "title": "O'KEY Group: Board of Directors",
+              "fact": "The official biography says Ilya Ilin studied law at the Russian Customs Academy from 2001 to 2006 and qualified as a lawyer."
+            },
+            {
+              "url": "https://okeygroup.lu/upload/iblock/364/jx69flhofkuy9g1dpu1idbmmyo1nas92/AGM-2025_Results-OKGSA.pdf",
+              "title": "O'KEY Group S.A. Annual General Meeting Results 29 April 2025",
+              "fact": "The AGM candidate biography repeats the Russian Customs Academy law education and lawyer qualification."
+            }
+          ],
+          "qualification_degree": null
+        },
+        {
+          "institution": "St. Petersburg State University",
+          "program_or_field": "Economics and Management",
+          "degree_or_qualification": "University education",
+          "year": 2012,
+          "sources": [
+            {
+              "url": "https://okeygroup.lu/about/corporate-governance/board-of-directors/",
+              "title": "O'KEY Group: Board of Directors",
+              "fact": "The official biography says Ilya Ilin studied Economics and Management at St. Petersburg State University from 2008 to 2012."
+            },
+            {
+              "url": "https://okeygroup.lu/upload/iblock/364/jx69flhofkuy9g1dpu1idbmmyo1nas92/AGM-2025_Results-OKGSA.pdf",
+              "title": "O'KEY Group S.A. Annual General Meeting Results 29 April 2025",
+              "fact": "The AGM candidate biography repeats the St. Petersburg State University Economics and Management education."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "O'KEY Group S.A.",
+          "role": "Audit Committee and Remuneration Committee member; external consultant in 2024 report",
+          "start_year": 2012,
+          "end_year": null,
+          "description": "The 2024 local annual report lists him as a non-director external consultant on committees; post-2024 board materials list committee membership and a later directorship. QUALITY PASS ROUND 1 (2026-07-31): start_year corrected from 2010 to 2012 -- see notes for the genuine-inconsistency resolution between the AGM 2025 PDF (2010) and the current official board page (2012).",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/OKEY/OKEY_AR2024_RUS_final.pdf",
+              "title": "O'KEY Group Annual Report 2024",
+              "fact": "Page 62: Ilya Ilin is listed as an Audit Committee member and Remuneration Committee member, both as a non-director external consultant."
+            },
+            {
+              "url": "https://okeygroup.lu/about/corporate-governance/board-of-directors/",
+              "title": "O'KEY Group: Board of Directors",
+              "fact": "Verbatim (re-fetched 2026-07-31): \"2012-present: Member of Audit Committee and Remuneration Committee of O'KEY Group S.A.\""
+            },
+            {
+              "url": "https://okeygroup.lu/upload/iblock/364/jx69flhofkuy9g1dpu1idbmmyo1nas92/AGM-2025_Results-OKGSA.pdf",
+              "title": "O'KEY Group S.A. Annual General Meeting Results 29 April 2025",
+              "fact": "The AGM candidate biography states \"2010 - 2025: Member of Audit Committee ... 2010 - 2025: Member of Remuneration Committee\" -- rejected as the individually-tracked figure; see notes."
+            }
+          ],
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "JSC Dorinda; LLC O'KEY; O'KEY MA Sarl; DA! Management Sarl",
+          "role": "Board member / manager roles",
+          "start_year": 2013,
+          "end_year": null,
+          "description": "Official biography lists board/manager positions in group-related companies.",
+          "sources": [
+            {
+              "url": "https://okeygroup.lu/about/corporate-governance/board-of-directors/",
+              "title": "O'KEY Group: Board of Directors",
+              "fact": "The official biography says he has been on the Board of Directors of JSC Dorinda since 2013, on the Board of Directors of LLC O'KEY since 2015, and was a Category A manager of O'KEY MA Sarl and DA! Management Sarl from 2017 to 2023."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "O'KEY Group S.A.",
+          "role": "Non-executive Director",
+          "start_year": 2025,
+          "end_year": null,
+          "description": "Post-2024 directorship included because the CSV lists him as Non-executive Director; it is not backdated to the 2024 board.",
+          "sources": [
+            {
+              "url": "https://okeygroup.lu/upload/iblock/364/jx69flhofkuy9g1dpu1idbmmyo1nas92/AGM-2025_Results-OKGSA.pdf",
+              "title": "O'KEY Group S.A. Annual General Meeting Results 29 April 2025",
+              "fact": "The AGM results say Ilya Ilin was elected as non-executive director from 29 April 2025 until the 2026 AGM."
+            }
+          ],
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/OKEY/OKEY_AR2024_RUS_final.pdf",
+          "title": "O'KEY Group Annual Report 2024",
+          "fact": "Primary local 2024 source showing Ilya Ilin as an external consultant/member of committees rather than a 2024 Board director."
+        },
+        {
+          "url": "https://okeygroup.lu/about/corporate-governance/board-of-directors/",
+          "title": "O'KEY Group: Board of Directors",
+          "fact": "Official current source for education, group roles and current non-executive director status."
+        }
+      ],
+      "notes": "The 2024 annual report did not list Ilya Ilin as a Board director; the non-executive director role is a 2025 AGM/current board fact. Scientific profiles for people named Ilya Ilin/Ilyin were excluded because they lacked O'KEY identity anchors. QUALITY PASS ROUND 1 (2026-07-31) GENUINE INCONSISTENCY resolved: round 1 notes already flagged that the official current O'KEY board page states \"2012-present: Member of Audit Committee and Remuneration Committee\" while the AGM 2025 candidate biography states \"2010 - 2025\" for the same two committee memberships -- a direct conflict between two official O'KEY sources, not previously reflected as a documented conflict in the JSON (which had silently used 2010). Re-fetched both documents directly this round and confirmed both quotes verbatim (see this entry's sources). Additional check: the AGM 2025 PDF gives the identical \"2010 - 2025\" bracket for the committee tenures of all three other 2010-founding board members (Troitskiy, Korzhev, Volchek) as well, whereas Ilin is expressly listed as a \"new Director\" in that same document (unlike the other three, marked \"reappointment\") and was, per the 2024 local annual report, only an external non-director consultant, not a 2010-era board member. This makes it likely the AGM document reused the same boilerplate 2010-2025 bracket for all disclosed committee members rather than tracking Ilin's individual start year, while the live board-bio page differentiates him specifically with a distinct 2012 figure. On this reasoning, start_year was corrected to 2012 and the rejected 2010 AGM figure is kept and cited (not deleted) with this explanation, per project convention -- this is a reasoned, source-backed judgment, not a certainty. Also: O'KEY committee and non-exec-director entries had null GICS despite being the ticker's own already-classified company; filled with Consumer Staples/Consumer Staples Distribution & Retail (New Name). Bounded gap-follow-up attempt on the 'JSC Dorinda; LLC O'KEY; O'KEY MA Sarl; DA! Management Sarl' entry could not confirm whether JSC Dorinda is itself part of the O'KEY corporate group or an unrelated entity (list-org.com required a CAPTCHA; okeygroup.lu/about/our-history/ returned 404); GICS for that entry is left null and the question remains open for a future round."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/OKEY/OKEY_AR2024_RUS_final.pdf",
+      "title": "O'KEY Group Annual Report 2024",
+      "fact": "Pages 60-63: the 2024 Board consisted of Heigo Kera, Dmitriy Troitskiy, Dmitriy Korzhev, Boris Volchek and Mikola Buynytsky; this differs from the CSV/current 2025 board list."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/OKEY/OKEY_AR2024_RUS_final.pdf",
+      "title": "O'KEY Group Annual Report 2024",
+      "fact": "Pages 72-73: the responsibility statement is signed by Konstantin Arabidis as General Director and by Dmitriy Korzhev, Heigo Kera and Mikola Buynytsky as directors."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/OKEY/OKGSA_12м2024_final.pdf",
+      "title": "O'KEY Group S.A. Consolidated Financial Statements 2024",
+      "fact": "Page 7: O'KEY Group S.A. financial statements identify Mr. Troitskii and Mr. Volchek as the major indirect shareholders at 31 December 2024 and 2023."
+    },
+    {
+      "url": "https://okeygroup.lu/upload/iblock/364/jx69flhofkuy9g1dpu1idbmmyo1nas92/AGM-2025_Results-OKGSA.pdf",
+      "title": "O'KEY Group S.A. Annual General Meeting Results 29 April 2025",
+      "fact": "Post-2024 official source confirming the current/CSV board set elected from 29 April 2025: Dmitriy Troitskiy, Boris Volchek, Dmitriy Korzhev, Konstantin Arabidis and Ilya Ilin."
+    },
+    {
+      "url": "https://okeygroup.lu/about/corporate-governance/board-of-directors/",
+      "title": "O'KEY Group: Board of Directors",
+      "fact": "Official current board page provides biographies for Dmitriy Troitskiy, Boris Volchek, Dmitriy Korzhev, Konstantin Arabidis and Ilya Ilin."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "Exact ticker rows 567-572 contain six OKEY people: Andrey Krishnev, Dmitriy Troitskiy, Boris Volchek, Dmitriy Korzhev, Konstantin Arabidis and Ilya Ilin."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/OKEY/OKEY_AR2024_RUS_final.pdf",
+      "title": "O'KEY Group Annual Report 2024",
+      "fact": "Local annual report checked for company context, governance, Board composition, committees, shareholder disclosures and the responsibility statement."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/OKEY/OKGSA_12м2024_final.pdf",
+      "title": "O'KEY Group S.A. Consolidated Financial Statements 2024",
+      "fact": "Local financial statements checked for company background, shareholders, key management remuneration and related-party context."
+    },
+    {
+      "url": "https://okeygroup.lu/press-center/press-releases/2023/1872/",
+      "title": "O'KEY Group announces corporate governance changes",
+      "fact": "Official source for 15 November 2023 appointment of Konstantin Arabidis as CEO of the O'KEY hypermarket format."
+    },
+    {
+      "url": "https://www.retail.ru/news/andrey-krishnev-vozglavil-set-gipermarketov-o-key-25-noyabrya-2025-259917/",
+      "title": "Retail.ru: Андрей Кришнев возглавил сеть гипермаркетов \"О'КЕЙ\"",
+      "fact": "Secondary source for Andrey Krishnev's post-2024 appointment and education/career summary."
+    }
+  ],
+  "validation_notes": "Processed 6 CSV people for ticker OKEY. Checked 2 local documents in MOEXBMI_Отчеты_2024/OKEY: the 2024 annual report and 2024 consolidated financial statements. Completed 6 person-level research rounds. Education was found for all six CSV people, but no confirmed academic degrees, research experience, academic publications, patents or h-index were found for the target people. Key uncertainty: the CSV row for Andrey Krishnev is marked as 2025-current and is not a 2024 CEO fact; the confirmed 2024 General Director/CEO-level person is Konstantin Arabidis. The 2024 local Board was Heigo Kera, Dmitriy Troitskiy, Dmitriy Korzhev, Boris Volchek and Mikola Buynytsky; Heigo Kera and Mikola Buynytsky were not added because they are absent from the CSV. Konstantin Arabidis and Ilya Ilin are current/2025 directors, not 2024 Board directors. Weak or secondary sources used: Retail.ru, AdIndex, Synergy Online, Executive.ru, TAdviser and DP.ru; they were used mainly to corroborate career and education where official biographies were incomplete. Excluded namesakes included academic/scientific Ilya Ilin/Ilyin profiles, a Soviet cinematographer named Boris Volchek, and unrelated Dmitry Troitsky/Troitskiy profiles. Search considered complete because all local OKEY files were checked, official O'KEY sources and AGM materials were read, education/career/science/name-variant searches were run in Russian and English, and a second pass using discovered employers/universities did not yield higher-quality conflicting facts.\n\nQUALITY PASS ROUND 1 (2026-07-31): Step 0 baseline check confirmed the on-disk file was byte-identical to git HEAD (commit f973022) -- no prior-round regression to restore for this ticker. (1) Desync check: one simple omission fixed (Arabidis's ACCA qualification_degree set to 'Professional certification', matching the identical treatment already used for the same institution string across 8 other tickers in this corpus). One genuine inconsistency resolved with additional research: Ilya Ilin's Audit/Remuneration Committee start year was silently set to 2010 in the JSON despite round-1 notes already flagging a conflict between the AGM 2025 PDF (2010) and the current official board page (2012); both official sources were re-fetched and quoted verbatim this round, and the value was corrected to 2012 with the rejected 2010 figure kept, cited and explained (not deleted) -- reasoning: the AGM PDF's 2010 figure exactly matches the boilerplate committee-tenure bracket given to all three long-standing 2010-era board members, while Ilin (marked 'new Director', previously only an external non-director consultant per the 2024 annual report) is the only one of the five candidates the live board-bio page dates differently, making 2012 the more likely individually-tracked figure. (2) GICS label correctness: found and corrected 3 mislabeled entries -- the CEO's 'O'KEY hypermarket format' role and Korzhev's combined 'Mega-Avto; Multon; O'KEY retail project' role were both wrongly Consumer Discretionary/Broadline Retail (O'KEY operates hypermarkets/supermarkets, i.e. grocery retail; corrected to Consumer Staples/Consumer Staples Distribution & Retail (New Name), matching the company's own top-level classification); Troitskiy's and Korzhev's 'Capital Group JSC' Development/Commercial Director roles were wrongly Financials/Capital Markets (directly confirmed via capitalgroup.ru and Wikipedia that Capital Group JSC is a Moscow real-estate developer, not a financial-services firm; corrected to Real Estate/Real Estate Management & Development (New)). Also filled null GICS for 10 professional_experience entries across all six people where the named organization was unambiguously O'KEY itself (O'KEY Group / O'KEY Group S.A. / ООО \"О'КЕЙ\") using the same already-cited company classification, for internal consistency (these were null only because the earlier mechanical GICS pass processed employer text in isolation and did not recognize the entity as the ticker's own company). (3) Bounded honest-gap follow-up (one attempt per flagged gap, fresh queries only): found and added a new sourced professional_experience entry for Dmitriy Troitskiy (Mega-Avto/Multon co-founder with Korzhev since 1993 -- two independently fetched secondary sources), closing his previously flagged 'career chronology before Capital Group' gap; a related single-source claim about a 35.5% Bank Saint-Petersburg stake was found but not added (insufficiently corroborated for a financially significant claim) and is logged as an unconfirmed lead. Remaining gaps attempted and still unresolved after fresh queries this round: Arabidis's exact PwC role/dates; Krishnev's exact MIXIT/Gloria Jeans years (indicative but unverifiable aggregator leads only); Volchek's 'Union Group' GICS classification (multiple unrelated Russian companies share this name; no confident identity match to Boris Volchek found); Ilin's 'JSC Dorinda' relationship to the O'KEY corporate group (source pages returned CAPTCHA/404). No previously confirmed fact, description, source citation or correctly-non-classifiable null was deleted or shortened; all changes are additive or corrective with documented reasoning in each person's notes field and in research_notes/OKEY/quality_pass_round1_20260731.md.",
+  "sector": "Consumer Staples",
+  "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+  "industry": "Consumer Staples Distribution & Retail (New Name)"
+}

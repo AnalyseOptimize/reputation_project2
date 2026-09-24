@@ -1,0 +1,1470 @@
+{
+  "company_name": "МКПАО \"Объединенная компания \"РУСАЛ\"",
+  "company_ticker": "RUAL",
+  "ceo": {
+    "name": "Evgeny Viktorovich Nikitin / Евгений Викторович Никитин",
+    "current_role": "Генеральный директор / Chief Executive Officer МКПАО \"ОК РУСАЛ\"; исполнительный директор и член Совета директоров в контексте 2024 года",
+    "company_name": "МКПАО \"Объединенная компания \"РУСАЛ\"",
+    "education": [
+      {
+        "program": "Высшее образование",
+        "university": "Московский государственный технический университет гражданской авиации / Московский институт инженеров гражданской авиации",
+        "field": "Техническая эксплуатация авиационного оборудования",
+        "year": 1989,
+        "sources": [
+          {
+            "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+            "title": "Годовой отчет РУСАЛ 2024",
+            "fact": "Страницы 120 и 128: Евгений Никитин окончил Московский государственный технический университет гражданской авиации в 1989 году."
+          },
+          {
+            "url": "https://rusal.ru/investors/info/listingdocsUCR/%D0%9C%D0%9A%D0%9F%D0%90%D0%9E%20%D0%9E%D0%9A%20%D0%A0%D0%A3%D0%A1%D0%90%D0%9B%20%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D1%86%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B1%D1%83%D0%BC%D0%B0%D0%B3.pdf",
+            "title": "Проспект ценных бумаг МКПАО ОК РУСАЛ",
+            "fact": "Страницы 81 и 86: Московский институт инженеров гражданской авиации, специальность \"Техническая эксплуатация авиационного оборудования\", квалификация инженер-электрик, 1989."
+          }
+        ],
+        "qualification_degree": "Specialist degree"
+      },
+      {
+        "program": "MBA",
+        "university": "Московский государственный университет им. М.В. Ломоносова",
+        "field": "Производственные системы",
+        "year": 2009,
+        "sources": [
+          {
+            "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+            "title": "Годовой отчет РУСАЛ 2024",
+            "fact": "Страницы 120 и 128: Никитин получил MBA в сфере производственных систем в МГУ им. М.В. Ломоносова в 2009 году."
+          }
+        ],
+        "qualification_degree": "MBA"
+      }
+    ],
+    "degrees": [
+      {
+        "degree": "MBA",
+        "field": "Производственные системы",
+        "year": 2009,
+        "sources": [
+          {
+            "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+            "title": "Годовой отчет РУСАЛ 2024",
+            "fact": "Страница 128: указана степень MBA в сфере производственных систем, 2009."
+          }
+        ],
+        "qualification_degree": "MBA"
+      }
+    ],
+    "professional_experience": [
+      {
+        "organization": "МКПАО \"ОК РУСАЛ\" / АО \"РУСАЛ Менеджмент\"",
+        "role": "Генеральный директор; ранее CEO, acting CEO, директор алюминиевого дивизиона и руководитель заводов",
+        "start_year": 1993,
+        "end_year": null,
+        "description": "Начал карьеру в Группе в 1993 году как электролизник; был управляющим директором САЗа в 2008-2010, управляющим директором КрАЗа, директором алюминиевого дивизиона \"Восток\" с октября 2013, директором алюминиевого дивизиона с января 2014, acting CEO с мая 2018, CEO с ноября 2018, Генеральным директором с 25 сентября 2020; также Генеральный директор АО \"РУСАЛ Менеджмент\" с 2019 года.",
+        "sources": [
+          {
+            "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+            "title": "Годовой отчет РУСАЛ 2024",
+            "fact": "Страницы 120 и 128: приведена карьерная цепочка Никитина в РУСАЛе и назначение Генеральным директором."
+          },
+          {
+            "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0429/2025042904964.pdf",
+            "title": "RUSAL Annual Report 2024, HKEX",
+            "fact": "Lines 5661-5683: online annual report repeats role, RUSAL career and education."
+          }
+        ],
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "CSV contains Evgeny Viktorovich Nikitin as Chief Executive Officer and Director/Board Member for RUAL."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+        "title": "Годовой отчет РУСАЛ 2024",
+        "fact": "Страницы 120, 128 и 336 подтверждают его как Генерального директора и исполнительного директора."
+      }
+    ],
+    "notes": "Связь с компанией и должность CEO/General Director в 2024 году подтверждены локальным годовым отчетом и финансовой отчетностью."
+  },
+  "tmt": [
+    {
+      "name": "Alexander Popov / Александр Валентинович Попов",
+      "current_role": "Финансовый директор / Director of Finance/CFO РУСАЛа",
+      "company_name": "МКПАО \"Объединенная компания \"РУСАЛ\"",
+      "education": [
+        {
+          "program": "Undergraduate degree",
+          "university": "Saratov State Socio-economic University",
+          "field": null,
+          "year": null,
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/ALEXANDER-POPOV-A0OVXA/",
+              "title": "MarketScreener: Alexander Popov",
+              "fact": "Profile states that Alexander Popov received his undergraduate degree from Saratov State Socio-economic University."
+            }
+          ],
+          "qualification_degree": null
+        },
+        {
+          "program": "Graduate degree",
+          "university": "Togliatti State University",
+          "field": null,
+          "year": null,
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/ALEXANDER-POPOV-A0OVXA/",
+              "title": "MarketScreener: Alexander Popov",
+              "fact": "Profile states that Alexander Popov received a graduate degree from Togliatti State University."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Certified Public Accountant; member of AICPA",
+          "field": "Accounting",
+          "year": null,
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/ALEXANDER-POPOV-A0OVXA/",
+              "title": "MarketScreener: Alexander Popov",
+              "fact": "Profile describes Alexander Popov as CPA and member of The American Institute of Certified Public Accountants."
+            }
+          ],
+          "qualification_degree": "Professional certification"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "МКПАО \"ОК РУСАЛ\"",
+          "role": "Chief Financial Officer / Director of Finance",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "MarketScreener lists him as RUSAL Director of Finance/CFO from 2019-12-31; HSE identifies Alexander Valentinovich Popov as RUSAL financial director at a May 2024 lecture.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/ALEXANDER-POPOV-A0OVXA/",
+              "title": "MarketScreener: Alexander Popov",
+              "fact": "Active position: UNITED COMPANY RUSAL, INTERNATIONAL, Director of Finance/CFO, start 2019-12-31."
+            },
+            {
+              "url": "https://binst.hse.ru/news/926197641.html",
+              "title": "НИУ ВШЭ: лекция финансового директора РУСАЛа Александра Попова",
+              "fact": "24 May 2024 HSE news says the lecture was by RUSAL financial director Alexander Valentinovich Popov."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "En+ Group, PricewaterhouseCoopers, Tatneft, Russian Aluminum Co.",
+          "role": "Financial and audit roles before current RUSAL CFO role",
+          "start_year": null,
+          "end_year": null,
+          "description": "MarketScreener lists former CFO role at En+ Group, roles at PwC and Tatneft, and board role at Russian Aluminum Co.; older HKEX annual report snippets corroborate En+, LUKOIL and PwC career path.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/ALEXANDER-POPOV-A0OVXA/",
+              "title": "MarketScreener: Alexander Popov",
+              "fact": "Former positions include En+ Group CFO, PricewaterhouseCoopers, Tatneft and Russian Aluminum Co."
+            },
+            {
+              "url": "https://www.hkexnews.hk/listedco/listconews/SEHK/2010/0430/LTN20100430137.pdf",
+              "title": "UC RUSAL Annual Report 2009",
+              "fact": "Search-indexed text states Popov joined En+ in March 2007 and previously worked at LUKOIL and PwC."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Alexander Popov as Director of Finance/CFO for RUAL."
+        },
+        {
+          "url": "https://binst.hse.ru/news/926197641.html",
+          "title": "НИУ ВШЭ news",
+          "fact": "Confirms Popov as RUSAL financial director in May 2024."
+        }
+      ],
+      "notes": "Primary RUSAL 2024 annual report did not provide a full Popov biography. Education and earlier career rely mainly on MarketScreener, so these are weaker than board-member facts."
+    },
+    {
+      "name": "Victor Mann / Виктор Манн",
+      "current_role": "Технический директор / Chief Tech/Sci/R&D Officer РУСАЛа",
+      "company_name": "МКПАО \"Объединенная компания \"РУСАЛ\"",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "МКПАО \"ОК РУСАЛ\"",
+          "role": "Technical Director; R&D, engineering and technology modernization leader",
+          "start_year": 2005,
+          "end_year": null,
+          "description": "Light Metal Age states that Victor Mann has been RUSAL technical director since 2005, in charge of R&D, engineering, design, process management, technical development and modernization; prior roles include head of RUSAL Engineering and Technology Centre, deputy technical director of Krasnoyarsk smelter and head of Automation at Krasnoyarsk smelter.",
+          "sources": [
+            {
+              "url": "https://www.lightmetalage.com/news/industry-news/smelting/interview-victor-mann-uc-rusal/",
+              "title": "Light Metal Age: Developing Technologies for the Future: Interview with Victor Mann, UC Rusal",
+              "fact": "The article identifies Victor Mann as RUSAL technical director since 2005 and describes his R&D and engineering responsibilities and prior RUSAL roles."
+            },
+            {
+              "url": "https://www.marketscreener.com/quote/stock/UNITED-COMPANY-RUSAL-PLC-54379384/company/",
+              "title": "MarketScreener: United Company RUSAL Plc company profile",
+              "fact": "Company profile lists Victor Mann as Chief Tech/Sci/R&D Officer / Technical Director, with start date around 2004-12-31 or 2005 depending MarketScreener page."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "RUSAL technical/R&D function",
+          "role": "Industrial R&D and aluminium technology development",
+          "start_year": 2005,
+          "end_year": null,
+          "description": "Role covers R&D, engineering, design, technical development and modernization of production facilities. Technical publication searches show RUSAL Light Metals papers with Victor Mann as author/coauthor, but no full personal publication profile or h-index was validated.",
+          "sources": [
+            {
+              "url": "https://www.lightmetalage.com/news/industry-news/smelting/interview-victor-mann-uc-rusal/",
+              "title": "Light Metal Age interview",
+              "fact": "Describes Mann's direct responsibility for R&D and technical development."
+            }
+          ]
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Victor Mann as Chief Tech/Sci/R&D Officer for RUAL."
+        },
+        {
+          "url": "https://www.lightmetalage.com/news/industry-news/smelting/interview-victor-mann-uc-rusal/",
+          "title": "Light Metal Age interview",
+          "fact": "Confirms RUSAL technical director role and career responsibilities."
+        }
+      ],
+      "notes": "Education was not confirmed in local or web sources. Role is well established; formal academic metrics are not. Genuine inconsistency (quality pass round 1, 2026-07-31): MarketScreener/aggregator data give a technical director start date of 2004-12-31, while the Light Metal Age interview states \"technical director since 2005\". No RUSAL primary biography exists to arbitrate the exact date, so the round_1 approximate value (start_year 2005, sourced to the more detailed Light Metal Age interview) was kept rather than the bare aggregator date; treat the precise year as approximate. Gap follow-up attempted this round for education: fresh queries \"Виктор Манн\" РУСАЛ технический директор образование институт and \"Victor Mann\" RUSAL \"Krasnoyarsk\" institute graduated engineer were queued but could not be executed because this session's WebSearch budget was exhausted (200/200); no new search was actually performed, so this remains an open gap, not a confirmed absence of sources."
+    },
+    {
+      "name": "Karen Li / Karen Li Wai-Yin / Карен Ли Вай-Инь",
+      "current_role": "Investor Relations Contact; Asia/Hong Kong IR contact for RUSAL",
+      "company_name": "МКПАО \"Объединенная компания \"РУСАЛ\"",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "МКПАО \"ОК РУСАЛ\"",
+          "role": "Investor Relations Contact / Asia contact",
+          "start_year": null,
+          "end_year": null,
+          "description": "RUSAL annual report 2024 and RUSAL investor page list Karen Li/Karen Li Wai-Yin as Hong Kong or Asia investor relations contact.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страница 336: Карен Ли Вай-Инь указана как контактное лицо по отношениям с инвесторами в Гонконге."
+            },
+            {
+              "url": "https://rusal.ru/en/investors/",
+              "title": "RUSAL Investors",
+              "fact": "Investor page lists Karen Li as Asia contact with email Karen.li@rusal.com and phone."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Karen Li as Investor Relations Contact for RUAL."
+        },
+        {
+          "url": "https://rusal.ru/en/investors/",
+          "title": "RUSAL Investors",
+          "fact": "Official page confirms Karen Li as Asia IR contact."
+        }
+      ],
+      "notes": "Only the IR contact role is confirmed. No public biography, education, degrees, publications or h-index were found. Gap follow-up attempted this round (quality pass round 1, 2026-07-31): fresh queries \"Karen Li\" RUSAL investor relations LinkedIn profile, \"Karen Li Wai-Yin\" CPA OR ACCA OR chartered, and \"Karen Li\" investor relations Hong Kong resume were queued but could not be executed because this session's WebSearch budget was exhausted (200/200); no new search was actually performed, so the absence of a biography remains unconfirmed rather than re-verified this round."
+    },
+    {
+      "name": "Lok Tung Chan / Chan Lok Tung / Чен Лок Тунг",
+      "current_role": "Hong Kong Company Secretary, Authorised Representative and Process Agent of RUSAL from 1 October 2024",
+      "company_name": "МКПАО \"Объединенная компания \"РУСАЛ\"",
+      "education": [
+        {
+          "program": "Bachelor's degree of Business Administration (Honours)",
+          "university": "City University of Hong Kong",
+          "field": "Accountancy",
+          "year": 2016,
+          "sources": [
+            {
+              "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2024/1002/2024100200084.pdf",
+              "title": "RUSAL: Change of Company Secretary, Authorised Representative and Process Agent",
+              "fact": "HKEX announcement states that Ms. Chan obtained a BBA (Honours) in Accountancy at City University of Hong Kong in July 2016."
+            }
+          ],
+          "qualification_degree": "Bachelor's degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Associate member",
+          "field": "Corporate governance/company secretarial practice",
+          "year": null,
+          "sources": [
+            {
+              "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2024/1002/2024100200084.pdf",
+              "title": "RUSAL HKEX announcement, 2 Oct 2024",
+              "fact": "Announcement states she is an associate member of both The Hong Kong Chartered Governance Institute and The Chartered Governance Institute."
+            }
+          ],
+          "qualification_degree": "Professional certification"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "Universe Corporate Services Limited",
+          "role": "Manager",
+          "start_year": null,
+          "end_year": null,
+          "description": "HKEX announcement states she is a manager of Universe Corporate Services Limited and has over six years of experience in listed-company secretarial and compliance matters.",
+          "sources": [
+            {
+              "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2024/1002/2024100200084.pdf",
+              "title": "RUSAL HKEX announcement, 2 Oct 2024",
+              "fact": "Announcement gives her Universe Corporate Services role and experience."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "МКПАО \"ОК РУСАЛ\"",
+          "role": "Company Secretary, Authorised Representative and Process Agent",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Appointed with effect from 1 October 2024.",
+          "sources": [
+            {
+              "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2024/1002/2024100200084.pdf",
+              "title": "RUSAL HKEX announcement, 2 Oct 2024",
+              "fact": "Announcement states Ms. Chan Lok Tung was appointed Company Secretary, Authorised Representative and Process Agent with effect from 1 October 2024."
+            },
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страница 336: Чен Лок Тунг указана как секретарь компании в Гонконге."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Lok Tung Chan as Corporate Secretary for RUAL."
+        },
+        {
+          "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2024/1002/2024100200084.pdf",
+          "title": "RUSAL HKEX announcement, 2 Oct 2024",
+          "fact": "Official appointment announcement and biography."
+        }
+      ],
+      "notes": "CSV date is 2024-09-30; HKEX official announcement states effective date 1 October 2024."
+    },
+    {
+      "name": "Bernard Zonneveld / Бернард Зонневельд",
+      "current_role": "Председатель Совета директоров РУСАЛа; независимый неисполнительный директор",
+      "company_name": "МКПАО \"Объединенная компания \"РУСАЛ\"",
+      "education": [
+        {
+          "program": "Master's degree",
+          "university": "Erasmus University Rotterdam",
+          "field": "Business law",
+          "year": 1985,
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страница 127: Бернард Зонневельд получил диплом магистра по предпринимательскому праву в Университете имени Эразма Роттердамского."
+            },
+            {
+              "url": "https://rusal.ru/investors/info/listingdocsUCR/%D0%9C%D0%9A%D0%9F%D0%90%D0%9E%20%D0%9E%D0%9A%20%D0%A0%D0%A3%D0%A1%D0%90%D0%9B%20%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D1%86%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B1%D1%83%D0%BC%D0%B0%D0%B3.pdf",
+              "title": "Проспект ценных бумаг МКПАО ОК РУСАЛ",
+              "fact": "Страница 70: указаны Университет имени Эразма Роттердамского, магистр в области предпринимательского права, 1985."
+            }
+          ],
+          "qualification_degree": "Master's degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Master's degree",
+          "field": "Business law",
+          "year": 1985,
+          "sources": [
+            {
+              "url": "https://rusal.ru/investors/info/listingdocsUCR/%D0%9C%D0%9A%D0%9F%D0%90%D0%9E%20%D0%9E%D0%9A%20%D0%A0%D0%A3%D0%A1%D0%90%D0%9B%20%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D1%86%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B1%D1%83%D0%BC%D0%B0%D0%B3.pdf",
+              "title": "Проспект ценных бумаг МКПАО ОК РУСАЛ",
+              "fact": "Страница 70: master's degree in business law, Erasmus University Rotterdam, 1985."
+            }
+          ],
+          "qualification_degree": "Master's degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "МКПАО \"ОК РУСАЛ\"",
+          "role": "Independent non-executive Director; Chairman of the Board",
+          "start_year": 2016,
+          "end_year": null,
+          "description": "Independent non-executive director from 24 June 2016; Chairman from 6 March 2019.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страница 127: избран независимым неисполнительным директором с 24 июня 2016 года и председателем Совета директоров с 6 марта 2019 года."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Capitalmind, ING Bank, Vimetco and trade councils",
+          "role": "Corporate finance, banking and board roles",
+          "start_year": null,
+          "end_year": null,
+          "description": "Non-executive partner of Capitalmind since February 2017; senior ING roles including Head of ING Eurasia; former independent non-executive director of Vimetco N.V.; chair/member roles in Netherlands-Russian and related trade councils.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страницы 126-127: перечислены роли Capitalmind, ING, Vimetco and trade councils."
+            },
+            {
+              "url": "https://www.marketscreener.com/insider/BERNARD-ZONNEVELD-A0YUPR/",
+              "title": "MarketScreener: Bernard Zonneveld",
+              "fact": "Secondary profile confirms RUSAL chairman role, ING and Erasmus background."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Bernard Zonneveld as Chairman for RUAL."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+          "title": "Годовой отчет РУСАЛ 2024",
+          "fact": "Страницы 126-127 and 336 confirm Chairman and biography."
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Kevin Parker / Kevin Edward Parker",
+      "current_role": "Независимый неисполнительный директор РУСАЛа",
+      "company_name": "МКПАО \"Объединенная компания \"РУСАЛ\"",
+      "education": [
+        {
+          "program": "BS / undergraduate degree",
+          "university": "New York University",
+          "field": "Finance",
+          "year": 1981,
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страница 125: Кевин Паркер получил степень бакалавра финансов в Нью-Йоркском университете в 1981 году."
+            },
+            {
+              "url": "https://www.marketscreener.com/insider/KEVIN-PARKER-A075E4/",
+              "title": "MarketScreener: Kevin Parker",
+              "fact": "Profile states education includes an undergraduate degree from New York University conferred in 1981."
+            }
+          ],
+          "qualification_degree": "Bachelor's degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Bachelor's degree / BS",
+          "field": "Finance",
+          "year": 1981,
+          "sources": [
+            {
+              "url": "https://rusal.ru/investors/info/listingdocsUCR/%D0%9C%D0%9A%D0%9F%D0%90%D0%9E%20%D0%9E%D0%9A%20%D0%A0%D0%A3%D0%A1%D0%90%D0%9B%20%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D1%86%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B1%D1%83%D0%BC%D0%B0%D0%B3.pdf",
+              "title": "Проспект ценных бумаг МКПАО ОК РУСАЛ",
+              "fact": "Страницы 74-75: Нью-Йоркский университет, бакалавр в области финансов, 1981."
+            }
+          ],
+          "qualification_degree": "Bachelor's degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "МКПАО \"ОК РУСАЛ\"",
+          "role": "Independent non-executive Director",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Appointed independent non-executive director effective 14 February 2019.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страница 125: избран независимым неисполнительным директором с 14 февраля 2019 года."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Sustainable Insight Capital Management, Deutsche Bank, Morgan Stanley, EF Hutton, Chateau Maris, The Westaim Corporation",
+          "role": "Investment management and board roles",
+          "start_year": null,
+          "end_year": null,
+          "description": "Managing partner/founder of Sustainable Insight Capital Management from 2013; prior Deutsche Bank management board and global head of Deutsche Asset Management in 2004-2012; earlier EF Hutton and Morgan Stanley; owner of Chateau Maris; The Westaim director per MarketScreener.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страница 125: describes SICM, Deutsche Bank, Chateau Maris, NYU, EF Hutton and Morgan Stanley background."
+            },
+            {
+              "url": "https://www.marketscreener.com/insider/KEVIN-PARKER-A075E4/",
+              "title": "MarketScreener: Kevin Parker",
+              "fact": "Profile confirms SICM founder roles, RUSAL directorship, The Westaim role, Deutsche Bank and NYU."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Kevin Parker as Director/Board Member for RUAL."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+          "title": "Годовой отчет РУСАЛ 2024",
+          "fact": "Страницы 124-125 and 336 confirm role and biography."
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Chris Burnham / Christopher Bancroft Burnham",
+      "current_role": "Независимый неисполнительный директор РУСАЛа",
+      "company_name": "МКПАО \"Объединенная компания \"РУСАЛ\"",
+      "education": [
+        {
+          "program": "Bachelor of Arts",
+          "university": "Washington and Lee University",
+          "field": "Humanities / Arts",
+          "year": 1980,
+          "sources": [
+            {
+              "url": "https://rusal.ru/investors/info/listingdocsUCR/%D0%9C%D0%9A%D0%9F%D0%90%D0%9E%20%D0%9E%D0%9A%20%D0%A0%D0%A3%D0%A1%D0%90%D0%9B%20%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D1%86%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B1%D1%83%D0%BC%D0%B0%D0%B3.pdf",
+              "title": "Проспект ценных бумаг МКПАО ОК РУСАЛ",
+              "fact": "Страница 76: Christopher Bancroft Burnham, Washington and Lee University, Bachelor of Arts, 1980."
+            }
+          ],
+          "qualification_degree": "Bachelor's degree"
+        },
+        {
+          "program": "Master of Public Administration",
+          "university": "Harvard University",
+          "field": "Public administration",
+          "year": 1990,
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страница 125: Кристофер Бернхэм получил в Гарвардском университете степень магистра в области государственного управления в 1990 году."
+            }
+          ],
+          "qualification_degree": "Master's degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Bachelor of Arts",
+          "field": null,
+          "year": 1980,
+          "sources": [
+            {
+              "url": "https://rusal.ru/investors/info/listingdocsUCR/%D0%9C%D0%9A%D0%9F%D0%90%D0%9E%20%D0%9E%D0%9A%20%D0%A0%D0%A3%D0%A1%D0%90%D0%9B%20%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D1%86%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B1%D1%83%D0%BC%D0%B0%D0%B3.pdf",
+              "title": "Проспект ценных бумаг МКПАО ОК РУСАЛ",
+              "fact": "Страница 76: Bachelor of Arts, Washington and Lee University, 1980."
+            }
+          ],
+          "qualification_degree": "Bachelor's degree"
+        },
+        {
+          "degree": "Master of Public Administration",
+          "field": "Public administration",
+          "year": 1990,
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страница 125: Harvard master's in public administration, 1990."
+            }
+          ],
+          "qualification_degree": "Master's degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "МКПАО \"ОК РУСАЛ\"",
+          "role": "Independent non-executive Director",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Elected independent non-executive director effective 14 February 2019.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страница 123: Кристофер Бернхэм избран независимым неисполнительным директором с 14 февраля 2019 года."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Cambridge Global Capital/Advisors, Deutsche Asset Management, UN, US State Department and other public/private roles",
+          "role": "CEO/chairman, banking, public administration and board roles",
+          "start_year": null,
+          "end_year": null,
+          "description": "Annual report describes Cambridge Global Capital/Advisors roles from 2013, Deutsche Asset Management vice-chairman/managing director in 2006-2012, UN and US government roles, PIMCO-related roles, First Boston, Advest and Marine Corps service.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страницы 123-125: detailed career biography."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Chris Burnham as Director/Board Member for RUAL."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+          "title": "Годовой отчет РУСАЛ 2024",
+          "fact": "Страницы 123-125 and 336 confirm RUSAL director role and biography."
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Evgeny Arkadievich Shvarts / Евгений Аркадьевич Шварц",
+      "current_role": "Независимый неисполнительный директор РУСАЛа; научный сотрудник/руководитель центра Института географии РАН",
+      "company_name": "МКПАО \"Объединенная компания \"РУСАЛ\"",
+      "education": [
+        {
+          "program": "Высшее образование",
+          "university": "МГУ им. М.В. Ломоносова",
+          "field": "Зоология и ботаника",
+          "year": 1982,
+          "sources": [
+            {
+              "url": "https://rusal.ru/investors/info/listingdocsUCR/%D0%9C%D0%9A%D0%9F%D0%90%D0%9E%20%D0%9E%D0%9A%20%D0%A0%D0%A3%D0%A1%D0%90%D0%9B%20%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D1%86%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B1%D1%83%D0%BC%D0%B0%D0%B3.pdf",
+              "title": "Проспект ценных бумаг МКПАО ОК РУСАЛ",
+              "fact": "Страница 71: МГУ им. М.В. Ломоносова, специальность \"Зоология и ботаника\", квалификация биолог, 1982."
+            },
+            {
+              "url": "https://events.vedomosti.ru/speakers/shvarts-evgenii-4513",
+              "title": "Ведомости: Евгений Шварц",
+              "fact": "Профиль указывает, что в 1982 году он окончил биологический факультет МГУ им. М.В. Ломоносова по специальности \"зоология и ботаника\"."
+            }
+          ],
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат географических наук",
+          "field": "Биогеография и география почв",
+          "year": 1987,
+          "sources": [
+            {
+              "url": "https://rusal.ru/investors/info/listingdocsUCR/%D0%9C%D0%9A%D0%9F%D0%90%D0%9E%20%D0%9E%D0%9A%20%D0%A0%D0%A3%D0%A1%D0%90%D0%9B%20%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D1%86%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B1%D1%83%D0%BC%D0%B0%D0%B3.pdf",
+              "title": "Проспект ценных бумаг МКПАО ОК РУСАЛ",
+              "fact": "Страница 71: кандидат географических наук по специальности \"Биогеография и география почв\", 1987."
+            }
+          ],
+          "qualification_degree": "Doctoral degree"
+        },
+        {
+          "degree": "Доктор географических наук",
+          "field": "Геоэкология",
+          "year": 2003,
+          "sources": [
+            {
+              "url": "https://rusal.ru/investors/info/listingdocsUCR/%D0%9C%D0%9A%D0%9F%D0%90%D0%9E%20%D0%9E%D0%9A%20%D0%A0%D0%A3%D0%A1%D0%90%D0%9B%20%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D1%86%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B1%D1%83%D0%BC%D0%B0%D0%B3.pdf",
+              "title": "Проспект ценных бумаг МКПАО ОК РУСАЛ",
+              "fact": "Страница 71: доктор географических наук по специальности \"Геоэкология\", 2003."
+            }
+          ],
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "МКПАО \"ОК РУСАЛ\"",
+          "role": "Independent non-executive Director",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "Appointed independent non-executive director effective 20 April 2020.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страница 125: Евгений Шварц избран независимым неисполнительным директором с 20 апреля 2020 года."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Институт географии РАН, НИУ ВШЭ, WWF России, ГМК \"Норильский никель\", BCC",
+          "role": "Research, conservation policy, academic and board roles",
+          "start_year": 1982,
+          "end_year": null,
+          "description": "Annual report and professional profiles confirm RAS Institute of Geography roles, head of Center for responsible natural resource use, HSE professor, WWF Russia conservation/policy roles in 1998-2019, Fulbright fellow in 2019-2020, Norilsk Nickel director through June 2024, and BCC/Nature and People roles.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страницы 125-126: detailed research, WWF, RAS, HSE, Norilsk Nickel and Fulbright biography."
+            },
+            {
+              "url": "https://iclrc.ru/ru/experts/591",
+              "title": "ICLRC: Евгений Шварц",
+              "fact": "Profile confirms Head of the Institute of Geography RAS center, HSE professor, RUSAL/Norilsk Nickel directorship and WWF Russia roles."
+            },
+            {
+              "url": "https://events.vedomosti.ru/speakers/shvarts-evgenii-4513",
+              "title": "Ведомости: Евгений Шварц",
+              "fact": "Profile gives education and professional timeline, including RAS, WWF, Fulbright, Norilsk Nickel and RUSAL."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "Институт географии РАН / НИУ ВШЭ",
+          "role": "Chief/leading scientist, head of center, professor",
+          "start_year": 1982,
+          "end_year": null,
+          "description": "Research career in geography/ecology, including RAS Institute of Geography and HSE professor role; annual report states he authored 14 books and 193 articles.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страницы 125-126: RAS/HSE research roles and 14 books/193 articles."
+            }
+          ]
+        }
+      ],
+      "publications": [
+        {
+          "title": "14 books and 193 articles (aggregate publication count)",
+          "year": null,
+          "description": "The annual report gives an aggregate publication count; individual bibliography was not exhaustively validated in this output.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страница 126: Евгений Шварц — автор 14 книг и 193 статей."
+            }
+          ]
+        }
+      ],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Evgeny Arkadievich Shvarts as Director/Board Member for RUAL."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+          "title": "Годовой отчет РУСАЛ 2024",
+          "fact": "Страницы 125-126 and 336 confirm RUSAL director role, scientific biography, degrees and publication count."
+        }
+      ],
+      "notes": "Verified scientific profile, but no reliable h-index value was found. Literary namesake results for Soviet writer Evgeny Shvarts were rejected. Genuine inconsistency (quality pass round 1, 2026-07-31): RUSAL annual report/prospectus state the independent non-executive director appointment took effect 20 April 2020, while events.vedomosti.ru states \"since March 2020\"; the official RUSAL annual report date (20 April 2020) was kept as the primary-source, company-filed value and the Vedomosti wording was rejected as a less precise secondary paraphrase, consistent with round_1 sourcing hierarchy (no new source found this round that overturns the official filing date). Gap follow-up attempted this round for h-index: fresh queries \"Евгений Шварц\" индекс Хирша РИНЦ elibrary географ, \"Evgeny Shvarts\" Scopus author profile, and site:elibrary.ru Шварц Евгений Аркадьевич were queued but could not be executed because this session's WebSearch budget was exhausted (200/200); no new search was actually performed, so h_index remains null as an open gap, not a confirmed absence."
+    },
+    {
+      "name": "Egorov Anton Aleksandrovich / Антон Александрович Егоров",
+      "current_role": "CSV-listed Director/Board Member with post-2024 date; later non-executive director of RUSAL from June 2025, not a confirmed 2024 director",
+      "company_name": "МКПАО \"Объединенная компания \"РУСАЛ\"",
+      "education": [
+        {
+          "program": "Higher education",
+          "university": "Moscow State University",
+          "field": "Physics and law",
+          "year": null,
+          "sources": [
+            {
+              "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2025/0603/2025060300789.pdf",
+              "title": "RUSAL HKEX circular, 2025 AGM",
+              "fact": "Search-indexed text states Egorov graduated from Moscow State University as physicist and as lawyer."
+            },
+            {
+              "url": "https://simplywall.st/stocks/hk/materials/hkg-486/united-company-rusal-international-shares/management",
+              "title": "Simply Wall St: United Company RUSAL management",
+              "fact": "Secondary profile gives MSU physics and law education for Egorov."
+            }
+          ],
+          "qualification_degree": null
+        },
+        {
+          "program": "Graduate studies diploma",
+          "university": "Institute of State and Law of the Russian Academy of Sciences",
+          "field": "Law",
+          "year": null,
+          "sources": [
+            {
+              "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2025/0603/2025060300789.pdf",
+              "title": "RUSAL HKEX circular, 2025 AGM",
+              "fact": "Search-indexed text states Egorov holds a graduate studies diploma from the Institute of State and Law of the Russian Academy of Sciences."
+            }
+          ],
+          "qualification_degree": null
+        },
+        {
+          "program": "Executive MBA",
+          "university": "IE Business School",
+          "field": "Business administration",
+          "year": null,
+          "sources": [
+            {
+              "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2025/0603/2025060300789.pdf",
+              "title": "RUSAL HKEX circular, 2025 AGM",
+              "fact": "Search-indexed text states Egorov holds an Executive MBA diploma from IE Business School."
+            }
+          ],
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Executive MBA",
+          "field": "Business administration",
+          "year": null,
+          "sources": [
+            {
+              "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2025/0603/2025060300789.pdf",
+              "title": "RUSAL HKEX circular, 2025 AGM",
+              "fact": "Search-indexed text states Executive MBA diploma from IE Business School."
+            }
+          ],
+          "qualification_degree": "MBA"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "МКПАО \"ОК РУСАЛ\"",
+          "role": "General Counsel; later non-executive director",
+          "start_year": 2018,
+          "end_year": null,
+          "description": "2019 annual report search result states he joined RUSAL as General Counsel in July 2018. HKEX 2025/2026 sources state he joined the Board from 26 June 2025.",
+          "sources": [
+            {
+              "url": "https://investonic.ru/wp-content/uploads/2024/09/godovoj-otchet-kompanii-rusal-rual-za-2019.pdf",
+              "title": "RUSAL Annual Report 2019",
+              "fact": "Search-indexed text states Anton Egorov joined RUSAL as general counsel in July 2018."
+            },
+            {
+              "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0601/2026060104044.pdf",
+              "title": "RUSAL 2025 RAS financial statements / HKEX",
+              "fact": "Search-indexed text states Anton Egorov joined the Board of Directors with effect from 26 June 2025."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Russian Post and prior legal/management roles",
+          "role": "Deputy CEO for legal, corporate and international affairs; earlier legal roles",
+          "start_year": null,
+          "end_year": null,
+          "description": "Secondary sources state he previously served as Deputy CEO for legal, corporate and international affairs at Russian Post and earlier worked in legal/management roles including Ernst & Young CIS, Sidanko, MDM Bank, Alemar and RUSAL.",
+          "sources": [
+            {
+              "url": "https://simplywall.st/stocks/hk/materials/hkg-486/united-company-rusal-international-shares/management",
+              "title": "Simply Wall St: United Company RUSAL management",
+              "fact": "Profile states prior Russian Post deputy CEO role and education."
+            },
+            {
+              "url": "https://studfile.net/preview/3561815/page%3A12/",
+              "title": "Russian Post biography excerpt",
+              "fact": "Search result gives Russian Post deputy general director biography, including education and prior employers; used cautiously as a secondary/archival source."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Egorov Anton Aleksandrovich as Director/Board Member for RUAL with date 2025-06-25."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+          "title": "Годовой отчет РУСАЛ 2024",
+          "fact": "Страница 336 does not list Anton Egorov in the 2024 board composition; therefore 2024 directorship is not confirmed."
+        },
+        {
+          "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0601/2026060104044.pdf",
+          "title": "RUSAL HKEX 2026 disclosure",
+          "fact": "Search-indexed text confirms Egorov joined the Board from 26 June 2025."
+        }
+      ],
+      "notes": "Included because CSV contains him. His directorship is post-2024 and should not be treated as a 2024 board fact. Basketball same-name result was rejected."
+    },
+    {
+      "name": "Anna Vasilenko / Анна Геннадьевна Василенко",
+      "current_role": "Независимый неисполнительный директор РУСАЛа",
+      "company_name": "МКПАО \"Объединенная компания \"РУСАЛ\"",
+      "education": [
+        {
+          "program": "Higher education / master's degree",
+          "university": "МГУ им. М.В. Ломоносова",
+          "field": "Экономика",
+          "year": 1995,
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страница 127: Василенко получила степень магистра экономики в МГУ им. М.В. Ломоносова."
+            },
+            {
+              "url": "https://rusal.ru/investors/info/listingdocsUCR/%D0%9C%D0%9A%D0%9F%D0%90%D0%9E%20%D0%9E%D0%9A%20%D0%A0%D0%A3%D0%A1%D0%90%D0%9B%20%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D1%86%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B1%D1%83%D0%BC%D0%B0%D0%B3.pdf",
+              "title": "Проспект ценных бумаг МКПАО ОК РУСАЛ",
+              "fact": "Страница 72: МГУ им. М.В. Ломоносова, специальность экономика, квалификация экономист-бухгалтер, 1995."
+            }
+          ],
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "program": "Executive MBA",
+          "university": "Московская школа управления Сколково",
+          "field": "Executive MBA",
+          "year": null,
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страница 127: Василенко окончила EMBA в Московской школе управления Сколково."
+            }
+          ],
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Executive MBA",
+          "field": "Business administration",
+          "year": null,
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страница 127: EMBA в Московской школе управления Сколково."
+            }
+          ],
+          "qualification_degree": "MBA"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "МКПАО \"ОК РУСАЛ\"",
+          "role": "Independent non-executive Director",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Appointed independent non-executive director effective 24 June 2021.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страница 126: назначена независимым неисполнительным директором с 24 июня 2021 года."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Inarctica, EM, Moscow Exchange, Renaissance Capital, LUKOIL, Credit Suisse",
+          "role": "Independent director, managing director, primary markets, investor relations and capital markets roles",
+          "start_year": 1997,
+          "end_year": null,
+          "description": "RUSAL annual report details career at Credit Suisse, LUKOIL, Renaissance Capital, Moscow Exchange, EM and Inarctica.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страницы 126-127: career history at Credit Suisse, LUKOIL, Renaissance Capital, Moscow Exchange, EM and Inarctica."
+            },
+            {
+              "url": "https://www.marketscreener.com/insider/ANNA-VASILENKO-A1NHML/",
+              "title": "MarketScreener: Anna Vasilenko",
+              "fact": "Profile confirms RUSAL, EM Advisors, Inarctica, Moscow Exchange, MSU and Skolkovo."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Anna Vasilenko as Director/Board Member for RUAL."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+          "title": "Годовой отчет РУСАЛ 2024",
+          "fact": "Страницы 126-127 and 336 confirm role, career and education."
+        }
+      ],
+      "notes": "Genuine inconsistency (quality pass round 1, 2026-07-31): the RUSAL annual report (p.127) describes education[0] as \"received a masters degree in economics\" (степень магистра экономики), while the securities prospectus (p.72) quotes the literal degree title as \"экономист-бухгалтер\" (economist-accountant), the standard Soviet/Russian five-year specialist qualification title. qualification_degree was filled as Specialist degree, following this file's own established rule of taking the value from the specific quoted qualification title over a looser paraphrase (same approach used for Shvarts and Galenskaya above) -- not from the \"1995 predates 2003 Bologna accession\" timeline argument alone, which validation correctly flagged as not fully solid on its own (MSU's Economics faculty is documented to have piloted its own bachelor/master structure under a special charter before the national 2003 rollout). This entry was originally logged under \"simple omissions\" in research_notes/RUAL/quality_pass_round1_20260731.md rather than flagged as a genuine two-source conflict, and the conflict was not disclosed anywhere in the JSON; this note corrects that gap. Gap follow-up attempted this round (fresh queries on Vasilenko's MSU program and independent bio profiles) could not be executed because this session's WebSearch budget was exhausted (200/200); no new source was found to independently corroborate either wording, so the qualification title (Specialist degree) is kept as the best-supported value but the conflict remains open, not resolved by new research."
+    },
+    {
+      "name": "Lyudmila Petrovna Galenskaya / Людмила Петровна Галенская",
+      "current_role": "Независимый неисполнительный директор РУСАЛа",
+      "company_name": "МКПАО \"Объединенная компания \"РУСАЛ\"",
+      "education": [
+        {
+          "program": "Высшее образование",
+          "university": "Иркутский государственный университет им. А.А. Жданова",
+          "field": "Химия",
+          "year": 1980,
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страница 125: Людмила Галенская окончила Иркутский государственный университет им. Жданова в 1980 году."
+            },
+            {
+              "url": "https://rusal.ru/investors/info/listingdocsUCR/%D0%9C%D0%9A%D0%9F%D0%90%D0%9E%20%D0%9E%D0%9A%20%D0%A0%D0%A3%D0%A1%D0%90%D0%9B%20%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D1%86%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B1%D1%83%D0%BC%D0%B0%D0%B3.pdf",
+              "title": "Проспект ценных бумаг МКПАО ОК РУСАЛ",
+              "fact": "Страница 78: Иркутский государственный университет им. А.А. Жданова, химический факультет, специальность химия, квалификация химик-преподаватель, 1980."
+            }
+          ],
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "МКПАО \"ОК РУСАЛ\"",
+          "role": "Independent non-executive Director",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Appointed independent non-executive director on 23 June 2022.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страница 125: назначена независимым неисполнительным директором 23 июня 2022 года."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "МКПАО \"Эн+ ГРУП\", Байкальская энергетическая компания, Иркутскэнерго, Ангарский завод полимеров, Ангарскнефтеоргсинтез",
+          "role": "Environmental safety and natural resources leadership; chemistry/industrial roles",
+          "start_year": 1980,
+          "end_year": null,
+          "description": "Annual report states she is independent non-executive director of En+ Group and head of environmental safety/resource-use service at Baikal Energy Company since 2020; held same service role at Irkutskenergo in 2003-2020; earlier worked at Angarsk Polymer Plant and Angarsknefteorgsintez.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страницы 124-125: detailed career history."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Lyudmila Petrovna Galenskaya as Director/Board Member for RUAL."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+          "title": "Годовой отчет РУСАЛ 2024",
+          "fact": "Страницы 124-125 and 336 confirm role, career and education."
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Semen Viktorovich Mironov / Семен Викторович Миронов",
+      "current_role": "Неисполнительный директор РУСАЛа",
+      "company_name": "МКПАО \"Объединенная компания \"РУСАЛ\"",
+      "education": [
+        {
+          "program": "Высшее образование / master's qualification",
+          "university": "Киевский национальный экономический университет",
+          "field": "Международная экономика; управление международным бизнесом",
+          "year": 2002,
+          "sources": [
+            {
+              "url": "https://rusal.ru/investors/info/listingdocsUCR/%D0%9C%D0%9A%D0%9F%D0%90%D0%9E%20%D0%9E%D0%9A%20%D0%A0%D0%A3%D0%A1%D0%90%D0%9B%20%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D1%86%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B1%D1%83%D0%BC%D0%B0%D0%B3.pdf",
+              "title": "Проспект ценных бумаг МКПАО ОК РУСАЛ",
+              "fact": "Страница 82: Киевский Национальный Экономический Университет, специальность международная экономика, квалификация магистр по управлению международным бизнесом, 2002."
+            }
+          ],
+          "qualification_degree": "Master's degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Магистр",
+          "field": "Управление международным бизнесом",
+          "year": 2002,
+          "sources": [
+            {
+              "url": "https://rusal.ru/investors/info/listingdocsUCR/%D0%9C%D0%9A%D0%9F%D0%90%D0%9E%20%D0%9E%D0%9A%20%D0%A0%D0%A3%D0%A1%D0%90%D0%9B%20%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%20%D1%86%D0%B5%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B1%D1%83%D0%BC%D0%B0%D0%B3.pdf",
+              "title": "Проспект ценных бумаг МКПАО ОК РУСАЛ",
+              "fact": "Страница 82: квалификация магистр по управлению международным бизнесом, 2002."
+            }
+          ],
+          "qualification_degree": "Master's degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "МКПАО \"ОК РУСАЛ\"",
+          "role": "Non-executive Director",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Appointed non-executive director effective 28 June 2023.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страница 122: Семен Миронов был назначен неисполнительным директором с 28 июня 2023 года."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Chelpipe Group, Rimera Group, Credit Suisse, Renaissance Capital",
+          "role": "Investment director; equity research and investment analysis roles",
+          "start_year": 2003,
+          "end_year": 2022,
+          "description": "Annual report states he was investment director at Chelpipe and Rimera in 2019-2022; worked at Credit Suisse in 2005-2018; worked as investment analyst at Renaissance Capital in 2003-2005.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страницы 122-123: career at Chelpipe/Rimera, Credit Suisse and Renaissance Capital."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "Credit Suisse",
+          "role": "Equity research leadership",
+          "start_year": 2005,
+          "end_year": 2018,
+          "description": "Annual report describes investment research leadership in Eastern Europe, Middle East and Africa and sector coverage for metals, mining and chemicals. This is professional financial research, not academic research.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страницы 122-123: Credit Suisse equity research roles."
+            }
+          ]
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Semen Viktorovich Mironov as Director/Board Member for RUAL."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+          "title": "Годовой отчет РУСАЛ 2024",
+          "fact": "Страницы 122-123 and 336 confirm role and career."
+        }
+      ],
+      "notes": "Professional equity research experience is included separately from academic research."
+    },
+    {
+      "name": "Natalia Albrecht / Natalia Albrekht / Наталья Александровна Альбрехт",
+      "current_role": "Исполнительный директор РУСАЛа; заместитель Генерального директора по управлению персоналом АО \"РУСАЛ Менеджмент\"",
+      "company_name": "МКПАО \"Объединенная компания \"РУСАЛ\"",
+      "education": [
+        {
+          "program": "Высшее образование",
+          "university": "Московский государственный технический университет им. Н.Э. Баумана",
+          "field": "Динамика и прочность машин",
+          "year": null,
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страница 121: Наталья Альбрехт окончила МГТУ им. Н.Э. Баумана по специальности \"динамика и прочность машин\"."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "CIPD certificate",
+          "field": "Human resources",
+          "year": null,
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страница 121: указано наличие международного сертификата CIPD в области управления персоналом."
+            }
+          ],
+          "qualification_degree": "Professional certification"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "МКПАО \"ОК РУСАЛ\" / АО \"РУСАЛ Менеджмент\" / UC RUSAL SUPPORT DMCC",
+          "role": "Executive Director; Deputy General Director for HR and related HR leadership roles",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Appointed executive director from 27 June 2024; Deputy General Director for HR at JSC RUSAL Management since June 2020; Director of Kazakhstan representative office direction since June 2022; head of HR department of UC RUSAL SUPPORT DMCC since May 2024; advisor to General Director of JSC RUSAL Management in 2019-2020.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страницы 120-121: назначение исполнительным директором и HR roles at RUSAL-related entities."
+            },
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL Consolidated Financial Statements for the year ended 31 December 2024.pdf",
+              "title": "RUSAL Consolidated Financial Statements 2024",
+              "fact": "Note on director remuneration states Natalia Albrekht was appointed as director in June 2024."
+            }
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "En+ Holding, ALPG, VimpelCom, Rostelecom, STS Media, NTV Plus, Federal Center of Sales, Complex Settlement Center",
+          "role": "Human resources, organizational development, sales and administration leadership",
+          "start_year": 2002,
+          "end_year": null,
+          "description": "Annual report lists HR and organizational development roles at En+, ALPG, VimpelCom, Rostelecom, STS Media, NTV Plus, Federal Center of Sales and Complex Settlement Center.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+              "title": "Годовой отчет РУСАЛ 2024",
+              "fact": "Страницы 120-121: career history before and alongside RUSAL."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Natalia Albrecht as Director/Board Member for RUAL."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+          "title": "Годовой отчет РУСАЛ 2024",
+          "fact": "Страницы 120-121 and 336 confirm executive director role, education and career."
+        }
+      ],
+      "notes": "Name transliteration varies between Albrecht, Albrekht and Альбрехт; RUSAL annual report confirms the same HR executive/director."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL_report_2024_rus.pdf",
+      "title": "Годовой отчет РУСАЛ 2024",
+      "fact": "Страницы 120-129 contain biographies of board members, General Director and corporate secretary; page 336 lists 2024 board composition and Hong Kong company secretary/IR contacts."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/RUAL/RUSAL Consolidated Financial Statements for the year ended 31 December 2024.pdf",
+      "title": "RUSAL Consolidated Financial Statements 2024",
+      "fact": "Director remuneration note confirms several 2024 directors and states Natalia Albrekht and Elena Ivanova were appointed directors in June 2024."
+    },
+    {
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0429/2025042904964.pdf",
+      "title": "RUSAL Annual Report 2024, HKEX",
+      "fact": "Online annual report confirms the same board biographies and corporate information; lines 19693-19708 list the 2024 board composition."
+    },
+    {
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2024/1002/2024100200084.pdf",
+      "title": "RUSAL: Change of Company Secretary, Authorised Representative and Process Agent",
+      "fact": "Official HKEX announcement confirms Chan Lok Tung's appointment as company secretary, authorised representative and process agent effective 1 October 2024."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://rusal.ru/en/about/corp-management/",
+      "title": "RUSAL Corporate Governance",
+      "fact": "Current RUSAL page lists CEO and directors; used with caution because it reflects post-2024 changes."
+    },
+    {
+      "url": "https://rusal.ru/en/investors/",
+      "title": "RUSAL Investors",
+      "fact": "Official RUSAL investor page confirms Karen Li as Asia IR contact."
+    },
+    {
+      "url": "https://www.marketscreener.com/insider/ALEXANDER-POPOV-A0OVXA/",
+      "title": "MarketScreener: Alexander Popov",
+      "fact": "Secondary source used for CFO education and prior career where no RUSAL 2024 biography was found."
+    },
+    {
+      "url": "https://www.lightmetalage.com/news/industry-news/smelting/interview-victor-mann-uc-rusal/",
+      "title": "Light Metal Age: Victor Mann interview",
+      "fact": "Industry source confirms Victor Mann's technical director role and R&D responsibilities."
+    },
+    {
+      "url": "https://iclrc.ru/ru/experts/591",
+      "title": "ICLRC: Евгений Шварц",
+      "fact": "Professional profile confirms Shvarts's RAS/HSE/WWF/RUSAL/Norilsk Nickel background."
+    },
+    {
+      "url": "https://events.vedomosti.ru/speakers/shvarts-evgenii-4513",
+      "title": "Ведомости: Евгений Шварц",
+      "fact": "Professional speaker profile confirms Shvarts's education, degrees and career."
+    }
+  ],
+  "validation_notes": "Processed 14 unique people from 15 RUAL CSV rows. Checked 2 local RUAL documents before internet research: annual report and consolidated financial statements. Completed 14 round_1 person research notes plus one overview note. CEO/General Director for 2024 is Evgeny Viktorovich Nikitin. Local annual report confirms 2024 board composition and shows that Anton Egorov was not a 2024 board member; his CSV role date is post-2024 and later sources show 2025 appointment. Education not confirmed for Victor Mann and Karen Li; Alexander Popov education is based on MarketScreener rather than primary RUSAL bio. Weak sources used: MarketScreener for Alexander Popov education/career and some board-member cross-checks; SimplyWallSt/search-indexed HKEX snippets for Anton Egorov education because his role is post-2024. No unresolved namesake mixing: basketball player Anton Egorov and literary Evgeny Shvarts results were rejected. No h-index values were added because none were verified. Search considered complete because all local RUAL PDFs were checked first, official RUSAL/HKEX disclosures and securities prospectus were used where available, and repeated education/career/research/namesake searches did not reveal stronger public biographies for the sparse cases. QUALITY PASS ROUND 1 (2026-07-31): Step 0 baseline check against git HEAD (commit f973022) found no regression for RUAL -- all notes, professional_experience/education descriptions and source citations on disk were already at or above the committed baseline; no restoration needed. Simple-omission desyncs fixed (16 qualification_degree fills, all traceable to explicit qualification wording already cited in existing sources): Nikitin education (Specialist degree, MBA), Popov CPA (Professional certification), Chan education (Bachelor's degree) and membership (Professional certification), Zonneveld education (Master's degree), Parker education (Bachelor's degree), Burnham education x2 (Bachelor's degree, Master's degree), Shvarts education (Specialist degree) and both degrees (Doctoral degree, for Kandidat and Doktor Nauk, the closest enum fit for Russian post-graduate scientific degrees), Egorov MBA education entry (MBA), Vasilenko education (Specialist degree, based on the explicit 'экономист-бухгалтер' qualification, not the Bologna-era 'master's degree' implied by the program label), Galenskaya education (Specialist degree), Mironov education and degree (Master's degree). Left null on purpose (insufficient explicit qualification wording in the cited source, not a simple omission): Popov's two MarketScreener 'undergraduate/graduate degree' entries, Egorov's MSU physics-and-law and RAS graduate-studies-diploma entries (weak secondary snippet sources only), Albrecht's Bauman MSTU entry (no explicit qualification title or year in the cited annual-report fact, unlike the other Soviet/Russian-era cases that had one). Genuine inconsistencies investigated and documented in person-level notes (values kept were already the round_1 resolution; this round added the explicit rejected-alternative reasoning that was missing from the JSON notes field): Shvarts RUSAL appointment date (annual report/prospectus '20 April 2020' kept over Vedomosti's 'since March 2020', treated as company-filing vs. secondary-paraphrase, not a real conflict); Mann technical-director start year (Light Metal Age 'since 2005' kept over MarketScreener's bare '2004-12-31', for the same reason). GICS corrections: Albrecht's professional_experience[0] (organization = RUSAL/RUSAL Management/UC RUSAL SUPPORT DMCC, all RUSAL Group entities) was mislabeled Industrials/Transportation/Marine Transportation (New Name) and corrected to Materials/Materials/Metals & Mining, matching the top-level company classification and the real business of every named entity in that entry. Six heterogeneous multi-employer aggregate entries that had been assigned a single wrong commercial GICS label were nulled (sector/industry_group/industry set back to null) rather than left mislabeled, because no single gics_taxonomy.json row is truthfully correct for a mixed list of employers in genuinely different industries -- this matches the precedent already set in research_notes/RUAL/gics_quality_round_20260728.md for two other RUAL aggregate entries: Zonneveld's 'Capitalmind, ING Bank, Vimetco and trade councils' (was Financials/Banks/Banks -- wrong because Vimetco is an aluminium producer, Materials, not a bank); Parker's 'SICM, Deutsche Bank, Morgan Stanley, EF Hutton, Chateau Maris, The Westaim Corporation' (was Financials/Banks/Banks -- wrong because Chateau Maris is a wine estate, Consumer Staples, not a financial firm); Burnham's 'Cambridge Global Capital/Advisors, Deutsche Asset Management, UN, US State Department...' (was Financials/Financial Services/Capital Markets -- wrong because the UN and US State Department are government/international bodies that should never carry a commercial GICS label); Mironov's 'Chelpipe Group, Rimera Group, Credit Suisse, Renaissance Capital' (was Financials/Financial Services/Consumer Finance -- Consumer Finance describes none of the four employers, directly analogous to the insurer-vs-Consumer-Finance example); Egorov's 'Russian Post and prior legal/management roles' (was Industrials/Commercial & Professional Services/Professional Services -- wrong as a whole-entry label because Russian Post is a postal/logistics operator, Sidanko was an oil company and MDM Bank is a bank, only Ernst & Young CIS genuinely fits Professional Services); Albrecht's professional_experience[1] 'En+ Holding, ALPG, VimpelCom, Rostelecom, STS Media, NTV Plus...' (was Communication Services/Telecommunication Services/Diversified Telecommunication Services -- wrong because it mixes real telecom operators with a metals/energy holding company and broadcast/media companies). No other non-null GICS entries in this file needed correction; entries already null for other people's direct RUSAL employer rows were left untouched as an existing, consistent, deliberate pattern across the whole file (RUSAL, the covered company itself, is not separately GICS-tagged per person), and Shvarts's RAS/HSE/WWF/BCC aggregate and Vasilenko's/Galenskaya's/Popov's other aggregates were left null as already-correct per the 2026-07-28 precedent. Bounded gap follow-up (one attempt each, per task scope) for the three fields flagged in round_1 as 'insufficient reliable source': Victor Mann education, Karen Li education/biography, and Evgeny Shvarts h-index. Fresh, non-overlapping queries were selected for each (documented in research_notes/RUAL/quality_pass_round1_20260731.md and in each person's notes field) but could not be executed because this session's WebSearch tool reported its call budget exhausted (200/200) on every attempt; no new search results were obtained, so all three fields remain null/undetermined, explicitly logged as still-unresolved rather than re-confirmed as absent, so a future pass does not silently repeat this same failed attempt without knowing it never actually ran.",
+  "sector": "Materials",
+  "industry_group": "Materials",
+  "industry": "Metals & Mining"
+}

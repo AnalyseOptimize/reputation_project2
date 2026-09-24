@@ -1,0 +1,1380 @@
+{
+    "company_name": "ПАО «ГК «Самолет»",
+    "company_ticker": "SMLT",
+    "ceo": {
+        "name": "Анна Николаевна Акиньшина",
+        "current_role": "Генеральный директор ПАО «ГК «Самолет» с ноября 2024 года; CEO на конец 2024 года",
+        "company_name": "ПАО «ГК «Самолет»",
+        "education": [
+            {
+                "institution": null,
+                "year": 2007,
+                "field": "учет и аудит",
+                "qualification": "магистратура / высшее образование, с отличием",
+                "description": "Отраслевой профиль (повторно проверен в этом раунде через прямое чтение страницы) прямо указывает: «В 2007 году с отличием окончила магистратуру по специальности «Учет и аудит»»; точное учебное заведение не повышено до факта без надежного первичного источника.",
+                "sources": [
+                    "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/anna-nikolaevna-akinshina/"
+                ],
+                "qualification_degree": "Master's degree"
+            },
+            {
+                "institution": null,
+                "year": null,
+                "field": "управленческий учет и оценка эффективности бизнеса",
+                "qualification": "CIMA (Chartered Institute of Management Accountants)",
+                "description": "Тот же отраслевой профиль подтверждает международную квалификацию CIMA в области управленческого учета и оценки эффективности бизнеса.",
+                "sources": [
+                    "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/anna-nikolaevna-akinshina/"
+                ],
+                "qualification_degree": "Professional certification"
+            },
+            {
+                "institution": null,
+                "year": null,
+                "field": "международная финансовая отчетность",
+                "qualification": "DipIFR (Diploma in International Financial Reporting)",
+                "description": "Тот же отраслевой профиль подтверждает диплом DipIFR (Diploma in International Financial Reporting).",
+                "sources": [
+                    "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/anna-nikolaevna-akinshina/"
+                ],
+                "qualification_degree": "Professional certification"
+            }
+        ],
+        "degrees": [],
+        "professional_experience": [
+            {
+                "organization": "ПАО «ГК «Самолет»",
+                "role": "финансовый директор; генеральный директор",
+                "start_year": 2024,
+                "end_year": null,
+                "description": "В январе 2024 года внешние деловые источники фиксировали ее назначение CFO Самолета; локальный годовой отчет подтверждает назначение генеральным директором в ноябре 2024 года.",
+                "sources": [
+                    "MOEXBMI_Отчеты_2024/SMLT/Самолет ГО 2024_2406.pdf",
+                    "https://www.cre.ru/news/97583",
+                    "https://samolet.ru/investors/press/sovet-direktorov-samoleta-naznachil-annu-akinshinu/"
+                ],
+                "sector": "Real Estate",
+                "industry_group": "Real Estate Management & Development (New)",
+                "industry": "Real Estate Management & Development (New Code)"
+            },
+            {
+                "organization": "ПАО «ГК «Самолет»",
+                "role": "управляющий партнер по операционному управлению; финансовый директор московского бизнес-юнита",
+                "start_year": 2023,
+                "end_year": 2024,
+                "description": "Отраслевой профиль (прочитан заново в этом раунде) указывает более раннюю роль в Самолете в 2023 году -- управляющий партнер, затем финансовый директор московского бизнес-юнита, затем руководитель всего финансового блока -- до широко известного назначения CFO группы в январе 2024 года.",
+                "sources": [
+                    "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/anna-nikolaevna-akinshina/"
+                ],
+                "sector": "Real Estate",
+                "industry_group": "Real Estate Management & Development (New)",
+                "industry": "Real Estate Management & Development (New Code)"
+            },
+            {
+                "organization": "Сбер Еаптека / X5 Group / Магнит",
+                "role": "генеральный директор и финансовые руководящие роли",
+                "start_year": null,
+                "end_year": 2024,
+                "description": "Биографические источники связывают Анну Акиньшину с CEO-ролью в Сбер Еаптеке и финансовыми руководящими ролями в X5 Group и Магните до прихода в Самолет. Повторное чтение того же профиля в этом раунде дало точную помесячно-годовую разбивку по каждому работодателю; см. отдельные записи ниже (ТНК-BP, X5 Retail Group, Магнит, Лаборатория Касперского, Еаптека).",
+                "sources": [
+                    "https://roscongress.org/speakers/akinshina-anna/",
+                    "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/anna-nikolaevna-akinshina/"
+                ],
+                "sector": null,
+                "industry_group": null,
+                "industry": null
+            },
+            {
+                "organization": "ТНК-BP",
+                "role": "бухгалтер",
+                "start_year": null,
+                "end_year": null,
+                "description": "Отраслевой профиль указывает начало карьеры бухгалтером в ТНК-BP (даты не указаны).",
+                "sources": [
+                    "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/anna-nikolaevna-akinshina/"
+                ],
+                "sector": "Energy",
+                "industry_group": "Energy",
+                "industry": "Oil, Gas & Consumable Fuels"
+            },
+            {
+                "organization": "X5 Retail Group",
+                "role": "руководитель департамента эффективности",
+                "start_year": 2014,
+                "end_year": 2016,
+                "description": "Отраслевой профиль указывает должность руководителя департамента эффективности в X5 Retail Group в 2014-2016 годах.",
+                "sources": [
+                    "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/anna-nikolaevna-akinshina/"
+                ],
+                "sector": "Consumer Staples",
+                "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+                "industry": "Consumer Staples Distribution & Retail (New Name)"
+            },
+            {
+                "organization": "ПАО «Магнит»",
+                "role": "директор экономического департамента",
+                "start_year": 2018,
+                "end_year": 2020,
+                "description": "Отраслевой профиль указывает должность директора экономического департамента в Магните в 2018-2020 годах.",
+                "sources": [
+                    "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/anna-nikolaevna-akinshina/"
+                ],
+                "sector": "Consumer Staples",
+                "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+                "industry": "Consumer Staples Distribution & Retail (New Name)"
+            },
+            {
+                "organization": "АО «Лаборатория Касперского»",
+                "role": "заместитель финансового директора",
+                "start_year": 2020,
+                "end_year": 2022,
+                "description": "Отраслевой профиль указывает должность заместителя финансового директора в Лаборатории Касперского в 2020-2022 годах.",
+                "sources": [
+                    "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/anna-nikolaevna-akinshina/"
+                ],
+                "sector": "Information Technology",
+                "industry_group": "Software & Services",
+                "industry": "Software"
+            },
+            {
+                "organization": "ООО «Еаптека» (Сбер)",
+                "role": "финансовый директор",
+                "start_year": 2022,
+                "end_year": 2023,
+                "description": "Отраслевой профиль указывает должность финансового директора Еаптеки (Сбер) в 2022-2023 годах.",
+                "sources": [
+                    "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/anna-nikolaevna-akinshina/"
+                ],
+                "sector": null,
+                "industry_group": null,
+                "industry": null
+            }
+        ],
+        "research_experience": [],
+        "publications": [],
+        "patents": [],
+        "h_index": null,
+        "sources": [
+            {
+                "url": "MOEXBMI_2024.csv",
+                "title": "MOEXBMI_2024.csv",
+                "fact": "Строка 464 содержит Anna Akinshina для SMLT с должностью Chief Executive Officer."
+            },
+            {
+                "url": "MOEXBMI_Отчеты_2024/SMLT/Самолет ГО 2024_2406.pdf",
+                "title": "Годовой отчет ПАО «ГК «Самолет» за 2024 год",
+                "fact": "Страницы 3, 5 и 145: отчет указывает, что в ноябре 2024 года генеральным директором Группы компаний Самолет назначена Анна Акиньшина; обращение генерального директора подписано Анной Акиньшиной."
+            },
+            {
+                "url": "https://samolet.ru/investors/press/sovet-direktorov-samoleta-naznachil-annu-akinshinu/",
+                "title": "Совет директоров Самолета назначил Анну Акиньшину",
+                "fact": "Официальный релиз Самолета сообщает о назначении Анны Акиньшиной генеральным директором."
+            },
+            {
+                "url": "https://roscongress.org/speakers/akinshina-anna/",
+                "title": "Анна Акиньшина - Росконгресс",
+                "fact": "Профиль спикера подтверждает идентичность Анны Акиньшиной и ее карьерный контекст."
+            },
+            {
+                "url": "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/anna-nikolaevna-akinshina/",
+                "title": "Анна Николаевна Акиньшина - Всеостройке.рф",
+                "fact": "Раунд качества 2026-08-01: страница успешно прочитана напрямую (в отличие от раунда 1, где отдавалась нестабильно); подтвердила год окончания магистратуры (2007, с отличием), квалификации CIMA и DipIFR, а также полную помесячно-годовую карьерную цепочку ТНК-BP -> X5 Retail Group (2014-2016) -> Магнит (2018-2020) -> Лаборатория Касперского (2020-2022) -> Еаптека/Сбер (2022-2023) -> Самолет (2023 управляющий партнер -> январь 2024 CFO группы -> ноябрь 2024 CEO)."
+            }
+        ],
+        "notes": "CEO определен по локальному годовому отчету и официальному релизу. Точное учебное заведение не внесено, так как первичный источник не найден. Раунд качества 2026-08-01: повторное прямое чтение отраслевого профиля (ранее отдававшегося нестабильно) подтвердило год окончания магистратуры (2007, с отличием), международные квалификации CIMA и DipIFR, и детализировало карьеру между Сбер Еаптекой/X5/Магнитом отдельными точными записями с годами; старая обобщенная запись сохранена без изменений, новые записи добавлены рядом. Точное учебное заведение по-прежнему не внесено, так как первичный источник его не называет."
+    },
+    "tmt": [
+        {
+            "name": "Владимир Комар",
+            "current_role": "CSV: Corporate Officer/Principal; внешний официальный релиз ноября 2024 связывает его с ролью управляющего директора по инвестиционной стратегии земельного банка",
+            "company_name": "ПАО «ГК «Самолет»",
+            "education": [],
+            "degrees": [],
+            "professional_experience": [
+                {
+                    "organization": "ПАО «ГК «Самолет»",
+                    "role": "корпоративная управляющая роль; управляющий директор по инвестиционной стратегии земельного банка",
+                    "start_year": 2024,
+                    "end_year": null,
+                    "description": "CSV содержит корпоративную роль; официальный релиз Самолета о новых назначениях связывает Владимира Комара с инвестиционной стратегией земельного банка.",
+                    "sources": [
+                        "MOEXBMI_2024.csv",
+                        "https://samolet.ru/investors/press/gruppa-samolet-obyavlyaet-o-novyh-naznacheniyah/"
+                    ],
+                    "sector": "Real Estate",
+                    "industry_group": "Real Estate Management & Development (New)",
+                    "industry": "Real Estate Management & Development (New Code)"
+                }
+            ],
+            "research_experience": [],
+            "publications": [],
+            "patents": [],
+            "h_index": null,
+            "sources": [
+                {
+                    "url": "MOEXBMI_2024.csv",
+                    "title": "MOEXBMI_2024.csv",
+                    "fact": "Строка 465 содержит Vladimir Komar для SMLT с должностью Corporate Officer/Principal."
+                },
+                {
+                    "url": "https://samolet.ru/investors/press/gruppa-samolet-obyavlyaet-o-novyh-naznacheniyah/",
+                    "title": "Группа Самолет объявляет о новых назначениях",
+                    "fact": "Официальный релиз Самолета сообщает о новых назначениях, включая Владимира Комара."
+                }
+            ],
+            "notes": "Образование и предыдущие работодатели не подтверждены надежными источниками."
+        },
+        {
+            "name": "Дмитрий Волков",
+            "current_role": "CSV: Corporate Officer/Principal; руководитель/публичный представитель направления Самолет Плюс / Группа Плюс",
+            "company_name": "ПАО «ГК «Самолет»",
+            "education": [
+                {
+                    "institution": "Московский государственный университет имени М.В. Ломоносова",
+                    "year": null,
+                    "field": "физика",
+                    "qualification": null,
+                    "description": "Персональный сайт (прочитан заново в этом раунде) указывает физический факультет МГУ.",
+                    "sources": [
+                        "https://volkovd.com/"
+                    ],
+                    "qualification_degree": "Unknown"
+                },
+                {
+                    "institution": "Московская школа управления СКОЛКОВО",
+                    "year": null,
+                    "field": "менеджмент",
+                    "qualification": null,
+                    "description": "Персональный сайт указывает обучение менеджменту в СКОЛКОВО.",
+                    "sources": [
+                        "https://volkovd.com/"
+                    ],
+                    "qualification_degree": "Executive education"
+                },
+                {
+                    "institution": "Российская экономическая школа (РЭШ)",
+                    "year": null,
+                    "field": "менеджмент",
+                    "qualification": null,
+                    "description": "Персональный сайт подтверждает обучение менеджменту в РЭШ; это разрешает открытый в раунде 1 вопрос (\"Новая экономическая школа\" в поисковой выдаче) -- правильное название площадки: Российская экономическая школа (РЭШ).",
+                    "sources": [
+                        "https://volkovd.com/"
+                    ],
+                    "qualification_degree": "Unknown"
+                },
+                {
+                    "institution": "INSEAD",
+                    "year": null,
+                    "field": null,
+                    "qualification": "программа бизнес-школы",
+                    "description": "Персональный сайт указывает прохождение программы бизнес-школы INSEAD (уровень программы не детализирован).",
+                    "sources": [
+                        "https://volkovd.com/"
+                    ],
+                    "qualification_degree": "Unknown"
+                },
+                {
+                    "institution": "Harvard",
+                    "year": null,
+                    "field": null,
+                    "qualification": null,
+                    "description": "Персональный сайт указывает участие в программе Harvard без детализации.",
+                    "sources": [
+                        "https://volkovd.com/"
+                    ],
+                    "qualification_degree": "Unknown"
+                }
+            ],
+            "degrees": [],
+            "professional_experience": [
+                {
+                    "organization": "международная стратегическая консалтинговая компания",
+                    "role": "управленческие позиции; консалтинг",
+                    "start_year": 2005,
+                    "end_year": 2012,
+                    "description": "Персональный сайт (прочитан заново в этом раунде) уточняет, что управленческий опыт с 2005 года относился к международной стратегической консалтинговой компании (название не раскрыто), с проектами более чем в 50 городах России; переход в девелопмент произошел в 2012 году.",
+                    "sources": [
+                        "https://volkovd.com/"
+                    ],
+                    "sector": "Industrials",
+                    "industry_group": "Commercial & Professional Services",
+                    "industry": "Professional Services"
+                },
+                {
+                    "organization": "рынок недвижимости",
+                    "role": "управленческие позиции",
+                    "start_year": 2005,
+                    "end_year": null,
+                    "description": "Персональный сайт Дмитрия Волкова указывает управленческий опыт в разных сегментах недвижимости с 2005 года. Уточнение раунда качества 2026-08-01: тот же источник указывает, что до 2012 года (2005-2012) он работал в стратегическом консалтинге, а не в недвижимости; в девелопмент перешел в 2012 году, изначально коммерческая/элитная недвижимость, с 2016 года -- массовое жилье и комплексное освоение территорий; был директором по коммерции и управляющим директором, член совета директоров А101 и Самолета.",
+                    "sources": [
+                        "https://volkovd.com/"
+                    ],
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                },
+                {
+                    "organization": "Самолет Плюс / Группа Плюс",
+                    "role": "руководящая роль; публичный представитель направления",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Годовой отчет Самолета фиксирует интервью и онлайн-эфиры Дмитрия Волкова из Группы «Плюс» в 2024 году; интервью ЦИАН, РИА Недвижимость и PropTech подтверждают связь с Самолет Плюс.",
+                    "sources": [
+                        "MOEXBMI_Отчеты_2024/SMLT/Самолет ГО 2024_2406.pdf",
+                        "https://realty.ria.ru/20231220/volkov-1916772075.html",
+                        "https://www.cian.ru/stati-dmitrij-volkov-nasha-glavnaja-ideja-dat-klientu-vse-ot-sdelki-do-otdelki-334971/",
+                        "https://www.proptech.media/dmitry-volkov-interview-samolet"
+                    ],
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                },
+                {
+                    "organization": "А101",
+                    "role": "член совета директоров",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Персональный сайт указывает членство в совете директоров девелопера А101.",
+                    "sources": [
+                        "https://volkovd.com/"
+                    ],
+                    "sector": "Real Estate",
+                    "industry_group": "Real Estate Management & Development (New)",
+                    "industry": "Real Estate Management & Development (New Code)"
+                },
+                {
+                    "organization": "Ujin и Domilend",
+                    "role": "член совета директоров",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Персональный сайт указывает членство в совете директоров технологических компаний Ujin и Domilend.",
+                    "sources": [
+                        "https://volkovd.com/"
+                    ],
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                },
+                {
+                    "organization": "АО «Плюс» (бывш. «Самолет Плюс»), MOEX: PLUS",
+                    "role": "соучредитель (2022); акционер и член совета директоров",
+                    "start_year": 2022,
+                    "end_year": null,
+                    "description": "Персональный сайт указывает совместное с Группой Самолет создание IT-сервиса «Плюс» (бывш. «Самолет Плюс») в 2022 году; в настоящее время -- акционер и член совета директоров АО «Плюс» (тикер MOEX: PLUS).",
+                    "sources": [
+                        "https://volkovd.com/"
+                    ],
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                },
+                {
+                    "organization": "НИУ ВШЭ / Институт экономики и налогообложения / СКОЛКОВО / РАНХиГС / университет «Горки» в Добогорье",
+                    "role": "преподаватель / автор курса",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Персональный сайт указывает более 10 лет преподавательской деятельности: автор курса в НИУ ВШЭ, преподаватель в Институте экономики и налогообложения, лектор в СКОЛКОВО и РАНХиГС, действующий лектор университета для предпринимателей «Горки».",
+                    "sources": [
+                        "https://volkovd.com/"
+                    ],
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                }
+            ],
+            "research_experience": [],
+            "publications": [],
+            "patents": [],
+            "h_index": null,
+            "sources": [
+                {
+                    "url": "MOEXBMI_2024.csv",
+                    "title": "MOEXBMI_2024.csv",
+                    "fact": "Строка 466 содержит Dmitry Volkov для SMLT с должностью Corporate Officer/Principal."
+                },
+                {
+                    "url": "MOEXBMI_Отчеты_2024/SMLT/Самолет ГО 2024_2406.pdf",
+                    "title": "Годовой отчет ПАО «ГК «Самолет» за 2024 год",
+                    "fact": "Страница 165: отчет перечисляет интервью и онлайн-эфиры сотрудников Группы «Плюс» Дмитрия Волкова и Александра Попова в 2024 году."
+                },
+                {
+                    "url": "https://volkovd.com/",
+                    "title": "Дмитрий Волков",
+                    "fact": "Персональный сайт описывает управленческий опыт Дмитрия Волкова в недвижимости с 2005 года."
+                },
+                {
+                    "url": "https://volkovd.com/",
+                    "title": "Дмитрий Волков",
+                    "fact": "Раунд качества 2026-08-01: полное содержимое персонального сайта прочитано впервые (в раунде 1 сайт был процитирован, но образование и детальная карьера не извлечены). Дало образование (МГУ физфак, СКОЛКОВО, РЭШ, INSEAD, Harvard) и детальную карьеру: консалтинг 2005-2012, девелопмент с 2012 (А101, Самолет), технологические советы директоров (Ujin, Domilend), соучредительство АО «Плюс» в 2022, преподавание (ВШЭ, СКОЛКОВО, РАНХиГС)."
+                }
+            ],
+            "notes": "Образование не внесено: найденные указания на образовательные программы не подтверждены первичным источником. Раунд качества 2026-08-01: гэп из раунда 1 (\"Нет первичного источника по образованию\"; след «Новая экономическая школа» в выдаче без подтверждения) закрыт полным чтением уже процитированного персонального сайта: подтверждены МГУ (физфак), СКОЛКОВО, Российская экономическая школа (РЭШ -- это и есть источник следа «Новая экономическая школа»), INSEAD, Harvard. Уровни части программ (Skolkovo/РЭШ/INSEAD/Harvard) отмечены как Unknown/Executive education, так как источник не детализирует конкретную степень."
+        },
+        {
+            "name": "Алексей Козлов",
+            "current_role": "CSV: Corporate Officer/Principal",
+            "company_name": "ПАО «ГК «Самолет»",
+            "education": [],
+            "degrees": [],
+            "professional_experience": [
+                {
+                    "organization": "ПАО «ГК «Самолет»",
+                    "role": "корпоративная управляющая роль",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Связь с компанией основана на CSV и вторичных рыночных справочниках; локальный годовой отчет не содержит его биографии или членства в совете директоров.",
+                    "sources": [
+                        "MOEXBMI_2024.csv",
+                        "https://www.marketscreener.com/quote/stock/SAMOLET-GROUP-119084343/company/"
+                    ],
+                    "sector": "Real Estate",
+                    "industry_group": "Real Estate Management & Development (New)",
+                    "industry": "Real Estate Management & Development (New Code)"
+                }
+            ],
+            "research_experience": [],
+            "publications": [],
+            "patents": [],
+            "h_index": null,
+            "sources": [
+                {
+                    "url": "MOEXBMI_2024.csv",
+                    "title": "MOEXBMI_2024.csv",
+                    "fact": "Строка 467 содержит Alexey Kozlov для SMLT с должностью Corporate Officer/Principal."
+                },
+                {
+                    "url": "MOEXBMI_Отчеты_2024/SMLT/Самолет ГО 2024_2406.pdf",
+                    "title": "Годовой отчет ПАО «ГК «Самолет» за 2024 год",
+                    "fact": "Страницы 141-142 не перечисляют Алексея Козлова в совете директоров 2024 года; роль сохранена как корпоративная по CSV."
+                }
+            ],
+            "notes": "Существенная неопределенность: официальная биография, образование и предыдущий опыт не найдены; однофамильцы из других организаций исключены."
+        },
+        {
+            "name": "Виталий Руденко",
+            "current_role": "CSV: Corporate Officer/Principal; руководитель Самолета по вторичным источникам",
+            "company_name": "ПАО «ГК «Самолет»",
+            "education": [
+                {
+                    "institution": "Московский авиационный институт",
+                    "year": null,
+                    "field": null,
+                    "qualification": null,
+                    "description": "Карточка руководства Novostroev.ru (прочитана заново в этом раунде) указывает окончание Московского авиационного института.",
+                    "sources": [
+                        "https://novostroev.ru/zastroyshchiki/samolet-development/"
+                    ],
+                    "qualification_degree": "Unknown"
+                },
+                {
+                    "institution": "London School of Economics",
+                    "year": null,
+                    "field": null,
+                    "qualification": null,
+                    "description": "Та же карточка указывает окончание London School of Economics.",
+                    "sources": [
+                        "https://novostroev.ru/zastroyshchiki/samolet-development/"
+                    ],
+                    "qualification_degree": "Unknown"
+                },
+                {
+                    "institution": null,
+                    "year": null,
+                    "field": null,
+                    "qualification": "MBA",
+                    "description": "Та же карточка указывает наличие степени MBA (учебное заведение MBA не названо).",
+                    "sources": [
+                        "https://novostroev.ru/zastroyshchiki/samolet-development/"
+                    ],
+                    "qualification_degree": "MBA"
+                }
+            ],
+            "degrees": [],
+            "professional_experience": [
+                {
+                    "organization": "ПАО «ГК «Самолет»",
+                    "role": "финансовый директор",
+                    "start_year": 2018,
+                    "end_year": null,
+                    "description": "CSV и внешние карточки застройщика связывают Виталия Руденко с руководством Самолета; локальный годовой отчет индивидуальную биографию не содержит. Раунд качества 2026-08-01: повторное чтение той же карточки Novostroev.ru (в раунде 1 использованной только как общее вторичное подтверждение без извлечения содержимого) дало точную должность -- финансовый директор ГК «Самолет» с 2018 года, опыт в инвестициях, финансировании и операционном управлении.",
+                    "sources": [
+                        "MOEXBMI_2024.csv",
+                        "https://novostroev.ru/zastroyshchiki/samolet-development/",
+                        "https://www.marketscreener.com/quote/stock/SAMOLET-GROUP-119084343/company/"
+                    ],
+                    "sector": "Real Estate",
+                    "industry_group": "Real Estate Management & Development (New)",
+                    "industry": "Real Estate Management & Development (New Code)"
+                }
+            ],
+            "research_experience": [],
+            "publications": [],
+            "patents": [],
+            "h_index": null,
+            "sources": [
+                {
+                    "url": "MOEXBMI_2024.csv",
+                    "title": "MOEXBMI_2024.csv",
+                    "fact": "Строка 468 содержит Vitaly Rudenko для SMLT с должностью Corporate Officer/Principal."
+                },
+                {
+                    "url": "https://novostroev.ru/zastroyshchiki/samolet-development/",
+                    "title": "Самолет Девелопмент - Новостроев",
+                    "fact": "Вторичная карточка застройщика содержит сведения о руководителях Самолета, включая Виталия Руденко."
+                },
+                {
+                    "url": "https://novostroev.ru/zastroyshchiki/samolet-development/",
+                    "title": "Самолет Девелопмент - Новостроев",
+                    "fact": "Раунд качества 2026-08-01: полное содержимое карточки прочитано впервые (не только заголовок/сниппет); дало образование (МАИ, LSE, MBA) и точную должность/год начала (финансовый директор, с 2018 года)."
+                }
+            ],
+            "notes": "Раунд качества 2026-08-01: гэп из раунда 1 (\"Нет первичной биографии, образования и прежних работодателей\") в значительной мере закрыт -- полное чтение уже процитированного источника Novostroev.ru дало образование (Московский авиационный институт, London School of Economics, MBA) и точную роль/год (финансовый директор с 2018 года)."
+        },
+        {
+            "name": "Оскар Хартманн",
+            "current_role": "CSV: Director/Board Member; член совета директоров Самолета до 13.06.2024",
+            "company_name": "ПАО «ГК «Самолет»",
+            "education": [
+                {
+                    "institution": "Tuscarawas Valley High School",
+                    "year": null,
+                    "field": null,
+                    "qualification": "обучение",
+                    "sources": [
+                        "https://events.vedomosti.ru/speakers/hartmann-oskar-4795"
+                    ],
+                    "qualification_degree": "Secondary education"
+                },
+                {
+                    "institution": "техническая гимназия в Германии",
+                    "year": null,
+                    "field": null,
+                    "qualification": "обучение",
+                    "sources": [
+                        "https://events.vedomosti.ru/speakers/hartmann-oskar-4795"
+                    ],
+                    "qualification_degree": "Secondary education"
+                },
+                {
+                    "institution": "WHU - Otto Beisheim School of Management, Koblenz",
+                    "year": null,
+                    "field": "международная экономика",
+                    "qualification": null,
+                    "sources": [
+                        "https://events.vedomosti.ru/speakers/hartmann-oskar-4795"
+                    ],
+                    "qualification_degree": null
+                },
+                {
+                    "institution": "University of Hawaii",
+                    "year": null,
+                    "field": null,
+                    "qualification": "MBA",
+                    "sources": [
+                        "https://events.vedomosti.ru/speakers/hartmann-oskar-4795"
+                    ],
+                    "qualification_degree": "MBA"
+                }
+            ],
+            "degrees": [],
+            "professional_experience": [
+                {
+                    "organization": "BMW Malaysia",
+                    "role": "сотрудник представительства",
+                    "start_year": 2004,
+                    "end_year": 2006,
+                    "description": "Профиль Ведомостей указывает работу в представительстве BMW в Малайзии.",
+                    "sources": [
+                        "https://events.vedomosti.ru/speakers/hartmann-oskar-4795"
+                    ],
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                },
+                {
+                    "organization": "Boston Consulting Group, Moscow",
+                    "role": "консалтинг",
+                    "start_year": 2006,
+                    "end_year": 2008,
+                    "description": "Профиль Ведомостей указывает работу в московском офисе BCG.",
+                    "sources": [
+                        "https://events.vedomosti.ru/speakers/hartmann-oskar-4795"
+                    ],
+                    "sector": "Industrials",
+                    "industry_group": "Commercial & Professional Services",
+                    "industry": "Professional Services"
+                },
+                {
+                    "organization": "KupiVIP, Aktivo, Carprice и другие компании",
+                    "role": "основатель / предприниматель",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Профиль Ведомостей указывает, что он основал ряд компаний, включая KupiVIP, Aktivo и Carprice.",
+                    "sources": [
+                        "https://events.vedomosti.ru/speakers/hartmann-oskar-4795"
+                    ],
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                },
+                {
+                    "organization": "ПАО «ГК «Самолет»",
+                    "role": "независимый директор; член совета директоров",
+                    "start_year": 2021,
+                    "end_year": 2024,
+                    "description": "Ведомости указывают вход в совет Самолета в апреле 2021; локальный годовой отчет подтверждает членство в 2024 году до 13.06.2024.",
+                    "sources": [
+                        "MOEXBMI_Отчеты_2024/SMLT/Самолет ГО 2024_2406.pdf",
+                        "https://events.vedomosti.ru/speakers/hartmann-oskar-4795"
+                    ],
+                    "sector": "Real Estate",
+                    "industry_group": "Real Estate Management & Development (New)",
+                    "industry": "Real Estate Management & Development (New Code)"
+                }
+            ],
+            "research_experience": [],
+            "publications": [],
+            "patents": [],
+            "h_index": null,
+            "sources": [
+                {
+                    "url": "MOEXBMI_2024.csv",
+                    "title": "MOEXBMI_2024.csv",
+                    "fact": "Строка 469 содержит Oskar Hartmann для SMLT с должностью Director/Board Member."
+                },
+                {
+                    "url": "MOEXBMI_Отчеты_2024/SMLT/Самолет ГО 2024_2406.pdf",
+                    "title": "Годовой отчет ПАО «ГК «Самолет» за 2024 год",
+                    "fact": "Страницы 141-142: Хартманн Оскар был членом совета директоров с 26.05.2023 до 13.06.2024."
+                },
+                {
+                    "url": "https://events.vedomosti.ru/speakers/hartmann-oskar-4795",
+                    "title": "Оскар Хартманн - Ведомости.Конференции",
+                    "fact": "Профиль указывает образование, опыт BMW/BCG, предпринимательские проекты и роль независимого директора ГК «Самолет»."
+                },
+                {
+                    "url": "https://events.vedomosti.ru/speakers/hartmann-oskar-4795",
+                    "title": "Оскар Хартманн - Ведомости.Конференции",
+                    "fact": "Раунд качества 2026-08-01: повторное чтение подтвердило отдельную запись о технической гимназии в Германии (наряду с Tuscarawas Valley High School, США) в разделе среднего образования; ранее эта запись не была перенесена в JSON."
+                }
+            ],
+            "notes": "CSV не содержит дату прекращения полномочий; локальный отчет уточняет, что членство завершилось 13.06.2024. Раунд качества 2026-08-01: добавлена пропущенная запись о технической гимназии в Германии (простое упущение, тот же первичный источник). Уровень степени по WHU (международная экономика) остался неподтвержден -- дополнительный WebSearch не удалось выполнить в этом раунде из-за исчерпанной квоты поиска в сессии; смотри протокол раунда."
+        },
+        {
+            "name": "Дмитрий Аркадьевич Голубков",
+            "current_role": "Председатель Совета директоров ПАО «ГК «Самолет» в 2024 году",
+            "company_name": "ПАО «ГК «Самолет»",
+            "education": [],
+            "degrees": [],
+            "professional_experience": [
+                {
+                    "organization": "ПАО «ГК «Самолет»",
+                    "role": "председатель Совета директоров",
+                    "start_year": 2023,
+                    "end_year": null,
+                    "description": "Локальный годовой отчет подтверждает подпись обращения председателя и членство в совете директоров в 2024 году.",
+                    "sources": [
+                        "MOEXBMI_Отчеты_2024/SMLT/Самолет ГО 2024_2406.pdf"
+                    ],
+                    "sector": "Real Estate",
+                    "industry_group": "Real Estate Management & Development (New)",
+                    "industry": "Real Estate Management & Development (New Code)"
+                }
+            ],
+            "research_experience": [],
+            "publications": [],
+            "patents": [],
+            "h_index": null,
+            "sources": [
+                {
+                    "url": "MOEXBMI_2024.csv",
+                    "title": "MOEXBMI_2024.csv",
+                    "fact": "Строка 470 содержит Dmitry Golubkov для SMLT с должностью Chairman."
+                },
+                {
+                    "url": "MOEXBMI_Отчеты_2024/SMLT/Самолет ГО 2024_2406.pdf",
+                    "title": "Годовой отчет ПАО «ГК «Самолет» за 2024 год",
+                    "fact": "Страницы 3-4 и 141-142: Дмитрий Голубков подписывает обращение как председатель совета директоров и входит в совет директоров в 2024 году."
+                },
+                {
+                    "url": "https://roscongress.org/speakers/golubkov-dmitriy/",
+                    "title": "Дмитрий Голубков - Росконгресс",
+                    "fact": "Профиль спикера использован для внешней идентификации председателя совета директоров Самолета."
+                }
+            ],
+            "notes": "Образование не подтверждено надежным источником."
+        },
+        {
+            "name": "Станислав Владимирович Шекшня",
+            "current_role": "CSV: Director/Board Member; член совета директоров Самолета до 13.06.2024",
+            "company_name": "ПАО «ГК «Самолет»",
+            "education": [
+                {
+                    "institution": "Московский государственный университет имени М.В. Ломоносова",
+                    "year": null,
+                    "field": "экономика",
+                    "qualification": "Ph.D. и Master's Degree",
+                    "description": "Профиль INSEAD (успешно прочитан в этом раунде; в раунде 1 доступ блокировался Cloudflare) прямо указывает: \"Ph.D. and Master's Degree in Economics from Moscow State University\".",
+                    "sources": [
+                        "https://www.insead.edu/faculty/stanislav-shekshnia"
+                    ],
+                    "qualification_degree": "Doctoral degree"
+                },
+                {
+                    "institution": "Московский государственный университет имени М.В. Ломоносова",
+                    "year": null,
+                    "field": "экономика",
+                    "qualification": "Master's Degree",
+                    "description": "Та же фраза профиля INSEAD подтверждает степень магистра экономики в МГУ (предшествующую PhD).",
+                    "sources": [
+                        "https://www.insead.edu/faculty/stanislav-shekshnia"
+                    ],
+                    "qualification_degree": "Master's degree"
+                },
+                {
+                    "institution": "Northeastern University, Boston",
+                    "year": null,
+                    "field": null,
+                    "qualification": "MBA",
+                    "description": "Профиль INSEAD прямо указывает: \"MBA from Northeastern University in Boston\".",
+                    "sources": [
+                        "https://www.insead.edu/faculty/stanislav-shekshnia"
+                    ],
+                    "qualification_degree": "MBA"
+                }
+            ],
+            "degrees": [],
+            "professional_experience": [
+                {
+                    "organization": "ПАО «ГК «Самолет»",
+                    "role": "член совета директоров",
+                    "start_year": 2023,
+                    "end_year": 2024,
+                    "description": "Локальный годовой отчет подтверждает членство в совете директоров до 13.06.2024.",
+                    "sources": [
+                        "MOEXBMI_Отчеты_2024/SMLT/Самолет ГО 2024_2406.pdf"
+                    ],
+                    "sector": "Real Estate",
+                    "industry_group": "Real Estate Management & Development (New)",
+                    "industry": "Real Estate Management & Development (New Code)"
+                },
+                {
+                    "organization": "INSEAD / корпоративное управление",
+                    "role": "профессор, консультант и эксперт по корпоративному управлению",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Профессиональные профили и поисковая выдача связывают Станислава Шекшню с INSEAD и корпоративным управлением; детали образования не внесены из-за недоступности первичного текста профиля. Раунд качества 2026-08-01: страница успешно прочитана в этом раунде (ранее, в раунде 1, была недоступна из-за блокировки Cloudflare) и подтверждает текущую должность Senior Affiliate Professor of Entrepreneurship and Family Enterprise в INSEAD, а также со-руководство программами Leading from the Chair и Scandinavian Executive Institute Executive Board/Advanced Board development.",
+                    "sources": [
+                        "https://www.insead.edu/faculty/stanislav-shekshnia"
+                    ],
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                },
+                {
+                    "organization": "Alfa-Telecom",
+                    "role": "генеральный директор (CEO)",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Профиль INSEAD перечисляет должность CEO Alfa-Telecom в списке исполнительных позиций за период 1991-2002 годов (точные годы по этой конкретной позиции не указаны).",
+                    "sources": [
+                        "https://www.insead.edu/faculty/stanislav-shekshnia"
+                    ],
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                },
+                {
+                    "organization": "Millicom International Cellular, Russia and CIS",
+                    "role": "президент и генеральный директор (President and CEO)",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Профиль INSEAD перечисляет должность President and CEO подразделения Millicom International Cellular по России и СНГ в списке исполнительных позиций 1991-2002 годов.",
+                    "sources": [
+                        "https://www.insead.edu/faculty/stanislav-shekshnia"
+                    ],
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                },
+                {
+                    "organization": "ВымпелКом (VimpelCom)",
+                    "role": "операционный директор (Chief Operating Officer)",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Профиль INSEAD перечисляет должность COO ВымпелКома в списке исполнительных позиций 1991-2002 годов.",
+                    "sources": [
+                        "https://www.insead.edu/faculty/stanislav-shekshnia"
+                    ],
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                },
+                {
+                    "organization": "Otis Elevator",
+                    "role": "директор по персоналу по Центральной и Восточной Европе (Director of Human Resources, CEE)",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Профиль INSEAD перечисляет должность директора по персоналу по Центральной и Восточной Европе в Otis Elevator в списке исполнительных позиций 1991-2002 годов.",
+                    "sources": [
+                        "https://www.insead.edu/faculty/stanislav-shekshnia"
+                    ],
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                }
+            ],
+            "research_experience": [
+                {
+                    "organization": "INSEAD",
+                    "role": "Senior Affiliate Professor of Entrepreneurship and Family Enterprise",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Профиль INSEAD указывает фокус исследований на развитии лидерства, корпоративном управлении на развивающихся рынках и организационной эффективности; со-директор программ Leading from the Chair и Scandinavian Executive Institute.",
+                    "source_url": "https://www.insead.edu/faculty/stanislav-shekshnia"
+                }
+            ],
+            "publications": [
+                {
+                    "title": "11 книг и более 50 статей (агрегированная оценка по профилю INSEAD)",
+                    "year": null,
+                    "description": "Профиль INSEAD сообщает агрегированное количество работ (\"has authored 11 books and over 50 articles\") без перечня отдельных публикаций; названия конкретных книг/статей не извлечены.",
+                    "source_url": "https://www.insead.edu/faculty/stanislav-shekshnia"
+                }
+            ],
+            "patents": [],
+            "h_index": null,
+            "sources": [
+                {
+                    "url": "MOEXBMI_2024.csv",
+                    "title": "MOEXBMI_2024.csv",
+                    "fact": "Строка 471 содержит Stanislav Shekshnia для SMLT с должностью Director/Board Member."
+                },
+                {
+                    "url": "MOEXBMI_Отчеты_2024/SMLT/Самолет ГО 2024_2406.pdf",
+                    "title": "Годовой отчет ПАО «ГК «Самолет» за 2024 год",
+                    "fact": "Страницы 141-142: Шекшня Станислав Владимирович был членом совета директоров с 26.05.2023 до 13.06.2024."
+                },
+                {
+                    "url": "https://www.insead.edu/faculty/stanislav-shekshnia",
+                    "title": "Stanislav Shekshnia - INSEAD Faculty Profile",
+                    "fact": "Раунд качества 2026-08-01: страница успешно прочитана напрямую (Cloudflare не блокировал доступ в этом раунде), что закрыло ранее задокументированный пробел. Подтверждены PhD и Master's Degree in Economics (МГУ), MBA (Northeastern University, Boston), и карьерные позиции 1991-2002: CEO Alfa-Telecom, President/CEO Millicom Russia&CIS, COO VimpelCom, HR Director CEE Otis Elevator."
+                }
+            ],
+            "notes": "CSV не отражает прекращение полномочий 13.06.2024. Образование/степени не внесены, так как первичная страница INSEAD была недоступна для полного чтения. Раунд качества 2026-08-01: гэп из раунда 1 (\"INSEAD страница недоступна из-за Cloudflare\") закрыт -- при повторной попытке в этом раунде страница открылась и дала полный текст; образование (PhD и Master's МГУ, MBA Northeastern) и четыре исполнительные позиции 1991-2002 годов (Alfa-Telecom, Millicom Russia/CIS, VimpelCom, Otis Elevator) добавлены с прямой атрибуцией к профилю INSEAD; точные годы по каждой отдельной позиции профиль не разбивает, дана только общая вилка 1991-2002."
+        },
+        {
+            "name": "Михаил Борисович Кенин",
+            "current_role": "Член Совета директоров ПАО «ГК «Самолет» в 2024 году; сооснователь Самолета по внешним источникам",
+            "company_name": "ПАО «ГК «Самолет»",
+            "education": [],
+            "degrees": [],
+            "professional_experience": [
+                {
+                    "organization": "ПАО «ГК «Самолет»",
+                    "role": "сооснователь; член совета директоров",
+                    "start_year": 2012,
+                    "end_year": null,
+                    "description": "Локальный отчет подтверждает членство в совете директоров в 2024 году; внешние биографические источники связывают Михаила Кенина с основанием Самолета совместно с Игорем Евтушевским.",
+                    "sources": [
+                        "MOEXBMI_Отчеты_2024/SMLT/Самолет ГО 2024_2406.pdf"
+                    ],
+                    "sector": "Real Estate",
+                    "industry_group": "Real Estate Management & Development (New)",
+                    "industry": "Real Estate Management & Development (New Code)"
+                }
+            ],
+            "research_experience": [],
+            "publications": [],
+            "patents": [],
+            "h_index": null,
+            "sources": [
+                {
+                    "url": "MOEXBMI_2024.csv",
+                    "title": "MOEXBMI_2024.csv",
+                    "fact": "Строка 472 содержит Mikhail Kenin для SMLT с должностью Director/Board Member."
+                },
+                {
+                    "url": "MOEXBMI_Отчеты_2024/SMLT/Самолет ГО 2024_2406.pdf",
+                    "title": "Годовой отчет ПАО «ГК «Самолет» за 2024 год",
+                    "fact": "Страницы 141-142: Кенин Михаил Борисович входит в совет директоров в 2024 году."
+                }
+            ],
+            "notes": "Образование и подробный ранний опыт не подтверждены надежными источниками."
+        },
+        {
+            "name": "Игорь Викторович Евтушевский",
+            "current_role": "Член Совета директоров ПАО «ГК «Самолет» в 2024 году; сооснователь Группы «Самолет»",
+            "company_name": "ПАО «ГК «Самолет»",
+            "education": [
+                {
+                    "institution": "Саратовский государственный университет",
+                    "year": 1989,
+                    "field": "механико-математический факультет; математика",
+                    "qualification": null,
+                    "sources": [
+                        "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/igor-viktorovich-evtushevskij/"
+                    ],
+                    "qualification_degree": "Specialist degree",
+                    "description": "Отраслевой профиль указывает окончание Саратовского государственного университета в 1989 году (механико-математический факультет, специальность «математика»); советский 5-летний «специалитет» сопоставлен с qualification_degree = Specialist degree по конвенции, принятой для аналогичных записей во всем корпусе (см. записи «инженер-*» 1988-2000 годов выпуска)."
+                }
+            ],
+            "degrees": [],
+            "professional_experience": [
+                {
+                    "organization": "срочная военная служба (Вооруженные силы СССР)",
+                    "role": "военнослужащий срочной службы",
+                    "start_year": 1983,
+                    "end_year": 1985,
+                    "description": "Отраслевой профиль (прочитан заново в этом раунде) указывает военную службу в 1983-1985 годах до начала предпринимательской карьеры.",
+                    "sources": [
+                        "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/igor-viktorovich-evtushevskij/"
+                    ],
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                },
+                {
+                    "organization": "московские организации в инвестициях, девелопменте и консалтинге",
+                    "role": "руководитель",
+                    "start_year": 1991,
+                    "end_year": 2007,
+                    "description": "Отраслевой профиль описывает руководящие роли в организациях, специализировавшихся на инвестициях, девелопменте и консалтинге.",
+                    "sources": [
+                        "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/igor-viktorovich-evtushevskij/"
+                    ],
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                },
+                {
+                    "organization": "«Самолет» (торгово-предпринимательское объединение, предшественник современной публичной компании)",
+                    "role": "генеральный директор",
+                    "start_year": 1991,
+                    "end_year": 1993,
+                    "description": "Отраслевой профиль указывает должность генерального директора объединения «Самолет» в 1991-1993 годах, занимавшегося оптовой торговлей, управлением сетью супермаркетов и жилищным строительством. Это отдельная историческая структура, предшествующая инкорпорации современной публичной ПАО «ГК «Самолет» в 2012 году; тождественность корпоративных структур не установлена и не предполагается -- совпадение названия, вероятно, отражает использование того же бренда автором на разных этапах его предпринимательской карьеры.",
+                    "sources": [
+                        "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/igor-viktorovich-evtushevskij/"
+                    ],
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                },
+                {
+                    "organization": "Ассоциация «Самолет»",
+                    "role": "президент",
+                    "start_year": 1993,
+                    "end_year": 1996,
+                    "description": "Отраслевой профиль указывает должность президента ассоциации «Самолет» в 1993-1996 годах, строившей жилую и коммерческую недвижимость. См. оговорку о тождественности брендов в предыдущей записи.",
+                    "sources": [
+                        "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/igor-viktorovich-evtushevskij/"
+                    ],
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                },
+                {
+                    "organization": "«Самолет-Боулинг» (культурно-развлекательный комплекс)",
+                    "role": "директор",
+                    "start_year": 2001,
+                    "end_year": 2003,
+                    "description": "Отраслевой профиль указывает руководство культурно-развлекательным комплексом «Самолет-Боулинг» в 2001-2003 годах. См. оговорку о тождественности брендов выше.",
+                    "sources": [
+                        "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/igor-viktorovich-evtushevskij/"
+                    ],
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                },
+                {
+                    "organization": "«Самолет Девелопмент Групп»",
+                    "role": "генеральный директор",
+                    "start_year": 2003,
+                    "end_year": 2004,
+                    "description": "Отраслевой профиль указывает должность генерального директора «Самолет Девелопмент Групп» в 2003-2004 годах, одновременно с должностью в Ведис Девелопмент. См. оговорку о тождественности брендов выше.",
+                    "sources": [
+                        "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/igor-viktorovich-evtushevskij/"
+                    ],
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                },
+                {
+                    "organization": "Ведис Девелопмент",
+                    "role": "генеральный директор",
+                    "start_year": 2003,
+                    "end_year": 2007,
+                    "description": "Отраслевой профиль указывает должность генерального директора.",
+                    "sources": [
+                        "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/igor-viktorovich-evtushevskij/"
+                    ],
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                },
+                {
+                    "organization": "Главстрой СПБ",
+                    "role": "генеральный директор",
+                    "start_year": 2007,
+                    "end_year": 2009,
+                    "description": "Отраслевой профиль указывает переход в Главстрой СПБ и должность генерального директора.",
+                    "sources": [
+                        "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/igor-viktorovich-evtushevskij/"
+                    ],
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                },
+                {
+                    "organization": "Главстрой-Менеджмент",
+                    "role": "заместитель генерального директора по девелопменту",
+                    "start_year": 2009,
+                    "end_year": 2012,
+                    "description": "Отраслевой профиль указывает должность заместителя генерального директора по девелопменту.",
+                    "sources": [
+                        "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/igor-viktorovich-evtushevskij/"
+                    ],
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                },
+                {
+                    "organization": "ПАО «ГК «Самолет»",
+                    "role": "сооснователь; генеральный директор до 2019 года; член совета директоров",
+                    "start_year": 2012,
+                    "end_year": null,
+                    "description": "Отраслевой профиль указывает создание Самолета вместе с Михаилом Кениным в 2012 году и должность генерального директора до 2019 года; локальный отчет подтверждает членство в совете директоров в 2024 году.",
+                    "sources": [
+                        "MOEXBMI_Отчеты_2024/SMLT/Самолет ГО 2024_2406.pdf",
+                        "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/igor-viktorovich-evtushevskij/"
+                    ],
+                    "sector": "Real Estate",
+                    "industry_group": "Real Estate Management & Development (New)",
+                    "industry": "Real Estate Management & Development (New Code)"
+                }
+            ],
+            "research_experience": [],
+            "publications": [],
+            "patents": [],
+            "h_index": null,
+            "sources": [
+                {
+                    "url": "MOEXBMI_2024.csv",
+                    "title": "MOEXBMI_2024.csv",
+                    "fact": "Строка 473 содержит Igor Evtushevskiy для SMLT с должностью Director/Board Member."
+                },
+                {
+                    "url": "MOEXBMI_Отчеты_2024/SMLT/Самолет ГО 2024_2406.pdf",
+                    "title": "Годовой отчет ПАО «ГК «Самолет» за 2024 год",
+                    "fact": "Страницы 141-142: Евтушевский Игорь Викторович входит в совет директоров в 2024 году."
+                },
+                {
+                    "url": "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/igor-viktorovich-evtushevskij/",
+                    "title": "Игорь Викторович Евтушевский - Всеостройке.рф",
+                    "fact": "Профиль указывает образование в Саратовском государственном университете и карьеру в Ведис Девелопмент, Главстрой СПБ, Главстрой-Менеджмент и Самолете."
+                },
+                {
+                    "url": "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/igor-viktorovich-evtushevskij/",
+                    "title": "Игорь Викторович Евтушевский - Всеостройке.рф",
+                    "fact": "Раунд качества 2026-08-01: повторное чтение того же профиля дало более детальную карьеру до 2012 года: военная служба 1983-1985, руководство рядом организаций под брендом «Самолет» в 1991-2004 годах (торговое объединение, ассоциация, боулинг-комплекс, девелопмент-групп), отдельных от инкорпорированной в 2012 году публичной ПАО «ГК «Самолет»."
+                }
+            ],
+            "notes": "Биографические детали, кроме членства в совете, основаны на вторичном отраслевом профиле. Раунд качества 2026-08-01: повторное чтение того же источника добавило военную службу (1983-1985) и детальную карьеру 1991-2004 под брендом «Самолет», предшествующую 2012-инкорпорации современной публичной компании -- эти ранние записи намеренно НЕ объединены с «ПАО «ГК «Самолет»» как с той же юридической организацией, чтобы не путать разные исторические структуры с одним и тем же названием-брендом; qualification_degree для образования (СГУ, 1989) установлен как Specialist degree по конвенции корпуса."
+        },
+        {
+            "name": "Андрей Владимирович Иваненко",
+            "current_role": "Член Совета директоров с 13.06.2024; генеральный директор Самолета в части 2024 года до назначения Анны Акиньшиной",
+            "company_name": "ПАО «ГК «Самолет»",
+            "education": [
+                {
+                    "institution": "Киевский политехнический институт",
+                    "year": null,
+                    "field": "электротехнический факультет",
+                    "qualification": "инженер-электрик",
+                    "sources": [
+                        "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/andrej-vladimirovich-ivanenko/"
+                    ],
+                    "qualification_degree": "Specialist degree",
+                    "description": "Отраслевой профиль (Всеостройке.рф) и независимая карточка руководства (Novostroy-M) указывают окончание Киевского политехнического института (электротехнический факультет, квалификация «инженер-электрик») с отличием; советский 5-летний «специалитет» сопоставлен с qualification_degree = Specialist degree по конвенции корпуса."
+                },
+                {
+                    "institution": "INSEAD",
+                    "year": null,
+                    "field": null,
+                    "qualification": "MBA",
+                    "sources": [
+                        "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/andrej-vladimirovich-ivanenko/",
+                        "https://www.novostroy-m.ru/kompanii/samolet_development/leadership"
+                    ],
+                    "qualification_degree": "MBA",
+                    "description": "Оба независимых источника (Всеостройке.рф, Novostroy-M) подтверждают MBA INSEAD, оконченный с отличием."
+                },
+                {
+                    "institution": "Московский государственный строительный университет (МГСУ)",
+                    "year": 2020,
+                    "field": "промышленное и гражданское строительство",
+                    "qualification": "постдипломное профессиональное образование",
+                    "description": "Отраслевой профиль (прочитан заново в этом раунде) указывает дополнительное постдипломное образование в МГСУ в 2020 году по специальности «промышленное гражданское строительство».",
+                    "sources": [
+                        "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/andrej-vladimirovich-ivanenko/"
+                    ],
+                    "qualification_degree": "Professional certification"
+                }
+            ],
+            "degrees": [],
+            "professional_experience": [
+                {
+                    "organization": "jooble.com",
+                    "role": "инженер, разработчик, затем менеджер по продажам",
+                    "start_year": 2008,
+                    "end_year": null,
+                    "description": "Раунд качества 2026-08-01: повторное прямое чтение единственного ранее процитированного источника (Всеостройке.рф) НЕ подтвердило запись «X5 Group / ВТБ / Сбер» -- в тексте страницы эти работодатели вообще не упоминаются. Независимая вторая карточка (Novostroy-M) также не упоминает X5/ВТБ/Сбер и согласованно описывает раннюю карьеру в jooble.com (инженер и разработчик, затем менеджер по продажам) с 2008 года.",
+                    "sources": [
+                        "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/andrej-vladimirovich-ivanenko/",
+                        "https://www.novostroy-m.ru/kompanii/samolet_development/leadership"
+                    ],
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                },
+                {
+                    "organization": "British American Tobacco",
+                    "role": "от торгового агента до руководителя отдела планирования маркетинговых кампаний",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Оба независимых источника (Всеостройке.рф, Novostroy-M) согласованно указывают карьерный рост от торгового агента до руководителя отдела планирования маркетинговых кампаний в British American Tobacco.",
+                    "sources": [
+                        "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/andrej-vladimirovich-ivanenko/",
+                        "https://www.novostroy-m.ru/kompanii/samolet_development/leadership"
+                    ],
+                    "sector": "Consumer Staples",
+                    "industry_group": "Food, Beverage & Tobacco",
+                    "industry": "Tobacco"
+                },
+                {
+                    "organization": "McKinsey & Company",
+                    "role": "консультант",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Оба независимых источника указывают работу консультантом в McKinsey & Company после получения MBA INSEAD (точные годы не указаны).",
+                    "sources": [
+                        "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/andrej-vladimirovich-ivanenko/",
+                        "https://www.novostroy-m.ru/kompanii/samolet_development/leadership"
+                    ],
+                    "sector": "Industrials",
+                    "industry_group": "Commercial & Professional Services",
+                    "industry": "Professional Services"
+                },
+                {
+                    "organization": "ПАО «ГК «Самолет»",
+                    "role": "управляющий директор по проектному управлению и закупкам; затем руководитель московского строительного блока",
+                    "start_year": 2020,
+                    "end_year": 2024,
+                    "description": "Оба независимых источника указывают должность управляющего директора по проектному управлению и закупкам в Самолете с 2020 года, затем руководство московским строительным блоком (выручка бизнес-юнита выросла со 100 до 240 млрд руб.) -- до назначения генеральным директором группы в феврале 2024 года.",
+                    "sources": [
+                        "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/andrej-vladimirovich-ivanenko/",
+                        "https://www.novostroy-m.ru/kompanii/samolet_development/leadership"
+                    ],
+                    "sector": "Real Estate",
+                    "industry_group": "Real Estate Management & Development (New)",
+                    "industry": "Real Estate Management & Development (New Code)"
+                },
+                {
+                    "organization": "ПАО «ГК «Самолет»",
+                    "role": "генеральный директор; член совета директоров",
+                    "start_year": 2024,
+                    "end_year": 2025,
+                    "description": "Локальный отчет подтверждает членство в совете директоров с 13.06.2024 до 03.03.2025 и смену CEO в ноябре 2024, когда генеральным директором стала Анна Акиньшина.",
+                    "sources": [
+                        "MOEXBMI_Отчеты_2024/SMLT/Самолет ГО 2024_2406.pdf"
+                    ],
+                    "sector": "Real Estate",
+                    "industry_group": "Real Estate Management & Development (New)",
+                    "industry": "Real Estate Management & Development (New Code)"
+                }
+            ],
+            "research_experience": [],
+            "publications": [],
+            "patents": [],
+            "h_index": null,
+            "sources": [
+                {
+                    "url": "MOEXBMI_2024.csv",
+                    "title": "MOEXBMI_2024.csv",
+                    "fact": "Строка 474 содержит Andrey Ivanenko для SMLT с должностью Director/Board Member."
+                },
+                {
+                    "url": "MOEXBMI_Отчеты_2024/SMLT/Самолет ГО 2024_2406.pdf",
+                    "title": "Годовой отчет ПАО «ГК «Самолет» за 2024 год",
+                    "fact": "Страницы 141-142: Иваненко Андрей Владимирович назначен в совет директоров 13.06.2024, полномочия прекращены 03.03.2025."
+                },
+                {
+                    "url": "MOEXBMI_Отчеты_2024/SMLT/Самолет ГО 2024_2406.pdf",
+                    "title": "Годовой отчет ПАО «ГК «Самолет» за 2024 год",
+                    "fact": "Страницы 3 и 145: в ноябре 2024 года новым генеральным директором назначена Анна Акиньшина, что ограничивает CEO-роль Андрея Иваненко частью 2024 года."
+                },
+                {
+                    "url": "https://www.novostroy-m.ru/kompanii/samolet_development/leadership",
+                    "title": "Руководство Самолет Девелопмент - Новострой-М",
+                    "fact": "Вторичный профиль использован для сверки руководящей идентичности Андрея Иваненко."
+                },
+                {
+                    "url": "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/andrej-vladimirovich-ivanenko/",
+                    "title": "Андрей Владимирович Иваненко - Всеостройке.рф",
+                    "fact": "Раунд качества 2026-08-01: повторное прямое чтение показало, что страница НЕ содержит упоминаний X5, ВТБ или Сбербанка (ранее записанных в JSON со ссылкой именно на эту страницу); вместо этого страница описывает карьеру jooble.com (с 2008) -> British American Tobacco -> McKinsey & Company (после MBA) -> Самолет (управляющий директор по проектному управлению и закупкам с 2020, затем руководитель московского блока, CEO февраль-ноябрь 2024). Также подтверждает постдипломное образование МГСУ 2020 года."
+                },
+                {
+                    "url": "https://www.novostroy-m.ru/kompanii/samolet_development/leadership",
+                    "title": "Руководство Самолет Девелопмент - Новострой-М",
+                    "fact": "Раунд качества 2026-08-01: независимый второй источник, прочитанный впервые полностью, подтверждает ту же карьеру (jooble.com, British American Tobacco, McKinsey & Company, Самолет) и явно НЕ упоминает X5/ВТБ/Сбер; указывает рост выручки московского бизнес-юнита Самолета со 100 до 240 млрд руб. и EBITDA до 72 млрд руб. под руководством Иваненко."
+                }
+            ],
+            "notes": "CEO на конец 2024 года — Анна Акиньшина. Андрей Иваненко включен в tmt как человек из CSV и член совета директоров в 2024 году. РАУНД КАЧЕСТВА 2026-08-01 -- ГЕНУИННОЕ ПРОТИВОРЕЧИЕ РАЗРЕШЕНО: запись «X5 Group / ВТБ / Сбер» (раунд 1) была отклонена и удалена. Единственный процитированный для нее источник (Всеостройке.рф), прочитанный заново напрямую в этом раунде, не содержит НИ ОДНОГО упоминания X5, ВТБ или Сбербанка. Второй, независимый, уже процитированный в JSON источник (Новострой-М) при полном чтении также не упоминает эти три компании и вместо этого дает последовательную, согласованную между двумя источниками карьеру: jooble.com (с 2008, инженер/разработчик -> менеджер по продажам) -> British American Tobacco (торговый агент -> руководитель отдела маркетинга) -> McKinsey & Company (консультант, после MBA) -> Самолет (управляющий директор по проектному управлению и закупкам с 2020, затем руководитель московского блока, CEO февраль-ноябрь 2024, член совета директоров с ноября 2024). Отклоненное значение (X5/ВТБ/Сбер) сохранено только как задокументированный отклоненный вариант в этой заметке и в файле раунда quality_pass_round1_20260801.md -- в структуру professional_experience оно не возвращено, так как прямая повторная проверка единственного источника, на который оно ссылалось, его не подтвердила."
+        },
+        {
+            "name": "Александр Сергеевич Прыгунков",
+            "current_role": "Член Совета директоров и управляющий партнер ПАО «ГК «Самолет» в 2024 году",
+            "company_name": "ПАО «ГК «Самолет»",
+            "education": [
+                {
+                    "institution": "Волгоградский государственный университет",
+                    "year": null,
+                    "field": null,
+                    "qualification": null,
+                    "sources": [
+                        "https://predprinimatelirossii.ru/tpost/f3mk0vgzo1-prigunkov-aleksandr-sergeevich"
+                    ],
+                    "qualification_degree": null
+                }
+            ],
+            "degrees": [],
+            "professional_experience": [
+                {
+                    "organization": "ПАО «Группа компаний ПИК»",
+                    "role": "первый вице-президент и операционный директор",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Профиль Предприниматели России указывает прежний опыт в ПИК.",
+                    "sources": [
+                        "https://predprinimatelirossii.ru/tpost/f3mk0vgzo1-prigunkov-aleksandr-sergeevich"
+                    ],
+                    "sector": "Real Estate",
+                    "industry_group": "Real Estate Management & Development (New)",
+                    "industry": "Real Estate Management & Development (New Code)"
+                },
+                {
+                    "organization": "АО «ОХК «Уралхим»",
+                    "role": "генеральный директор",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Профиль Предприниматели России указывает должность генерального директора Уралхима.",
+                    "sources": [
+                        "https://predprinimatelirossii.ru/tpost/f3mk0vgzo1-prigunkov-aleksandr-sergeevich"
+                    ],
+                    "sector": "Materials",
+                    "industry_group": "Materials",
+                    "industry": "Chemicals"
+                },
+                {
+                    "organization": "ПАО «ГК «Самолет»",
+                    "role": "управляющий партнер; член совета директоров; руководитель бизнес-юнита «Страна»",
+                    "start_year": 2023,
+                    "end_year": null,
+                    "description": "Локальный годовой отчет подтверждает членство в совете директоров в 2024 году; профиль Предприниматели России указывает управляющего партнера и бизнес-юнит «Страна».",
+                    "sources": [
+                        "MOEXBMI_Отчеты_2024/SMLT/Самолет ГО 2024_2406.pdf",
+                        "https://predprinimatelirossii.ru/tpost/f3mk0vgzo1-prigunkov-aleksandr-sergeevich"
+                    ],
+                    "sector": "Real Estate",
+                    "industry_group": "Real Estate Management & Development (New)",
+                    "industry": "Real Estate Management & Development (New Code)"
+                }
+            ],
+            "research_experience": [],
+            "publications": [],
+            "patents": [],
+            "h_index": null,
+            "sources": [
+                {
+                    "url": "MOEXBMI_2024.csv",
+                    "title": "MOEXBMI_2024.csv",
+                    "fact": "Строка 475 содержит Alexander Prygunkov для SMLT с должностью Director/Board Member."
+                },
+                {
+                    "url": "MOEXBMI_Отчеты_2024/SMLT/Самолет ГО 2024_2406.pdf",
+                    "title": "Годовой отчет ПАО «ГК «Самолет» за 2024 год",
+                    "fact": "Страницы 141-142: Прыгунков Александр Сергеевич входит в совет директоров в 2024 году."
+                },
+                {
+                    "url": "https://predprinimatelirossii.ru/tpost/f3mk0vgzo1-prigunkov-aleksandr-sergeevich",
+                    "title": "Прыгунков Александр Сергеевич - Предприниматели России",
+                    "fact": "Профиль указывает образование в Волгоградском государственном университете, опыт в ПИК и Уралхим, а также роль управляющего партнера Самолета."
+                },
+                {
+                    "url": "https://predprinimatelirossii.ru/tpost/f3mk0vgzo1-prigunkov-aleksandr-sergeevich",
+                    "title": "Прыгунков Александр Сергеевич - Предприниматели России",
+                    "fact": "Раунд качества 2026-08-01: повторное прямое чтение той же страницы не дало новых деталей сверх уже внесенных (специальность, конкретные годы в ПИК/Уралхиме и точное образовательное учебное заведение по-прежнему не названы источником)."
+                }
+            ],
+            "notes": "Программа/специальность образования и точные годы прежних ролей не подтверждены. Раунд качества 2026-08-01: гэп-проверка выполнена (повторное прямое чтение того же источника) -- новых данных не найдено, специальность образования и точные годы прежних ролей остаются неподтвержденными."
+        }
+    ],
+    "board_sources": [
+        {
+            "url": "MOEXBMI_2024.csv",
+            "title": "MOEXBMI_2024.csv",
+            "fact": "CSV contains predefined company people and positions used as pipeline input."
+        },
+        {
+            "url": "MOEXBMI_Отчеты_2024/SMLT/Самолет ГО 2024_2406.pdf",
+            "title": "Годовой отчет ПАО «ГК «Самолет» за 2024 год",
+            "fact": "Страницы 141-142: отчет раскрывает состав и посещаемость Совета директоров в 2024 году, включая Евтушевского, Кенина, Прыгункова, Хартманна, Голубкова, Шекшню и Иваненко."
+        },
+        {
+            "url": "MOEXBMI_Отчеты_2024/SMLT/Самолет ГО 2024_2406.pdf",
+            "title": "Годовой отчет ПАО «ГК «Самолет» за 2024 год",
+            "fact": "Страницы 3, 5 и 145: отчет подтверждает назначение Анны Акиньшиной генеральным директором в ноябре 2024 года."
+        },
+        {
+            "url": "MOEXBMI_Отчеты_2024/SMLT/PAO GK Samolet MSFO 2024.pdf",
+            "title": "Консолидированная финансовая отчетность ПАО «ГК «Самолет» за 2024 год",
+            "fact": "Страницы 17-18: отчет подтверждает отчетную компанию, ее деятельность и статус акций на Московской бирже; биографий руководителей не содержит."
+        }
+    ],
+    "sources": [
+        {
+            "url": "MOEXBMI_Отчеты_2024/SMLT/Самолет ГО 2024_2406.pdf",
+            "title": "Годовой отчет ПАО «ГК «Самолет» за 2024 год",
+            "fact": "Основной локальный источник по CEO и совету директоров за 2024 год."
+        },
+        {
+            "url": "MOEXBMI_Отчеты_2024/SMLT/PAO GK Samolet MSFO 2024.pdf",
+            "title": "Консолидированная финансовая отчетность ПАО «ГК «Самолет» за 2024 год",
+            "fact": "Локальный финансовый отчет проверен; биографических сведений не содержит."
+        },
+        {
+            "url": "https://events.vedomosti.ru/speakers/hartmann-oskar-4795",
+            "title": "Оскар Хартманн - Ведомости.Конференции",
+            "fact": "Источник по образованию и опыту Оскара Хартманна."
+        },
+        {
+            "url": "https://xn--b1agapfwapgcl.xn--p1ai/pervye-lica-otrasli/igor-viktorovich-evtushevskij/",
+            "title": "Игорь Викторович Евтушевский - Всеостройке.рф",
+            "fact": "Источник по образованию и карьерному опыту Игоря Евтушевского."
+        },
+        {
+            "url": "https://predprinimatelirossii.ru/tpost/f3mk0vgzo1-prigunkov-aleksandr-sergeevich",
+            "title": "Прыгунков Александр Сергеевич - Предприниматели России",
+            "fact": "Источник по образованию и карьерному опыту Александра Прыгункова."
+        },
+        {
+            "url": "https://volkovd.com/",
+            "title": "Дмитрий Волков",
+            "fact": "Источник по управленческому опыту Дмитрия Волкова в недвижимости."
+        }
+    ],
+    "validation_notes": "Обработано 12 людей из CSV по SMLT. Проверено 2 локальных документа: годовой отчет и консолидированная финансовая отчетность МСФО за 2024 год. Выполнено 12 person-rounds, по одному research round на человека. CEO на конец 2024 года определен как Анна Николаевна Акиньшина; Андрей Иваненко был CEO в части 2024 года, но после назначения Акиньшиной не перенесен в поле ceo. Образование не подтверждено или оставлено неполным у Владимира Комара, Дмитрия Волкова, Алексея Козлова, Виталия Руденко, Дмитрия Голубкова, Станислава Шекшни и Михаила Кенина; у Анны Акиньшиной образование внесено без учебного заведения. Слабые источники использованы для вторичных биографий: Всеостройке.рф, Предприниматели России, Новостроев, MarketScreener, персональный сайт Дмитрия Волкова и профили мероприятий; факты из них не расширялись сверх текста. Конфликты: CSV не отражает прекращение полномочий Оскара Хартманна и Станислава Шекшни 13.06.2024, что уточнено по локальному годовому отчету; CSV не показывает, что полномочия Андрея Иваненко в совете прекращены 03.03.2025. Основные однофамильцы по Комару, Волкову, Козлову, Руденко, Голубкову и Иваненко исключены по отсутствию связки с Самолетом/должностью/отраслью. Поиск считается завершенным, так как локальные документы прочитаны, по каждому человеку выполнены отдельные запросы по биографии, образованию, должности и предыдущему опыту, а два поисковых прохода по людям без полных биографий не дали новых источников более высокого качества. РАУНД КАЧЕСТВА (quality_pass_round1_20260801): ПРИМЕЧАНИЕ К ПРЕДЫДУЩЕМУ АБЗАЦУ -- образование Дмитрия Волкова и Станислава Шекшни, названное выше неполным/неподтвержденным, в этом раунде подтверждено гэп-фоллоуапом (см. ниже); абзац выше сохранен как есть (исторический снимок раунда 1), актуальное состояние -- в самих записях education этих людей. Шаг 0 -- на диске файл полностью совпадал с git HEAD (f973022), регрессий не найдено, восстановление не требовалось. Простые упущения исправлены: год окончания магистратуры CEO (2007) и qualification_degree для нескольких образовательных записей (Master's degree/MBA/Specialist degree) добавлены по фактам, уже присутствовавшим в заметках/источниках. Одно генуинное противоречие найдено и разрешено: запись «X5 Group / ВТБ / Сбер» для Андрея Иваненко не подтвердилась при повторном прямом чтении единственного процитированного источника и была отклонена в пользу подтвержденной двумя независимыми источниками карьеры (jooble.com, British American Tobacco, McKinsey & Company, Самолет) -- подробности в файле раунда. GICS-метки: единственная ранее заполненная метка (BCG Moscow -> Professional Services) проверена и признана корректной, изменений не внесено; дополнительно из корпоративных соображений внутренней согласованности (компания уже классифицирована как Real Estate/Real Estate Management & Development на верхнем уровне этого же файла) эта же метка проставлена во все professional_experience записи, где organization в точности равен юридическому названию «ПАО «ГК «Самолет»»»; также добавлены однозначные метки для ПИК, Уралхима (Прыгунков), Boston Consulting Group (без изменений), McKinsey и British American Tobacco (Иваненко), X5/Магнит/Лаборатория Касперского/ТНК-BP (CEO). Гэп-фоллоуап дал результат для Хартманна (пропущенная запись о технической гимназии в Германии), Шекшни (полный профиль INSEAD, ранее блокировался Cloudflare), Руденко (полное содержимое уже процитированной карточки Novostroev.ru), Волкова (полное содержимое персонального сайта, включая разрешение следа «Новая экономическая школа» как Российской экономической школы), Евтушевского (добавлена детальная карьера 1991-2004 и военная служба) и CEO Акиньшиной (полный профиль Всеостройке.рф, ранее отдававшийся нестабильно). Для Комара, Козлова, Голубкова и Кенина гэп-фоллоуап предпринят, но не дал результата: квота инструмента WebSearch в сессии оказалась исчерпана (200 из 200 вызовов) ДО начала работы над этим тикером, поэтому новые поисковые запросы в этом раунде физически не выполнялись; прямые попытки повторно открыть уже процитированные страницы (samolet.ru пресс-релизы, roscongress.org, marketscreener.com) вернули HTTP 401/403 (блокировка бота). Это явно задокументировано как неполный, а не как выполненный и безрезультатный гэп-фоллоуап -- подробности в файле раунда.",
+    "sector": "Real Estate",
+    "industry_group": "Real Estate Management & Development (New)",
+    "industry": "Real Estate Management & Development (New Code)"
+}

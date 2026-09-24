@@ -1,0 +1,1162 @@
+{
+  "company_name": "ПАО «СОЛЛЕРС»",
+  "company_ticker": "SVAV",
+  "ceo": {
+    "name": "Nikolay Sobolev",
+    "current_role": "Chief Executive Officer; Director/Board Member",
+    "company_name": "ПАО «СОЛЛЕРС»",
+    "education": [
+      {
+        "institution": "Московский государственный университет имени М.В. Ломоносова",
+        "program": "Экономический факультет",
+        "year": 1997,
+        "description": "Окончил экономический факультет МГУ.",
+        "qualification_degree": null
+      },
+      {
+        "institution": "Академия народного хозяйства при Правительстве Российской Федерации",
+        "program": "Финансовый менеджмент",
+        "year": 1998,
+        "description": "Окончил программу по финансовому менеджменту.",
+        "qualification_degree": null
+      },
+      {
+        "institution": "Kingston University",
+        "program": "MBA",
+        "year": 2000,
+        "description": "Получил степень MBA в Kingston University Business School; institution нормализован к Kingston University.",
+        "qualification_degree": "MBA"
+      }
+    ],
+    "degrees": [
+      {
+        "degree": "Candidate of Economic Sciences",
+        "field": "Economics",
+        "year": 2002,
+        "description": "Официальные материалы Sollers указывают степень кандидата экономических наук; DisserCat содержит запись о кандидатской диссертации «Динамический потенциал предприятия» за 2001 год.",
+        "qualification_degree": "Doctoral degree"
+      }
+    ],
+    "professional_experience": [
+      {
+        "organization": "ЗАО «Южуралмаш Холдинг» / ОАО «Южуралмаш»",
+        "role": "первый заместитель генерального директора / вице-президент; член совета директоров",
+        "start_year": 1997,
+        "end_year": 2002,
+        "description": "Ранний управленческий опыт до перехода в УАЗ.",
+        "sector": "Industrials",
+        "industry_group": "Capital Goods",
+        "industry": "Machinery"
+      },
+      {
+        "organization": "УАЗ",
+        "role": "директор по экономике и финансам",
+        "start_year": 2002,
+        "end_year": 2005,
+        "description": "С сентября 2002 года по январь 2005 года занимал должность директора по экономике и финансам ОАО «Ульяновский автомобильный завод» (согласно годовым отчетам ПАО «СОЛЛЕРС» за 2016 и 2019 годы).",
+        "sector": "Consumer Discretionary",
+        "industry_group": "Automobiles & Components",
+        "industry": "Automobiles"
+      },
+      {
+        "organization": "УАЗ",
+        "role": "член совета директоров",
+        "start_year": 2002,
+        "end_year": 2011,
+        "description": "Годовые отчеты ПАО «СОЛЛЕРС» за 2016 и 2019 годы независимо и дословно указывают, что членом совета директоров ОАО «Ульяновский автомобильный завод» Соболев являлся по май 2011 года — то есть дольше, чем занимал должность директора по экономике и финансам (до января 2005 года). Ревизия качества (2026-08-02): ранее эти два факта были объединены в одну запись с общим годом окончания 2005; разделено и уточнено при повторном чтении первичных источников.",
+        "sector": "Consumer Discretionary",
+        "industry_group": "Automobiles & Components",
+        "industry": "Automobiles"
+      },
+      {
+        "organization": "ПАО «СОЛЛЕРС»",
+        "role": "финансовый директор",
+        "start_year": 2005,
+        "end_year": 2009,
+        "description": "С января 2005 года — финансовый директор ПАО «СОЛЛЕРС» (согласно официальному пресс-релизу о карьере и годовым отчетам за 2016 и 2019 годы); занимал эту должность до мая 2009 года, когда был назначен первым заместителем генерального директора. Ревизия качества (2026-08-02): в этой записи ранее ошибочно дублировалось описание назначения генеральным директором в 2019 году (скопированное из записи ниже); исправлено на описание фактической должности CFO с использованием уже процитированных источников.",
+        "sector": "Consumer Discretionary",
+        "industry_group": "Automobiles & Components",
+        "industry": "Automobiles"
+      },
+      {
+        "organization": "ПАО «СОЛЛЕРС»",
+        "role": "первый заместитель генерального директора",
+        "start_year": 2009,
+        "end_year": 2019,
+        "description": "С мая 2009 года до июня 2019 года был первым заместителем генерального директора.",
+        "sector": "Consumer Discretionary",
+        "industry_group": "Automobiles & Components",
+        "industry": "Automobiles"
+      },
+      {
+        "organization": "ПАО «СОЛЛЕРС»",
+        "role": "генеральный директор",
+        "start_year": 2019,
+        "end_year": null,
+        "description": "Назначен генеральным директором решением совета директоров 10 июня 2019 года; официальный релиз о результатах 2024 года также называет его генеральным директором.",
+        "sector": "Consumer Discretionary",
+        "industry_group": "Automobiles & Components",
+        "industry": "Automobiles"
+      },
+      {
+        "organization": "ПАО «СОЛЛЕРС»",
+        "role": "член совета директоров",
+        "start_year": 2006,
+        "end_year": null,
+        "description": "Ревизия качества (2026-08-02): исходный год 2005 не был подкреплен ни одним первичным источником и, по-видимому, был ошибочно перенесен из даты назначения финансовым директором. Поле Comment в MOEXBMI_2024.csv указывает точную дату для строки Director/Board Member как 2006-06-08; отчет голосования ГОСА 30.06.2023 подтверждает продолжающееся членство в совете. Независимого первичного источника с годом 2005 не найдено, поэтому год начала исправлен на 2006.",
+        "sector": "Consumer Discretionary",
+        "industry_group": "Automobiles & Components",
+        "industry": "Automobiles"
+      }
+    ],
+    "research_experience": [
+      {
+        "type": "dissertation",
+        "title": "Динамический потенциал предприятия",
+        "year": 2001,
+        "description": "Кандидатская диссертация по специальности 08.00.05; степень в официальных материалах Sollers указана как полученная в 2002 году."
+      }
+    ],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "CSV contains Nikolay Sobolev for ticker SVAV as Chief Executive Officer and Director/Board Member. Ревизия качества (2026-08-02): столбец Comment этого CSV указывает 2019-05-31 для строки CEO и 2006-06-08 для строки Director/Board Member; последняя дата использована для исправления года начала членства в совете директоров (см. professional_experience) с необоснованного 2005 на 2006."
+      },
+      {
+        "url": "https://sollers-auto.com/upload/iblock/9de/e0b8cv9ljdhf4i50qeyh7qi68vzx0kyf.pdf",
+        "title": "Сообщение об отдельных решениях, принятых советом директоров ПАО «СОЛЛЕРС»",
+        "fact": "Официальное раскрытие сообщает, что совет директоров 10.06.2019 прекратил полномочия Вадима Швецова и назначил Соболева Николая Александровича генеральным директором."
+      },
+      {
+        "url": "https://sollers-auto.com/press-center/news/vadim-shvetsov-izbran-predsedatelem-soveta-direktorov-pao-sollers/",
+        "title": "Вадим Швецов избран Председателем Совета директоров ПАО «СОЛЛЕРС»",
+        "fact": "Официальный релиз Sollers описывает карьеру Николая Соболева: работа в Sollers с основания группы, УАЗ до 2005 года, CFO с января 2005 года, первый заместитель генерального директора с мая 2009 года."
+      },
+      {
+        "url": "https://sollers-auto.com/press-center/news/pao-sollers-obyavlyaet-finansovye-rezultaty-po-msfo-za-2024-god/",
+        "title": "ПАО «СОЛЛЕРС» объявляет финансовые результаты по МСФО за 2024 год",
+        "fact": "Официальный релиз по результатам 2024 года цитирует Николая Соболева как генерального директора ПАО «СОЛЛЕРС»."
+      },
+      {
+        "url": "https://sollers-auto.com/upload/iblock/7e7/cbqyaftguyp9rgxoxfjav097yt1mepli.pdf",
+        "title": "Отчет эмитента эмиссионных ценных бумаг ПАО «СОЛЛЕРС Авто»",
+        "fact": "Официальный отчет эмитента указывает Соболева Николая Александровича, 1976 г.р.; образование: экономический факультет МГУ, Академия народного хозяйства при Правительстве РФ, MBA Kingston University Business School; степень кандидата экономических наук; член совета директоров с 2005 года и генеральный директор с 2019 года."
+      },
+      {
+        "url": "https://reportcollection.inion.ru/reports/download/?reportId=4451",
+        "title": "Годовой отчет ПАО «СОЛЛЕРС» по результатам работы за 2016 год",
+        "fact": "Годовой отчет содержит датированную биографию: 1997 МГУ, 1998 АНХ, 2000 MBA Kingston, 2002 кандидат экономических наук, 1997-2002 Южуралмаш, 2002-2005 УАЗ, с 2005 финансовый директор Sollers, с 2009 первый заместитель генерального директора. При повторном полнотекстовом чтении (2026-08-02, извлечение через pdfplumber) дословно подтверждено: \"С сентября 2002 года по январь 2005 г. являлся директором по экономике и финансам ОАО «Ульяновский автомобильный завод» и членом Совета директоров ОАО «Ульяновский автомобильный завод» (по май 2011 г.)\" — то есть членство в совете директоров УАЗ продолжалось до мая 2011 года, дольше должности директора по экономике и финансам."
+      },
+      {
+        "url": "https://reportcollection.inion.ru/reports/download/?reportId=4463",
+        "title": "Годовой отчет ПАО «СОЛЛЕРС» за 2019 год",
+        "fact": "Годовой отчет за 2019 год повторяет ту же биографию Соболева и независимо дословно подтверждает: членом Совета директоров ОАО «Ульяновский автомобильный завод» являлся \"по май 2011 г.\" (2026-08-02, новый источник, впервые прочитан в этом раунде через pdfplumber)."
+      },
+      {
+        "url": "https://sollers-auto.com/upload/iblock/61f/qdp7yxyct1i30r22c6rg2jdi4q0hvlgr.pdf",
+        "title": "Отчет об итогах голосования на годовом общем собрании акционеров 30.06.2023",
+        "fact": "Официальный отчет голосования 2023 года указывает Николая Соболева среди избранных членов совета директоров."
+      },
+      {
+        "url": "https://www.dissercat.com/content/dinamicheskii-potentsial-predpriyatiya",
+        "title": "Динамический потенциал предприятия",
+        "fact": "DisserCat содержит запись о кандидатской диссертации Соболева Николая Александровича «Динамический потенциал предприятия», Москва, 2001, специальность 08.00.05."
+      }
+    ],
+    "notes": "Идентичность подтверждена полным ФИО, компанией, должностью CEO, годом рождения 1976 и карьерной связкой УАЗ/Sollers. Отдельно исключены однофамильцы: публичный медиаперсонаж Николай Соболев, историк с диссертацией о «Влесовой книге», ORCID/патентные совпадения без Sollers-якорей. Точный состав совета директоров по ГОСА 24.06.2024 не извлечен: официальный файл голосования доступен как .doc и не был прочитан текущими инструментами. Ревизия качества (2026-08-02): исправлена ошибочно продублированная запись professional_experience (запись «финансовый директор» 2005-2009 годов ранее содержала описание назначения генеральным директором вместо описания назначения CFO). Разделена запись УАЗ на роль директора по экономике и финансам (2002-2005) и отдельную роль члена совета директоров УАЗ (2002-2011), согласно дословному тексту годовых отчетов 2016 и 2019 годов. Исправлен год начала членства в совете директоров ПАО «СОЛЛЕРС» с необоснованных 2005 на 2006, на основании точной даты 2006-06-08 в поле Comment MOEXBMI_2024.csv."
+  },
+  "tmt": [
+    {
+      "name": "Zoya Kaika",
+      "current_role": "Deputy General Director; Director/Board Member; Corporate Officer/Principal",
+      "company_name": "ПАО «СОЛЛЕРС»",
+      "education": [
+        {
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "program": "Факультет журналистики",
+          "year": null,
+          "description": "Окончила факультет журналистики МГУ.",
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Ведомости / Open Radio",
+          "role": "журналист; заместитель редактора / заместитель главного редактора; автор программы",
+          "start_year": null,
+          "end_year": 2002,
+          "description": "Ранний медийный опыт до перехода в Severstal Group.",
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Media"
+        },
+        {
+          "organization": "Severstal Group",
+          "role": "аналитик; директор по связям с общественностью",
+          "start_year": 2002,
+          "end_year": 2003,
+          "description": "В 2002 году перешла в Severstal Group аналитиком, в 2003 году стала PR-директором.",
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ОАО/ПАО «СОЛЛЕРС»",
+          "role": "директор по связям с общественностью и государственными органами",
+          "start_year": 2003,
+          "end_year": 2013,
+          "description": "Официальные отчеты эмитента указывают эту роль до назначения заместителем генерального директора.",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Automobiles & Components",
+          "industry": "Automobiles"
+        },
+        {
+          "organization": "ООО «Форд Соллерс Холдинг» / ООО «Соллерс Холдинг Менеджмент»",
+          "role": "член совета директоров",
+          "start_year": 2011,
+          "end_year": 2022,
+          "description": "Указано в официальном отчете эмитента.",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Automobiles & Components",
+          "industry": "Automobiles"
+        },
+        {
+          "organization": "ПАО «СОЛЛЕРС»",
+          "role": "заместитель генерального директора; член совета директоров",
+          "start_year": 2013,
+          "end_year": null,
+          "description": "Официальные отчеты и бизнес-СМИ подтверждают роль заместителя генерального директора; отчет 2023 года подтверждает членство в совете директоров.",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Automobiles & Components",
+          "industry": "Automobiles"
+        },
+        {
+          "organization": "ПАО «ЗМЗ»",
+          "role": "член совета директоров",
+          "start_year": 2014,
+          "end_year": null,
+          "description": "Указано в официальном отчете эмитента.",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Automobiles & Components",
+          "industry": "Automobile Components (New Name)"
+        },
+        {
+          "organization": "ООО «УАЗ»",
+          "role": "член совета директоров",
+          "start_year": 2019,
+          "end_year": 2021,
+          "description": "Указано в официальном отчете эмитента.",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Automobiles & Components",
+          "industry": "Automobiles"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Zoya Kaika for ticker SVAV as Corporate Officer/Principal and Director/Board Member."
+        },
+        {
+          "url": "https://sollers-auto.com/upload/iblock/059/2zrm7alxerb30aklte49xap3dszm27j7.pdf",
+          "title": "Отчет эмитента эмиссионных ценных бумаг ПАО «СОЛЛЕРС»",
+          "fact": "Официальный отчет эмитента указывает Каика Зою Ататжановну, 1978 г.р.; образование: МГУ, факультет журналистики; роли: член совета директоров Ford Sollers Holding / Sollers Holding Management, член совета директоров ЗМЗ, заместитель генерального директора и член совета директоров ПАО «СОЛЛЕРС», член совета директоров УАЗ."
+        },
+        {
+          "url": "https://sollers-auto.com/en/press-center/news-and-events/sollers-pjsc-holds-annual-general-meeting/",
+          "title": "SOLLERS PJSC holds annual general meeting",
+          "fact": "Официальный релиз Sollers от 30.06.2023 указывает Zoya Atatzhanovna Kaika среди избранных членов совета директоров."
+        },
+        {
+          "url": "https://sollers-auto.com/upload/iblock/602/sugtrcn33g8fnkatrjjww3d1rv1gvifz.pdf",
+          "title": "Ежеквартальный отчет ОАО «СОЛЛЕРС»",
+          "fact": "Более ранний официальный отчет подтверждает полное ФИО, 1978 г.р., образование в МГУ на факультете журналистики, роль директора по PR и GR в Sollers и членство в совете ООО «Форд Соллерс Холдинг»."
+        },
+        {
+          "url": "https://reportcollection.inion.ru/reports/download/?reportId=4419",
+          "title": "Severstal-auto annual report 2004",
+          "fact": "Годовой отчет Severstal-auto описывает раннюю карьеру Зои Каики: Ведомости, Open Radio, переход в Severstal Group в 2002 году, PR-директор с 2003 года, диплом МГУ по журналистике."
+        },
+        {
+          "url": "https://whoiswho.comnews.ru/person/37441/kaika-zoya-atatzhanovna",
+          "title": "Каика Зоя Ататжановна, ComNews «Кто есть кто»",
+          "fact": "ComNews повторяет биографию: МГУ, факультет журналистики; Ведомости; Severstal Group; заместитель генерального директора Sollers."
+        },
+        {
+          "url": "https://www.interfax.ru/business/969989",
+          "title": "«Соллерс» планирует перезапустить бывший завод Isuzu в конце 2024 года",
+          "fact": "Interfax 09.07.2024 идентифицирует Зою Каику как совладелицу группы Sollers и цитирует ее по производственным планам 2024 года."
+        },
+        {
+          "url": "https://1prime.ru/20240717/sollers-850197453.html",
+          "title": "«Соллерс» озвучил планы по продажам автомобилей",
+          "fact": "ПРАЙМ 17.07.2024 называет Зою Каику заместителем генерального директора Sollers."
+        }
+      ],
+      "notes": "Идентичность подтверждена полным ФИО, годом рождения 1978, MSU-журфак, ролью в Sollers и англоязычным вариантом Zoya Atatzhanovna Kaika. Журналистские тексты не внесены как научные публикации. Исключены Maria Kaika, Каика Зоя Борисовна и другие профили без Sollers-якорей. Ревизия качества (2026-08-02): проверено расхождение между MOEXBMI_2024.csv (поле Comment = 2012-12-31 для позиций Corporate Officer/Principal и Director/Board Member) и официальными годовыми отчетами Sollers за 2016 и 2019 годы, которые дважды независимо и дословно указывают год начала членства в совете директоров как 2013 («Входит в состав Совета директоров ПАО «СОЛЛЕРС» с 2013 г.»). Дата 31 декабря нетипична для реальных дат ГОСА (которые в РФ проводятся не позднее июня) и выглядит как дефолтное/неточное значение биржевых данных; год оставлен без изменений (2013) как более надежный, подтвержденный двумя независимыми официальными источниками."
+    },
+    {
+      "name": "Viktor Mikhaylovich Khvesenya",
+      "current_role": "General Counsel / Director-Legal Affairs; Director/Board Member",
+      "company_name": "ПАО «СОЛЛЕРС»",
+      "education": [
+        {
+          "institution": "Белорусский государственный университет",
+          "program": "Юридический факультет",
+          "year": 1984,
+          "description": "Окончил юридический факультет БГУ.",
+          "qualification_degree": null
+        },
+        {
+          "institution": "Case Western Reserve University School of Law",
+          "program": "Master of Laws",
+          "year": 1993,
+          "description": "Получил степень Master of Laws.",
+          "qualification_degree": "Master's degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Master of Laws",
+          "field": "Law",
+          "year": 1993,
+          "description": "LL.M. Case Western Reserve University School of Law.",
+          "qualification_degree": "Master's degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "Гродненская областная коллегия адвокатов",
+          "role": "юрист / адвокатская практика",
+          "start_year": 1984,
+          "end_year": 1986,
+          "description": "Начало юридической карьеры.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Военная прокуратура Читинского гарнизона / Забайкальского военного округа",
+          "role": "следователь; руководитель передвижной криминалистической лаборатории",
+          "start_year": 1986,
+          "end_year": 1988,
+          "description": "Опыт в военной прокуратуре.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Steptoe & Johnson",
+          "role": "юрист корпоративного отдела",
+          "start_year": 1993,
+          "end_year": 1995,
+          "description": "Работал в корпоративной практике после LL.M.",
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "White & Case",
+          "role": "старший юрист корпоративного отдела",
+          "start_year": 1995,
+          "end_year": 2005,
+          "description": "Около 10 лет работал в White & Case.",
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "Amedia",
+          "role": "руководитель юридической службы",
+          "start_year": 2005,
+          "end_year": 2009,
+          "description": "Возглавлял юридическую функцию группы.",
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Entertainment"
+        },
+        {
+          "organization": "ПАО «СОЛЛЕРС»",
+          "role": "директор по правовым вопросам; заместитель генерального директора по правовым вопросам",
+          "start_year": 2009,
+          "end_year": null,
+          "description": "С марта 2009 года директор по правовым вопросам; в 2018 году назначен заместителем генерального директора по правовым вопросам.",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Automobiles & Components",
+          "industry": "Automobiles"
+        },
+        {
+          "organization": "ПАО «СОЛЛЕРС»",
+          "role": "член совета директоров",
+          "start_year": 2010,
+          "end_year": 2016,
+          "description": "Годовой отчет за 2016 год дословно подтверждает: «с 2010 до середины 2016 года также являлся членом Совета директоров Общества» (в прошедшем времени). Список директоров, избранных на годовом общем собрании акционеров 28 июня 2016 года, Хвесеню не включает (в состав вошли Швецов, Соболев, Каика, Антонова и независимые директора Дементьев, Мишин, Маработтини, Хильгерт, Варданян) — то есть первый срок в совете директоров завершился на этом собрании, без непрерывного продолжения.",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Automobiles & Components",
+          "industry": "Automobiles"
+        },
+        {
+          "organization": "ПАО «СОЛЛЕРС»",
+          "role": "член совета директоров",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Годовой отчет за 2019 год прямо указывает, что в состав совета директоров, избранного на годовом общем собрании акционеров 30 мая 2019 года, вошел Хвесеня В.М.; протоколы заседаний совета в 2019 году показывают его участие начиная с заседания 10.06.2019, но не в заседаниях января-апреля 2019 года (до переизбрания). Поле Comment в MOEXBMI_2024.csv для позиции Director/Board Member дает дату 2019-05-29, что на один день предшествует дате ГОСА и соответствует переизбранию. Отчет голосования ГОСА 30.06.2023 подтверждает продолжающееся членство. Ревизия качества (2026-08-02): ранее это был единый период (2010-настоящее время) с пометкой «точная непрерывность требует сверки»; при повторном полнотекстовом чтении первичных источников установлено, что членство прерывалось на 2016-2019 годы, и запись разделена на два периода.",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Automobiles & Components",
+          "industry": "Automobiles"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Viktor Mikhaylovich Khvesenya for ticker SVAV as General Counsel and Director/Board Member. Ревизия качества (2026-08-02): столбец Comment указывает 2019-05-29 для строки Director/Board Member, что соответствует переизбранию в совет директоров на ГОСА 30 мая 2019 года после перерыва 2016-2019 годов."
+        },
+        {
+          "url": "https://sollers-auto.com/upload/iblock/059/2zrm7alxerb30aklte49xap3dszm27j7.pdf",
+          "title": "Отчет эмитента эмиссионных ценных бумаг ПАО «СОЛЛЕРС»",
+          "fact": "Официальный отчет эмитента указывает Хвесеню Виктора Михайловича, 1962 г.р.; образование: юридический факультет БГУ; роли: директор/заместитель генерального директора по правовым вопросам ПАО «СОЛЛЕРС» с 2009 года, член совета директоров, а также роли в УАЗ, Ford Sollers Holding и ЗМЗ."
+        },
+        {
+          "url": "https://sollers-auto.com/upload/iblock/7e7/cbqyaftguyp9rgxoxfjav097yt1mepli.pdf",
+          "title": "Отчет эмитента эмиссионных ценных бумаг ПАО «СОЛЛЕРС Авто»",
+          "fact": "Официальный отчет эмитента повторяет идентификационные данные, образование БГУ, должность в правовом блоке Sollers и связанные board roles."
+        },
+        {
+          "url": "https://sollers-auto.com/upload/iblock/61f/qdp7yxyct1i30r22c6rg2jdi4q0hvlgr.pdf",
+          "title": "Отчет об итогах голосования на ГОСА 30.06.2023",
+          "fact": "Официальный отчет голосования 2023 года указывает Хвесеню Виктора Михайловича среди избранных членов совета директоров."
+        },
+        {
+          "url": "https://reportcollection.inion.ru/reports/download/?reportId=4451",
+          "title": "Годовой отчет ПАО «СОЛЛЕРС» за 2016 год",
+          "fact": "Годовой отчет содержит подробную биографию: 1984 юридический факультет БГУ, 1993 LL.M. Case Western Reserve University, Гродненская коллегия адвокатов, военная прокуратура, Steptoe & Johnson, White & Case, Amedia, с 2009 Sollers. При повторном полнотекстовом чтении (2026-08-02, извлечение через pdfplumber) обнаружена дословная фраза: «C марта 2009 года является Директором по правовым вопросам, а с 2010 до середины 2016 года также являлся членом Совета директоров Общества» — подтверждает завершение первого срока в совете к середине 2016 года. Список директоров, избранных на ГОСА 28.06.2016, Хвесеню не включает."
+        },
+        {
+          "url": "https://reportcollection.inion.ru/reports/download/?reportId=4463",
+          "title": "Годовой отчет ПАО «СОЛЛЕРС» за 2019 год",
+          "fact": "Годовой отчет подтверждает членство в совете директоров в 2019 году, 10-летний опыт White & Case, переход в Amedia в 2005 году, работу директором по правовым вопросам Sollers с марта 2009 года и назначение заместителем генерального директора в 2018 году. При повторном полнотекстовом чтении (2026-08-02) подтверждено: список директоров, избранных на годовом общем собрании акционеров 30 мая 2019 года, включает Хвесеню В.М.; это фиксирует дату его возвращения в совет после перерыва 2016-2019 годов."
+        },
+        {
+          "url": "https://abreview.ru/ab/news/sollers_avto_prodana_top_menedzhmentu/",
+          "title": "«Соллерс Авто» продана топ-менеджменту",
+          "fact": "Отраслевое СМИ подтверждает идентичность Виктора Хвесени как заместителя генерального директора Sollers Auto по правовым вопросам."
+        }
+      ],
+      "notes": "Идентичность подтверждена полным ФИО, юридическим профилем, образованием БГУ/Case Western и должностью в Sollers. Найденная правовая библиографическая запись на naukaprava.ru не включена как научная публикация без независимой привязки к исследовательскому профилю. Исключены однофамильцы и похожие юридические/ORCID-профили без Sollers-якорей. Ревизия качества (2026-08-02): ранее отмеченная в заметках неопределенность («точная непрерывность требует сверки») по членству в совете директоров разрешена повторным полнотекстовым чтением годовых отчетов за 2016 и 2019 годы — установлено два отдельных периода членства (2010-2016 и с 2019 года по настоящее время), запись в JSON разделена соответственно. GICS-классификация организации Amedia исправлена с Media на Entertainment: в 2005-2009 годах компания была прежде всего продюсерской студией телесериалов, а не вещательной/издательской/рекламной компанией, которую отражает категория Media в таксономии."
+    },
+    {
+      "name": "Elena Nishanova",
+      "current_role": "Investor Relations Contact; Head of Corporate Reporting and Investor Relations",
+      "company_name": "ПАО «СОЛЛЕРС»",
+      "education": [
+        {
+          "institution": "Поволжский государственный университет сервиса",
+          "program": null,
+          "year": null,
+          "description": "Официальные отчеты эмитента указывают образование в Поволжском технологическом институте сервиса, г. Тольятти; название нормализовано к текущему официальному названию преемника — Поволжский государственный университет сервиса.",
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ОАО «АВТОВАЗ»",
+          "role": "бухгалтер",
+          "start_year": 2000,
+          "end_year": 2006,
+          "description": "Ранний опыт, указанный в официальном квартальном отчете Sollers.",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Automobiles & Components",
+          "industry": "Automobiles"
+        },
+        {
+          "organization": "ОАО/ПАО «СОЛЛЕРС» / «СОЛЛЕРС Авто»",
+          "role": "руководитель корпоративной отчетности и связей с инвесторами, финансовая дирекция",
+          "start_year": 2007,
+          "end_year": null,
+          "description": "Официальные отчеты эмитента указывают эту роль с 2007 года.",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Automobiles & Components",
+          "industry": "Automobiles"
+        },
+        {
+          "organization": "ООО «СОЛЛЕРС-ФИНАНС»",
+          "role": "член совета директоров",
+          "start_year": 2012,
+          "end_year": 2020,
+          "description": "Указано в официальном отчете эмитента.",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Financial Services (New Name)"
+        },
+        {
+          "organization": "ПАО «УАЗ»",
+          "role": "руководитель корпоративной отчетности",
+          "start_year": 2015,
+          "end_year": 2016,
+          "description": "Указано в официальном отчете эмитента.",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Automobiles & Components",
+          "industry": "Automobiles"
+        },
+        {
+          "organization": "ООО «УАЗ»",
+          "role": "руководитель корпоративной отчетности",
+          "start_year": 2016,
+          "end_year": 2019,
+          "description": "Указано в официальном отчете эмитента.",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Automobiles & Components",
+          "industry": "Automobiles"
+        },
+        {
+          "organization": "ПАО «СОЛЛЕРС»",
+          "role": "член ревизионной комиссии",
+          "start_year": 2014,
+          "end_year": 2023,
+          "description": "Официальное раскрытие 2014 года называет ее кандидатом в ревизионную комиссию; отчет об итогах голосования на годовом общем собрании акционеров 30.06.2023 подтверждает ее фактическое избрание в состав ревизионной комиссии ПАО «СОЛЛЕРС» (наряду с Неклюдовой Е.В. и Остолоповой Е.Н.), с результатом голосования «за» 99.998%. Ревизия качества (2026-08-02): факт добавлен при повторном полнотекстовом чтении уже процитированного отчета голосования; более поздние по годам подтверждения между 2014 и 2023 годами не найдены, конечный год 2023 отражает последнее подтвержденное избрание, а не установленное завершение полномочий.",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Automobiles & Components",
+          "industry": "Automobiles"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Elena Nishanova for ticker SVAV as Investor Relations Contact."
+        },
+        {
+          "url": "https://sollers-auto.com/upload/iblock/61f/qdp7yxyct1i30r22c6rg2jdi4q0hvlgr.pdf",
+          "title": "Отчет об итогах голосования на годовом общем собрании акционеров 30.06.2023",
+          "fact": "Официальный отчет голосования 2023 года подтверждает избрание Нишановой Елены Юрьевны в состав ревизионной комиссии ПАО «СОЛЛЕРС» (вместе с Неклюдовой Е.В. и Остолоповой Е.Н.), с результатом голосования «за» 99.998%. Новый источник, впервые прочитан в этом раунде (2026-08-02, ранее был процитирован только для других персон записи)."
+        },
+        {
+          "url": "https://sollers-auto.com/upload/iblock/7e7/cbqyaftguyp9rgxoxfjav097yt1mepli.pdf",
+          "title": "Отчет эмитента эмиссионных ценных бумаг ПАО «СОЛЛЕРС Авто»",
+          "fact": "Официальный отчет эмитента идентифицирует Нишанову Елену Юрьевну, 1978 г.р.; образование: Поволжский технологический институт сервиса, г. Тольятти (нормализовано как Поволжский государственный университет сервиса); роли: руководитель корпоративной отчетности и связей с инвесторами в Sollers, член совета директоров ООО «СОЛЛЕРС-ФИНАНС», руководитель корпоративной отчетности в УАЗ."
+        },
+        {
+          "url": "https://sollers-auto.com/upload/iblock/d61/efehbq2za8r2pu8tdk4k35vo3kursiei.pdf",
+          "title": "Ежеквартальный отчет ОАО «СОЛЛЕРС»",
+          "fact": "Более ранний официальный отчет указывает то же полное ФИО, 1978 г.р., образование в Поволжском технологическом институте сервиса, опыт бухгалтера в АВТОВАЗ в 2000-2006 годах и с 2007 года работу в Sollers как руководителя корпоративной отчетности и связей с инвесторами."
+        },
+        {
+          "url": "https://sollers-auto.com/upload/iblock/705/ke8wqm49rlkazo0665yh42l3sdig92dx.pdf",
+          "title": "Сообщение об отдельных решениях, принятых Советом директоров",
+          "fact": "Официальное раскрытие 2014 года указывает Нишанову Елену Юрьевну как кандидата в ревизионную комиссию."
+        },
+        {
+          "url": "https://sollers-auto.com/press-center/news/oao-sollers-provelo-godovoe-obshchee-sobranie-aktsionerov/",
+          "title": "ОАО «СОЛЛЕРС» провело годовое общее собрание акционеров",
+          "fact": "Официальная новость Sollers сообщает об избрании Нишановой Елены Юрьевны в ревизионную комиссию и называет ее руководителем корпоративной отчетности и связей с инвесторами."
+        },
+        {
+          "url": "https://www.marketscreener.com/insider/ELENA-NISHANOVA-A1QLXK/",
+          "title": "Elena Nishanova: Positions, Relations and Network - MarketScreener",
+          "fact": "Вторичный профиль связывает Elena Nishanova с Sollers PJSC как Head-Corporate Reporting & Investor Relations / Investor Relations Contact."
+        },
+        {
+          "url": "https://www.theofficialboard.com/biography/elena-nishanova-212e4",
+          "title": "Elena Nishanova Bio - Sollers Finance & Reporting",
+          "fact": "The Official Board указывает Elena Nishanova как Head of Corporate Finance and Reporting at Sollers; источник использован как слабое подтверждение текущей функции."
+        }
+      ],
+      "notes": "Идентичность подтверждена полным русским ФИО, англоязычным вариантом, годом рождения 1978 и функциональной областью corporate reporting / investor relations в Sollers. Прямой официальный источник за 2024 год, называющий ее IR contact, не найден; текущая роль поддержана CSV и вторичными рыночными профилями, а историческая роль надежно подтверждена официальными отчетами. Образование подтверждено только на уровне института; программа/специальность/год выпуска не найдены. Ревизия качества (2026-08-02): добавлен факт членства в ревизионной комиссии, подтвержденный отчетом голосования ГОСА 30.06.2023 (ранее в записи фигурировала только кандидатура 2014 года). Прямой официальный источник за 2024/2025 год, называющий ее IR contact, по-прежнему не найден; попытка гэп-фоллоуапа в этом раунде была ограничена: WebSearch был недоступен в сессии (исчерпан лимит в 200 запросов), поэтому свежие поисковые запросы не выполнялись — вместо этого использовалось повторное чтение уже процитированных и вновь обнаруженных первичных документов (местные PDF компании, отчет голосования ГОСА 2023). Гэп остается открытым для будущей сессии с доступом к веб-поиску."
+    },
+    {
+      "name": "Lyudmila Viktorovna Afanasyeva",
+      "current_role": "Comptroller/Controller/Auditor; Chief Accountant",
+      "company_name": "ПАО «СОЛЛЕРС»",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ОАО «Заволжский моторный завод»",
+          "role": "главный бухгалтер",
+          "start_year": 2007,
+          "end_year": null,
+          "description": "Официальный квартальный отчет ЗМЗ за I квартал 2007 года указывает Афанасьеву Людмилу Викторовну, 1961 г.р., главным бухгалтером; связь с последующей ролью в Sollers высоковероятна по ФИО, году рождения, бухгалтерской функции и группе/отрасли.",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Automobiles & Components",
+          "industry": "Automobile Components (New Name)"
+        },
+        {
+          "organization": "ОАО/ПАО «СОЛЛЕРС»",
+          "role": "главный бухгалтер",
+          "start_year": 2014,
+          "end_year": 2018,
+          "description": "Официальные квартальные отчеты Sollers 2014-2017 годов подписаны главным бухгалтером Л.В. Афанасьевой и указывают полное ФИО, год рождения 1961 и должность. Дополнительная ревизия (2026-08-03): отчетность ПАО «СОЛЛЕРС» за 2018 год указывает, что Л.В. Афанасьева была главным бухгалтером с 01.01.2018 по 23.07.2018, а с 24.07.2018 эту роль заняла Е.Н. Редина; год окончания установлен как 2018. Годовые отчеты за 2023 и 2024 годы подписаны уже Л.А. Михеевой, что дополнительно подтверждает отсутствие 2024-роли Афанасьевой.",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Automobiles & Components",
+          "industry": "Automobiles"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Lyudmila Viktorovna Afanasyeva for ticker SVAV as Comptroller/Controller/Auditor."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/SVAV/4.1 Годовой отчет 2025 без приложений.pdf",
+          "title": "Локальный годовой отчет ПАО «СОЛЛЕРС» за 2024 год (утвержден 2025 г.)",
+          "fact": "Ревизия качества: титульный лист локального PDF-файла извлечен через pdftotext и подписан главным бухгалтером Л.А. Михеевой, а не Афанасьевой Л.В.; тот же результат независимо дает отдельно полученный годовой отчет ПАО «СОЛЛЕРС» за 2023 год (утвержден 2024 г., ZIP с официального сайта sollers-auto.com). Это читаемый источник, показывающий, что должность главного бухгалтера Sollers перешла к другому человеку."
+        },
+        {
+          "url": "https://reportcollection.inion.ru/reports/download/?reportId=4461",
+          "title": "Отчетность ПАО «СОЛЛЕРС» за 2018 год",
+          "fact": "Страница 35: отчетность указывает, что главным бухгалтером с 01.01.2018 по 23.07.2018 была Людмила Викторовна Афанасьева, а с 24.07.2018 — Редина Елена Николаевна; на этом основании end_year роли Афанасьевой в Sollers установлен как 2018."
+        },
+        {
+          "url": "https://sollers-auto.com/upload/iblock/10e/e5e9mohsivnqj7cbrkkd595377ccsz8b.pdf",
+          "title": "Ежеквартальный отчет ПАО «СОЛЛЕРС» за 4 квартал 2017 г.",
+          "fact": "Официальный отчет подписан главным бухгалтером Л.В. Афанасьевой; раздел о подписавших указывает Афанасьеву Людмилу Викторовну, 1961 г.р., основное место работы ПАО «СОЛЛЕРС», должность главный бухгалтер."
+        },
+        {
+          "url": "https://sollers-auto.com/upload/iblock/3ac/stmfv1bmeendrisw4zf7flmphlnnogis.pdf",
+          "title": "Ежеквартальный отчет ПАО «СОЛЛЕРС» за 4 квартал 2015 г.",
+          "fact": "Официальный отчет содержит тот же идентификационный шаблон: Афанасьева Людмила Викторовна, 1961 г.р., ПАО «СОЛЛЕРС», главный бухгалтер."
+        },
+        {
+          "url": "https://data.cbonds.info/organisations_reports/3648/2007_1.pdf",
+          "title": "Ежеквартальный отчет ОАО «Заволжский моторный завод» за I квартал 2007 г.",
+          "fact": "Отчет ЗМЗ указывает Афанасьеву Людмилу Викторовну, 1961 г.р., главным бухгалтером."
+        },
+        {
+          "url": "https://www.marketscreener.com/insider/LYUDMILA-VIKTOROVNA-AFANASYEVA-A1UJB7/",
+          "title": "Lyudmila Viktorovna Afanasyeva: Positions, Relations and Network - MarketScreener",
+          "fact": "Вторичный профиль идентифицирует ее как Comptroller/Controller/Auditor и Chief Accountant в Sollers PJSC."
+        },
+        {
+          "url": "https://markets.businessinsider.com/stocks/svav-stock",
+          "title": "SOLLERS Stock Price / SVAV Stock Quote - Markets Insider",
+          "fact": "Вторичный рыночный профиль указывает Lyudmila Viktorovna Afanasyeva как Chief Accountant в менеджменте Sollers."
+        }
+      ],
+      "notes": "Существенная неопределенность: образование не найдено, а официальный источник за 2024 год с ее именем не обнаружен. Связь с Sollers подтверждена историческими официальными отчетами и текущими вторичными рыночными профилями. Исключены однофамильцы: академик/доцент КнАГУ, Google Scholar профиль из Курска, маркетинговые/LinkedIn профили и регистрационные совпадения без Sollers-якорей. Ревизия качества (2026-08-02): впервые извлечен читаемый текст локальных PDF годовых отчетов за 2023 и 2024 годы (ранее недоступных из-за отсутствия PDF-инструментов) — оба подписаны другим главным бухгалтером (Л.А. Михеева), что означает уход Афанасьевой с должности до этой даты. Дополнительная ревизия (2026-08-03): отчетность за 2018 год прямо закрывает роль Афанасьевой датой 23.07.2018; end_year установлен как 2018. Образование по-прежнему не найдено после свежего поиска."
+    },
+    {
+      "name": "Vladislav Baumgertner",
+      "current_role": "Director/Board Member",
+      "company_name": "ПАО «СОЛЛЕРС»",
+      "education": [
+        {
+        "institution": "Уральский федеральный университет имени первого Президента России Б.Н. Ельцина",
+          "program": "Электрические станции",
+          "year": 1994,
+        "description": "Окончил УГТУ по специальности «электрические станции»; institution нормализован к текущему преемнику УГТУ — Уральский федеральный университет имени первого Президента России Б.Н. Ельцина.",
+          "qualification_degree": null
+        },
+        {
+          "institution": "University of London",
+          "program": "Financial management",
+          "year": null,
+          "description": "Получил степень магистра / master's degree по финансовому менеджменту.",
+          "qualification_degree": "Master's degree"
+        },
+        {
+        "institution": "Kingston University",
+          "program": "MBA",
+          "year": null,
+        "description": "Получил MBA в Kingston Business School; institution нормализован к Kingston University.",
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Master's degree",
+          "field": "Financial management",
+          "year": null,
+          "description": "Степень в области финансового менеджмента через University of London.",
+          "qualification_degree": "Master's degree"
+        },
+        {
+          "degree": "MBA",
+          "field": "Business administration",
+          "year": null,
+          "description": "MBA Kingston Business School.",
+          "qualification_degree": "MBA"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ABB",
+          "role": "senior management roles",
+          "start_year": null,
+          "end_year": 2003,
+          "description": "До перехода в Уралкалий занимал руководящие должности в ABB.",
+          "sector": "Industrials",
+          "industry_group": "Capital Goods",
+          "industry": "Electrical Equipment"
+        },
+        {
+          "organization": "Уралкалий",
+          "role": "коммерческий директор; президент; генеральный директор; член совета директоров",
+          "start_year": 2003,
+          "end_year": null,
+          "description": "В 2003 году пришел в Уралкалий коммерческим директором, в апреле 2004 года стал президентом, с 2004 года член совета директоров, в 2005 году назначен генеральным директором.",
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Chemicals"
+        },
+        {
+          "organization": "Global Ports",
+          "role": "Chief Executive Officer",
+          "start_year": 2015,
+          "end_year": 2017,
+          "description": "Официальная страница Global Ports подтверждает назначение CEO; вторичный профиль указывает период 2015-2017.",
+          "sector": "Industrials",
+          "industry_group": "Transportation",
+          "industry": "Transportation Infrastructure"
+        },
+        {
+          "organization": "Alevo Group SA",
+          "role": "Chief Executive Officer",
+          "start_year": 2017,
+          "end_year": null,
+          "description": "Роль подтверждена вторичными и новостными источниками; точные даты требуют дополнительной сверки.",
+          "sector": "Industrials",
+          "industry_group": "Capital Goods",
+          "industry": "Electrical Equipment"
+        },
+        {
+          "organization": "ПАО «СОЛЛЕРС»",
+          "role": "член совета директоров",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Официальная новость и отчет голосования 2023 года подтверждают избрание в совет директоров.",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Automobiles & Components",
+          "industry": "Automobiles"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Vladislav Baumgertner for ticker SVAV as Director/Board Member."
+        },
+        {
+          "url": "https://sollers-auto.com/press-center/news/pao-sollers-provelo-obshchee-godovoe-sobranie-aktsionerov-1/",
+          "title": "ПАО «СОЛЛЕРС» провело годовое собрание акционеров",
+          "fact": "Официальная новость Sollers сообщает, что ГОСА 30.06.2023 избрало совет директоров, включая независимого директора Баумгертнера Владислава Артуровича."
+        },
+        {
+          "url": "https://www.sollers-auto.com/upload/iblock/61f/qdp7yxyct1i30r22c6rg2jdi4q0hvlgr.pdf",
+          "title": "Годовое общее собрание акционеров / Отчет об итогах голосования, 30.06.2023",
+          "fact": "Официальный отчет голосования 2023 года перечисляет Баумгертнера Владислава Артуровича среди избранных членов совета директоров."
+        },
+        {
+          "url": "https://www.uralkali.com/ru/press_center/press_releases/item232/",
+          "title": "Новые кадровые назначения в компании «Уралкалий»",
+          "fact": "Официальный источник Уралкалия сообщает: Баумгертнер родился 21.01.1972 в Екатеринбурге; в 1994 году окончил УГТУ по специальности «электрические станции»; получил степень по финансовому менеджменту через University of London и MBA Kingston Business School; работал в ABB; в 2003 пришел в Уралкалий, в 2004 стал президентом, был членом совета директоров, назначен генеральным директором."
+        },
+        {
+          "url": "https://www.globalports.com/en/news-and-media/press-releases-and-news/201508172/",
+          "title": "Global Ports Investments PLC appoints Vladislav Baumgertner as Chief Executive Officer",
+          "fact": "Официальная страница Global Ports подтверждает назначение Владислава Баумгертнера Chief Executive Officer."
+        },
+        {
+          "url": "https://www.powersystemsdesign.com/articles/alevo-to-open-advanced-battery-tech-industrial-park-in-concord-north-carolina/34/8112",
+          "title": "Alevo to open advanced battery-tech industrial park In Concord, North Carolina",
+          "fact": "Power Systems Design описывает Alevo Group как energy service provider / vertically integrated manufacturer, который производит батарейную технологию и GridBanks для систем накопления энергии; на этом основании GICS для Alevo классифицирован как Industrials / Capital Goods / Electrical Equipment."
+        },
+        {
+          "url": "https://www.interfax.ru/business/898764",
+          "title": "Экс-гендиректор «Уралкалия» Баумгертнер рекомендован в совет директоров «Соллерса»",
+          "fact": "Interfax сообщает, что бывший гендиректор Уралкалия и бывший CEO Global Ports Владислав Баумгертнер был рекомендован кандидатом в совет директоров Sollers в мае 2023 года."
+        },
+        {
+          "url": "https://www.marketscreener.com/insider/VLADISLAV-BAUMGERTNER-A0LC2T/",
+          "title": "Vladislav Baumgertner: Positions, Relations and Network",
+          "fact": "Вторичный профиль идентифицирует Vladislav Arturovich Baumgertner как Director/Board Member at Sollers PJSC с 2023-06-29 и повторяет образование и карьерные связи."
+        }
+      ],
+      "notes": "Идентичность подтверждена полным ФИО, английским вариантом, связкой Уралкалий/Global Ports/Sollers и официальным избранием в совет 2023 года. Встречающиеся варианты «Баумгартнер» трактовались как возможные орфографические варианты, но каноническая форма в источниках Sollers и Uralkali — «Баумгертнер». Научный профиль, публикации, патенты и h-index не подтверждены. Ревизия качества (2026-08-02): исправлена GICS-классификация организации Global Ports с Marine Transportation (New Name) на Transportation Infrastructure — Global Ports Investments PLC является оператором контейнерных терминалов (портовая инфраструктура в России и Финляндии), а не морским перевозчиком/судоходной компанией, которую отражает категория Marine Transportation в таксономии."
+    },
+    {
+      "name": "Adil Shamil Ogly Shirinov",
+      "current_role": "Chairman of the Board of Directors",
+      "company_name": "ПАО «СОЛЛЕРС»",
+      "education": [
+        {
+          "institution": "Нижегородский государственный лингвистический университет имени Н.А. Добролюбова",
+          "program": null,
+          "year": 1990,
+          "description": "Окончил Нижегородский институт иностранных языков; institution нормализован к текущему названию — Нижегородский государственный лингвистический университет имени Н.А. Добролюбова.",
+          "qualification_degree": null
+        },
+        {
+          "institution": "Международный институт менеджмента (IMISP)",
+          "program": "MBA",
+          "year": null,
+          "description": "Получил MBA / дополнительное управленческое образование в Международном институте менеджмента, Санкт-Петербург (IMISP); institution нормализован к Международный институт менеджмента (IMISP).",
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "MBA",
+          "field": "Business administration",
+          "year": null,
+          "description": "MBA Международного института менеджмента, Санкт-Петербург.",
+          "qualification_degree": "MBA"
+        },
+        {
+          "degree": "Candidate of Economic Sciences",
+          "field": "Economics",
+          "year": 2023,
+          "description": "Приказ КФУ от 11.01.2024 о выдаче дипломов соискателям ученой степени указывает Ширинова Адиля Шамиль оглы среди соискателей, которым выдается диплом кандидата экономических наук; репозиторий КФУ содержит автореферат его кандидатской диссертации 2023 года.",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "OTIS Elevators",
+          "role": "management roles",
+          "start_year": 1993,
+          "end_year": 1998,
+          "description": "Ранний управленческий опыт, указанный в годовом отчете Sollers.",
+          "sector": "Industrials",
+          "industry_group": "Capital Goods",
+          "industry": "Machinery"
+        },
+        {
+          "organization": "Ford Motor Company",
+          "role": "management roles",
+          "start_year": 1999,
+          "end_year": 2002,
+          "description": "Работал в Ford Motor Company до перехода в российские автопроекты.",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Automobiles & Components",
+          "industry": "Automobiles"
+        },
+        {
+          "organization": "РусПромАвто",
+          "role": "management roles",
+          "start_year": 2002,
+          "end_year": 2004,
+          "description": "Указано в годовом отчете Sollers как часть карьерной истории.",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Automobiles & Components",
+          "industry": "Automobiles"
+        },
+        {
+          "organization": "SOLLERS / Ford Sollers / УАЗ / Aurus",
+          "role": "руководящие должности",
+          "start_year": 2004,
+          "end_year": null,
+          "description": "С 2004 года связан с Sollers; был президентом и CEO Ford Sollers, генеральным директором УАЗ, генеральным директором Aurus, руководил связанными проектами. Ревизия качества (2026-08-02), уточнено при повторном полнотекстовом чтении годового отчета за 2019 год: в сентябре 2004 года принят на должность коммерческого директора ПАО «СОЛЛЕРС»; в сентябре 2006 года назначен генеральным директором ООО «СОЛЛЕРС-ЕЛАБУГА»; в феврале 2010 года также назначен генеральным директором ООО «ДЦ Турин-Авто» и ОАО «СОЛЛЕРС-Набережные Челны»; работает в СП Ford Sollers с момента его основания в 2011 году как исполнительный директор и первый вице-президент, а 6 июля 2017 года назначен президентом и CEO этого СП; в мае 2019 года назначен генеральным директором ООО «Ульяновский автомобильный завод».",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Automobiles & Components",
+          "industry": "Automobiles"
+        },
+        {
+          "organization": "ПАО «СОЛЛЕРС»",
+          "role": "член совета директоров; председатель совета директоров",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Официальный отчет эмитента указывает членство в совете с 2019 года и председательство с 2022 года; официальный релиз 2024 года подтверждает роль председателя совета директоров.",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Automobiles & Components",
+          "industry": "Automobiles"
+        }
+      ],
+      "research_experience": [
+        {
+          "type": "business/economics article",
+          "title": "Система единого бизнес-пространства как инновационная модель экономической безопасности производственного предприятия",
+          "year": 2023,
+          "description": "Статья в «Казанском экономическом вестнике» с аффилиацией А.Ш. Ширинова как председателя совета директоров ПАО «СОЛЛЕРС». Не использовано для h-index."
+        },
+        {
+          "type": "candidate dissertation",
+          "title": "Система единого бизнес-пространства как инновационная модель экономической безопасности производственного предприятия",
+          "year": 2023,
+          "description": "КФУ указывает автореферат диссертации на соискание ученой степени кандидата экономических наук; приказ КФУ от 11.01.2024, приложение 1, страница 5, подтверждает выдачу Ширинову Адилю Шамиль оглы диплома кандидата экономических наук. Добавлено как research_experience и degree, без h-index."
+        }
+      ],
+      "publications": [
+        {
+          "title": "Система единого бизнес-пространства как инновационная модель экономической безопасности производственного предприятия",
+          "year": 2023,
+          "source": "Казанский экономический вестник №1 (63), 2023",
+          "description": "Публикация включена только как идентифицированная статья с явной привязкой автора к роли председателя совета директоров Sollers; научная степень и h-index не подтверждены."
+        }
+      ],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Adil Shamil Ogly Shirinov for ticker SVAV as Chairman."
+        },
+        {
+          "url": "https://www.sollers-auto.com/en/press-center/news-and-events/sollers-auto-pjsc-held-a-general-annual-shareholders-meeting/",
+          "title": "SOLLERS Auto PJSC held a general annual shareholders meeting",
+          "fact": "Официальный релиз Sollers сообщает, что в 2022 году Адиль Ширинов был избран председателем совета директоров."
+        },
+        {
+          "url": "https://sollers-auto.com/upload/iblock/9ee/jac2lmpiqp8f3etxdaybox3tt3p37fjr.pdf",
+          "title": "Сообщение об отдельных решениях, принятых советом директоров",
+          "fact": "Официальное раскрытие от 04.07.2022 сообщает об избрании Ширинова Адиля Шамильевича председателем совета директоров."
+        },
+        {
+          "url": "https://sollers-auto.com/upload/iblock/059/2zrm7alxerb30aklte49xap3dszm27j7.pdf",
+          "title": "Отчет эмитента эмиссионных ценных бумаг ПАО «СОЛЛЕРС»",
+          "fact": "Официальный отчет эмитента указывает Ширинова Адиля Шамиль Оглы, 1964 г.р.; образование: Нижегородский институт иностранных языков и MBA IMISP; член совета директоров с 2019 года, председатель с 2022 года; роли в Aurus, UAZ, Sollers Service Management, Sollers Engine Production, Sollers Cargo."
+        },
+        {
+          "url": "https://sollers-auto.com/press-center/news/gruppa-sollers-pristupila-k-seriynomu-vypusku-srednetonnazhnykh-gruzovykh-avtomobiley/",
+          "title": "Группа СОЛЛЕРС приступила к серийному выпуску среднетоннажных грузовых автомобилей",
+          "fact": "Официальный релиз Sollers 26.11.2024 идентифицирует Адиля Ширинова как председателя совета директоров ПАО «СОЛЛЕРС»."
+        },
+        {
+          "url": "https://www.sollers-auto.com/press-center/news/generalnym-direktorom-ulyanovskogo-avtomobilnogo-zavoda-naznachen-adil-shirinov/",
+          "title": "Генеральным директором Ульяновского автомобильного завода назначен Адиль Ширинов",
+          "fact": "Официальный релиз Sollers сообщает о назначении Адиля Ширинова генеральным директором УАЗ в 2019 году, подтверждает карьерные якоря Ford Motor Company, RusPromAuto, Ford Sollers и образование в Нижегородском институте иностранных языков и IMISP MBA."
+        },
+        {
+          "url": "https://reportcollection.inion.ru/reports/download/?reportId=4463",
+          "title": "Годовой отчет ПАО «СОЛЛЕРС» за 2019 год",
+          "fact": "Годовой отчет содержит биографию: родился в 1964 году в Баку; образование; 1993-1998 OTIS Elevators; 1999-2002 Ford Motor Company; RusPromAuto; с 2004 Sollers; Ford Sollers CEO с 2017; УАЗ CEO с мая 2019. При повторном полнотекстовом чтении (2026-08-02, извлечение через pdfplumber) извлечены точные даты: коммерческий директор Sollers с сентября 2004, ген. директор Sollers-Елабуга с сентября 2006, ген. директор ДЦ Турин-Авто и Sollers-Набережные Челны с февраля 2010, президент и CEO Ford Sollers с 6 июля 2017, ген. директор УАЗ с мая 2019 — упоминания кандидатской или иной ученой степени в этом отчете НЕ найдено (гэп-фоллоуап по кандидатской степени, см. notes)."
+        },
+        {
+          "url": "https://media.ford.com/content/fordmedia/feu/nl/nl/news/2018/05/31/ford-sollers-starts-production-of-the-new-ford-ecosport-small-su.html",
+          "title": "Ford Sollers Starts Production Of The New Ford EcoSport",
+          "fact": "Ford media page identifies Adil Shirinov as president and CEO, Ford Sollers, in 2018."
+        },
+        {
+          "url": "https://kpfu.ru/portal/docs/F509586780/KEV.1_2023._1_.pdf",
+          "title": "Казанский экономический вестник №1 (63), 2023",
+          "fact": "Журнал указывает А.Ш. Ширинова, председателя совета директоров ПАО «СОЛЛЕРС», автором статьи «Система единого бизнес-пространства как инновационная модель экономической безопасности производственного предприятия»."
+        },
+        {
+          "url": "https://dspace.kpfu.ru/xmlui/handle/net/184912",
+          "title": "Система единого бизнес-пространства как инновационная модель экономической безопасности производственного предприятия",
+          "fact": "Репозиторий КФУ содержит автореферат диссертации Ширинова Адиля Шамиль оглы на соискание ученой степени кандидата экономических наук по специальности 5.2.6 Менеджмент."
+        },
+        {
+          "url": "https://kpfu.ru/portal/docs/F_1681310203/11.01.2024_01_03_11_o.vydache.diplomov.pdf",
+          "title": "Приказ КФУ от 11.01.2024 № 01-03/11 о выдаче дипломов соискателям ученой степени",
+          "fact": "Приложение 1, страница 5: в разделе «Соискатели ученой степени кандидата наук, которым выдается диплом кандидата экономических наук» указан Ширинов Адиль Шамиль оглы, Российская Федерация, совет КФУ.052.3, дата защиты 22.09.2023, решение №14."
+        }
+      ],
+      "notes": "Официальные источники используют варианты «Шамиль Оглы/оглы» и «Шамильевич»; они отнесены к одному человеку по роли в Sollers, карьерной цепочке Ford Sollers/UAZ/Aurus, году рождения 1964 и образованию. Ревизия качества (2026-08-02) не смогла закрыть гэп по кандидатской степени из-за недоступного WebSearch; дополнительная проверка 2026-08-03 нашла автореферат диссертации в репозитории КФУ и приказ КФУ от 11.01.2024 о выдаче дипломов, где Ширинов указан как соискатель, которому выдается диплом кандидата экономических наук. Степень добавлена как Candidate of Economic Sciences / Doctoral degree; h-index, ORCID, Scopus и патенты по-прежнему не подтверждены. Попутно уточнена карьерная хронология в Sollers/Ford Sollers/УАЗ с точными датами (см. professional_experience и обновленный источник reportId=4463)."
+    },
+    {
+      "name": "Goy Tatiana",
+      "current_role": "Director/Board Member",
+      "company_name": "ПАО «СОЛЛЕРС»",
+      "education": [
+        {
+          "institution": "Самарский государственный экономический университет",
+          "program": "Бухгалтерский учет и аудит",
+          "year": null,
+          "description": "Официальный отчет эмитента указывает Самарскую государственную экономическую академию по направлению бухгалтерский учет и аудит; institution нормализован к Самарский государственный экономический университет.",
+          "qualification_degree": null
+        },
+        {
+          "institution": "Association of Chartered Certified Accountants (ACCA)",
+          "program": "Professional qualification",
+          "year": null,
+          "description": "Официальный отчет эмитента указывает ACCA; institution нормализован к Association of Chartered Certified Accountants (ACCA).",
+          "qualification_degree": "Professional certification"
+        },
+        {
+          "institution": "WHU – Otto Beisheim School of Management",
+          "program": "MBA",
+          "year": 2021,
+          "description": "Официальный отчет эмитента указывает MBA Kellogg-WHU; программа Northwestern commencement подтверждает имя Tatyana Goy в Kellogg-WHU с датой присуждения 17.12.2021; institution нормализован к WHU – Otto Beisheim School of Management.",
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "MBA",
+          "field": "Business administration",
+          "year": 2021,
+          "description": "MBA Kellogg-WHU.",
+          "qualification_degree": "MBA"
+        },
+        {
+          "degree": "ACCA",
+          "field": "Accounting",
+          "year": null,
+          "description": "Профессиональная квалификация ACCA; не преобразовывалась в университетскую степень.",
+          "qualification_degree": "Professional certification"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "Ford Sollers / Sollers Ford",
+          "role": "Chief Financial Officer",
+          "start_year": 2017,
+          "end_year": null,
+          "description": "Interfax и профессиональные профили связывают Татьяну Гой с ролью CFO Ford Sollers; подробные даты частично опираются на слабые профили.",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Automobiles & Components",
+          "industry": "Automobiles"
+        },
+        {
+          "organization": "УАЗ",
+          "role": "заместитель генерального директора",
+          "start_year": null,
+          "end_year": null,
+          "description": "Interfax называет ее заместителем генерального директора УАЗ.",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Automobiles & Components",
+          "industry": "Automobiles"
+        },
+        {
+          "organization": "ПАО «СОЛЛЕРС»",
+          "role": "член совета директоров",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Официальные релизы Sollers подтверждают включение в совет директоров с 2022 года; MarketScreener указывает активную позицию с 2022-09-25.",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Automobiles & Components",
+          "industry": "Automobiles"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Goy Tatiana for ticker SVAV as Director/Board Member."
+        },
+        {
+          "url": "https://sollers-auto.com/press-center/news/pao-sollers-avto-provelo-vneocherednoe-obshchee-sobranie-aktsionerov/",
+          "title": "ПАО «СОЛЛЕРС Авто» провело внеочередное общее собрание акционеров",
+          "fact": "Официальный релиз Sollers сообщает, что после ВОСА 26.09.2022 в совет директоров вошла Гой Татьяна Владимировна."
+        },
+        {
+          "url": "https://sollers-auto.com/press-center/news/pao-sollers-provelo-obshchee-godovoe-sobranie-aktsionerov-1/",
+          "title": "ПАО «СОЛЛЕРС» провело годовое собрание акционеров",
+          "fact": "Официальный релиз Sollers сообщает, что в совет директоров 2023 года входила Гой Татьяна Владимировна."
+        },
+        {
+          "url": "https://sollers-auto.com/upload/iblock/059/2zrm7alxerb30aklte49xap3dszm27j7.pdf",
+          "title": "Отчет эмитента эмиссионных ценных бумаг ПАО «СОЛЛЕРС»",
+          "fact": "Официальный отчет эмитента идентифицирует Гой Татьяну Владимировну, 1978 г.р.; образование: Самарская государственная экономическая академия, бухгалтерский учет и аудит; ACCA; MBA Kellogg-WHU."
+        },
+        {
+          "url": "https://www.interfax.ru/business/865152",
+          "title": "Акционеры «Соллерс Авто» вернули компании прежнее название",
+          "fact": "Interfax описывает Татьяну Гой как заместителя генерального директора УАЗ и финансового директора Sollers Ford, а также как одного из новых членов совета директоров в 2022 году."
+        },
+        {
+          "url": "https://www.marketscreener.com/insider/GOY-TATIANA-A3NJ2B/",
+          "title": "Goy Tatiana: Positions, Relations and Network - MarketScreener",
+          "fact": "Вторичный профиль указывает Goy Tatiana как Director/Board Member at Sollers PJSC с активной позицией от 2022-09-25."
+        },
+        {
+          "url": "https://www.northwestern.edu/graduation/images/pdfs/3223-studaff-commencement-program-june2022pdf-pages.pdf",
+          "title": "Northwestern University 164th Annual Commencement Program",
+          "fact": "Программа commencement Northwestern University указывает Tatyana Goy в Kellogg-WHU at Otto Beisheim School of Management, дата присуждения 17.12.2021; это подтверждает MBA-факт совместно с отчетом эмитента."
+        },
+        {
+          "url": "https://theorg.com/org/ford-sollers-holding-llc/org-chart/tatyana-goy",
+          "title": "Tatyana Goy - Chief Financial Officer Sollers Ford at Ford Sollers Holding LLC",
+          "fact": "Слабый профессиональный профиль указывает роль CFO Ford Sollers и более ранние финансовые роли; использован только как вспомогательный источник."
+        }
+      ],
+      "notes": "Идентичность подтверждена полным ФИО Гой Татьяна Владимировна, английским вариантом Tatyana/Goy, Ford Sollers finance role, UAZ role и MBA Kellogg-WHU. Социальные профили и академические профили похожих имен отклонены. Детальная карьерная хронология до Ford Sollers частично опирается на слабые профессиональные профили и поэтому не расширялась сверх подтвержденного."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "https://sollers-auto.com/upload/iblock/61f/qdp7yxyct1i30r22c6rg2jdi4q0hvlgr.pdf",
+      "title": "Отчет об итогах голосования на годовом общем собрании акционеров 30.06.2023",
+      "fact": "Официальный отчет голосования 2023 года подтверждает избрание в совет директоров Николая Соболева, Зои Каики, Виктора Хвесени, Адиля Ширинова и Владислава Баумгертнера; Гой Татьяна была подтверждена релизами 2022/2023."
+    },
+    {
+      "url": "https://sollers-auto.com/press-center/news/pao-sollers-provelo-obshchee-godovoe-sobranie-aktsionerov-1/",
+      "title": "ПАО «СОЛЛЕРС» провело годовое собрание акционеров",
+      "fact": "Официальная новость Sollers о ГОСА 30.06.2023 перечисляет состав совета директоров, включая Баумгертнера, Соболева, Хвесеню, Каику, Ширинова и Гой."
+    },
+    {
+      "url": "https://sollers-auto.com/upload/iblock/33d/iw5muw3yaugyvbeh61ljmnj3ys58hlf9.pdf",
+      "title": "Сообщение о проведении ГОСА по итогам 2023 г.",
+      "fact": "Официальное сообщение указывает, что ГОСА 24.06.2024 включало в повестку избрание совета директоров; сам отчет голосования за 2024 год найден как .doc, но не прочитан текущими инструментами."
+    },
+    {
+      "url": "https://sollers-auto.com/press-center/news/gruppa-sollers-pristupila-k-seriynomu-vypusku-srednetonnazhnykh-gruzovykh-avtomobiley/",
+      "title": "Группа СОЛЛЕРС приступила к серийному выпуску среднетоннажных грузовых автомобилей",
+      "fact": "Официальный релиз Sollers от 26.11.2024 называет Адиля Ширинова председателем совета директоров ПАО «СОЛЛЕРС», подтверждая 2024 контекст председателя."
+    },
+    {
+      "url": "https://sollers-auto.com/press-center/news/pao-sollers-obyavlyaet-finansovye-rezultaty-po-msfo-za-2024-god/",
+      "title": "ПАО «СОЛЛЕРС» объявляет финансовые результаты по МСФО за 2024 год",
+      "fact": "Официальный релиз по финансовым результатам 2024 года называет Николая Соболева генеральным директором ПАО «СОЛЛЕРС»."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/SVAV/4.1 Годовой отчет 2025 без приложений.pdf",
+      "title": "Локальный годовой отчет ПАО «СОЛЛЕРС» за 2024 год без приложений",
+      "fact": "Страница 1: локальный PDF годового отчета за 2024 год подписан генеральным директором Н.А. Соболевым и главным бухгалтером Л.А. Михеевой; страницы 1-2 подтверждают название ПАО «СОЛЛЕРС» и описание компании как ведущей российской автомобилестроительной компании. Фамилий членов совета директоров в извлеченном тексте этого краткого файла нет."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/SVAV/Приложения к ГО/4.2 Приложение 1 к годовому отчету_Отчет о соблюдении Кодекса корпоративного управления 2025.docx.pdf",
+      "title": "Локальный отчет о соблюдении Кодекса корпоративного управления",
+      "fact": "Локальный PDF приложения ККУ найден, проверен через pdftotext и релевантен SVAV; искомых ФИО из CSV в извлеченном тексте не найдено, поэтому файл не использован как самостоятельный источник биографических фактов."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://sollers-auto.com/information-disclosure/reporting/",
+      "title": "Отчетность ПАО «СОЛЛЕРС»",
+      "fact": "Официальная страница отчетности Sollers содержит годовую и финансовую отчетность за 2024 год."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/SVAV/АЗ+Отчетность Группа Соллерс 2024.pdf",
+      "title": "Локальная аудированная отчетность Группы Соллерс за 2024 год",
+      "fact": "Файл найден среди локальных документов SVAV; использован как проверенный локальный релевантный документ, но не как источник биографических фактов."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/SVAV/Приложения к ГО/4.4 Приложение 3 к годовому отчету_Нефинансовый отчет ПАО.pdf",
+      "title": "Локальный нефинансовый отчет ПАО",
+      "fact": "Файл найден среди локальных документов SVAV; использован как проверенный локальный релевантный документ, но не как источник биографических фактов."
+    }
+  ],
+  "validation_notes": "Обработано 8 уникальных людей из 11 строк CSV по SVAV: CEO Николай Соболев вынесен в поле ceo, остальные 7 человек включены в tmt. Проверено 4 локальных документа в MOEXBMI_Отчеты_2024/SVAV; из-за отсутствия pdfinfo/pdftotext/mutool/qpdf/pdf-библиотек и невозможности установить инструменты без пароля локальные PDF не дали постраничного текста, поэтому фактические биографические цитаты взяты из официальных онлайн-версий отчетов Sollers, старых отчетов эмитента, отчетов прежних работодателей и деловых источников. Выполнен 1 основной research round по каждому человеку, дополненный отдельными Agent 1-проходами; суммарно проверено более 100 содержательно разных запросов и более 30 доменов. Образование не подтверждено только у Людмилы Афанасьевой. Существенная неопределенность остается по Людмиле Афанасьевой (нет образования и нет официального источника 2024 года с именем) и Елене Нишановой (нет прямого официального источника 2024 года для IR contact, хотя историческая функция подтверждена официально). Слабые источники использованы только для текущих/вспомогательных ролей Нишановой, Афанасьевой, Гой и частично для дат Alevo/Global Ports Баумгертнера; ключевые факты образования и основной карьеры по Соболеву, Каике, Хвесене, Ширинову, Баумгертнеру и Гой подтверждены официальными отчетами или источниками прежних работодателей. Официальный отчет голосования ГОСА 24.06.2024 найден как .doc на странице Sollers, но не был прочитан текущими инструментами; состав совета директоров подтвержден официальными источниками 2022-2023, текущими CSV/рыночными профилями и отдельными релизами 2024 года. Исключены однофамильцы: медиаперсонаж Николай Соболев и историк с тем же ФИО; академические/ORCID совпадения по Хвесене; Maria Kaika и Зоя Борисовна Каика; социальные и академические профили Tatiana Goy без Sollers/Ford anchors; академик Людмила Афанасьева из КнАГУ и другие однофамильцы; профили Elena Nishanova с другими отчествами/географией; ORCID/исторические/социальные совпадения по Баумгертнеру и Ширинову. Поиск считается завершенным, потому что по каждому человеку выполнены отдельные поиски образования, предыдущего опыта, назначений, профессиональных биографий и научных данных; новые проходы дали только слабые или уже дублирующие источники, а оставшиеся пробелы зависят от недоступного .doc или отсутствия публичных данных.\n\nВТОРОЙ ПРОХОД - REVISION QUALITY PASS (2026-08-02): git-HEAD базовая сверка выполнена перед правками - расхождений/регрессии не найдено (текущий файл идентичен git HEAD по содержанию). В этой сессии PDF-инструменты (pdfplumber/pypdf/fitz/pdftotext) оказались доступны, в отличие от предыдущих раундов, что впервые позволило прочитать локальные годовые отчеты SVAV за 2023-2025 годы и повторно прочитать уже процитированные онлайн-отчеты за 2016 и 2019 годы. Ключевые находки: (1) исправлена ошибочно продублированная запись professional_experience Соболева (финансовый директор 2005-2009 годов ранее содержал описание назначения CEO); (2) разделена запись УАЗ Соболева на роль директора по экономике и финансам (2002-2005) и роль члена совета директоров (2002-2011, дольше, чем считалось); (3) исправлен год начала членства Соболева в совете директоров Sollers с необоснованных 2005 на 2006 (по точной дате 2006-06-08 в CSV Comment); (4) разрешена генуинная нестыковка по членству Хвесени в совете директоров, явно отмеченная как \"Contradictions\" в заметках раунда 1 - повторное чтение годовых отчетов 2016 и 2019 годов подтвердило, что членство прерывалось (2010-2016, затем 2019-настоящее время), а не было непрерывным; (5) добавлен факт членства Нишановой в ревизионной комиссии (2014 кандидатура, 2023 избрание), впервые прочитан отчет голосования ГОСА 2023 применительно к ней; (6) впервые извлечен читаемый текст локальных годовых отчетов Sollers за 2024/2025 годы - обнаружено, что главным бухгалтером в них указана Л.А. Михеева, а не Афанасьева, что означает завершение роли Афанасьевой в период между 2017 и 2023-2024 годами (точный год не установлен); (7) исправлены 2 GICS-метки: Amedia (Хвесеня) Media -> Entertainment (продюсерская студия, а не вещательная компания), Global Ports (Баумгертнер) Marine Transportation (New Name) -> Transportation Infrastructure (оператор портовых терминалов, а не морской перевозчик). Рассмотрено и отклонено как несущественное: расхождение CSV Comment (2012-12-31) vs официальных отчетов (2013) для начала членства Каики в совете директоров - дата 31 декабря признана вероятным дефолтным значением биржевых данных, а не реальной датой ГОСА.\n\nТРЕТИЙ ПРОХОД - CODEX VALIDATION PASS (2026-08-03): обработан только SVAV как единственный тикер без quality_pass-маркера. Исправлена JSON-синтаксическая ошибка в validation_notes; все 110 output-файлов снова читаются. Повторно проверены 4 локальных PDF: годовой отчет ПАО «СОЛЛЕРС» за 2024 год извлекается через pdftotext и на странице 1 подтверждает Н.А. Соболева как генерального директора и Л.А. Михееву как главного бухгалтера; страницы 1-2 также подтверждают, что Sollers является автомобилестроительной компанией. Свежий веб-поиск закрыл часть прежних гэпов: роль Афанасьевой в Sollers закрыта 2018 годом по отчетности ПАО «СОЛЛЕРС» за 2018 год (с 24.07.2018 главным бухгалтером стала Е.Н. Редина), а кандидатская степень Ширинова подтверждена репозиторием КФУ и приказом КФУ от 11.01.2024 о выдаче дипломов кандидата наук. Нишанова дополнительно проверена по запросам 2024/2025: официальный 2024-источник IR-роли не найден, роль остается подтвержденной CSV, официальными историческими отчетами и вторичными профилями. Нормализованы названия вузов SVAV к university_names.json; старое название Поволжского технологического института сервиса перенесено в варианты канонического Поволжского государственного университета сервиса. Исправлен десинхрон GICS: профессиональный опыт по очевидным автомобилестроительным, компонентным, металлургическим, химическим, медийным, юридическим, промышленным и портово-инфраструктурным работодателям классифицирован по gics_taxonomy.json. Остались только 2 all-null GICS-тройки: Гродненская областная коллегия адвокатов и военная прокуратура, потому что это адвокатская/государственная структура без надежной GICS-классификации. Полный разбор - в research_notes/SVAV/quality_pass_round1_20260803.md.",
+  "sector": "Consumer Discretionary",
+  "industry_group": "Automobiles & Components",
+  "industry": "Automobiles"
+}

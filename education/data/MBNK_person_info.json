@@ -1,0 +1,261 @@
+{
+  "company_name": "ПАО \"МТС-Банк\"",
+  "company_ticker": "MBNK",
+  "ceo": {
+    "name": "Иссопов Эдуард Александрович",
+    "current_role": "Председатель Правления ПАО \"МТС-Банк\" с 3 декабря 2024 года",
+    "company_name": "ПАО \"МТС-Банк\"",
+    "education": [
+      {
+        "institution": "Финансовый университет при Правительстве Российской Федерации",
+        "program": "Финансы и кредит",
+        "qualification": "экономист",
+        "year": 1992,
+        "description": "Окончил Московский финансовый институт по специальности \"Финансы и кредит\"; источники также называют Государственную финансовую академию. Институт нормализован к канонической форме из university_names.json (качественный проход, раунд 1, 2026-07-30): раунд 2 уже решил нормализовать это поле, но правка не попала в JSON -- исправлено сейчас, источник факта не менялся.",
+        "qualification_degree": "Specialist degree"
+      },
+      {
+        "institution": "École des Ponts ParisTech / University of Bristol / IESE Business School (Universidad de Navarra)",
+        "program": "Executive MBA",
+        "qualification": "Executive MBA",
+        "year": 1998,
+        "description": "Профессиональная программа Executive MBA. Официальный релиз МТС Банка 2024 года называет Ecole nationale des ponts et chaussees, Бристольский университет и IESE; более ранние источники называют не все эти организации, поэтому запись не разделена на отдельные степени. Институт нормализован к канонической форме из university_names.json (качественный проход, раунд 1, 2026-07-30): раунд 2 уже решил нормализовать это поле, но правка не попала в JSON -- исправлено сейчас, источник факта не менялся.",
+        "qualification_degree": "MBA"
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "Внешторгбанк РСФСР / СССР",
+        "role": "Различные должности в Управлении экономического анализа и прогнозирования",
+        "start_year": 1991,
+        "end_year": 1993,
+        "description": "По годовому отчету МТС Банка за 2018 год работал с 15.07.1991 по 15.06.1993; официальный релиз МТС Банка 2024 года указывает, что банковскую карьеру начал во Внешторгбанке в 1991 году.",
+        "sector": "Financials",
+        "industry_group": "Banks",
+        "industry": "Banks"
+      },
+      {
+        "organization": "Международный Московский Банк / ЮниКредит Банк",
+        "role": "Различные должности; член Правления и руководитель розничного бизнеса",
+        "start_year": 1993,
+        "end_year": 2012,
+        "description": "В 1993-2006 годах занимал различные должности в Международном Московском Банке; с 17.10.2006 по 22.05.2012 был членом Правления и руководителем розничного бизнеса. Годовой отчет UniCredit Bank за 2012 год подтверждает, что в 2012 году совет директоров принял его отставку из Правления.",
+        "sector": "Financials",
+        "industry_group": "Banks",
+        "industry": "Banks"
+      },
+      {
+        "organization": "Россельхозбанк",
+        "role": "Член Правления, заместитель Председателя Правления",
+        "start_year": 2012,
+        "end_year": 2015,
+        "description": "По годовому отчету МТС Банка за 2018 год работал в Россельхозбанке с 24.05.2012 по 12.03.2015; независимые event/professional sources подтверждают роль заместителя председателя правления в 2013-2014 годах.",
+        "sector": "Financials",
+        "industry_group": "Banks",
+        "industry": "Banks"
+      },
+      {
+        "organization": "Банк \"Восточный Экспресс\"",
+        "role": "Коммерческий директор",
+        "start_year": 2015,
+        "end_year": 2015,
+        "description": "Годовой отчет МТС Банка за 2018 год указывает работу с 16.04.2015 по 24.08.2015; архивная новость Ассоциации российских банков подтверждает назначение коммерческим директором в 2015 году.",
+        "sector": "Financials",
+        "industry_group": "Banks",
+        "industry": "Banks"
+      },
+      {
+        "organization": "ПАО \"МТС-Банк\"",
+        "role": "Вице-президент, руководитель розничного бизнеса",
+        "start_year": 2015,
+        "end_year": 2016,
+        "description": "Официальные источники МТС Банка указывают назначение заместителем председателя правления и членом правления в 2016 году; он курировал розничный бизнес и развитие банковских продуктов.",
+        "sector": "Financials",
+        "industry_group": "Banks",
+        "industry": "Banks"
+      },
+      {
+        "organization": "ПАО \"МТС-Банк\"",
+        "role": "Заместитель Председателя Правления, член Правления",
+        "start_year": 2016,
+        "end_year": 2020,
+        "description": "Официальные источники МТС Банка указывают назначение заместителем председателя правления и членом правления в 2016 году; он курировал розничный бизнес и развитие банковских продуктов.",
+        "sector": "Financials",
+        "industry_group": "Banks",
+        "industry": "Banks"
+      },
+      {
+        "organization": "ПАО \"МТС-Банк\"",
+        "role": "Первый заместитель Председателя Правления",
+        "start_year": 2020,
+        "end_year": 2024,
+        "description": "Официальная биография МТС Банка указывает назначение первым заместителем председателя правления в августе 2020 года.",
+        "sector": "Financials",
+        "industry_group": "Banks",
+        "industry": "Banks"
+      },
+      {
+        "organization": "ПАО \"МТС-Банк\"",
+        "role": "Председатель Правления",
+        "start_year": 2024,
+        "end_year": null,
+        "description": "Совет директоров МТС Банка назначил Эдуарда Иссопова председателем правления с 3 декабря 2024 года; локальная финансовая отчетность за 2024 год подписана им как председателем правления 4 марта 2025 года.",
+        "sector": "Financials",
+        "industry_group": "Banks",
+        "industry": "Banks"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "CSV row 338 lists MBNK, ПАО \"МТС-Банк\", Иссопов Эдуард Александрович, position: Председатель правления."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/MBNK/Годовой отчет МТС Банка 2024.pdf",
+        "title": "Годовой отчет МТС Банка 2024",
+        "fact": "Report pages 80/81-82/83: personal data of board and management-board members are not disclosed; the Management Board and the Chairman of the Management Board manage current operations."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/MBNK/MTSB IFRS FS 1224_short_r-processed_.pdf",
+        "title": "ПАО «МТС-Банк». Обобщенная публикуемая консолидированная финансовая отчетность за год, закончившийся 31 декабря 2024 года",
+        "fact": "Document page 3: statements were signed on 4 March 2025 by E.A. Issopov as Chairman of the Management Board."
+      },
+      {
+        "url": "https://www.mtsbank.ru/o-banke/novosti/detail/1151077/",
+        "title": "Эдуард Иссопов назначен Председателем Правления МТС Банка",
+        "fact": "MTS Bank reported that its Board of Directors appointed Eduard Issopov Chairman of the Management Board effective 3 December 2024; the release includes his 1992 financial education, Executive MBA, and career chronology."
+      },
+      {
+        "url": "https://www.mtsbank.ru/o-banke/novosti/detail/315847/",
+        "title": "Эдуард Иссопов назначен заместителем Председателя Правления МТС Банка",
+        "fact": "MTS Bank reported in February 2016 that Issopov was approved as Deputy Chairman of the Management Board; the release says he joined in November 2015 as Vice President and Head of Retail Business and gives prior career and education."
+      },
+      {
+        "url": "https://www.mtsbank.ru/upload/static/investor-relations/fin_results/docs/annual-report-2018-rus.pdf",
+        "title": "Годовой отчет МТС Банка за 2018 год",
+        "fact": "Pages 26-27 contain a profile of E.A. Issopov with 1970 birth year, education, and detailed career dates from Vneshtorgbank through MTS Bank."
+      },
+      {
+        "url": "https://www.fa.ru/university/alumni/bank/",
+        "title": "Выпускники Финансового университета: Банковская деятельность",
+        "fact": "Financial University identifies Eduard Issopov as a 1992 Moscow Financial Institute graduate in Finance and Credit with economist qualification and lists his UniCredit, Russian Agricultural Bank, and MTS Bank roles."
+      },
+      {
+        "url": "https://www.unicreditbank.ru/content/dam/cee2020-pws-ru/issuer-reports/annual-reports/ucb_annual_2012_en.pdf",
+        "title": "ZAO UniCredit Bank Annual Report 2012",
+        "fact": "UniCredit Bank's 2012 annual report states that the Board accepted Eduard Issopov's resignation from the Management Board in 2012."
+      },
+      {
+        "url": "https://volga.news/article/286645.html",
+        "title": "Ритейл - двигатель банковского бизнеса",
+        "fact": "2013 event report identifies Eduard Issopov as Deputy Chairman of the Management Board of Russian Agricultural Bank."
+      },
+      {
+        "url": "https://grmos.ru/news/edvard-issopov",
+        "title": "Эдвард Иссопов: «Из-за нестабильной ситуации в стране люди стали чаще задумываться о накоплениях»",
+        "fact": "2014 professional event page identifies Eduard Issopov as Deputy Chairman of the Board of Rosselkhozbank."
+      },
+      {
+        "url": "https://arb.ru/b2b/press/_-9907927/",
+        "title": "Банк «Восточный Экспресс»: Эдуард Иссопов назначен коммерческим директором",
+        "fact": "Association of Russian Banks archived press release confirms the 2015 appointment as commercial director of Vostochny Express Bank."
+      },
+      {
+        "url": "https://www.vedomosti.ru/events/speakers/issopov-eduard-8044",
+        "title": "Ведомости: Эдуард Иссопов",
+        "fact": "Professional profile corroborates education, MBA, previous banking roles, MTS Bank appointment in 2024, and later post-2024 fintech context."
+      },
+      {
+        "url": "https://bosfera.ru/dossier/eduard-issopov",
+        "title": "Эдуард Иссопов | Банковское обозрение",
+        "fact": "Professional dossier corroborates education, Executive MBA, and career sequence from Vneshtorgbank to MTS Bank."
+      },
+      {
+        "url": "https://www.forbes.ru/profile/555637-eduard-issopov",
+        "title": "Эдуард Иссопов | Forbes",
+        "fact": "Forbes profile identifies Eduard Issopov as Chairman of MTS Bank Management Board and summarizes his education and career."
+      },
+      {
+        "url": "https://www.opensanctions.org/entities/NK-eguywqGDjaurZR36CnUizp/",
+        "title": "OpenSanctions: карточка сущности",
+        "fact": "Ukrainian-transliteration patronymic-variant entity (\"Oleksandrovych\") matching the same person by identical education and career chronology; corroborates the Vneshtorgbank-to-MTS-Bank employment sequence through Chairman of the Management Board from 3 December 2024, adds no new degree/patent/research-metric fact."
+      }
+    ],
+    "notes": "Локальные документы за 2024 год не раскрывают персональный состав совета директоров и правления, но подтверждают структуру органов управления и подпись Э.А. Иссопова как председателя правления в отчетности, подписанной 4 марта 2025 года. Основное подтверждение назначения в 2024 году — официальный релиз МТС Банка от 2 декабря 2024 года. Образование 1992 года подтверждено также Финансовым университетом. Executive MBA сохранен как профессиональное образование с оговоркой: источники расходятся по полному набору школ. Научные публикации, патенты, h-index и исследовательские должности не подтверждены."
+  },
+  "tmt": [],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MBNK/Годовой отчет МТС Банка 2024.pdf",
+      "title": "Годовой отчет МТС Банка 2024",
+      "fact": "Report pages 78/79-82/83 describe the corporate governance structure, Board of Directors, Management Board, and Chairman of the Management Board; personal data of board and management-board members are withheld under Russian disclosure restrictions."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MBNK/MTSB IFRS FS 1224_short_r-processed_.pdf",
+      "title": "ПАО «МТС-Банк». Обобщенная публикуемая консолидированная финансовая отчетность за год, закончившийся 31 декабря 2024 года",
+      "fact": "Document page 3: E.A. Issopov signed the 2024 statements as Chairman of the Management Board on 4 March 2025."
+    },
+    {
+      "url": "https://www.mtsbank.ru/o-banke/novosti/detail/1151077/",
+      "title": "Эдуард Иссопов назначен Председателем Правления МТС Банка",
+      "fact": "Official MTS Bank release states that the Board of Directors appointed Eduard Issopov Chairman of the Management Board effective 3 December 2024."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV row 338 is the starting person list for MBNK."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MBNK/Годовой отчет МТС Банка 2024.pdf",
+      "title": "Годовой отчет МТС Банка 2024",
+      "fact": "Primary local annual report checked for MBNK governance, Management Board, Board of Directors, and disclosure restrictions."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MBNK/MTSB IFRS FS 1224_short_r-processed_.pdf",
+      "title": "ПАО «МТС-Банк». Обобщенная публикуемая консолидированная финансовая отчетность за 2024 год",
+      "fact": "Primary local financial statements checked for signatories and executive role confirmation."
+    },
+    {
+      "url": "https://www.mtsbank.ru/o-banke/novosti/detail/1151077/",
+      "title": "Эдуард Иссопов назначен Председателем Правления МТС Банка",
+      "fact": "Official company appointment and biography source."
+    },
+    {
+      "url": "https://www.mtsbank.ru/o-banke/novosti/detail/315847/",
+      "title": "Эдуард Иссопов назначен заместителем Председателя Правления МТС Банка",
+      "fact": "Official 2016 appointment and prior career source."
+    },
+    {
+      "url": "https://www.fa.ru/university/alumni/bank/",
+      "title": "Выпускники Финансового университета: Банковская деятельность",
+      "fact": "Institutional source for 1992 Moscow Financial Institute education and banking career overview."
+    },
+    {
+      "url": "https://www.unicreditbank.ru/content/dam/cee2020-pws-ru/issuer-reports/annual-reports/ucb_annual_2012_en.pdf",
+      "title": "ZAO UniCredit Bank Annual Report 2012",
+      "fact": "Previous-employer annual report confirming 2012 resignation from UniCredit Management Board."
+    },
+    {
+      "url": "https://arb.ru/b2b/press/_-9907927/",
+      "title": "Банк «Восточный Экспресс»: Эдуард Иссопов назначен коммерческим директором",
+      "fact": "Industry association source confirming Vostochny Express Bank appointment."
+    }
+  ],
+  "validation_notes": "Обработан 1 человек из CSV для MBNK; подтвержден как CEO-equivalent председатель правления в контексте 2024 года с 3 декабря 2024 года. Проверено 2 локальных документа: годовой отчет МТС Банка 2024 и обобщенная публикуемая консолидированная финансовая отчетность за 2024 год. Выполнен 1 research round; локальные документы изучены до веб-поиска. Людей без подтвержденного базового образования: 0. Существенная неопределенность: 0 для ключевой личности и роли; умеренная детализационная неопределенность остается по полному набору школ Executive MBA и по точному дню завершения работы в банке «Восточный Экспресс», что отражено в notes и не расширено сверх источников. Слабые источники вроде LETOPIS/Bosfera/Forbes использовались только как вспомогательное подтверждение, основные факты опираются на официальный сайт МТС Банка, локальные отчеты, Financial University и годовой отчет UniCredit. Персональные данные членов совета директоров и правления в локальном годовом отчете не раскрыты по российским ограничениям раскрытия; это не конфликтует с официальным назначением Иссопова. Проверены однофамильцы и научные профили: диссертации, академические публикации, патенты и h-index нужного человека не подтверждены. Поиск считается завершенным: выполнены отдельные проходы по локальным PDF, образованию, карьерной истории, назначениям, предыдущим работодателям, профессиональным профилям, LinkedIn/regulator/disclosure and science-profile checks; после второго прохода новых более сильных источников или противоречий не появилось. КАЧЕСТВЕННЫЙ ПРОХОД, РАУНД 1 (2026-07-30): найден и исправлен desync между заметками раунда 2 и JSON -- раунд 2 текстуально решил нормализовать оба institution в education[] к канонической форме из university_names.json, но правка не попала в файл; исправлено сейчас (education[0] -> \"Финансовый университет при Правительстве Российской Федерации\", education[1] -> \"École des Ponts ParisTech / University of Bristol / IESE Business School (Universidad de Navarra)\"), источники не менялись, факты не выдуманы. Genuine inconsistencies: не найдено ни одной (проверены все пункты \"Contradictions\" раунда 1 -- все либо day-level и не влияют на JSON, либо уже правильно разрешены). GICS: аудит company-level и всех 8 professional_experience -- все Financials/Banks/Banks, точное совпадение с gics_taxonomy.json, ошибок не найдено, ничего не менялось (весь карьерный путь -- банки). Honest-gap follow-up: h_index/degrees/research_experience/publications/patents оставлены null/empty без третьей попытки поиска -- раунд 2 уже явно закрыл вопрос как \"confirmed-absent for a career banking executive\" после собственного целевого прохода поверх 25+ запросов раунда 1; решение и уже исчерпанные формулировки запросов задокументированы в research_notes/MBNK/quality_pass_round1_20260730.md, чтобы будущий проход не повторял тот же угол. QUALITY-ПРОХОД, РАУНД 2 / SPOT-CHECK (2026-07-30): независимая ре-верификация раунда 1 качественного прохода. Найден и исправлен ещё один desync, пропущенный раундом 1: заметки раунда 2 (`Иссопов_Эдуард_Александрович_round_2.md`, раздел \"Web research this round\") явно утверждают, что был найден и добавлен корроборирующий источник OpenSanctions (https://www.opensanctions.org/entities/NK-eguywqGDjaurZR36CnUizp/, профиль под украинской транслитерацией отчества \"Oleksandrovych\", идентичность подтверждена совпадением образования и карьерной хронологии) -- но запись в `ceo.sources` фактически отсутствовала ни в `output/MBNK_person_info.json.bak_round2`, ни в текущем файле. Источник добавлен в `ceo.sources` сейчас по формату, уже используемому для OpenSanctions в других тикерах (CBOM/SBER: title \"OpenSanctions: карточка сущности\"); факт и URL взяты дословно из заметок раунда 2, новый источник не выдуман. Резервная копия состояния до этой правки: `output/MBNK_person_info.json.bak_qualitypass_round2`. Остальное перепроверено и совпадает с уже задокументированным раундом 1 качественного прохода: GICS-аудит (8/8 professional_experience + компания -- Financials/Banks/Banks, все организации -- реальные банки), qualification_degree в пределах фиксированного enum, education[] institution соответствуют канонической форме из university_names.json, ни один факт/источник/имя не удалены. Genuine inconsistencies повторно не найдено сверх уже правильно разрешённых раундом 1. Подробности see research_notes/MBNK/quality_pass_round2_20260730.md.",
+  "sector": "Financials",
+  "industry_group": "Banks",
+  "industry": "Banks"
+}

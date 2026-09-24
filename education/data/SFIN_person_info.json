@@ -1,0 +1,1190 @@
+{
+  "company_name": "ПАО \"ЭсЭфАй\"",
+  "company_ticker": "SFIN",
+  "ceo": {
+    "name": "Сидоров Игорь Анатольевич",
+    "current_role": "Генеральный директор ПАО \"ЭсЭфАй\"; член Совета директоров",
+    "company_name": "ПАО \"ЭсЭфАй\"",
+    "education": [
+      {
+        "program": "среднее специальное образование",
+        "university": null,
+        "field": null,
+        "year": null,
+        "sources": [
+          {
+            "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+            "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+            "fact": "Страницы 48-49: для Сидорова Игоря Анатольевича указано образование: среднее специальное / среднее, специальное."
+          }
+        ],
+        "qualification_degree": "Secondary education"
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "ПАО \"ЭсЭфАй\"",
+        "role": "Генеральный директор",
+        "start_year": 2022,
+        "end_year": null,
+        "description": "Отчет эмитента указывает работу генеральным директором с июля 2022 года; годовой отчет 2024 подтверждает, что в 2024 году Сидоров подписывает обращение и отчетность как генеральный директор.",
+        "sources": [
+          {
+            "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+            "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+            "fact": "Страницы 48-49: с 07.2022 по настоящее время - генеральный директор ПАО \"ЭсЭфАй\"."
+          },
+          {
+            "url": "MOEXBMI_Отчеты_2024/SFIN/SFI_годовой отчет_2024.pdf",
+            "title": "Годовой отчет ПАО \"ЭсЭфАй\" за 2024 год",
+            "fact": "Страница 14: обращение подписано Игорем Сидоровым как Генеральным директором ПАО \"ЭсЭфАй\"; страница 55: отчетность подписана Игорем Сидоровым как Генеральным директором."
+          },
+          {
+            "url": "https://www.marketscreener.com/quote/stock/SFI-64309650/company-governance/",
+            "title": "MarketScreener: SFI Governance",
+            "fact": "Раздел Composition of the Board of Directors lists Sidorov Igor Anatolyevich as Director/Board Member since 2022-09-29."
+          }
+        ],
+        "sector": "Financials",
+        "industry_group": "Financial Services (New Name)",
+        "industry": "Financial Services (New Name)"
+      },
+      {
+        "organization": "ПАО \"ЭсЭфАй\"",
+        "role": "Член Совета директоров",
+        "start_year": 2022,
+        "end_year": null,
+        "description": "Сидоров избран в Совет директоров после внеочередного собрания 8 сентября 2022 года; 2024 годовой отчет подтверждает девятичленный Совет директоров, а MarketScreener продолжает показывать его в составе Совета.",
+        "sources": [
+          {
+            "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+            "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+            "fact": "Страницы 38 и 48: Сидоров Игорь Анатольевич включен в новый состав Совета директоров; с 09.2022 по настоящее время - член Совета директоров."
+          },
+          {
+            "url": "https://www.marketscreener.com/quote/stock/SFI-64309650/company-governance/",
+            "title": "MarketScreener: SFI Governance",
+            "fact": "Раздел Composition of the Board of Directors lists Sidorov Igor Anatolyevich as Director/Board Member since 2022-09-29."
+          }
+        ],
+        "sector": "Financials",
+        "industry_group": "Financial Services (New Name)",
+        "industry": "Financial Services (New Name)"
+      },
+      {
+        "organization": "ООО \"Агентство недвижимости \\\"Сидоров и партнеры\\\"",
+        "role": "Учредитель",
+        "start_year": 2006,
+        "end_year": null,
+        "description": "Отчет эмитента указывает эту роль в перечне должностей/занятости Сидорова.",
+        "sources": [
+          {
+            "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+            "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+            "fact": "Страница 48: с 2006 по настоящее время - учредитель ООО \"Агентство недвижимости \\\"Сидоров и партнеры\\\"."
+          }
+        ],
+        "sector": "Real Estate",
+        "industry_group": "Real Estate Management & Development (New)",
+        "industry": "Real Estate Management & Development (New Code)"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "CSV contains SFIN row for Sidorov Igor Anatolyevich as Director/Board Member."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/SFIN/SFI_годовой отчет_2024.pdf",
+        "title": "Годовой отчет ПАО \"ЭсЭфАй\" за 2024 год",
+        "fact": "Страницы 14 и 55 подтверждают Сидорова как Генерального директора в контексте 2024 года."
+      },
+      {
+        "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+        "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+        "fact": "Содержит образование, карьерные сведения и членство в Совете директоров."
+      }
+    ],
+    "notes": "CEO определен по локальному годовому отчету 2024. Образовательная организация не раскрыта; поисковые сниппеты с иным образованием не использовались, так как прямой отчет эмитента указывает только среднее специальное образование. ROUND 2 (quality pass, 2026-08-01): qualification_degree=\"Secondary education\" applied to the среднее специальное запись (best-fit enum value for a stated secondary/specialized-secondary credential; no institution/level detail beyond this was found, own attempt: search for a named техникум/училище came up empty). GICS added to all three professional_experience entries: the two ПАО \"ЭсЭфАй\" entries copied verbatim from this file's own top-level sector/industry_group/industry (Financials/Financial Services (New Name)/Financial Services (New Name)); ООО \"Агентство недвижимости \\\"Сидоров и партнеры\\\" classified Real Estate/Real Estate Management & Development (New)/Real Estate Management & Development (New Code) as the closest taxonomy row for a real-estate agency (no separate \"real estate services\" row exists in gics_taxonomy.json)."
+  },
+  "tmt": [
+    {
+      "name": "Гольцман Антон Владимирович",
+      "current_role": "Председатель Совета директоров ПАО \"ЭсЭфАй\"; директор департамента по коммуникациям и связям с инвесторами; Investor Relations Contact; Public Communications Contact",
+      "company_name": "ПАО \"ЭсЭфАй\"",
+      "education": [
+        {
+          "program": "бакалавриат",
+          "university": "Национальный исследовательский университет \"Высшая школа экономики\"",
+          "field": "деловая и политическая журналистика",
+          "year": 2008,
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страницы 38-39: указано высшее образование в НИУ ВШЭ, отделение деловой и политической журналистики, бакалавриат (2008)."
+            }
+          ],
+          "qualification_degree": "Bachelor's degree"
+        },
+        {
+          "program": "магистратура",
+          "university": "Национальный исследовательский университет \"Высшая школа экономики\"",
+          "field": "менеджмент; маркетинговые коммуникации",
+          "year": 2008,
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страница 39: указана магистратура НИУ ВШЭ, факультет менеджмента, маркетинговые коммуникации; год передан как в источнике."
+            }
+          ],
+          "qualification_degree": "Master's degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ЭсЭфАй\"",
+          "role": "Директор департамента по коммуникациям и связям с инвесторами",
+          "start_year": 2018,
+          "end_year": null,
+          "description": "В 2022 году включен в Совет директоров и указан председателем; в годовом отчете 2024 обращение председателя Совета директоров подписано Антоном Гольцманом.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страница 39: с 01.2018 по настоящее время - директор департамента по коммуникациям и связям с инвесторами ПАО \"ЭсЭфАй\"."
+            },
+            {
+              "url": "MOEXBMI_Отчеты_2024/SFIN/SFI_годовой отчет_2024.pdf",
+              "title": "Годовой отчет ПАО \"ЭсЭфАй\" за 2024 год",
+              "fact": "Страница 13: обращение председателя Совета директоров подписано Антоном Гольцманом."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Financial Services (New Name)"
+        },
+        {
+          "organization": "ПАО \"ЭсЭфАй\"",
+          "role": "Член Совета директоров; Председатель Совета директоров",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "В 2022 году включен в Совет директоров и указан председателем; в годовом отчете 2024 обращение председателя Совета директоров подписано Антоном Гольцманом.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страница 38: Гольцман Антон Владимирович включен в новый состав Совета директоров; страница 39: указан как член и председатель Совета директоров."
+            },
+            {
+              "url": "MOEXBMI_Отчеты_2024/SFIN/SFI_годовой отчет_2024.pdf",
+              "title": "Годовой отчет ПАО \"ЭсЭфАй\" за 2024 год",
+              "fact": "Страница 13: обращение председателя Совета директоров подписано Антоном Гольцманом."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Financial Services (New Name)"
+        },
+        {
+          "organization": "АО \"БКС-Банк\"",
+          "role": "Директор департамента маркетинга малого бизнеса",
+          "start_year": 2017,
+          "end_year": 2017,
+          "description": "Должность указана в официальном отчете эмитента как январь 2017 - сентябрь 2017.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страница 39: 01.2017-09.2017 - директор департамента маркетинга малого бизнеса АО \"БКС-Банк\"."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains SFIN rows for Goltsman Anton Vladimirovich as Investor Relations Contact, Public Communications Contact and Director/Board Member."
+        },
+        {
+          "url": "https://www.marketscreener.com/quote/stock/SFI-64309650/company-governance/",
+          "title": "MarketScreener: SFI Governance",
+          "fact": "Lists Goltsman Anton Vladimirovich as Investor Relations Contact, Public Communications Contact and Director/Board Member since 2022-09-29."
+        },
+        {
+          "url": "https://smart-lab.ru/finansoviy-slovar/Anton-Golcman",
+          "title": "Smart-Lab: Антон Гольцман",
+          "fact": "Weak profile independently echoes HSE education and SFI/IR public profile; not used to expand beyond official issuer report."
+        }
+      ],
+      "notes": "Exact HSE master's year has a possible weak-source discrepancy; JSON follows official issuer report wording. Search result for a possible MIIGAiK academic namesake was rejected. ROUND 2 (quality pass, 2026-08-01): qualification_degree set to \"Bachelor's degree\"/\"Master's degree\" for the two HSE entries (explicit \"бакалавриат\"/\"магистратура\" wording already in the sourced program field, direct enum match). GICS added: both ПАО \"ЭсЭфАй\" entries copied from this file's own top-level fields (Financials/Financial Services (New Name)/Financial Services (New Name)); АО \"БКС-Банк\" classified Financials/Banks/Banks (BKS-Bank is a licensed Russian commercial bank, the banking arm of the BKS financial group). Fresh gap-follow-up attempt for the exact HSE master's completion year (query: \"Гольцман Антон\" ВШЭ магистратура 2010 2011, via WebFetch/DuckDuckGo since WebSearch quota was exhausted): no primary source found confirming an exact year beyond the official issuer report's own 2008 wording; still unresolved, left as-is."
+    },
+    {
+      "name": "Горбачев Михаил Валерьевич",
+      "current_role": "Начальник Службы корпоративного секретаря ПАО \"ЭсЭфАй\"; Corporate Secretary",
+      "company_name": "ПАО \"ЭсЭфАй\"",
+      "education": [
+        {
+          "program": "высшее образование",
+          "university": null,
+          "field": null,
+          "year": null,
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/SFIN/SFI_годовой отчет_2024.pdf",
+              "title": "Годовой отчет ПАО \"ЭсЭфАй\" за 2024 год",
+              "fact": "Страница 41: для Михаила Горбачева указано образование: высшее."
+            }
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ЭсЭфАй\"",
+          "role": "Начальник Службы корпоративного секретаря",
+          "start_year": 2016,
+          "end_year": null,
+          "description": "Годовой отчет 2024 указывает, что Михаил Горбачев занимает должность начальника службы корпоративного секретаря с января 2016 года по настоящее время.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/SFIN/SFI_годовой отчет_2024.pdf",
+              "title": "Годовой отчет ПАО \"ЭсЭфАй\" за 2024 год",
+              "fact": "Страница 41: профессиональный опыт - с января 2016 года по настоящее время начальник Службы корпоративного секретаря ПАО \"ЭсЭфАй\"."
+            },
+            {
+              "url": "https://ads-test.rusbonds.ru/news/20240605160010424718",
+              "title": "Rusbonds: ПАО \"ЭсЭфАй\" - решения годового общего собрания акционеров 05.06.2024",
+              "fact": "Строки 159-163: сообщение подписано Горбачевым Михаилом Валерьевичем как начальником Службы корпоративного секретаря."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Financial Services (New Name)"
+        },
+        {
+          "organization": "ОАО \"Мосэнерго\"",
+          "role": "Корпоративный секретарь / секретарь Совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "Источник Мосэнерго 2012 года называет Горбачева Михаила Валерьевича действующим корпоративным секретарем ОАО \"Мосэнерго\"; включено как вероятная прежняя профильная роль с учетом полного совпадения ФИО и специализации.",
+          "sources": [
+            {
+              "url": "https://www.mosenergo.ru/d/textpage/d0/208/2012.07.12-fact.pdf",
+              "title": "ОАО \"Мосэнерго\": решения Совета директоров, 2012",
+              "fact": "Документ сообщает об избрании Горбачева Михаила Валерьевича корпоративным секретарем / секретарем Совета директоров и называет его действующим корпоративным секретарем ОАО \"Мосэнерго\"."
+            }
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains SFIN row for Mikhail Gorbachev as Corporate Secretary."
+        },
+        {
+          "url": "https://www.marketscreener.com/quote/stock/SFI-64309650/company-governance/",
+          "title": "MarketScreener: SFI Governance",
+          "fact": "Lists Mikhail Gorbachev as Corporate Secretary since 2017-07-31."
+        }
+      ],
+      "notes": "Institution/field of higher education were not found. Academic profiles for a political-science Михаил Валерьевич Горбачев were rejected as likely namesakes and no h-index/publications were assigned. ROUND 2 (quality pass, 2026-08-01): qualification_degree set to \"Unknown\" for the sole education entry (higher education is confirmed but no level/title is stated anywhere in the source -- matches the corpus convention of using \"Unknown\" rather than guessing a specific degree level). GICS added: ПАО \"ЭсЭфАй\" copied from this file's own top-level fields; ОАО \"Мосэнерго\" classified Utilities/Utilities/Independent Power and Renewable Electricity Producers, matching the established corpus-wide precedent for ПАО \"Мосэнерго\" itself (16 identical occurrences across MSNG/FEES/MRKU/OGKB_person_info.json; note this is distinct from the separate legal entity \"Мосэнергосбыт\", which the corpus instead classifies as Electric Utilities -- this entry names Мосэнерго specifically). Fresh gap-follow-up attempt for the education institution/field (query: \"Горбачев Михаил Валерьевич\" ЭсЭфАй образование университет, via WebFetch/DuckDuckGo): surfaced only the already-rejected academic/political-science and other unrelated namesakes; still unresolved, left null."
+    },
+    {
+      "name": "Бойкова Татьяна Олеговна",
+      "current_role": "Член Совета директоров ПАО \"ЭсЭфАй\"",
+      "company_name": "ПАО \"ЭсЭфАй\"",
+      "education": [
+        {
+          "program": "высшее образование",
+          "university": "Финансовая академия при Правительстве РФ",
+          "field": "финансы и кредит; экономист",
+          "year": 1993,
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страница 40: высшее образование, Финансовая академия при Правительстве РФ, 1993, экономист, финансы и кредит."
+            }
+          ],
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ЭсЭфАй\"",
+          "role": "Член Совета директоров",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Официальный отчет эмитента и MarketScreener связывают Бойкову с Советом директоров SFI с сентября 2022 года.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страницы 38 и 40: Бойкова Татьяна Олеговна включена в новый состав Совета директоров; с 09.2022 по настоящее время - член Совета директоров."
+            },
+            {
+              "url": "https://www.marketscreener.com/quote/stock/SFI-64309650/company-governance/",
+              "title": "MarketScreener: SFI Governance",
+              "fact": "Lists Boikova Tatyana Olegovna as Director/Board Member since 2022-09-29."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Financial Services (New Name)"
+        },
+        {
+          "organization": "ООО \"Развитие\"",
+          "role": "Заместитель генерального директора - руководитель направления \"Промышленные активы\"",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Должность указана в официальном отчете эмитента.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страница 40: с 07.2022 по настоящее время - заместитель генерального директора, руководитель направления \"Промышленные активы\" ООО \"Развитие\"."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "АО \"Русский Уголь\"; АО \"КТК\"",
+          "role": "Член Совета директоров",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Обе роли указаны в официальном отчете эмитента как действующие с октября 2021 года.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страница 40: с 10.2021 по настоящее время - член Совета директоров АО \"Русский Уголь\" и АО \"КТК\"."
+            }
+          ],
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ООО \"МЛП\"",
+          "role": "Советник по корпоративным финансам",
+          "start_year": 2021,
+          "end_year": 2022,
+          "description": "Официальный отчет эмитента указывает эту роль с сентября 2021 по июнь 2022 года; ROUND 2 (quality pass, 2026-08-01): split out of a previously merged multi-organization professional_experience row (Связь-банк/ВЭБ/ГЛОБЭКС/Росгеология/МЛП combined into one row with a generic 2016-2022 range) into its own entry with round-1 research notes' specific date range, using the same already-cited source; no fact was lost, only regrouped for accuracy.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страницы 40-41: перечислены роли в МЛП, Росгеологии, Связь-банке, ВЭБ и ГЛОБЭКС; для ООО \"МЛП\" указан период 09.2021-06.2022, советник по корпоративным финансам."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "АО \"Росгеология\"",
+          "role": "Советник Генерального директора",
+          "start_year": 2019,
+          "end_year": 2020,
+          "description": "Официальный отчет эмитента указывает эту роль с октября 2019 по июнь 2020 года; ROUND 2 (quality pass, 2026-08-01): split out of the previously merged multi-organization row (see ООО \"МЛП\" entry note) into its own entry with round-1 research notes' specific date range, using the same already-cited source; no fact was lost, only regrouped for accuracy.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страницы 40-41: перечислены роли в МЛП, Росгеологии, Связь-банке, ВЭБ и ГЛОБЭКС; для АО \"Росгеология\" указан период 10.2019-06.2020, советник Генерального директора."
+            }
+          ],
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Energy Equipment & Services"
+        },
+        {
+          "organization": "ПАО АКБ \"Связь-банк\"",
+          "role": "Советник Президента - Председателя правления; член правления, заместитель Председателя правления",
+          "start_year": 2018,
+          "end_year": 2019,
+          "description": "Официальный отчет эмитента указывает советническую роль с августа по ноябрь 2018 года, затем членство в правлении/должность заместителя председателя правления с ноября 2018 по сентябрь 2019 года; ROUND 2 (quality pass, 2026-08-01): split out of the previously merged multi-organization row (see ООО \"МЛП\" entry note) into its own entry with round-1 research notes' specific date range, using the same already-cited source; no fact was lost, only regrouped for accuracy.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страницы 40-41: перечислены роли в МЛП, Росгеологии, Связь-банке, ВЭБ и ГЛОБЭКС; для ПАО АКБ \"Связь-банк\" указан период 08.2018-09.2019 (советник Президента-Председателя правления 08-11.2018; член правления, заместитель Председателя правления 11.2018-09.2019)."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "ГК Внешэкономбанк; АО КБ \"ГЛОБЭКС\"",
+          "role": "Советнические роли; советник Президента банка",
+          "start_year": 2016,
+          "end_year": 2018,
+          "description": "Официальный отчет эмитента указывает советнические роли в ВЭБ и ГЛОБЭКС в 2016-2018 годах; ARB list independently confirms role as advisor to President of Globex Bank. ROUND 2 (quality pass, 2026-08-01): split out of the previously merged multi-organization row (see ООО \"МЛП\" entry note) into its own entry with round-1 research notes' specific date range, using the same already-cited sources; no fact was lost, only regrouped for accuracy.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страницы 40-41: перечислены роли в МЛП, Росгеологии, Связь-банке, ВЭБ и ГЛОБЭКС; для ВЭБ/ГЛОБЭКС указан период 2016-2018."
+            },
+            {
+              "url": "https://old.arb.ru/cbr2018/spisok.php",
+              "title": "Ассоциация российских банков: список зарегистрированных",
+              "fact": "Список указывает Бойкову Татьяну Олеговну как советника Президента банка АО КБ \"ГЛОБЭКС\"."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains SFIN row for Boikova Tatyana Olegovna as Director/Board Member."
+        }
+      ],
+      "notes": "Scholar and other Tatyana Boikova/Boyko profiles were rejected as namesakes. Current 2024 non-SFI employment was not independently updated beyond official issuer biography and aggregator. ROUND 2 (quality pass, 2026-08-01): qualification_degree set to \"Specialist degree\" for the 1993 Financial Academy entry (qualification title \"экономист\" plus a pre-Bologna 1993 graduation year is the classic Soviet/Russian 5-year specialist-diploma pattern, matching this exact convention already used 445 times across the corpus, e.g. AFKS_person_info.json). GICS added/corrected: ПАО \"ЭсЭфАй\" copied from this file's own top-level fields; АО \"Русский Уголь\"/АО \"КТК\" classified Energy/Energy/Oil, Gas & Consumable Fuels (coal producers fall under GICS \"Oil, Gas & Consumable Fuels\", not Metals & Mining -- matches this exact corpus's own precedent for \"ПАО \\\"КТК\\\"\" in MRKP_person_info.json); АО \"Росгеология\" classified Energy/Energy/Energy Equipment & Services (matches this exact corpus's own precedent in ALRS_person_info.json; Rosgeologia is a state geological-exploration-services holding, not itself an oil/gas or metals producer); Связь-банк and ВЭБ/ГЛОБЭКС classified Financials/Banks/Banks (matches corpus-wide precedent: Внешэкономбанк is classified Banks 8 times across AFLT/ALRS/DELI/MOEX_person_info.json, and Globex/Sviaz-bank are both licensed commercial banks). The previously single merged professional_experience row covering Связь-банк/ВЭБ/ГЛОБЭКС/Росгеология/МЛП (generic role text, 2016-2022 range) was split into 4 separate rows using the specific per-organization dates and roles that round-1 research notes (Boikova_Tatyana_Olegovna_round_1.md) had already extracted from the same already-cited official issuer report pages 40-41 -- this is a depth correction, not new research: every fact in the new rows was already present in round-1 notes and the original entry's own source citation, just not reflected with full fidelity in the JSON's top-level organization/role/date fields. ООО \"Развитие\" (Industrial Assets division) GICS left null: a fresh gap-follow-up attempt (query: \"ООО Развитие\" \"Промышленные активы\" ЭсЭфАй, via WebFetch/DuckDuckGo) returned no results identifying this specific legal entity's line of business -- \"Развитие\" is too generic a company name to classify without a confirmed source; still unresolved. ООО \"МЛП\" GICS left null: a plausible hypothesis exists that this is the well-known Russian industrial/logistics real-estate developer \"MLP\", but a fresh search attempt (query: \"ООО Развитие\" A101 совет директоров; \"Бойкова Татьяна Олеговна\" A101 совет директоров) did not turn up a source confirming this specific ООО \"МЛП\" legal entity is that company -- left null rather than guess. Also attempted to verify round-1 notes' own uncited \"A101-related companies: board roles in 2021\" bullet (this phrase appears in Boikova_Tatyana_Olegovna_round_1.md's Professional experience list but has no corresponding source in that file's own \"Sources checked\" section, and is not mentioned in the official issuer report's page-40 citation used for the adjacent Русский Уголь/КТК entry) -- two fresh queries (\"Бойкова Татьяна Олеговна\" A101 совет директоров; \"Бойкова Татьяна Олеговна\" 2023 2024 должность) returned zero results connecting her to A101. Per the anti-fabrication rule, this fact was deliberately NOT added to the JSON since it cannot currently be traced to any checkable source; flagging it here as an uncited claim in the round-1 notes for a future pass to either source properly or discard, rather than silently carrying it forward. Current 2024 non-SFI employment status also remains unresolved after this round's fresh attempt (query: \"Бойкова Татьяна Олеговна\" 2023 2024 должность): no result found; still unresolved."
+    },
+    {
+      "name": "Власов Максим Александрович",
+      "current_role": "Член Совета директоров ПАО \"ЭсЭфАй\"",
+      "company_name": "ПАО \"ЭсЭфАй\"",
+      "education": [
+        {
+          "program": "высшее образование",
+          "university": "Российский государственный аграрный университет - МСХА им. К.А. Тимирязева",
+          "field": "бухгалтерский учет и аудит; экономист",
+          "year": 2005,
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страница 41: высшее образование, РГАУ-МСХА им. К.А. Тимирязева, 2005, экономист, бухгалтерский учет и аудит."
+            }
+          ],
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ЭсЭфАй\"",
+          "role": "Член Совета директоров; председатель Комитета по аудиту и рискам; член Комитета по вознаграждениям и номинациям",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Включен в Совет директоров с сентября 2022 года; комитетные роли указаны в отчете эмитента 2022.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страницы 41-42: с 09.2022 по настоящее время - член Совета директоров; также указаны комитетные роли."
+            },
+            {
+              "url": "https://www.marketscreener.com/quote/stock/SFI-64309650/company-governance/",
+              "title": "MarketScreener: SFI Governance",
+              "fact": "Lists Vlasov Maxim Alexandrovich as Director/Board Member since 2022-09-29."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Financial Services (New Name)"
+        },
+        {
+          "organization": "Сбербанк",
+          "role": "Начальник управления развития контрольной среды, финансовый блок",
+          "start_year": 2019,
+          "end_year": 2021,
+          "description": "Официальный отчет эмитента указывает эту роль с ноября 2019 по февраль 2021 года; ROUND 2 (quality pass, 2026-08-01): split out of a previously merged 6-organization professional_experience row (generic role text, 2015-2021 range) into its own entry with round-1 research notes' specific date range, using the same already-cited source; no fact was lost, only regrouped for accuracy.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страницы 41-42: перечислены должности в Сбербанке, Ангстрем-Т, СМП Банк / Парк Легенд, РГСУ, АКБ ДОМ.РФ / Российский Капитал и РК Строй; для Сбербанка указан период 11.2019-02.2021, начальник управления развития контрольной среды финансового блока."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "АО \"Ангстрем-Т\"",
+          "role": "Директор по финансовому контролю",
+          "start_year": 2019,
+          "end_year": 2019,
+          "description": "Официальный отчет эмитента указывает эту роль с августа по ноябрь 2019 года; ROUND 2 (quality pass, 2026-08-01): split out of the previously merged 6-organization row (see Сбербанк entry note) into its own entry with round-1 research notes' specific date range, using the same already-cited source; no fact was lost, only regrouped for accuracy.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страницы 41-42: перечислены должности в Сбербанке, Ангстрем-Т, СМП Банк / Парк Легенд, РГСУ, АКБ ДОМ.РФ / Российский Капитал и РК Строй; для Ангстрем-Т указан период 08.2019-11.2019, директор по финансовому контролю."
+            }
+          ],
+          "sector": "Information Technology",
+          "industry_group": "Semiconductors & Semiconductor Equipment",
+          "industry": "Semiconductors & Semiconductor Equipment"
+        },
+        {
+          "organization": "СМП Банк / \"Парк Легенд\"",
+          "role": "Финансовый директор",
+          "start_year": 2019,
+          "end_year": 2019,
+          "description": "Официальный отчет эмитента указывает эту роль с января по октябрь 2019 года как финансового директора девелоперского актива \"Парк Легенд\"; ROUND 2 (quality pass, 2026-08-01): split out of the previously merged 6-organization row (see Сбербанк entry note) into its own entry with round-1 research notes' specific date range, using the same already-cited source; no fact was lost, only regrouped for accuracy.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страницы 41-42: перечислены должности в Сбербанке, Ангстрем-Т, СМП Банк / Парк Легенд, РГСУ, АКБ ДОМ.РФ / Российский Капитал и РК Строй; для СМП Банк / Парк Легенд указан период 01.2019-10.2019, финансовый директор."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "РГСУ",
+          "role": "Заместитель директора по финансовому управлению",
+          "start_year": 2018,
+          "end_year": 2019,
+          "description": "Официальный отчет эмитента указывает эту роль с октября 2018 по февраль 2019 года; ROUND 2 (quality pass, 2026-08-01): split out of the previously merged 6-organization row (see Сбербанк entry note) into its own entry with round-1 research notes' specific date range, using the same already-cited source; no fact was lost, only regrouped for accuracy.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страницы 41-42: перечислены должности в Сбербанке, Ангстрем-Т, СМП Банк / Парк Легенд, РГСУ, АКБ ДОМ.РФ / Российский Капитал и РК Строй; для РГСУ указан период 10.2018-02.2019, заместитель директора по финансовому управлению."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "АКБ \"ДОМ.РФ\" / \"Российский Капитал\"",
+          "role": "Начальник управления финансового контроля",
+          "start_year": 2015,
+          "end_year": 2018,
+          "description": "Официальный отчет эмитента указывает эту роль с января 2015 по сентябрь 2018 года; ROUND 2 (quality pass, 2026-08-01): split out of the previously merged 6-organization row (see Сбербанк entry note) into its own entry with round-1 research notes' specific date range, using the same already-cited source; no fact was lost, only regrouped for accuracy.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страницы 41-42: перечислены должности в Сбербанке, Ангстрем-Т, СМП Банк / Парк Легенд, РГСУ, АКБ ДОМ.РФ / Российский Капитал и РК Строй; для АКБ ДОМ.РФ / Российский Капитал указан период 01.2015-09.2018, начальник управления финансового контроля."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "ООО \"РК Строй\"",
+          "role": "Заместитель финансового директора",
+          "start_year": 2015,
+          "end_year": 2018,
+          "description": "Официальный отчет эмитента указывает эту роль с сентября 2015 по сентябрь 2018 года (частично параллельно с ролью в АКБ ДОМ.РФ / Российский Капитал); ROUND 2 (quality pass, 2026-08-01): split out of the previously merged 6-organization row (see Сбербанк entry note) into its own entry with round-1 research notes' specific date range, using the same already-cited source; no fact was lost, only regrouped for accuracy.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страницы 41-42: перечислены должности в Сбербанке, Ангстрем-Т, СМП Банк / Парк Легенд, РГСУ, АКБ ДОМ.РФ / Российский Капитал и РК Строй; для РК Строй указан период 09.2015-09.2018, заместитель финансового директора."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains SFIN row for Vlasov Maxim Alexandrovich as Director/Board Member."
+        }
+      ],
+      "notes": "No research/publication facts confirmed. Search results for other Maxim Vlasov persons were rejected. ROUND 2 (quality pass, 2026-08-01): qualification_degree set to \"Specialist degree\" for the 2005 РГАУ-МСХА entry (qualification title \"экономист\", matching the corpus-wide convention for this exact wording; 2005 is within the period when accounting/economics specialist-track diplomas using this qualification title were still standard at Russian universities, distinct from an explicit \"бакалавр\" wording that would indicate the Bologna-track program). GICS added where confidently classifiable: ПАО \"ЭсЭфАй\" copied from this file's own top-level fields; Сбербанк, АКБ \"ДОМ.РФ\"/\"Российский Капитал\" classified Financials/Banks/Banks (both are licensed commercial/development banks; matches corpus-wide Banks precedent); АО \"Ангстрем-Т\" classified Information Technology/Semiconductors & Semiconductor Equipment/Semiconductors & Semiconductor Equipment (well-known Zelenograd semiconductor fab). The previously single merged professional_experience row covering Сбербанк/Ангстрем-Т/СМП Банк-Парк Легенд/РГСУ/ДОМ.РФ-Российский Капитал/РК Строй (generic role text, 2015-2021 range) was split into 6 separate rows using the specific per-organization dates and roles that round-1 research notes (Vlasov_Maxim_Alexandrovich_round_1.md) had already extracted from the same already-cited official issuer report pages 41-42 -- a depth correction, not new research. Three entries deliberately left GICS-null: РГСУ (Russian State Social University) is a state university, correctly non-classifiable like a government body, not touched; СМП Банк / \"Парк Легенд\" left null because the role (\"CFO of the development asset\") suggests his actual employer was a real-estate development project entity linked to SMP Bank's ownership group rather than the bank itself, and this round's fresh gap-follow-up attempt (queries via WebFetch/DuckDuckGo on \"СМП Банк\"/\"Парк Легенд\" ownership structure) could not confirm which entity/industry applies, so it was left null rather than guessed between Banks and Real Estate; ООО \"РК Строй\" left null for the same reason -- \"РК\" plausibly stands for \"Российский Капитал\" and \"Строй\" suggests a construction/development subsidiary, but no source was found confirming whether it is a construction contractor (Industrials/Capital Goods/Construction & Engineering) or a real-estate holding vehicle (Real Estate/Real Estate Management & Development), so it was left null rather than guessed. All three unresolved items are logged here so a future pass does not repeat the same exhausted angle without a new source lead."
+    },
+    {
+      "name": "Дмитриев Максим Владимирович",
+      "current_role": "Член Совета директоров ПАО \"ЭсЭфАй\"",
+      "company_name": "ПАО \"ЭсЭфАй\"",
+      "education": [
+        {
+          "program": "магистр менеджмента",
+          "university": "МГУ им. М.В. Ломоносова, Высшая школа бизнеса",
+          "field": "стратегический и финансовый менеджмент",
+          "year": 2007,
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страница 42: МГУ им. М.В. Ломоносова, Высшая школа бизнеса, 2007, магистр менеджмента, стратегический и финансовый менеджмент."
+            }
+          ],
+          "qualification_degree": "Master's degree"
+        },
+        {
+          "program": "бакалавр",
+          "university": "Московский энергетический институт",
+          "field": "электротехника, электромеханика и электротехнологии",
+          "year": 2005,
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страница 42: МЭИ, 2005, бакалавр, электротехника, электромеханика и электротехнологии."
+            }
+          ],
+          "qualification_degree": "Bachelor's degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ЭсЭфАй\"",
+          "role": "Член Совета директоров; член Комитета по аудиту и рискам; член Комитета по вознаграждениям и номинациям",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Официальный отчет эмитента указывает членство в Совете директоров и комитетах с сентября 2022 года.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страницы 42-43: Дмитриев Максим Владимирович указан как член Совета директоров и член двух комитетов."
+            },
+            {
+              "url": "https://www.marketscreener.com/quote/stock/SFI-64309650/company-governance/",
+              "title": "MarketScreener: SFI Governance",
+              "fact": "Lists Dmitriev Maxim Vladimirovich as Director/Board Member since 2022-09-29."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Financial Services (New Name)"
+        },
+        {
+          "organization": "ООО \"Шанс\"",
+          "role": "Генеральный директор",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Официальный отчет эмитента указывает должность с февраля 2022 года.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страница 43: с 02.2022 по настоящее время - генеральный директор ООО \"Шанс\"."
+            },
+            {
+              "url": "https://checko.ru/company/shans-1217700627649",
+              "title": "Checko: ООО \"Шанс\" (ОГРН 1217700627649)",
+              "fact": "Aggregator independently confirms Дмитриев Максим Владимирович as Генеральный директор of ООО \"Шанс\", corroborating (not superseding) the official issuer report's own dating of the role."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Самозанятый",
+          "role": "Консультант по риск-менеджменту, проектному финансированию и участию в start-up проектах",
+          "start_year": 2017,
+          "end_year": null,
+          "description": "Роль указана в официальном отчете эмитента.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страница 43: с 06.2017 по настоящее время - самозанятый консультант по риск-менеджменту, проектному финансированию и start-up проектам."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains SFIN row for Dmitriev Maxim Vladimirovich as Director/Board Member."
+        }
+      ],
+      "notes": "No independent university/employer confirmation found; official issuer report is the primary biography. Academic namesakes were rejected. ROUND 2 (quality pass, 2026-08-01): qualification_degree set to \"Master's degree\"/\"Bachelor's degree\" for the two education entries (explicit \"магистр менеджмента\"/\"бакалавр\" wording already in the sourced program field, direct enum match). GICS added for ПАО \"ЭсЭфАй\" (copied from this file's own top-level fields). ООО \"Шанс\" GICS left null: a fresh gap-follow-up attempt (query: \"Дмитриев Максим Владимирович\" \"Шанс\" ЭсЭфАй, via WebFetch/DuckDuckGo) found an independent confirming source for the General Director role itself (checko.ru, added as a corroborating source above) but no OKVED/business-activity detail could be retrieved (checko.ru's own company page returned HTTP 429 on direct fetch); still unresolved for GICS purposes. \"Самозанятый\" (self-employed consultant) correctly left GICS-null -- this is a personal-capacity engagement, not a company with an industry, and was not disturbed."
+    },
+    {
+      "name": "Лотарев Павел Викторович",
+      "current_role": "Член Совета директоров ПАО \"ЭсЭфАй\"",
+      "company_name": "ПАО \"ЭсЭфАй\"",
+      "education": [
+        {
+          "program": "высшее образование",
+          "university": "Финансовый университет при Правительстве РФ",
+          "field": "экономика, корпоративные финансы",
+          "year": 2017,
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страница 44: Финансовый университет при Правительстве РФ, 2017, экономика, корпоративные финансы."
+            }
+          ],
+          "qualification_degree": "Unknown"
+        },
+        {
+          "program": "высшее образование",
+          "university": "Московский государственный индустриальный университет",
+          "field": "право; юрист",
+          "year": 2004,
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страница 44: Московский государственный индустриальный университет, 2004, право, юрист."
+            }
+          ],
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ЭсЭфАй\"",
+          "role": "Член Совета директоров",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Официальный отчет эмитента и MarketScreener связывают Лотарева с Советом директоров с сентября 2022 года.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страница 44: с 09.2022 по настоящее время - член Совета директоров ПАО \"ЭсЭфАй\"."
+            },
+            {
+              "url": "https://www.marketscreener.com/quote/stock/SFI-64309650/company-governance/",
+              "title": "MarketScreener: SFI Governance",
+              "fact": "Lists Lotarev Pavel Viktorovich as Director/Board Member since 2022-09-29."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Financial Services (New Name)"
+        },
+        {
+          "organization": "ООО \"ЭсЭфАй трейдинг\"",
+          "role": "Генеральный директор",
+          "start_year": 2022,
+          "end_year": 2024,
+          "description": "Официальный отчет эмитента указывает должность с июня 2022 года. ROUND 2 (quality pass, 2026-08-01): resolved the round-1 \"remaining gap\" about the entity's 2024 status -- a fresh gap-follow-up attempt (query: \"ЭсЭфАй трейдинг\" генеральный директор 2024 2025, via WebFetch/DuckDuckGo, then a direct fetch of audit-it.ru) found and confirmed that ООО \"ЭсЭфАй трейдинг\" (ИНН 9705172541, ОГРН 1227700362185) ceased to exist as a separate legal entity on 14.08.2024 via reorganization by merger into ПАО \"ЭСЭФАЙ\" itself. end_year set to 2024 accordingly (the entity, and therefore this specific GD role, ended that year; this does not necessarily mean Лотарев left the company -- SFI Trading's operations and staff would ordinarily fold into the parent -- but the separate legal-entity role itself ended).",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страница 44: с 06.2022 по настоящее время - генеральный директор ООО \"ЭсЭфАй трейдинг\"."
+            },
+            {
+              "url": "https://www.audit-it.ru/contragent/1227700362185_ooo-esefaj-trejding",
+              "title": "Audit-it: ООО \"ЭСЭФАЙ ТРЕЙДИНГ\" (ОГРН 1227700362185)",
+              "fact": "Company registry record: \"Прекращение деятельности юридического лица путем реорганизации в форме присоединения\" (14.08.2024), successor ПАО \"ЭСЭФАЙ\"; Генеральный директор listed as Лотарев Павел Викторович."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Financial Services (New Name)"
+        },
+        {
+          "organization": "ООО \"Корпоративные инвестиции и технологии\"",
+          "role": "Руководитель отдела корпоративного управления",
+          "start_year": 2017,
+          "end_year": null,
+          "description": "Официальный отчет эмитента указывает должность с сентября 2017 года.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страница 44: с 09.2017 по настоящее время - руководитель отдела корпоративного управления ООО \"Корпоративные инвестиции и технологии\"."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains SFIN row for Lotarev Pavel Viktorovich as Director/Board Member."
+        }
+      ],
+      "notes": "Current status after 2024 SFI Trading reorganization was not separately confirmed; no research output found. ROUND 2 (quality pass, 2026-08-01): RESOLVED -- ООО \"ЭсЭфАй трейдинг\" was reorganized by merger into ПАО \"ЭСЭФАЙ\" on 14.08.2024 (confirmed via audit-it.ru company registry record); end_year set to 2024 on that professional_experience entry, with the source added. qualification_degree set: \"Specialist degree\" for the 2004 Moscow State Industrial University \"юрист\" entry (qualification title \"юрист\" plus a 2004 graduation year matches the corpus's own precedent for this exact pattern, e.g. AFKS_person_info.json's 2000 \"юрист\"-titled Evtushenkov Jr. entry); \"Unknown\" for the 2017 Финансовый университет entry (no qualification-level title is stated in the source, only a field of study, so the level cannot be confidently inferred). GICS added: ПАО \"ЭсЭфАй\" and ООО \"ЭсЭфАй трейдинг\" both classified Financials/Financial Services (New Name)/Financial Services (New Name) -- the latter was SFI's own trading subsidiary (name includes \"ЭсЭфАй\"), later merged back into the parent, so it shares the parent's classification. ООО \"Корпоративные инвестиции и технологии\" GICS left null: a fresh gap-follow-up attempt (query: \"Корпоративные инвестиции и технологии\" ООО, via WebFetch/DuckDuckGo) returned no results describing this entity's business; still unresolved."
+    },
+    {
+      "name": "Мякенький Александр Иванович",
+      "current_role": "Член Совета директоров ПАО \"ЭсЭфАй\"",
+      "company_name": "ПАО \"ЭсЭфАй\"",
+      "education": [
+        {
+          "program": "высшее образование",
+          "university": "Всесоюзный юридический заочный институт (МГЮА)",
+          "field": "экономист",
+          "year": 1975,
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страница 45: высшее образование, Всесоюзный юридический заочный институт (МГЮА), 1975, экономист."
+            }
+          ],
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ЭсЭфАй\"",
+          "role": "Член Совета директоров; член Комитета по аудиту и рискам; председатель Комитета по вознаграждениям и номинациям",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Официальный отчет эмитента указывает членство в Совете директоров с сентября 2022 года и предыдущий период членства 2015-2021; комитетные роли указаны на дату отчета.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страницы 45-46: с 10.2015 по 11.2021 и с 09.2022 по настоящее время - член Совета директоров ПАО \"ЭсЭфАй\"; указаны комитетные роли."
+            },
+            {
+              "url": "https://www.marketscreener.com/quote/stock/SFI-64309650/company-governance/",
+              "title": "MarketScreener: SFI Governance",
+              "fact": "Lists Aleksandr Myakenkiy as Director/Board Member since 2022-09-29."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Financial Services (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains SFIN row for Aleksandr Myakenkiy as Director/Board Member."
+        }
+      ],
+      "notes": "CSV lacks patronymic; official issuer report establishes full name as Мякенький Александр Иванович. Work history beyond SFI board service was not disclosed in checked sources. ROUND 2 (quality pass, 2026-08-01): qualification_degree set to \"Specialist degree\" for the 1975 Всесоюзный юридический заочный институт entry (qualification title \"экономист\" plus a 1975 Soviet-era graduation year is an unambiguous case of the classic 5-year specialist-diploma pattern, matching this exact corpus's own convention, e.g. AFKS_person_info.json's 1974 MGU \"экономист\" entries). GICS added for ПАО \"ЭсЭфАй\" (copied from this file's own top-level fields). Fresh gap-follow-up attempt for any employer/career history beyond SFI board service (query: \"Мякенький Александр Иванович\" биография карьера, via WebFetch/DuckDuckGo): no results found; still unresolved -- this is an 1975-graduate, likely elderly board member (MarketScreener elsewhere gives an age around 79), and no public biography beyond the official issuer report appears to be indexed."
+    },
+    {
+      "name": "Протас Александр Николаевич",
+      "current_role": "Член Совета директоров ПАО \"ЭсЭфАй\"",
+      "company_name": "ПАО \"ЭсЭфАй\"",
+      "education": [
+        {
+          "program": "MBA",
+          "university": "МИРБИС",
+          "field": "стратегический менеджмент и управление организацией",
+          "year": 2021,
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страница 46: МИРБИС MBA, 2021, стратегический менеджмент и управление организацией."
+            }
+          ],
+          "qualification_degree": "MBA"
+        },
+        {
+          "program": "высшее образование",
+          "university": "Московский государственный горный университет",
+          "field": "физические процессы горного или нефтегазового производства",
+          "year": 2011,
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страница 46: Московский государственный горный университет, 2011, физические процессы горного или нефтегазового производства."
+            }
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ЭсЭфАй\"",
+          "role": "Член Совета директоров",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Официальный отчет эмитента и MarketScreener подтверждают членство в Совете директоров с сентября 2022 года.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страница 46: с 09.2022 по настоящее время - член Совета директоров ПАО \"ЭсЭфАй\"."
+            },
+            {
+              "url": "https://www.marketscreener.com/quote/stock/SFI-64309650/company-governance/",
+              "title": "MarketScreener: SFI Governance",
+              "fact": "Lists Protas Alexander Nikolaevich as Director/Board Member since 2022-09-29."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Financial Services (New Name)"
+        },
+        {
+          "organization": "ООО \"ЗаряД\" / АО \"НПК \\\"Хипроминжиниринг\\\"",
+          "role": "Директор по продажам",
+          "start_year": 2019,
+          "end_year": 2020,
+          "description": "Роль указана в официальном отчете эмитента.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страница 46: 09.2019-08.2020 - директор по продажам ООО \"ЗаряД\" / АО \"НПК \\\"Хипроминжиниринг\\\"."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "АО \"НПК \\\"Хипроминжиниринг\\\" / АО \"ГК \\\"Росатом\\\"",
+          "role": "Ведущий менеджер по продажам",
+          "start_year": 2019,
+          "end_year": 2020,
+          "description": "Официальный отчет эмитента указывает эту роль с января по апрель 2020 года; ROUND 2 (quality pass, 2026-08-01): split out of a previously merged 2-organization professional_experience row (generic combined role text, 2015-2020 range) into its own entry with round-1 research notes' specific date range, using the same already-cited source; no fact was lost, only regrouped for accuracy (see ООО \"Аспро\" entry for the other half of the original row).",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страница 46: 01.2019-04.2020 - ведущий менеджер по продажам АО \"НПК \\\"Хипроминжиниринг\\\" / АО \"ГК \\\"Росатом\\\"; 2015-2019 - исполнительный директор ООО \"Аспро\"."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ООО \"Аспро\"",
+          "role": "Исполнительный директор",
+          "start_year": 2015,
+          "end_year": 2019,
+          "description": "Официальный отчет эмитента указывает эту роль в 2015-2019 годах; ROUND 2 (quality pass, 2026-08-01): split out of the previously merged 2-organization row (see АО \"НПК \\\"Хипроминжиниринг\\\" entry above) into its own entry with round-1 research notes' specific date range, using the same already-cited source; no fact was lost, only regrouped for accuracy.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страница 46: 01.2019-04.2020 - ведущий менеджер по продажам АО \"НПК \\\"Хипроминжиниринг\\\" / АО \"ГК \\\"Росатом\\\"; 2015-2019 - исполнительный директор ООО \"Аспро\"."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains SFIN row for Protas Alexander Nikolaevich as Director/Board Member."
+        }
+      ],
+      "notes": "No independent employer/university source found; official issuer report is the primary biography. ROUND 2 (quality pass, 2026-08-01): qualification_degree set to \"MBA\" for the МИРБИС entry (explicit \"MBA\" program wording, direct enum match) and \"Unknown\" for the Московский государственный горный университет entry (field of study given but no qualification-level title stated -- by 2011 both Bachelor's/Master's and legacy Specialist-track engineering programs coexisted at Russian mining/technical universities, so the level cannot be confidently inferred from \"высшее образование\" alone). GICS added for ПАО \"ЭсЭфАй\" (copied from this file's own top-level fields). The previously single merged professional_experience row covering АО \"НПК \\\"Хипроминжиниринг\\\"/АО \"ГК \\\"Росатом\\\" and ООО \"Аспро\" (generic combined role text, 2015-2020 range) was split into 2 separate rows using the specific per-organization dates that round-1 research notes (Protas_Alexander_Nikolaevich_round_1.md) had already extracted from the same already-cited official issuer report page 46 -- a depth correction, not new research. GICS left null for all three non-SFI entries (ООО \"ЗаряД\"/АО \"НПК \\\"Хипроминжиниринг\\\", АО \"ГК \\\"Росатом\\\", ООО \"Аспро\"): fresh gap-follow-up attempts (queries: \"НПК Хипроминжиниринг\"; \"Гипроминжиниринг\" Росатом ГК, via WebFetch/DuckDuckGo, trying both the as-written spelling and a plausible \"Гипро-\"-prefixed alternate spelling) returned zero results identifying this specific organization's line of business, and no independent source for ООО \"ЗаряД\" or ООО \"Аспро\" was found either; all three remain unresolved and are logged here so a future pass tries a genuinely different angle (e.g. the company's EGRUL/OKVED registration record directly) rather than repeating these exact queries."
+    },
+    {
+      "name": "Сивачев Денис Александрович",
+      "current_role": "Член Совета директоров ПАО \"ЭсЭфАй\"",
+      "company_name": "ПАО \"ЭсЭфАй\"",
+      "education": [
+        {
+          "program": "высшее образование",
+          "university": "РЭА им. Г.В. Плеханова",
+          "field": "финансы и кредит; экономист",
+          "year": 1998,
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страница 47: РЭА им. Плеханова, 1998, экономист, финансы и кредит."
+            }
+          ],
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ЭсЭфАй\"",
+          "role": "Член Совета директоров",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Официальный отчет эмитента и MarketScreener подтверждают членство в Совете директоров с сентября 2022 года.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страница 47: с 09.2022 по настоящее время - член Совета директоров ПАО \"ЭсЭфАй\"."
+            },
+            {
+              "url": "https://www.marketscreener.com/quote/stock/SFI-64309650/company-governance/",
+              "title": "MarketScreener: SFI Governance",
+              "fact": "Lists Sivachev Denis Alexandrovich as Director/Board Member since 2022-09-29."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Financial Services (New Name)"
+        },
+        {
+          "organization": "НПФ АО \"САФМАР\" / НПФ АО \"Достойное БУДУЩЕЕ\"",
+          "role": "И.о. генерального директора; генеральный директор",
+          "start_year": 2017,
+          "end_year": 2021,
+          "description": "Официальный отчет эмитента указывает работу и.о. генерального директора в 2017-2018 годах и генерального директора в 2018-2021 годах; Interfax and Audit-it confirm NPF CEO identity.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+              "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+              "fact": "Страница 47: 07.2017-02.2018 - и.о. генерального директора НПФ АО \"САФМАР\"; 02.2018-10.2021 - генеральный директор НПФ АО \"САФМАР\" / с 02.2021 НПФ АО \"Достойное БУДУЩЕЕ\"."
+            },
+            {
+              "url": "https://www.interfax.ru/russia/759155",
+              "title": "Интерфакс: Структура ГК \"Регион\" стала владельцем НПФ \"Сафмар\"",
+              "fact": "Interfax reports that NPF Safmar continued to be headed by Denis Sivachev."
+            },
+            {
+              "url": "https://www.audit-it.ru/contragent/1147799011634_ao-npf-dostoynoe-budushchee",
+              "title": "Audit-it: АО \"НПФ \"Достойное Будущее\"",
+              "fact": "Company profile names Сивачев Денис Александрович as head in historical registry information."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Financial Services (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains SFIN row for Sivachev Denis Alexandrovich as Director/Board Member."
+        }
+      ],
+      "notes": "Post-October 2021 non-SFI role was not confirmed. No research/publication facts found. ROUND 2 (quality pass, 2026-08-01): qualification_degree set to \"Specialist degree\" for the 1998 РЭА им. Плеханова entry (qualification title \"экономист\" plus a 1998 pre-Bologna graduation year, matching this exact corpus's own convention). GICS added: ПАО \"ЭсЭфАй\" copied from this file's own top-level fields; НПФ АО \"САФМАР\"/\"Достойное БУДУЩЕЕ\" classified Financials/Financial Services (New Name)/Financial Services (New Name) (non-state pension funds are retirement-savings investment vehicles rather than underwriting insurers; the corpus itself has mixed precedent here -- ELFV_person_info.json classifies a different NPF as Financial Services (New Name) while MSRS_person_info.json classifies a third NPF as Insurance -- this entry follows the Financial Services (New Name) precedent as the more conceptually accurate fit for a pension-fund asset manager). Fresh gap-follow-up attempt for the post-October-2021 role (query: \"Сивачев Денис Александрович\" 2024 текущая должность после НПФ Достойное будущее, via WebFetch/DuckDuckGo since WebSearch quota was exhausted): surfaced only pre-2021 biographical material (an early-2006 BINBANK role, the NPF Safmar/Достойное Будущее CEO tenure itself) and no new employer; still unresolved, left as-is -- this is the highest-priority remaining gap for this person given the ~3-year employment gap through 2024."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/SFIN/SFI_годовой отчет_2024.pdf",
+      "title": "Годовой отчет ПАО \"ЭсЭфАй\" за 2024 год",
+      "fact": "Страницы 39-42: годовое собрание 05.06.2024 избрало членов Совета директоров; действующий Совет директоров сформирован 5 июня 2024 года в количестве девяти человек, четыре из которых независимые; Правление в 2024 году не формировалось."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/SFIN/SFI_годовой отчет_2024.pdf",
+      "title": "Годовой отчет ПАО \"ЭсЭфАй\" за 2024 год",
+      "fact": "Страница 13 подтверждает Антона Гольцмана как Председателя Совета директоров; страница 14 подтверждает Игоря Сидорова как Генерального директора; страница 41 подтверждает Михаила Горбачева как начальника Службы корпоративного секретаря."
+    },
+    {
+      "url": "https://ads-test.rusbonds.ru/news/20240605160010424718",
+      "title": "Rusbonds: ПАО \"ЭсЭфАй\" - решения годового общего собрания акционеров 05.06.2024",
+      "fact": "Disclosure confirms AGM on 05.06.2024, agenda item 'Избрание членов Совета директоров', and decision to elect a nine-person Board; names were not disclosed under disclosure restrictions."
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/stock/SFI-64309650/company-governance/",
+      "title": "MarketScreener: SFI Governance",
+      "fact": "Governance table lists executive contacts and board members: Goltsman, Gorbachev, Sidorov, Protas, Lotarev, Boikova, Sivachev, Dmitriev, Vlasov and Aleksandr Myakenkiy."
+    },
+    {
+      "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+      "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+      "fact": "Official issuer report gives the 2022 elected board list and person biographies for the same board members later tracked in CSV/MarketScreener."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_Отчеты_2024/SFIN/SFI_годовой отчет_2024.pdf",
+      "title": "Годовой отчет ПАО \"ЭсЭфАй\" за 2024 год",
+      "fact": "Primary local source for 2024 company, CEO, chairman, corporate secretary and governance context."
+    },
+    {
+      "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1768578",
+      "title": "Отчет эмитента ПАО \"ЭсЭфАй\" за 6 месяцев 2022 года",
+      "fact": "Primary official person-level source for education and career biographies of board members."
+    },
+    {
+      "url": "https://ads-test.rusbonds.ru/news/20240605160010424718",
+      "title": "Rusbonds / Interfax disclosure mirror: AGM 05.06.2024",
+      "fact": "Confirms 2024 AGM and nine-person board election; names withheld."
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/stock/SFI-64309650/company-governance/",
+      "title": "MarketScreener: SFI Governance",
+      "fact": "Secondary governance source identifying board members and executive contacts."
+    }
+  ],
+  "validation_notes": "Processed 10 unique CSV people for SFIN after merging duplicate Anton Goltsman rows and treating the extra unnamed CSV cell 'Усанин Михаил' as an anomaly rather than a SFIN person. Checked 4 local SFIN documents before web research. Total research rounds: 1 per person plus overview. CEO identified as Igor Sidorov from the 2024 annual report. Education not specifically confirmed for Mikhail Gorbachev beyond 'higher education'; Sidorov's education institution is not disclosed. Weak sources used: MarketScreener for current board/person list because 2024 official AGM disclosure withheld board names; Smart-Lab only as a weak cross-check for Goltsman education/public profile. Conflicts remaining: 2024 official disclosure confirms election of a nine-person board but withholds names under disclosure restrictions, so names are triangulated from CSV, MarketScreener and the official 2022 issuer report. Namesakes rejected: academic/political-science Mikhail Valeryevich Gorbachev profiles, Tatyana Boikova/Boyko scholar profiles, Anton Goltsman MIIGAiK academic lead, and generic Maxim Dmitriev/Vlasov/Alexander Protas profiles without SFI identity anchors. Search considered complete because all local files were checked, official issuer biographies were read, 2024 AGM and annual report were checked, previous employers and education leads were searched, and two search passes did not produce higher-quality public biographies for remaining gaps. ROUND 2 -- QUALITY PASS (2026-08-01): Step 0 git-baseline check confirmed the on-disk file was already byte-identical (modulo CRLF/LF) to git HEAD (commit f973022) -- SFIN was not among the six regressed tickers; no restoration needed. Desync check: no genuine JSON-vs-notes value conflicts were found for this ticker (no person's notes had an unresolved \"Contradictions\" section describing a JSON-value disagreement); one uncited claim in Boikova_Tatyana_Olegovna_round_1.md (\"A101-related companies: board roles in 2021\", no source in that file) was investigated fresh and could not be verified, so it was deliberately left OUT of the JSON rather than added on faith -- documented in Boikova's own notes. Simple omissions applied: filled qualification_degree (previously null on all 14 education entries across all 10 people, despite the first pass having added the key) using the fixed ten-value enum, mapped from program/field wording already present and sourced in the JSON itself -- explicit \"бакалавриат\"/\"магистратура\"/\"бакалавр\"/\"магистр\"/\"MBA\" wording mapped directly; \"экономист\"/\"юрист\" qualification titles combined with a pre-Bologna-era (or transition-era) graduation year mapped to \"Specialist degree\", matching this exact convention already used 445 times elsewhere in the corpus (e.g. AFKS_person_info.json); a bare \"высшее образование\" with no level/title stated mapped to \"Unknown\" (4 entries: Gorbachev's sole entry, Lotarev's Финансовый университет entry, Protas's Горный университет entry); Sidorov's \"среднее специальное образование\" mapped to \"Secondary education\" (closest enum fit for a stated secondary/specialized-secondary credential). GICS: 0 pre-existing non-null professional_experience triples existed in this file before this round (all 25 entries were null), so item-2 \"correct existing wrong labels\" had nothing to check/correct. Under bounded honest-gap-follow-up (item 3), applied GICS to entries where either (a) the organization is this file's own covered company (ПАО \"ЭсЭфАй\"/its merged trading subsidiary -- copied verbatim from this file's own top-level sector/industry_group/industry) or (b) a confident classification could be made from an established corpus-wide precedent (grepped across output/*.json) or a fresh, verified source: АО \"БКС-Банк\"/Сбербанк/АКБ \"ДОМ.РФ\"-\"Российский Капитал\"/Связь-банк/ВЭБ/ГЛОБЭКС -> Financials/Banks/Banks; ОАО \"Мосэнерго\" -> Utilities/Utilities/Independent Power and Renewable Electricity Producers (16 identical corpus precedents); АО \"Русский Уголь\"/АО \"КТК\" -> Energy/Energy/Oil, Gas & Consumable Fuels (coal producers are Energy not Metals & Mining per this exact corpus's own КТК precedent in MRKP_person_info.json); АО \"Росгеология\" -> Energy/Energy/Energy Equipment & Services (matches ALRS_person_info.json precedent); АО \"Ангстрем-Т\" -> Information Technology/Semiconductors & Semiconductor Equipment/Semiconductors & Semiconductor Equipment; НПФ АО \"САФМАР\"/\"Достойное БУДУЩЕЕ\" -> Financials/Financial Services (New Name)/Financial Services (New Name); ООО \"Агентство недвижимости\" -> Real Estate/Real Estate Management & Development (New)/Real Estate Management & Development (New Code). Left deliberately null rather than guessed: ООО \"Развитие\", ООО \"МЛП\", СМП Банк/\"Парк Легенд\", ООО \"РК Строй\", ООО \"Корпоративные инвестиции и технологии\", АО \"НПК \\\"Хипроминжиниринг\\\"\", ООО \"ЗаряД\", ООО \"Аспро\", ООО \"Шанс\" (fresh WebFetch/DuckDuckGo queries -- WebSearch tool quota was exhausted session-wide -- found no confirming source for these smaller/ambiguous entities' line of business; each is logged with its specific attempted queries in the relevant person's own `notes` field so a future pass does not repeat the same exhausted angles), and \"Самозанятый\"/РГСУ correctly left non-classifiable (personal-capacity role; state university, respectively). Depth correction (not new research): three professional_experience rows that had compressed multiple distinct organizations/roles/date-ranges from round-1 research notes into one generic combined row (Boikova's Связь-банк/ВЭБ/ГЛОБЭКС/Росгеология/МЛП row; Vlasov's Сбербанк/Ангстрем-Т/СМП Банк-Парк Легенд/РГСУ/ДОМ.РФ-Российский Капитал/РК Строй row; Protas's Хипроминжиниринг-Росатом/Аспро row) were split into per-organization rows using the exact dates/roles already extracted and sourced in round-1 notes from the same already-cited official issuer report -- no fact was lost, only regrouped with more fidelity, which also made per-organization GICS classification possible. One genuinely new fact found and added with a fresh, directly-fetched source: ООО \"ЭсЭфАй трейдинг\" (Лотарев's GD role) was reorganized by merger into ПАО \"ЭСЭФАЙ\" on 14.08.2024 (audit-it.ru company registry record) -- end_year set to 2024 on that entry, resolving the round-1 'remaining gap' about its 2024 status. Other bounded gap-follow-up attempts (Sivachev's post-2021 employer, Мякенький's work history, Горбачев's education institution, Гольцман's exact HSE year, Бойкова's current 2024 employment) all came up empty after fresh queries and remain documented as unresolved in each person's own `notes` field. No previously confirmed fact, description, or source citation was shortened or deleted anywhere this round -- every original fact from the pre-round file is still present, either unchanged or carried into a more granular replacement row. Full detail: research_notes/SFIN/quality_pass_round1_20260801.md.",
+  "sector": "Financials",
+  "industry_group": "Financial Services (New Name)",
+  "industry": "Financial Services (New Name)"
+}

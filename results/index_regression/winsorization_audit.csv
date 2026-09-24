@@ -1,0 +1,5 @@
+﻿sample,outcome,q01,q99,n_observed,n_clipped
+all_managers,roa_2025,-0.623,0.596,101,2
+all_managers,stock_return_2025,-0.815,1.0774000000000006,103,4
+ceo,roa_2025,-0.623,0.596,101,2
+ceo,stock_return_2025,-0.815,1.0774000000000006,103,4

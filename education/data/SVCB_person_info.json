@@ -1,0 +1,1149 @@
+{
+    "company_name":  "ПАО \"Совкомбанк\"",
+    "company_ticker":  "SVCB",
+    "ceo":  {
+                "name":  "Dmitry Vladimirovich Gusev",
+                "current_role":  "Chief Executive Officer; Director/Board Member",
+                "company_name":  "ПАО \"Совкомбанк\"",
+                "education":  [
+                                  {
+                                      "institution":  "Финансовая академия при Правительстве РФ",
+                                      "year":  1998,
+                                      "field":  "Финансы и кредит",
+                                      "qualification":  "экономист",
+                                      "qualification_degree":  "Specialist degree"
+                                  },
+                                  {
+                                      "institution":  "Всероссийская государственная налоговая академия Министерства финансов РФ",
+                                      "year":  2006,
+                                      "field":  "Юриспруденция",
+                                      "qualification":  "юрист",
+                                      "qualification_degree":  "Specialist degree"
+                                  }
+                              ],
+                "degrees":  [
+                                {
+                                    "degree":  "Кандидат экономических наук",
+                                    "institution":  "Финансовая академия при Правительстве РФ",
+                                    "year":  2002,
+                                    "field":  "экономика",
+                                    "qualification_degree":  "Doctoral degree"
+                                }
+                            ],
+                "professional_experience":  [
+                                                {
+                                                    "organization":  "ПАО \"Совкомбанк\"",
+                                                    "role":  "Председатель Правления",
+                                                    "start_year":  2011,
+                                                    "end_year":  null,
+                                                    "description":  "CSV identifies him as CEO; local related-party report for 2024 is signed by D.V. Gusev as Chairman of the Management Board.",
+                                                    "sector":  "Financials",
+                                                    "industry_group":  "Banks",
+                                                    "industry":  "Banks"
+                                                },
+                                                {
+                                                    "organization":  "ПАО \"Совкомбанк\"",
+                                                    "role":  "член Наблюдательного совета / Director",
+                                                    "start_year":  2018,
+                                                    "end_year":  null,
+                                                    "description":  "Vklader profile states he has been a member of the Supervisory Board since 2018; CSV also contains Director/Board Member.",
+                                                    "sector":  "Financials",
+                                                    "industry_group":  "Banks",
+                                                    "industry":  "Banks"
+                                                },
+                                                {
+                                                    "organization":  "Deloitte Russia",
+                                                    "role":  "партнер; руководитель группы международного налогообложения России и СНГ",
+                                                    "start_year":  2001,
+                                                    "end_year":  2007,
+                                                    "description":  "Profile sources describe Deloitte tax and legal practice experience before Sovcombank.",
+                                                    "sector":  "Industrials",
+                                                    "industry_group":  "Commercial & Professional Services",
+                                                    "industry":  "Professional Services"
+                                                },
+                                                {
+                                                    "organization":  "Coopers \u0026 Lybrand / PwC",
+                                                    "role":  "international taxation specialist",
+                                                    "start_year":  1997,
+                                                    "end_year":  2001,
+                                                    "description":  "Profile sources describe early career in international tax consulting.",
+                                                    "sector":  "Industrials",
+                                                    "industry_group":  "Commercial & Professional Services",
+                                                    "industry":  "Professional Services"
+                                                }
+                                            ],
+                "research_experience":  [
+
+                                        ],
+                "publications":  [
+
+                                 ],
+                "patents":  [
+
+                            ],
+                "h_index":  null,
+                "sources":  [
+                                {
+                                    "url":  "MOEXBMI_2024.csv",
+                                    "title":  "MOEXBMI_2024.csv",
+                                    "fact":  "Rows 524 and 530 list Dmitry Vladimirovich Gusev as Chief Executive Officer and Director/Board Member for SVCB."
+                                },
+                                {
+                                    "url":  "MOEXBMI_Отчеты_2024/SVCB/Приложения к ГО/прил. к ГО_отчет о СЗ за 2024.pdf",
+                                    "title":  "Приложение к годовому отчету: отчет о сделках с заинтересованностью за 2024",
+                                    "fact":  "Page 12: the document is signed by D.V. Gusev as Председатель Правления ПАО «Совкомбанк»."
+                                },
+                                {
+                                    "url":  "https://vklader.com/persons/dmitrij-gusev/",
+                                    "title":  "Дмитрий Гусев, Совкомбанк - ВКЛАДЕР",
+                                    "fact":  "Profile gives education at Financial Academy, Tax Academy, candidate of economic sciences, and Sovcombank Chairman of the Management Board roles."
+                                }
+                            ],
+                "notes":  "Identity anchored by CSV, local 2024 report signature, and biographical profile. No confirmed academic publications, patents, or h-index were found for the target person. Quality pass 2026-08-01: qualification_degree set to Specialist degree for both 1998/2006 education entries (standard Russian pre-Bologna 5-year specialist diploma for institutions/eras where the university awarded that qualification title; both institutions and years were already sourced via Vklader, only the degree-level classification was added from context per REFINEMENT.md policy). Kandidat ekonomicheskikh nauk (2002) classified as Doctoral degree (Russian Candidate of Sciences is the standard research doctorate). Sovcombank, Deloitte and Coopers & Lybrand/PwC professional_experience entries received GICS sector/industry_group/industry (Financials/Banks/Banks; Industrials/Commercial & Professional Services/Professional Services) using the already-cited employer identity; no new source needed since these are globally known entities."
+            },
+    "tmt":  [
+                {
+                    "name":  "Dmitry Vladimirovich Khotimskiy",
+                    "current_role":  "Chief Investment Officer; Director/Board Member",
+                    "company_name":  "ПАО \"Совкомбанк\"",
+                    "education":  [
+                                      {
+                                          "institution":  "МГУ им. М.В. Ломоносова, факультет вычислительной математики и кибернетики",
+                                          "year":  1995,
+                                          "field":  "математическая статистика",
+                                          "qualification":  "TAdviser describes a master\u0027s degree",
+                                          "qualification_degree":  "Master's degree"
+                                      },
+                                      {
+                                          "institution":  "University of Oxford",
+                                          "year":  null,
+                                          "field":  "software engineering course",
+                                          "qualification":  null,
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Institute of Global Investments",
+                                                        "role":  "founder / hedge-fund manager",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "TAdviser describes a hedge fund created after investment work in the US market.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Совкомбанк\"",
+                                                        "role":  "investment manager / Chief Investment Officer; member of Supervisory Board",
+                                                        "start_year":  2009,
+                                                        "end_year":  null,
+                                                        "description":  "TAdviser describes his entry into Sovcombank in 2009 as investment manager; CSV lists Chief Investment Officer and Director/Board Member.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "Rows 525 and 533 list Dmitry Vladimirovich Khotimskiy as Chief Investment Officer and Director/Board Member for SVCB."
+                                    },
+                                    {
+                                        "url":  "https://www.tadviser.ru/index.php/Персона:Хотимский_Дмитрий_Владимирович",
+                                        "title":  "Хотимский Дмитрий Владимирович - TAdviser",
+                                        "fact":  "Profile describes MSU education, Oxford software-engineering course, Institute of Global Investments, and Sovcombank investment-management role."
+                                    }
+                                ],
+                    "notes":  "TAdviser also mentions a 2013 investment book; it was not treated as a scientific publication. Oxford fact is recorded as course/program only, not converted into a degree. Quality pass 2026-08-01: fixed a desync -- the JSON's own qualification text already said 'TAdviser describes a master's degree' for the MSU entry, but qualification_degree was still null; set to Master's degree using that already-cited fact, no new source needed. Sovcombank professional_experience entry received GICS Financials/Banks/Banks (self-employer, matches company-level classification)."
+                },
+                {
+                    "name":  "Elena Alexandrovna Cherstvova",
+                    "current_role":  "Corporate Officer/Principal",
+                    "company_name":  "ПАО \"Совкомбанк\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Санкт-Петербургский государственный инженерно-экономический университет",
+                                          "year":  1997,
+                                          "field":  "информационные системы в экономике",
+                                          "qualification":  "экономист",
+                                          "qualification_degree":  "Specialist degree"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Совкомбанк\"",
+                                                        "role":  "член Правления / руководитель блока рисков",
+                                                        "start_year":  2014,
+                                                        "end_year":  null,
+                                                        "description":  "External profiles connect Elena Cherstvova with risk-management leadership and Management Board work at Sovcombank.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    },
+                                                    {
+                                                        "organization":  "Поволжский немецкий банк / GE Money Bank",
+                                                        "role":  "risk and banking roles",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "External biography sources indicate earlier banking experience; exact dates were not promoted beyond what notes record.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    },
+                                                    {
+                                                        "organization":  "Министерство регионального развития РФ",
+                                                        "role":  "public-sector role",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "External biography sources indicate earlier public-sector experience at this federal ministry; exact dates were not promoted beyond what notes record.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "Row 526 lists Elena Alexandrovna Cherstvova as Corporate Officer/Principal for SVCB."
+                                    },
+                                    {
+                                        "url":  "https://www.tadviser.ru/index.php/Персона:Черствова_Елена_Александровна",
+                                        "title":  "Черствова Елена Александровна - TAdviser",
+                                        "fact":  "Search/opened-source trail identifies education at Санкт-Петербургский государственный инженерно-экономический университет and Sovcombank management-board/risk roles."
+                                    }
+                                ],
+                    "notes":  "Biography source is secondary and was only partly accessible during this run; no independent official 2024 biography was found. Quality pass 2026-08-01: GICS label correctness fix -- the bundled professional_experience entry 'Поволжский немецкий банк / GE Money Bank / Министерство регионального развития РФ' had been classified as Financials/Banks/Banks, but that single label was wrong for one of the three named organizations: Министерство регионального развития РФ is a federal government ministry, never a commercial GICS category. Split into two entries: the two banks keep Financials/Banks/Banks, the ministry now has all-null GICS (correctly non-classifiable government body). Sovcombank entry and education qualification_degree filled from already-cited facts (self-employer classification; Specialist degree for the 1997 pre-Bologna economist diploma)."
+                },
+                {
+                    "name":  "Pavel Barchugov",
+                    "current_role":  "Corporate Officer/Principal",
+                    "company_name":  "ПАО \"Совкомбанк\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Российский экономический университет имени Г.В. Плеханова",
+                                          "year":  1995,
+                                          "field":  "Финансы и кредит",
+                                          "qualification":  null,
+                                          "qualification_degree":  "Specialist degree"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Bank Austria / International Moscow Bank",
+                                                        "role":  "management reporting; chief accountant",
+                                                        "start_year":  1995,
+                                                        "end_year":  2008,
+                                                        "description":  "TAdviser describes career beginning in 1995 at Bank Austria\u0027s Moscow branch, later International Moscow Bank, with chief-accountant role from 2006.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    },
+                                                    {
+                                                        "organization":  "Swedbank Russia",
+                                                        "role":  "Chief Financial Officer",
+                                                        "start_year":  2008,
+                                                        "end_year":  null,
+                                                        "description":  "TAdviser states he was appointed CFO of the Russian subsidiary of Swedbank in 2008.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    },
+                                                    {
+                                                        "organization":  "Сбербанк",
+                                                        "role":  "responsible for foreign-subsidiary-bank strategy",
+                                                        "start_year":  2013,
+                                                        "end_year":  null,
+                                                        "description":  "RBC and Banki.ru news items (2013-06-17) report that Pavel Barchugov, described as ex-Swedbank/UniCredit Bank financier, took charge of strategy for Sberbank's foreign subsidiary banks.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    },
+                                                    {
+                                                        "organization":  "Renaissance Insurance",
+                                                        "role":  "Chief Financial Officer",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "TAdviser profile classifies him as CFO at Renaissance Insurance.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Insurance",
+                                                        "industry":  "Insurance"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Совкомбанк\"",
+                                                        "role":  "Corporate Officer/Principal",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Current connection comes from the SVCB CSV input; independent education details were not confirmed.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "Row 527 lists Pavel Barchugov as Corporate Officer/Principal for SVCB."
+                                    },
+                                    {
+                                        "url":  "https://tadviser.com/index.php/Person:Pavel_Barchugov",
+                                        "title":  "Pavel Barchugov - TAdviser",
+                                        "fact":  "Profile describes financial-market career from Bank Austria/International Moscow Bank to Swedbank and Renaissance Insurance."
+                                    },
+                                    {
+                                        "url":  "https://octan.ru/deponews/2024/12/12/I12C6165/",
+                                        "title":  "Octan deponews link from CSV",
+                                        "fact":  "CSV included this URL as an additional pointer for the Pavel Barchugov row; it was treated as a weak search-chain clue, not as an education source."
+                                    },
+                                    {
+                                        "url":  "https://rosinvest.com/novosti/384984",
+                                        "title":  "Павел Барчугов занял пост финансового директора Сведбанка - RosInvest",
+                                        "fact":  "Article states Pavel Barchugov was born 29 March 1973 and in 1995 graduated from the Plekhanov Russian Economic Academy with a specialization in Финансы и кредит (Finance and Credit); also gives 1995 Bank Austria Moscow branch internship, 1997 rebrand to ZAO Bank Austria Kreditanstalt, 2001 head of management reporting after UniCredit merger, 2006 executive director/chief accountant, and 2008 Swedbank Russia CFO appointment."
+                                    },
+                                    {
+                                        "url":  "https://www.rbc.ru/society/17/06/2013/56c1a0fb9a7947406ea099ff",
+                                        "title":  "Международник в Сбербанке - RBC",
+                                        "fact":  "2013-06-17 article snippet: 'За стратегию зарубежных дочек Сбербанка будет отвечать Павел Барчугов, экс-финансист Сведбанка и ЮниКредит Банка' (Pavel Barchugov, ex-financier of Swedbank and UniCredit Bank, put in charge of strategy for Sberbank's foreign subsidiary banks)."
+                                    },
+                                    {
+                                        "url":  "https://www.banki.ru/news/lenta/?id=5042420",
+                                        "title":  "За стратегию зарубежных «дочек» Сбербанка будет отвечать Павел Барчугов - Banki.ru",
+                                        "fact":  "Corroborates the same 2013 Sberbank foreign-subsidiary-strategy appointment reported by RBC."
+                                    }
+                                ],
+                    "notes":  "No confirmed education source was found in round 1. Current 2024 Sovcombank role is weakly sourced by CSV/external governance lists rather than by an official personal biography. Quality pass 2026-08-01 gap follow-up: ran fresh queries (\"Барчугов Павел\" образование вуз, Pavel Barchugov Plekhanov, Pavel Barchugov Sberbank biography, Pavel Barchugov born 1973) not tried in round 1, which had only tried \"Барчугов Павел Сергеевич\" (wrong patronymic guess). Found and confirmed via RosInvest: Plekhanov Russian Economic Academy, 1995, Финансы и кредит -- added to education with qualification_degree Specialist degree (pre-Bologna mainstream economics academy, same reasoning as Gusev/Klyukin entries). Also found and added a previously-unknown 2013 Sberbank role (foreign-subsidiary-bank strategy) via RBC/Banki.ru, which fits chronologically between the 2008 Swedbank CFO role and the Renaissance Insurance/Sovcombank roles."
+                },
+                {
+                    "name":  "Mikhail Olegovich Avtukhov",
+                    "current_role":  "Corporate Officer/Principal",
+                    "company_name":  "ПАО \"Совкомбанк\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Московский государственный университет дизайна и технологии",
+                                          "year":  2000,
+                                          "field":  "экономика и управление на предприятии легкой промышленности",
+                                          "qualification":  "экономист-менеджер",
+                                          "qualification_degree":  "Specialist degree"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ОАО Инвестбанк \"Открытие\" / Банк \"ФК Открытие\"",
+                                                        "role":  "managing director; head of debt instruments trading; vice president/director of capital markets department",
+                                                        "start_year":  2010,
+                                                        "end_year":  2015,
+                                                        "description":  "Vklader lists Otkritie roles from 2010 to July 2015.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Совкомбанк\"",
+                                                        "role":  "Deputy Chairman of the Management Board; Head of Corporate-Investment Block; Management Board member",
+                                                        "start_year":  2015,
+                                                        "end_year":  null,
+                                                        "description":  "Vklader lists advisor to Chairman in August-November 2015, Deputy Chairman from November 2015, and Management Board member from March 2018.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "Row 528 lists Mikhail Olegovich Avtukhov as Corporate Officer/Principal for SVCB."
+                                    },
+                                    {
+                                        "url":  "https://vklader.com/persons/mihail-avtuhov/",
+                                        "title":  "Михаил Автухов, Совкомбанк - ВКЛАДЕР",
+                                        "fact":  "Profile gives education at Moscow State University of Design and Technology and career roles at Otkritie and Sovcombank."
+                                    }
+                                ],
+                    "notes":  "No research publications, patents, or h-index were found for the target person. Quality pass 2026-08-01: qualification_degree set to Specialist degree for the 2000 economist-manager diploma (Russian pre-Bologna specialist qualification, same reasoning as other same-era entries in this file); Otkritie and Sovcombank professional_experience entries received GICS Financials/Banks/Banks using already-cited employer identity."
+                },
+                {
+                    "name":  "Mikhail Kuchment",
+                    "current_role":  "Chairman",
+                    "company_name":  "ПАО \"Совкомбанк\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Московский физико-технический институт",
+                                          "year":  1996,
+                                          "field":  null,
+                                          "qualification":  "физик-исследователь",
+                                          "qualification_degree":  "Specialist degree"
+                                      },
+                                      {
+                                          "institution":  "Московская школа управления Сколково",
+                                          "year":  2012,
+                                          "field":  "Executive MBA",
+                                          "qualification":  "graduate of Executive MBA program",
+                                          "qualification_degree":  "MBA"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Samsung Electronics",
+                                                        "role":  "assistant manager, later head of home appliances/electronics sales department",
+                                                        "start_year":  1994,
+                                                        "end_year":  2002,
+                                                        "description":  "DeloRos biography states he started at Samsung Electronics in 1994 as assistant manager in the home electronics department and led the home appliance/electronics sales department from 1997.",
+                                                        "sector":  "Information Technology",
+                                                        "industry_group":  "Technology Hardware & Equipment",
+                                                        "industry":  "Technology Hardware, Storage & Peripherals"
+                                                    },
+                                                    {
+                                                        "organization":  "М.Видео",
+                                                        "role":  "commercial director; minority shareholder",
+                                                        "start_year":  2002,
+                                                        "end_year":  2008,
+                                                        "description":  "DeloRos biography states he moved to M.Video in 2002 as commercial director and minority shareholder, prior to co-founding Hoff in 2008.",
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Discretionary Distribution & Retail (New Name)",
+                                                        "industry":  "Specialty Retail"
+                                                    },
+                                                    {
+                                                        "organization":  "Home Interior / Hoff",
+                                                        "role":  "co-owner and vice president",
+                                                        "start_year":  2008,
+                                                        "end_year":  null,
+                                                        "description":  "TAdviser describes him as co-owner and vice president of the Hoff retail network from 2008; DeloRos adds that Hoff was co-founded with Alexander Zayontsev, initially under the Austrian Kika brand franchise, later becoming a leading Russian furniture retailer.",
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Discretionary Distribution & Retail (New Name)",
+                                                        "industry":  "Specialty Retail"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Совкомбанк\"",
+                                                        "role":  "Chairman of the Supervisory Board",
+                                                        "start_year":  2015,
+                                                        "end_year":  null,
+                                                        "description":  "TAdviser states he was elected Chairman of Sovcombank\u0027s Supervisory Board in April 2015; CSV lists Chairman for SVCB.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "Row 529 lists Mikhail Kuchment as Chairman for SVCB."
+                                    },
+                                    {
+                                        "url":  "https://tadviser.com/index.php/Person:Kuchment_Mikhail_Lvovich",
+                                        "title":  "Kuchment Mikhail Lvovich - TAdviser",
+                                        "fact":  "Profile lists MIPT 1996, Skolkovo Executive MBA 2012, Hoff role, and election as Chairman of Sovcombank Supervisory Board in April 2015."
+                                    },
+                                    {
+                                        "url":  "https://deloros.ru/litsa/kuchment-mikhail-lvovich/",
+                                        "title":  "Кучмент Михаил Львович - Деловая Россия",
+                                        "fact":  "Confirms 1996 MIPT graduation with qualification физик-исследователь; adds INSEAD and Columbia Business School executive programs, 2012 Skolkovo Executive MBA, 1994 Samsung Electronics start, 1997 head of Samsung home-appliance sales, 2002 move to M.Video as commercial director/minority shareholder, and 2008 Hoff co-founding with Alexander Zayontsev."
+                                    }
+                                ],
+                    "notes":  "Patronymic identified from external source as Lvovich. No academic/research record found. Quality pass 2026-08-01 gap follow-up: ran fresh queries (\"Кучмент Михаил Львович\" МФТИ, Kuchment MIPT qualification research physicist) not tried in round 1 (which had only tried \"Кучмент\" МФТИ Сколково Executive MBA as one combined query). Found and confirmed via two independent sources (Letopis wiki and DeloRos, both with matching verbatim wording) that MIPT 1996 conferred the qualification физик-исследователь (research physicist) -- filled qualification and qualification_degree (Specialist degree; MIPT's pre-Bologna Phystech-system program). DeloRos also surfaced two previously-unknown career stops (Samsung Electronics 1994-2002, M.Video 2002-2008) which were added to professional_experience with sourced GICS. INSEAD/Columbia executive-education attendance and current board seats at X5 Retail Group and Delovaya Rossiya were also mentioned by DeloRos but were not promoted to separate JSON entries in this bounded round -- left for a future pass if warranted."
+                },
+                {
+                    "name":  "Mikhail Vasilyevich Klyukin",
+                    "current_role":  "Director/Board Member",
+                    "company_name":  "ПАО \"Совкомбанк\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Финансовая академия при Правительстве РФ",
+                                          "year":  1999,
+                                          "field":  "финансы и кредит",
+                                          "qualification":  "экономист",
+                                          "qualification_degree":  "Specialist degree"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Совкомбанк\"",
+                                                        "role":  "Director/Board Member",
+                                                        "start_year":  2012,
+                                                        "end_year":  null,
+                                                        "description":  "CSV lists Director/Board Member for SVCB; external profiles identify him as a Sovcombank co-owner/board figure.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "Row 531 lists Mikhail Vasilyevich Klyukin as Director/Board Member for SVCB."
+                                    },
+                                    {
+                                        "url":  "https://moneymakerfactory.ru/spravochnik/klyukin-mihail-vasilevich/",
+                                        "title":  "Клюкин Михаил Васильевич - MoneyMakerFactory",
+                                        "fact":  "Search/opened-source trail identifies Financial Academy education in finance and credit, qualification economist, and Sovcombank connection."
+                                    }
+                                ],
+                    "notes":  "Education source is secondary; no official 2024 personal biography found. Quality pass 2026-08-01: qualification_degree set to Specialist degree for the 1999 economist diploma (Russian pre-Bologna specialist qualification, same reasoning as other same-era Financial Academy entries in this file); Sovcombank professional_experience entry received GICS Financials/Banks/Banks (self-employer, matches company-level classification)."
+                },
+                {
+                    "name":  "Aleksey Fisun",
+                    "current_role":  "Director/Board Member",
+                    "company_name":  "ПАО \"Совкомбанк\"",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Совкомбанк\"",
+                                                        "role":  "Director/Board Member",
+                                                        "start_year":  2013,
+                                                        "end_year":  null,
+                                                        "description":  "CSV lists Director/Board Member and a 2013-12-09 date; external governance/sanctions search identified Sovcombank linkage but no education.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "Row 532 lists Aleksey Fisun as Director/Board Member for SVCB, with comment date 2013-12-09."
+                                    },
+                                    {
+                                        "url":  "https://www.marketscreener.com/quote/stock/SOVCOMBANK-163020286/company-governance/",
+                                        "title":  "Sovcombank governance - MarketScreener",
+                                        "fact":  "Governance page was used as a weak external pointer for 2024 board/executive identities where official local disclosure hides personal names."
+                                    },
+                                    {
+                                        "url":  "https://ngoreport.org/sanctions-database/fisun-aleksey-leonidovich/",
+                                        "title":  "Fisun Aleksey Leonidovich - NGO Report sanctions database",
+                                        "fact":  "Multiple independent sanctions-database profiles (ngoreport.org, sanctions-finder.com, sanctions.lursoft.lv, theorg.com) consistently give the patronymic Leonidovich and confirm Sovcombank Supervisory Board membership; none of them provided education or earlier career details."
+                                    }
+                                ],
+                    "notes":  "No confirmed education, degree, publications, patents, or h-index found. OpenSanctions direct entity URL checked during research returned no usable profile. Quality pass 2026-08-01 gap follow-up: ran fresh queries (Aleksey Fisun Sovcombank director biography, \"Алексей Фисун\" Совкомбанк акционер) not tried in round 1. Education still not found -- logging as unresolved so a future pass does not repeat these angles. Incidental finding: several sanctions-database sources (ngoreport.org, sanctions-finder.com, theorg.com, sanctions.lursoft.lv) consistently give his patronymic as Leonidovich and confirm he was sanctioned by the US (March 2022) and later delisted by the UK (2025); this patronymic is not merged into the JSON name field, consistent with this corpus's convention of keeping the name field anchored to the CSV/company-disclosure form (see the same treatment already applied to Kuchment's Lvovich patronymic)."
+                },
+                {
+                    "name":  "Nikolay Narayan Varma",
+                    "current_role":  "Director/Board Member",
+                    "company_name":  "ПАО \"Совкомбанк\"",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Совкомбанк\"",
+                                                        "role":  "Director/Board Member",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "CSV lists Director/Board Member; public search found only thin governance references.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "Row 534 lists Nikolay Narayan Varma as Director/Board Member for SVCB."
+                                    },
+                                    {
+                                        "url":  "https://tadviser.com/index.php/Person:Varma_Nikolay_Narayan",
+                                        "title":  "Varma Nikolay Narayan - TAdviser",
+                                        "fact":  "TAdviser has an entity page for the same name, but no detailed biography was available in the fetched page."
+                                    }
+                                ],
+                    "notes":  "Substantial uncertainty remains: education and earlier professional experience were not confirmed. Quality pass 2026-08-01 gap follow-up: ran fresh queries (\"Nikolay Narayan Varma\" Sovcombank, \"Nikolay Varma\" Sovcombank risk chief) not tried in round 1 (which had tried Nikolay Narayan Varma biography/education variants). Results were limited to MarketScreener/Zonebourse network-listing mirrors confirming only the Director/Board Member title with no education or earlier-career detail; one query returned zero results. Education and career remain unresolved -- logging so a future pass tries different angles (e.g. Indian financial-press sources, given the name pattern) rather than repeating these. Sovcombank professional_experience entry received GICS Financials/Banks/Banks (self-employer)."
+                },
+                {
+                    "name":  "Braverman Anatoly Aleksandrovich",
+                    "current_role":  "Director/Board Member",
+                    "company_name":  "ПАО \"Совкомбанк\"",
+                    "education":  [
+                                      {
+                                          "institution":  "International College of Economics and Finance (ICEF), HSE University",
+                                          "year":  2006,
+                                          "field":  "Economics and Finance",
+                                          "qualification":  "bachelor's degree, joint HSE/University of London program",
+                                          "qualification_degree":  "Bachelor's degree"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ЛУКОЙЛ",
+                                                        "role":  "investment analysis department; M&A transactions including foreign refinery acquisitions",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "HSE's own alumni-success page states he worked over three years in LUKOIL's investment analysis department, participating in M&A transactions including acquisitions of oil refineries abroad.",
+                                                        "sector":  "Energy",
+                                                        "industry_group":  "Energy",
+                                                        "industry":  "Oil, Gas & Consumable Fuels"
+                                                    },
+                                                    {
+                                                        "organization":  "Газпром нефть",
+                                                        "role":  "head of department for asset development and acquisition in oil refining",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "HSE's alumni-success page states he headed the department for asset development and acquisition in oil refining at Gazprom Neft.",
+                                                        "sector":  "Energy",
+                                                        "industry_group":  "Energy",
+                                                        "industry":  "Oil, Gas & Consumable Fuels"
+                                                    },
+                                                    {
+                                                        "organization":  "Российский фонд прямых инвестиций (РФПИ)",
+                                                        "role":  "one of the first employees from the fund's founding in 2011; Senior Vice President, then First Deputy General Director from 2015",
+                                                        "start_year":  2011,
+                                                        "end_year":  null,
+                                                        "description":  "HSE's alumni-success page states he joined RDIF at its 2011 founding, progressed from Senior Vice President to First Deputy General Director (held since 2015), and was awarded the Order \"For Merit to the Fatherland\" II degree for participating in deals exceeding $2.5 billion cumulative investment.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "Российская венчурная компания (РВК)",
+                                                        "role":  "CEO (retaining First Deputy General Director position at RDIF)",
+                                                        "start_year":  2020,
+                                                        "end_year":  null,
+                                                        "description":  "HSE's alumni-success page states he became CEO of RVK in November 2020 while retaining his RDIF First Deputy General Director role.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Совкомбанк\"",
+                                                        "role":  "Director/Board Member",
+                                                        "start_year":  2017,
+                                                        "end_year":  null,
+                                                        "description":  "CSV lists Director/Board Member with comment date 2017-12-31. Detailed education/career sources were not accessible enough to promote.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "Row 535 lists Braverman Anatoly Aleksandrovich as Director/Board Member for SVCB, with comment date 2017-12-31."
+                                    },
+                                    {
+                                        "url":  "https://tadviser.com/index.php/Person:Braverman_Anatoly_Aleksandrovich",
+                                        "title":  "Braverman Anatoly Aleksandrovich - TAdviser",
+                                        "fact":  "TAdviser has an entity page for this name, but the fetched page contained no detailed biography."
+                                    },
+                                    {
+                                        "url":  "https://www.hse.ru/success/braverman/",
+                                        "title":  "Анатолий Браверман - НИУ ВШЭ (alumni success story)",
+                                        "fact":  "HSE's own alumni page confirms he graduated from the ICEF bachelor's program (dual degree with University of London) in 2006, then worked at LUKOIL, headed asset development/acquisition at Gazprom Neft, joined RDIF at its 2011 founding rising to First Deputy General Director in 2015, and became CEO of RVK in November 2020."
+                                    },
+                                    {
+                                        "url":  "https://vk.com/wall-13515656_60333",
+                                        "title":  "МИЭФ HSE VK post on Anatoly Braverman",
+                                        "fact":  "Corroborates 2006 ICEF bachelor's graduation and current RVK leadership role."
+                                    }
+                                ],
+                    "notes":  "HSE/ICEF search suggested an education lead but the page was not accessible during round 1, so it was not promoted to structured education. Quality pass 2026-08-01 gap follow-up: ran fresh queries (Браверман Анатолий Александрович ВШЭ МИЭФ образование, and a direct re-fetch of the HSE alumni URL) not tried in round 1 in this exact form. Successfully fetched HSE's own alumni-success page this time, which resolved the education gap (ICEF/HSE University, 2006, Bachelor's degree, joint HSE/University of London program) and additionally surfaced his full career chain (LUKOIL, Gazprom Neft, RDIF, RVK), all added to professional_experience with sourced GICS. Note: a Letopis-wiki mirror snippet said he \"graduated from the London School of Economics\" in 2006 -- this is not treated as a separate/conflicting institution, since ICEF is explicitly a joint HSE/University of London degree program and the HSE primary source is more precise and authoritative."
+                },
+                {
+                    "name":  "Regina von Fleming",
+                    "current_role":  "Director/Board Member",
+                    "company_name":  "ПАО \"Совкомбанк\"",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Axel Springer Russia",
+                                                        "role":  "CEO",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Sovcombank's own 2020-03-03 PRNewswire appointment announcement states she had 25 years of experience in Central and Eastern Europe and was CEO of Axel Springer Russia for 10 years, leading the media group's transition from print to digital.",
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Media & Entertainment",
+                                                        "industry":  "Media"
+                                                    },
+                                                    {
+                                                        "organization":  "Hurriyet Group",
+                                                        "role":  "senior/advisory role",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Same Sovcombank appointment announcement lists senior and advisory roles at Hurriyet Group.",
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Media & Entertainment",
+                                                        "industry":  "Media"
+                                                    },
+                                                    {
+                                                        "organization":  "Delta Capital",
+                                                        "role":  "senior/advisory role",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Same Sovcombank appointment announcement lists a senior/advisory role at Delta Capital, an emerging-markets private equity investor.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "Krone AG",
+                                                        "role":  "senior/advisory role",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Same Sovcombank appointment announcement lists a senior/advisory role at Krone AG; which of the several companies using this name was not confirmed, so no GICS classification is assigned.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "МТС (MTS)",
+                                                        "role":  "board member",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Sovcombank's appointment announcement lists board experience at NYSE- and MOEX-listed MTS.",
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Telecommunication Services",
+                                                        "industry":  "Wireless Telecommunication Services"
+                                                    },
+                                                    {
+                                                        "organization":  "Группа ЧТПЗ (Chelpipe Group)",
+                                                        "role":  "board member",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Sovcombank's appointment announcement lists board experience at Chelpipe Group.",
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Metals & Mining"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Совкомбанк\"",
+                                                        "role":  "Director/Board Member",
+                                                        "start_year":  2020,
+                                                        "end_year":  null,
+                                                        "description":  "CSV lists Director/Board Member with comment date 2020-01-31; official 2020-03-03 Sovcombank appointment announcement confirms she and Joel Lautier were appointed Independent Non-Executive Directors.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    },
+                                                    {
+                                                        "organization":  "AmCham / public board profiles",
+                                                        "role":  "board/director and advisor roles",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Search chain found AmCham references connecting Regina von Fleming with Sovcombank board and other board/advisor roles; detailed education was not confirmed.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "Row 536 lists Regina von Fleming as Director/Board Member for SVCB, with comment date 2020-01-31."
+                                    },
+                                    {
+                                        "url":  "https://amcham.ru/eng/events/report/20211116_wwmf",
+                                        "title":  "AmCham event/source trail",
+                                        "fact":  "Search chain identified Regina von Fleming as connected with Sovcombank board/advisory roles; page content was only partially extractable."
+                                    },
+                                    {
+                                        "url":  "https://www.prnewswire.com/news-releases/sovcombank-announces-appointment-of-two-new-independent-non-executive-directors-301015574.html",
+                                        "title":  "Sovcombank Announces Appointment of Two New Independent Non-Executive Directors - PRNewswire, 2020-03-03",
+                                        "fact":  "Official Sovcombank press release confirming the 2020-03-03 appointment of Regina von Fleming (25 years experience in CEE, CEO of Axel Springer Russia for 10 years, senior/advisory roles at Hurriyet Group/Delta Capital/Krone AG, board experience at NYSE- and MOEX-listed MTS and at Chelpipe Group) and Joel Lautier as Independent Non-Executive Directors. No education details are given for either director."
+                                    }
+                                ],
+                    "notes":  "No confirmed education details found. TAdviser entity page was essentially empty. Quality pass 2026-08-01 gap follow-up: ran fresh queries (\"Regina von Fleming\" biography education career AmCham, \"Regina von Fleming\" Sovcombank resign 2022 sanctions) not tried in round 1. Education still not found -- logging as unresolved. However, the search surfaced Sovcombank's own official 2020-03-03 appointment press release, which had not been used in round 1 and gave a full prior-career list (Axel Springer Russia CEO, Hurriyet Group, Delta Capital, Krone AG, MTS board, Chelpipe Group board); these were added to professional_experience with GICS where the company identity was unambiguous (Krone AG left all-null since at least two different real companies share that name and which one could not be confirmed). No evidence was found either way of her resigning after Sovcombank's 2022 sanctioning (unlike Joel Lautier, see his notes), so her Sovcombank current_role/end_year were left unchanged."
+                },
+                {
+                    "name":  "Joel Raymond Lautier",
+                    "current_role":  "Director/Board Member",
+                    "company_name":  "ПАО \"Совкомбанк\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Московская школа управления «Сколково»",
+                                          "year":  2014,
+                                          "field":  "management",
+                                          "qualification":  "MBA",
+                                          "qualification_degree":  "MBA"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Совкомбанк\"",
+                                                        "role":  "Director/Board Member (non-executive, Supervisory Board)",
+                                                        "start_year":  2020,
+                                                        "end_year":  2022,
+                                                        "description":  "CSV lists Director/Board Member with comment date 2020-03-02, without an end date. English Wikipedia (citing French business newspaper Les Echos) states he resigned from the Sovcombank supervisory board on 25 February 2022, one day after the bank itself was placed under sanctions, and was nonetheless personally added to the US sanctions list in March 2022; OFAC removed him from that list in June 2023 after he challenged the designation. end_year set to 2022 on this external evidence -- see notes for the unresolved tension with the CSV/current_role framing used across this dataset.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    },
+                                                    {
+                                                        "organization":  "RGG Capital",
+                                                        "role":  "Founder and CEO",
+                                                        "start_year":  2006,
+                                                        "end_year":  null,
+                                                        "description":  "English Wikipedia and Sovcombank's own 2020-03-03 appointment press release both confirm he gave up competitive chess in 2006 to become an investment banker in Russia, founding RGG Capital (CEO since 2009 per Wikipedia), a Moscow corporate-finance advisory firm specializing in cross-border M&A for Western companies in Russia/former Soviet Union, with more than 15 years of experience in M&A, strategy, private equity and venture capital per the press release.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "Европейская электротехника (Yevropeyskaya Elektrotechnika)",
+                                                        "role":  "board member",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Sovcombank's 2020-03-03 appointment press release lists board experience at MOEX-listed Yevropeyskaya Elektrotechnika.",
+                                                        "sector":  "Industrials",
+                                                        "industry_group":  "Capital Goods",
+                                                        "industry":  "Electrical Equipment"
+                                                    },
+                                                    {
+                                                        "organization":  "Синтез-ОКА (Sintez-OKA)",
+                                                        "role":  "board member (former)",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Sovcombank's press release lists a former board seat at Sintez-OKA; the company's primary line of business could not be confirmed with confidence, so no GICS classification is assigned.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Русский магний (Russian Magnesium)",
+                                                        "role":  "Chairman (former)",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Sovcombank's press release lists a former chairmanship of Russian Magnesium.",
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Metals & Mining"
+                                                    },
+                                                    {
+                                                        "organization":  "Chess / FIDE public profile trail",
+                                                        "role":  "chess grandmaster / professional chess figure",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Search chain confirmed that the same name is associated with FIDE/chess profiles; this was used only for identity disambiguation, not as a Sovcombank role source. Wikipedia gives grandmaster title 1993/1994, World Junior Champion 1988.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "Row 537 lists Joel Raymond Lautier as Director/Board Member for SVCB, with comment date 2020-03-02."
+                                    },
+                                    {
+                                        "url":  "https://tadviser.com/index.php/Person:Lautier_Joel",
+                                        "title":  "Lautier Joel - TAdviser",
+                                        "fact":  "TAdviser has an entity page for the name, but it contained no detailed biography in the fetched page."
+                                    },
+                                    {
+                                        "url":  "https://en.wikipedia.org/wiki/Jo%C3%ABl_Lautier",
+                                        "title":  "Joel Lautier - Wikipedia",
+                                        "fact":  "States he dropped out of school at 16 for chess, gave up competitive chess in 2006 to become an investment banker in Russia, founded/led RGG Capital (CEO since 2009), graduated in 2014 with an MBA from the Skolkovo school of management in Moscow, became a Sovcombank non-executive director/supervisory board member in 2020, and -- per French newspaper Les Echos -- had already resigned from that board on 25 February 2022, the day after Sovcombank itself was sanctioned, before being personally added to the US sanctions list in March 2022 and delisted by OFAC in June 2023."
+                                    },
+                                    {
+                                        "url":  "https://www.prnewswire.com/news-releases/sovcombank-announces-appointment-of-two-new-independent-non-executive-directors-301015574.html",
+                                        "title":  "Sovcombank Announces Appointment of Two New Independent Non-Executive Directors - PRNewswire, 2020-03-03",
+                                        "fact":  "Official Sovcombank press release confirming the 2020-03-03 appointment of Joel Lautier (more than 15 years of M&A/Strategy/PE/VC experience, Founder and CEO of RGG Capital, board experience at MOEX-listed Yevropeyskaya Elektrotechnika, formerly at Sintez-OKA and Chairman of Russian Magnesium) alongside Regina von Fleming as Independent Non-Executive Directors. No education details are given."
+                                    }
+                                ],
+                    "notes":  "No confirmed education details found in round 1. FIDE/Wikipedia leads were treated as identity disambiguation only. Quality pass 2026-08-01: (1) GICS label correctness fix -- the 'Chess / FIDE public profile trail' entry (an identity-disambiguation note, not a real employer) had been given a nonsensical GICS label of Industrials/Transportation/Ground Transportation (New Name); reset to all-null since a chess federation/identity-disambiguation entry is not a classifiable commercial organization. (2) Gap follow-up: ran fresh queries (Joel Lautier chess grandmaster education university degree; Joel Lautier Sovcombank 2024 board supervisory) not tried in round 1. Found and confirmed via Wikipedia that he holds an MBA (Skolkovo School of Management, Moscow, 2014) -- added to education. (3) GENUINE INCONSISTENCY found and investigated: the CSV/JSON current_role and the original professional_experience entry treated him as an ongoing (no end date) Sovcombank Director/Board Member, matching the local annual report's count of 9 Supervisory Board members with no named departures disclosed for 2024. However, English Wikipedia, citing French business newspaper Les Echos, states he resigned from the Sovcombank board on 25 February 2022 (the day after the bank itself was sanctioned) and was nonetheless personally sanctioned by the US in March 2022, which Les Echos called 'bizarre' precisely because he had already left; he was delisted by OFAC in June 2023. This was cross-checked against Sovcombank's own 2020 appointment press release (confirms the original appointment date/details, giving no reason to doubt the source's overall reliability) and against several data-aggregator sites (MarketScreener, PitchBook, TheOrg, Equilar) that still list him as a current board member -- but those are generic un-dated aggregator profiles of exactly the kind known to go stale for sanctioned Russian-linked individuals post-2022, so they do not outweigh a specific, dated, named-newspaper-sourced resignation. No official 2024 Sovcombank document names directors at all (per this file's board_sources), so neither side can be confirmed from the primary local filing. Resolution: added end_year 2022 to the Sovcombank professional_experience entry (directly supported by the dated resignation), while leaving the person-level current_role field as 'Director/Board Member' unchanged, since that field is anchored to the CSV/company-disclosure convention used identically across this entire corpus and one secondary source should not unilaterally override the corpus's primary role-anchor mechanism. This conflict is left explicitly flagged rather than silently resolved either way. (4) The same press release used to resolve the education gap also surfaced RGG Capital, Yevropeyskaya Elektrotechnika, Sintez-OKA and Russian Magnesium roles, added to professional_experience with GICS where the company identity was unambiguous (Sintez-OKA left all-null, business line not confirmed)."
+                },
+                {
+                    "name":  "Sergey Nikolaevich Bondarovich",
+                    "current_role":  "Director/Board Member",
+                    "company_name":  "ПАО \"Совкомбанк\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Российский университет дружбы народов",
+                                          "year":  1992,
+                                          "field":  "математика",
+                                          "qualification":  null,
+                                          "qualification_degree":  "Specialist degree"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "AT\u0026T",
+                                                        "role":  "regional manager / telecom experience",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Biography source describes telecom career before later executive roles.",
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Telecommunication Services",
+                                                        "industry":  "Diversified Telecommunication Services"
+                                                    },
+                                                    {
+                                                        "organization":  "МТС",
+                                                        "role":  "Vice President; director of macro-region Moscow",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Biography source lists senior MTS roles.",
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Telecommunication Services",
+                                                        "industry":  "Wireless Telecommunication Services"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Совкомбанк\"",
+                                                        "role":  "Director/Board Member; independent director / Audit Committee chair in 2024 context",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "CSV lists Director/Board Member; local annual report says a new independent director joined in 2024 and headed the Audit Committee, matching the search chain.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "Row 538 lists Sergey Nikolaevich Bondarovich as Director/Board Member for SVCB."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/SVCB/годовой отчет Совкомбанка за 2024.pdf",
+                                        "title":  "Годовой отчет Совкомбанка за 2024",
+                                        "fact":  "Page 17: the annual report states a new independent director joined the Supervisory Board in 2024 and headed the Audit Committee, becoming senior independent director."
+                                    },
+                                    {
+                                        "url":  "https://memoryon.net/ru/pages/bondarovich-sergej-nikolaevich?pageId=621e770180f9d4000b99e8c3",
+                                        "title":  "Бондарович Сергей Николаевич - Memoryon",
+                                        "fact":  "Biography profile identifies RUDN mathematics education and telecom/MTS career background."
+                                    }
+                                ],
+                    "notes":  "The link between the unnamed new independent director in the local annual report and Bondarovich is inferred from CSV plus external search chain; the annual report itself does not name him. Quality pass 2026-08-01: qualification_degree set to Specialist degree for the 1992 RUDN mathematics diploma (Russia's two-tier bachelor/master system only began appearing at a handful of pilot institutions from the early 1990s and was not yet in effect for a 1992 graduate at a mainstream institution like RUDN, so the standard 5-year specialist diploma applies with high confidence even though the source did not give an explicit qualification title). AT&T, MTS and Sovcombank professional_experience entries received GICS (Communication Services/Telecommunication Services -- Diversified for AT&T, Wireless for MTS -- and Financials/Banks/Banks for the self-employer) using the already-cited employer identities; no new source needed since these are globally known entities."
+                }
+            ],
+    "board_sources":  [
+                          {
+                              "url":  "MOEXBMI_2024.csv",
+                              "title":  "MOEXBMI_2024.csv",
+                              "fact":  "CSV contains predefined company people and positions used as pipeline input."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/SVCB/годовой отчет Совкомбанка за 2024.pdf",
+                              "title":  "Годовой отчет Совкомбанка за 2024",
+                              "fact":  "Page 17: in 2024 the Supervisory Board was elected with 9 members; 4 of 9 were independent directors; page 19 describes the Management Board and Chairman of the Management Board as executive bodies."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/SVCB/Приложения к ГО/прил. к ГО_отчет о соблюдении ККУ.pdf",
+                              "title":  "Отчет о соблюдении Кодекса корпоративного управления",
+                              "fact":  "Page 3: management bodies are General Shareholders Meeting, Supervisory Board, Management Board and Chairman of the Management Board; pages 12-13 state candidate biographical data was partly not disclosed due regulatory restrictions."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/SVCB/IFRS FS Sovсombank Group 2024m12_RUS.pdf",
+                              "title":  "Консолидированная финансовая отчетность ПАО «Совкомбанк» за 2024",
+                              "fact":  "Page 17: as of 31 December 2024 the Supervisory Board consisted of 9 people, including 4 independent directors; pages 90-91 describe Supervisory Board and Management Board governance roles."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/SVCB/Приложения к ГО/прил. к ГО_отчет о СЗ за 2024.pdf",
+                              "title":  "Отчет о сделках с заинтересованностью за 2024",
+                              "fact":  "Page 12: the report is signed by D.V. Gusev as Chairman of the Management Board."
+                          },
+                          {
+                              "url":  "https://sovcombank.ru/about/pages/shareholders",
+                              "title":  "Совкомбанк: Акционерам и инвесторам",
+                              "fact":  "Official shareholder page contains 2024 meeting materials; names are restricted/redacted in the public materials, consistent with local KKU explanation."
+                          },
+                          {
+                              "url":  "https://www.marketscreener.com/quote/stock/SOVCOMBANK-163020286/company-governance/",
+                              "title":  "Sovcombank governance - MarketScreener",
+                              "fact":  "Used as a weak external governance pointer for current officer/director identity where official 2024 disclosure hides personal names."
+                          }
+                      ],
+    "sources":  [
+                    {
+                        "url":  "https://vklader.com/persons/dmitrij-gusev/",
+                        "title":  "Дмитрий Гусев, Совкомбанк - ВКЛАДЕР",
+                        "fact":  "Education, degree, Deloitte/PwC and Sovcombank role details for Dmitry Gusev."
+                    },
+                    {
+                        "url":  "https://www.tadviser.ru/index.php/Персона:Хотимский_Дмитрий_Владимирович",
+                        "title":  "Хотимский Дмитрий Владимирович - TAdviser",
+                        "fact":  "Education and career details for Dmitry Khotimskiy."
+                    },
+                    {
+                        "url":  "https://vklader.com/persons/mihail-avtuhov/",
+                        "title":  "Михаил Автухов, Совкомбанк - ВКЛАДЕР",
+                        "fact":  "Education and career details for Mikhail Avtukhov."
+                    },
+                    {
+                        "url":  "https://tadviser.com/index.php/Person:Pavel_Barchugov",
+                        "title":  "Pavel Barchugov - TAdviser",
+                        "fact":  "Career details for Pavel Barchugov."
+                    },
+                    {
+                        "url":  "https://tadviser.com/index.php/Person:Kuchment_Mikhail_Lvovich",
+                        "title":  "Kuchment Mikhail Lvovich - TAdviser",
+                        "fact":  "Education and career details for Mikhail Kuchment."
+                    },
+                    {
+                        "url":  "https://memoryon.net/ru/pages/bondarovich-sergej-nikolaevich?pageId=621e770180f9d4000b99e8c3",
+                        "title":  "Бондарович Сергей Николаевич - Memoryon",
+                        "fact":  "Education and career details for Sergey Bondarovich."
+                    }
+                ],
+    "validation_notes":  "Processed 13 unique people from 15 SVCB CSV rows; Dmitry Gusev and Dmitry Khotimskiy appeared twice because each had executive and board roles. Checked 4 local SVCB documents: annual report, corporate-governance-code report, related-party transactions report, and IFRS financial statements. Completed one research round per person, 13 person-rounds total. Local official 2024 documents confirm governance structure, board size and executive-body structure but intentionally do not disclose most personal biographies due restrictions described in the KKU report. Weak or partially extractable sources were used for Cherstvova, Klyukin, Varma, Braverman, Fleming, Lautier and Bondarovich; these are flagged in person notes. Namesakes were checked through company/role anchors; no academic-author or unrelated-profile facts were promoted without company linkage. Remaining conflict: official local 2024 sources hide names while CSV and external governance sources supply names, so the final board/person mapping is treated as soft-validated rather than fully official. QUALITY PASS 2026-08-01 (round 1, see research_notes/SVCB/quality_pass_round1_20260801.md for full detail): Step 0 baseline check against git HEAD found no regression (all notes, descriptions and source citations matched or exceeded the committed baseline) before any edits were made. Simple-omission desyncs fixed: qualification_degree filled for 11 education/degree entries across Gusev, Khotimskiy, Cherstvova, Avtukhov, Kuchment, Klyukin and Bondarovich, either directly from an already-cited fact (Khotimskiy's MSU entry) or from high-confidence context inference (Russian pre-Bologna Specialist-degree era, or Doctoral degree for Gusev's Kandidat nauk) per REFINEMENT.md's context-inference policy; 14 Sovcombank self-employer professional_experience entries plus Otkritie, Deloitte, Coopers & Lybrand/PwC, Hoff, AT&T and MTS entries received GICS sector/industry_group/industry that had been left all-null despite unambiguous employer identity. GICS label-correctness fixes: (1) Joel Lautier's 'Chess / FIDE public profile trail' identity-disambiguation entry had been wrongly tagged Industrials/Transportation/Ground Transportation -- reset to all-null (not a classifiable commercial organization); (2) Elena Cherstvova's bundled 'Поволжский немецкий банк / GE Money Bank / Министерство регионального развития РФ' entry had been tagged Financials/Banks/Banks even though one of the three named organizations is a federal government ministry -- split into a bank entry (kept Banks) and a ministry entry (GICS nulled, correctly non-classifiable). Bounded gap follow-ups (fresh queries not tried in round 1, one attempt each): education FOUND and added for Pavel Barchugov (Plekhanov Russian Economic Academy 1995, plus a new 2013 Sberbank role), Anatoly Braverman (ICEF/HSE 2006 Bachelor's, plus LUKOIL/Gazprom Neft/RDIF/RVK career), Mikhail Kuchment's MIPT qualification (физик-исследователь, plus new Samsung Electronics/M.Video career entries), and Joel Lautier (Skolkovo MBA 2014, plus RGG Capital/Yevropeyskaya Elektrotechnika/Sintez-OKA/Russian Magnesium roles, all via Sovcombank's own 2020 appointment press release also used for Regina von Fleming's newly-added Axel Springer/Hurriyet/Delta Capital/Krone AG/MTS/Chelpipe roles); education for Nikolay Narayan Varma, Aleksey Fisun (patronymic Leonidovich confirmed instead) and Regina von Fleming remained unresolved after fresh queries and are logged in person notes so a future pass tries different angles. GENUINE INCONSISTENCY investigated and documented: Joel Lautier's CSV-anchored 'ongoing board member' status conflicts with an external, dated, named-newspaper-sourced resignation (25 February 2022, per Wikipedia/Les Echos); after cross-checking against Sovcombank's own press release and several generic (likely stale) data-aggregator profiles, end_year 2022 was added to his Sovcombank professional_experience entry while current_role was deliberately left unchanged (anchored to this corpus's CSV-based convention) -- the conflict is documented, not silently resolved either way. No previously confirmed fact, description, note, source citation or correctly-non-classifiable null was deleted or shortened in this round.",
+    "sector":  "Financials",
+    "industry_group":  "Banks",
+    "industry":  "Banks"
+}

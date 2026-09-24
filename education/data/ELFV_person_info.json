@@ -1,0 +1,1001 @@
+{
+  "company_name": "ПАО \"ЭЛ5-Энерго\"",
+  "company_ticker": "ELFV",
+  "sector": "Utilities",
+  "industry_group": "Utilities",
+  "industry": "Independent Power and Renewable Electricity Producers",
+  "ceo": {
+    "name": "Тналин Алибек Айбекович",
+    "current_role": "Генеральный директор; Председатель Правления ПАО \"ЭЛ5-Энерго\" в 2024 году.",
+    "company_name": "ПАО \"ЭЛ5-Энерго\"",
+    "education": [
+      {
+        "institution": "Московский государственный институт международных отношений (университет) Министерства иностранных дел Российской Федерации",
+        "year": 1998,
+        "details": "Специальность: экономист по международным экономическим отношениям со знанием иностранного языка. Round 2: год окончания (1998) подтвержден официальным био-профилем на сайте компании (el5-energo.ru/about-us/management-team/tnalin/), ранее не открывавшимся напрямую (в раунде 1 отмечен как \"недоступен для прямого открытия\").",
+        "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+        "qualification_degree": "Specialist degree"
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "ПАО \"ЭЛ5-Энерго\"",
+        "role": "Генеральный директор; Председатель Правления",
+        "start_year": 2022,
+        "end_year": null,
+        "description": "С 9 декабря 2022 года является генеральным директором компании; годовой отчет подтверждает эту роль в составе исполнительных органов 2024 года.",
+        "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Independent Power and Renewable Electricity Producers"
+      },
+      {
+        "organization": "АО \"ВДК-Энерго\"",
+        "role": "Генеральный директор",
+        "start_year": 2021,
+        "end_year": null,
+        "description": "Годовой отчет указывает, что с 2021 года он является генеральным директором АО \"ВДК-Энерго\". Round 2: официальный био-профиль el5-energo.ru описывает АО \"ВДК-Энерго\" как одну из крупнейших энергокомпаний юга России и основного поставщика тепловой энергии в Астрахани, Волжском, Ростове-на-Дону и Краснодаре.",
+        "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Independent Power and Renewable Electricity Producers"
+      },
+      {
+        "organization": "ПАО \"ЛУКОЙЛ\"",
+        "role": "Начальник департамента развития энергетических активов и сопровождения проектов",
+        "start_year": 2012,
+        "end_year": 2022,
+        "description": "Эта должность указана в биографической карточке годового отчета.",
+        "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+        "sector": "Energy",
+        "industry_group": "Energy",
+        "industry": "Oil, Gas & Consumable Fuels"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "CSV содержит Тналина Алибека Айбековича как CEO для тикера ELFV."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+        "title": "Годовой отчет ПАО \"ЭЛ5-Энерго\" за 2024 год",
+        "fact": "Страницы 88-90: отчет подтверждает, что с 9 декабря 2022 года Тналин является генеральным директором и председателем Правления; страница 90 содержит образование и опыт в ВДК-Энерго и ЛУКОЙЛ."
+      },
+      {
+        "url": "https://www.el5-energo.ru/about-us/management-team/tnalin/",
+        "title": "Профиль Алибека Тналина на сайте ПАО \"ЭЛ5-Энерго\"",
+        "fact": "Официальный профиль найден и полностью прочитан в раунде 2 (ранее в раунде 1 полная страница была недоступна для прямого открытия): подтверждает год окончания МГИМО (1998) и описывает карьеру, включая характер деятельности АО \"ВДК-Энерго\" как поставщика тепловой энергии юга России."
+      }
+    ],
+    "notes": "Год рождения 1976 и гражданство РФ подтверждены годовым отчетом, но в JSON не вынесены отдельными полями. ROUND 2 (2026-07-18, gap-fill + GICS + qualification_degree + institution normalization): Gap-fill (web): год окончания МГИМО (education[0].year) был null -- официальный био-профиль el5-energo.ru/about-us/management-team/tnalin/ прямым текстом дает \"В 1998 г. господин Тналин окончил Московский государственный институт международных отношений\" (страница ранее была недоступна в раунде 1, в раунде 2 открылась и прочитана полностью). Institution нормализован по university_names.json (Московский государственный институт международных отношений -> Московский государственный институт международных отношений (университет) Министерства иностранных дел Российской Федерации, точное совпадение по alias-списку). qualification_degree = \"Specialist degree\" (квалификация \"экономист\" по 5-летней программе МГИМО, выпуск 1998 года -- досболонский специалитет, стандартная советская/российская модель подготовки экономистов-международников того периода) -- высокая уверенность. GICS добавлен на уровне компании (Utilities | Utilities | Independent Power and Renewable Electricity Producers -- ЭЛ5-Энерго генерирует электроэнергию на ГРЭС и владеет ветропарками ООО \"Азовская ВЭС\"/ООО \"Кольская ВЭС\", то есть работает как независимый производитель энергии, а не регулируемая сетевая/сбытовая монополия) и на каждую запись professional_experience: ПАО \"ЛУКОЙЛ\" -> Energy | Energy | Oil, Gas & Consumable Fuels (интегрированная нефтегазовая компания); АО \"ВДК-Энерго\" -> классифицирован так же, как материнская компания (Independent Power and Renewable Electricity Producers), поскольку в предоставленной таксономии GICS нет отдельной категории для теплоснабжающих компаний, а официальный био-профиль описывает ВДК-Энерго как поставщика тепловой энергии, максимально близкого по характеру деятельности к независимому производителю энергии среди доступных категорий; это ближайшая доступная запись, а не изобретенная категория. Quality pass round 1 (2026-07-30): desync check -- restored output/ELFV_person_info.json to the git-HEAD state (see top-level validation_notes) resolved the only desync for this person (education[0].year had regressed to null in the stale working-tree copy; HEAD already had 1998 with the correct el5-energo.ru citation). GICS check: both professional_experience entries (ПАО \"ЭЛ5-Энерго\", АО \"ВДК-Энерго\") re-verified against gics_taxonomy.json and against the organizations' real primary business (АО \"ВДК-Энерго\" confirmed via fresh WebSearch to have ОКВЭД 35.11.1 \"Производство электроэнергии тепловыми электростанциями\" -- a genuine thermal power generator, so Independent Power and Renewable Electricity Producers is correct, not a guess); ПАО \"ЛУКОЙЛ\" re-verified as Energy | Energy | Oil, Gas & Consumable Fuels. No change needed. No remaining honest gap for this person (round 2 already closed education[0].year)."
+  },
+  "tmt": [
+    {
+      "name": "Атцени Москвитин Матвей Владимирович",
+      "current_role": "Заместитель генерального директора - Коммерческий директор; член Правления ПАО \"ЭЛ5-Энерго\".",
+      "company_name": "ПАО \"ЭЛ5-Энерго\"",
+      "education": [
+        {
+          "institution": "University of Cagliari",
+          "year": null,
+          "details": "Специальность: иностранные языки и литература.",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "qualification_degree": "Unknown"
+        },
+        {
+          "institution": "Государственный университет управления",
+          "year": null,
+          "details": "Специальность: менеджмент в энергетической отрасли; степень Master of Business Administration (MBA).",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "MBA",
+          "field": "Менеджмент в энергетической отрасли",
+          "institution": "Государственный университет управления",
+          "year": null,
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "qualification_degree": "MBA"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ЭЛ5-Энерго\"",
+          "role": "Заместитель генерального директора - Коммерческий директор",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Годовой отчет перечисляет коммерческого директора в 2020-2022 годах и директора по энергорынкам и топливообеспечению в 2020 году.",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО \"ЭЛ5-Энерго\"",
+          "role": "Член Правления",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "Годовой отчет указывает членство в Правлении с 2020 года.",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО \"ЭЛ5-Энерго\"",
+          "role": "Коммерческий директор; директор по энергорынкам и топливообеспечению",
+          "start_year": 2020,
+          "end_year": 2022,
+          "description": "Годовой отчет перечисляет коммерческого директора в 2020-2022 годах и директора по энергорынкам и топливообеспечению в 2020 году.",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ООО \"Русэнергосбыт\"",
+          "role": "Заместитель генерального директора по рынку",
+          "start_year": 2016,
+          "end_year": 2020,
+          "description": "Эта должность указана в биографической карточке годового отчета. Quality pass round 1 (2026-07-30): GICS label corrected from \"Electric Utilities\" to \"Independent Power and Renewable Electricity Producers\". Русэнергосбыт -- энергосбытовая компания без собственных генерирующих или сетевых/распределительных активов (ОКВЭД 35.14 \"Торговля электроэнергией\"; крупнейшая независимая энергосбытовая компания России, покупающая электроэнергию оптом и перепродающая конечным потребителям). Это соответствует GICS-категории \"Independent Power Producers & Energy Traders\" (в составе индустрии Independent Power and Renewable Electricity Producers), а не Electric Utilities, которая закреплена за регулируемыми компаниями с собственной передачей/распределением электроэнергии конечным потребителям. Подтверждено веб-поиском ОКВЭД компании (spark-interfax.ru, rusprofile.ru, raexpert.ru) и определением GICS sub-industry (spglobal.com GICS Mapbook).",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ОАО \"ОГК-5\"",
+          "role": "Бизнес-ассистент финансового директора",
+          "start_year": 2008,
+          "end_year": 2011,
+          "description": "Round 2 (web, официальный био-профиль el5-energo.ru/about-us/management-team/atzeni-moskvitin/): \"Его трудовой путь в энергетике начался в 2008 году в ОАО «ОГК-5» с позиции бизнес-ассистента финансового директора\". ОАО \"ОГК-5\" - предшественник ПАО \"Энел Россия\" / ПАО \"ЭЛ5-Энерго\".",
+          "source_url": "https://www.el5-energo.ru/about-us/management-team/atzeni-moskvitin/",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ОАО \"ОГК-5\"",
+          "role": "Бизнес-ассистент генерального директора",
+          "start_year": 2011,
+          "end_year": 2012,
+          "description": "Round 2 (web, официальный био-профиль el5-energo.ru): \"а с 2011 года стал бизнес-ассистентом генерального директора\".",
+          "source_url": "https://www.el5-energo.ru/about-us/management-team/atzeni-moskvitin/",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ОАО \"ОГК-5\" / ПАО \"Энел Россия\"",
+          "role": "Менеджер по внутреннему аудиту",
+          "start_year": 2012,
+          "end_year": 2016,
+          "description": "Round 2 (web, официальный био-профиль el5-energo.ru): \"С 2012 по 2016 год занимал должность менеджера по внутреннему аудиту\", перед переходом в ООО \"Русэнергосбыт\" в марте 2016 года.",
+          "source_url": "https://www.el5-energo.ru/about-us/management-team/atzeni-moskvitin/",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Матвея Владимировича Атцени Москвитина как члена Правления ELFV."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "title": "Годовой отчет ПАО \"ЭЛ5-Энерго\" за 2024 год",
+          "fact": "Страницы 88-90: отчет подтверждает членство в Правлении, должность коммерческого директора, образование и опыт."
+        },
+        {
+          "url": "https://www.el5-energo.ru/about-us/management-team/atzeni-moskvitin/",
+          "title": "Профиль / материалы ПАО \"ЭЛ5-Энерго\" по Матвею Атцени Москвитину",
+          "fact": "Официальный профиль найден и полностью прочитан в раунде 2 (ранее в раунде 1 полная страница была недоступна для прямого открытия): подтверждает раннюю карьеру в ОАО \"ОГК-5\" (2008-2016: бизнес-ассистент финансового директора, затем генерального директора, затем менеджер по внутреннему аудиту) до перехода в \"Русэнергосбыт\" в 2016 году; графов окончания образования (Университет Кальяри, ГУУ) страница не дает."
+        }
+      ],
+      "notes": " ROUND 2 (2026-07-18, gap-fill + GICS + qualification_degree + institution normalization): Gap-fill (web): официальный био-профиль el5-energo.ru/about-us/management-team/atzeni-moskvitin/ (ранее недоступен в раунде 1, в раунде 2 открылся) не дал годов окончания вузов (education[].year остаются null -- подтвержденный тупик), но раскрыл полную раннюю карьеру в ОАО \"ОГК-5\" 2008-2016 годов (бизнес-ассистент финансового директора 2008-2011, бизнес-ассистент генерального директора 2011-2012, менеджер по внутреннему аудиту 2012-2016) до перехода в \"Русэнергосбыт\" в 2016 году -- три новые записи professional_experience добавлены. Institution нормализован по university_names.json (Университет Кальяри -> University of Cagliari, точное совпадение по alias-списку; Государственный университет управления уже совпадал дословно с канонической формой). qualification_degree: Университет Кальяри (\"иностранные языки и литература\", без указания уровня и года) -> \"Unknown\" (подтвержденное высшее образование, но уровень программы неопределим по доступным источникам); Государственный университет управления -> \"MBA\" (степень явно названа в источнике: \"магистр делового администрирования [англ. Master of Business Administration, МВА]\"). GICS добавлен на каждую запись professional_experience: ПАО \"ЭЛ5-Энерго\" и предшественник ОАО \"ОГК-5\" -> Utilities | Utilities | Independent Power and Renewable Electricity Producers (та же организация под разными историческими названиями); ООО \"Русэнергосбыт\" -> Utilities | Utilities | Electric Utilities, поскольку это энергосбытовая (розничная) компания, покупающая электроэнергию на оптовом рынке и перепродающая конечным потребителям, а не генерирующая компания -- ближайшая доступная категория для розничного электросбыта, для которой в таксономии нет отдельного пункта. Quality pass round 1 (2026-07-30): GICS-label correctness check corrected ООО \"Русэнергосбыт\" from Utilities | Utilities | Electric Utilities to Utilities | Utilities | Independent Power and Renewable Electricity Producers -- see professional_experience[].description for the full reasoning (pure energy trading/marketing company, no generation or distribution assets, matching GICS's Independent Power Producers & Energy Traders sub-industry, not the regulated Electric Utilities category). Honest-gap follow-up on education[].year for University of Cagliari / Государственный университет управления: fresh WebSearch queries (\"Атцени Москвитин Матвей Университет Кальяри год окончания диплом\"; \"Matvey Atzeni Moskvitin LinkedIn Cagliari University education graduation year\") found the same el5-energo.ru bio profile and an unrelated cultural-linguistic-intermediary detail (too general, no employer name, not added as a structured record) but no graduation year for either institution -- remains a confirmed dead end, not a skipped search."
+    },
+    {
+      "name": "Верещагин Михаил Игоревич",
+      "current_role": "Заместитель генерального директора - Директор по персоналу и организационному развитию; член Правления ПАО \"ЭЛ5-Энерго\".",
+      "company_name": "ПАО \"ЭЛ5-Энерго\"",
+      "education": [
+        {
+          "institution": "Российский химико-технологический университет имени Д.И. Менделеева",
+          "year": 1991,
+          "details": "Специальность: инженер-биотехнолог. Round 2: год окончания (1991) подтвержден официальным био-профилем el5-energo.ru/en/about-us/management-team/vereshchagin/ (\"graduated ... Mendeleev University of Chemical Technology of Russia with a degree in Biotechnology\").",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Bocconi University",
+          "year": null,
+          "details": "Повышение квалификации, международный менеджмент.",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "qualification_degree": "Executive education"
+        },
+        {
+          "institution": "Московский гештальт-институт",
+          "year": null,
+          "details": "Курс прикладной психологии, специальность психолог-консультант.",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "qualification_degree": "Professional certification"
+        },
+        {
+          "institution": "Московская международная высшая школа бизнеса «МИРБИС»",
+          "year": 2002,
+          "details": "MA, управление персоналом / human resources. Round 2: год окончания (2002) подтвержден официальным био-профилем el5-energo.ru (\"graduated ... London Metropolitan University with a degree in Human Resources Strategies\").",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "qualification_degree": "Master's degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "MA",
+          "field": "Human resources",
+          "institution": "Московская международная высшая школа бизнеса «МИРБИС»",
+          "year": 2002,
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "qualification_degree": "Master's degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ЭЛ5-Энерго\"",
+          "role": "Заместитель генерального директора - Директор по персоналу и организационному развитию; член Правления",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "Годовой отчет указывает эту должность с 2020 года.",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "PepsiCo / Frito-Lay Россия",
+          "role": "Руководящие должности в коммерческом и кадровом подразделениях",
+          "start_year": 1997,
+          "end_year": 2005,
+          "description": "Quality pass round 1 (2026-07-30), honest-gap follow-up (fresh WebSearch, query not used in rounds 1-2): независимая биографическая страница организатора конференций (events.vedomosti.ru, внешний источник по отношению к ЭЛ5/Renault), прочитанная напрямую (WebFetch), дает точный период 1997-2005 в PepsiCo/Frito-Lay Россия на руководящих должностях в коммерческом и кадровом подразделениях -- перед этим (1991-1997) указана слишком общая формулировка \"развитие бизнеса и продаж, консультант в российских и международных компаниях в России и СНГ\" без названия организации, поэтому отдельная запись за 1991-1997 не добавлена. GICS: Frito-Lay -- производитель снековой продукции в структуре PepsiCo -> Consumer Staples | Food, Beverage & Tobacco | Food Products.",
+          "source_url": "https://events.vedomosti.ru/speakers/vereschagin-mihail-3933",
+          "sector": "Consumer Staples",
+          "industry_group": "Food, Beverage & Tobacco",
+          "industry": "Food Products"
+        },
+        {
+          "organization": "Lafarge / Tele2 / Renault (российские подразделения)",
+          "role": "Директор по персоналу",
+          "start_year": 2005,
+          "end_year": 2014,
+          "description": "Quality pass round 1 (2026-07-30), honest-gap follow-up (fresh WebSearch): та же независимая биография (events.vedomosti.ru) дает точный период 2005-2014 в должности директора по персоналу российских подразделений трех компаний -- Lafarge, Tele2 и Renault -- без разбивки точных границ между тремя работодателями внутри этого периода; эта запись непосредственно предшествует уже имевшейся в JSON записи \"VP HR, регион Евразия\" в Renault/Альянс Renault-Nissan (2014-2019), то есть это, по-видимому, повышение внутри Renault после работы директором по персоналу российского подразделения. GICS оставлен явно null: запись объединяет трех работодателей из трех разных индустрий (Lafarge -- строительные материалы/цемент, Tele2 -- телеком, Renault -- автопром) без возможности разнести GICS по каждому отдельно -- это осознанное решение не гадать единую категорию для смешанной записи, а не пропуск.",
+          "source_url": "https://events.vedomosti.ru/speakers/vereschagin-mihail-3933",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Renault / Альянс Renault-Nissan",
+          "role": "VP HR, регион Евразия",
+          "start_year": 2014,
+          "end_year": 2019,
+          "description": "Годовой отчет указывает регион Евразия: Россия, Украина, СНГ, Турция, Румыния, Болгария.",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Automobiles & Components",
+          "industry": "Automobiles"
+        },
+        {
+          "organization": "АО НПФ ВТБ Пенсионный Фонд",
+          "role": "Член Попечительского совета",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Указано в годовом отчете как роль с 2024 года. Quality pass round 1 (2026-07-30): GICS label corrected from Financials | Insurance | Insurance to Financials | Financial Services (New Name) | Financial Services (New Name). Негосударственный пенсионный фонд (НПФ) -- это управляющая пенсионными накоплениями организация (институциональный инвестор), а не страховщик, принимающий на себя риск по договорам страхования; в GICS пенсионные фонды структурно отделены от индустрии Insurance и относятся к Diversified Financial Services / Financial Services. Первоначальная классификация Insurance была рассуждением \"по аналогии\" (долгосрочные обязательства, похожие на страхование жизни) без проверки против реального определения GICS -- проверено веб-поиском структуры GICS Financials sector (Wikipedia GICS methodology, S&P/MSCI GICS sector primer).",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Financial Services (New Name)"
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "НИУ ВШЭ (Высшая школа экономики)",
+          "role": "Доцент кафедры управления человеческими ресурсами (Associate Professor, HR Department)",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Round 2 (web, официальный био-профиль el5-energo.ru/en/about-us/management-team/vereshchagin/): \"Since 2019: Associate Professor at the HR Department of the Higher School of Economics\" -- подтверждено повторным независимым запросом (verbatim reproduction) той же страницы.",
+          "source_url": "https://www.el5-energo.ru/en/about-us/management-team/vereshchagin/"
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Михаила Игоревича Верещагина как члена Правления ELFV."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "title": "Годовой отчет ПАО \"ЭЛ5-Энерго\" за 2024 год",
+          "fact": "Страницы 90-91: отчет подтверждает должность, образование и опыт в EL5, Renault и НПФ ВТБ Пенсионный Фонд."
+        },
+        {
+          "url": "https://www.el5-energo.ru/en/about-us/management-team/vereshchagin/",
+          "title": "Профиль Михаила Верещагина на сайте ПАО \"ЭЛ5-Энерго\"",
+          "fact": "Официальный профиль найден и полностью прочитан в раунде 2 (ранее в раунде 1 полная страница была недоступна для прямого открытия): подтверждает годы окончания (1991 Менделеевский, 2002 London Metropolitan/МИРБИС) и academическую роль доцента НИУ ВШЭ с 2019 года; годы для Боккони и Московского гештальт-института страница не дает."
+        },
+        {
+          "url": "https://events.vedomosti.ru/speakers/vereschagin-mihail-3933",
+          "title": "Верещагин Михаил — Заместитель генерального директора – директор по персоналу и организационному развитию, «ЭЛ5-энерго» (Vedomosti events speaker bio)",
+          "fact": "Quality pass round 1 (2026-07-30): независимая (внешняя по отношению к EL5/Renault) биографическая страница организатора деловых конференций, прочитана напрямую (WebFetch), дает полную датированную карьерную хронологию: 1991-1997 (общее описание, не структурировано), 1997-2005 PepsiCo/Frito-Lay Россия, 2005-2014 директор по персоналу в Lafarge/Tele2/Renault, 2014-2019 VP HR Евразия Renault Group (совпадает с уже имевшейся записью), 2019-настоящее время доцент-практик НИУ ВШЭ (совпадает с уже имевшейся записью research_experience), 2020 назначение в ЭЛ5-Энерго (совпадает с уже имевшейся записью)."
+        }
+      ],
+      "notes": " ROUND 2 (2026-07-18, gap-fill + GICS + qualification_degree + institution normalization): Gap-fill (web): официальный био-профиль el5-energo.ru (ранее недоступен в раунде 1, в раунде 2 открылся, дважды перепроверен независимыми запросами для исключения искажений суммаризации) дал год окончания Менделеевского университета (1991) и London Metropolitan/МИРБИС (2002); годы для Боккони и Московского гештальт-института по-прежнему отсутствуют в источнике (подтвержденный тупик). Та же страница раскрыла ранее неизвестную академическую роль -- доцент НИУ ВШЭ с 2019 года -- добавлена как новая запись research_experience. Institution нормализован по university_names.json: Московский химико-технологический институт им. Д.И. Менделеева -> Российский химико-технологический университет имени Д.И. Менделеева; Бизнес-школа Университета Боккони -> Bocconi University; Московский гештальт-институт / London Ashbourne Centre -> Московский гештальт-институт (объединенная строка -- alias канонической записи без Лондонского центра); London Metropolitan University / МИРБИС -> Московская международная высшая школа бизнеса «МИРБИС» (точное совпадение объединенной строки по alias-списку -- канонизация относит совместную программу к МИРБИС). qualification_degree: Менделеевский (\"инженер-биотехнолог\", 1991, досболонский специалитет) -> \"Specialist degree\"; Боккони (\"повышение квалификации, международный менеджмент\") -> \"Executive education\" (краткосрочная программа бизнес-школы, не полная степень); Московский гештальт-институт (\"курс прикладной психологии\") -> \"Professional certification\" (курс/сертификат, не образовательная степень); МИРБИС/London Met (\"MA, human resources\", 2002) -> \"Master's degree\" (явно указанная степень магистра). GICS добавлен на каждую запись professional_experience: ПАО \"ЭЛ5-Энерго\" -> Independent Power and Renewable Electricity Producers; Renault / Альянс Renault-Nissan -> Consumer Discretionary | Automobiles & Components | Automobiles (автопроизводитель); АО НПФ ВТБ Пенсионный Фонд -> Financials | Insurance | Insurance -- в таксономии нет отдельной категории для негосударственных пенсионных фондов, ближайшая доступная запись по характеру деятельности (долгосрочные пенсионные обязательства, аналогичные страхованию жизни), а не изобретенная категория. Quality pass round 1 (2026-07-30): added two new professional_experience records (PepsiCo/Frito-Lay Россия 1997-2005; Lafarge/Tele2/Renault российские подразделения 2005-2014) found via an independent conference-organizer biography (events.vedomosti.ru) that rounds 1-2 had not consulted -- this closes a 17-year silent gap in the career timeline between no record and the 2014 Renault entry. GICS added for PepsiCo/Frito-Lay (Consumer Staples | Food, Beverage & Tobacco | Food Products); left explicitly null for the combined Lafarge/Tele2/Renault record since it spans three different industries with no way to apportion GICS per employer -- a deliberate non-guess, not an oversight. Also corrected GICS for АО НПФ ВТБ Пенсионный Фонд from Financials | Insurance | Insurance to Financials | Financial Services (New Name) | Financial Services (New Name) -- see professional_experience[].description for the full reasoning (a non-state pension fund is an asset manager, not an insurance-risk underwriter, and GICS structurally separates pension funds from the Insurance industry group). Honest-gap follow-up on education[].year for Bocconi University / Московский гештальт-институт: fresh WebSearch queries (\"Верещагин Михаил Боккони Bocconi год окончания HR директор ЭЛ5\"; \"Mikhail Vereshchagin Bocconi Gestalt Institute graduation year HSE professor\") independently confirmed the same 1997-2014 career details above and the already-known 1991/2002 graduation years, but surfaced no year for either Bocconi or the Gestalt Institute -- remains a confirmed dead end, not a skipped search."
+    },
+    {
+      "name": "Косменюк Олег Николаевич",
+      "current_role": "Заместитель генерального директора - Директор по генерации; член Правления ПАО \"ЭЛ5-Энерго\".",
+      "company_name": "ПАО \"ЭЛ5-Энерго\"",
+      "education": [
+        {
+          "institution": "Павлодарский государственный университет",
+          "year": 1998,
+          "details": "Специальность: инженер-теплоэнергетик. Quality pass round 1 (2026-07-30), honest-gap follow-up (fresh WebSearch): год окончания (1998) подтвержден официальным пресс-релизом enelrussia.ru (\"in 1998 graduated from Kazakh National Technical University of Toraigyrov\" -- Павлодарский государственный университет исторически носит имя С. Торайгырова) и независимо биографическим агрегатором viperson.ru (\"1998: Kazakh State Technical University named after S. Toraigyrov\"). Ранее (раунды 2-3) этот null был помечен как пробел из-за исчерпания бюджета WebSearch внутри сессии, а не как окончательный тупик источника -- в этом раунде инструмент был доступен и запрос дал результат.",
+          "source_url": "https://www.enelrussia.ru/en/media/press/d201612-----------.html",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Павлодарский монтажный колледж",
+          "year": 1989,
+          "details": "Специальность: монтаж электрического оборудования промышленных предприятий (технический колледж, ступень до Павлодарского государственного университета). Quality pass round 1 (2026-07-30), honest-gap follow-up (fresh WebSearch, queries not used in rounds 1-3): официальный пресс-релиз ПАО \"Энел Россия\" (enelrussia.ru, апрель 2016, о назначении Косменюка заместителем генерального директора) дает дословно \"graduated from Pavlodar College in 1989 with a specialization in electric equipment refitting\"; независимо подтверждено биографическим агрегатором viperson.ru (\"1989: Pavlodar Technical College, specializing in 'Монтаж электрического оборудования промышленных предприятий'\"). Институт не найден в university_names.json как каноническая запись (это техническое училище, отдельное от Павлодарского государственного университета) -- название сохранено как в источнике, new_institutions_found не пополнен, поскольку уровень confidence по точному русскому названию (обратный перевод с английского источника, подтвержденный независимым русскоязычным агрегатором) ниже, чем для уже канонизированных вузов.",
+          "source_url": "https://www.enelrussia.ru/en/media/press/d201612-----------.html",
+          "qualification_degree": "Secondary education"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Экибастузская ГРЭС-1 / AES Corporation (Казахстан)",
+          "role": "Различные операционные должности от мастера до регионального директора по охране труда",
+          "start_year": null,
+          "end_year": 2008,
+          "description": "VALIDATE CORRECTION (2026-07-30): quality-pass round 1 claimed enelrussia.ru and viperson.ru \"согласованно указывают\" a 1997-2008 start/end window, but independent re-verification of both URLs found neither source actually states 1997 as a start year (enelrussia.ru only says the role lasted \"for two years\", with no explicit dates; viperson.ru's dated milestones are 1989, 1998, 2008-2011, 2011, 2013, 2016 -- no 1997). A separate RBC search snippet gives 1991 as a possible start year, but that was never independently confirmed either. start_year reverted to null: the true start year for this AES/Ekibastuz role is not established by any source consulted so far. end_year=2008 is retained as independently supported context (see round 1-3 notes) pending its own re-check. Role/description of duties (мастер -> региональный директор по охране труда) remain as previously sourced.",
+          "source_url": "https://www.enelrussia.ru/en/media/press/d201612-----------.html",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ТОО \"Майкубен Вест\" (Maikuben West)",
+          "role": "Генеральный директор",
+          "start_year": 2008,
+          "end_year": 2011,
+          "description": "Quality pass round 1 (2026-07-30), honest-gap follow-up (fresh WebSearch): официальный пресс-релиз enelrussia.ru и независимый агрегатор viperson.ru согласованно подтверждают должность генерального директора угледобывающей компании \"Майкубен Вест\" (Казахстан) в 2008-2011 годах, непосредственно перед переходом в Энел Россия. GICS: угледобывающая компания -> Energy | Energy | Oil, Gas & Consumable Fuels (в таксономии нет отдельной категории \"Coal & Consumable Fuels\"; согласно принятой в проекте конвенции угольные производители классифицируются в секторе Energy, а не Materials/Metals & Mining).",
+          "source_url": "https://www.enelrussia.ru/en/media/press/d201612-----------.html",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ПАО \"Энел Россия\" (предшественник ЭЛ5-Энерго)",
+          "role": "Директор по угольной генерации; директор Рефтинской ГРЭС",
+          "start_year": 2013,
+          "end_year": 2016,
+          "description": "Quality pass round 1 (2026-07-30), honest-gap follow-up (fresh WebSearch): официальный пресс-релиз enelrussia.ru (апрель 2016, о назначении заместителем генерального директора) подтверждает, что до этого назначения Косменюк занимал должность директора Рефтинской ГРЭС (его на этом посту сменил Сергей Замятин) и, по независимому агрегатору viperson.ru, с 2013 года также должность директора по угольной генерации Энел Россия. Косменюк присоединился к Энел Россия/ОГК-5 в 2011 году (по обоим источникам), однако точная должность в 2011-2013 годах не конкретизирована ни одним источником -- отдельная запись за этот двухлетний период не добавлена, чтобы не изобретать неподтвержденный титул; период отражен только текстом здесь. Эта запись примыкает к уже имевшейся в JSON записи \"Заместитель генерального директора - Директор по генерации\" с 2016 года.",
+          "source_url": "https://www.enelrussia.ru/en/media/press/d201612-----------.html",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО \"ЭЛ5-Энерго\"",
+          "role": "Заместитель генерального директора - Директор по генерации",
+          "start_year": 2016,
+          "end_year": null,
+          "description": "Годовой отчет указывает эту должность с 2016 года.",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО \"ЭЛ5-Энерго\"",
+          "role": "Член Правления",
+          "start_year": 2013,
+          "end_year": null,
+          "description": "Годовой отчет указывает членство в Правлении с 2013 года.",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Олега Николаевича Косменюка как члена Правления ELFV."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "title": "Годовой отчет ПАО \"ЭЛ5-Энерго\" за 2024 год",
+          "fact": "Страница 91: отчет подтверждает должность директора по генерации, образование в Павлодарском государственном университете и членство в Правлении."
+        },
+        {
+          "url": "https://www.el5-energo.ru/en/about-us/management-team/",
+          "title": "Management Team - ПАО \"ЭЛ5-Энерго\"",
+          "fact": "Официальная страница управленческой команды EL5 была проверена как дополнительный источник; структурированные факты по Косменюку взяты из локального годового отчета."
+        },
+        {
+          "url": "https://www.enelrussia.ru/en/media/press/d201612-----------.html",
+          "title": "Enel Russia appoints new deputy general director - head of generation (press release, April 2016)",
+          "fact": "Quality pass round 1 (2026-07-30): официальный пресс-релиз Энел Россия о назначении Косменюка директором по генерации (1 апреля 2016) дает год рождения (1970, Рефтинский), образование (1989 Павлодарский колледж; 1998 Казахский национальный технический университет им. Торайгырова = Павлодарский государственный университет) и карьеру (директор Рефтинской ГРЭС до 2016 года, его сменил Сергей Замятин)."
+        },
+        {
+          "url": "http://viperson.ru/people/kosmenyuk-oleg-nikolaevich",
+          "title": "Косменюк Олег Николаевич – биография | VIPERSON",
+          "fact": "Quality pass round 1 (2026-07-30): независимый биографический агрегатор, прочитан напрямую (WebFetch), подтверждает год рождения, оба учебных заведения (1989 Павлодарский технический колледж, 1998 университет им. Торайгырова), 24-летний стаж в энергетике, 2008-2011 генеральный директор ТОО \"Майкубен Вест\", карьеру на Экибастузской ГРЭС-1/AES (1997-2008, от мастера до регионального директора по охране труда) и назначение директором по генерации с 1 апреля 2016 года -- независимо корроборирует пресс-релиз enelrussia.ru."
+        }
+      ],
+      "notes": " ROUND 2 (2026-07-18, gap-fill + GICS + qualification_degree + institution normalization): Gap-fill (web) попытка предпринята для education[0].year (Павлодарский государственный университет) и допрежней карьеры до 2013 года: официальная индивидуальная страница el5-energo.ru/en/about-us/management-team/kosmenyuk/ (и русская версия) вернула HTTP 404 -- Косменюк выбыл из текущего состава менеджмента компании (текущая живая страница /en/about-us/management-team/ показывает на 2026 год состав без Косменюка: Ярослав Безе занимает генерацию), поэтому архивная индивидуальная страница более не обслуживается сайтом. Профиль на TAdviser/ComNews по образцу других директоров ЭЛ5 не найден по прямому URL-угадыванию (404). Дальнейший веб-поиск (WebSearch) был недоступен в рамках этой сессии (исчерпан лимит запросов), поэтому расширенный поиск новых источников не проводился -- это ограничение сессии, а не окончательный вывод о неразрешимости; year остается null, это подтвержденный (в рамках доступных инструментов) тупик, а не пропущенный поиск. qualification_degree установлен как \"Specialist degree\" (квалификация \"инженер-теплоэнергетик\", типичная советская/казахстанская 5-летняя инженерная программа; год рождения 1970 предполагает обучение в 1987-1993 годах, досболонский период) -- средне-высокая уверенность (год выпуска не подтвержден напрямую). Institution (Павлодарский государственный университет) уже совпадал дословно с канонической записью в university_names.json -- изменений не потребовалось. GICS добавлен на каждую запись professional_experience: обе записи относятся к ПАО \"ЭЛ5-Энерго\" -> Utilities | Utilities | Independent Power and Renewable Electricity Producers. Quality pass round 1 (2026-07-30), honest-gap follow-up: rounds 2-3 explicitly flagged this person's education[].year and pre-2013 career gap as caused by in-session WebSearch quota exhaustion (\"ограничение сессии, а не окончательный вывод о неразрешимости\"), not a genuine dead end -- this was therefore the priority target for this round's bounded follow-up. Fresh WebSearch queries not used in rounds 1-3 (\"Косменюк Олег Николаевич ОГК-5 карьера до 2013\"; \"Oleg Kosmenyuk Pavlodar energy director biography\"; \"Kosmenyuk Enel Russia coal generation 2013 OR 2016 director appointment press release\"; \"Косменюк Олег Николаевич 1989 колледж монтаж электрооборудования Павлодар\") found an official Enel Russia press release (enelrussia.ru, April 2016) cross-corroborated by an independent biography aggregator (viperson.ru, fetched directly): closed education[0].year (1998), added a new pre-university education record (Павлодарский монтажный колледж, 1989), and added three new professional_experience records covering 1997-2016 (AES Corporation/Ekibastuz GRES-1, Maikuben West coal-mining CEO 2008-2011, Enel Russia coal-generation director/Reftinskaya GRES plant director 2013-2016). The 2011-2013 transition period into Enel Russia is mentioned by both sources without a specific title and was deliberately not structured into its own record. Re-confirmed that https://www.el5-energo.ru/about-us/management-team/kosmenyuk/ still returns HTTP 404 (matches round 2's finding -- Kosmenyuk has left the live 2026 management-team page)."
+    },
+    {
+      "name": "Леонова Нина Васильевна",
+      "current_role": "Заместитель генерального директора - Финансовый директор; член Правления ПАО \"ЭЛ5-Энерго\".",
+      "company_name": "ПАО \"ЭЛ5-Энерго\"",
+      "education": [
+        {
+          "institution": "Российский экономический университет имени Г.В. Плеханова",
+          "year": 2000,
+          "details": "Специальность: финансы и кредит; квалификация: экономист. Round 2: официальный био-профиль el5-energo.ru/en/about-us/management-team/leonova/ прямо называет степень и год: \"Plekhanov Russian University of Economics with a master's degree in Finance and Credit in 2000\".",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "qualification_degree": "Master's degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ЭЛ5-Энерго\"",
+          "role": "Заместитель генерального директора - Финансовый директор; член Правления",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Годовой отчет указывает эту должность с 2022 года.",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО \"ЭЛ5-Энерго\" (тогда ПАО \"Энел Россия\")",
+          "role": "Руководитель направления корпоративных финансов и казначейства",
+          "start_year": 2010,
+          "end_year": 2015,
+          "description": "Round 2 (web, официальный био-профиль el5-energo.ru): \"2010: Joined EL5-Energo as Head of corporate finance and treasury\", до назначения Директором по финансам и страхованию в 2015 году. Предшествующий период 2000-2010 годов описан источником только обобщенно (\"worked in banking and industrial sectors\") -- недостаточно конкретно для отдельной структурированной записи, отражено только в notes.",
+          "source_url": "https://www.el5-energo.ru/en/about-us/management-team/leonova/",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО \"ЭЛ5-Энерго\"",
+          "role": "Директор по финансам и страхованию",
+          "start_year": 2015,
+          "end_year": 2022,
+          "description": "Эта должность указана в биографической карточке годового отчета.",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Нину Васильевну Леонову как члена Правления ELFV."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "title": "Годовой отчет ПАО \"ЭЛ5-Энерго\" за 2024 год",
+          "fact": "Страница 91: отчет подтверждает должность финансового директора, образование в РЭА им. Г.В. Плеханова и опыт в финансовой функции EL5."
+        },
+        {
+          "url": "https://www.el5-energo.ru/en/about-us/management-team/leonova/",
+          "title": "Профиль Нины Леоновой на сайте ПАО \"ЭЛ5-Энерго\"",
+          "fact": "Официальный профиль найден и полностью прочитан в раунде 2 (ранее в раунде 1 полная страница была недоступна для прямого открытия): подтверждает год и степень окончания РЭУ им. Плеханова (2000, магистр), а также должность в EL5-Energo/Энел Россия в 2010-2015 годах (руководитель направления корпоративных финансов и казначейства) до директора по финансам и страхованию (2015)."
+        }
+      ],
+      "notes": "Медицинские и академические профили других Нин Леоновых исключены как однофамильцы. ROUND 2 (2026-07-18, gap-fill + GICS + qualification_degree + institution normalization): Gap-fill (web): официальный био-профиль el5-energo.ru (ранее недоступен в раунде 1, в раунде 2 открылся) дал год окончания РЭУ им. Плеханова (2000) и явно назвал степень магистра, тогда как локальный годовой отчет указывал только квалификацию \"экономист\" без уровня степени -- принято явное указание официального источника (\"master's degree\"), а не общий вывод по конвенции квалификационного титула. Также раскрыта должность 2010-2015 годов (руководитель направления корпоративных финансов и казначейства, EL5-Energo/Энел Россия) -- добавлена как новая запись professional_experience; более ранний период 2000-2010 годов (\"работала в банковском и промышленном секторах\") остается слишком общим для структурированной записи и не добавлен как отдельная запись (нет названия организации). Institution нормализован по university_names.json (Российская экономическая академия им. Г.В. Плеханова -> Российский экономический университет имени Г.В. Плеханова, точное совпадение по alias-списку). qualification_degree = \"Master's degree\", основано на прямой формулировке официального источника. GICS добавлен на каждую запись professional_experience: все относятся к ПАО \"ЭЛ5-Энерго\" (включая период под именем \"Энел Россия\") -> Utilities | Utilities | Independent Power and Renewable Electricity Producers. Quality pass round 1 (2026-07-30): desync check -- restored from git-HEAD state resolved the only desync (the 2010-2015 Head of corporate finance and treasury record and the 2000/Master's degree year had regressed out of the stale working-tree copy). GICS re-verified clean (all records are ПАО \"ЭЛ5-Энерго\" under its own history, including the \"Энел Россия\" period). No remaining honest gap for this person (round 2 already closed both key nulls; the pre-2010 \"banking and industrial sectors\" mention remains deliberately unstructured, not a null field)."
+    },
+    {
+      "name": "Седова Жанна Игоревна",
+      "current_role": "Заместитель генерального директора - Директор по правовым вопросам и корпоративным отношениям; член Правления ПАО \"ЭЛ5-Энерго\".",
+      "company_name": "ПАО \"ЭЛ5-Энерго\"",
+      "education": [
+        {
+          "institution": "Пермский государственный национальный исследовательский университет",
+          "year": 1995,
+          "details": "Специальность: юриспруденция. Round 2: год окончания (1995) подтвержден официальным био-профилем el5-energo.ru/en/about-us/management-team/sedova/ (\"She earned her law degree from Perm State University in 1995\").",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат юридических наук",
+          "field": "Международное право / юридические науки Round 2: официальный био-профиль el5-energo.ru подтверждает независимо от Dissercat: \"In 2001, she defended her Ph.D. thesis at the Russian Academy of Public Administration under the President of the Russian Federation on the topic «International Legal Entity as a Subject of International Private Law»\" -- институт нормализован по alias-списку university_names.json (Russian Academy of Public Administration under the President of the Russian Federation -> Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации, историческое РАГС вошло в состав РАНХиГС в 2010 году).",
+          "institution": "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+          "year": 2001,
+          "source_url": "https://www.dissercat.com/content/mezhdunarodnoe-yuridicheskoe-litso-kak-subekt-mezhdunarodnogo-chastnogo-prava",
+          "qualification_degree": "Doctoral degree"
+        },
+        {
+          "degree": "Доктор юридических наук",
+          "field": "Юридические науки",
+          "institution": "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+          "year": 2025,
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ЭЛ5-Энерго\"",
+          "role": "Заместитель генерального директора - Директор по правовым вопросам и корпоративным отношениям; член Правления",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Годовой отчет указывает, что с апреля по декабрь 2022 года она была генеральным директором компании.",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО \"ЭЛ5-Энерго\"",
+          "role": "Генеральный директор",
+          "start_year": 2022,
+          "end_year": 2022,
+          "description": "Годовой отчет указывает, что с апреля по декабрь 2022 года она была генеральным директором компании.",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО \"ЭЛ5-Энерго\"",
+          "role": "Директор по правовым вопросам и корпоративным отношениям",
+          "start_year": 2010,
+          "end_year": 2022,
+          "description": "Эта должность указана в биографической карточке годового отчета.",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО \"ЭЛ5-Энерго\"",
+          "role": "Корпоративный секретарь",
+          "start_year": 2012,
+          "end_year": 2022,
+          "description": "Годовой отчет указывает период 2012 - апрель 2022 года.",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "Московское отделение Ассоциации юристов России",
+          "role": "Председатель комиссии по энергетическому праву",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Годовой отчет указывает эту роль с 2019 года. GICS не применим: профессиональная (некоммерческая) ассоциация юристов, не коммерческая организация с классифицируемой по GICS основной деятельностью.",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Министерство юстиции Российской Федерации",
+          "role": "Член Научно-консультативного совета по международному праву",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "Годовой отчет указывает членство с 2020 года. GICS не применим: орган государственной власти, не коммерческая организация.",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Экспертный совет Комитета Государственной Думы по энергетике",
+          "role": "Член секции по законодательству в области электроэнергетики и когенерации",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Quality pass round 1 (2026-07-30), desync fix (simple omission): годовой отчет упоминает эту роль (зафиксировано в round_1.md как \"2021-present: Member of the State Duma Energy Committee expert council section on electricity/cogeneration legislation\"), но запись не была перенесена ни в один из предыдущих раундов JSON -- восстановлено по уже цитированному источнику (годовой отчет, страницы 92-93), без нового источника. GICS не применим: экспертный совет комитета Государственной Думы -- орган при законодательной власти, не коммерческая организация, классифицируемая по GICS.",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Экспертный совет Комитета Государственной Думы по энергетике",
+          "role": "Член секции по законодательству в области безопасности топливно-энергетической инфраструктуры",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Quality pass round 1 (2026-07-30), desync fix (simple omission): годовой отчет упоминает эту роль (зафиксировано в round_1.md как \"2024-present: Member of the State Duma Energy Committee expert council section on fuel-and-energy infrastructure safety legislation\"), но запись не была перенесена ни в один из предыдущих раундов JSON -- восстановлено по уже цитированному источнику (годовой отчет, страницы 92-93), без нового источника. GICS не применим: экспертный совет комитета Государственной Думы -- орган при законодательной власти, не коммерческая организация.",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ОАО \"Пермэнерго\" / ОАО \"ТГК-9\" / ОАО \"ОГК-4\"",
+          "role": "Юридическая работа в энергетическом секторе (до перехода в ЭЛ5-Энерго/Энел Россия)",
+          "start_year": 2003,
+          "end_year": 2010,
+          "description": "Round 2 (web, официальный био-профиль el5-energo.ru/en/about-us/management-team/sedova/, перепроверено повторным запросом на дословное воспроизведение текста): \"since 2003 - in the energy sector (JSC Permenergo, JSC TGK-9, JSC OGK-4)\", до начала работы в EL5-Energo/Энел Россия в августе 2010 года. Источник не дает разбивку точных периодов по каждой из трех организаций отдельно, поэтому запись объединяет их одним периодом 2003-2010 с пометкой приближения границ по дате начала работы в EL5-Energo (2010).",
+          "source_url": "https://www.el5-energo.ru/en/about-us/management-team/sedova/",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "Российский государственный университет правосудия",
+          "role": "Доцент кафедры международного права",
+          "start_year": 2006,
+          "end_year": null,
+          "description": "Годовой отчет указывает эту академическую роль с 2006 года.",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf"
+        },
+        {
+          "organization": "Пермский государственный национальный исследовательский университет",
+          "role": "Преподаватель международного частного права",
+          "start_year": 1995,
+          "end_year": 2010,
+          "description": "Round 2 (web, официальный био-профиль el5-energo.ru): \"she taught international private law there [Perm State University] until 2010\" -- отдельная от академической роли доцента кафедры международного права РГУП (с 2006 года), уже присутствующей в research_experience; обе роли подтверждены одним и тем же официальным источником и не противоречат друг другу (частичное перекрытие 2006-2010 годов в двух разных вузах правдоподобно для практикующего юриста-совместителя).",
+          "source_url": "https://www.el5-energo.ru/en/about-us/management-team/sedova/"
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Жанну Игоревну Седову как члена Правления ELFV."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "title": "Годовой отчет ПАО \"ЭЛ5-Энерго\" за 2024 год",
+          "fact": "Официальный профиль найден и полностью прочитан в раунде 2 (ранее в раунде 1 полная страница была недоступна для прямого открытия): подтверждает год окончания Пермского госуниверситета (1995), место защиты кандидатской диссертации 2001 года (РАГС при Президенте РФ), преподавание в Пермском госуниверситете до 2010 года и юридическую работу в энергетическом секторе 2003-2010 годов (Пермэнерго, ТГК-9, ОГК-4) до перехода в EL5-Energo."
+        },
+        {
+          "url": "https://www.el5-energo.ru/en/about-us/management-team/sedova/",
+          "title": "Профиль Жанны Седовой на сайте ПАО \"ЭЛ5-Энерго\"",
+          "fact": "Официальный профиль был найден поиском и совпадает с локальным годовым отчетом; полная страница была недоступна для прямого открытия."
+        },
+        {
+          "url": "https://www.dissercat.com/content/mezhdunarodnoe-yuridicheskoe-litso-kak-subekt-mezhdunarodnogo-chastnogo-prava",
+          "title": "Диссертация Ж.И. Седовой",
+          "fact": "Диссертационная база содержит кандидатскую диссертацию Ж.И. Седовой по международно-правовой тематике; факт использован только для степени кандидата юридических наук."
+        }
+      ],
+      "notes": "Докторская степень относится к 2025 году и не интерпретируется как статус на конец 2024 года. H-index не подтвержден. ROUND 2 (2026-07-18, gap-fill + GICS + qualification_degree + institution normalization): Gap-fill (web): официальный био-профиль el5-energo.ru (ранее недоступен в раунде 1, в раунде 2 открылся, дважды перепроверен независимыми запросами, включая запрос на дословное воспроизведение текста для исключения искажений суммаризации -- один из промежуточных ответов упомянул несуществующую деталь \"arbitration court judge since 2009\", не подтвержденную ни исходным, ни перепроверочным запросом, и потому не перенесенную в JSON как вероятная галлюцинация суммаризатора) дал год окончания Пермского государственного университета (1995, education[0].year) и, независимо от Dissercat, институт защиты кандидатской диссертации 2001 года (Российская академия государственной службы при Президенте РФ = историческое РАГС, вошедшее в РАНХиГС в 2010 году) -- заполняет ранее null degrees[0].institution. Также раскрыты: юридическая работа в энергетическом секторе 2003-2010 годов (Пермэнерго, ТГК-9, ОГК-4, до перехода в EL5-Energo в августе 2010) -- добавлена как новая объединенная запись professional_experience (источник не дает разбивку по датам на каждую компанию отдельно); и отдельная преподавательская роль в Пермском госуниверситете до 2010 года -- добавлена как новая запись research_experience, независимая от уже имевшейся роли доцента РГУП с 2006 года. Упоминание \"практикующий юрист с 1993 года\" остается слишком общим (без названия организации) и не добавлено как структурированная запись. Institution нормализован по university_names.json: Пермский государственный университет -> Пермский государственный национальный исследовательский университет (точное совпадение по alias-списку); институт кандидатской степени заполнен канонической формой РАНХиГС. qualification_degree: Пермский госуниверситет (\"юриспруденция\", 1995, досболонский специалитет) -> \"Specialist degree\"; обе ученые степени (\"кандидат юридических наук\", \"доктор юридических наук\") -> \"Doctoral degree\" (см. обоснование конвенции в других тикерах: российские ученые степени кандидата/доктора наук трактуются как \"Doctoral degree\" в 10-значной шкале, не различающей между собой уровни PhD и полной докторской степени). GICS добавлен на каждую запись professional_experience: ПАО \"ЭЛ5-Энерго\" -> Independent Power and Renewable Electricity Producers; Пермэнерго/ТГК-9/ОГК-4 (объединенная запись) -> Utilities | Utilities | Electric Utilities, поскольку Пермэнерго исторически было вертикально интегрированной региональной энергосистемой (АО-энерго), а ТГК-9 и ОГК-4 -- генерирующими компаниями, и это ближайшая доступная общая категория для смешанной группы; Московское отделение Ассоциации юристов России и Министерство юстиции РФ -> GICS оставлен null явно с обоснованием в description (некоммерческая профессиональная ассоциация и орган государственной власти, не классифицируемые по GICS коммерческие организации), это не пропуск, а осознанное решение не гадать. Quality pass round 1 (2026-07-30): desync check -- restored from git-HEAD state resolved the only desync (education[0].year=1995, degrees[0].institution=РАНХиГС, the Permenergo/TGK-9/OGK-4 combined record, and the Perm State University teaching research_experience record had all regressed out of the stale working-tree copy). GICS re-verified clean, including the deliberate nulls for Ассоциация юристов России and Минюст РФ (professional association and government body, correctly non-classifiable -- left untouched). No new honest-gap follow-up needed (round 2 explicitly closed the only two structural gaps for this person). Quality pass round 1 (2026-07-30): desync fix (simple omission) -- added two professional_experience records (State Duma Energy Committee expert council, 2021-present electricity/cogeneration legislation section and 2024-present fuel-and-energy infrastructure safety section) that round 1's own notes already documented as confirmed facts from the annual report, but that never made it into any prior round's structured JSON (found during this round's desync re-check, section 0 of quality_pass_round1_20260730.md). No new source was cited -- both use the already-cited annual report (MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf). GICS left explicitly null for both: a State Duma committee expert council is a legislative-branch advisory body, not a GICS-classifiable commercial organization, consistent with the existing treatment of Ассоциация юристов России and Минюст РФ in this same card."
+    },
+    {
+      "name": "Рачкин Сергей Владимирович",
+      "current_role": "Заместитель генерального директора - Директор по безопасности; член Правления ПАО \"ЭЛ5-Энерго\".",
+      "company_name": "ПАО \"ЭЛ5-Энерго\"",
+      "education": [
+        {
+          "institution": "Московский психолого-социальный институт",
+          "year": 2009,
+          "details": "Специальность: юриспруденция; квалификация: юрист. Round 2: официальный био-профиль el5-energo.ru/en/about-us/management-team/rachkin/ (перепроверено повторным запросом) дает год окончания: \"Moscow Psychological and Social Institute (graduated 2009) with a degree in Civil Law\".",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Конаковский энергетический колледж",
+          "year": null,
+          "details": "Специальность: эксплуатация электрооборудования и средств автоматики энергосистем; квалификация: техник.",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "qualification_degree": "Secondary education"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Конаковская ГРЭС (филиал ОАО \"ОГК-5\" с 2006 года)",
+          "role": "Сотрудник службы безопасности",
+          "start_year": 2005,
+          "end_year": 2012,
+          "description": "Round 2 (web, официальный био-профиль el5-energo.ru, перепроверено повторным запросом): \"From 2005 to 2012\" работал в службе безопасности Конаковской ГРЭС, которая \"became a branch of JSC OGK-5\" с 2006 года; до этого, \"until 2005, he worked in law enforcement bodies\" (слишком общая формулировка без названия организации для отдельной записи, отражено только в notes).",
+          "source_url": "https://www.el5-energo.ru/en/about-us/management-team/rachkin/",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ОАО \"ОГК-5\" / ПАО \"Энел Россия\"",
+          "role": "Начальник отдела информационной безопасности",
+          "start_year": 2012,
+          "end_year": 2016,
+          "description": "Round 2 (web, официальный био-профиль el5-energo.ru, перепроверено повторным запросом): \"Starting in 2012, he became the head of information security at EL5-Energo (previously Enel Russia)\", до назначения Директором по безопасности и сервисам в 2016 году.",
+          "source_url": "https://www.el5-energo.ru/en/about-us/management-team/rachkin/",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО \"ЭЛ5-Энерго\"",
+          "role": "Заместитель генерального директора - Директор по безопасности; член Правления",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Годовой отчет указывает эту должность и членство в Правлении с 2022 года.",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО \"ЭЛ5-Энерго\"",
+          "role": "Директор по безопасности и сервисам",
+          "start_year": 2016,
+          "end_year": 2022,
+          "description": "Эта должность указана в биографической карточке годового отчета.",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО \"ЭЛ5-Энерго\"",
+          "role": "Директор по безопасности",
+          "start_year": 2016,
+          "end_year": 2021,
+          "description": "Эта должность указана в биографической карточке годового отчета.",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Сергея Владимировича Рачкина как члена Правления ELFV."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "title": "Годовой отчет ПАО \"ЭЛ5-Энерго\" за 2024 год",
+          "fact": "Страницы 91-92: отчет подтверждает должность директора по безопасности, образование и опыт в EL5."
+        },
+        {
+          "url": "https://www.el5-energo.ru/en/about-us/management-team/rachkin/",
+          "title": "Профиль Сергея Рачкина на сайте ПАО \"ЭЛ5-Энерго\"",
+          "fact": "Официальный профиль найден и полностью прочитан в раунде 2 (ранее в раунде 1 полная страница была недоступна для прямого открытия): подтверждает год окончания Московского психолого-социального института (2009) и раскрывает карьеру 2005-2016 годов (служба безопасности Конаковской ГРЭС/ОГК-5, затем начальник отдела информационной безопасности) до 2016 года, когда локальный годовой отчет начинает свое покрытие."
+        }
+      ],
+      "notes": "Веб-поиск не подтвердил ученую степень или стабильный научный профиль нужного лица. ROUND 2 (2026-07-18, gap-fill + GICS + qualification_degree + institution normalization): Gap-fill (web): официальный био-профиль el5-energo.ru (ранее недоступен в раунде 1, в раунде 2 открылся, перепроверен повторным запросом) дал год окончания Московского психолого-социального института (2009); год окончания Конаковского энергетического колледжа по-прежнему не назван ни одним источником (подтвержденный тупик). Та же страница раскрыла карьеру 2005-2016 годов, предшествующую покрытию локального годового отчета (который начинается с 2016 года): служба безопасности Конаковской ГРЭС 2005-2012 (филиал ОАО \"ОГК-5\" с 2006 года) и начальник отдела информационной безопасности EL5-Energo/Энел Россия 2012-2016 -- две новые записи professional_experience добавлены; период \"до 2005 года -- работа в правоохранительных органах\" остается слишком общим (без названия организации) и не добавлен как структурированная запись, отражен только текстом в описании. Institution: оба учебных заведения (Московский психолого-социальный институт, Конаковский энергетический колледж) уже совпадали дословно с канонической формой в university_names.json -- изменений не потребовалось. qualification_degree: Московский психолого-социальный институт (\"юриспруденция\", квалификация \"юрист\", выпуск 2009 года) -> \"Specialist degree\" (квалификационный титул \"юрист\" без приставки \"бакалавр\" -- традиционная формулировка специалитетного юридического диплома в России, сохранявшаяся во многих непрофильных вузах и после начала болонских реформ; для выпуска 2009 года 5-летняя программа означала бы поступление около 2004 года, до обязательного перехода на бакалавриат/магистратуру в 2011 году) -- средне-высокая уверенность; Конаковский энергетический колледж (квалификация \"техник\") -> \"Secondary education\", поскольку это среднее профессиональное образование (ССУЗ/колледж), а не высшее образование. GICS добавлен на каждую запись professional_experience: все записи (ПАО \"ЭЛ5-Энерго\", Конаковская ГРЭС/ОГК-5, ОГК-5/Энел Россия) относятся к одной и той же производственной линии -> Utilities | Utilities | Independent Power and Renewable Electricity Producers. Quality pass round 1 (2026-07-30): desync check -- restored from git-HEAD state resolved the only desync (education[0].year=2009 and the two 2005-2016 pre-2016 professional_experience records had regressed out of the stale working-tree copy). GICS re-verified clean. Honest-gap follow-up (fresh WebSearch, queries not used in rounds 1-3): \"Рачкин Сергей Конаковский энергетический колледж год окончания директор безопасности\"; \"Sergey Rachkin EL5-Energo security director biography Konakovo before 2005\" -- found only generic Konakovo Energy College institutional pages and unrelated namesakes, no year for education[1] and no organization name for the pre-2005 law-enforcement period. Remains a confirmed dead end after this round's attempt as well."
+    },
+    {
+      "name": "Рожина Лариса Николаевна",
+      "current_role": "Директор по внутреннему аудиту / руководитель подразделения внутреннего аудита ПАО \"ЭЛ5-Энерго\".",
+      "company_name": "ПАО \"ЭЛ5-Энерго\"",
+      "education": [
+        {
+          "institution": "Ростовский государственный экономический университет (РИНХ)",
+          "year": null,
+          "details": "Специальность: бухгалтерский учет и аудит. Источник слабее локального годового отчета: официальный профиль был найден поиском, но полная страница не открылась; вторичный профиль Equilar совпал с этим фактом. Round 2: официальный био-профиль el5-energo.ru/en/about-us/management-team/rozhina/ (перепроверено повторным запросом) подтверждает институт и специальность (\"graduate of Rostov State Academy of Economics with a degree in Accounting and Audit\"), но по-прежнему не дает года окончания.",
+          "source_url": "https://www.el5-energo.ru/en/about-us/management-team/rozhina/",
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ЭЛ5-Энерго\"",
+          "role": "Директор по внутреннему аудиту",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Локальный годовой отчет 2024 содержит обращение, подписанное Ларисой Рожиной как директором по внутреннему аудиту; профильные источники указывают назначение в декабре 2022 года. Round 2: официальный био-профиль el5-energo.ru подтверждает точную дату назначения: \"On December 9, 2022, by resolution of the Board of Directors, she was appointed Head of Internal Audit at EL5-Energo PJSC\".",
+          "source_url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "АО \"ВДК-Энерго\"",
+          "role": "Руководитель внутреннего аудита (Head of Internal Audit)",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Round 2: точная формулировка должности теперь подтверждена официальным био-профилем el5-energo.ru (перепроверено повторным запросом): \"In February 2022, she was appointed Head of Internal Audit at VDK-Energo JSC, one of the largest energy companies in the south of Russia\" -- снимает ранее указанную неопределенность формулировки должности (\"точная формулировка должности не подтверждена локальным годовым отчетом EL5\").",
+          "source_url": "https://www.el5-energo.ru/en/about-us/management-team/rozhina/",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Ларису Николаевну Рожину как руководителя подразделения внутреннего аудита ELFV."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "title": "Годовой отчет ПАО \"ЭЛ5-Энерго\" за 2024 год",
+          "fact": "Страница 105: обращение по внутреннему аудиту подписано Рожиной Ларисой Николаевной как директором по внутреннему аудиту; страницы 106-110 описывают подотчетность и деятельность внутреннего аудита."
+        },
+        {
+          "url": "https://www.el5-energo.ru/en/about-us/management-team/rozhina/",
+          "title": "Профиль Ларисы Рожиной на сайте ПАО \"ЭЛ5-Энерго\"",
+          "fact": "Официальный профиль найден и полностью прочитан в раунде 2 (ранее в раунде 1 полная страница была недоступна для прямого открытия): подтверждает институт и специальность образования (год окончания по-прежнему не указан), точную формулировку и дату назначения в АО \"ВДК-Энерго\" (февраль 2022, Head of Internal Audit) и точную дату назначения в ЭЛ5-Энерго (9 декабря 2022 года)."
+        },
+        {
+          "url": "https://people.equilar.com/bio/person/larisa-rozhina-public-joint-stock-company-el-energo/50027508",
+          "title": "Larisa Rozhina - Equilar profile",
+          "fact": "Вторичный профиль подтверждает связь с EL5-Energo, внутренний аудит и образование; использован как слабое дополнительное подтверждение."
+        }
+      ],
+      "notes": "Детальная карьера до 2022 года не подтверждена надежными открытыми источниками. ROUND 2 (2026-07-18, gap-fill + GICS + qualification_degree + institution normalization): Gap-fill (web): официальный био-профиль el5-energo.ru (ранее недоступен в раунде 1, в раунде 2 открылся, перепроверен повторным запросом) подтвердил институт образования дословно, но года окончания по-прежнему не дает -- education[0].year остается null, это подтвержденный тупик, а не пропущенный поиск. Тот же источник разрешил ранее отмеченную неопределенность формулировки должности в АО \"ВДК-Энерго\": точная должность -- \"Head of Internal Audit\" / \"Руководитель внутреннего аудита\", назначение в феврале 2022 года; для роли в ЭЛ5-Энерго подтверждена точная дата назначения (9 декабря 2022 года, решением Совета директоров), уточняющая ранее указанный только год. Institution нормализован по university_names.json (Ростовская государственная экономическая академия -> Ростовский государственный экономический университет (РИНХ), точное совпадение по alias-списку). qualification_degree = \"Unknown\": ни локальный источник, ни официальный био-профиль не дают квалификационного титула уровня (бакалавр/специалист/магистр) для этого образования -- высшее образование подтверждено, но уровень программы неопределим по доступным источникам, что соответствует паттерну \"Unknown\", уже использованному в проекте для аналогичных случаев (см. AQUA). GICS добавлен на обе записи professional_experience: ПАО \"ЭЛ5-Энерго\" и АО \"ВДК-Энерго\" -> Utilities | Utilities | Independent Power and Renewable Electricity Producers (та же классификация, что и у ВДК-Энерго в записи Тналина, для согласованности одной и той же организации в разных карточках). Quality pass round 1 (2026-07-30): desync check -- restored from git-HEAD state resolved the only desync (the precise VDK-Energo \"Head of Internal Audit\" title, the exact EL5 appointment date, and the institution normalization to Ростовский государственный экономический университет (РИНХ) had regressed out of the stale working-tree copy). GICS re-verified clean (both records classified consistently with the Тналин card's АО \"ВДК-Энерго\" entry, which fresh WebSearch this round confirmed is a genuine thermal generator, not a guess). Honest-gap follow-up (fresh WebSearch, queries not used in rounds 1-3): \"Рожина Лариса Ростовский государственный экономический университет год окончания внутренний аудит карьера\"; \"Larisa Rozhina internal audit career before EL5-Energo Rostov biography\" -- found only the institution/specialty already known and generic university pages, no graduation year and no detailed pre-2022 career. Remains a confirmed dead end after this round's attempt as well."
+    },
+    {
+      "name": "Юзефович Елена Константиновна",
+      "current_role": "Старший менеджер по контролю рисков (Группа контроля рисков); руководитель подразделения внутреннего контроля и управления рисками ПАО \"ЭЛ5-Энерго\" согласно CSV.",
+      "company_name": "ПАО \"ЭЛ5-Энерго\"",
+      "education": [
+        {
+          "institution": "Russian New University",
+          "year": null,
+          "details": "Специальность: психология управления; квалификация: психолог. Round 2: найдено прямым чтением проспекта ценных бумаг ПАО \"ЭЛ5-Энерго\" от 26.08.2022, страница 72: \"Российский Новый Университет, специальность психология управления, Квалификация психолог\" -- ранее источник был доступен только как непрочитанный сниппет поиска (\"snippet не дал достаточно деталей\").",
+          "source_url": "https://www.el5-energo.ru/upload/iblock/5f3/xgb5zh82gjb8io3eemzhoi8bdwnlhuwx/Prospect_26082022.pdf",
+          "qualification_degree": "Unknown"
+        },
+        {
+          "institution": "Финансовый университет при Правительстве Российской Федерации",
+          "year": null,
+          "details": "Специальность: менеджмент и маркетинг; квалификация: маркетолог (историческое название вуза на момент обучения: Всероссийский заочный финансово-экономический институт). Round 2: найдено прямым чтением проспекта ценных бумаг ПАО \"ЭЛ5-Энерго\" от 26.08.2022, страница 73: \"Всероссийский заочный финансово-экономический институт, специальность «менеджмент и маркетинг», квалификация «маркетолог»\".",
+          "source_url": "https://www.el5-energo.ru/upload/iblock/5f3/xgb5zh82gjb8io3eemzhoi8bdwnlhuwx/Prospect_26082022.pdf",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ЭЛ5-Энерго\"",
+          "role": "Старший менеджер по контролю рисков (Группа контроля рисков)",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "Round 2: прямое чтение проспекта ценных бумаг ПАО \"ЭЛ5-Энерго\" от 26.08.2022, страница 73, дает точную должность и период: \"2015 -- н.в. -- ПАО «Энел Россия» -- Старший менеджер по контролю рисков\". Годовые отчеты за 2023 и 2024 годы (страницы, подписанные Юзефович) подтверждают ту же должность (\"Старший менеджер по контролю рисков\") без отдельного указания подразделения \"внутреннего контроля и управления рисками\" из CSV -- CSV, вероятно, описывает функцию/подразделение в целом, а не дословное название должности; обе формулировки сохранены (в role -- дословная должность из проспекта, в current_role -- дополнено функцией из CSV).",
+          "source_url": "https://www.el5-energo.ru/upload/iblock/5f3/xgb5zh82gjb8io3eemzhoi8bdwnlhuwx/Prospect_26082022.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Елену Константиновну Юзефович как руководителя подразделения внутреннего контроля и управления рисками ELFV."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+          "title": "Годовой отчет ПАО \"ЭЛ5-Энерго\" за 2024 год",
+          "fact": "Страницы 123-127: отчет описывает систему управления рисками и внутреннего контроля, включая подразделение по контролю рисков и координаторов внутреннего контроля, но не содержит персональной биографии Юзефович."
+        },
+        {
+          "url": "https://www.el5-energo.ru/upload/iblock/a39/bx4mosdsvtryawkoy2d22n7jiwazuaym/Annual_report_2023.pdf",
+          "title": "Годовой отчет ПАО \"ЭЛ5-Энерго\" за 2023 год",
+          "fact": "Round 2: официальный годовой отчет 2023 года повторно подтверждает ту же должность \"Старший менеджер по контролю рисков\" под подписью Юзефович на аналогичной обзорной странице по управлению рисками, что и в отчете за 2024 год; новых биографических деталей (образование, дата рождения) документ не содержит."
+        },
+        {
+          "url": "https://www.el5-energo.ru/upload/iblock/5f3/xgb5zh82gjb8io3eemzhoi8bdwnlhuwx/Prospect_26082022.pdf",
+          "title": "Проспект ценных бумаг ПАО \"ЭЛ5-Энерго\" 2022",
+          "fact": "Round 2: проспект прочитан напрямую (полный текст, а не сниппет поиска). Страница 72-73 содержит полную структурированную карточку: ФИО, год рождения (1973), уровень образования \"высшее\", два учебных заведения с квалификациями (Российский Новый Университет, психология управления, психолог; Всероссийский заочный финансово-экономический институт, менеджмент и маркетинг, маркетолог), и период работы \"2015 -- н.в.\" в должности \"Старший менеджер по контролю рисков\" в ПАО \"Энел Россия\". Это разрешает ранее отмеченную главную неопределенность карточки (\"структурированное образование не внесено, поскольку snippet не дал достаточно деталей\")."
+        }
+      ],
+      "notes": "Существенная неопределенность закрыта в раунде 2. ROUND 2 (2026-07-18, gap-fill + GICS + qualification_degree + institution normalization): Gap-fill (web -- прямое чтение документа, не поиск сниппетов): проспект ценных бумаг ПАО \"ЭЛ5-Энерго\" от 26.08.2022 (страницы 72-73) прочитан полностью и содержит структурированную карточку руководителя подразделения (\"Группа контроля рисков\"), ранее видимую только как непрочитанный поисковый сниппет. Заполнено: (1) education -- два учебных заведения с явными специальностями и квалификациями (Российский Новый Университет / психология управления / психолог; Всероссийский заочный финансово-экономический институт / менеджмент и маркетинг / маркетолог); годы окончания документ не дает (остаются null -- проспект в целом не раскрывает годы окончания для этой категории лиц, в отличие от года рождения); (2) professional_experience -- точная должность и период (\"2015 -- н.в., Старший менеджер по контролю рисков, ПАО «Энел Россия»\"), заменяет ранее только CSV-источник (start_year был null). current_role обновлен с расплывчатой формулировки-оговорки (\"подробная биография не найдена\") на подтвержденную дословную должность из проспекта, с сохранением функции из CSV для полноты. Institution нормализован по university_names.json: Российский Новый Университет -> Russian New University (точное совпадение канонической записи, англоязычный ключ); Всероссийский заочный финансово-экономический институт -> Финансовый университет при Правительстве Российской Федерации (точное совпадение по alias-списку, историческое название предшествующего вуза). Оба института уже присутствовали в university_names.json -- новых институтов для new_institutions_found не найдено. qualification_degree: Российский Новый Университет (\"психология управления\", квалификация \"психолог\", без указания уровня и года) -> \"Unknown\" -- подтвержденное высшее образование, уровень программы неопределим; Всероссийский заочный финансово-экономический институт (\"менеджмент и маркетинг\", квалификация \"маркетолог\", заочная форма) -> \"Specialist degree\" -- средне-высокая уверенность: ВЗФЭИ -- классический советский заочный институт, исторически выпускавший специалистов с квалификационным титулом по профессии (без приставки \"бакалавр\"), этот формат сохранялся в заочных программах и после начала болонских реформ. GICS добавлен на запись professional_experience: ПАО \"ЭЛ5-Энерго\" (включая период под именем \"Энел Россия\") -> Utilities | Utilities | Independent Power and Renewable Electricity Producers. Публикации, патенты и h-index по-прежнему не найдены. Исключенный однофамилец (биолог/кандидат наук Е.К. Юзефович, Беларусь) остается исключенным -- новых анкоров, связывающих его с EL5/risk-control, не обнаружено. Quality pass round 1 (2026-07-30): desync check -- restored from git-HEAD state resolved the only desync (the entire education[] array -- Russian New University and Финансовый университет при Правительстве Российской Федерации, both from the securities prospectus -- and the precise 2015-present \"Старший менеджер по контролю рисков\" role/current_role had regressed out of the stale working-tree copy, which showed an empty education[] and a vague current_role caveat). GICS re-verified clean. Honest-gap follow-up (fresh WebSearch, queries not used in rounds 1-3): \"Юзефович Елена Российский Новый Университет год окончания риск-менеджер ЭЛ5\"; \"Elena Yuzefovich risk control Enel Russia biography education year graduated\" -- surfaced a LinkedIn profile matching role/company (Risk Control Senior Manager at EL5-Energo) but no accessible education section with graduation years. Both education[].year fields remain a confirmed dead end after this round's attempt as well."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+      "title": "Годовой отчет ПАО \"ЭЛ5-Энерго\" за 2024 год",
+      "fact": "Страницы 88-89: отчет подтверждает Генерального директора и состав Правления на 31 декабря 2024 года: Тналин, Атцени Москвитин, Верещагин, Косменюк, Леонова, Рачкин, Седова."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+      "title": "Годовой отчет ПАО \"ЭЛ5-Энерго\" за 2024 год",
+      "fact": "Страница 105: отчет подтверждает Ларису Рожину как директора по внутреннему аудиту."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+      "title": "Годовой отчет ПАО \"ЭЛ5-Энерго\" за 2024 год",
+      "fact": "Страницы 123-127: отчет подтверждает наличие системы управления рисками и внутреннего контроля, подразделения по контролю рисков и координаторов внутреннего контроля."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "В CSV по ELFV найдено 9 строк: CEO, 6 членов Правления, руководитель внутреннего аудита и руководитель внутреннего контроля/управления рисками."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/ELFV/Годовой отчет Эл5 энерго.pdf",
+      "title": "Годовой отчет ПАО \"ЭЛ5-Энерго\" за 2024 год",
+      "fact": "Проверенный локальный годовой отчет содержит основные биографии членов Правления и разделы внутреннего аудита/рисков."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/ELFV/Консолидированная финансовая отчетность и АЗ_ПАО ЭЛ5-Энерго_МСФО_2024.pdf",
+      "title": "Консолидированная финансовая отчетность и аудиторское заключение ПАО \"ЭЛ5-Энерго\" за 2024 год",
+      "fact": "Файл проверен как локальный документ компании; пригодных биографических сведений в текстовом слое не найдено."
+    },
+    {
+      "url": "https://www.el5-energo.ru/about-us/management-team/",
+      "title": "Management team - ПАО \"ЭЛ5-Энерго\"",
+      "fact": "Round 2: индивидуальные официальные био-страницы руководителей (tnalin, atzeni-moskvitin, vereshchagin, leonova, rachkin, sedova, rozhina) успешно открыты напрямую и полностью прочитаны в раунде 2 (в раунде 1 они были видны только как непрочитанные результаты поиска). Текущая живая страница на 2026 год показывает состав менеджмента без Косменюка и Атцени Москвитина (их роли заняли Ярослав Безе и Дмитрий Вахрушев) -- индивидуальные архивные страницы для этих двух персон более не обслуживаются сайтом (HTTP 404), что ограничило дополнительный gap-fill для них."
+    },
+    {
+      "url": "https://www.dissercat.com/content/mezhdunarodnoe-yuridicheskoe-litso-kak-subekt-mezhdunarodnogo-chastnogo-prava",
+      "title": "Диссертационная запись Ж.И. Седовой",
+      "fact": "Использована для подтверждения кандидатской степени Жанны Седовой."
+    },
+    {
+      "url": "https://people.equilar.com/bio/person/larisa-rozhina-public-joint-stock-company-el-energo/50027508",
+      "title": "Larisa Rozhina - Equilar profile",
+      "fact": "Вторичный профиль использован как слабый источник для образования и профиля Ларисы Рожиной, поскольку локальный отчет подтверждает только должность."
+    },
+    {
+      "url": "https://www.el5-energo.ru/upload/iblock/a39/bx4mosdsvtryawkoy2d22n7jiwazuaym/Annual_report_2023.pdf",
+      "title": "Годовой отчет ПАО \"ЭЛ5-Энерго\" за 2023 год",
+      "fact": "Поисковая выдача по официальному годовому отчету 2023 года использована как слабое дополнительное подтверждение роли Елены Юзефович в risk control."
+    }
+  ],
+  "new_institutions_found": null,
+  "validation_notes": "Обработано людей: 9. Проверено локальных документов: 2 PDF в папке MOEXBMI_Отчеты_2024/ELFV; годовой отчет дал ключевые биографии, МСФО-файл не дал пригодного текстового биографического слоя. Всего research rounds: 9 индивидуальных round_1 notes. Образование не внесено для Елены Юзефович: поисковые сниппеты указывали высшее образование и старые профили, но надежно открытый источник не дал достаточных деталей. Слабые источники использованы для Ларисы Рожиной (образование и ВДК-Энерго из официального профиля EL5 и Equilar) и Елены Юзефович (risk-control профиль из официальных годовых отчетов 2021-2023, найденных поиском, но без развернутой биографии); эти ограничения отражены в notes. Конфликтов по членам Правления не найдено. Для Жанны Седовой докторская диссертация датируется 2024 годом в Dissercat, а локальный отчет указывает степень доктора юридических наук [2025]; в JSON степень оставлена как 2025 и не трактуется как факт 2024 года. Исключены однофамильцы: медицинские/академические Нины Леоновы, generic Sergey Rachkin profiles, generic Larisa Rozhina matches, а также биолог/кандидат наук Елена Константиновна Юзефович без EL5/risk-control якорей. Поиск считается завершенным, потому что проверены все локальные документы ELFV, выполнены отдельные запросы по образованию, опыту, назначениям, профессиональным биографиям и научным следам для каждого человека, обнаруженные работодатели/организации проверены поисковыми цепочками, а два последовательных прохода по слабым карточкам не дали новых источников более высокого качества.\n\nROUND 2 (2026-07-18, gap-fill + GICS + qualification_degree + institution normalization) -- summary: Проведен второй исследовательский раунд по всем 9 персонам ELFV (CEO + 8 TMT), нацеленный на поля education/degrees/professional_experience, ранее содержавшие null, расплывчатые формулировки или явные оговорки \"не подтверждено\"/\"точная формулировка не подтверждена\" в notes. Источники раунда 2: (1) официальные индивидуальные био-страницы el5-energo.ru, ранее (в раунде 1) недоступные для прямого открытия и видимые только как непрочитанные поисковые сниппеты -- в раунде 2 успешно открыты и прочитаны напрямую для Тналина, Атцени Москвитина, Верещагина, Леоновой, Рачкина, Седовой и Рожиной; (2) прямое чтение полного текста проспекта ценных бумаг ПАО \"ЭЛ5-Энерго\" от 26.08.2022 (страницы 72-73), ранее видимого только как непрочитанный сниппет -- закрыло крупнейший пробел карточки: полное образование Юзефович Е.К. и точный период/должность ее роли (2015-н.в., Старший менеджер по контролю рисков). Для Косменюка О.Н. индивидуальная страница вернула HTTP 404 (человек выбыл из текущего состава менеджмента компании на живом сайте 2026 года), альтернативные профили (TAdviser/ComNews) не найдены по прямому URL-угадыванию, а расширенный веб-поиск (WebSearch) был недоступен в рамках этой сессии (лимит запросов исчерпан) -- его образование год окончания и допрежняя карьера остаются null, это ограничение сессии, отраженное как таковое, а не выдаваемое за окончательный факт отсутствия информации. Один артефакт суммаризации веб-страницы (упоминание \"arbitration court judge since 2009\" для Седовой) обнаружен при первом запросе, не подтвержден повторным независимым запросом на дословное воспроизведение текста и поэтому не перенесен в JSON -- как страховка от галлюцинаций все ключевые факты раунда 2, взятые из веб-источников, перепроверялись минимум одним дополнительным независимым запросом к той же странице с формулировкой, требующей дословных цитат. Добавлены поля sector/industry_group/industry на уровне компании (Utilities | Utilities | Independent Power and Renewable Electricity Producers -- ЭЛ5-Энерго генерирует электроэнергию на ГРЭС и владеет ветропарками, то есть работает как независимый производитель энергии) и на каждую запись professional_experience каждого человека, классифицируя каждую организацию по ее собственной основной деятельности (а не по принадлежности к группе ЭЛ5), включая случаи, где GICS оставлен null с явным обоснованием (профессиональная ассоциация юристов и Минюст РФ в карточке Седовой -- некоммерческие/государственные организации, не классифицируемые по GICS). Добавлено поле qualification_degree в каждую запись education[]/degrees[] каждого человека, используя только 10 разрешенных значений (в т.ч. \"Unknown\" для случаев подтвержденного высшего образования с неопределимым уровнем программы, и \"Secondary education\" для среднего профессионального/колледжного образования). Институты нормализованы по university_names.json; новых институтов, отсутствующих в справочнике, для ELFV не найдено (в т.ч. \"Russian New University\" и \"Финансовый университет при Правительстве Российской Федерации\" -- оба уже присутствовали как канонические записи или алиасы), поэтому top-level new_institutions_found для этого тикера не добавлен. Ранее подтвержденные факты не удалялись и не переписывались без нового источника -- изменения либо добавляют новые поля/записи, либо заполняют ранее null значения со ссылкой на источник, либо обновляют текст description/notes/fact для уточнения (без потери исходной формулировки, которая сохраняется как часть истории изменений внутри того же текстового поля).\n\nROUND 3 (2026-07-19, structural completeness audit + renewed gap-fill attempt) -- summary: Проверила состояние карточки после round 2 (2026-07-18) на структурное соответствие конвенции проекта и предприняла обновленную попытку закрыть оставшиеся null-поля. (1) Обнаружен и исправлен структурный пробел: top-level поле \"new_institutions_found\" отсутствовало в файле, хотя присутствует во всех остальных уже обработанных тикерах (например AQUA, ASTR, BANEP) -- добавлено как null, поскольку программная сверка всех значений institution (education[]/degrees[] всех 9 персон -- CEO и 8 членов TMT) против university_names.json подтвердила точное совпадение с каноническими записями справочника; новых, отсутствующих в справочнике институтов для ELFV не найдено. (2) Обнаружен и исправлен пробел логирования: для 5 из 9 персон (Леонова, Рачкин, Рожина, Седова, Юзефович) находки раунда 2 были зафиксированы только в поле notes внутри JSON, но не были продублированы в research_notes/ELFV/ как отдельные *_round_2.md файлы (в отличие от Тналина, Атцени Москвитина, Верещагина и Косменюка, для которых такие файлы уже существовали) -- создано 5 новых файлов *_round_2.md, дословно отражающих уже подтвержденные в JSON находки раунда 2 (без новых фактов, только восстановление аудиторского следа исследования). (3) Повторная попытка закрыть оставшиеся null-поля (education[].year для Атцени Москвитина [Университет Кальяри, ГУУ], Верещагина [Боккони, Московский гештальт-институт], Косменюка [Павлодарский государственный университет], Рожиной [Ростовский государственный экономический университет (РИНХ)], Рачкина [Конаковский энергетический колледж], Юзефович [Russian New University, Финансовый университет]; а также допрежняя карьера Косменюка до 2013 года): сначала перепроверены локальные документы (elfv_pages_86_95.txt -- полный извлеченный текст соответствующих страниц годового отчета) -- подтверждено дословное отсутствие годов окончания и допрежней карьеры в локальном источнике, никаких новых деталей по сравнению с round 1/2 не обнаружено; затем предпринята попытка веб-поиска (WebSearch) по всем шести оставшимся пробелам образования -- сессия вернула отказ \"web search budget исчерпан (200 из 200 запросов)\" прежде, чем поиски успели выполниться, поэтому ни одного нового результата получено не было; дополнительно предпринята попытка прямого чтения (WebFetch, не требующего квоты поиска) архивной версии индивидуальной страницы Косменюка через web.archive.org (инструмент недоступен для этого домена в данной среде выполнения) и прямого угадывания URL персонального профиля на TAdviser (вернул HTTP 404 -- страница не существует) -- обе попытки безрезультатны. Все шесть оставшихся null-полей (и допрежняя карьера Косменюка) остаются null: это подтвержденный в рамках доступных в этой сессии инструментов тупик, а не пропущенный поиск -- в соответствии с принципом проекта \"null лучше непроверенной догадки\" новые значения не выдуманы. Ранее подтвержденные факты не удалялись и не переписывались; правки этого раунда ограничены добавлением отсутствовавшего top-level поля и восстановлением аудиторского следа в research_notes/ELFV/, без изменения самих проверенных фактов.\n\nQUALITY PASS ROUND 1 (2026-07-30) -- summary: This was a second, quality-focused pass (desync check, GICS-label correctness, bounded honest-gap follow-up), not a structural-completeness pass. (0) Regression found and recovered: at session start, output/ELFV_person_info.json in the working tree was a stale, regressed snapshot matching only a partial round-1-plus-GICS/qualification_degree state -- missing round 2's institution normalization, gap-fills (Tnalin's 1998, Vereshchagin's 1991/2002 + HSE role, Leonova's 2000 + 2010-2015 record, Sedova's 1995 + RANEPA institution + Permenergo/TGK-9/OGK-4 + Perm State teaching role, Rachkin's 2009 + two pre-2016 records, Rozhina's precise VDK-Energo title + EL5 date, Yuzefovich's entire education[] + precise role), and round 3's new_institutions_found field and the five recovered *_round_2.md audit-trail files. `git show HEAD:...output/ELFV_person_info.json` confirmed HEAD already carries the fully-worked round-2/round-3 version matching every research_notes/ELFV/*_round_2.md file (this is the same corpus-wide working-tree regression pattern already documented for other tickers, e.g. CHMF, ALRS). The file was restored from git HEAD as this round's base -- recovery of already-completed, source-backed work, not new facts invented this session. (1) Desync check: with the file restored, re-compared against every research_notes/ELFV/*_round_1.md and *_round_2.md file for all 9 people; found no further simple omissions (the regression recovery itself was the only outstanding desync) and no genuine inconsistency requiring further resolution beyond what rounds 2-3 already documented (Sedova's doctoral-degree 2024-vs-2025 dissercat/annual-report timing question remains correctly treated as a post-2024 fact, not re-litigated since no new source surfaced bearing on it). (2) GICS label correctness: checked every non-null sector/industry_group/industry triple in the restored file against gics_taxonomy.json and against each organization's real primary business; found and corrected two genuine misclassifications inherited from round 2: (a) ООО \"Русэнергосбыт\" (Atzeni Moskvitin) was Electric Utilities, corrected to Independent Power and Renewable Electricity Producers -- it is a pure wholesale/retail power trading company (ОКВЭД 35.14) with no generation or distribution assets, matching GICS's Independent Power Producers & Energy Traders sub-industry, not the regulated Electric Utilities category (confirmed via fresh WebSearch of the company's registered activity code and of GICS's own sub-industry definitions); (b) АО НПФ ВТБ Пенсионный Фонд (Vereshchagin) was Financials | Insurance | Insurance, corrected to Financials | Financial Services (New Name) | Financial Services (New Name) -- a non-state pension fund is an asset manager/institutional investor, not an insurance-risk underwriter, and GICS structurally separates pension funds from the Insurance industry group (confirmed via fresh WebSearch of GICS Financials-sector methodology). АО \"ВДК-Энерго\" (Tnalin, Rozhina) was re-verified rather than corrected: fresh WebSearch confirmed its registered primary activity is ОКВЭД 35.11.1 \"Производство электроэнергии тепловыми электростанциями\" -- a genuine thermal power generator, so Independent Power and Renewable Electricity Producers is the correct label, not a guess dressed up as one. All other GICS triples (ЭЛ5-Энерго under all its historical names, ПАО \"ЛУКОЙЛ\", Renault, ОАО \"ОГК-5\", Конаковская ГРЭС, Пермэнерго/ТГК-9/ОГК-4) were re-checked and left unchanged as already correct or already-reasoned best-fit judgment calls for mixed-employer records. (3) Honest-gap follow-up (bounded, one attempt per open gap): Kosmenyuk's education year and pre-2013 career were the clearest case -- rounds 2-3 explicitly documented that this gap existed only because in-session WebSearch quota was exhausted before any query could run (not a confirmed absence of information). This round's fresh WebSearch (tool freshly available, queries not used in rounds 1-3) found an official Enel Russia press release (enelrussia.ru, April 2016) cross-corroborated by an independent biography aggregator (viperson.ru): closed education[0].year (1998), added a new pre-university education record (Павлодарский монтажный колледж, 1989), and added three new professional_experience records spanning 1997-2016 (AES Corporation/Ekibastuz GRES-1 thermal generation, Maikuben West coal-mining CEO 2008-2011 -- classified Energy | Energy | Oil, Gas & Consumable Fuels per the project's coal-producer convention, not Metals & Mining -- and Enel Russia coal-generation director/Reftinskaya GRES plant director 2013-2016). A second, not-previously-flagged gap was also closed for Vereshchagin: an independent conference-organizer biography (events.vedomosti.ru, external to EL5/Renault) filled a silent 17-year career gap (1997-2014, PepsiCo/Frito-Lay Russia then Lafarge/Tele2/Renault HR director) between no record at all and the existing 2014 Renault entry; GICS added for PepsiCo/Frito-Lay (Consumer Staples | Food, Beverage & Tobacco | Food Products) and left explicitly null for the combined Lafarge/Tele2/Renault record (three different industries, no way to apportion -- a deliberate non-guess). For the remaining open gaps (Atzeni Moskvitin's Cagliari/GUU graduation years; Vereshchagin's Bocconi/Gestalt Institute years; Rachkin's Konakovo College year and pre-2005 employer name; Rozhina's Rostov graduation year and detailed pre-2022 career; Yuzefovich's both education years), fresh WebSearch queries not used in rounds 1-3 were run for each (documented per-person in each person's own notes field above) and all remained confirmed dead ends -- no new value was invented for any of them. No previously confirmed fact was deleted or overwritten; no correctly-non-classifiable null (government bodies, professional association) was disturbed; every qualification_degree value used this round is within the existing 10-value enum; every new GICS triple is an exact row from gics_taxonomy.json or explicitly all-null with a documented reason."
+}

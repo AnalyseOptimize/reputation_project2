@@ -1,0 +1,883 @@
+{
+  "company_name": "ПАО \"Россети Центр и Приволжье\"",
+  "company_ticker": "MRKP",
+  "ceo": {
+    "name": "Игорь Владимирович Маковский",
+    "current_role": "Chief Executive Officer per CSV; in 2024 was генеральный директор ПАО \"Россети Центр\" (управляющей организации ПАО \"Россети Центр и Приволжье\") and председатель Правления ПАО \"Россети Центр и Приволжье\" through 27.12.2024; member of the Board of Directors of ПАО \"Россети Центр и Приволжье\".",
+    "company_name": "ПАО \"Россети Центр и Приволжье\"",
+    "education": [
+      {
+        "institution": "Высшее пограничное командное училище КГБ СССР имени Ф.Э. Дзержинского",
+        "year": 1993,
+        "field": "командная тактическая",
+        "qualification": "офицер пограничных войск",
+        "sources": [
+          "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf",
+          "MOEXBMI_Отчеты_2024/MRKP/Приложения к ГО/Приложение 3.  Дополнительная информация к ГО ЦиП 2024.pdf",
+          "https://ar2023.mrsk-cp.ru/corporate-governance/board-report/board-membership"
+        ],
+        "qualification_degree": "Specialist degree"
+      },
+      {
+        "institution": "Калининградский государственный университет",
+        "year": 2000,
+        "field": "юриспруденция",
+        "qualification": "юрист",
+        "sources": [
+          "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf",
+          "MOEXBMI_Отчеты_2024/MRKP/Приложения к ГО/Приложение 3.  Дополнительная информация к ГО ЦиП 2024.pdf",
+          "https://ar2023.mrsk-cp.ru/corporate-governance/board-report/board-membership"
+        ],
+        "qualification_degree": "Specialist degree"
+      },
+      {
+        "institution": "Северо-Западная академия государственной службы",
+        "year": 2004,
+        "field": "государственное и муниципальное управление",
+        "qualification": "профессиональная переподготовка",
+        "sources": [
+          "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf",
+          "MOEXBMI_Отчеты_2024/MRKP/Приложения к ГО/Приложение 3.  Дополнительная информация к ГО ЦиП 2024.pdf"
+        ],
+        "qualification_degree": "Professional certification"
+      },
+      {
+        "institution": "Ивановский государственный энергетический университет имени В.И. Ленина",
+        "year": 2023,
+        "field": "электроэнергетика и электротехника",
+        "qualification": "бакалавр",
+        "sources": [
+          "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf",
+          "MOEXBMI_Отчеты_2024/MRKP/Приложения к ГО/Приложение 3.  Дополнительная информация к ГО ЦиП 2024.pdf"
+        ],
+        "qualification_degree": "Bachelor's degree"
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "ПАО \"Россети Центр\"",
+        "role": "Генеральный директор, председатель Правления",
+        "start_year": 2018,
+        "end_year": 2024,
+        "description": "Полномочия генерального директора прекращены в конце декабря 2024 года; для ПАО \"Россети Центр и Приволжье\" эта роль была ключевой из-за модели управляющей организации.",
+        "sources": [
+          "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf"
+        ],
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Electric Utilities"
+      },
+      {
+        "organization": "ПАО \"Россети Центр и Приволжье\"",
+        "role": "Председатель Правления через управляющую организацию; член Совета директоров",
+        "start_year": 2019,
+        "end_year": null,
+        "description": "Годовой отчет 2024 указывает членство в Совете директоров с 14.06.2019; функции председателя Правления выполнялись как генеральным директором управляющей организации до 27.12.2024.",
+        "sources": [
+          "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf",
+          "MOEXBMI_Отчеты_2024/MRKP/Приложения к ГО/Приложение 5. Отчет о сделках ЦиП 2024.pdf"
+        ],
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Electric Utilities"
+      },
+      {
+        "organization": "ПАО \"МРСК Центра и Приволжья\"",
+        "role": "Исполняющий обязанности генерального директора",
+        "start_year": 2020,
+        "end_year": 2020,
+        "description": "Период 09.2020-10.2020 раскрыт в годовом отчете.",
+        "sources": [
+          "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf"
+        ],
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Electric Utilities"
+      },
+      {
+        "organization": "ООО \"Инфраструктурные инвестиции-3\"",
+        "role": "Председатель/член Совета директоров",
+        "start_year": 2022,
+        "end_year": null,
+        "sources": [
+          "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf",
+          "https://www.interfax.ru/business/875445",
+          "https://cbonds.ru/company/43095/"
+        ],
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Electric Utilities",
+        "description": "Round-2 finding: sold by PAO Rosseti into the PAO Rosseti Tsentr i Privolzhye perimeter on 02.12.2022 for RUB 311m (Interfax); operates as a special-project SPV implementing a smart-metering/Smart Grid project to cut technical losses in 0.4-20 kV networks in Kaliningrad, Yaroslavl and Tula regions, financed partly via the National Wealth Fund (cbonds.ru issuer profile). Classified as Electric Utilities because its own primary activity is electric-grid infrastructure inside the Rosseti Center i Privolzhye distribution perimeter, notwithstanding a conflicting OKVED financial-leasing registry code found on one aggregator site."
+      },
+      {
+        "organization": "Ассоциация развития технологий систем накопления электроэнергии",
+        "role": "Член наблюдательного совета",
+        "start_year": 2023,
+        "end_year": null,
+        "sources": [
+          "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf"
+        ],
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "ППК \"ВСК\"",
+        "role": "Генеральный директор",
+        "start_year": 2024,
+        "end_year": null,
+        "description": "Указано в годовом отчете как основное место работы на 31.12.2024 после прекращения полномочий в ПАО \"Россети Центр\".",
+        "sources": [
+          "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf",
+          "https://www.kommersant.ru/doc/7420519",
+          "https://eadaily.com/ru/news/2024/12/30/ukazom-ministra-oborony-rossii-naznachen-novyy-glava-voenno-stroitelnoy-kompanii",
+          "https://www.vedomosti.ru/politics/news/2024/12/30/1084570-igor-makovskii-naznachen"
+        ],
+        "sector": "Industrials",
+        "industry_group": "Capital Goods",
+        "industry": "Construction & Engineering"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "CSV lists Igor Vladimirovich Makovsky for MRKP as Chief Executive Officer."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf",
+        "title": "Годовой отчет ПАО \"Россети Центр и Приволжье\" за 2024 год",
+        "fact": "Страницы 215-220 и 246-249: отчет включает Маковского в Совет директоров, раскрывает образование и карьеру, описывает модель управляющей организации и прекращение его полномочий генерального директора ПАО \"Россети Центр\" в конце декабря 2024 года."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/MRKP/Приложения к ГО/Приложение 3.  Дополнительная информация к ГО ЦиП 2024.pdf",
+        "title": "Приложение 3. Дополнительная информация к годовому отчету 2024",
+        "fact": "Страницы 544-545: приложение повторяет биографические сведения Маковского, включая образование и ключевые должности."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/MRKP/Приложения к ГО/Приложение 5. Отчет о сделках ЦиП 2024.pdf",
+        "title": "Приложение 5. Отчет о сделках 2024",
+        "fact": "Страницы 605-607: материалы по сделке с заинтересованностью подтверждают совмещение Маковским ролей в управляющей организации и ПАО \"Россети Центр и Приволжье\"."
+      },
+      {
+        "url": "https://ar2023.mrsk-cp.ru/corporate-governance/board-report/board-membership",
+        "title": "Годовой отчет ПАО \"Россети Центр и Приволжье\" за 2023 год: Состав Совета директоров",
+        "fact": "Официальная интернет-версия годового отчета 2023 подтверждает тот же биографический профиль, образование и членство Маковского в Совете директоров до 2024 года."
+      }
+    ],
+    "notes": "Маковский включен в ceo как человек из CSV и подтвержденный CEO-equivalent for most of 2024. На 31.12.2024 генеральным директором управляющей организации уже был Борис Эбзеев; он не включен отдельной персоной, потому что отсутствует в CSV."
+  },
+  "tmt": [
+    {
+      "name": "Сергей Александрович Терников",
+      "current_role": "Investor Relations Contact per CSV; official 2023 annual-report contacts name him head of the IR service of ПАО \"Россети Центр и Приволжье\", and a later Finam profile states he worked in shareholder/investor relations at ПАО \"Россети Центр\" and ПАО \"Россети Центр и Приволжье\" from 2010 to 2025.",
+      "company_name": "ПАО \"Россети Центр и Приволжье\"",
+      "education": [
+        {
+          "institution": "Государственный университет управления",
+          "year": null,
+          "field": "финансовый менеджмент",
+          "qualification": "магистр",
+          "sources": [
+            "https://www.finam.ru/authors/1457/"
+          ],
+          "qualification_degree": "Master's degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ИК \"Русские финансовые традиции\"",
+          "role": "Аналитик",
+          "start_year": 2007,
+          "end_year": 2008,
+          "sources": [
+            "https://www.finam.ru/authors/1457/"
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "ЗАО \"ФИНАМ\"",
+          "role": "Аналитик",
+          "start_year": 2008,
+          "end_year": 2010,
+          "sources": [
+            "https://www.finam.ru/authors/1457/"
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "ПАО \"Россети Центр\" и ПАО \"Россети Центр и Приволжье\"",
+          "role": "Работа в подразделении по взаимодействию с акционерами и инвесторами; руководитель IR-службы по официальным контактам годового отчета 2023",
+          "start_year": 2010,
+          "end_year": 2025,
+          "description": "Период 2010-2025 взят из профиля Finam, опубликованного после 2024; для 2024 роли он используется вместе с CSV и официальными контактами годового отчета.",
+          "sources": [
+            "MOEXBMI_2024.csv",
+            "https://ar2023.mrsk-cp.ru/additional-information/contacts",
+            "https://ar2023.mrsk-cp.ru/pdf/ar/ru/additional-information_contacts.pdf",
+            "https://www.finam.ru/authors/1457/"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists 'Alexandrovich T. Sergey' for MRKP as Investor Relations Contact; the malformed name was resolved through official IR contacts."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf",
+          "title": "Годовой отчет ПАО \"Россети Центр и Приволжье\" за 2024 год",
+          "fact": "Страницы 284-285: отчет описывает IR channels and activity, including ir@mrsk-cp.ru, but does not name Терников."
+        },
+        {
+          "url": "https://ar2023.mrsk-cp.ru/additional-information/contacts",
+          "title": "Годовой отчет 2023: Контактная информация",
+          "fact": "Official annual-report contact page names Терников Сергей Александрович as head of the IR service and gives the investor-relations contact details."
+        },
+        {
+          "url": "https://ar2023.mrsk-cp.ru/pdf/ar/ru/additional-information_contacts.pdf",
+          "title": "Годовой отчет 2023: Контактная информация, PDF",
+          "fact": "The PDF page repeats that Терников Сергей Александрович is the head of the IR service."
+        },
+        {
+          "url": "https://www.finam.ru/authors/1457/",
+          "title": "Терников Сергей - профиль аналитика",
+          "fact": "Finam profile gives education at the State University of Management, analyst roles in 2007-2010, and work in Rosseti shareholder/investor relations from 2010 to 2025."
+        }
+      ],
+      "notes": "Local 2024 documents did not provide a biography. The identity is sufficiently anchored by the IR role, full name in official contacts and Finam career record. Finam's later non-Rosseti role is not used as a 2024 MRKP role."
+    },
+    {
+      "name": "Сергей Владимирович Хлусов",
+      "current_role": "Corporate Officer/Principal per CSV; public sources before and around the target period identify him as заместитель генерального директора ПАО \"Россети Центр и Приволжье\" - директор филиала \"Мариэнерго\".",
+      "company_name": "ПАО \"Россети Центр и Приволжье\"",
+      "education": [
+        {
+          "institution": "Марийский государственный университет",
+          "year": null,
+          "field": "электроэнергетический факультет",
+          "qualification": null,
+          "description": "Listed in the university anniversary book under 'Выпускники - гордость университета'; year, specialty and qualification were not stated.",
+          "sources": [
+            "https://marsu.ru/events/2022/Ноябрь/Марийский%20государственный%20университет%201972-2022.pdf",
+            "https://book.marsu.ru/book.html"
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Россети Центр и Приволжье\" - филиал \"Мариэнерго\"",
+          "role": "Исполняющий обязанности заместителя генерального директора - директор филиала",
+          "start_year": 2020,
+          "end_year": 2020,
+          "sources": [
+            "https://xn--80aaajllkisg9bu3m.xn--p1ai/от-первой-лампочки-до-цифровизации-се/",
+            "MOEXBMI_2024.csv",
+            "https://www.marpravda.ru/news/business/filial-marienergo-i-tns-energo-rasshiryayut-sotrudnichestvo/",
+            "https://globas.credinform.ru/ru-ru/company-card/fl-marienergo-pao-mrsk-tsentra-i-privolzhya-5260200603-c86794114c8748a3a420fdbcb112d115"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities",
+          "description": "Confirmed in a 2023 company/media article; CSV supports his 2024 corporate-officer inclusion, while local 2024 reports do not contain a biography. Round-2 finding: a 13.02.2025 akpars.ru article confirms continuity of Khlusov as director of the Marienergo branch and his participation opening a digital electric-power lab at Mari State University; a 07.07.2022 eepir.ru article independently repeats the fuller title (deputy general director ... director of the Marienergo branch) already on file. Neither source is dated within 2024 itself, so the substantial-uncertainty note about the absence of a 2024-dated biography is kept, but continuity immediately before and after 2024 is now corroborated by two additional independent sources."
+        },
+        {
+          "organization": "ПАО \"Россети Центр и Приволжье\" - филиал \"Мариэнерго\"",
+          "role": "Заместитель генерального директора - директор филиала",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Confirmed in a 2023 company/media article; CSV supports his 2024 corporate-officer inclusion, while local 2024 reports do not contain a biography.",
+          "sources": [
+            "MOEXBMI_2024.csv",
+            "https://www.marpravda.ru/news/business/filial-marienergo-i-tns-energo-rasshiryayut-sotrudnichestvo/",
+            "https://globas.credinform.ru/ru-ru/company-card/fl-marienergo-pao-mrsk-tsentra-i-privolzhya-5260200603-c86794114c8748a3a420fdbcb112d115"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Sergey Vladimirovich Khlusov for MRKP as Corporate Officer/Principal."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf",
+          "title": "Годовой отчет ПАО \"Россети Центр и Приволжье\" за 2024 год",
+          "fact": "The local annual report was checked; no biographical entry for Хлусов was found."
+        },
+        {
+          "url": "https://www.marpravda.ru/news/business/filial-marienergo-i-tns-energo-rasshiryayut-sotrudnichestvo/",
+          "title": "Филиал \"Мариэнерго\" и \"ТНС энерго\" расширяют сотрудничество",
+          "fact": "The 20.07.2023 article identifies Сергей Хлусов as deputy general director of ПАО \"Россети Центр и Приволжье\" and director of the \"Мариэнерго\" branch."
+        },
+        {
+          "url": "https://xn--80aaajllkisg9bu3m.xn--p1ai/от-первой-лампочки-до-цифровизации-се/",
+          "title": "От первой лампочки до цифровизации сетей",
+          "fact": "The 22.12.2020 interview identifies Сергей Хлусов as acting deputy general director of ПАО \"Россети Центр и Приволжье\" and director of the \"Мариэнерго\" branch."
+        },
+        {
+          "url": "https://marsu.ru/events/2022/Ноябрь/Марийский%20государственный%20университет%201972-2022.pdf",
+          "title": "Марийский государственный университет. 50 лет. 1972-2022",
+          "fact": "Page 63 lists Хлусов Сергей Владимирович in the electric power faculty section under university alumni."
+        },
+        {
+          "url": "https://globas.credinform.ru/ru-ru/company-card/fl-marienergo-pao-mrsk-tsentra-i-privolzhya-5260200603-c86794114c8748a3a420fdbcb112d115",
+          "title": "ФЛ Мариэнерго ПАО Россети Центр и Приволжье - Глобас",
+          "fact": "Auxiliary database card identifies the operating branch and names Хлусов Сергей Владимирович as leader."
+        },
+        {
+          "url": "https://akpars.ru/news/148989/rosseti-centr-i-privolzhe-strategicheskij-partner-marijskogo-gosudarstvennogo-universiteta/",
+          "title": "«Россети Центр и Приволжье» — стратегический партнер Марийского государственного университета",
+          "fact": "13.02.2025: confirms Khlusov as director of the Marienergo branch and his participation in opening a digital electric-power lab at Mari State University; no education year/specialty/qualification given."
+        },
+        {
+          "url": "https://eepir.ru/new/direktor-filiala-marienergo-sergej-hlusov-provel-vstrechi-s-nbsp-kollektivami-rajonov-elektricheskih-setej/",
+          "title": "Директор филиала «Мариэнерго» Сергей Хлусов провел встречи с коллективами районов электрических сетей",
+          "fact": "07.07.2022: repeats the fuller title deputy general director of PAO Rosseti Tsentr i Privolzhye - director of the Marienergo branch."
+        }
+      ],
+      "notes": "Substantial uncertainty remains compared with board biographies: no formal 2024 official biography was found, and education lacks year/specialty/qualification. Official and regional 2024 pages appeared in search results but some were not accessible in the browser; they were not used to expand unsupported details."
+    },
+    {
+      "name": "Олег Романович Федоров",
+      "current_role": "Член Совета директоров ПАО \"Россети Центр и Приволжье\"; неисполнительный директор.",
+      "company_name": "ПАО \"Россети Центр и Приволжье\"",
+      "education": [
+        {
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "year": 1992,
+          "field": "прикладная математика",
+          "qualification": "математик",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf",
+            "https://ar2023.mrsk-cp.ru/corporate-governance/board-report/board-membership"
+          ],
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Россети Центр и Приволжье\"",
+          "role": "Член Совета директоров",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Годовой отчет 2024 также указывает дату первого избрания в Совет директоров 09.06.2016.",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "Национальная ассоциация корпоративных директоров",
+          "role": "Член правления / независимый член правления",
+          "start_year": 2020,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null,
+          "description": "GICS: null/null/null -- Natsionalnaya assotsiatsiya korporativnykh direktorov is a non-profit professional association for corporate directors, not an operating company; no commercial GICS bucket applies (same convention as other professional associations in this project)."
+        },
+        {
+          "organization": "Ассоциация \"Благоустройство коттеджного поселка Пестово\"",
+          "role": "Член правления",
+          "start_year": 2020,
+          "end_year": 2023,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null,
+          "description": "GICS: null/null/null -- Assotsiatsiya \"Blagoustroystvo kottedzhnogo poselka Pestovo\" is a homeowners-and-community improvement association for a cottage settlement, not a commercial operating company; no GICS bucket applies."
+        },
+        {
+          "organization": "ПАО \"Россети Северо-Запад\"",
+          "role": "Член Совета директоров",
+          "start_year": 2017,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "Национальный реестр профессиональных корпоративных директоров, НП \"РИД\"",
+          "role": "Член коллегии",
+          "start_year": 2015,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null,
+          "description": "GICS: null/null/null -- Natsionalnyy reestr professionalnykh korporativnykh direktorov, NP \"RID\" is a non-profit professional registry/association for corporate directors, not an operating company; no commercial GICS bucket applies."
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Oleg Romanovich Fedorov for MRKP as Director/Board Member."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf",
+          "title": "Годовой отчет ПАО \"Россети Центр и Приволжье\" за 2024 год",
+          "fact": "Страницы 215-216 and 220: report includes Федоров in the 2024 Board of Directors and gives education and recent positions."
+        },
+        {
+          "url": "https://ar2023.mrsk-cp.ru/corporate-governance/board-report/board-membership",
+          "title": "Годовой отчет ПАО \"Россети Центр и Приволжье\" за 2023 год: Состав Совета директоров",
+          "fact": "Official online annual report confirms the same board-person biography and education profile in the prior-year report."
+        }
+      ],
+      "notes": "No confirmed academic publications, patents or h-index. Namesake academic profiles were excluded because they lacked the patronymic/corporate-governance/Rosseti anchors."
+    },
+    {
+      "name": "Андрей Владимирович Морозов",
+      "current_role": "Член Совета директоров ПАО \"Россети Центр и Приволжье\"; независимый директор; юридический директор Ассоциации профессиональных инвесторов.",
+      "company_name": "ПАО \"Россети Центр и Приволжье\"",
+      "education": [
+        {
+          "institution": "Российская правовая академия Министерства юстиции Российской Федерации",
+          "year": 2000,
+          "field": "юриспруденция",
+          "qualification": "юрист",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf",
+            "https://ar2023.mrsk-cp.ru/corporate-governance/board-report/board-membership"
+          ],
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Harvard Law School",
+          "year": 2016,
+          "field": "law / corporate governance",
+          "qualification": "LLM",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf",
+            "https://ar2023.mrsk-cp.ru/corporate-governance/board-report/board-membership"
+          ],
+          "qualification_degree": "Master's degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Ассоциация профессиональных инвесторов",
+          "role": "Юридический директор",
+          "start_year": 2017,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null,
+          "description": "GICS: null/null/null -- Assotsiatsiya professionalnykh investorov is a non-profit professional association for institutional and portfolio investors, not itself an operating investment or financial company; no commercial GICS bucket applies (same treatment already used for this identical organization elsewhere in this project, e.g. MRKZ/MRKU/OGKB files)."
+        },
+        {
+          "organization": "ПАО \"Россети Центр и Приволжье\"",
+          "role": "Член Совета директоров",
+          "start_year": 2021,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf",
+            "MOEXBMI_Отчеты_2024/MRKP/Приложения к ГО/Приложение 5. Отчет о сделках ЦиП 2024.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Центр\"",
+          "role": "Член Совета директоров",
+          "start_year": 2022,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf",
+            "MOEXBMI_Отчеты_2024/MRKP/Приложения к ГО/Приложение 5. Отчет о сделках ЦиП 2024.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Волга\"",
+          "role": "Член Совета директоров",
+          "start_year": 2020,
+          "end_year": 2022,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Северо-Запад\"",
+          "role": "Член Совета директоров",
+          "start_year": 2019,
+          "end_year": 2022,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"МРСК Центра и Приволжья\"",
+          "role": "Член Совета директоров",
+          "start_year": 2018,
+          "end_year": 2021,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Юг\"",
+          "role": "Член Совета директоров",
+          "start_year": 2018,
+          "end_year": 2020,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Andrey Vladimirovich Morozov for MRKP as Director/Board Member."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf",
+          "title": "Годовой отчет ПАО \"Россети Центр и Приволжье\" за 2024 год",
+          "fact": "Страницы 215-219: report includes Морозов in the 2024 Board of Directors, recognizes him as independent director and gives education and professional experience."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKP/Приложения к ГО/Приложение 5. Отчет о сделках ЦиП 2024.pdf",
+          "title": "Приложение 5. Отчет о сделках 2024",
+          "fact": "Страницы 605-607: transaction materials confirm his simultaneous status as a board member of ПАО \"Россети Центр\" and ПАО \"Россети Центр и Приволжье\"."
+        },
+        {
+          "url": "https://ar2023.mrsk-cp.ru/corporate-governance/board-report/board-membership",
+          "title": "Годовой отчет ПАО \"Россети Центр и Приволжье\" за 2023 год: Состав Совета директоров",
+          "fact": "Official online annual report confirms the same identity anchors: legal education, Harvard Law School LLM, Association of Professional Investors and Rosseti board roles."
+        }
+      ],
+      "notes": "No confirmed research profile, patents or h-index. Namesake searches were filtered by Harvard/API/Rosseti anchors."
+    },
+    {
+      "name": "Виталий Юрьевич Зархин",
+      "current_role": "Член Совета директоров ПАО \"Россети Центр и Приволжье\"; независимый директор.",
+      "company_name": "ПАО \"Россети Центр и Приволжье\"",
+      "education": [
+        {
+          "institution": "Высшая школа экономики",
+          "year": 1998,
+          "field": "экономика",
+          "qualification": "бакалавр экономики",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf",
+            "https://ar2023.mrsk-cp.ru/corporate-governance/board-report/board-membership"
+          ],
+          "qualification_degree": "Bachelor's degree"
+        },
+        {
+          "institution": "Высшая школа экономики",
+          "year": 2000,
+          "field": "менеджмент",
+          "qualification": "магистр менеджмента",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf",
+            "https://ar2023.mrsk-cp.ru/corporate-governance/board-report/board-membership"
+          ],
+          "qualification_degree": "Master's degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Россети Центр и Приволжье\"",
+          "role": "Член Совета директоров",
+          "start_year": 2019,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf",
+            "MOEXBMI_Отчеты_2024/MRKP/Приложения к ГО/Приложение 5. Отчет о сделках ЦиП 2024.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Центр\" и ПАО \"Россети Юг\"",
+          "role": "Член Советов директоров",
+          "start_year": 2019,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf",
+            "MOEXBMI_Отчеты_2024/MRKP/Приложения к ГО/Приложение 5. Отчет о сделках ЦиП 2024.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"ЭЛ5-Энерго\"",
+          "role": "Член Совета директоров",
+          "start_year": 2022,
+          "end_year": 2023,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО \"Россети Сибирь\"",
+          "role": "Член Совета директоров",
+          "start_year": 2021,
+          "end_year": 2023,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Энел Россия\"",
+          "role": "Член Совета директоров",
+          "start_year": 2019,
+          "end_year": 2021,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО \"КТК\"",
+          "role": "Член Совета директоров",
+          "start_year": 2018,
+          "end_year": 2019,
+          "sources": [
+            "https://ar2023.mrsk-cp.ru/corporate-governance/board-report/board-membership",
+            "https://gasandmoney.ru/novosti/predstavitel-prosperity-voshel-v-sovet-direktorov-ktk/"
+          ],
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels",
+          "description": "Round-2 finding: PAO \"KTK\" = Kuzbasskaya toplivnaya kompaniya (Kuzbass Fuel Company), a thermal-coal producer and exporter; Zarkhin elected 25.06.2018 as a Prosperity-funds nominee independent director, replacing Alexander Williams of Taiga Capital (gasandmoney.ru)."
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Vitaly Yuryevich Zarkhin for MRKP as Director/Board Member."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf",
+          "title": "Годовой отчет ПАО \"Россети Центр и Приволжье\" за 2024 год",
+          "fact": "Страницы 215-217: report includes Зархин in the 2024 Board of Directors, recognizes him as independent director and gives education and recent board experience."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKP/Приложения к ГО/Приложение 5. Отчет о сделках ЦиП 2024.pdf",
+          "title": "Приложение 5. Отчет о сделках 2024",
+          "fact": "Страницы 605-607: transaction materials confirm his simultaneous status as a board member of ПАО \"Россети Центр\" and ПАО \"Россети Центр и Приволжье\"."
+        },
+        {
+          "url": "https://ar2023.mrsk-cp.ru/corporate-governance/board-report/board-membership",
+          "title": "Годовой отчет ПАО \"Россети Центр и Приволжье\" за 2023 год: Состав Совета директоров",
+          "fact": "Official online annual report confirms HSE education and prior board roles."
+        }
+      ],
+      "notes": "No confirmed research profile, patents or h-index. Namesake searches without HSE/Rosseti board anchors were rejected."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf",
+      "title": "Годовой отчет ПАО \"Россети Центр и Приволжье\" за 2024 год",
+      "fact": "Страницы 215-216: report lists the 2024 Board of Directors elected on 14.06.2024, including Маковский, Морозов, Федоров and Зархин from the CSV."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf",
+      "title": "Годовой отчет ПАО \"Россети Центр и Приволжье\" за 2024 год",
+      "fact": "Страницы 246-249: report explains that ПАО \"Россети Центр\" is the managing organization and records the late-December 2024 transition from Маковский to Борис Эбзеев."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MRKP/Приложения к ГО/Приложение 5. Отчет о сделках ЦиП 2024.pdf",
+      "title": "Приложение 5. Отчет о сделках 2024",
+      "fact": "Страницы 605-607: transaction report confirms governance links involving Маковский, Морозов and Зархин across ПАО \"Россети Центр\" and ПАО \"Россети Центр и Приволжье\"."
+    },
+    {
+      "url": "https://ar2023.mrsk-cp.ru/corporate-governance/board-report/board-membership",
+      "title": "Годовой отчет ПАО \"Россети Центр и Приволжье\" за 2023 год: Состав Совета директоров",
+      "fact": "Official online prior-year annual report confirms stable board biographies for Маковский, Морозов, Федоров and Зархин."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "Input CSV contains six MRKP people processed in this research."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf",
+      "title": "Годовой отчет ПАО \"Россети Центр и Приволжье\" за 2024 год",
+      "fact": "Primary local source for board composition, EIO/managing-organization structure, board biographies and 2024 CEO transition."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MRKP/2024_А1.1.1_Отчетность_МСФО_Россети_рус_доп_финал (1).pdf",
+      "title": "Отчетность МСФО 2024",
+      "fact": "Checked as a local MRKP source; no additional person biographies for the CSV people were found."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MRKP/Приложения к ГО/Приложение 3.  Дополнительная информация к ГО ЦиП 2024.pdf",
+      "title": "Приложение 3. Дополнительная информация к годовому отчету 2024",
+      "fact": "Checked as a local MRKP source; provided additional biography repetition for Маковский and corporate governance details."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MRKP/Приложения к ГО/Приложение 4. Отчет ККУ за 2024 год.pdf",
+      "title": "Приложение 4. Отчет ККУ за 2024 год",
+      "fact": "Checked as a local MRKP source; no additional education or career facts for the CSV people were used."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MRKP/Приложения к ГО/Приложение 5. Отчет о сделках ЦиП 2024.pdf",
+      "title": "Приложение 5. Отчет о сделках 2024",
+      "fact": "Checked as a local MRKP source; used for governance cross-checks involving Маковский, Морозов and Зархин."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MRKP/Приложения к ГО/Приложение 6. Заключение Ревизионной комиссии.pdf",
+      "title": "Приложение 6. Заключение Ревизионной комиссии",
+      "fact": "Checked as a local MRKP source; no additional person biography facts were used."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MRKP/Приложения к ГО/Приложение 7. Указатель содержания GRI 2024.pdf",
+      "title": "Приложение 7. Указатель содержания GRI 2024",
+      "fact": "Checked as a local MRKP source; no additional person biography facts were used."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MRKP/Приложения к ГО/Приложение 8. Указатель  МЭР 2024.pdf",
+      "title": "Приложение 8. Указатель МЭР 2024",
+      "fact": "Checked as a local MRKP source; no additional person biography facts were used."
+    },
+    {
+      "url": "https://ar2023.mrsk-cp.ru/corporate-governance/board-report/board-membership",
+      "title": "Годовой отчет 2023: Состав Совета директоров",
+      "fact": "Official online annual report corroborates education and board biographies for the MRKP board members."
+    },
+    {
+      "url": "https://ar2023.mrsk-cp.ru/additional-information/contacts",
+      "title": "Годовой отчет 2023: Контактная информация",
+      "fact": "Official online contact page names Терников Сергей Александрович as head of IR service."
+    },
+    {
+      "url": "https://www.finam.ru/authors/1457/",
+      "title": "Терников Сергей - профиль аналитика",
+      "fact": "Professional profile gives Терников's education and career before, during and after Rosseti investor-relations work."
+    },
+    {
+      "url": "https://www.marpravda.ru/news/business/filial-marienergo-i-tns-energo-rasshiryayut-sotrudnichestvo/",
+      "title": "Филиал \"Мариэнерго\" и \"ТНС энерго\" расширяют сотрудничество",
+      "fact": "Regional business article confirms Хлусов's deputy general director/director of branch role in 2023."
+    },
+    {
+      "url": "https://marsu.ru/events/2022/Ноябрь/Марийский%20государственный%20университет%201972-2022.pdf",
+      "title": "Марийский государственный университет. 50 лет. 1972-2022",
+      "fact": "University anniversary book lists Хлусов under alumni of the electric power faculty."
+    }
+  ],
+  "new_institutions_found": [
+    {
+      "raw_string": "Калининградский государственный университет",
+      "candidate_canonical_name": "Балтийский федеральный университет имени Иммануила Канта",
+      "person": "Игорь Владимирович Маковский",
+      "context": "education[1] (2000, юриспруденция, юрист); general Kaliningrad State University, distinct from the already-listed Kaliningrad State Technical University; renamed Immanuel Kant Russian State University in 2005 and merged into Baltic Federal University named after Immanuel Kant in 2010. Raw historical name kept in education[] since accurate for the graduation year; not present in university_names.json prior to this round.",
+      "source": "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf"
+    },
+    {
+      "raw_string": "Марийский государственный университет",
+      "candidate_canonical_name": "Марийский государственный университет",
+      "person": "Сергей Владимирович Хлусов",
+      "context": "education[0] (electric power faculty, no year/qualification confirmed); real, standalone, currently operating classical university in Йошкар-Ола, distinct from Марийский государственный технический университет / Поволжский государственный технологический университет. Raw string already matches the institution's own current official name; not present in university_names.json prior to this round.",
+      "source": "https://marsu.ru/events/2022/Ноябрь/Марийский%20государственный%20университет%201972-2022.pdf"
+    },
+    {
+      "raw_string": "Harvard Law School",
+      "candidate_canonical_name": "Harvard Law School",
+      "person": "Андрей Владимирович Морозов",
+      "context": "education[1] (2016, LLM); distinct constituent school of Harvard University, not covered by the existing separate canonical entries for Harvard Business School / Harvard University / Harvard University-Harvard Kennedy School. Kept as-is (already the correct official English name); not present in university_names.json prior to this round.",
+      "source": "MOEXBMI_Отчеты_2024/MRKP/Годовой отчет Россети Центр и Приволжье за 2024 год_утв.17.06.2025.pdf"
+    }
+  ],
+  "validation_notes": "Processed 6 MRKP CSV people. Checked 8 local MRKP documents before web search. Completed 6 person-level research rounds. Education not fully detailed for 1 person: Сергей Хлусов has university/faculty evidence but no year, specialty or qualification. Substantial uncertainty remains for 2 people: Сергей Терников has no local 2024 biography, and Сергей Хлусов has no formal local 2024 biography. Weak or auxiliary sources were used for Терников's education/career after official IR-contact anchoring and for Хлусов's branch role/education after local documents failed to provide a biography. Main temporal conflict: CSV lists Маковский as CEO, while the annual report shows that Борис Эбзеев became general director of the managing organization from 28.12.2024; Эбзеев is not included as a person because he is absent from the CSV. Namesakes were rejected where they lacked patronymic, Rosseti/company, branch, education, role or industry anchors. No confirmed research experience, scholarly publications, patents or h-index were found for the six CSV people. Search is considered complete because local documents were checked first, official board biographies were found for all board members, separate education/career/appointment/professional biography/research searches were performed, prior employers and obvious identity leads were checked, and remaining gaps are documented without inventing facts. | ROUND 2 (gap-fill + GICS + qualification_degree + institution normalization, completed 2026-07-19, per REFINEMENT.md): (1) Gap-fill: re-checked all 8 local MRKP documents for Khlusov and Ternikov biographies (none found, confirming round-1's conclusion) via direct PDF text extraction (pypdf) rather than relying only on the round-1 summary. This session's WebSearch tool quota was already exhausted (200/200) before this ticker was reached; all web research this round was done via curl/WebFetch against html.duckduckgo.com/html search-result pages and direct URLs, the documented workaround already established elsewhere in this project (e.g. GMKN, IRAO round 2). Closed/advanced: identified PPK VSK as PPK Voenno-stroitelnaya kompaniya (Ministry of Defense) via Kommersant/EADaily/Vedomosti (30.12.2024 appointment, matching the annual report's own date); identified OOO Infrastrukturnye investitsii-3 as a smart-metering/Smart-Grid SPV sold into the PAO Rosseti Tsentr i Privolzhye perimeter in December 2022 via Interfax and a cbonds.ru issuer profile; identified PAO KTK (Zarkhin, 2018-2019) as Kuzbasskaya toplivnaya kompaniya via gasandmoney.ru, resolving what was previously an unexpanded abbreviation; corrected the exact name of the energy storage association from the short form previously on file to the full form Assotsiatsiya razvitiya tekhnologiy sistem nakopleniya elektroenergii after re-reading the primary annual-report page (219) directly; found two additional independent sources (akpars.ru 13.02.2025, eepir.ru 07.07.2022) corroborating Khlusov's role continuity immediately before and after 2024, though no source dated within 2024 itself was found, so the substantial-uncertainty flag for Khlusov stays. Not closed (documented, not guessed): Ternikov's graduation year at Gosudarstvennyy universitet upravleniya (Finam profile page is behind a JS bot-challenge and could not be re-read this round; marketscreener.com insider page returned HTTP 403); Khlusov's education year, specialty and qualification (no further source found beyond the alumni-book listing already on file). No previously-confirmed fact was re-verified from scratch or deleted; the CEO's degrees, publications, patents and h_index fields had already been checked and concluded absent in round 1, so were not re-searched this round. (2) GICS: company-level sector=Utilities/industry_group=Utilities/industry=Electric Utilities added verbatim from gics_taxonomy.json, justified by the annual report's own description (p.32: electricity transmission and technological-connection services across nine regions since 2007, a natural-monopoly regulated TSO). All 29 professional_experience entries across all 6 people received sector/industry_group/industry, classified by each organization's own primary line of business, not a subsidiary's: all Rosseti-group regional electric-grid companies (Rosseti Center, Rosseti Center and Volga Region / MRSK Tsentra i Privolzhya, Rosseti North-West, Rosseti Volga, Rosseti Yug, Rosseti Siberia, and the Marienergo branch) and the smart-metering SPV Infrastrukturnye investitsii-3 map to Electric Utilities; EL5-Energo and Enel Russia (thermal generation only, no distribution franchise, by analogy to this project's own ELFV file for the identical company under its former and current names) map to Independent Power and Renewable Electricity Producers; KTK / Kuzbass Fuel Company (thermal-coal producer and exporter) maps to Oil, Gas & Consumable Fuels, the only available Energy-sector bucket in this project's reduced gics_taxonomy.json for coal producers under the post-2018 GICS structure; PPK VSK / Voenno-stroitelnaya kompaniya (Ministry-of-Defense construction company) maps to Construction & Engineering; IK Russkie finansovye traditsii and ZAO FINAM (brokerage and analyst employers) map to Financial Services (New Name)/Capital Markets. Set to null/null/null with a stated reason (non-profit professional/industry associations and registries: the energy-storage-technologies association, Natsionalnaya assotsiatsiya korporativnykh direktorov, Natsionalnyy reestr professionalnykh korporativnykh direktorov/NP RID, Assotsiatsiya professionalnykh investorov -- this last one reused the same null treatment already given to the identical organization in this project's MRKZ/MRKU/OGKB files; and a homeowners and community association: Blagoustroystvo kottedzhnogo poselka Pestovo). Reasons are recorded both inline in the relevant professional_experience description/GICS-null note and summarized here. (3) qualification_degree added to all 11 education[] entries across all 6 people (no degrees[] entries exist for any MRKP person, so none needed the field there). Pre-Bologna Soviet/Russian higher-education program graduates (1993 border-troops command school, 2000 Kaliningrad State University law degree, 1992 MSU applied-mathematics degree, 2000 Russian Law Academy law degree, all with an explicit classical qualification word already on file) map to Specialist degree. Explicit retraining programme (North-West Academy of Public Administration/RANEPA) maps to Professional certification. Entries already stating bakalavr/magistr wording verbatim map to Bachelor's degree / Master's degree directly, no inference needed. Harvard Law School LLM maps to Master's degree (LLM is a taught graduate law degree; nearest available enum value, consistent with this project's convention of mapping foreign graduate-law credentials to Master's degree). Left null where the source gives no year, specialty or qualification at all and no additional research this round could establish one with high confidence (Khlusov's Mari State University entry): reasoning stated in the entry's own description field per project rule. (4) Institution normalization: the Alma-Ata Higher Border Command School named after F.E. Dzerzhinsky maps to the existing canonical entry (the Dzerzhinsky honorific is unique to this Alma-Ata institution among Soviet border-troops schools, confirmed via multiple alumni/history sources this round); North-West Academy of Public Administration maps to the existing RANEPA canonical entry (already listed as a variant there); Ivanovo State Power Engineering University and Lomonosov Moscow State University are spacing-normalized to their exact existing canonical strings; Russian Law Academy of the Ministry of Justice maps to the existing canonical entry (already listed as a variant there); Higher School of Economics (both Zarkhin entries) maps to the existing canonical HSE entry; State University of Management (Ternikov) is already an exact match to its existing canonical entry, no change needed. Three institutions not found anywhere in university_names.json were logged to the new top-level new_institutions_found list rather than forced into an unrelated canonical bucket: Kaliningrad State University (Makovsky), Mari State University (Khlusov) and Harvard Law School (Morozov); details and reasoning for each are in that list. (5) Corrected the exact organization-name wording for the energy-storage association (see gap-fill section above) after re-reading the primary local source directly; this is a precision fix from the same already-cited source, not a deletion of a previously-confirmed fact. No previously-confirmed fact anywhere in this file was deleted or silently overwritten this round. MASS DATA-LOSS REPAIR (2026-07-30): restored 0 shortened person notes, 7 shortened experience descriptions, 0 shortened education descriptions, 2 missing person-level sources, and 9 missing experience-level sources using git HEAD (commit 03bfe9f, 2026-07-20) as the reliable baseline. Nothing else in this file was touched. | QUALITY PASS ROUND 1 (2026-07-30, see research_notes/MRKP/quality_pass_round1_20260730.md): Step-0 git-baseline check found the on-disk file already identical to committed git HEAD (commit f973022) -- no restoration needed. Desync check (notes vs JSON) across all 6 people found 4 simple-omission desyncs, all cases where round-2 notes had already decided and sourced a corrected value but the JSON still held the pre-correction string: (1) Makovsky education[0] institution corrected from the raw \"Алма-Атинское высшее пограничное командное училище имени Ф. Э. Дзержинского\" to the university_names.json canonical \"Высшее пограничное командное училище КГБ СССР имени Ф.Э. Дзержинского\"; (2) Makovsky education[3] institution spacing-fixed to the canonical \"Ивановский государственный энергетический университет имени В.И. Ленина\"; (3) Makovsky professional_experience energy-storage-association organization name corrected from the round-1 short paraphrase to the source-verified full wording \"Ассоциация развития технологий систем накопления электроэнергии\" (annual report p.219, already cited); (4) Fedorov education[0] institution spacing-fixed to the canonical \"Московский государственный университет имени М.В. Ломоносова\". No genuine inconsistencies (case 1b) were found: every other JSON field matches its person's round-1/round-2 notes exactly, and no person's Contradictions section flagged anything unresolved, so no fabricated resolution was needed or used. GICS correctness check reviewed all 18 populated sector/industry_group/industry triples against gics_taxonomy.json and each organization's real primary business (including the KTK coal-producer and VSK Ministry-of-Defense-construction-company edge cases called out by this pass's own guidance); all were already correct, so 0 labels were changed. Honest-gap follow-up made one bounded, documented attempt each on the two remaining real gaps: Ternikov's graduation year at Государственный университет управления (5 fresh queries/fetches: 2 genuinely returned no new source, finam.ru still HTTP-403/bot-blocked, a new Finversia press page had no bio content, a new VK profile could not be fetched by available tooling) and Khlusov's education year/specialty/qualification at Марийский государственный университет (4 fresh queries/fetches: surfaced only an unrelated namesake resume, generic other-university faculty pages, an i-ola.ru municipal page with no mention of him, and an audit-it.ru registry card confirming an unrelated liquidation-commission role with no biographical detail). Both gaps remain unresolved and are left null exactly as before, with the specific fresh queries logged in this round's own notes file so a future pass does not repeat them. No previously-confirmed fact was deleted, shortened or overwritten this round. | QUALITY PASS ROUND 2 (2026-07-30, independent re-verification): re-ran the git-baseline diff against HEAD (commit 03bfe9f) and confirmed the 5 differences from HEAD are the 4 quality-pass-round-1 fixes plus the resulting validation_notes growth -- all corrections/expansions backed by round-2 notes and university_names.json, none shortened or deleted, so no restoration was needed. Found one remaining real desync missed by round 1: round-2 notes and this file's own validation_notes explicitly stated that Kaliningrad State University (Makovsky), Марийский государственный университет (Khlusov) and Harvard Law School (Morozov) were \"logged to the new top-level new_institutions_found list\", but that key did not actually exist in this file (round 1 had explicitly deferred it as out-of-scope). Added the new_institutions_found array now, using only the raw_string/candidate_canonical_name/person/context/source content already documented in each person's own round-2 notes file (no new research), matching the schema and precedent already used for this same purpose in AQUA/ENPG/GLTR. Re-checked all 11 qualification_degree values against the allowed enum (Bachelor's/Master's/Specialist/Doctoral/MBA/Executive education/Professional certification/Incomplete higher education/Secondary education/Unknown/null) -- all valid. Re-checked all 6 people's required keys and the file's required top-level keys -- all present. Re-verified all 6 populated GICS triples spot-checked (Rosseti-group entities, ЭЛ5-Энерго, ППК ВСК, ПАО КТК, ИК Русские финансовые традиции/ЗАО ФИНАМ) against gics_taxonomy.json and each organization's real business -- all correct, none changed. No genuine inconsistency requiring resolution was found beyond the one already reasoned out in round 2 (CEO/Эбзеев year-end transition, already handled as a documented temporal note, not a live contradiction). Nothing previously present was deleted.",
+  "sector": "Utilities",
+  "industry_group": "Utilities",
+  "industry": "Electric Utilities"
+}

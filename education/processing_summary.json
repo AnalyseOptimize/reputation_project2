@@ -1,0 +1,19 @@
+{
+  "input_files": 110,
+  "people": 1123,
+  "companies": 110,
+  "collection_year": 2024,
+  "research_missing_dates": "professional",
+  "output": "/Users/mac/Reputation project/education/eduction_processed.csv",
+  "experience_notes": {
+    "end_from_next_start": 513,
+    "end_at_collection_year": 1109,
+    "missing_dates_excluded": 840,
+    "end_capped_at_collection_year": 36,
+    "after_collection_year_excluded": 46,
+    "end_from_next_start;end_capped_at_collection_year": 22,
+    "start_from_previous_end": 14
+  },
+  "unknown_publication_counts": 5,
+  "unknown_patent_counts": 2
+}

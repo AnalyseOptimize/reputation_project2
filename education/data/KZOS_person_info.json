@@ -1,0 +1,344 @@
+{
+  "company_name": "ПАО \"Казаньоргсинтез\" / Казанское публичное акционерное общество \"Органический синтез\"",
+  "company_ticker": "KZOS",
+  "ceo": {
+    "name": "Сафин Айрат Фоатович",
+    "current_role": "Генеральный директор ПАО \"Казаньоргсинтез\" в контексте 2024 года",
+    "company_name": "ПАО \"Казаньоргсинтез\" / Казанское публичное акционерное общество \"Органический синтез\"",
+    "education": [
+      {
+        "institution": "Казанский национальный исследовательский технологический университет",
+        "year": 1998,
+        "program_or_specialty": "Машины и аппараты химических производств и предприятий строительных материалов",
+        "qualification": "инженер",
+        "source": "https://gossov.tatarstan.ru/structure/deputaty?deputy_id=292&person_id=415",
+        "qualification_degree": "Specialist degree"
+      },
+      {
+        "institution": "Казанский национальный исследовательский технологический университет",
+        "year": 2000,
+        "program_or_specialty": "Экономика и управление на предприятии",
+        "qualification": "экономист-менеджер",
+        "source": "https://gossov.tatarstan.ru/structure/deputaty?deputy_id=292&person_id=415",
+        "qualification_degree": "Specialist degree"
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "Нижнекамский завод строительных и металлических конструкций",
+        "role": "Автослесарь, аккумуляторщик автотранспортного цеха",
+        "start_year": 1992,
+        "end_year": 1996,
+        "description": "Regional biographies describe this as Safin's first employment before joining Nizhnekamskneftekhim.",
+        "source": "https://rt-online.ru/government-structure/persons/safin-airat-foatovic",
+        "sector": "Industrials",
+        "industry_group": "Capital Goods",
+        "industry": "Building Products"
+      },
+      {
+        "organization": "ООО \"Компания фундамент\"",
+        "role": "Начальник сбыта",
+        "start_year": 1996,
+        "end_year": 1997,
+        "description": "RT-Online and Realnoe Vremya list this Moscow role between the early plant job and Nizhnekamskneftekhim.",
+        "source": "https://rt-online.ru/government-structure/persons/safin-airat-foatovic",
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "ОАО \"Нижнекамскнефтехим\"",
+        "role": "Слесарь-ремонтник, аппаратчик, начальник отделений, механик, заместитель главного механика, начальник цеха",
+        "start_year": 1997,
+        "end_year": 2005,
+        "description": "Public biographies trace Safin's progression at Nizhnekamskneftekhim from repair mechanic in 1997 through production and maintenance roles to head of styrene polymerization shop. Quality-pass round 1 (2026-07-30) adds the granular per-stint chronology documented in research_notes/KZOS round 1, all within this same 1997-2005 span at the same employer: 1997 repair mechanic, repair-mechanical shop, production No. 1, synthetic rubber plant; 1997-1999 catalyst preparation/process operator, polymerization shop, synthetic rubber plant; 1999-2001 head of sections, polymerization shop, synthetic rubber plant; 2001-2003 mechanic, polystyrene production shop, polystyrene and gas condensate processing plant; 2003-2004 deputy chief mechanic, polystyrene and gas condensate processing plant; 2004-2005 head of styrene polymerization shop, polystyrene and gas condensate processing plant.",
+        "source": "https://realnoevremya.ru/articles/167329-ayrat-safin-nizhnekamsk-eto-moya-rodina-zdes-rodilis-moi-deti",
+        "sector": "Materials",
+        "industry_group": "Materials",
+        "industry": "Chemicals"
+      },
+      {
+        "organization": "ПАО \"Казаньоргсинтез\"",
+        "role": "Начальник цеха синтеза дифенил- и поликарбоната завода поликарбонатов",
+        "start_year": 2005,
+        "end_year": 2013,
+        "description": "SIBUR's official appointment release and TatCenter's 2020 appointment news identify Safin as director of the Kazanorgsintez ethylene plant before Nizhnekamskneftekhim.",
+        "source": "https://www.sibur.ru/kazanorgsintez/ru/press-center/generalnym-direktorom-kazanorgsinteza-naznachen-ayrat-safin/",
+        "sector": "Materials",
+        "industry_group": "Materials",
+        "industry": "Chemicals"
+      },
+      {
+        "organization": "ПАО \"Казаньоргсинтез\"",
+        "role": "Главный технолог завода этилена",
+        "start_year": 2013,
+        "end_year": 2013,
+        "description": "SIBUR's official appointment release says Safin became chief technologist of the Kazanorgsintez ethylene plant in 2013.",
+        "source": "https://www.sibur.ru/kazanorgsintez/ru/press-center/generalnym-direktorom-kazanorgsinteza-naznachen-ayrat-safin/",
+        "sector": "Materials",
+        "industry_group": "Materials",
+        "industry": "Chemicals"
+      },
+      {
+        "organization": "ПАО \"Казаньоргсинтез\"",
+        "role": "Директор завода этилена",
+        "start_year": 2013,
+        "end_year": 2020,
+        "description": "SIBUR's official appointment release and TatCenter's 2020 appointment news identify Safin as director of the Kazanorgsintez ethylene plant before Nizhnekamskneftekhim.",
+        "source": "https://www.sibur.ru/kazanorgsintez/ru/press-center/generalnym-direktorom-kazanorgsinteza-naznachen-ayrat-safin/",
+        "sector": "Materials",
+        "industry_group": "Materials",
+        "industry": "Chemicals"
+      },
+      {
+        "organization": "ПАО \"Нижнекамскнефтехим\"",
+        "role": "Генеральный директор",
+        "start_year": 2020,
+        "end_year": 2022,
+        "description": "SIBUR NKNH states Safin headed Nizhnekamskneftekhim from 27 February 2020 to 11 June 2022.",
+        "source": "https://www.sibur.ru/nknh/ru/press-center/generalnym-direktorom-nizhnekamskneftekhima-naznachen-igor-klimov/",
+        "sector": "Materials",
+        "industry_group": "Materials",
+        "industry": "Chemicals"
+      },
+      {
+        "organization": "ПАО \"Казаньоргсинтез\"",
+        "role": "Генеральный директор",
+        "start_year": 2022,
+        "end_year": null,
+        "description": "The local 2024 annual report confirms that Safin was appointed General Director by Board decision dated 10 June 2022 and remained the CEO in the 2024 report.",
+        "source": "MOEXBMI_Отчеты_2024/KZOS/ПАО Казаньоргсинтез_ГО 2024.pdf",
+        "sector": "Materials",
+        "industry_group": "Materials",
+        "industry": "Chemicals"
+      },
+      {
+        "organization": "АО \"СИБУР-РТ\"",
+        "role": "Генеральный директор",
+        "start_year": 2023,
+        "end_year": null,
+        "description": "Gossov/TatCenter biographies state that Safin has been CEO of AO SIBUR-RT since July 2023.",
+        "source": "https://gossov.tatarstan.ru/structure/deputaty?deputy_id=292&person_id=415",
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "Государственный Совет Республики Татарстан",
+        "role": "Депутат седьмого созыва; член Комитета по бюджету, налогам и финансам",
+        "start_year": 2024,
+        "end_year": null,
+        "description": "The official State Council profile states that Safin has held the deputy mandate since 8 September 2024.",
+        "source": "https://gossov.tatarstan.ru/structure/deputaty?deputy_id=292&person_id=415",
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      }
+    ],
+    "research_experience": [],
+    "publications": [
+      {
+        "title": "Особенности установок пиролиза этанового сырья и СУГ ПАО \"Казаньоргсинтез\"",
+        "year": 2020,
+        "venue": "Химия нефти и газа: Материалы XI международной конференции",
+        "authors_as_source_lists": "Д.Х. Сафин, Р.А. Сафаров, А.А. Белов, А.Ф. Сафин, В.И. Гайнуллин, В.А. Смолко",
+        "description": "Conference proceedings list А.Ф. Сафин with ПАО \"Нижнекамскнефтехим\" affiliation. Attribution to Айрат Фоатович Сафин is probable because the affiliation/year/industry match his 2020 CEO role, but the publication itself gives initials rather than full name.",
+        "source": "https://petroleum-chemistry.ru/wp-content/uploads/2020/10/Химия-нефти-и-газа-2020-Сборник-трудов-PDF.pdf"
+      }
+    ],
+    "patents": [
+      {
+        "title": "Способ очистки пирогаза закалочным маслом",
+        "number": "RU2739027C1",
+        "publication_year": 2020,
+        "role": "Изобретатель",
+        "description": "Google Patents lists Айрат Фоатович Сафин among inventors and Казанское публичное акционерное общество \"Органический синтез\" as original assignee.",
+        "source": "https://patents.google.com/patent/RU2739027C1/ru"
+      }
+    ],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "Row 302 lists ticker KZOS, company ПАО \"Казаньоргсинтез\", Сафин Айрат Фоатович as Генеральный директор; comment says board composition is not disclosed."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/KZOS/ПАО Казаньоргсинтез_ГО 2024.pdf",
+        "title": "ПАО \"Казаньоргсинтез\". Годовой отчет 2024",
+        "fact": "Printed pages 3-4: the CEO address is signed by Генеральный директор ПАО \"Казаньоргсинтез\" Сафин А.Ф."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/KZOS/ПАО Казаньоргсинтез_ГО 2024.pdf",
+        "title": "ПАО \"Казаньоргсинтез\". Годовой отчет 2024",
+        "fact": "Printed page 24: executive bodies are the Management Board and General Director; the Management Board was not formed after 2022, and Сафин Айрат Фоатович was appointed General Director by Board decision dated 10.06.2022, Protocol No. 16."
+      },
+      {
+        "url": "https://www.sibur.ru/kazanorgsintez/ru/press-center/generalnym-direktorom-kazanorgsinteza-naznachen-ayrat-safin/",
+        "title": "СИБУР: Генеральным директором Казаньоргсинтеза назначен Айрат Сафин",
+        "fact": "Official release dated 14 June 2022 states that Айрат Сафин was appointed General Director of Kazanorgsintez and summarizes his education and career at Nizhnekamskneftekhim and Kazanorgsintez."
+      },
+      {
+        "url": "https://www.sibur.ru/nknh/ru/press-center/generalnym-direktorom-nizhnekamskneftekhima-naznachen-igor-klimov/",
+        "title": "СИБУР НКНХ: Генеральным директором Нижнекамскнефтехима назначен Игорь Климов",
+        "fact": "Official release states that Айрат Сафин headed Nizhnekamskneftekhim from 27.02.2020 to 11.06.2022 and would continue to lead Kazanorgsintez."
+      },
+      {
+        "url": "https://gossov.tatarstan.ru/structure/deputaty?deputy_id=292&person_id=415",
+        "title": "Государственный Совет Республики Татарстан: Сафин Айрат Фоатович",
+        "fact": "Official profile gives birth date/place, KSTU graduations in 1998 and 2000, role as General Director of Kazan public JSC Organic Synthesis, CEO of AO SIBUR-RT since July 2023, and deputy mandate since 08.09.2024."
+      },
+      {
+        "url": "https://rt-online.ru/government-structure/persons/safin-airat-foatovic",
+        "title": "Республика Татарстан: Сафин Айрат Фоатович",
+        "fact": "Public profile gives education specialties and detailed career chronology from 1992 through Kazanorgsintez, Nizhnekamskneftekhim, SIBUR-RT and State Council."
+      },
+      {
+        "url": "https://realnoevremya.ru/persons/2168-safin-ayrat-foatovich",
+        "title": "Реальное время: Сафин Айрат Фоатович",
+        "fact": "Business media profile gives education, early career, Kazanorgsintez plant roles, Nizhnekamskneftekhim CEO role and 2024 public status; last updated 30.08.2024."
+      },
+      {
+        "url": "https://realnoevremya.ru/articles/167329-ayrat-safin-nizhnekamsk-eto-moya-rodina-zdes-rodilis-moi-deti",
+        "title": "Реальное время: Айрат Сафин: \"Нижнекамск - это моя родина, здесь родились мои дети\"",
+        "fact": "Profile/interview dated 2020 gives detailed prior career and education context around Safin's Nizhnekamskneftekhim appointment."
+      },
+      {
+        "url": "https://kazanfirst.ru/project/ajrat-safin",
+        "title": "KazanFirst: Айрат Сафин",
+        "fact": "Interview/campaign profile identifies Safin as born in Nizhnekamsk in 1975, describes evening studies at the Nizhnekamsk Chemical-Technological Institute and confirms petrochemical career details."
+      },
+      {
+        "url": "https://patents.google.com/patent/RU2739027C1/ru",
+        "title": "Google Patents: RU2739027C1",
+        "fact": "Patent page lists Айрат Фоатович Сафин as inventor of RU2739027C1 and Kazan public JSC Organic Synthesis as original assignee."
+      },
+      {
+        "url": "https://petroleum-chemistry.ru/wp-content/uploads/2020/10/Химия-нефти-и-газа-2020-Сборник-трудов-PDF.pdf",
+        "title": "Химия нефти и газа: Материалы XI международной конференции",
+        "fact": "Page 123 lists А.Ф. Сафин with ПАО \"Нижнекамскнефтехим\" affiliation as coauthor of a technical paper; attribution to Айрат Фоатович Сафин is probable but initials-only."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/KZOS/ПАО Казаньоргсинтез_ГО 2024.pdf",
+        "title": "ПАО Казаньоргсинтез. Годовой отчет 2024",
+        "fact": "Recovered this round (2026-07-30) from the git-committed round-2 (2026-07-19) JSON, whose content had been silently dropped from the working file by a later process: printed page 6 states Kazanorgsintez produces ethylene, polyethylene, polycarbonate, bisphenol A, phenol, acetone, ethylene glycol, ethanolamines and other organic-synthesis products, is described as a chemical-industry enterprise of the Russian Federation, and one of the largest Russian producers of high/low density polyethylene; used to classify the company itself and its own professional_experience entries as GICS Materials / Materials / Chemicals."
+      },
+      {
+        "url": "https://spbti.ru/public/userfiles/files/uchebnye-plany-gos2/240801(170500)-mash-i-apparaty-chim-proizvodstv(spec).pdf",
+        "title": "State educational standard, direction 655400 (incl. specialty 170500)",
+        "fact": "Recovered this round (2026-07-30) from the git-committed round-2 JSON: state standard registered 27.03.2000, No. 220 tekh/ds, lists specialty 170500 Machines and Apparatus of Chemical Production under direction 655400 with graduate qualification inzhener (engineer) and a 5-year full-time normative duration; used to set qualification/qualification_degree for the 1998 KSTU education entry (Specialist degree)."
+      },
+      {
+        "url": "https://mf.bmstu.ru/UserFiles/File/MetodUpravlenie/GOS_VPO_i_PP/060800_080502_65.pdf",
+        "title": "State educational standard, specialty 060800",
+        "fact": "Recovered this round (2026-07-30) from the git-committed round-2 JSON: state standard registered 17.03.2000, No. 238 ek/sp (approved by Order of the RF Ministry of Education No. 686, 02.03.2000), specialty 060800 Economics and Management at an Enterprise (by industry), graduate qualification ekonomist-menedzher (economist-manager), 5-year full-time normative duration; used to set qualification/qualification_degree for the 2000 KSTU entry (Specialist degree)."
+      },
+      {
+        "url": "https://tatfirms.ru/firms/66348-nizhnekamskiy-zavod-stroitelnyih-i-metallicheskih-konstruktsiy",
+        "title": "TatFirms: Nizhnekamsk plant of building and metal structures",
+        "fact": "Recovered this round (2026-07-30) from the git-committed round-2 JSON: business directory entry describes the plant's output as bearing and enclosing structures for buildings/facilities plus temporary auxiliary structures, and various metal/rolled-metal products; used to classify Safin's 1992-1996 first employer as GICS Industrials / Capital Goods / Building Products (prefabricated building-structure manufacturer, not a raw construction-material producer)."
+      },
+      {
+        "url": "https://ru.wikipedia.org/wiki/Нижнекамскнефтехим",
+        "title": "Wikipedia: Nizhnekamskneftekhim",
+        "fact": "Recovered this round (2026-07-30) from the git-committed round-2 JSON: confirms Nizhnekamskneftekhim is a large integrated petrochemical company (primary registered activity: production of synthetic rubber in primary forms); used to classify all Nizhnekamskneftekhim professional_experience entries as GICS Materials / Materials / Chemicals."
+      },
+      {
+        "url": "https://www.rusprofile.ru/id/2973654",
+        "title": "Rusprofile: AO SIBUR-RT (INN 1655020761)",
+        "fact": "Recovered this round (2026-07-30) from the git-committed round-2 JSON: registry extract lists the company's own primary registered OKVED activity as code 64.99, provision of other financial services not elsewhere classified (holding-type registration), not a chemicals/petrochemicals OKVED code."
+      },
+      {
+        "url": "https://ru.wikipedia.org/wiki/Сибур-РТ",
+        "title": "Wikipedia: Sibur-RT",
+        "fact": "Recovered this round (2026-07-30) from the git-committed round-2 JSON: describes AO SIBUR-RT (former TAIF holding, merged into SIBUR in 2021) as owning 83 percent of Nizhnekamskneftekhim and 64 percent of Kazanorgsintez and, since 2022, hosting a shared business-support/expertise center for SIBUR's Russian operations (technical support, logistics, corporate management) rather than itself manufacturing chemical products; used together with the rusprofile OKVED record to justify leaving sector/industry_group/industry null for the AO SIBUR-RT professional_experience entry."
+      }
+    ],
+    "notes": "Identity is strongly confirmed by full name, patronymic, company, 2024 CEO role, education, and employer chain. The local 2024 annual report confirms CEO status but does not disclose a management biography. Education is confirmed for institution and years; specialties are supported by SIBUR/RT-Online/Realnoe Vremya, while exact diploma qualifications were not identified. No confirmed candidate/doctor degree, PhD, h-index, ORCID/Scopus/Google Scholar profile, or academic research employment was identified. One Tatar-inform profile appears to contain a typo saying first KSTU graduation was in 1988; this was rejected because the person was born in 1975 and better sources say 1998. One conference publication is included with a caution because the author line uses initials only, though affiliation and timing match the target person. ROUND 2 (2026-07-19, gap-filling per project instructions; this paragraph was recovered into this field on 2026-07-30 after being found dropped from the working file, see research_notes/KZOS/quality_pass_round1_20260730.md section 0): local KZOS filings (annual report, IFRS audit report) were re-checked first and confirmed to still contain no personal biography/education detail for Safin beyond what round 1 already used; the annual report's product description (page 6) was reused to support GICS classification. Targeted web research closed the two remaining null qualification fields: KSTU 1998 (specialty 170500, Machines and Apparatus of Chemical Production and Building-Material Enterprises) and KSTU 2000 (specialty 060800, Economics and Management at an Enterprise) were each matched to their Russian state educational standards (specialist/diplomirovanny spetsialist, 5-year full-time programmes), giving qualification inzhener and ekonomist-menedzher respectively and qualification_degree = Specialist degree for both; confidence is high because both specialty codes and program names match the CEO's recorded program_or_specialty text closely and the source documents are the official state standards themselves. Institution field normalized in both education entries from the raw string Kazanskiy gosudarstvenny tekhnologichesky universitet to the canonical form Kazanskiy natsionalny issledovatelsky tekhnologichesky universitet per university_names.json, where the raw string is already listed as an existing synonym; this is not a newly discovered institution for this ticker. GICS sector/industry_group/industry were added at company level (Materials / Materials / Chemicals, from the 2024 annual report's own product description) and to every professional_experience entry, classifying each organization by its own primary line of business: the 1992-1996 first employer (Nizhnekamsk plant of building and metal structures) as Industrials / Capital Goods / Building Products (prefabricated building/metal structures manufacturer, per TatFirms); Nizhnekamskneftekhim and all Kazanorgsintez entries as Materials / Materials / Chemicals (both are large integrated petrochemical producers; confirmed for Kazanorgsintez by its own 2024 annual report and for Nizhnekamskneftekhim by Wikipedia/registry sources). Two entries were deliberately left null/null/null rather than guessed: OOO Kompaniya Fundament (1996-1997, Moscow, head of sales) - a targeted search found no verifiable description of this specific small mid-1990s firm's line of business, and the generic name Fundament makes any match to present-day companies of the same name unreliable, so the three fields were left null rather than guessed; and AO SIBUR-RT (2023-present, CEO role) - its own primary registered OKVED activity is generic financial/holding services (rusprofile), while Wikipedia describes its real function as a shared corporate-services/holding center for SIBUR's Tatarstan petrochemical assets (owning stakes in Nizhnekamskneftekhim and Kazanorgsintez) rather than itself manufacturing or selling a GICS-classifiable product; classifying it by its subsidiaries' chemicals business is excluded by project rules, and no single GICS bucket reliably captures a holding/shared-services entity, so sector/industry_group/industry were left null with this reasoning recorded rather than guessed. State Council of the Republic of Tatarstan (2024-present, deputy mandate) was also left null/null/null because it is a government legislative body, not a company, and gics_taxonomy.json contains no public-sector/government category to assign without inventing one. No previously confirmed fact was deleted or overwritten in round 2; all round-2 changes were additions to previously null/missing fields."
+  },
+  "tmt": [],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input; for KZOS it lists only Сафин Айрат Фоатович as General Director and notes that board composition is not disclosed."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/KZOS/ПАО Казаньоргсинтез_ГО 2024.pdf",
+      "title": "ПАО \"Казаньоргсинтез\". Годовой отчет 2024",
+      "fact": "Printed page 6 identifies the company as Казанское публичное акционерное общество \"Органический синтез\", also ПАО \"Казаньоргсинтез\", and part of SIBUR Group."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/KZOS/ПАО Казаньоргсинтез_ГО 2024.pdf",
+      "title": "ПАО \"Казаньоргсинтез\". Годовой отчет 2024",
+      "fact": "Printed pages 20-21 state that the Board of Directors had 11 members in 2024, 10 elected on 28.06.2024 and one appointed under the special right, while names are not disclosed under Government Resolution No. 1102."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/KZOS/ПАО Казаньоргсинтез_ГО 2024.pdf",
+      "title": "ПАО \"Казаньоргсинтез\". Годовой отчет 2024",
+      "fact": "Printed page 20 states that the Board held 10 meetings in 2024 and the Board composition did not change during 2024."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/KZOS/ПАО Казаньоргсинтез_ГО 2024.pdf",
+      "title": "ПАО \"Казаньоргсинтез\". Годовой отчет 2024",
+      "fact": "Printed page 24 states that the Management Board was not formed after all Management Board members' powers were terminated in 2022, and that Сафин Айрат Фоатович was appointed General Director by Board decision dated 10.06.2022."
+    },
+    {
+      "url": "https://www.sibur.ru/kazanorgsintez/ru/press-center/generalnym-direktorom-kazanorgsinteza-naznachen-ayrat-safin/",
+      "title": "СИБУР: Генеральным директором Казаньоргсинтеза назначен Айрат Сафин",
+      "fact": "Official SIBUR release confirms Safin's appointment as General Director of Kazanorgsintez in June 2022."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_Отчеты_2024/KZOS/ПАО Казаньоргсинтез_ГО 2024.pdf",
+      "title": "ПАО \"Казаньоргсинтез\". Годовой отчет 2024",
+      "fact": "Primary local 2024 source for company identity, governance structure, board disclosure limits, Management Board status, and Safin's CEO appointment/status."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/KZOS/KOS_IFRS 1102_AUDIT RPRT_2024.pdf",
+      "title": "ПАО \"Казаньоргсинтез\". Раскрываемая консолидированная финансовая отчетность и аудиторское заключение, 31 декабря 2024",
+      "fact": "Local financial report was checked; it contains no named biography/education details for Safin."
+    },
+    {
+      "url": "https://www.sibur.ru/kazanorgsintez/ru/press-center/generalnym-direktorom-kazanorgsinteza-naznachen-ayrat-safin/",
+      "title": "СИБУР: Генеральным директором Казаньоргсинтеза назначен Айрат Сафин",
+      "fact": "Official source for 2022 appointment and condensed education/career biography."
+    },
+    {
+      "url": "https://www.sibur.ru/nknh/ru/press-center/generalnym-direktorom-nizhnekamskneftekhima-naznachen-igor-klimov/",
+      "title": "СИБУР НКНХ: Генеральным директором Нижнекамскнефтехима назначен Игорь Климов",
+      "fact": "Official source for Safin's 2020-2022 Nizhnekamskneftekhim CEO period and transition to Kazanorgsintez."
+    },
+    {
+      "url": "https://gossov.tatarstan.ru/structure/deputaty?deputy_id=292&person_id=415",
+      "title": "Государственный Совет Республики Татарстан: Сафин Айрат Фоатович",
+      "fact": "Official source for birth data, KSTU education years, SIBUR-RT role, State Council mandate and 2024 public role."
+    },
+    {
+      "url": "https://rt-online.ru/government-structure/persons/safin-airat-foatovic",
+      "title": "Республика Татарстан: Сафин Айрат Фоатович",
+      "fact": "Detailed public biography used for early career and education specialty cross-checks."
+    },
+    {
+      "url": "https://realnoevremya.ru/persons/2168-safin-ayrat-foatovich",
+      "title": "Реальное время: Сафин Айрат Фоатович",
+      "fact": "Business media profile used as secondary support for education and career chronology."
+    },
+    {
+      "url": "https://patents.google.com/patent/RU2739027C1/ru",
+      "title": "Google Patents: RU2739027C1",
+      "fact": "Patent source for confirmed inventor role."
+    },
+    {
+      "url": "https://petroleum-chemistry.ru/wp-content/uploads/2020/10/Химия-нефти-и-газа-2020-Сборник-трудов-PDF.pdf",
+      "title": "Химия нефти и газа: Материалы XI международной конференции",
+      "fact": "Conference source for probable initials-only publication attribution with Nizhnekamskneftekhim affiliation."
+    }
+  ],
+  "validation_notes": "Processed 1 person from KZOS CSV input. Checked 2 local KZOS documents: the 2024 annual report and 2024 disclosed consolidated financial statements. Completed 1 research round for the single person, with more than 25 substantive queries across local reports, official company/SIBUR pages, State Council profile, regional public/business biographies, patent databases, conference proceedings, education variants and namesake checks. Education was found for the person; no person remains without confirmed education. Weak or cautious sources: Realnoe Vremya/RT-Online/TatCenter were used for fine-grained early career support; the 2020 conference publication is initials-only and retained with an attribution caution. No confirmed academic degree, h-index, ORCID/Scopus/Google Scholar profile, or research employment was found. Conflict resolved: Tatar-inform's apparent 1988 graduation typo was rejected in favor of multiple sources giving 1998/2000. Namesakes excluded include Marat Safin, Dinara Safina, unrelated patent inventors with different patronymics, and unrelated academic profiles. Search is considered complete because all local documents were read first, official and independent sources confirm the 2024 CEO role and career chain, previous employers were checked, patent/publication/degree branches were searched separately, and later passes produced no new higher-quality biographical facts. ROUND 2 (2026-07-19, gap-filling; this paragraph was recovered into this field on 2026-07-30 after being found dropped from the working file -- see research_notes/KZOS/quality_pass_round1_20260730.md section 0): processed the single KZOS person (CEO Safin; tmt remains empty, MOEXBMI_2024.csv re-checked and confirms only one KZOS row exists). Local filings (MOEXBMI_Отчеты_2024/KZOS/) were re-checked first per project procedure before any web search; no new personal biography data was found there (as expected, board/management personal composition remains undisclosed under Government Resolution No. 1102), but the annual report's own product description (page 6) was reused as the primary basis for company-level GICS classification. Added company-level sector/industry_group/industry = Materials / Materials / Chemicals, copied verbatim from gics_taxonomy.json, based on Kazanorgsintez's own disclosed production (ethylene, polyethylene, polycarbonate, bisphenol A, phenol, acetone, ethylene glycol, ethanolamines) and its own description as a chemical-industry enterprise; reliability high (primary local 2024 filing). Added sector/industry_group/industry to all 10 professional_experience entries for the CEO, classifying each organization by its own primary line of business rather than any subsidiary's: Industrials / Capital Goods / Building Products for the 1992-1996 first employer (prefabricated building/metal structures manufacturer, TatFirms); Materials / Materials / Chemicals for both Nizhnekamskneftekhim entries and all four Kazanorgsintez entries (large integrated petrochemical producers, confirmed by the company's own 2024 annual report and by independent registry/encyclopedia sources for Nizhnekamskneftekhim); left null/null/null with an explicit justification for three entries where a defensible single-organization classification could not be supported without guessing: OOO Kompaniya Fundament (1996-1997, unverifiable small firm), AO SIBUR-RT (2023-present, own primary registered activity is generic holding/financial services rather than a producing business, and classifying it by its chemicals subsidiaries is excluded by project rules), and the State Council of the Republic of Tatarstan (2024-present, a government legislature, not a GICS-classifiable company). Added qualification_degree = Specialist degree to both education[] entries (degrees[] is empty, nothing to add there), and filled the previously null qualification field for both using the Russian state educational standards for specialty 170500 (qualification inzhener) and specialty 060800 (qualification ekonomist-menedzher); reliability high because both official state-standard documents match the CEO's recorded specialty names and years closely. Normalized the institution field in both education entries from Kazanskiy gosudarstvenny tekhnologichesky universitet to the canonical form used in university_names.json, Kazanskiy natsionalny issledovatelsky tekhnologichesky universitet; the raw string was already listed there as a synonym of that canonical entry, so this is a normalization, not a newly discovered institution. No previously confirmed fact (education, professional_experience, publications, patents, sources, board_sources) was deleted, renamed, or overwritten in round 2; every round-2 change was either an addition to a previously null field or a spelling normalization to the project's canonical institution name. Quality-pass round 1 (2026-07-30): fixed two education-entry desyncs where round 2's already-decided values had not actually been written to the JSON -- institution normalized to the canonical Казанский национальный исследовательский технологический университет for both entries (per university_names.json, already flagged as a synonym match in round 2 notes but not applied), and qualification filled as инженер / экономист-менеджер (per round 2's already-cited state educational standard sources, also not applied); enriched the combined 1997-2005 Nizhnekamskneftekhim entry's description with the granular per-stint chronology already documented in round 1 notes (six dated roles from repair mechanic through head of styrene polymerization shop); reviewed every GICS triple against gics_taxonomy.json and found none incorrect (all already-classified organizations match their real primary business; correctly-non-classifiable nulls for AO SIBUR-RT and the State Council, and the genuinely under-sourced null for ООО Компания фундамент, were left untouched); ran one bounded round of fresh queries each for ООО Компания фундамент's GICS classification and for an academic degree/h-index/ORCID/Scopus profile, both still unresolved after this attempt and logged in research_notes/KZOS/quality_pass_round1_20260730.md with the specific queries tried so a future pass does not repeat them. Separately, comparing this file against the git-committed HEAD version found a larger instance of the same stale-write problem: HEAD already had round 2's fuller qualification wording, 7 additional ceo.sources citations, and round-2 narrative paragraphs in ceo.notes/validation_notes that were missing from the on-disk working file this round started from -- these were restored (the 7 sources and both narrative paragraphs; the qualification field itself was kept in its short-title form per corpus convention, not HEAD's longer sentence, since both encode the same confirmed fact). See research_notes/KZOS/quality_pass_round1_20260730.md section 0.1 for full detail. No previously-confirmed fact was deleted or overwritten.",
+  "sector": "Materials",
+  "industry_group": "Materials",
+  "industry": "Chemicals"
+}

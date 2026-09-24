@@ -1,0 +1,309 @@
+{
+  "company_name": "МКПАО \"Лента\"",
+  "company_ticker": "LENT",
+  "sector": "Consumer Staples",
+  "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+  "industry": "Consumer Staples Distribution & Retail (New Name)",
+  "ceo": {
+    "name": "Сорокин Владимир Леонидович",
+    "current_role": "Генеральный директор МКПАО \"Лента\" / Группы компаний \"Лента\"",
+    "company_name": "МКПАО \"Лента\"",
+    "education": [
+      {
+        "institution": "Санкт-Петербургский торгово-экономический университет",
+        "year": 1994,
+        "program_or_specialty": "Пищевая промышленность / общественное питание (специальности «инженер-технолог общественного питания» и «повар 5-го разряда» по формулировке retail.ru и newprospect.ru; отчет ООО \"Лента\" за 2021 год и годовой отчет Магнита за 2018 год дают только укороченную квалификацию \"инженер-технолог\" без детализации специальности)",
+        "qualification": "инженер-технолог (раунд 2: заархивированная официальная страница совета директоров АПАБАНК, где Сорокин В.Л. указан действующим членом совета директоров, независимо подтверждает ту же короткую формулировку квалификации \"инженер-технолог\"; retail.ru и newprospect.ru дают более полную формулировку специальности -- см. program_or_specialty)",
+        "source": "https://reportcollection.inion.ru/reports/download/?reportId=1708; https://www.retail.ru/persons/sorokin-vladimir/; https://newprospect.ru/news/interview/vladimir-sorokin-mne-vsegda-khotelos-byt-luchshim-v-tom-chto-ya-delayu/; https://web.archive.org/web/20171012230338/http://apabank.com/about/board/",
+        "qualification_degree": "Specialist degree"
+      },
+      {
+        "institution": "Национальный исследовательский университет «Высшая школа экономики»",
+        "year": 2006,
+        "program_or_specialty": "Финансы и кредит",
+        "qualification": "экономист",
+        "source": "https://reportcollection.inion.ru/reports/download/?reportId=1708",
+        "qualification_degree": "Specialist degree"
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "Gillette",
+        "role": "От менеджера по продажам до директора по продажам европейской части России и Белоруссии",
+        "start_year": 1994,
+        "end_year": 2000,
+        "description": "Magnit's 2018 annual report and insurance-sector appointment coverage describe Sorokin's early career at Gillette.",
+        "source": "https://ar2018.magnit.com/en/40/30/60",
+        "sector": "Consumer Staples",
+        "industry_group": "Household & Personal Products",
+        "industry": "Personal Care Products (New Name)"
+      },
+      {
+        "organization": "SUN Interbrew / Sun Interbrew",
+        "role": "Директор по продажам",
+        "start_year": 2000,
+        "end_year": 2003,
+        "description": "Prior-employer and insurance-sector sources state that Sorokin worked in FMCG as Sales Director at Sun Interbrew.",
+        "source": "https://www.asn-news.ru/news/17613",
+        "sector": "Consumer Staples",
+        "industry_group": "Food, Beverage & Tobacco",
+        "industry": "Beverages"
+      },
+      {
+        "organization": "СК \"АльфаСтрахование\"",
+        "role": "Заместитель генерального директора по региональной политике; коммерческий директор",
+        "start_year": 2003,
+        "end_year": 2009,
+        "description": "ASN and Forbes report that Sorokin joined AlfaStrakhovanie in January 2003 as Deputy CEO for regional policy and became Commercial Director in 2007.",
+        "source": "https://www.forbes.ru/news/24291-v-sk-alfastrahovanie-zhizn-naznachen-novyi-gendirektor",
+        "sector": "Financials",
+        "industry_group": "Insurance",
+        "industry": "Insurance"
+      },
+      {
+        "organization": "ООО СК \"АльфаСтрахование-Жизнь\"",
+        "role": "Генеральный директор",
+        "start_year": 2009,
+        "end_year": 2010,
+        "description": "ASN reported his appointment as CEO of AlfaStrakhovanie-Life in November 2009; Kommersant listed him in 2010 as CEO of AlfaStrakhovanie-Life and Deputy CEO/Commercial Director of AlfaStrakhovanie.",
+        "source": "https://www.kommersant.ru/doc/1509110",
+        "sector": "Financials",
+        "industry_group": "Insurance",
+        "industry": "Insurance"
+      },
+      {
+        "organization": "ОАО \"Масштаб\"",
+        "role": "Генеральный директор",
+        "start_year": 2010,
+        "end_year": 2012,
+        "description": "Magnit's 2018 annual report states that Sorokin worked as CEO of OJSC Masshtab in 2010-2012.",
+        "source": "https://ar2018.magnit.com/en/40/30/60",
+        "sector": "Real Estate",
+        "industry_group": "Real Estate Management & Development (New)",
+        "industry": "Real Estate Management & Development (New Code)"
+      },
+      {
+        "organization": "Аграрный профсоюзный акционерный коммерческий банк \"АПАБАНК\"",
+        "role": "Член совета директоров",
+        "start_year": 2010,
+        "end_year": 2015,
+        "description": "Retail.ru and TAdviser first reported that Sorokin served on APABANK's Board of Directors in 2010-2015; this was treated as a weaker, auxiliary-sourced fact in round 1. It is now corroborated by an archived (2017) snapshot of APABANK's own official website, independently listing him as a sitting Board member with a matching short biography (Gillette, Sun Interbrew, AlfaStrakhovanie, Masshtab) -- upgrading the fact from media-only to corroborated by the organization's own primary source. The exact 2010-2015 start/end boundary still relies on retail.ru/TAdviser, since the archived bank page itself gives no explicit entry/exit dates.",
+        "source": "https://web.archive.org/web/20171012230338/http://apabank.com/about/board/",
+        "sector": "Financials",
+        "industry_group": "Banks",
+        "industry": "Banks"
+      },
+      {
+        "organization": "X5 Retail Group / торговая сеть \"Пятерочка\"",
+        "role": "Заместитель директора по закупкам / коммерческого директора; директор по категорийномy менеджменту \"Пятерочки\"",
+        "start_year": 2013,
+        "end_year": 2014,
+        "description": "X5's 2017 annual report says Sorokin joined X5 in January 2013 and became Category Management Director for Pyaterochka in June 2013.",
+        "source": "https://ar2017.x5.ru/en/strategic-report/strategy/leadership-team",
+        "sector": "Consumer Staples",
+        "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+        "industry": "Consumer Staples Distribution & Retail (New Name)"
+      },
+      {
+        "organization": "ЗАО / АО \"Торговый дом \"Перекресток\"",
+        "role": "Генеральный директор формата супермаркет / General Director of Perekrestok",
+        "start_year": 2014,
+        "end_year": 2018,
+        "description": "The 2021 Lenta annual report gives periods 01.10.2014-04.04.2017 and 05.04.2017-13.07.2018; X5's 2018 press release states he led Perekrestok since 2014 and stayed until 15 July 2018 for handover.",
+        "source": "https://www.x5.ru/ru/news/vladislav-kurbatov-naznachen-general-2/",
+        "sector": "Consumer Staples",
+        "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+        "industry": "Consumer Staples Distribution & Retail (New Name)"
+      },
+      {
+        "organization": "АО \"Тандер\" / ПАО \"Магнит\"",
+        "role": "Заместитель генерального директора - коммерческий директор; член Правления ПАО \"Магнит\"",
+        "start_year": 2019,
+        "end_year": 2020,
+        "description": "Lenta's 2021 annual report gives 15.01.2019-28.08.2020 at AO Tander; Magnit's 2018 annual report says he joined Magnit management on 15 January 2019 as Deputy CEO - Commercial Director and Management Board member.",
+        "source": "https://reportcollection.inion.ru/reports/download/?reportId=1708",
+        "sector": "Consumer Staples",
+        "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+        "industry": "Consumer Staples Distribution & Retail (New Name)"
+      },
+      {
+        "organization": "\"Лента ПиЭлСи\" / Lenta PLC",
+        "role": "Член Совета директоров",
+        "start_year": 2020,
+        "end_year": 2021,
+        "description": "Lenta's 2021 annual report gives 02.09.2020-16.02.2021 as Lenta PLC Board member.",
+        "source": "https://reportcollection.inion.ru/reports/download/?reportId=1708",
+        "sector": "Consumer Staples",
+        "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+        "industry": "Consumer Staples Distribution & Retail (New Name)"
+      },
+      {
+        "organization": "ООО \"Лента\"",
+        "role": "Генеральный директор предприятия; член Совета директоров",
+        "start_year": 2020,
+        "end_year": null,
+        "description": "Lenta's 2021 annual report gives LLC Lenta CEO from 03.09.2020 and LLC Lenta Board member from 07.09.2020.",
+        "source": "https://reportcollection.inion.ru/reports/download/?reportId=1708",
+        "sector": "Consumer Staples",
+        "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+        "industry": "Consumer Staples Distribution & Retail (New Name)"
+      },
+      {
+        "organization": "МКПАО \"Лента\"",
+        "role": "Член Совета директоров; генеральный директор",
+        "start_year": 2021,
+        "end_year": null,
+        "description": "Lenta's 2021 annual report gives MKPAO Lenta Board member from 17.02.2021 and CEO from 02.03.2022; the local 2024 annual report confirms his 2024 CEO status through the CEO message signature.",
+        "source": "MOEXBMI_Отчеты_2024/LENT/2024 Годовой отчёт. Лента.pdf",
+        "sector": "Consumer Staples",
+        "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+        "industry": "Consumer Staples Distribution & Retail (New Name)"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "Row 304 lists ticker LENT, company MKPAO \"Лента\", Sorokin Vladimir Leonidovich as General Director; comment says Board composition is not disclosed."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/LENT/2024 Годовой отчёт. Лента.pdf",
+        "title": "Лента. Годовой отчет 2024",
+        "fact": "Printed pages 4-5: CEO message is signed by Владимир Сорокин as Генеральный директор Группы компаний \"Лента\"."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/LENT/2024 Годовой отчёт. Лента.pdf",
+        "title": "Лента. Годовой отчет 2024",
+        "fact": "Printed page 106: the Company Management section is not disclosed under Government Resolution No. 1102; the page lists duties of the General Director."
+      },
+      {
+        "url": "https://reportcollection.inion.ru/reports/download/?reportId=1708",
+        "title": "Годовой отчет ООО \"Лента\" за 2021 год",
+        "fact": "Pages 8 and 10-11: give Sorokin's birth year, education, Perekrestok and Tander roles, Lenta PLC/LLC/MKPAO Lenta Board and CEO roles, including MKPAO Lenta CEO from 02.03.2022."
+      },
+      {
+        "url": "https://www.interfax.ru/business/724301",
+        "title": "Interfax: CEO \"Ленты\" назначен бывший коммерческий директор \"Магнита\"",
+        "fact": "Article dated 2 September 2020 states Lenta appointed Vladimir Sorokin CEO from 3 September 2020 and summarizes his Magnit, Perekrestok, education and earlier career."
+      },
+      {
+        "url": "https://ar2017.x5.ru/en/strategic-report/strategy/leadership-team",
+        "title": "X5 Retail Group Annual Report 2017: Leadership team",
+        "fact": "Identifies Vladimir Sorokin as General Director of Perekrestok and states his X5, Pyaterochka, Alfa Insurance, SunInterbrew, Gillette and education background."
+      },
+      {
+        "url": "https://www.x5.ru/ru/news/vladislav-kurbatov-naznachen-general-2/",
+        "title": "X5: Владислав Курбатов назначен генеральным директором торговой сети \"Перекресток\"",
+        "fact": "Press release dated 27 June 2018 says Vladimir Sorokin had led Perekrestok since 2014 and would remain until 15 July 2018 for transition."
+      },
+      {
+        "url": "https://ar2018.magnit.com/en/40/30/60",
+        "title": "Magnit Annual Report 2018: Executive bodies",
+        "fact": "Identifies Vladimir Sorokin as a Management Board member, born 1 April 1971; gives 1994 and 2005 education entries and career through Gillette, Sun Interbrew, AlfaStrakhovanie, Masshtab, X5/Perekrestok and Magnit."
+      },
+      {
+        "url": "https://www.asn-news.ru/news/17613",
+        "title": "ASN: Гендиректором компании \"АльфаСтрахование-Жизнь\" стал Владимир Сорокин",
+        "fact": "Article dated 9 November 2009 confirms his AlfaStrakhovanie-Life appointment and prior Gillette, Sun Interbrew and AlfaStrakhovanie roles."
+      },
+      {
+        "url": "https://www.forbes.ru/news/24291-v-sk-alfastrahovanie-zhizn-naznachen-novyi-gendirektor",
+        "title": "Forbes: В СК \"АльфаСтрахование-Жизнь\" назначен новый гендиректор",
+        "fact": "IFX-News item dated 7 November 2009 confirms appointment to AlfaStrakhovanie-Life CEO and early Gillette, Sun Interbrew and AlfaStrakhovanie career."
+      },
+      {
+        "url": "https://www.kommersant.ru/doc/1509110",
+        "title": "Коммерсантъ: Рейтинг коммерческих директоров-2010",
+        "fact": "Lists Sorokin Vladimir Leonidovich at AlfaStrakhovanie as CEO of AlfaStrakhovanie-Life and Deputy CEO/Commercial Director of AlfaStrakhovanie."
+      },
+      {
+        "url": "https://www.retail.ru/persons/sorokin-vladimir/",
+        "title": "Retail.ru: Сорокин Владимир",
+        "fact": "Industry biography states Sorokin is CEO of Lenta and gives birth date/place, education and full career sequence; used as secondary corroboration."
+      },
+      {
+        "url": "https://newprospect.ru/news/interview/vladimir-sorokin-mne-vsegda-khotelos-byt-luchshim-v-tom-chto-ya-delayu/",
+        "title": "Новый проспект: Владимир Сорокин: \"Рынок ретейла оказался в ловушке промо\"",
+        "fact": "Interview page identifies V.L. Sorokin as CEO of Lenta and includes a career/education biography note."
+      },
+      {
+        "url": "https://web.archive.org/web/20171012230338/http://apabank.com/about/board/",
+        "title": "АПАБАНК (архив Wayback Machine): Совет директоров",
+        "fact": "The bank's own official site (archived snapshot, board page) lists Sorokin Vladimir Leonidovich, born 01.04.1971, as a current Member of the Board of Directors; gives the same short qualification wording 'инженер-технолог' at 'Санкт-Петербургский институт советской торговли' and a career summary through Gillette (1994-1999), Sun Interbrew (from 2000), AlfaStrakhovanie (from Jan 2003), Commercial Director (from 2007), AlfaStrakhovanie-Life CEO (from Nov 2009), and OJSC Masshtab CEO (from 16.12.2010, ongoing at time of that page's content); used as a primary-source corroboration of the APABANK board seat, upgrading it from a retail.ru/TAdviser-only auxiliary fact."
+      },
+      {
+        "url": "https://whoiswho.dp.ru/cart/person/1939282",
+        "title": "WhoIsWho.dp.ru: Сорокин Владимир Леонидович",
+        "fact": "Aggregator biography independently states the HSE program as 'Stock Market and Investments' (matching Interfax 2020) rather than 'Finance and Credit' (per Lenta 2021 issuer report/retail.ru/newprospect.ru); checked this quality-pass round (2026-07-30) as additional corroboration for the still-unresolved HSE year/program conflict -- gives no year, so it does not itself resolve which value is correct."
+      }
+    ],
+    "notes": "Identity is well confirmed by full name, company, role and prior-employer chain. The 2024 local annual report confirms CEO status but withholds detailed management biographies under Government Resolution No. 1102. Education has a conflict: Lenta's 2021 issuer report states HSE in 2006 with economist diploma in Finance and Credit, while X5/Magnit/Retail sources often state 2005 and Interfax states an HSE program in Stock Market and Investments; the JSON uses the more specific Lenta 2021 issuer wording. APABANK board service is kept as a weaker auxiliary-sourced fact. No confirmed academic degree, research profile, publications, patents or h-index were found for the target person; similarly named scientific and literary profiles were rejected as namesakes. ROUND 2 (gap-filling + GICS + qualification_degree + institution normalization, this session): (1) Local filings re-scanned in full (both MOEXBMI_Отчеты_2024/LENT PDFs, full-text extracted) for 'Сорокин', 'торгово-экономич', 'АПАБАНК', 'Высшая школа экономики', 'инженер-технолог' -- only the already-known single CEO-message signature hit was found, confirming no additional local biography exists (management biographies are withheld under Government Resolution No. 1102, as already noted). (2) The only genuine null gap in this person's record was education[0].program_or_specialty; it was filled using retail.ru and newprospect.ru, which independently state the same fuller specialty wording ('инженер-технолог общественного питания', 'повар 5-го разряда', faculty of food industry) beyond the primary issuer report's short 'инженер-технолог'. (3) A new primary-source corroboration for the previously weak APABANK board-membership fact was found: the bank's own official site (archived via Wayback Machine, web.archive.org/web/20171012230338/apabank.com/about/board/) lists Sorokin as a current Board member with a matching short bio; this upgrades APABANK from a retail.ru/TAdviser-only auxiliary fact to one independently corroborated by the organization's own official source, though the exact 2010-2015 start/end years still rely on retail.ru/TAdviser (the archived page itself carries no explicit join/leave date). (4) sector/industry_group/industry were added at company level (Consumer Staples / Consumer Staples Distribution & Retail (New Name) / Consumer Staples Distribution & Retail (New Name), matching Lenta's core hypermarket/supermarket grocery-retail business) and to all 12 professional_experience entries, copied verbatim from gics_taxonomy.json; each organization was classified by its own primary business, not by any shared group: Gillette as Consumer Staples/Household & Personal Products/Personal Care Products (New Name) (razors/grooming, not cleaning products); Sun Interbrew as Consumer Staples/Food, Beverage & Tobacco/Beverages (brewer); AlfaStrakhovanie and AlfaStrakhovanie-Life as Financials/Insurance/Insurance; OJSC Masshtab as Real Estate/Real Estate Management & Development (New)/Real Estate Management & Development (New Code) (confirmed via a targeted web check this round as a residential/commercial real-estate development holding, not a retailer); APABANK as Financials/Banks/Banks; X5/Pyaterochka, Perekrestok, Tander/Magnit, Lenta PLC, LLC Lenta and MKPAO Lenta all as Consumer Staples/Consumer Staples Distribution & Retail (New Name)/Consumer Staples Distribution & Retail (New Name) (grocery retail chains). No entry required an all-null GICS triple this round -- every organization's primary line of business was identifiable with reasonable confidence. (5) qualification_degree was added to both education[] entries using only the ten allowed values: 'Specialist degree' for the 1994 St Petersburg institute engineer-technologist qualification and for the 2006 HSE economist/Finance-and-Credit qualification, consistent with the pre-Bologna single-tier five-year Soviet/Russian higher-education structure and with the same qualification-to-degree mapping already used elsewhere in this dataset (e.g. KAZT's 'инженер-технолог' entries, and the 'экономист' mapping used across AFKS/AQUA/BELU/EUTR/DVEC). degrees[] remains empty; no confirmed separate academic degree was found this round either, so nothing required a qualification_degree there. (6) Both institution fields were normalized to their canonical university_names.json form: 'Санкт-Петербургский торгово-экономический институт' -> 'Санкт-Петербургский торгово-экономический университет' (canonical entry already lists the institute-era name as an alias); 'Государственный университет - Высшая школа экономики, Москва' -> 'Национальный исследовательский университет «Высшая школа экономики»' (canonical entry already lists this exact raw string as an alias). Both raw strings were already present as exact aliases in university_names.json, so new_institutions_found for this ticker is an empty list; the APABANK archived page's own variant wording ('Санкт-Петербургский институт советской торговли') was not adopted as the institution field value because it is a less-precise/older name for the same already-catalogued institution and the issuer-report wording remains preferred, per round 1's resolution. No previously confirmed fact was deleted or overwritten; only additions (program_or_specialty, qualification_degree, GICS fields, one new corroborating source) and the two institution-string normalizations above were made, cross-checked against the pre-round-2 backup (output/LENT_person_info.json.bak_round2) to confirm zero unintended removals. QUALITY-PASS ROUND (2026-07-30): Before this round's edits, the on-disk working copy of this file had regressed to a pre-Round-2 state (education[0].program_or_specialty null again, institution names un-normalized, no new_institutions_found key, APABANK entry reverted to the media-only description) even though Round 2's fixes above were already committed to git -- an intervening process appears to have overwritten the file from a stale copy, the exact failure mode this pass is meant to guard against. This round restored the committed Round-2 content rather than re-deriving it from scratch, and additionally: (a) fully applied the APABANK archive.org upgrade to the professional_experience entry itself (description and source), which Round 2's own notes had described but had not actually written into that entry; (b) sanity-checked all 12 professional_experience GICS triples against gics_taxonomy.json -- all are exact-row matches and business-plausible (e.g. Masshtab as Real Estate Management & Development, not Financials; both AlfaStrakhovanie entities as Insurance, not Consumer Finance); none required correction; (c) ran additional targeted research on the still-open HSE year/program conflict -- a new source, whoiswho.dp.ru, independently corroborates the 'Stock Market and Investments' program wording (matching Interfax 2020) but states no year, so it does not resolve the 2005-vs-2006 year question; the Lenta 2021 issuer-report value (2006, Finance and Credit) is kept as the more reliable primary source and the conflict remains explicitly unresolved and documented, not silently picked; (d) ran a bounded fresh-query check (MBA/candidate-of-sciences, rusprofile.ru director-registry profile, Russian Presidential management-training programme, LinkedIn) for an additional academic degree beyond the base specialist diploma -- found nothing new, confirming degrees[] is correctly empty."
+  },
+  "tmt": [],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input; for LENT it lists only Sorokin Vladimir Leonidovich as General Director and notes that Board composition is not disclosed."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/LENT/2024 Годовой отчёт. Лента.pdf",
+      "title": "Лента. Годовой отчет 2024",
+      "fact": "Printed pages 90-91 describe the corporate-governance structure with Board of Directors and Company Management; the ordinary shares trade on Moscow Exchange under LENT."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/LENT/2024 Годовой отчёт. Лента.pdf",
+      "title": "Лента. Годовой отчет 2024",
+      "fact": "Printed pages 94-95 state that the Board has six members, six Board members were elected at the 27 June 2024 AGM, and no Board changes occurred in 2023 or 2024."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/LENT/2024 Годовой отчёт. Лента.pdf",
+      "title": "Лента. Годовой отчет 2024",
+      "fact": "Printed page 106 states that Company Management information is not disclosed under Government Resolution No. 1102 and lists General Director duties."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/LENT/Обобщенная КФО с АЗ Группа МКПАО Лента 2024.pdf",
+      "title": "Обобщенная КФО с АЗ Группа МКПАО Лента 2024",
+      "fact": "Page 6 states that the Board of Directors of MKPAO Lenta approved the 2024 consolidated financial statements on 24 March 2025."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_Отчеты_2024/LENT/2024 Годовой отчёт. Лента.pdf",
+      "title": "Лента. Годовой отчет 2024",
+      "fact": "Primary local 2024 source for Lenta governance, CEO signature and management-disclosure limitations."
+    },
+    {
+      "url": "https://reportcollection.inion.ru/reports/download/?reportId=1708",
+      "title": "Годовой отчет ООО \"Лента\" за 2021 год",
+      "fact": "Issuer report used for Sorokin's education and detailed Lenta role chronology not disclosed in 2024 local report."
+    },
+    {
+      "url": "https://ar2017.x5.ru/en/strategic-report/strategy/leadership-team",
+      "title": "X5 Retail Group Annual Report 2017: Leadership team",
+      "fact": "Prior-employer source for X5/Pyaterochka/Perekrestok and earlier career background."
+    },
+    {
+      "url": "https://ar2018.magnit.com/en/40/30/60",
+      "title": "Magnit Annual Report 2018: Executive bodies",
+      "fact": "Prior-employer source for Magnit role, education and earlier career background."
+    },
+    {
+      "url": "https://www.asn-news.ru/news/17613",
+      "title": "ASN: Гендиректором компании \"АльфаСтрахование-Жизнь\" стал Владимир Сорокин",
+      "fact": "Insurance-sector appointment source for AlfaStrakhovanie-Life and earlier Gillette/Sun Interbrew/AlfaStrakhovanie roles."
+    },
+    {
+      "url": "https://web.archive.org/web/20171012230338/http://apabank.com/about/board/",
+      "title": "АПАБАНК (архив Wayback Machine): Совет директоров",
+      "fact": "Bank's own archived official site independently confirms Sorokin's APABANK board membership and short career/education summary, strengthening a previously auxiliary-sourced fact (round 2)."
+    }
+  ],
+  "new_institutions_found": [],
+  "validation_notes": "Processed 1 person from CSV for LENT. Checked 2 local LENT documents: 2024 annual report and 2024 summary consolidated financial statements. Completed 1 research round containing local review plus two web search passes and more than 25 distinct queries. Education was found, but the HSE year/program wording differs across sources; the direct Lenta 2021 issuer report was preferred and the conflict is noted. No people besides Sorokin were added because the CSV contains no other LENT people and the 2024 annual report does not disclose Board member names. Weak sources were used only for APABANK board membership. No confirmed research experience, publications, patents or h-index were found. Namesakes excluded: writer Vladimir Georgievich Sorokin and unrelated academic/research profiles with the same first and last name. Search is considered complete because local documents were checked first, official issuer/prior-employer sources were reviewed, previous employers were followed, education and scientific checks were separate, and the second web pass produced no new higher-quality facts. ROUND 2 (gap-filling + GICS taxonomy + qualification_degree + institution normalization, per REFINEMENT.md, this session): Re-scanned both local LENT filings in full text -- no new biographical hits beyond the already-known CEO-message signature (management biographies remain withheld under Government Resolution No. 1102). Filled the one genuine null gap on the CEO (education[0].program_or_specialty) using retail.ru and newprospect.ru, both already cited elsewhere in this file, which independently state the fuller specialty wording beyond the primary issuer report's short qualification. Found one new primary corroborating source for the previously weak APABANK board-membership fact (the bank's own archived official website, via Wayback Machine), added to both ceo.sources and the top-level sources list; this does not change any field value, only strengthens an already-recorded fact. Added company-level sector/industry_group/industry (Consumer Staples / Consumer Staples Distribution & Retail (New Name) / Consumer Staples Distribution & Retail (New Name)) and the same three GICS fields to all 12 professional_experience entries for the CEO, copied verbatim from gics_taxonomy.json and classified by each organization's own primary business (grocery retail for the X5/Perekrestok/Magnit/Lenta chain of employers; Insurance for AlfaStrakhovanie entities; Banks for APABANK; Real Estate Management & Development for OJSC Masshtab, confirmed via a targeted web check this round; Beverages for Sun Interbrew; Personal Care Products for Gillette). No organization required an all-null GICS triple. Added qualification_degree to both education[] entries ('Specialist degree' for both, consistent with the pre-Bologna Soviet/Russian single-tier higher-education structure and with the same mapping already used for identical qualification wordings elsewhere in this dataset); degrees[] remains empty and required no qualification_degree additions. Normalized both institution fields to their canonical university_names.json form (both raw strings were already listed there as exact aliases, so new_institutions_found for LENT is an empty list -- no institution outside the reference file was encountered). tmt[] remains empty; this ticker still has only one CSV-listed person (the CEO) and the 2024 local annual report still does not disclose Board of Directors member names, so no new people were added, consistent with round 1's finding. No previously confirmed fact was deleted, overwritten, or altered beyond straight additions and the two institution-string normalizations; verified against a pre-round-2 backup (output/LENT_person_info.json.bak_round2) with zero unintended removals. QUALITY-PASS ROUND (2026-07-30): Discovered the working file had silently regressed from the git-committed Round-2 state to a pre-Round-2 state (missing new_institutions_found, program_or_specialty null, institutions un-normalized, APABANK entry reverted) -- restored from the committed Round-2 record instead of re-deriving values, and fully applied the APABANK archive.org source upgrade to the professional_experience entry itself (Round 2's notes described this upgrade but had not written it into that entry). Sanity-checked all 12 professional_experience GICS triples against gics_taxonomy.json; all were already exact-row matches and business-plausible, none required correction. Ran additional targeted research on the still-unresolved HSE education year/program conflict: found and added one new corroborating source (whoiswho.dp.ru) for the 'Stock Market and Investments' program wording, but it gives no year and does not resolve the 2005-vs-2006 conflict, so the Lenta 2021 issuer-report value is kept and the conflict remains explicitly documented as open. Ran one bounded fresh-query check (4 new queries) for an additional academic degree beyond the base specialist diploma; found nothing new."
+}

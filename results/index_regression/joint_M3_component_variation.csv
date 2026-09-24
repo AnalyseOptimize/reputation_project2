@@ -1,0 +1,21 @@
+﻿sample,outcome,component,n,unique_values,smallest_level_n,level_counts
+all_managers,roa_2025,media_score,56,56,,
+all_managers,roa_2025,awards_score,56,37,,
+all_managers,roa_2025,expertise_score,56,56,,
+all_managers,roa_2025,face_score,56,56,,
+all_managers,roa_2025,communication_score,56,2,1.0,"{100.0: 55, 0.0: 1}"
+all_managers,stock_return_2025,media_score,43,43,,
+all_managers,stock_return_2025,awards_score,43,29,,
+all_managers,stock_return_2025,expertise_score,43,43,,
+all_managers,stock_return_2025,face_score,43,43,,
+all_managers,stock_return_2025,communication_score,43,2,1.0,"{100.0: 42, 0.0: 1}"
+ceo,roa_2025,media_score,27,26,,
+ceo,roa_2025,awards_score,27,4,1.0,"{0.0: 22, 22.7670248696953: 2, 52.8633946819448: 2, 58.85190554114832: 1}"
+ceo,roa_2025,expertise_score,27,27,,
+ceo,roa_2025,face_score,27,27,,
+ceo,roa_2025,communication_score,27,1,27.0,{100.0: 27}
+ceo,stock_return_2025,media_score,20,19,,
+ceo,stock_return_2025,awards_score,20,2,1.0,"{0.0: 19, 52.8633946819448: 1}"
+ceo,stock_return_2025,expertise_score,20,20,,
+ceo,stock_return_2025,face_score,20,20,,
+ceo,stock_return_2025,communication_score,20,1,20.0,{100.0: 20}

@@ -1,0 +1,63 @@
+{
+  "inputs": {
+    "Companies_MOEXBMI_2024_2025.xlsx": "17e91670bb0df54dfc232e198ea83d075bbd9d145cff386b283d9231218aee47",
+    "index_data.csv": "4bb3b0753546515998aad353eea1ed993edc6559fccce1461bd3bcbfbb4cc8d5",
+    "index_data_ceo.csv": "541bf91030f6ad300a423a6e7fc5297ec2f363f0b740399ee7e283004270f293",
+    "results/index_eda/all_managers_indices.csv": "d23db4f5fbd7fb07ccc64181a25c83c4049126db0f97be5bb9136b0a47caa4cb",
+    "results/index_eda/ceo_indices.csv": "33dc058ea350ff8d3c5c65d31c98ea247f5edad858526f7846c8b09c057dad6e",
+    "results/index_eda/all_managers_point_weights.csv": "f2d96a2718ed7d1ca0c8efc9dcf4164b4051fa7dd87e3ec5fc2c6d5a513089dc",
+    "results/index_eda/ceo_point_weights.csv": "2c08d42aaafe1c0ca376a06423b19cffdcc4e1de2e7f1b2705069e96e6eaa45d",
+    "utils/index_regression.py": "9c8d41a8fd54b5390fc92abfbaa17f4b9259a0a43af8be4389b5cdb088fe71a5"
+  },
+  "controls": [
+    "log_assets_2024",
+    "age",
+    "leverage_2024",
+    "fixed_assets_ratio_2024",
+    "state_2024"
+  ],
+  "outcomes": {
+    "roa_2025": "roa_2024",
+    "stock_return_2025": "stock_return_2024"
+  },
+  "blocks": {
+    "education": [
+      "expertise_score_10"
+    ],
+    "index_equal": [
+      "index_equal_10"
+    ],
+    "index_critic": [
+      "index_critic_10"
+    ],
+    "components_joint": [
+      "media_score_10",
+      "awards_score_10",
+      "expertise_score_10",
+      "face_score_10",
+      "communication_score_10"
+    ]
+  },
+  "covariance": "HC3",
+  "inference": "Student t, df=N-rank",
+  "winsorization": [
+    0.01,
+    0.99
+  ],
+  "catboost_enabled": true,
+  "seed": 42,
+  "catboost_parameters": {
+    "iterations": 500,
+    "depth": 3,
+    "learning_rate": 0.03,
+    "loss": "RMSE"
+  },
+  "cv_scope": "fixed CSV indices; only CatBoost outer weights are refitted inside its LOOCV",
+  "versions": {
+    "python": "3.14.7",
+    "numpy": "2.4.6",
+    "pandas": "3.0.5",
+    "scipy": "1.18.1",
+    "catboost": "1.2.10"
+  }
+}

@@ -1,0 +1,1129 @@
+{
+  "company_name": "ПАО \"Интер РАО\"",
+  "company_ticker": "IRAO",
+  "ceo": {
+    "name": "Дрегваль Сергей Георгиевич",
+    "current_role": "Генеральный директор ПАО \"Интер РАО\"; Председатель Правления с 15.03.2024. CSV также указывает \"Член СД\", но годовой отчет 2024 не подтверждает членство в Совете директоров на 31.12.2024.",
+    "company_name": "ПАО \"Интер РАО\"",
+    "education": [
+      {
+        "institution": "Киевский международный университет гражданской авиации",
+        "year": 1996,
+        "program_or_specialty": null,
+        "qualification": null,
+        "source": "https://asninfo.ru/persons/486-dregval-sergey-georgiyevich",
+        "qualification_degree": "Specialist degree"
+      },
+      {
+        "institution": "Тюменский индустриальный университет",
+        "year": 2005,
+        "program_or_specialty": "Электропривод и автоматика промышленных установок и технологических комплексов",
+        "qualification": "инженер",
+        "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+        "qualification_degree": "Specialist degree",
+        "description": "ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): institution normalized to canonical form from university_names.json (source annual-report wording: 'GOU VPO \"Tyumen State Oil and Gas University\"'; the institution merged into Tyumen Industrial University in 2016). qualification_degree set to 'Specialist degree' with high confidence: the stated qualification 'инженер' (engineer) is the classical Russian 5-year specialist-track engineering title; oil-and-gas engineering specialties commonly retained the specialist track through the 2000s Bologna transition. Targeted re-search for a scientific degree or publication found no reliable additional match; degrees[] remains empty per round-1 conclusion, this is a confirmed absence, not a skipped check."
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "ОАО \"МРСК Урала\"",
+        "role": "Генеральный директор",
+        "start_year": 2014,
+        "end_year": 2020,
+        "description": "Годовой отчет указывает период с октября 2014 г. по ноябрь 2020 г.",
+        "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Electric Utilities"
+      },
+      {
+        "organization": "Администрация Санкт-Петербурга",
+        "role": "Советник Губернатора Санкт-Петербурга",
+        "start_year": 2020,
+        "end_year": 2021,
+        "description": "Годовой отчет указывает период с января 2021 г. по февраль 2024 г. [GICS: null/null/null -- орган государственной власти субъекта РФ, не коммерческая организация -- GICS неприменим.]",
+        "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "Администрация Санкт-Петербурга",
+        "role": "Вице-губернатор Санкт-Петербурга",
+        "start_year": 2021,
+        "end_year": 2024,
+        "description": "Годовой отчет указывает период с января 2021 г. по февраль 2024 г.",
+        "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "ПАО \"Интер РАО\"",
+        "role": "Первый заместитель Генерального директора",
+        "start_year": 2024,
+        "end_year": 2024,
+        "description": "Годовой отчет указывает 07.02.2024-29.02.2024; затем 01.03.2024-14.03.2024 как член Правления - первый заместитель Генерального директора.",
+        "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Electric Utilities"
+      },
+      {
+        "organization": "ПАО \"Интер РАО\"",
+        "role": "Генеральный директор; Председатель Правления",
+        "start_year": 2024,
+        "end_year": null,
+        "description": "Дата вступления в должность - 15.03.2024; срок полномочий по трудовому договору до 14.03.2029.",
+        "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Electric Utilities"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "CSV row 269 lists IRAO / ПАО \"Интер РАО\" / Дрегваль Сергей Георгиевич / \"Генеральный директор, Член СД\"."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+        "title": "ПАО \"Интер РАО\". Годовой отчет 2024",
+        "fact": "PDF p.231 states Dregval is General Director of Inter RAO, born 1971, gives 2005 Tyumen State Oil and Gas University education and recent roles; PDF p.317 records the 15.03.2024 employment contract as General Director based on the 14.03.2024 Board decision."
+      },
+      {
+        "url": "https://tass.ru/ekonomika/20235567",
+        "title": "ТАСС: Дрегваль возглавит \"Интер РАО\" с 15 марта",
+        "fact": "Business media reported that the Board elected Sergey Dregval General Director of Inter RAO from 15.03.2024."
+      },
+      {
+        "url": "https://neftegaz.ru/persons/826204-dregval-sergey-georgievich-/",
+        "title": "Neftegaz.ru: Дрегваль Сергей Георгиевич",
+        "fact": "Auxiliary profile confirms the same education and career anchors: MRSK Urala, Saint Petersburg government and Inter RAO."
+      },
+      {
+        "url": "https://asninfo.ru/persons/486-dregval-sergey-georgiyevich",
+        "title": "ASNinfo: Дрегваль Сергей Георгиевич",
+        "fact": "Quality-pass gap-follow-up (2026-07-30): confirms birth on 21.09.1971 in Dzhankoy (matching the annual-report birth year) and lists an earlier 1996 education at Kyiv International University of Civil Aviation, prior to the already-recorded 2005 Tyumen degree; whoiswho.dp.ru and fedpress.ru/persons index independently repeat the same 1996 Kyiv institution and year."
+      }
+    ],
+    "notes": "CSV board-member label conflicts with the 2024 annual report: the annual report Board section lists ten active directors on 31.12.2024 after Boris Kovalchuk left and does not list Dregval as a Board member. The validated 2024 role is CEO / Management Board Chair. Quality pass 2026-07-30: added an earlier 1996 education entry (Kyiv International University of Civil Aviation) found via bounded gap follow-up; specialty/qualification wording for that degree could not be confirmed from any source and is left null."
+  },
+  "tmt": [
+    {
+      "name": "Бугров Андрей Евгеньевич",
+      "current_role": "Независимый директор ПАО \"Интер РАО\"; председатель Комитета по аудиту и устойчивому развитию; член Комитета по номинациям и вознаграждениям",
+      "company_name": "ПАО \"Интер РАО\"",
+      "education": [
+        {
+          "institution": "Московский государственный институт международных отношений (университет) Министерства иностранных дел Российской Федерации",
+          "year": 1974,
+          "program_or_specialty": "Международные экономические отношения",
+          "qualification": null,
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "qualification_degree": "Specialist degree",
+          "description": "ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): institution normalized to canonical form from university_names.json (source wording: 'МГИМО' / 'Московский государственный институт международных отношений (МГИМО)'). qualification_degree set to 'Specialist degree' with high confidence: 1974 graduation predates the USSR/Russia Bologna-system transition (pre-1991 Soviet higher education had no bachelor's/master's structure, only 5-year specialist diplomas). Targeted web re-search (DuckDuckGo via WebFetch, since this session's WebSearch quota was exhausted 200/200) for the exact 'qualification' wording of the MGIMO diploma did not surface a directly-quoted, person-specific title -- sources found (biographiya.com, svop.ru, roscongress.ru, mgimo.ru alumni note) repeat only the specialty 'Международные экономические отношения' without a separate quoted qualification word for Bugrov specifically. Note: other MGIMO IER graduates of the same era (e.g. V. Potanin, per this project's own GMKN research) are documented with qualification 'экономист-международник', but this is not applied here without a person-specific source, per the project rule to prefer null over an unverified guess -- qualification remains null."
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат экономических наук",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ООО \"Холдинговая компания ИНТЕРРОС\"",
+          "role": "Вице-президент",
+          "start_year": 2013,
+          "end_year": 2022,
+          "description": "Указано в годовом отчете как должность за последние пять лет.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "ПАО \"ГМК \"Норильский никель\"",
+          "role": "Старший вице-президент; с 2020 по 2022 г. старший вице-президент по устойчивому развитию",
+          "start_year": 2016,
+          "end_year": 2022,
+          "description": "Annual report lists 2016-2020 senior vice president and 2020-2022 senior vice president for sustainable development.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "Российский союз промышленников и предпринимателей",
+          "role": "Вице-президент; член правления; участник органов по устойчивому развитию и климатической политике",
+          "start_year": 2006,
+          "end_year": null,
+          "description": "Annual report lists RSPP Board membership from 2006 and Vice President from 2013; web RSPP source confirms sustainability profile.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"Интер РАО\"",
+          "role": "Независимый директор",
+          "start_year": 2014,
+          "end_year": null,
+          "description": "First elected to the Board on 25.05.2014; independent director in 2024.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "title": "ПАО \"Интер РАО\". Годовой отчет 2024",
+          "fact": "PDF pp.210-211 give Bugrov's Inter RAO Board status, education, Candidate of Economic Sciences degree and recent roles."
+        },
+        {
+          "url": "https://www.nornickel.com/upload/iblock/087/2022_Annual_Report_of_PJSC_MMC_Norilsk_Nickel.pdf",
+          "title": "Nornickel Annual Report 2022",
+          "fact": "Prior-employer annual report confirms the Nornickel identity/career anchor."
+        },
+        {
+          "url": "https://rspp.ru/events/news/andrey-bugrov-rossiyskiy-biznes-gotov-dekarbonizirovatsya-61447dd2a0e04/",
+          "title": "РСПП: Андрей Бугров",
+          "fact": "Professional association source confirms the sustainability and RSPP identity anchor."
+        }
+      ],
+      "notes": "No verified publication or h-index profile was attached. Quality pass 2026-07-30: institution name normalized to the canonical MGIMO form. Bounded gap follow-up for the Candidate of Economic Sciences dissertation institution/year (fresh queries: dissercat.com site search, dissercat.com internal search form) found no usable record; left unresolved and null, same as prior rounds."
+    },
+    {
+      "name": "Быстров Максим Сергеевич",
+      "current_role": "Независимый директор ПАО \"Интер РАО\"; член комитетов Совета директоров",
+      "company_name": "ПАО \"Интер РАО\"",
+      "education": [
+        {
+          "institution": "Национальный исследовательский Московский государственный строительный университет",
+          "year": 1986,
+          "program_or_specialty": "Гидротехническое строительство речных сооружений и гидроэлектростанций",
+          "qualification": null,
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "qualification_degree": "Specialist degree",
+          "description": "ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): institution normalized to canonical form from university_names.json (source wording: 'Московский инженерно-строительный институт им. В. В. Куйбышева'). qualification_degree set to 'Specialist degree' with high confidence: 1986 graduation is pre-Bologna Soviet-era engineering education (5-year specialist diploma only). Targeted re-search for an explicit qualification title beyond the report's specialty wording found only a weak, non-quoted inference ('инженер') in a Kommersant snippet via WebFetch/DuckDuckGo; not confident enough to add as a quoted fact, qualification remains null."
+        },
+        {
+          "institution": "Всероссийская академия внешней торговли",
+          "year": 1998,
+          "program_or_specialty": "Мировая экономика",
+          "qualification": null,
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "qualification_degree": "Specialist degree",
+          "description": "ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): qualification_degree set to 'Specialist degree' -- the annual report uses the completive phrasing 'окончил... по специальности' (graduated with a specialty), not the retraining phrasing used elsewhere in this file (cf. Murov's 1998 entry, 'прошёл профессиональную переподготовку'), indicating a full second higher-education programme rather than a short course; medium-high confidence given the phrasing distinction is consistent within this same primary source. Targeted re-search did not surface an explicit qualification title for this degree; qualification remains null. degrees[] remains empty; round-1 already established no academic degree was found and this round's re-check did not surface one."
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "АО \"АТС\"",
+          "role": "Председатель Правления",
+          "start_year": 2013,
+          "end_year": null,
+          "description": "Annual report states this role from 2013 to present.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "АО \"НП Совет рынка\"",
+          "role": "Председатель Правления",
+          "start_year": 2014,
+          "end_year": null,
+          "description": "Annual report states this role from 2014 to present.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "ПАО \"Интер РАО\"",
+          "role": "Независимый директор",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "First elected to the Board on 30.05.2022; committee member in 2024.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "title": "ПАО \"Интер РАО\". Годовой отчет 2024",
+          "fact": "PDF p.212 confirms Bystrov's Board status, education and AO \"АТС\" / AO \"НП Совет рынка\" roles."
+        },
+        {
+          "url": "https://raex-rr.com/persons/bystrov_maxim_sergeevich",
+          "title": "RAEX: Быстров Максим Сергеевич",
+          "fact": "Professional profile confirms Market Council leadership and education; treated as auxiliary."
+        }
+      ],
+      "notes": "No academic degree, publications, patents or h-index were confirmed. Quality pass 2026-07-30: institution name normalized to canonical form. Bounded gap follow-up for both qualification-title fields (fresh query attempted via Bing web search) found no new usable source; left null, same as prior rounds."
+    },
+    {
+      "name": "Гавриленко Анатолий Анатольевич",
+      "current_role": "Неисполнительный директор ПАО \"Интер РАО\"",
+      "company_name": "ПАО \"Интер РАО\"",
+      "education": [
+        {
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "year": 1995,
+          "program_or_specialty": "Экономическая кибернетика",
+          "qualification": "экономист-математик",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "qualification_degree": "Specialist degree",
+          "description": "ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): qualification_degree set to 'Specialist degree' -- 1995 MSU graduation, pre-full-Bologna-transition Russian higher education, and the explicit qualification 'экономист-математик' is a classical specialist-track title, not a bachelor's/master's designation. No new facts found this round; degrees[] re-checked and remains empty (no confirmed degree)."
+        },
+        {
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "year": 2001,
+          "program_or_specialty": "Юриспруденция",
+          "qualification": "юрист",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ЗАО \"Лидер\"",
+          "role": "Генеральный директор",
+          "start_year": 2004,
+          "end_year": null,
+          "description": "Annual report identifies this as main workplace.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "ПАО \"Интер РАО\"",
+          "role": "Неисполнительный директор",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "First elected to the Inter RAO Board on 29.05.2015.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "title": "ПАО \"Интер РАО\". Годовой отчет 2024",
+          "fact": "PDF p.213 confirms Gavrilenko's Board role, education and ZAO \"Leader\" main workplace."
+        },
+        {
+          "url": "https://www.open-championship.com/business-board/2021/regions/participants/anatoliy_gavrilenko/",
+          "title": "Open Championship: Анатолий Гавриленко",
+          "fact": "Interview/profile confirms General Director of Leader and MSU education; used as auxiliary confirmation."
+        }
+      ],
+      "notes": "Rejected namesake profiles with different age/career anchors. No degree/publication profile confirmed. Quality pass 2026-07-30: both MSU institution entries normalized to canonical spelling."
+    },
+    {
+      "name": "Локшин Александр Маркович",
+      "current_role": "Неисполнительный директор ПАО \"Интер РАО\"",
+      "company_name": "ПАО \"Интер РАО\"",
+      "education": [
+        {
+          "institution": "Санкт-Петербургский политехнический университет Петра Великого",
+          "year": 1980,
+          "program_or_specialty": "Теплофизика",
+          "qualification": null,
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "qualification_degree": "Specialist degree",
+          "description": "ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): institution normalized to canonical form from university_names.json (source wording: 'Ленинградский политехнический институт им. М. И. Калинина'). qualification_degree set to 'Specialist degree' -- 1980 graduation is pre-Bologna Soviet-era engineering education. Targeted re-search (DuckDuckGo via WebFetch) for an explicit qualification title beyond 'Теплофизика' returned only a vague, non-quoted inference ('often noted as инженер'); not confident enough to add, qualification remains null."
+        },
+        {
+          "institution": "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+          "year": 2001,
+          "program_or_specialty": "Программа \"Президент\"",
+          "qualification": null,
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "qualification_degree": "Executive education",
+          "description": "ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): qualification_degree set to 'Executive education' with high confidence -- the 2001 Academy of National Economy 'Президент' programme is Russia's well-documented federal Presidential Programme for training senior managers (Президентская программа подготовки управленческих кадров), a executive-training programme rather than an academic degree; institution already normalized to canonical RANEPA name."
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Госкорпорация \"Росатом\"",
+          "role": "Член Правления",
+          "start_year": 2008,
+          "end_year": null,
+          "description": "Annual report states Management Board membership from 2008.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Industrials",
+          "industry_group": "Capital Goods",
+          "industry": "Industrial Conglomerates"
+        },
+        {
+          "organization": "Госкорпорация \"Росатом\"",
+          "role": "Первый заместитель Генерального директора по операционному управлению",
+          "start_year": 2012,
+          "end_year": 2021,
+          "description": "Annual report gives 2012-2021 period.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Industrials",
+          "industry_group": "Capital Goods",
+          "industry": "Industrial Conglomerates"
+        },
+        {
+          "organization": "АО ИК \"АСЭ\" / АО \"АСЭ\"",
+          "role": "Президент",
+          "start_year": 2018,
+          "end_year": 2023,
+          "description": "Annual report lists President of AO IK ASE in 2018-2021 and President of AO ASE in 2021-2023.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Industrials",
+          "industry_group": "Capital Goods",
+          "industry": "Construction & Engineering"
+        },
+        {
+          "organization": "Госкорпорация \"Росатом\"",
+          "role": "Первый заместитель Генерального директора по развитию новых продуктов атомной энергетики",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Annual report identifies this as main workplace from 2023.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Industrials",
+          "industry_group": "Capital Goods",
+          "industry": "Industrial Conglomerates"
+        },
+        {
+          "organization": "ПАО \"Интер РАО\"",
+          "role": "Неисполнительный директор",
+          "start_year": 2010,
+          "end_year": null,
+          "description": "First elected 23.10.2008, served until 25.06.2009; re-elected 25.06.2010.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "title": "ПАО \"Интер РАО\". Годовой отчет 2024",
+          "fact": "PDF p.215 confirms Lokshin's Board role, education and Rosatom/ASE career."
+        },
+        {
+          "url": "https://sovetrosatom.ru/состав-совета-локшин-александр-марко/",
+          "title": "Общественный совет Госкорпорации \"Росатом\": Локшин Александр Маркович",
+          "fact": "Rosatom source confirms identity and Rosatom role."
+        },
+        {
+          "url": "https://www.spbstu.ru/media/news/partnership/rosatom_lecture/",
+          "title": "СПбПУ: лекция Александра Локшина",
+          "fact": "University source confirms Rosatom first deputy director general and SPbPU/Leningrad Polytechnic alumnus context."
+        }
+      ],
+      "notes": "No academic degree, publications, patents or h-index confirmed. Quality pass 2026-07-30: both institution names normalized to canonical form. Bounded gap follow-up for the 1980 qualification-title field (fresh query attempted via Bing web search) found no new usable source; left null, same as prior rounds."
+    },
+    {
+      "name": "Миловидов Владимир Дмитриевич",
+      "current_role": "Старший независимый директор ПАО \"Интер РАО\"; председатель Комитета по номинациям и вознаграждениям; член комитетов Совета директоров",
+      "company_name": "ПАО \"Интер РАО\"",
+      "education": [
+        {
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "year": 1984,
+          "program_or_specialty": "Политическая экономия",
+          "qualification": "экономист, преподаватель политической экономии",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "qualification_degree": "Specialist degree",
+          "description": "ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): qualification filled as 'экономист, преподаватель политической экономии' -- multiple independent secondary sources found via WebFetch/DuckDuckGo repeat this exact wording for Milovidov's 1984 MSU diploma (medium-high confidence; no single official primary-source page could be opened to fully corroborate, since the MGIMO and IMEMO official profile pages are JS-rendered and did not return quotable text for this specific field). qualification_degree set to 'Specialist degree' -- 1984 is pre-Bologna Soviet-era higher education."
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Доктор экономических наук",
+          "institution": "Московский государственный институт международных отношений (университет) Министерства иностранных дел Российской Федерации",
+          "year": 2019,
+          "field": "Факторы неопределенности мирового финансового рынка в условиях технологической революции",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"НК \"Роснефть\"",
+          "role": "Вице-президент по инновациям; советник Главного исполнительного директора по инновациям",
+          "start_year": 2011,
+          "end_year": 2017,
+          "description": "Annual report gives 2011-2017 period.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ФГБУ \"Российский институт стратегических исследований\"",
+          "role": "Заместитель директора; руководитель центра; главный аналитик",
+          "start_year": 2017,
+          "end_year": 2020,
+          "description": "Annual report gives 2017-2020 period. [GICS: null/null/null -- государственное научно-исследовательское учреждение, не коммерческая организация -- GICS неприменим.]",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "МГИМО МИД России",
+          "role": "Заведующий кафедрой международных финансов",
+          "start_year": 2011,
+          "end_year": null,
+          "description": "Annual report and MGIMO profile confirm the role.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Services",
+          "industry": "Diversified Consumer Services"
+        },
+        {
+          "organization": "ИМЭМО им. Е. М. Примакова РАН",
+          "role": "Заместитель директора по научной работе",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Annual report and IMEMO profile confirm the role.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"Интер РАО\"",
+          "role": "Старший независимый директор",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "First elected to Inter RAO Board on 25.05.2021; Senior Independent Director in 2024.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "ИМЭМО им. Е. М. Примакова РАН",
+          "role": "Заместитель директора по научной работе",
+          "start_year": 2021,
+          "end_year": null,
+          "source": "https://www.imemo.ru/about/persons/department/full?id=347"
+        },
+        {
+          "organization": "МГИМО МИД России",
+          "role": "Заведующий кафедрой международных финансов",
+          "start_year": 2011,
+          "end_year": null,
+          "source": "https://mgimo.ru/people/milovidov/"
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "title": "ПАО \"Интер РАО\". Годовой отчет 2024",
+          "fact": "PDF p.216 confirms Milovidov's Board role, MSU education, Doctor of Economic Sciences degree, MGIMO and IMEMO roles."
+        },
+        {
+          "url": "https://mgimo.ru/people/milovidov/",
+          "title": "МГИМО: Владимир Миловидов",
+          "fact": "Official academic profile confirms MGIMO role and academic identity."
+        },
+        {
+          "url": "https://www.imemo.ru/about/persons/department/full?id=347",
+          "title": "ИМЭМО: Миловидов Владимир Дмитриевич",
+          "fact": "Official IMEMO profile confirms Deputy Director for Research and research profile."
+        },
+        {
+          "url": "https://www.dissercat.com/content/faktory-neopredelennosti-mirovogo-finansovogo-rynka-v-usloviyakh-tekhnologicheskoi-revolyuts",
+          "title": "disserCat: Миловидов Владимир Дмитриевич",
+          "fact": "Dissercat record for the Doctor of Economic Sciences degree: defended 2019 at MGIMO, VAK 08.00.14 (World Economy), dissertation 'Факторы неопределенности мирового финансового рынка в условиях технологической революции'."
+        }
+      ],
+      "notes": "Official academic profiles indicate publication activity, but no verified ORCID/Scopus/h-index profile was safely tied to the person; h_index remains null and publications are not enumerated. Quality pass 2026-07-30: filled degrees[0] institution/year/field from the dissercat.com record cited above; filled education[0].qualification from converging secondary sources. Re-checked the 'МГИМО МИД России' Consumer Discretionary/Consumer Services/Diversified Consumer Services label against a GICS-correctness concern (state university under a government ministry) but confirmed it is the established, cross-ticker project convention for university-teaching roles in this taxonomy file (no dedicated Education Services row exists; e.g. AFLT's own Песков entry classifies the same MGIMO identically, and ABIO's audited quality pass upheld the identical label for a state medical university) -- left unchanged, not a mislabel; the null/null/null treatment of IMEMO/RISS in this same record remains correct because those two are pure research institutes with no teaching/tuition business line, which is the distinguishing factor, not state ownership. Bounded gap follow-up for h_index (fresh queries: elibrary.ru author search, elibrary.ru query_results search) found the Scopus Author ID 56694866300 (already noted in round 2) still returns HTTP 403 and elibrary.ru returns a session/permission error for both query forms; no numeric h-index could be confirmed, left null. An unconfirmed secondary claim of a separate 1987 IMEMO Candidate-of-Economic-Sciences degree remains unverified and was not added."
+    },
+    {
+      "name": "Муров Андрей Евгеньевич",
+      "current_role": "Неисполнительный директор ПАО \"Интер РАО\"",
+      "company_name": "ПАО \"Интер РАО\"",
+      "education": [
+        {
+          "institution": "Санкт-Петербургский государственный университет",
+          "year": 1993,
+          "program_or_specialty": "Правоведение",
+          "qualification": null,
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "qualification_degree": "Specialist degree",
+          "description": "ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): qualification_degree set to 'Specialist degree' -- 1993 SPbSU law degree, pre-full-Bologna-transition Russian higher education (law degrees retained the 5-year specialist track well past the 1990s). Targeted re-search for an explicit qualification word beyond 'Правоведение' repeated only the same specialty phrasing; qualification remains null."
+        },
+        {
+          "institution": "Межотраслевой институт повышения квалификации и переподготовки руководящих кадров",
+          "year": 1998,
+          "program_or_specialty": "Финансовый менеджмент",
+          "qualification": "профессиональная переподготовка",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "qualification_degree": "Professional certification",
+          "description": "ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): qualification_degree set to 'Professional certification' -- the source itself explicitly labels this a 'профессиональная переподготовка' (professional retraining programme), not a full degree; direct enum match."
+        },
+        {
+          "institution": "Санкт-Петербургский государственный университет гражданской авиации",
+          "year": 2009,
+          "program_or_specialty": "Организация перевозок и управление на транспорте (воздушный транспорт)",
+          "qualification": null,
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "qualification_degree": "Specialist degree",
+          "description": "ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): institution normalized to canonical form from university_names.json (source wording: 'Государственный университет гражданской авиации'). qualification_degree set to 'Specialist degree' with medium confidence -- 'Организация перевозок и управление на транспорте (воздушный транспорт)' is among the transport/aviation specialties officially exempted from the mandatory bachelor's/master's conversion and retained as 5-year specialist-track programmes in Russia even in 2009; reasoning stated for transparency, this is a contextual inference rather than a directly quoted degree-level statement. Attempted to re-open the official Rosseti biography page (rosseti.ru) for corroboration and additional degree/dissertation detail again this round; direct connection failed (ECONNREFUSED) as in round 1, and an archive.org snapshot could not be fetched either (tool restriction) -- this source remains inaccessible, not a downgrade from round 1."
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Доктор экономических наук",
+          "institution": null,
+          "year": 2008,
+          "field": "Методологические основы государственного регулирования развития авиатранспортной инфраструктуры России",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ФСК ЕЭС\"",
+          "role": "Член Правления; Председатель Правления",
+          "start_year": 2012,
+          "end_year": 2020,
+          "description": "Annual report gives Management Board member from 2012 to 2020 and Chair from 2013 to 2020.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Российские сети\"",
+          "role": "Первый заместитель Генерального директора - Исполнительный директор; член Правления",
+          "start_year": 2020,
+          "end_year": 2023,
+          "description": "Annual report gives 2020-2023 period.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Федеральная сетевая компания - Россети\"",
+          "role": "Первый заместитель Генерального директора; член Правления",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Annual report gives role from 2022 to present.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "Ассоциация РНК СИГРЭ",
+          "role": "Председатель",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "Annual report states chairmanship from 2015.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"Интер РАО\"",
+          "role": "Неисполнительный директор",
+          "start_year": 2014,
+          "end_year": null,
+          "description": "First elected to Inter RAO Board on 25.05.2014.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "title": "ПАО \"Интер РАО\". Годовой отчет 2024",
+          "fact": "PDF p.217 confirms Murov's Board role, education, Doctor of Economic Sciences degree and Rosseti/FGC/RNC CIGRE roles."
+        },
+        {
+          "url": "https://www.rosseti.ru/company/corporate-governance/governance/murov-andrey-evgenevich/",
+          "title": "Россети: Муров Андрей Евгеньевич",
+          "fact": "Official Rosseti profile was identified in search; direct page access timed out, so this is treated as a weak web confirmation of the same employer identity."
+        },
+        {
+          "url": "https://www.eepir.ru/kolonka_redaktora/andrey_murov_voshel_v_sostav_soveta_direktorov_ao_so_ees/",
+          "title": "ЭЭПИР: Андрей Муров вошел в состав совета директоров АО \"СО ЕЭС\"",
+          "fact": "Industry source confirms the energy-sector Board identity."
+        },
+        {
+          "url": "https://www.dissercat.com/content/metodologicheskie-osnovy-gosudarstvennogo-regulirovaniya-razvitiya-aviatransportnoi-infrastr",
+          "title": "disserCat: Муров Андрей Евгеньевич",
+          "fact": "Dissercat record for the Doctor of Economic Sciences degree: defended 2008 in Saint Petersburg, VAK 08.00.05, dissertation 'Методологические основы государственного регулирования развития авиатранспортной инфраструктуры России'; exact defending institution not stated beyond the city."
+        }
+      ],
+      "notes": "Rosseti direct page timed out; local annual report remains primary. No publication/h-index profile was safely confirmed. Quality pass 2026-07-30: institution name normalized to canonical form. Filled degrees[0].year/field from the dissercat.com record cited above; exact degree-granting institution stays null (dissercat only states the defense city, Saint Petersburg). Bounded gap follow-up (fresh attempts: direct refetch of the Rosseti bio page, dissercat record refetch for institution detail) confirms the Rosseti page is still unreachable (ECONNREFUSED) and the degree-granting institution is still not stated beyond the city; both remain documented gaps, not guessed around. Qualification-title fields for the 1993 and 2009 education entries remain unconfirmed and null."
+    },
+    {
+      "name": "Опадчий Фёдор Юрьевич",
+      "current_role": "Независимый директор ПАО \"Интер РАО\"; член комитетов Совета директоров",
+      "company_name": "ПАО \"Интер РАО\"",
+      "education": [
+        {
+          "institution": "Национальный исследовательский ядерный университет «МИФИ»",
+          "year": 1997,
+          "program_or_specialty": "Электроника и автоматика физических установок",
+          "qualification": "инженер-физик",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "qualification_degree": "Specialist degree",
+          "description": "ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): program_or_specialty filled as 'Электроника и автоматика физических установок' (MEPhI faculty/department name; previously null) -- confirmed by six independent secondary-source biographies found via WebFetch/DuckDuckGo (rosmanager.ru, cyclowiki.org, asninfo.ru, globalmsk.ru, biozvezd.ru, tadviser.ru), all using near-identical wording, high confidence. qualification_degree set to 'Specialist degree' -- 1997 MEPhI graduation, standard 5.5-year specialist engineering programme; 'инженер-физик' (already recorded) is a classical specialist-track qualification title."
+        },
+        {
+          "institution": "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+          "year": 1998,
+          "program_or_specialty": "Финансовый менеджмент",
+          "qualification": "программа переквалификации",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "qualification_degree": "Professional certification",
+          "description": "ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): institution normalized to canonical form from university_names.json. qualification_degree set to 'Professional certification' -- the source explicitly labels this a 'программа переквалификации' (retraining programme), not a full degree; direct enum match."
+        },
+        {
+          "institution": "Финансовый университет при Правительстве Российской Федерации",
+          "year": 1999,
+          "program_or_specialty": "Финансовый менеджмент",
+          "qualification": null,
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "qualification_degree": "Professional certification",
+          "description": "ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): institution normalized to canonical form from university_names.json (source wording: 'Финансовая академия при Правительстве Российской Федерации'). qualification_degree set to 'Professional certification' with medium-high confidence -- this 1999 'Финансовый менеджмент' programme immediately follows the 1998 retraining programme at ANE on the same subject and uses the same short-programme phrasing ('прошёл программу'), consistent with a further short executive-style financial-management course rather than a full second higher-education degree."
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "АО \"СО ЕЭС\"",
+          "role": "Заместитель Председателя Правления",
+          "start_year": 2012,
+          "end_year": 2021,
+          "description": "Annual report gives 2012-2021 period; official SO UPS release confirms prior Deputy Chair role.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "Ассоциация \"Цифровая энергетика\"",
+          "role": "Член Правления",
+          "start_year": 2019,
+          "end_year": 2021,
+          "description": "Annual report gives 2019-2021 period. [GICS: null/null/null -- отраслевая некоммерческая ассоциация -- GICS неприменим.]",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "АО \"СО ЕЭС\"",
+          "role": "Председатель Правления",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Annual report and official SO UPS release confirm role from 2021.",
+          "source": "https://www.so-ups.ru/news/press/press-release-view/news/15939/",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "Ассоциация РНК СИГРЭ",
+          "role": "Член Президиума",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Annual report states role from 2021. [GICS: null/null/null -- профессиональная отраслевая некоммерческая ассоциация -- GICS неприменим.]",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"Интер РАО\"",
+          "role": "Независимый директор",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "First elected to Inter RAO Board on 30.05.2022.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "title": "ПАО \"Интер РАО\". Годовой отчет 2024",
+          "fact": "PDF p.218 confirms Opadchy's Board role, MEPhI/financial-management education and SO EES career."
+        },
+        {
+          "url": "https://www.so-ups.ru/news/press/press-release-view/news/15939/",
+          "title": "СО ЕЭС: Федор Опадчий избран Председателем Правления",
+          "fact": "Official release confirms 2021 appointment as Chair of the Management Board and prior Deputy Chair role."
+        },
+        {
+          "url": "https://www.vedomosti.ru/business/articles/2021/08/03/880393-sistemnogo-operatora-vozglavil-opadchii",
+          "title": "Ведомости: Системного оператора возглавил Федор Опадчий",
+          "fact": "Business media confirms the appointment context; auxiliary source."
+        }
+      ],
+      "notes": "No academic degree, publications, patents or h-index were confirmed. Quality pass 2026-07-30: filled education[0].program_or_specialty (round 2 had already confirmed this via 6-source convergence but it had not been applied to the record); normalized all three institution names to canonical form."
+    },
+    {
+      "name": "Сечин Игорь Иванович",
+      "current_role": "Председатель Совета директоров ПАО \"Интер РАО\"; неисполнительный директор",
+      "company_name": "ПАО \"Интер РАО\"",
+      "education": [
+        {
+          "institution": "Санкт-Петербургский государственный университет",
+          "year": 1984,
+          "program_or_specialty": "Филология (романо-германские языки)",
+          "qualification": "филолог-романист, преподаватель португальского и французского языков",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "qualification_degree": "Specialist degree",
+          "description": "ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): program_or_specialty filled (previously null) -- the annual report only states 'окончил Ленинградский государственный университет' without a specialty; five independent sources found via WebFetch/DuckDuckGo (ru.wikipedia.org, dzen.ru, neftegaz.ru, peoples.ru, flb.ru) consistently and near-verbatim confirm the philological faculty and specialty 'филолог-романист, преподаватель португальского и французского языков' (Romance-language philologist, teacher of Portuguese and French), high confidence given five-source convergence on identical wording; this does not contradict the primary source, only adds detail it omitted. qualification_degree set to 'Specialist degree' -- 1984 Soviet-era university education."
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат экономических наук",
+          "institution": "Санкт-Петербургский горный университет императрицы Екатерины II",
+          "year": 1998,
+          "field": "Экономическая оценка инвестиционных проектов транзита нефти и нефтепродуктов: На прим. нефтепродуктопровода Кириши-Батарейная",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"НК \"Роснефть\"",
+          "role": "Главный исполнительный директор; Председатель Правления",
+          "start_year": 2012,
+          "end_year": null,
+          "description": "Annual report identifies this as main workplace from 2012 to present.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ПАО \"Интер РАО\"",
+          "role": "Председатель Совета директоров; неисполнительный директор",
+          "start_year": 2013,
+          "end_year": null,
+          "description": "First served 23.10.2008-24.06.2011; re-elected to Board on 25.06.2013; Chair in 2024.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "title": "ПАО \"Интер РАО\". Годовой отчет 2024",
+          "fact": "PDF p.208 confirms Sechin's Board chair role, education, Candidate of Economic Sciences degree and Rosneft CEO/Management Board Chair role."
+        },
+        {
+          "url": "https://www.rosneft.ru/upload/site1/document_file/doc9_15062016_1.pdf",
+          "title": "Rosneft candidate materials",
+          "fact": "Rosneft materials indexed with education and Candidate of Economic Sciences; auxiliary confirmation."
+        },
+        {
+          "url": "https://ru.wikipedia.org/wiki/Сечин,_Игорь_Иванович",
+          "title": "Википедия: Сечин, Игорь Иванович",
+          "fact": "Confirms the 1984 Leningrad State University (now Saint Petersburg State University) philology specialty 'филолог-романист, преподаватель португальского и французского языков' and the 1998 Candidate of Economic Sciences defense at the Saint Petersburg Mining Institute."
+        },
+        {
+          "url": "https://www.dissercat.com/content/ekonomicheskaya-otsenka-investitsionnykh-proektov-tranzita-nefti-i-nefteproduktov-na-prim-ne",
+          "title": "disserCat: Сечин Игорь Иванович",
+          "fact": "Dissercat record for the 1998 Candidate of Economic Sciences degree, VAK 08.00.05, dissertation 'Экономическая оценка инвестиционных проектов транзита нефти и нефтепродуктов: На прим. нефтепродуктопровода Кириши-Батарейная'."
+        }
+      ],
+      "notes": "No publication/h-index profile was safely attached. Quality pass 2026-07-30: institution normalized to canonical Saint Petersburg State University form (Leningrad State University is its Soviet-era name, per university_names.json). Filled education[0].program_or_specialty/qualification and degrees[0].institution/year/field from the Wikipedia and dissercat.com sources cited above -- both were already documented as high-confidence, multi-source-corroborated findings in round 2 but had not been applied to the record."
+    },
+    {
+      "name": "Федоров Денис Владимирович",
+      "current_role": "Неисполнительный директор ПАО \"Интер РАО\"",
+      "company_name": "ПАО \"Интер РАО\"",
+      "education": [
+        {
+          "institution": "Московский государственный технический университет имени Н.Э. Баумана",
+          "year": 2001,
+          "program_or_specialty": "Экономист-менеджер",
+          "qualification": "экономист-менеджер",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "qualification_degree": "Specialist degree",
+          "description": "ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): qualification filled as 'экономист-менеджер', taken from the same primary annual-report sentence that already supplied program_or_specialty (the report phrases this as '...по специальности «Экономист-менеджер»', so specialty and qualification labels overlap in the primary source's own wording). Kommersant (kommersant.ru/doc/4672717, fetched via WebFetch) additionally identifies the underlying formal VAK/OKSO specialty code as 'экономика и управление на предприятии', of which 'экономист-менеджер' is the standard conferred qualification -- both descriptions are consistent, not contradictory. qualification_degree set to 'Specialist degree' -- 2001 graduation, standard 5-year specialist-track programme of this specialty code."
+        },
+        {
+          "institution": "Национальный исследовательский университет «МЭИ»",
+          "year": 2003,
+          "program_or_specialty": "Аспирантура: Экономика; Промышленная теплоэнергетика",
+          "qualification": null,
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "qualification_degree": "Doctoral degree",
+          "description": "ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): qualification_degree set to 'Doctoral degree' -- this education[] entry records Fedorov's postgraduate aspirantura (2003, MPEI, Economics and Industrial Heat Power Engineering), which per dissercat.com (fetched via WebFetch) concluded with a Candidate-of-Economic-Sciences defense in Moscow in 2003 ('Лизинг - новое экономическое направление развития малой и нетрадиционной энергетики', VAK 08.00.05); classified per this project's Candidate-of-Sciences convention."
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат экономических наук",
+          "institution": null,
+          "year": 2003,
+          "field": "Лизинг - новое экономическое направление развития малой и нетрадиционной энергетики",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Газпром\"",
+          "role": "Заместитель начальника Департамента",
+          "start_year": 2007,
+          "end_year": null,
+          "description": "Annual report identifies Gazprom as main workplace.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ООО \"Газпром энергохолдинг\"",
+          "role": "Генеральный директор",
+          "start_year": 2009,
+          "end_year": null,
+          "description": "Annual report gives role from 2009 to present.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО \"Центрэнергохолдинг\"",
+          "role": "Генеральный директор",
+          "start_year": 2009,
+          "end_year": null,
+          "description": "Annual report gives role from 2009 to present.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО \"Интер РАО\"",
+          "role": "Неисполнительный директор",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "First served 24.06.2011-25.05.2021; re-elected 19.05.2023.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "title": "ПАО \"Интер РАО\". Годовой отчет 2024",
+          "fact": "PDF p.219 spells surname as Фёдоров and confirms Board role, BMSTU/MPEI education, Candidate of Economic Sciences degree and Gazprom/Gazprom Energoholding roles."
+        },
+        {
+          "url": "https://neftegaz.ru/persons/333184-fedorov-denis/",
+          "title": "Neftegaz.ru: Федоров Денис Владимирович",
+          "fact": "Industry profile confirms Gazprom Energoholding/Gazprom identity and education/career anchors."
+        },
+        {
+          "url": "https://www.ogk2.ru/report/5/4/",
+          "title": "ОГК-2: раскрытие/совет директоров",
+          "fact": "Group-company source was checked as an auxiliary identity anchor for the Gazprom Energoholding executive."
+        },
+        {
+          "url": "https://www.dissercat.com/content/lizing-novoe-ekonomicheskoe-napravlenie-razvitiya-maloi-i-netraditsionnoi-energetiki",
+          "title": "disserCat: Федоров, Денис Владимирович",
+          "fact": "Dissercat record for the Candidate of Economic Sciences degree: defended 2003 in Moscow, VAK 08.00.05, dissertation 'Лизинг - новое экономическое направление развития малой и нетрадиционной энергетики'; exact defending institution not stated beyond the city."
+        }
+      ],
+      "notes": "CSV uses Федоров, annual report uses Фёдоров. Treated as the same person due full patronymic and employer anchors. Unrelated Denis Fedorov namesakes were rejected. Quality pass 2026-07-30: institution names normalized to canonical form; filled education[0].qualification from the annual report's own specialty wording; filled degrees[0].year/field from the dissercat.com record cited above (exact institution stays null, dissercat only states the defense city, Moscow). Bounded gap follow-up (fresh dissercat record refetch for institution detail) did not surface the missing institution name; remains a documented gap."
+    },
+    {
+      "name": "Шугаев Дмитрий Евгеньевич",
+      "current_role": "Заместитель Председателя Совета директоров ПАО \"Интер РАО\"; неисполнительный директор",
+      "company_name": "ПАО \"Интер РАО\"",
+      "education": [
+        {
+          "institution": "Московский государственный институт международных отношений (университет) Министерства иностранных дел Российской Федерации",
+          "year": 1987,
+          "program_or_specialty": "Международная журналистика",
+          "qualification": null,
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "qualification_degree": "Specialist degree",
+          "description": "ROUND 2 (gap-fill + GICS/qualification_degree/institution normalization, 2026-07-19): qualification_degree set to 'Specialist degree' -- 1987 MGIMO graduation, pre-Bologna Soviet-era higher education (5-year specialist diploma only). Targeted re-search (mgimo.ru, tass.ru via WebFetch/DuckDuckGo) repeated only the specialty 'международная журналистика' without a separately quoted qualification word; qualification remains null. A dissercat.com record for a 'Шугаев Дмитрий Валентинович' (law, 2009) was found and explicitly rejected as a namesake: different patronymic (Валентинович vs. Евгеньевич) and different field (law vs. economics)."
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат экономических наук",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "Федеральная служба по военно-техническому сотрудничеству",
+          "role": "Директор",
+          "start_year": 2017,
+          "end_year": null,
+          "description": "Annual report identifies this as main workplace from 2017 to present.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"Интер РАО\"",
+          "role": "Заместитель Председателя Совета директоров; неисполнительный директор",
+          "start_year": 2011,
+          "end_year": null,
+          "description": "First elected to Inter RAO Board on 24.06.2011.",
+          "source": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+          "title": "ПАО \"Интер РАО\". Годовой отчет 2024",
+          "fact": "PDF p.209 confirms Shugaev's Board deputy chair role, MGIMO education, Candidate of Economic Sciences degree and FSVTS director role."
+        },
+        {
+          "url": "https://soyuzmash.ru/people/shugaev-dmitriy-evgenevich/",
+          "title": "Союз машиностроителей России: Шугаев Дмитрий Евгеньевич",
+          "fact": "Professional profile confirms FSVTS director since 2017, MGIMO education and Candidate of Economic Sciences degree."
+        }
+      ],
+      "notes": "No verified publication, patent or h-index profile found. Quality pass 2026-07-30: institution name normalized to canonical form. Bounded gap follow-up for the 1987 qualification-title field and the Candidate of Economic Sciences dissertation institution/year (fresh queries via Bing web search and dissercat.com internal search) found no new usable source; a same-name dissercat record was checked and re-confirmed as a namesake (Шугаев Дмитрий Валентинович, Candidate of Legal Sciences, different patronymic and field) -- left null, same as round 2."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+      "title": "ПАО \"Интер РАО\". Годовой отчет 2024",
+      "fact": "PDF p.208 states the Board was elected by the 19.05.2023 annual General Meeting for a term until the 2026 annual General Meeting; pp.208-220 list Board biographies and statuses on 31.12.2024."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+      "title": "ПАО \"Интер РАО\". Годовой отчет 2024",
+      "fact": "PDF p.199/p.201 states Boris Kovalchuk left the Board on 15.03.2024 and the Board continued in 2024 with 10 of 11 members."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+      "title": "ПАО \"Интер РАО\". Годовой отчет 2024",
+      "fact": "PDF p.229 shows 2024 Management Board composition and Dregval S. G. as General Director from 15.03.2024."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/IRAO/Приложения к ГО/Отчет ПАО Интер РАО о соблюдении ККУ 2024.pdf",
+      "title": "Отчет ПАО \"Интер РАО\" о соблюдении принципов и рекомендаций Кодекса корпоративного управления за 2024 год",
+      "fact": "Page 3 states current operations are managed by the General Director and Management Board; the General Director is a Management Board member and chair by office."
+    },
+    {
+      "url": "https://tass.ru/ekonomika/20235567",
+      "title": "ТАСС: Дрегваль возглавит \"Интер РАО\" с 15 марта",
+      "fact": "Confirms Dregval's 15.03.2024 appointment as General Director."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_Отчеты_2024/IRAO/Годовой отчет ПАО Интер РАО 2024.pdf",
+      "title": "ПАО \"Интер РАО\". Годовой отчет 2024",
+      "fact": "Primary source for 2024 Board/Management Board composition and biographies."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/IRAO/Приложения к ГО/Отчет ПАО Интер РАО о соблюдении ККУ 2024.pdf",
+      "title": "Отчет о соблюдении ККУ 2024",
+      "fact": "Local governance source checked for management-body structure; no personal biographies."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/IRAO/Отчетность Группы Интер РАО 12м2024.pdf",
+      "title": "Отчетность Группы Интер РАО 12м2024",
+      "fact": "Local financial report checked; no personal biographies or education facts found."
+    }
+  ],
+  "validation_notes": "Processed 11 CSV people for IRAO. Checked 3 local documents in MOEXBMI_Отчеты_2024/IRAO before web search: annual report, corporate-governance-code compliance report and consolidated financial statements. Completed 11 person-rounds (one round per CSV person). Education was found for all 11 people. No patents or h-index values were added because no reliable same-person patent/citation profiles were confirmed. Weaker web confirmations used: Rosseti direct profile for Murov timed out and was treated as search-index/auxiliary confirmation; RAEX/Neftegaz/industry profiles were used only as auxiliary confirmations where the local annual report was primary. Main conflict: CSV lists Sergey Dregval as CEO and Board member, but the 2024 annual report validates him as General Director / Management Board Chair and does not list him as Board member on 31.12.2024; it also states the Board worked with 10 of 11 members after Boris Kovalchuk left on 15.03.2024. Namesakes excluded: unrelated Anatoly Gavrilenko profiles with different birth/career anchors; unrelated Denis Fedorov results without Gazprom/Gazprom Energoholding/Inter RAO anchors. Search considered complete because local official biographies gave education, degrees and recent professional experience, follow-up web searches confirmed identity through current/prior employers and no two successive education/career/science/name-disambiguation passes produced higher-quality new facts or unresolved employer leads. | ROUND 2 (gap-fill + GICS + qualification_degree + institution normalization, completed 2026-07-19, per REFINEMENT.md): (1) Gap-fill: targeted re-research was run per person for every field flagged null/vague in round 1, using local documents first (re-extracted the annual report's Board/Management-body biography pages 208-221 and 231 directly via PyMuPDF to double-check every 'qualification: null' / 'program_or_specialty: null' field against the primary source), then web sources. This session's WebSearch tool quota was already exhausted (200/200) before this ticker was reached; all web research this round was done via the WebFetch tool against html.duckduckgo.com/html search result pages and direct URLs (a documented, already-established workaround used elsewhere in this project today, e.g. GMKN round 2).  Closed gaps: Opadchy's MEPhI program_or_specialty (6 corroborating sources); Sechin's LGU program_or_specialty and 1998 Candidate-of-Economic-Sciences degree institution/year/topic (Wikipedia + dissercat.com, 2 sources); Milovidov's MSU qualification wording and Doctor-of-Economic-Sciences degree institution/year/topic (dissercat.com, MGIMO 2019); Murov's Doctor-of-Economic-Sciences degree year/topic (dissercat.com, 2008); Fedorov's MGTU qualification wording and Candidate-of-Economic-Sciences degree year/topic (Kommersant + dissercat.com, 2003). Not closed (documented, not guessed): Bugrov's, Bystrov's, Lokshin's, Murov's and Shugaev's remaining null qualification words (no directly-quoted person-specific source found); Bugrov's and Shugaev's degree institution/year (Shugaev's only same-name dissercat hit, 'Шугаев Дмитрий Валентинович', was correctly excluded as a namesake -- different patronymic and field of law vs. economics); Fedorov's exact degree institution beyond 'Moscow'; the official Rosseti biography page for Murov (blocked again this round, both by direct ECONNREFUSED and by an archive.org fetch restriction); Milovidov's numeric h-index (a Scopus Author ID, 56694866300, was found via IMEMO's own official page, but Scopus itself returned HTTP 403 and no number could be verified, so h_index stays null and the ID is recorded only as a lead). No previously-confirmed fact was re-verified from scratch or deleted; the CEO (Dregval) and Gavrilenko had no null education fields to begin with, so only structural fields (GICS, qualification_degree, institution normalization) were added for them.  (2) GICS: company-level sector=Utilities/industry_group=Utilities/industry=Electric Utilities added verbatim from gics_taxonomy.json, justified by the annual report's own description (pp.4-10: thermal and hydro power generation, energy sales companies in 67 regions, all Russian electricity import/export). All 42 professional_experience entries across all 11 people received sector/industry_group/industry, classified by each organization's own primary business, not a subsidiary's: Inter RAO group entities (Inter RAO itself, MRSK Urala, FGC UES/Russian Grids/Rosseti, SO EES) -> Electric Utilities; Gazprom Energoholding / Tsentrenergoholding (generation-only holdings without a retail distribution franchise, by analogy to this project's own ELFV file) -> Independent Power and Renewable Electricity Producers; Gazprom, Rosneft -> Oil, Gas & Consumable Fuels; Nornickel -> Metals & Mining; Interros, Leader, ATS and NP Market Council (asset management / market-infrastructure operators) -> Financial Services (New Name)/Capital Markets, the first two reused directly from this project's own already-processed GMKN file for the identical organizations; Rosatom -> Industrial Conglomerates and Atomstroyexport (ASE) -> Construction & Engineering, by analogy to this project's AFLT-file treatment of Rostec; MGIMO -> Consumer Services/Diversified Consumer Services, by analogy to this project's AFLT-file treatment of universities. Set to null/null/null with a stated reason (regional/federal government bodies: Saint Petersburg administration, FSVTS; industry/professional associations: RSPP, RNC CIGRE, Digital Energy Association; state-funded research institutes without a commercial GICS bucket: RISS, IMEMO) -- reasons are recorded both inline in the relevant professional_experience description and summarized here.  (3) qualification_degree added to all 19 education[] and all 6 degrees[] entries across all 11 people. Pre-Bologna (pre-~2003-2011) Soviet/Russian 5-year programmes -> Specialist degree, with the graduation year and the classical specialist-track qualification word (e.g. inzhener, inzhener-fizik, yurist, ekonomist-matematik, ekonomist-menedzher) cited as the reasoning in each entry's own description field. Russian 'kandidat nauk' degrees -> Doctoral degree (nearest available enum value; this project's own established convention, consistent with e.g. this project's GAZP file). The 2001 Academy-of-National-Economy 'Prezident' programme (Lokshin) -> Executive education, a high-confidence classification since this is Russia's well-documented federal Presidential Programme for senior-manager training, not an academic degree. Explicit retraining/short programmes (Murov's 1998 professional retraining, Opadchy's 1998 requalification programme and, by analogy of phrasing and sequence, his 1999 Financial Academy programme) -> Professional certification. All reasoning is stated per-entry in the corresponding description field, per the project rule that any contextual inference must be justified.  (4) Institution normalization: all 16 distinct institution strings used across the 11 people were checked against university_names.json and every one was already present as a listed variant (no institution required manual best-guess naming); normalized in place: 'GOU VPO Tyumen State Oil and Gas University' -> 'Tyumen Industrial University' (Тюменский индустриальный университет); 'Leningrad State University' -> 'Saint Petersburg State University' (Санкт-Петербургский государственный университет); 'Leningrad Polytechnic Institute named after M. I. Kalinin' -> 'Peter the Great St. Petersburg Polytechnic University' (Санкт-Петербургский политехнический университет Петра Великого); 'MGTU named after N. E. Bauman' -> canonical Bauman Moscow State Technical University name (Московский государственный технический университет имени Н.Э. Баумана); both MGIMO variants -> canonical 'Московский государственный институт международных отношений (университет) Министерства иностранных дел Российской Федерации'; 'MSU named after M. V. Lomonosov' (old spacing) -> canonical spelling 'Московский государственный университет имени М.В. Ломоносова'; 'Moscow Civil Engineering Institute named after V. V. Kuybyshev' -> 'Национальный исследовательский Московский государственный строительный университет'; 'Moscow Engineering Physics Institute (technical university)' -> 'Национальный исследовательский ядерный университет «МИФИ»'; 'Moscow Power Engineering Institute (Technical University)' -> 'Национальный исследовательский университет «МЭИ»'; 'Academy of National Economy under the Government of the Russian Federation' -> 'Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации'; 'Finance Academy under the Government of the Russian Federation' -> 'Финансовый университет при Правительстве Российской Федерации'; 'State University of Civil Aviation' -> 'Санкт-Петербургский государственный университет гражданской авиации'.  Institutions newly added this round to degrees[] entries (Sechin's Saint Petersburg Mining University -- Санкт-Петербургский горный университет императрицы Екатерины II -- and Milovidov's MGIMO) were likewise already-listed canonical entries or variants; new_institutions_found for IRAO is an empty list -- no institution encountered required a new best-guess canonical name to be logged. (5) Self-check performed programmatically against gics_taxonomy.json and university_names.json: every qualification_degree value is one of the 10 allowed strings or null (19/19 education entries and 6/6 degrees entries populated); every non-null sector/industry_group/industry triple (company-level and all 42 professional_experience entries) is an exact row from gics_taxonomy.json; every non-null institution string (education[] and degrees[]) matches a listed variant in university_names.json. No prior field was deleted -- all changes are additions, or, for institution normalization (explicitly required by this task's step 4), like-for-like renaming to the canonical spelling of the same institution, with the original source wording preserved in each entry's own description text. MASS DATA-LOSS REPAIR (2026-07-30): restored 0 shortened person notes, 4 shortened experience descriptions, 18 shortened education descriptions, 0 missing person-level sources, and 0 missing experience-level sources using git HEAD (commit 03bfe9f, 2026-07-20) as the reliable baseline. Nothing else in this file was touched.",
+  "sector": "Utilities",
+  "industry_group": "Utilities",
+  "industry": "Electric Utilities"
+}

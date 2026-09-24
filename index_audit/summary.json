@@ -1,0 +1,92 @@
+{
+  "companies": 110,
+  "columns": [
+    "ticker",
+    "media_score",
+    "awards_score",
+    "expertise_score",
+    "face_score",
+    "communication_score"
+  ],
+  "aggregation": "Independent sources; company-level join on ticker only; missing scores preserved",
+  "normalization": {
+    "media": {
+      "lower": 0,
+      "upper": 100000.0,
+      "transform": "log1p",
+      "bounds": "artificial"
+    },
+    "awards": {
+      "lower": 0,
+      "upper": 20.0,
+      "transform": "log1p",
+      "bounds": "theoretical"
+    },
+    "face": {
+      "lower": -3.0,
+      "upper": 3.0,
+      "transform": "linear",
+      "bounds": "artificial"
+    },
+    "communication": {
+      "lower": -1,
+      "upper": 1,
+      "transform": "linear",
+      "bounds": "theoretical"
+    },
+    "education": "Same fixed person-level bounds and CRITIC as education_index_experiments.ipynb"
+  },
+  "source_people": {
+    "media_score": 1115,
+    "awards_score": 1115,
+    "face_score": 1115,
+    "education": 1123
+  },
+  "ceo_selection": "Each source uses its own Position; education uses its own JSON ceo",
+  "source_ceos": {
+    "media_score": 86,
+    "awards_score": 99,
+    "face_score": 99,
+    "education": 105
+  },
+  "missing_components": {
+    "all_managers": {
+      "media_score": 1,
+      "awards_score": 1,
+      "expertise_score": 0,
+      "face_score": 31,
+      "communication_score": 27
+    },
+    "ceo": {
+      "media_score": 32,
+      "awards_score": 19,
+      "expertise_score": 5,
+      "face_score": 67,
+      "communication_score": 27
+    }
+  },
+  "nameless_rows_excluded": {
+    "media_score": [
+      {
+        "ticker": "QIWI",
+        "Company": "КИВИ ПиЭлСи"
+      }
+    ],
+    "awards_score": [
+      {
+        "ticker": "QIWI",
+        "Company": "КИВИ ПиЭлСи"
+      }
+    ],
+    "face_score": [
+      {
+        "ticker": "QIWI",
+        "Company": "КИВИ ПиЭлСи"
+      }
+    ]
+  },
+  "outputs": [
+    "/Users/mac/Reputation project/index_data.csv",
+    "/Users/mac/Reputation project/index_data_ceo.csv"
+  ]
+}

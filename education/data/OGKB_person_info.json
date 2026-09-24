@@ -1,0 +1,1120 @@
+{
+  "company_name": "ПАО \"ОГК-2\"",
+  "company_ticker": "OGKB",
+  "ceo": {
+    "name": "Семиколенов Артем Викторович",
+    "current_role": "Генеральный директор (управляющий директор) по входному CSV; официальные документы ОГК-2 за 2024 год указывают, что полномочия единоличного исполнительного органа переданы управляющей организации, поэтому роль трактуется как операционный руководитель/CEO-equivalent с оговоркой.",
+    "company_name": "ПАО \"ОГК-2\"",
+    "education": [
+      {
+        "institution": "Самарская гуманитарная академия",
+        "year": null,
+        "details": "Специальность \"юриспруденция\".",
+        "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+        "qualification_degree": null
+      },
+      {
+        "institution": "Российская академия государственной службы при Президенте РФ",
+        "year": null,
+        "details": "Специальность \"Государственное и муниципальное управление\".",
+        "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+        "qualification_degree": null
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "ООО \"Газпром энерго\"",
+        "role": "Генеральный директор",
+        "start_year": 2015,
+        "end_year": 2018,
+        "description": "Официальный годовой отчет ОГК-2 за 2020 год приводит этот период в биографии.",
+        "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Multi-Utilities"
+      },
+      {
+        "organization": "ПАО \"ОГК-2\"",
+        "role": "Управляющий директор",
+        "start_year": 2018,
+        "end_year": null,
+        "description": "Историческая биография ОГК-2 за 2020 год указывает членство в Совете директоров с 2019 года; сообщение НРД о ГOСА 18.06.2024 включает его в список кандидатов, но не является достаточным подтверждением избрания.",
+        "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Independent Power and Renewable Electricity Producers"
+      },
+      {
+        "organization": "ПАО \"ОГК-2\"",
+        "role": "Член Совета директоров",
+        "start_year": 2019,
+        "end_year": null,
+        "description": "Историческая биография ОГК-2 за 2020 год указывает членство в Совете директоров с 2019 года; сообщение НРД о ГOСА 18.06.2024 включает его в список кандидатов, но не является достаточным подтверждением избрания.",
+        "source_url": "https://octan.ru/deponews/2024/06/26/I2169642/",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Independent Power and Renewable Electricity Producers"
+      },
+      {
+        "organization": "ООО \"ОГК-Инвестпроект\"",
+        "role": "Генеральный директор",
+        "start_year": 2019,
+        "end_year": 2020,
+        "description": "Указано в годовом отчете ОГК-2 за 2020 год.",
+        "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "Строки OGKB содержат Семиколенова Артема Викторовича как генерального директора (управляющего директора) и отдельной строкой как исполнительного директора."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/OGKB/FS_OGK_2_12m_2024_RUS_s-AZ.pdf",
+        "title": "Консолидированная финансовая отчетность ПАО \"ОГК-2\" за 2024 год",
+        "fact": "Страницы 3-4: управляющая организация ООО \"Газпром энергохолдинг\" несет ответственность за отчетность; персональная биография Семиколенова в документе не раскрыта."
+      },
+      {
+        "url": "https://ogk2.ru/upload/iblock/341/lec9bmoq2waq5wjs2ki1p87lgkiky23u/Godovoy-otchet-za-2024.pdf",
+        "title": "Годовой отчет ПАО \"ОГК-2\" за 2024 год",
+        "fact": "Страница 14: полномочия единоличного исполнительного органа переданы управляющей организации решением ГОСА от 26.06.2018."
+      },
+      {
+        "url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+        "title": "Годовой отчет ПАО \"ОГК-2\" за 2020 год",
+        "fact": "Страница 115: приведены образование Семиколенова и биография: управляющий директор ПАО \"ОГК-2\" с 2018 года, член Совета директоров с 2019 года."
+      },
+      {
+        "url": "https://octan.ru/deponews/2024/06/26/I2169642/",
+        "title": "Сообщение НРД о прошедшем ГОСА ПАО \"ОГК-2\" 18.06.2024",
+        "fact": "Визуализированное сообщение НРД через депозитарий содержит Семиколенова среди кандидатов в Совет директоров по вопросу 3.1.9."
+      }
+    ],
+    "notes": "Идентичность подтверждена полным ФИО, связью с ПАО \"ОГК-2\" и должностью управляющего директора в официальном отчете. Данные о назначении генеральным директором с 28.03.2025 не перенесены в контекст 2024 года."
+  },
+  "tmt": [
+    {
+      "name": "Абдуллин Роман Эдуардович",
+      "current_role": "Неисполнительный директор по входному CSV; историческое членство в Совете директоров ОГК-2 подтверждено официальными годовыми отчетами 2019-2020, но актуальность именно в составе 2024 года не подтверждена найденным сообщением ГОСА 2024.",
+      "company_name": "ПАО \"ОГК-2\"",
+      "education": [
+        {
+          "institution": "РГУ нефти и газа им. Губкина",
+          "year": null,
+          "details": "Высшее образование; специальность в использованных источниках не раскрыта.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Газпром\"",
+          "role": "Заместитель начальника Департамента",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "Годовой отчет ОГК-2 за 2020 год указывает эту должность как текущую на дату отчета.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ПАО \"ОГК-2\"",
+          "role": "Член Совета директоров",
+          "start_year": 2016,
+          "end_year": null,
+          "description": "Официальный отчет ОГК-2 за 2020 год указывает членство в Совете директоров с 2016 года; в найденном сообщении ГОСА 2024 он не указан среди кандидатов.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "АО \"Газпром энергоремонт\", ПАО \"МОЭК\", ОАО \"Газпром трансгаз Беларусь\", ЗАО \"Газпром Армения\"",
+          "role": "Член советов директоров/наблюдательного совета",
+          "start_year": 2016,
+          "end_year": null,
+          "description": "Годовой отчет ОГК-2 за 2020 год перечисляет эти органы управления среди корпоративных ролей.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Абдуллина Романа Эдуардовича как неисполнительного директора по тикеру OGKB."
+        },
+        {
+          "url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "title": "Годовой отчет ПАО \"ОГК-2\" за 2020 год",
+          "fact": "Страницы 108-109: приведены год рождения, образование, должность в ПАО \"Газпром\" и членство в органах управления."
+        },
+        {
+          "url": "https://www.ogk2.ru/upload/iblock/512/ddaf5ba055303f3eb7302f04c4ed40ce.pdf",
+          "title": "Годовой отчет ПАО \"ОГК-2\" за 2019 год",
+          "fact": "Страницы 102-103 подтверждают образование и сходный карьерный контекст Абдуллина."
+        },
+        {
+          "url": "https://octan.ru/deponews/2024/06/26/I2169642/",
+          "title": "Сообщение НРД о ГОСА ПАО \"ОГК-2\" 18.06.2024",
+          "fact": "Список кандидатов по вопросу 3.1 в визуализированном сообщении не содержит Абдуллина, что является ограничением для подтверждения актуального состава 2024 года."
+        }
+      ],
+      "notes": "Однофамильцы не смешивались: якорь идентичности - полное ФИО, должность в Газпроме и членство в СД ОГК-2 в официальных отчетах. Дальнейшие 2024-биографии не найдены."
+    },
+    {
+      "name": "Бикмурзин Альберт Фяритович",
+      "current_role": "Неисполнительный директор по входному CSV; включен в список кандидатов в Совет директоров на ГОСА 18.06.2024, но визуализированное сообщение НРД не дает надежного персонального результата избрания.",
+      "company_name": "ПАО \"ОГК-2\"",
+      "education": [
+        {
+          "institution": "Московский университет потребительской кооперации",
+          "year": null,
+          "details": "Квалификация юрист по специальности \"Юриспруденция\".",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "НОЧУ ВО \"Экономико-энергетический институт\"",
+          "year": null,
+          "details": "Квалификация экономист-менеджер.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ООО \"Газпром энергохолдинг\"",
+          "role": "Заместитель генерального директора по правовым и имущественным вопросам",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "В отчете 2020 года показана эволюция корпоративно-правовых должностей до заместителя генерального директора.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ООО \"МОЭК-Финанс\"",
+          "role": "Генеральный директор",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "Указано в официальной биографии ОГК-2.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ООО \"МТЭР Холдинг\"",
+          "role": "Генеральный директор",
+          "start_year": 2016,
+          "end_year": null,
+          "description": "Указано в официальной биографии ОГК-2.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"ОГК-2\"",
+          "role": "Член Совета директоров",
+          "start_year": 2018,
+          "end_year": null,
+          "description": "Официальный отчет 2020 года указывает членство с 2018 года; сообщение НРД по ГОСА 2024 включает его как кандидата.",
+          "source_url": "https://octan.ru/deponews/2024/06/26/I2169642/",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [
+        {
+          "description": "В 2015-2018 годах был преподавателем кафедры энергетического права Университета имени О.Е. Кутафина по совместительству; научные публикации не подтверждены.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf"
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Бикмурзина Альберта Фяритовича как неисполнительного директора по тикеру OGKB."
+        },
+        {
+          "url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "title": "Годовой отчет ПАО \"ОГК-2\" за 2020 год",
+          "fact": "Страницы 109-110: приведены образование, должности в Газпром энергохолдинге, МОЭК-Финанс и МТЭР Холдинг."
+        },
+        {
+          "url": "https://octan.ru/deponews/2024/06/26/I2169642/",
+          "title": "Сообщение НРД о ГОСА ПАО \"ОГК-2\" 18.06.2024",
+          "fact": "Вопрос 3.1.1 содержит Бикмурзина среди кандидатов в Совет директоров."
+        }
+      ],
+      "notes": "Полное ФИО и корпоративные роли в Газпром энергохолдинге позволяют отделить профиль от однофамильцев. Подтвержденного h-index или патентов не найдено."
+    },
+    {
+      "name": "Рогалев Николай Дмитриевич",
+      "current_role": "Независимый директор по входному CSV; ректор НИУ \"МЭИ\" и член Совета директоров ОГК-2 в профильных источниках.",
+      "company_name": "ПАО \"ОГК-2\"",
+      "education": [
+        {
+          "institution": "Московский энергетический институт",
+          "year": 1985,
+          "details": "Окончил теплоэнергетический факультет; в отчете ОГК-2 указана специальность \"Тепловые электрические станции\".",
+          "source_url": "https://www.mpei.ru/Structure/managementpersonnel/rector/Pages/biography.aspx",
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат технических наук",
+          "year": 1988,
+          "source_url": "https://www.mpei.ru/Structure/managementpersonnel/rector/Pages/biography.aspx",
+          "qualification_degree": "Doctoral degree"
+        },
+        {
+          "degree": "Доктор технических наук",
+          "year": 1999,
+          "source_url": "https://www.mpei.ru/Structure/managementpersonnel/rector/Pages/biography.aspx",
+          "qualification_degree": "Doctoral degree"
+        },
+        {
+          "degree": "Профессор",
+          "year": 2005,
+          "source_url": "https://www.mpei.ru/Structure/managementpersonnel/rector/Pages/biography.aspx",
+          "qualification_degree": null
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "НИУ \"МЭИ\"",
+          "role": "Ректор",
+          "start_year": 2013,
+          "end_year": null,
+          "description": "Официальная биография НИУ МЭИ указывает, что Рогалев возглавил университет с 2013 года и был переизбран в 2018 и 2023 годах.",
+          "source_url": "https://www.mpei.ru/Structure/managementpersonnel/rector/Pages/biography.aspx",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "НИУ \"МЭИ\"",
+          "role": "Заведующий кафедрой, профессор",
+          "start_year": 2001,
+          "end_year": null,
+          "description": "Официальная биография МЭИ указывает кафедральную и профессорскую деятельность.",
+          "source_url": "https://www.mpei.ru/Structure/managementpersonnel/rector/Pages/biography.aspx",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"ОГК-2\"",
+          "role": "Член Совета директоров",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "Отчет ОГК-2 за 2020 год указывает членство с 2020 года; сообщение НРД по ГОСА 2024 включает его в список кандидатов.",
+          "source_url": "https://octan.ru/deponews/2024/06/26/I2169642/",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО \"Россети\" и ПАО \"РусГидро\"",
+          "role": "Член Совета директоров",
+          "start_year": 2016,
+          "end_year": null,
+          "description": "Официальный отчет ОГК-2 за 2020 год указывает эти роли.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [
+        {
+          "description": "Стажировался как ведущий исследователь в Институте инноваций, креативности и капитала Университета Техаса и как visiting scholar в Университете Техаса в Остине.",
+          "source_url": "https://www.mpei.ru/Structure/managementpersonnel/rector/Pages/biography.aspx"
+        },
+        {
+          "description": "Научные интересы: проблемы топливно-энергетического комплекса, возобновляемые источники энергии, цифровизация энергетики, водородная энергетика, трансфер и коммерциализация технологий, инженерное образование.",
+          "source_url": "https://www.mpei.ru/Structure/managementpersonnel/rector/Pages/biography.aspx"
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Рогалева Николая Дмитриевича как независимого директора по тикеру OGKB."
+        },
+        {
+          "url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "title": "Годовой отчет ПАО \"ОГК-2\" за 2020 год",
+          "fact": "Страница 111: указаны образование в МЭИ, должность ректора НИУ МЭИ и членство в Совете директоров ОГК-2 с 2020 года."
+        },
+        {
+          "url": "https://www.mpei.ru/Structure/managementpersonnel/rector/Pages/biography.aspx",
+          "title": "Николай Дмитриевич Рогалев - биография на сайте НИУ МЭИ",
+          "fact": "Официальная биография МЭИ подтверждает образование, кандидатскую и докторскую диссертации, профессорское звание, ректорство и связь с советом директоров ОГК-2."
+        },
+        {
+          "url": "https://octan.ru/deponews/2024/06/26/I2169642/",
+          "title": "Сообщение НРД о ГОСА ПАО \"ОГК-2\" 18.06.2024",
+          "fact": "Вопрос 3.1.7 содержит Рогалева среди кандидатов в Совет директоров."
+        }
+      ],
+      "notes": "Академический профиль однозначно относится к тому же человеку: совпадают ФИО, МЭИ, энергетическая отрасль и связь с ОГК-2. Публикации и h-index не добавлены, потому что верифицированный научный профиль с метриками не был подтвержден в открытых источниках."
+    },
+    {
+      "name": "Земляной Евгений Николаевич",
+      "current_role": "Неисполнительный директор по входному CSV; включен в список кандидатов в Совет директоров на ГОСА 18.06.2024.",
+      "company_name": "ПАО \"ОГК-2\"",
+      "education": [
+        {
+          "institution": "Российский экономический университет имени Г.В. Плеханова",
+          "year": null,
+          "details": "Высшее образование; специальность в использованном источнике не раскрыта.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ООО \"Газпром энергохолдинг\"",
+          "role": "Заместитель генерального директора по экономике и финансам",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "Указано в годовом отчете ОГК-2 за 2020 год.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ООО \"ГЭХ Финанс\"",
+          "role": "Генеральный директор",
+          "start_year": 2017,
+          "end_year": null,
+          "description": "Указано в годовом отчете ОГК-2 за 2020 год.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"ОГК-2\"",
+          "role": "Член Совета директоров",
+          "start_year": 2016,
+          "end_year": null,
+          "description": "Историческое членство подтверждено отчетом 2020 года; сообщение НРД по ГОСА 2024 включает его как кандидата.",
+          "source_url": "https://octan.ru/deponews/2024/06/26/I2169642/",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО \"ОГК-2\"",
+          "role": "Заместитель генерального директора по экономике и финансам, член Правления",
+          "start_year": 2015,
+          "end_year": 2016,
+          "description": "Указано в исторической биографии годового отчета ОГК-2.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Земляного Евгения Николаевича как неисполнительного директора по тикеру OGKB."
+        },
+        {
+          "url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "title": "Годовой отчет ПАО \"ОГК-2\" за 2020 год",
+          "fact": "Страницы 110-111: указаны образование, должности в Газпром энергохолдинге и ГЭХ Финанс, членство в СД ОГК-2."
+        },
+        {
+          "url": "https://octan.ru/deponews/2024/06/26/I2169642/",
+          "title": "Сообщение НРД о ГОСА ПАО \"ОГК-2\" 18.06.2024",
+          "fact": "Вопрос 3.1.3 содержит Земляного среди кандидатов в Совет директоров."
+        }
+      ],
+      "notes": "Биографические сведения подтверждены официальным отчетом; независимого источника с более свежей полной биографией не найдено."
+    },
+    {
+      "name": "Коробкина Ирина Юрьевна",
+      "current_role": "Неисполнительный директор по входному CSV; включена в список кандидатов в Совет директоров на ГОСА 18.06.2024.",
+      "company_name": "ПАО \"ОГК-2\"",
+      "education": [
+        {
+          "institution": "Московская государственная юридическая академия им. О.Е. Кутафина",
+          "year": null,
+          "details": "Высшее юридическое образование.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "qualification_degree": null
+        },
+        {
+          "institution": "Государственный университет управления",
+          "year": null,
+          "details": "Высшее образование; программа в использованном источнике не раскрыта.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Газпром\"",
+          "role": "Заместитель начальника Управления",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "Годовой отчет ОГК-2 за 2020 год указывает карьерный путь в Управлении ПАО \"Газпром\".",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ПАО \"Центрэнергохолдинг\"",
+          "role": "Заместитель генерального директора",
+          "start_year": 2017,
+          "end_year": null,
+          "description": "Указано в годовом отчете ОГК-2 за 2020 год.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"ОГК-2\"",
+          "role": "Член Совета директоров",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "Историческое членство подтверждено отчетом 2020 года; сообщение НРД по ГОСА 2024 включает ее как кандидата.",
+          "source_url": "https://octan.ru/deponews/2024/06/26/I2169642/",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Коробкину Ирину Юрьевну как неисполнительного директора по тикеру OGKB."
+        },
+        {
+          "url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "title": "Годовой отчет ПАО \"ОГК-2\" за 2020 год",
+          "fact": "Страницы 112-113: указаны образование, должности в Газпроме и Центрэнергохолдинге, членство в органах управления."
+        },
+        {
+          "url": "https://octan.ru/deponews/2024/06/26/I2169642/",
+          "title": "Сообщение НРД о ГОСА ПАО \"ОГК-2\" 18.06.2024",
+          "fact": "Вопрос 3.1.4 содержит Коробкину среди кандидатов в Совет директоров."
+        }
+      ],
+      "notes": "Идентичность подтверждена полным ФИО и корпоративным контуром Газпром/ОГК-2. Публикации, патенты и ученые степени не подтверждены."
+    },
+    {
+      "name": "Зайцев Сергей Артурович",
+      "current_role": "Неисполнительный директор по входному CSV; в официальной биографии ОГК-2 за 2020 год указан как заместитель управляющего директора по производству - главный инженер и член Совета директоров.",
+      "company_name": "ПАО \"ОГК-2\"",
+      "education": [
+        {
+          "institution": "Московский энергетический институт (технический университет)",
+          "year": null,
+          "details": "Специальность \"Тепловые электрические станции\".",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Мосэнерго\"",
+          "role": "Директор ТЭЦ-26",
+          "start_year": 2015,
+          "end_year": 2017,
+          "description": "Указано в биографии годового отчета ОГК-2 за 2020 год.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО \"ОГК-2\"",
+          "role": "Заместитель управляющего директора по производству - главный инженер",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "Историческое членство подтверждено отчетом 2020 года; в найденном сообщении ГОСА 2024 Зайцев не указан среди кандидатов.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО \"ОГК-2\"",
+          "role": "Член Совета директоров",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "Историческое членство подтверждено отчетом 2020 года; в найденном сообщении ГОСА 2024 Зайцев не указан среди кандидатов.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Зайцева Сергея Артуровича как неисполнительного директора по тикеру OGKB."
+        },
+        {
+          "url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "title": "Годовой отчет ПАО \"ОГК-2\" за 2020 год",
+          "fact": "Страницы 117-118: указаны образование в МЭИ, должность заместителя управляющего директора по производству - главного инженера и членство в СД ОГК-2 с 2020 года."
+        },
+        {
+          "url": "https://octan.ru/deponews/2024/06/26/I2169642/",
+          "title": "Сообщение НРД о ГОСА ПАО \"ОГК-2\" 18.06.2024",
+          "fact": "Список кандидатов по вопросу 3.1 не содержит Зайцева, что является ограничением для подтверждения актуального состава 2024 года."
+        }
+      ],
+      "notes": "Связь с ОГК-2 подтверждена исторической официальной биографией; актуальность членства в совете на 2024 год не подтверждена."
+    },
+    {
+      "name": "Пятницев Валерий Геннадьевич",
+      "current_role": "Независимый директор по входному CSV; включен в список кандидатов в Совет директоров на ГОСА 18.06.2024.",
+      "company_name": "ПАО \"ОГК-2\"",
+      "education": [
+        {
+          "institution": "Московский государственный горный университет",
+          "year": null,
+          "details": "Специальность экономист-менеджер.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "АО \"ИК \"Регион\"",
+          "role": "Директор Департамента стратегических инвестиций",
+          "start_year": 2015,
+          "end_year": 2016,
+          "description": "Указано в годовом отчете ОГК-2 за 2020 год.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "АО \"ФИНАМ\"",
+          "role": "Директор по стратегии",
+          "start_year": 2017,
+          "end_year": null,
+          "description": "Указано в годовом отчете ОГК-2 за 2020 год.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "Ассоциация профессиональных директоров АНД",
+          "role": "Руководитель Комитета по избранию директоров в акционерные общества",
+          "start_year": 2018,
+          "end_year": null,
+          "description": "Указано в годовом отчете ОГК-2 за 2020 год.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"ОГК-2\"",
+          "role": "Член Совета директоров",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Отчет 2020 года указывает членство с 2019 года; сообщение НРД по ГОСА 2024 включает его как кандидата.",
+          "source_url": "https://octan.ru/deponews/2024/06/26/I2169642/",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Пятницева Валерия Геннадьевича как независимого директора по тикеру OGKB."
+        },
+        {
+          "url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "title": "Годовой отчет ПАО \"ОГК-2\" за 2020 год",
+          "fact": "Страницы 116-117: указаны образование, роли в ФИНАМ, Ассоциации независимых директоров и членство в СД ОГК-2."
+        },
+        {
+          "url": "https://octan.ru/deponews/2024/06/26/I2169642/",
+          "title": "Сообщение НРД о ГОСА ПАО \"ОГК-2\" 18.06.2024",
+          "fact": "Вопрос 3.1.6 содержит Пятницева среди кандидатов в Совет директоров."
+        }
+      ],
+      "notes": "Биографические сведения подтверждены корпоративным отчетом; научные публикации и степени не найдены."
+    },
+    {
+      "name": "Рогов Александр Владимирович",
+      "current_role": "Неисполнительный директор по входному CSV; включен в список кандидатов в Совет директоров на ГОСА 18.06.2024.",
+      "company_name": "ПАО \"ОГК-2\"",
+      "education": [
+        {
+          "institution": "Московский государственный университет им. М.В. Ломоносова",
+          "year": null,
+          "details": "Высшее образование; факультет/специальность в использованном источнике не раскрыты.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат физико-математических наук",
+          "year": null,
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Газпром\"",
+          "role": "Заместитель начальника Управления - начальник отдела",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "Указано в годовом отчете ОГК-2 за 2020 год.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ПАО \"МОЭК\"",
+          "role": "Заместитель управляющего директора - директор по стратегии",
+          "start_year": 2015,
+          "end_year": 2020,
+          "description": "Указано в годовом отчете ОГК-2 за 2020 год.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Multi-Utilities"
+        },
+        {
+          "organization": "ООО \"ГЭХ Индустриальные активы\"",
+          "role": "Генеральный директор",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "Указано в годовом отчете ОГК-2 за 2020 год.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"ОГК-2\"",
+          "role": "Член Совета директоров",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "Отчет 2020 года указывает членство с 2015 года; сообщение НРД по ГОСА 2024 включает его как кандидата.",
+          "source_url": "https://octan.ru/deponews/2024/06/26/I2169642/",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [
+        {
+          "description": "Подтверждена ученая степень кандидата физико-математических наук; отдельные публикации и научный профиль не подтверждены.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf"
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Рогова Александра Владимировича как неисполнительного директора по тикеру OGKB."
+        },
+        {
+          "url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "title": "Годовой отчет ПАО \"ОГК-2\" за 2020 год",
+          "fact": "Страницы 113-115: указаны образование в МГУ, степень кандидата физико-математических наук, должности в Газпроме и ГЭХ Индустриальные активы."
+        },
+        {
+          "url": "https://octan.ru/deponews/2024/06/26/I2169642/",
+          "title": "Сообщение НРД о ГОСА ПАО \"ОГК-2\" 18.06.2024",
+          "fact": "Вопрос 3.1.8 содержит Рогова среди кандидатов в Совет директоров."
+        }
+      ],
+      "notes": "Степень сохранена, но h-index и публикации не добавлены без подтвержденного научного профиля нужного человека."
+    },
+    {
+      "name": "Шацкий Павел Олегович",
+      "current_role": "Неисполнительный директор по входному CSV; включен в список кандидатов в Совет директоров на ГОСА 18.06.2024.",
+      "company_name": "ПАО \"ОГК-2\"",
+      "education": [
+        {
+          "institution": "Российский государственный аграрный заочный университет",
+          "year": null,
+          "details": "Высшее образование; специальность в использованном источнике не раскрыта.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "qualification_degree": "Unknown"
+        },
+        {
+          "institution": "Государственный университет управления",
+          "year": null,
+          "details": "Высшее образование; программа в использованном источнике не раскрыта.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ООО \"Газпром энергохолдинг\"",
+          "role": "Первый заместитель генерального директора",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "Указано в годовом отчете ОГК-2 за 2020 год.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"ОГК-2\"",
+          "role": "Член Совета директоров",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "Отчет 2020 года указывает членство с 2015 года; сообщение НРД по ГОСА 2024 включает его как кандидата.",
+          "source_url": "https://octan.ru/deponews/2024/06/26/I2169642/",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО \"ТГК-1\", ПАО \"МОЭК\", ПАО \"Мосэнерго\", АО \"Газпром энергоремонт\"",
+          "role": "Член советов директоров",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "Перечислено в официальной биографии ОГК-2 за 2020 год.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Шацкого Павла Олеговича как неисполнительного директора по тикеру OGKB."
+        },
+        {
+          "url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "title": "Годовой отчет ПАО \"ОГК-2\" за 2020 год",
+          "fact": "Страницы 115-116: указаны образование, должность первого заместителя генерального директора Газпром энергохолдинга и членство в советах директоров."
+        },
+        {
+          "url": "https://octan.ru/deponews/2024/06/26/I2169642/",
+          "title": "Сообщение НРД о ГОСА ПАО \"ОГК-2\" 18.06.2024",
+          "fact": "Вопрос 3.1.12 содержит Шацкого среди кандидатов в Совет директоров."
+        }
+      ],
+      "notes": "Идентичность подтверждена полным ФИО и устойчивым корпоративным контуром Газпром энергохолдинга/ОГК-2."
+    },
+    {
+      "name": "Куликов Денис Викторович",
+      "current_role": "Независимый директор по входному CSV; историческое членство в Совете директоров ОГК-2 подтверждено годовым отчетом 2019, но в составе кандидатов ГОСА 2024 он не найден.",
+      "company_name": "ПАО \"ОГК-2\"",
+      "education": [
+        {
+          "institution": "Московская государственная юридическая академия им. О.Е. Кутафина",
+          "year": null,
+          "details": "Квалификация юрист.",
+          "source_url": "https://www.ogk2.ru/upload/iblock/512/ddaf5ba055303f3eb7302f04c4ed40ce.pdf",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Ассоциация профессиональных инвесторов",
+          "role": "Исполнительный директор",
+          "start_year": 2014,
+          "end_year": 2015,
+          "description": "Указано в годовом отчете ОГК-2 за 2019 год.",
+          "source_url": "https://www.ogk2.ru/upload/iblock/512/ddaf5ba055303f3eb7302f04c4ed40ce.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Ассоциация профессиональных инвесторов",
+          "role": "Советник исполнительного директора",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "Указано в годовом отчете ОГК-2 за 2019 год.",
+          "source_url": "https://www.ogk2.ru/upload/iblock/512/ddaf5ba055303f3eb7302f04c4ed40ce.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"ОГК-2\"",
+          "role": "Член Совета директоров",
+          "start_year": 2016,
+          "end_year": null,
+          "description": "Годовой отчет 2019 указывает членство с 2016 года; в годовом отчете 2020 он показан в составе, действовавшем до 24.06.2020, и не входит в новый состав 2020.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО \"ТЗА\"",
+          "role": "Член Совета директоров",
+          "start_year": 2016,
+          "end_year": null,
+          "description": "Указано в годовом отчете ОГК-2 за 2019 год.",
+          "source_url": "https://www.ogk2.ru/upload/iblock/512/ddaf5ba055303f3eb7302f04c4ed40ce.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Куликова Дениса Викторовича как независимого директора по тикеру OGKB."
+        },
+        {
+          "url": "https://www.ogk2.ru/upload/iblock/512/ddaf5ba055303f3eb7302f04c4ed40ce.pdf",
+          "title": "Годовой отчет ПАО \"ОГК-2\" за 2019 год",
+          "fact": "Страница 105: указаны образование, должность советника исполнительного директора Ассоциации профессиональных инвесторов и членство в СД ОГК-2."
+        },
+        {
+          "url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "title": "Годовой отчет ПАО \"ОГК-2\" за 2020 год",
+          "fact": "Страница 118: таблица изменений показывает Куликова в составе, действовавшем до 24.06.2020, и его отсутствие в новом составе 2020."
+        },
+        {
+          "url": "https://octan.ru/deponews/2024/06/26/I2169642/",
+          "title": "Сообщение НРД о ГОСА ПАО \"ОГК-2\" 18.06.2024",
+          "fact": "Список кандидатов по вопросу 3.1 не содержит Куликова, что является ограничением для подтверждения актуального состава 2024 года."
+        }
+      ],
+      "notes": "Биография подтверждена для исторического члена СД. В 2024 году актуальное членство не подтверждено и конфликтует с найденным списком кандидатов."
+    },
+    {
+      "name": "Дмитриев Андрей Игоревич",
+      "current_role": "Неисполнительный директор по входному CSV; историческое членство в Совете директоров ОГК-2 подтверждено годовым отчетом 2019, но в составе кандидатов ГОСА 2024 он не найден.",
+      "company_name": "ПАО \"ОГК-2\"",
+      "education": [
+        {
+          "institution": "Волжская академия водного транспорта",
+          "year": null,
+          "details": "Высшее образование; специальность в использованном источнике не раскрыта.",
+          "source_url": "https://www.ogk2.ru/upload/iblock/512/ddaf5ba055303f3eb7302f04c4ed40ce.pdf",
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ООО/АО \"Газпром газэнергосеть\"",
+          "role": "Генеральный директор",
+          "start_year": 2014,
+          "end_year": 2016,
+          "description": "Указано в годовом отчете ОГК-2 за 2019 год.",
+          "source_url": "https://www.ogk2.ru/upload/iblock/512/ddaf5ba055303f3eb7302f04c4ed40ce.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"Газпром\"",
+          "role": "Первый заместитель начальника Департамента",
+          "start_year": 2016,
+          "end_year": 2019,
+          "description": "Указано в годовом отчете ОГК-2 за 2019 год.",
+          "source_url": "https://www.ogk2.ru/upload/iblock/512/ddaf5ba055303f3eb7302f04c4ed40ce.pdf",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ПАО \"ОГК-2\"",
+          "role": "Член Совета директоров",
+          "start_year": 2018,
+          "end_year": null,
+          "description": "Годовой отчет 2019 указывает членство с 2018 года; в годовом отчете 2020 он показан в составе, действовавшем до 24.06.2020, и не входит в новый состав 2020.",
+          "source_url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ООО \"Газпром газомоторное топливо\"",
+          "role": "Генеральный директор",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Указано в годовом отчете ОГК-2 за 2019 год.",
+          "source_url": "https://www.ogk2.ru/upload/iblock/512/ddaf5ba055303f3eb7302f04c4ed40ce.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ООО \"Газпром переработка\"",
+          "role": "Советник генерального директора",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Указано в годовом отчете ОГК-2 за 2019 год.",
+          "source_url": "https://www.ogk2.ru/upload/iblock/512/ddaf5ba055303f3eb7302f04c4ed40ce.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Дмитриева Андрея Игоревича как неисполнительного директора по тикеру OGKB."
+        },
+        {
+          "url": "https://www.ogk2.ru/upload/iblock/512/ddaf5ba055303f3eb7302f04c4ed40ce.pdf",
+          "title": "Годовой отчет ПАО \"ОГК-2\" за 2019 год",
+          "fact": "Страницы 111-112: указаны образование, должности в Газпроме, Газпром газомоторном топливе, Газпром переработке и членство в СД ОГК-2."
+        },
+        {
+          "url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+          "title": "Годовой отчет ПАО \"ОГК-2\" за 2020 год",
+          "fact": "Страница 118: таблица изменений показывает Дмитриева в составе, действовавшем до 24.06.2020, и его отсутствие в новом составе 2020."
+        },
+        {
+          "url": "https://octan.ru/deponews/2024/06/26/I2169642/",
+          "title": "Сообщение НРД о ГОСА ПАО \"ОГК-2\" 18.06.2024",
+          "fact": "Список кандидатов по вопросу 3.1 не содержит Дмитриева, что является ограничением для подтверждения актуального состава 2024 года."
+        }
+      ],
+      "notes": "Биография подтверждена официальным отчетом за 2019 год, но актуальное членство в 2024 году не подтверждено."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/OGKB/FS_OGK_2_12m_2024_RUS_s-AZ.pdf",
+      "title": "Консолидированная финансовая отчетность ПАО \"ОГК-2\" за 2024 год",
+      "fact": "Страницы 1-4: локальный документ подтверждает компанию ПАО \"ОГК-2\" и управляющую организацию ООО \"Газпром энергохолдинг\", но не содержит персональных биографий или состава Совета директоров."
+    },
+    {
+      "url": "https://ogk2.ru/upload/iblock/341/lec9bmoq2waq5wjs2ki1p87lgkiky23u/Godovoy-otchet-za-2024.pdf",
+      "title": "Годовой отчет ПАО \"ОГК-2\" за 2024 год",
+      "fact": "Страницы 12-14: отчет описывает Совет директоров и комитеты в 2024 году, но персональный состав не раскрывает; страница 14 подтверждает передачу полномочий ЕИО управляющей организации."
+    },
+    {
+      "url": "https://octan.ru/deponews/2024/06/26/I2169642/",
+      "title": "Сообщение НРД о ГОСА ПАО \"ОГК-2\" 18.06.2024",
+      "fact": "Сообщение содержит дату ГОСА 18.06.2024 и список кандидатов в Совет директоров по вопросу 3.1; список лишь частично совпадает с CSV."
+    },
+    {
+      "url": "https://ogk2.ru/upload/iblock/570/184aa05ccd9621739947919414eafb2a.pdf",
+      "title": "Годовой отчет ПАО \"ОГК-2\" за 2020 год",
+      "fact": "Страницы 108-118: официальный исторический источник биографий большинства людей из CSV; страница 118 показывает изменения состава Совета директоров на 24.06.2020."
+    },
+    {
+      "url": "https://www.ogk2.ru/upload/iblock/512/ddaf5ba055303f3eb7302f04c4ed40ce.pdf",
+      "title": "Годовой отчет ПАО \"ОГК-2\" за 2019 год",
+      "fact": "Страницы 105 и 111-112: официальный исторический источник биографий Куликова и Дмитриева."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.ogk2.ru/aktsioneram-i-investoram/otchetnost/godovye-otchety/",
+      "title": "Годовые отчеты - ПАО \"ОГК-2\"",
+      "fact": "Официальная страница годовых отчетов использовалась для верификации официальных PDF ОГК-2."
+    },
+    {
+      "url": "https://www.mpei.ru/Structure/managementpersonnel/rector/Pages/biography.aspx",
+      "title": "Николай Дмитриевич Рогалев - биография на сайте НИУ МЭИ",
+      "fact": "Использовано для подтверждения образования, степеней и исследовательского опыта Рогалева."
+    }
+  ],
+  "validation_notes": "Обработано 13 строк CSV и 12 уникальных персон; Семиколенов встречается в CSV дважды и помещен в ceo без дублирования в tmt. Проверен 1 локальный документ в MOEXBMI_Отчеты_2024/OGKB; в нем отсутствуют персональные биографии и состав Совета директоров. Выполнен 1 research round на каждого уникального человека, с двумя поисковыми проходами: локальные документы и затем веб-источники/официальные PDF. Существенная неопределенность сохраняется для 4 человек из CSV (Абдуллин, Зайцев, Куликов, Дмитриев): исторические биографии подтверждены, но найденный список кандидатов ГОСА 2024 их не содержит. Для всех персон, кроме Рогалева и Рогова, подтвержденные ученые степени не найдены; для всех, кроме Бикмурзина и Рогалева, исследовательский опыт не подтвержден. Для Рогалева и Рогова h-index, патенты и конкретные публикации не добавлены без однозначного подтвержденного научного профиля/метрик. Слабый источник использован только для ориентира по ГОСА 2024: визуализированное сообщение НРД через сайт Октан-Брокер; оно не заменяет официальное раскрытие ОГК-2, но фиксирует конфликт со списком CSV. Однофамильцы исключались по сочетанию полного ФИО, компании/должности, энергетического корпоративного контура, МЭИ/Газпром/ОГК-2 и дат. Поиск считается завершенным, потому что локальный документ, официальные отчеты 2019/2020/2024, сообщение ГОСА 2024, профиль МЭИ и дополнительные запросы по образованию/карьере/степеням проверены; новых более надежных источников для актуального полного состава 2024 не найдено. QUALITY PASS ROUND 1 (2026-07-31): Step 0 сверка с git HEAD (f973022) подтвердила отсутствие регрессии до начала правок. Desync-фикс: 14 записей qualification_degree заполнены по установленной по корпусу конвенции (Doctoral degree для \"кандидат/доктор ... наук\"; Specialist degree при явно названной квалификации/специальности с квалификационным званием; Unknown при явно упомянутом высшем образовании без раскрытой специальности/программы) — все значения прямо выводятся из уже присутствующего в JSON текста details/degree, факт не менялся, источник не менялся. Genuine-инконсистентностей (несовпадение JSON и notes, конфликт раундов, незакрытая секция Contradictions) не найдено; единственная историческая несостыковка (год докторской степени Рогалева 1998 vs 1999) была уже разрешена в round 1 в пользу официального источника МЭИ и не требует пересмотра. GICS-корректность: некорректных already-non-null ярлыков не найдено (все professional_experience были null до этого раунда). Honest-gap follow-up (бюджет WebSearch в этой сессии был исчерпан до начала работы над тикером — 0 из 200 доступно; использован точечный WebFetch по угадываемым URL вместо полнотекстового поиска): подтверждено и добавлено 23 GICS-триплета из 45 professional_experience — 15 записей \"ПАО \\\"ОГК-2\\\"\" (та же компания, что и сам тикер, классификация уже установлена и источникована на верхнем уровне файла), 4 записи \"ПАО \\\"Газпром\\\"\" (сверка с GAZP_person_info.json в этом же корпусе, Energy/Energy/Oil, Gas & Consumable Fuels), 1 запись \"ПАО \\\"Мосэнерго\\\"\" (сверка с MSNG_person_info.json, Utilities/Utilities/Independent Power and Renewable Electricity Producers), 1 запись \"ПАО \\\"МОЭК\\\"\" (WebFetch ru.wikipedia.org/wiki/МОЭК подтвердил комбинированное тепло+электро снабжение → Multi-Utilities), 1 запись \"АО \\\"ФИНАМ\\\"\" (WebFetch ru.wikipedia.org/wiki/Финам подтвердил брокерско-инвестиционный профиль → Capital Markets), 1 запись \"ООО \\\"Газпром энерго\\\"\" (WebFetch ru.wikipedia.org/wiki/Газпром_энерго подтвердил энерго/тепло/водоснабжение и водоотведение в 43 регионах → Multi-Utilities). Дополнительно подтверждено (WebFetch), что \"ООО \\\"Газпром энергохолдинг\\\"\" — чистая управляющая холдинговая структура без прямой операционной деятельности (владеет ОГК-2/МОЭК/Мосэнерго/ТГК-1), поэтому её 3 вхождения (Бикмурзин, Земляной, Шацкий) корректно остаются null, не пробел. Остаются null как честно неразрешенные пробелы (WebFetch по угадываемым URL не дал результата или не предпринимался в рамках ограниченного бюджета одного раунда на тикер; конкретные запросы см. research_notes/OGKB/quality_pass_round1_20260731.md): ООО \"ОГК-Инвестпроект\", ООО \"МОЭК-Финанс\", ООО \"МТЭР Холдинг\", ООО \"ГЭХ Финанс\", АО \"ИК \\\"Регион\\\"\", ООО \"ГЭХ Индустриальные активы\", ПАО \"Центрэнергохолдинг\", ПАО \"ТЗА\", ООО/АО \"Газпром газэнергосеть\", ООО \"Газпром газомоторное топливо\", ООО \"Газпром переработка\". Остаются null как корректно неклассифицируемые (без ресёрча): некоммерческие ассоциации (Ассоциация профессиональных директоров АНД, Ассоциация профессиональных инвесторов), государственный университет НИУ \"МЭИ\" (образовательное учреждение, не коммерческая GICS-категория), и 3 составные многоорганизационные записи, где объединены работодатели с разной GICS-классификацией (Абдуллин: Газпром энергоремонт/МОЭК/Газпром трансгаз Беларусь/Газпром Армения; Рогалев: Россети и РусГидро; Шацкий: ТГК-1/МОЭК/Мосэнерго/Газпром энергоремонт).",
+  "sector": "Utilities",
+  "industry_group": "Utilities",
+  "industry": "Independent Power and Renewable Electricity Producers"
+}

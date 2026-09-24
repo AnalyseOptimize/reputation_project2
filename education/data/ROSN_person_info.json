@@ -1,0 +1,1378 @@
+{
+    "company_name":  "ПАО \"НК \"Роснефть\"",
+    "company_ticker":  "ROSN",
+    "ceo":  {
+                "name":  "Igor Sechin",
+                "current_role":  "Chief Executive Officer; Chairman of the Management Board, ПАО \"НК \"Роснефть\"; member of the Board of Directors in 2024",
+                "company_name":  "ПАО \"НК \"Роснефть\"",
+                "education":  [
+                                  {
+                                      "program":  "higher education",
+                                      "university":  "Leningrad State University",
+                                      "field":  null,
+                                      "year":  1984,
+                                      "sources":  [
+                                                      {
+                                                          "url":  "https://www.rosneft.ru/upload/site1/document_file/77nkQHx94E.pdf",
+                                                          "title":  "Годовой отчет ОАО \"НК \"Роснефть\" за 2011 год",
+                                                          "fact":  "Страница 86: биография указывает, что Игорь Сечин в 1984 году окончил Ленинградский государственный университет."
+                                                      }
+                                                  ],
+                                      "qualification_degree":  null
+                                  }
+                              ],
+                "degrees":  [
+                                {
+                                    "degree":  "Candidate of Economic Sciences",
+                                    "university":  null,
+                                    "year":  null,
+                                    "sources":  [
+                                                    {
+                                                        "url":  "https://www.rosneft.ru/upload/site1/document_file/77nkQHx94E.pdf",
+                                                        "title":  "Годовой отчет ОАО \"НК \"Роснефть\" за 2011 год",
+                                                        "fact":  "Страница 86: биография указывает ученую степень кандидата экономических наук."
+                                                    }
+                                                ],
+                                    "qualification_degree":  "Doctoral degree"
+                                }
+                            ],
+                "professional_experience":  [
+                                                {
+                                                    "organization":  "ПАО \"НК \"Роснефть\"",
+                                                    "role":  "Chief Executive Officer; Chairman of the Management Board",
+                                                    "start_year":  2012,
+                                                    "end_year":  null,
+                                                    "description":  "Local 2024 annual report confirms Sechin as CEO and Chairman of the Management Board. Official 2024 AGM also lists him as CEO, Chairman of the Management Board and Board member.",
+                                                    "sources":  [
+                                                                    {
+                                                                        "url":  "MOEXBMI_Отчеты_2024/ROSN/Годовой отчет за 2024 г. Роснефть.pdf",
+                                                                        "title":  "Годовой отчет ПАО \"НК \"Роснефть\" за 2024 год",
+                                                                        "fact":  "Страница 2: Игорь Иванович Сечин указан как Главный исполнительный директор и Председатель Правления ПАО \"НК \"Роснефть\"."
+                                                                    },
+                                                                    {
+                                                                        "url":  "https://www.rosneft.ru/press/releases/item/220059/",
+                                                                        "title":  "Состоялось годовое собрание акционеров ПАО \"НК \"Роснефть\"",
+                                                                        "fact":  "28 июня 2024 года официальный релиз включает Игоря Ивановича Сечина в Совет директоров как Главного исполнительного директора, Председателя Правления ПАО \"НК \"Роснефть\"."
+                                                                    }
+                                                                ],
+                                                    "sector":  null,
+                                                    "industry_group":  null,
+                                                    "industry":  null
+                                                },
+                                                {
+                                                    "organization":  "Government of the Russian Federation / Presidential Administration",
+                                                    "role":  "Deputy Head of Presidential Administration; Assistant to the President; Deputy Prime Minister",
+                                                    "start_year":  2000,
+                                                    "end_year":  2012,
+                                                    "description":  "Older official Rosneft biography describes senior Presidential Administration roles from 2000 and Deputy Prime Minister role from 2008 to 2012.",
+                                                    "sources":  [
+                                                                    {
+                                                                        "url":  "https://www.rosneft.ru/upload/site1/document_file/77nkQHx94E.pdf",
+                                                                        "title":  "Годовой отчет ОАО \"НК \"Роснефть\" за 2011 год",
+                                                                        "fact":  "Страница 86: биография перечисляет работу в Администрации Президента РФ с 2000 года и должность заместителя Председателя Правительства РФ в 2008-2012 годах."
+                                                                    }
+                                                                ],
+                                                    "sector":  null,
+                                                    "industry_group":  null,
+                                                    "industry":  null
+                                                }
+                                            ],
+                "research_experience":  [
+
+                                        ],
+                "publications":  [
+
+                                 ],
+                "patents":  [
+
+                            ],
+                "h_index":  null,
+                "sources":  [
+                                {
+                                    "url":  "MOEXBMI_2024.csv",
+                                    "title":  "MOEXBMI_2024.csv",
+                                    "fact":  "CSV contains Igor Sechin as Chief Executive Officer and Director/Board Member for ROSN."
+                                },
+                                {
+                                    "url":  "MOEXBMI_Отчеты_2024/ROSN/Годовой отчет за 2024 г. Роснефть.pdf",
+                                    "title":  "Годовой отчет ПАО \"НК \"Роснефть\" за 2024 год",
+                                    "fact":  "Страница 2 confirms Sechin\u0027s CEO and Management Board Chair role in 2024."
+                                },
+                                {
+                                    "url":  "https://www.rosneft.ru/press/releases/item/220059/",
+                                    "title":  "Состоялось годовое собрание акционеров ПАО \"НК \"Роснефть\"",
+                                    "fact":  "Official 28 June 2024 AGM release confirms Sechin in the 2024 Board of Directors."
+                                }
+                            ],
+                "notes":  "Identity is strongly confirmed by local and official Rosneft sources. Education and degree are from Rosneft\u0027s older official annual report."
+            },
+    "tmt":  [
+                {
+                    "name":  "Petr Lazarev",
+                    "current_role":  "Director of Finance/CFO; Management Board/finance executive, ПАО \"НК \"Роснефть\"",
+                    "company_name":  "ПАО \"НК \"Роснефть\"",
+                    "education":  [
+                                      {
+                                          "program":  "higher education",
+                                          "university":  "Moscow Institute of National Economy named after G.V. Plekhanov",
+                                          "field":  "Finance and Credit",
+                                          "year":  1990,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.rosneft.ru/upload/site1/document_file/77nkQHx94E.pdf",
+                                                              "title":  "Годовой отчет ОАО \"НК \"Роснефть\" за 2011 год",
+                                                              "fact":  "Страница 86: Петр Лазарев в 1990 году окончил Московский институт народного хозяйства им. Г.В. Плеханова по специальности \"Финансы и кредит\"."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"НК \"Роснефть\"",
+                                                        "role":  "Finance Director / CFO",
+                                                        "start_year":  2012,
+                                                        "end_year":  null,
+                                                        "description":  "Rosneft\u0027s older official biography says Lazarev became Finance Director in February 2012; market profiles continue to list him as Finance Director/CFO.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.rosneft.ru/upload/site1/document_file/77nkQHx94E.pdf",
+                                                                            "title":  "Годовой отчет ОАО \"НК \"Роснефть\" за 2011 год",
+                                                                            "fact":  "Страница 86: Лазарев указан как финансовый директор с февраля 2012 года; до этого руководил Казначейством Роснефти с июня 2004 года."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.marketscreener.com/insider/PETR-LAZAREV-A1B7JA/",
+                                                                            "title":  "MarketScreener: Petr Lazarev",
+                                                                            "fact":  "Profile identifies Petr Ivanovich Lazarev as Director of Finance/CFO at Rosneft Oil Co."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Ministry of Finance USSR / financial institutions / Rosneft Treasury",
+                                                        "role":  "Finance and treasury roles",
+                                                        "start_year":  1990,
+                                                        "end_year":  2012,
+                                                        "description":  "Older official Rosneft biography lists finance roles from ministries and banks to Rosneft Treasury before his CFO appointment.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.rosneft.ru/upload/site1/document_file/77nkQHx94E.pdf",
+                                                                            "title":  "Годовой отчет ОАО \"НК \"Роснефть\" за 2011 год",
+                                                                            "fact":  "Страница 86: source lists roles in Ministry of Finance/financial institutions and Rosneft Treasury before 2012."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV contains Petr Lazarev as Director of Finance/CFO for ROSN."
+                                    },
+                                    {
+                                        "url":  "https://www.wsj.com/market-data/quotes/RU/ROSN/company-people",
+                                        "title":  "WSJ: Rosneft company people",
+                                        "fact":  "Company people page lists Petr Ivanovich Lazarev as Finance Director."
+                                    }
+                                ],
+                    "notes":  "The 2024 local annual report does not disclose Management Board membership. Current role is supported by CSV and market/company profile sources, while education and appointment history are supported by Rosneft\u0027s older official annual report."
+                },
+                {
+                    "name":  "Valentin Gennadyevich Mamayev",
+                    "current_role":  "Vice President / Management Board member or corporate officer, ПАО \"НК \"Роснефть\"",
+                    "company_name":  "ПАО \"НК \"Роснефть\"",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"НК \"Роснефть\"",
+                                                        "role":  "Vice President; Management Board member / corporate officer",
+                                                        "start_year":  2021,
+                                                        "end_year":  null,
+                                                        "description":  "Interfax reports that on 5 April 2021 Rosneft Board appointed Valentin Mamayev, then adviser to the CEO in the rank of Vice President and General Director of Samotlorneftegaz, to the Management Board from 6 April 2021.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.interfax.ru/business/759756",
+                                                                            "title":  "Интерфакс: В правление \"Роснефти\" вошел глава \"Самотлорнефтегаза\"",
+                                                                            "fact":  "6 April 2021: source reports appointment of Valentin Mamayev to Rosneft Management Board from 6 April 2021."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.marketscreener.com/insider/VALENTIN-GENNADYEVICH-MAMAYEV-A382YI/",
+                                                                            "title":  "MarketScreener: Valentin Gennadyevich Mamayev",
+                                                                            "fact":  "Profile identifies him as Rosneft Vice President/corporate officer from 2021."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "AO Samotlorneftegaz",
+                                                        "role":  "General Director",
+                                                        "start_year":  null,
+                                                        "end_year":  2021,
+                                                        "description":  "Interfax identifies Mamayev as General Director of Samotlorneftegaz at the time of his Rosneft Management Board appointment.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.interfax.ru/business/759756",
+                                                                            "title":  "Интерфакс: В правление \"Роснефти\" вошел глава \"Самотлорнефтегаза\"",
+                                                                            "fact":  "The article identifies Mamayev as General Director of AO Samotlorneftegaz before the Rosneft Management Board appointment."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV contains Valentin Gennadyevich Mamayev as Corporate Officer/Principal for ROSN."
+                                    },
+                                    {
+                                        "url":  "https://nangs.org/news/business/v-pravlenie-rosnefti-voshel-glava-samotlorneftegaza",
+                                        "title":  "NANGS/Interfax: В правление \"Роснефти\" вошел глава \"Самотлорнефтегаза\"",
+                                        "fact":  "Secondary publication repeats Interfax details on Mamayev\u0027s appointment and Samotlorneftegaz role."
+                                    }
+                                ],
+                    "notes":  "No confirmed education found. Official Rosneft 2024 report does not disclose his biography."
+                },
+                {
+                    "name":  "Yegor Filippov",
+                    "current_role":  "Member of Management Board / corporate officer, ПАО \"НК \"Роснефть\"; formerly acting head of RN-Yuganskneftegaz and Kondaneft",
+                    "company_name":  "ПАО \"НК \"Роснефть\"",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"НК \"Роснефть\"",
+                                                        "role":  "Management Board member / corporate officer",
+                                                        "start_year":  2021,
+                                                        "end_year":  null,
+                                                        "description":  "Market/company profile sources list Yegor Filippov in Rosneft management. CSV also places him in the ROSN corporate officer group.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://markets.businessinsider.com/stocks/rnftf-stock",
+                                                                            "title":  "Business Insider Markets: Rosneft Oil Company Management",
+                                                                            "fact":  "Management list includes Yegor Filippov as Member-Management Board."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.marketscreener.com/quote/stock/ROSNEFT-OIL-6498688/company/",
+                                                                            "title":  "MarketScreener: Rosneft Oil company governance",
+                                                                            "fact":  "Company governance page lists Yegor Filippov in the executive committee/corporate officer group."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "OOO RN-Yuganskneftegaz / AO NK Kondaneft",
+                                                        "role":  "Acting General Director; earlier Chief Engineer of RN-Yuganskneftegaz",
+                                                        "start_year":  2021,
+                                                        "end_year":  null,
+                                                        "description":  "Interfax reports Filippov\u0027s appointment as acting head of Rosneft\u0027s largest producing subsidiary and Kondaneft; TEK-all says he previously worked as chief engineer.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.interfax.ru/business/759289",
+                                                                            "title":  "Интерфакс: \"Роснефть\" поменяла главу крупнейшей \"дочки\"",
+                                                                            "fact":  "2 April 2021: source reports that Egor Igorevich Filippov was appointed acting General Director of RN-Yuganskneftegaz and AO NK Kondaneft."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.tek-all.ru/en/news/id7471-igor-tabachnikov-resigned-as-general-director-of-llc-rn-yuganskneftegaz-and-jsc-nk-kondaneft/",
+                                                                            "title":  "TEK-all: Igor Tabachnikov resigned as General Director...",
+                                                                            "fact":  "Source says Filippov had previously worked as chief engineer of RN-Yuganskneftegaz."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV contains Yegor Filippov as Corporate Officer/Principal for ROSN."
+                                    }
+                                ],
+                    "notes":  "No confirmed education found. Unrelated sports/social-media namesakes were rejected."
+                },
+                {
+                    "name":  "Ural A. Latypov",
+                    "current_role":  "Vice President; Head of Security Service, ПАО \"НК \"Роснефть\"",
+                    "company_name":  "ПАО \"НК \"Роснефть\"",
+                    "education":  [
+                                      {
+                                          "program":  "higher education",
+                                          "university":  "Bashkir State University",
+                                          "field":  null,
+                                          "year":  1997,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.rbc.ru/business/17/03/2017/58cc49d59a79472e2daf269b",
+                                                              "title":  "РБК: \"Роснефть\" нашла преемника генералу ФСБ Феоктистову",
+                                                              "fact":  "RBC reports that Ural Latypov was born in Ufa in 1972 and graduated from Bashkir State University in 1997."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"НК \"Роснефть\"",
+                                                        "role":  "Vice President; Head of Security Service",
+                                                        "start_year":  2017,
+                                                        "end_year":  null,
+                                                        "description":  "Business press and a 2024 presidential decree identify Ural Alfretovich Latypov as Rosneft Vice President / Head of Security Service.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.kommersant.ru/doc/4214090",
+                                                                            "title":  "Коммерсантъ: Членом правления \"Роснефти\" стал глава службы безопасности компании",
+                                                                            "fact":  "Source reports that Rosneft Management Board included Vice President / Head of Security Service Ural Latypov."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.kremlin.ru/acts/bank/50810/page/1",
+                                                                            "title":  "Указ Президента Российской Федерации от 08.07.2024 №573",
+                                                                            "fact":  "The decree names Ural Alfretovich Latypov as Vice President / Head of Security Service of ПАО \"НК \"Роснефть\"."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Prosecutor\u0027s office / Federal Drug Control Service",
+                                                        "role":  "Prosecution and narcotics-control service roles",
+                                                        "start_year":  1996,
+                                                        "end_year":  2017,
+                                                        "description":  "RBC reports service in prosecutor\u0027s offices from 1996 to 2012 and later Federal Drug Control Service management before Rosneft.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.rbc.ru/business/17/03/2017/58cc49d59a79472e2daf269b",
+                                                                            "title":  "РБК: \"Роснефть\" нашла преемника генералу ФСБ Феоктистову",
+                                                                            "fact":  "RBC describes Latypov\u0027s prosecution-service and Federal Drug Control Service career."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV contains Ural A. Latypov as Corporate Officer/Principal for ROSN."
+                                    },
+                                    {
+                                        "url":  "https://www.marketscreener.com/insider/URAL-ALFRETOVICH-LATYPOV-A2F839/",
+                                        "title":  "MarketScreener: Ural Alfretovich Latypov",
+                                        "fact":  "Profile identifies Ural Alfretovich Latypov as Bashneft director and former Rosneft Vice President / Head of Security Service."
+                                    }
+                                ],
+                    "notes":  "Rejected the Belarusian politician Ural Ramdrakovich Latypov as a namesake with different patronymic, age and career."
+                },
+                {
+                    "name":  "Andrey Igorevich Akimov",
+                    "current_role":  "Director/Board Member of ПАО \"НК \"Роснефть\"; Chairman of the Management Board of Gazprombank",
+                    "company_name":  "ПАО \"НК \"Роснефть\"",
+                    "education":  [
+                                      {
+                                          "program":  "higher education",
+                                          "university":  "Moscow Financial Institute",
+                                          "field":  "International economic relations / economist",
+                                          "year":  1975,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://fs.moex.com/content/annualreports/5058/1/gpb-ar15-rus.pdf",
+                                                              "title":  "Газпромбанк Annual Report 2015",
+                                                              "fact":  "The indexed annual report text states that Akimov graduated from Moscow Financial Institute in 1975 with economist qualification."
+                                                          },
+                                                          {
+                                                              "url":  "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+                                                              "title":  "NOVATEK: Board candidate information",
+                                                              "fact":  "Candidate materials state that Akimov graduated from Moscow Financial Institute in 1975 in International Economic Relations."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"НК \"Роснефть\"",
+                                                        "role":  "Board member",
+                                                        "start_year":  2014,
+                                                        "end_year":  null,
+                                                        "description":  "Official 2024 AGM lists Akimov in Rosneft Board as Gazprombank Management Board Chairman.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.rosneft.ru/press/releases/item/220059/",
+                                                                            "title":  "Состоялось годовое собрание акционеров ПАО \"НК \"Роснефть\"",
+                                                                            "fact":  "28 June 2024 official AGM release includes Andrey Igorevich Akimov in the Board of Directors."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Gazprombank",
+                                                        "role":  "Chairman of the Management Board",
+                                                        "start_year":  2002,
+                                                        "end_year":  null,
+                                                        "description":  "Akimov is a long-serving Gazprombank chairman.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://fs.moex.com/content/annualreports/5058/1/gpb-ar15-rus.pdf",
+                                                                            "title":  "Газпромбанк Annual Report 2015",
+                                                                            "fact":  "The annual report biography describes Akimov\u0027s banking career and Gazprombank leadership."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV contains Andrey Igorevich Akimov as Director/Board Member for ROSN."
+                                    }
+                                ],
+                    "notes":  "Board role confirmed by official Rosneft 2024 release."
+                },
+                {
+                    "name":  "Alexander Novak",
+                    "current_role":  "Director/Board Member of ПАО \"НК \"Роснефть\"; Deputy Prime Minister of the Russian Federation",
+                    "company_name":  "ПАО \"НК \"Роснефть\"",
+                    "education":  [
+                                      {
+                                          "program":  "higher education",
+                                          "university":  "Norilsk Industrial Institute",
+                                          "field":  "Economics and Management in Metallurgy",
+                                          "year":  1993,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.tadviser.ru/index.php/Персона:Новак_Александр_Валентинович",
+                                                              "title":  "TAdviser: Новак Александр Валентинович",
+                                                              "fact":  "Profile states Novak graduated from Norilsk Industrial Institute in 1993 in Economics and Management in Metallurgy."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "program":  "higher education",
+                                          "university":  "Moscow State University",
+                                          "field":  "Management",
+                                          "year":  2009,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.tadviser.ru/index.php/Персона:Новак_Александр_Валентинович",
+                                                              "title":  "TAdviser: Новак Александр Валентинович",
+                                                              "fact":  "Profile states Novak graduated from Moscow State University in 2009 in Management."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"НК \"Роснефть\"",
+                                                        "role":  "Board member",
+                                                        "start_year":  2015,
+                                                        "end_year":  null,
+                                                        "description":  "Official Rosneft 2024 AGM lists Novak in the Board as Deputy Prime Minister.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.rosneft.ru/press/releases/item/220059/",
+                                                                            "title":  "Состоялось годовое собрание акционеров ПАО \"НК \"Роснефть\"",
+                                                                            "fact":  "Official 28 June 2024 release includes Alexander Valentinovich Novak in the Board of Directors."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Government of the Russian Federation",
+                                                        "role":  "Deputy Prime Minister",
+                                                        "start_year":  2020,
+                                                        "end_year":  null,
+                                                        "description":  "Government profile says Novak became Deputy Prime Minister on 10 November 2020; 2024 appointment release confirms the continuing role.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://government.ru/en/gov/persons/187/",
+                                                                            "title":  "The Russian Government: Alexander Novak",
+                                                                            "fact":  "Official profile identifies Alexander Novak as Deputy Prime Minister and gives date of taking office."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://government.ru/news/51586/",
+                                                                            "title":  "Указы о назначении членов Правительства Российской Федерации",
+                                                                            "fact":  "Government release reports 2024 appointment decrees including Novak as Deputy Prime Minister."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV contains Alexander Novak as Director/Board Member for ROSN."
+                                    }
+                                ],
+                    "notes":  "Official government and Rosneft sources confirm identity and 2024 role."
+                },
+                {
+                    "name":  "Faisal Al-Suwaidi",
+                    "current_role":  "Director/Board Member of ПАО \"НК \"Роснефть\"; representative of Qatar Investment Authority",
+                    "company_name":  "ПАО \"НК \"Роснефть\"",
+                    "education":  [
+                                      {
+                                          "program":  "business management diploma / higher education",
+                                          "university":  "Merton Technical College, United Kingdom",
+                                          "field":  "Business Management",
+                                          "year":  1978,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://rosneft.ru/upload/site1/attach/gosa_2019/gosa_04062019_06-1.pdf",
+                                                              "title":  "Информация о кандидатах в Совет директоров ПАО \"НК \"Роснефть\", 2019",
+                                                              "fact":  "Rosneft candidate materials state Faisal Al-Suwaidi has higher education from Merton Technical College, United Kingdom."
+                                                          },
+                                                          {
+                                                              "url":  "https://www.meed.com/meed-list-qatargas-ii/",
+                                                              "title":  "MEED List: Qatargas II",
+                                                              "fact":  "MEED biography states Al-Suwaidi obtained a diploma in business management from Merton Technical College in 1978."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"НК \"Роснефть\"",
+                                                        "role":  "Board member; representative of Qatar Investment Authority",
+                                                        "start_year":  2017,
+                                                        "end_year":  null,
+                                                        "description":  "Official Rosneft 2024 AGM lists Faisal Al-Suwaidi as QIA representative and Board member.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.rosneft.ru/press/releases/item/220059/",
+                                                                            "title":  "Состоялось годовое собрание акционеров ПАО \"НК \"Роснефть\"",
+                                                                            "fact":  "Official 28 June 2024 release includes Faisal Al-Suwaidi in the Board as representative of Qatar Investment Authority."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Qatargas / Qatar Petroleum / Qatar Foundation",
+                                                        "role":  "CEO of Qatargas; earlier Qatar Petroleum roles; President of Research and Development at Qatar Foundation",
+                                                        "start_year":  1972,
+                                                        "end_year":  null,
+                                                        "description":  "MEED reports he joined Qatar Petroleum in 1972, became Qatargas CEO in 1997; The Peninsula Qatar identifies him as President of Research and Development at Qatar Foundation in 2012.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.meed.com/meed-list-qatargas-ii/",
+                                                                            "title":  "MEED List: Qatargas II",
+                                                                            "fact":  "Biography states Al-Suwaidi joined Qatar Petroleum in 1972 and was CEO of Qatargas from 1997."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://thepeninsulaqatar.com/article/23/10/2012/12-researchers-honoured-for-scientific-discoveries",
+                                                                            "title":  "The Peninsula Qatar: 12 researchers honoured for scientific discoveries",
+                                                                            "fact":  "Source identifies Faisal Mohammed Al-Suwaidi as President of Research and Development at Qatar Foundation."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Energy",
+                                                        "industry_group":  "Energy",
+                                                        "industry":  "Oil, Gas \u0026 Consumable Fuels"
+                                                    }
+                                                ],
+                    "research_experience":  [
+                                                {
+                                                    "organization":  "Qatar Foundation",
+                                                    "role":  "President of Research and Development",
+                                                    "start_year":  2012,
+                                                    "end_year":  null,
+                                                    "description":  "Administrative R\u0026D leadership role, not used as evidence of an academic publication profile.",
+                                                    "sources":  [
+                                                                    {
+                                                                        "url":  "https://thepeninsulaqatar.com/article/23/10/2012/12-researchers-honoured-for-scientific-discoveries",
+                                                                        "title":  "The Peninsula Qatar: 12 researchers honoured for scientific discoveries",
+                                                                        "fact":  "Article identifies him as President of Research and Development at Qatar Foundation."
+                                                                    }
+                                                                ]
+                                                }
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV contains Faisal Al-Suwaidi as Director/Board Member for ROSN."
+                                    }
+                                ],
+                    "notes":  "Transliteration varies as Faisal/Faizal Al-Suwaidi/Alsuwaidi."
+                },
+                {
+                    "name":  "Hamad Al-Mohannadi",
+                    "current_role":  "Director/Board Member of ПАО \"НК \"Роснефть\"; representative of Qatar Investment Authority",
+                    "company_name":  "ПАО \"НК \"Роснефть\"",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"НК \"Роснефть\"",
+                                                        "role":  "Board member; representative of Qatar Investment Authority",
+                                                        "start_year":  2019,
+                                                        "end_year":  null,
+                                                        "description":  "Official 2024 Rosneft AGM lists Hamad Rashid Al-Mohannadi as QIA representative and Board member.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.rosneft.ru/press/releases/item/220059/",
+                                                                            "title":  "Состоялось годовое собрание акционеров ПАО \"НК \"Роснефть\"",
+                                                                            "fact":  "Official 28 June 2024 release includes Hamad Rashid Al-Mohannadi in the Board as representative of Qatar Investment Authority."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://rosneft.ru/upload/site1/attach/gosa_2019/gosa_04062019_06-1.pdf",
+                                                                            "title":  "Информация о кандидатах в Совет директоров ПАО \"НК \"Роснефть\", 2019",
+                                                                            "fact":  "Rosneft 2019 candidate materials list Hamad Rashid Al-Mohannadi as a Board candidate."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Qatar Petroleum / RasGas",
+                                                        "role":  "Senior Advisor; Managing Director",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "OPEC bulletin identifies him as Senior Advisor at Qatar Petroleum; World Petroleum Congress delegate list identifies him as Managing Director of RasGas.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.opec.org/assets/assetdb/bulletin-2017-07.pdf",
+                                                                            "title":  "OPEC Bulletin 2017-07",
+                                                                            "fact":  "The bulletin names Hamad Rashid Al-Mohannadi as Senior Advisor, Qatar Petroleum."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.yumpu.com/en/document/view/4456691/delegate-list-the-20th-world-petroleum-congress",
+                                                                            "title":  "20th World Petroleum Congress delegate list",
+                                                                            "fact":  "Delegate list names Hamad Rashid Al-Mohannadi as Managing Director, RasGas Company."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Energy",
+                                                        "industry_group":  "Energy",
+                                                        "industry":  "Oil, Gas \u0026 Consumable Fuels"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV contains Hamad Al-Mohannadi as Director/Board Member for ROSN."
+                                    }
+                                ],
+                    "notes":  "No confirmed education found. Other Al-Mohannadi profiles were rejected unless tied to Rosneft/QIA/RasGas/Qatar Petroleum."
+                },
+                {
+                    "name":  "Maxim Oreshkin",
+                    "current_role":  "Director/Board Member of ПАО \"НК \"Роснефть\"; Deputy Head of the Presidential Administration of the Russian Federation",
+                    "company_name":  "ПАО \"НК \"Роснефть\"",
+                    "education":  [
+                                      {
+                                          "program":  "Bachelor\u0027s degree",
+                                          "university":  "Higher School of Economics",
+                                          "field":  "Economics",
+                                          "year":  2002,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.vedomosti.ru/person/1165840-oreshkin-maksim",
+                                                              "title":  "Ведомости: Максим Орешкин",
+                                                              "fact":  "Biography states that Oreshkin completed bachelor\u0027s studies at HSE."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  "Bachelor's degree"
+                                      },
+                                      {
+                                          "program":  "Master\u0027s degree",
+                                          "university":  "Higher School of Economics",
+                                          "field":  "Economics",
+                                          "year":  2004,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.vedomosti.ru/person/1165840-oreshkin-maksim",
+                                                              "title":  "Ведомости: Максим Орешкин",
+                                                              "fact":  "Biography states that Oreshkin completed HSE master\u0027s studies in 2004."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  "Master's degree"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"НК \"Роснефть\"",
+                                                        "role":  "Board member",
+                                                        "start_year":  2020,
+                                                        "end_year":  null,
+                                                        "description":  "Official Rosneft 2024 AGM lists Oreshkin in the Board as Deputy Head of the Presidential Administration.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.rosneft.ru/press/releases/item/220059/",
+                                                                            "title":  "Состоялось годовое собрание акционеров ПАО \"НК \"Роснефть\"",
+                                                                            "fact":  "Official 28 June 2024 release includes Maxim Stanislavovich Oreshkin in the Board."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Government / Presidential Administration / financial sector",
+                                                        "role":  "Deputy Head of Presidential Administration; Assistant to the President; Minister of Economic Development; banking/economics roles",
+                                                        "start_year":  2002,
+                                                        "end_year":  null,
+                                                        "description":  "Public biographies describe Oreshkin\u0027s Central Bank, banking, Ministry of Finance, Minister of Economic Development, Assistant to President and Deputy Head of Presidential Administration roles.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.vedomosti.ru/person/1165840-oreshkin-maksim",
+                                                                            "title":  "Ведомости: Максим Орешкин",
+                                                                            "fact":  "Biography lists career roles including Central Bank, Rosbank, Credit Agricole, VTB Capital and government."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://znanierussia.ru/articles/Орешкин,_Максим_Станиславович",
+                                                                            "title":  "Российское общество Знание: Максим Орешкин",
+                                                                            "fact":  "Profile identifies Oreshkin as a government and banking figure and describes his career."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV contains Maxim Oreshkin as Director/Board Member for ROSN."
+                                    }
+                                ],
+                    "notes":  "Board role confirmed by official 2024 Rosneft AGM."
+                },
+                {
+                    "name":  "Alexander Uss",
+                    "current_role":  "CSV-listed Director/Board Member; official 28 June 2024 Rosneft board list does not include him",
+                    "company_name":  "ПАО \"НК \"Роснефть\"",
+                    "education":  [
+                                      {
+                                          "program":  "higher education",
+                                          "university":  "Krasnoyarsk State University",
+                                          "field":  "Law",
+                                          "year":  1976,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://structure.sfu-kras.ru/president",
+                                                              "title":  "Сибирский федеральный университет: Александр Викторович Усс",
+                                                              "fact":  "SFU profile states Uss entered the law faculty of Krasnoyarsk State University in 1971 and provides his academic/government biography."
+                                                          },
+                                                          {
+                                                              "url":  "https://ru.wikipedia.org/wiki/Усс,_Александр_Викторович",
+                                                              "title":  "Усс, Александр Викторович",
+                                                              "fact":  "Biography states Uss graduated from the Law Faculty of Krasnoyarsk State University in 1976."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "degree":  "Candidate of Legal Sciences",
+                                        "university":  "Tomsk State University",
+                                        "year":  null,
+                                        "sources":  [
+                                                        {
+                                                            "url":  "https://ru.wikipedia.org/wiki/Усс,_Александр_Викторович",
+                                                            "title":  "Усс, Александр Викторович",
+                                                            "fact":  "Biography states he defended a Candidate of Legal Sciences dissertation at Tomsk State University."
+                                                        }
+                                                    ],
+                                        "qualification_degree":  "Doctoral degree"
+                                    },
+                                    {
+                                        "degree":  "Doctor of Legal Sciences; Professor",
+                                        "university":  null,
+                                        "year":  null,
+                                        "sources":  [
+                                                        {
+                                                            "url":  "https://ru.wikipedia.org/wiki/Усс,_Александр_Викторович",
+                                                            "title":  "Усс, Александр Викторович",
+                                                            "fact":  "Biography identifies Uss as Doctor of Legal Sciences and Professor."
+                                                        }
+                                                    ],
+                                        "qualification_degree":  "Doctoral degree"
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"НК \"Роснефть\"",
+                                                        "role":  "Board member in earlier board composition",
+                                                        "start_year":  2022,
+                                                        "end_year":  2024,
+                                                        "description":  "Official Rosneft 2022 AGM listed Uss as Board member; official 2024 AGM list does not include him.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.rosneft.ru/press/releases/item/211157/",
+                                                                            "title":  "Состоялось годовое собрание акционеров ПАО \"НК \"Роснефть\", 2022",
+                                                                            "fact":  "2022 official AGM release includes Alexander Viktorovich Uss in the Board as Governor of Krasnoyarsk Krai."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.rosneft.ru/press/releases/item/220059/",
+                                                                            "title":  "Состоялось годовое собрание акционеров ПАО \"НК \"Роснефть\", 2024",
+                                                                            "fact":  "2024 official AGM release lists the newly elected Board and does not include Uss."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Krasnoyarsk Krai / Federation Council / Siberian Federal University",
+                                                        "role":  "Governor; senator; president of Siberian Federal University",
+                                                        "start_year":  2017,
+                                                        "end_year":  null,
+                                                        "description":  "Public biography links Uss to governor, senator and academic/university leadership roles.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://structure.sfu-kras.ru/president",
+                                                                            "title":  "Сибирский федеральный университет: Александр Викторович Усс",
+                                                                            "fact":  "SFU page identifies Uss as university president and gives biography."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+                                                {
+                                                    "organization":  "Krasnoyarsk State University / Siberian Federal University",
+                                                    "role":  "Legal scholar and professor",
+                                                    "start_year":  1981,
+                                                    "end_year":  null,
+                                                    "description":  "Biography describes teaching and research roles in law.",
+                                                    "sources":  [
+                                                                    {
+                                                                        "url":  "https://ru.wikipedia.org/wiki/Усс,_Александр_Викторович",
+                                                                        "title":  "Усс, Александр Викторович",
+                                                                        "fact":  "Biography lists academic law positions and degrees."
+                                                                    }
+                                                                ]
+                                                }
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV contains Alexander Uss as Director/Board Member for ROSN."
+                                    }
+                                ],
+                    "notes":  "Substantial role uncertainty: CSV lists him as Board member, but official 28 June 2024 Rosneft Board list excludes him. He is retained because he is in CSV."
+                },
+                {
+                    "name":  "Alexander Dmitrievich Nekipelov",
+                    "current_role":  "Director/Board Member of ПАО \"НК \"Роснефть\"; Director of Moscow School of Economics, MSU; CSV labels him Chairman but official 2024 Rosneft materials do not",
+                    "company_name":  "ПАО \"НК \"Роснефть\"",
+                    "education":  [
+                                      {
+                                          "program":  "higher education",
+                                          "university":  "Moscow State University, Faculty of Economics",
+                                          "field":  "Economics",
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://ru.ruwiki.ru/wiki/Некипелов,_Александр_Дмитриевич",
+                                                              "title":  "Рувики: Некипелов Александр Дмитриевич",
+                                                              "fact":  "Profile lists education at the Economics Faculty of Moscow State University."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "degree":  "Academician of the Russian Academy of Sciences",
+                                        "university":  null,
+                                        "year":  null,
+                                        "sources":  [
+                                                        {
+                                                            "url":  "https://www.ras.ru/news/shownews.aspx?id=65dbb0e3-3abd-4784-9207-ee689991527a",
+                                                            "title":  "Российская академия наук: Академику Некипелову Александру Дмитриевичу - 70 лет",
+                                                            "fact":  "RAS page identifies Alexander Nekipelov as an academician."
+                                                        }
+                                                    ],
+                                        "qualification_degree":  null
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"НК \"Роснефть\"",
+                                                        "role":  "Board member / independent director",
+                                                        "start_year":  2011,
+                                                        "end_year":  null,
+                                                        "description":  "Official 2024 AGM lists Nekipelov as Director of Moscow School of Economics, MSU, and independent director. CSV\u0027s Chairman label conflicts with official 2024 board-chair information.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.rosneft.ru/press/releases/item/220059/",
+                                                                            "title":  "Состоялось годовое собрание акционеров ПАО \"НК \"Роснефть\"",
+                                                                            "fact":  "Official 28 June 2024 release includes Alexander Dmitrievich Nekipelov in the Board as Director of Moscow School of Economics, MSU, independent director."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.rosneft.ru/press/releases/item/222586/",
+                                                                            "title":  "Состоялось первое заседание Совета директоров ПАО \"НК \"Роснефть\" по итогам годового собрания акционеров",
+                                                                            "fact":  "Rosneft 2025 release states Mohammed Al-Sada was first elected Chairman of Rosneft Board in June 2023, explaining conflict with CSV Chairman label for Nekipelov."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Moscow School of Economics, Moscow State University",
+                                                        "role":  "Director",
+                                                        "start_year":  2004,
+                                                        "end_year":  null,
+                                                        "description":  "Scientific Russia reports Nekipelov has headed MSE MSU since its creation in 2004.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://scientificrussia.ru/articles/akademik-aleksandr-nekipelov-prazdnuet-den-rozdenia",
+                                                                            "title":  "Научная Россия: Академик Александр Некипелов празднует день рождения",
+                                                                            "fact":  "Source says Nekipelov has headed Moscow School of Economics MSU since its creation in 2004."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+                                                {
+                                                    "organization":  "Russian Academy of Sciences / Moscow State University",
+                                                    "role":  "Economist and academic researcher",
+                                                    "start_year":  null,
+                                                    "end_year":  null,
+                                                    "description":  "Scientific Russia states Nekipelov is author/coauthor of more than 200 scientific works.",
+                                                    "sources":  [
+                                                                    {
+                                                                        "url":  "https://scientificrussia.ru/articles/akademik-aleksandr-nekipelov-prazdnuet-den-rozdenia",
+                                                                        "title":  "Научная Россия: Академик Александр Некипелов празднует день рождения",
+                                                                        "fact":  "Source states he is author and coauthor of more than 200 scientific works."
+                                                                    }
+                                                                ]
+                                                }
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV contains Alexander Dmitrievich Nekipelov as Chairman for ROSN."
+                                    }
+                                ],
+                    "notes":  "CSV Chairman role appears stale/conflicting for 2024. Official Rosneft 2024 AGM treats him as independent director; chairmanship belongs to Mohammed Al-Sada, who is not in CSV and therefore was not added to tmt."
+                },
+                {
+                    "name":  "Vladimir Litvinenko",
+                    "current_role":  "CSV-listed Director/Board Member; official 28 June 2024 Rosneft board list does not include him; Rector of Saint Petersburg Mining University",
+                    "company_name":  "ПАО \"НК \"Роснефть\"",
+                    "education":  [
+                                      {
+                                          "program":  "higher education",
+                                          "university":  "Leningrad Mining Institute",
+                                          "field":  "Technology and technique of mineral exploration",
+                                          "year":  1982,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://spmi.ru/rektor",
+                                                              "title":  "Санкт-Петербургский горный университет: Ректор",
+                                                              "fact":  "Rector page identifies Vladimir Litvinenko as a mining engineer, doctor of technical sciences, professor and rector."
+                                                          },
+                                                          {
+                                                              "url":  "https://ru.wikipedia.org/wiki/Литвиненко,_Владимир_Стефанович",
+                                                              "title":  "Литвиненко, Владимир Стефанович",
+                                                              "fact":  "Biography states Litvinenko studied at Leningrad Mining Institute in 1977-1982 and graduated from the Geological Exploration Faculty."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "degree":  "Candidate of Technical Sciences",
+                                        "university":  null,
+                                        "year":  1987,
+                                        "sources":  [
+                                                        {
+                                                            "url":  "https://ru.wikipedia.org/wiki/Литвиненко,_Владимир_Стефанович",
+                                                            "title":  "Литвиненко, Владимир Стефанович",
+                                                            "fact":  "Biography reports candidate dissertation in 1987."
+                                                        }
+                                                    ],
+                                        "qualification_degree":  "Doctoral degree"
+                                    },
+                                    {
+                                        "degree":  "Doctor of Technical Sciences; Professor",
+                                        "university":  null,
+                                        "year":  1991,
+                                        "sources":  [
+                                                        {
+                                                            "url":  "https://spmi.ru/rektor",
+                                                            "title":  "Санкт-Петербургский горный университет: Ректор",
+                                                            "fact":  "Official rector page identifies him as Doctor of Technical Sciences and Professor."
+                                                        }
+                                                    ],
+                                        "qualification_degree":  "Doctoral degree"
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"НК \"Роснефть\"",
+                                                        "role":  "Board member in earlier board composition",
+                                                        "start_year":  2022,
+                                                        "end_year":  2024,
+                                                        "description":  "Official Rosneft 2022 AGM listed Litvinenko as Board member; official 2024 AGM list does not include him.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.rosneft.ru/press/releases/item/211157/",
+                                                                            "title":  "Состоялось годовое собрание акционеров ПАО \"НК \"Роснефть\", 2022",
+                                                                            "fact":  "2022 official AGM release includes Vladimir Stefanovich Litvinenko as rector and independent director."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.rosneft.ru/press/releases/item/220059/",
+                                                                            "title":  "Состоялось годовое собрание акционеров ПАО \"НК \"Роснефть\", 2024",
+                                                                            "fact":  "2024 official AGM release lists the newly elected Board and does not include Litvinenko."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Saint Petersburg Mining University",
+                                                        "role":  "Rector",
+                                                        "start_year":  1994,
+                                                        "end_year":  null,
+                                                        "description":  "Official university page identifies Litvinenko as rector; 2024 rector-election page states he was elected for a five-year term from 27 May 2024.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://spmi.ru/rektor",
+                                                                            "title":  "Санкт-Петербургский горный университет: Ректор",
+                                                                            "fact":  "Official page identifies Vladimir Litvinenko as rector."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://ru.spmi.ru/vybory-rektora",
+                                                                            "title":  "Санкт-Петербургский горный университет: Выборы ректора",
+                                                                            "fact":  "Page states Litvinenko was elected rector from 27 May 2024 for five years."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+                                                {
+                                                    "organization":  "Saint Petersburg Mining University",
+                                                    "role":  "Mining engineering researcher and academic administrator",
+                                                    "start_year":  null,
+                                                    "end_year":  null,
+                                                    "description":  "University profile identifies scientific degree/title and author identifiers.",
+                                                    "sources":  [
+                                                                    {
+                                                                        "url":  "https://personalii.spmi.ru/ru/glossary/l/litvinenko_vladimir_stefanovich",
+                                                                        "title":  "Горный университет: Литвиненко Владимир Стефанович",
+                                                                        "fact":  "Profile lists Doctor of Technical Sciences, Professor, Rector and author identifiers."
+                                                                    }
+                                                                ]
+                                                }
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV contains Vladimir Litvinenko as Director/Board Member for ROSN."
+                                    }
+                                ],
+                    "notes":  "Substantial role uncertainty: CSV lists him as Board member, but official 28 June 2024 Rosneft Board list excludes him."
+                },
+                {
+                    "name":  "Pedro A. Aquino",
+                    "current_role":  "Director/Board Member of ПАО \"НК \"Роснефть\"; CEO of Oil \u0026 Petroleum Holdings International Resources Limited; independent director",
+                    "company_name":  "ПАО \"НК \"Роснефть\"",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"НК \"Роснефть\"",
+                                                        "role":  "Board member / independent director",
+                                                        "start_year":  2022,
+                                                        "end_year":  null,
+                                                        "description":  "Official 2024 AGM lists Pedro A. Aquino, Jr. as CEO of Oil \u0026 Petroleum Holdings International Resources Limited and independent director from the Philippines.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.rosneft.ru/press/releases/item/220059/",
+                                                                            "title":  "Состоялось годовое собрание акционеров ПАО \"НК \"Роснефть\"",
+                                                                            "fact":  "Official 28 June 2024 release includes Pedro A. Aquino, Jr. in the Board as CEO of Oil \u0026 Petroleum Holdings International Resources Limited, independent director."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.rosneft.com/press/releases/item/220061/",
+                                                                            "title":  "Rosneft Oil Company Holds Annual General Meeting of Shareholders",
+                                                                            "fact":  "English official release confirms the same Board role and company affiliation."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Oil \u0026 Petroleum Holdings International Resources Limited",
+                                                        "role":  "Chief Executive Officer",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Role confirmed in official Rosneft board materials.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.rosneft.ru/press/releases/item/220059/",
+                                                                            "title":  "Состоялось годовое собрание акционеров ПАО \"НК \"Роснефть\"",
+                                                                            "fact":  "Official 2024 Board list describes Pedro A. Aquino as CEO of Oil \u0026 Petroleum Holdings International Resources Limited."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Energy",
+                                                        "industry_group":  "Energy",
+                                                        "industry":  "Oil, Gas \u0026 Consumable Fuels"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV contains Pedro A. Aquino as Director/Board Member for ROSN."
+                                    }
+                                ],
+                    "notes":  "No confirmed education found. Unrelated Pedro Aquino records were rejected unless tied to Rosneft/Oil \u0026 Petroleum Holdings."
+                }
+            ],
+    "board_sources":  [
+                          {
+                              "url":  "MOEXBMI_2024.csv",
+                              "title":  "MOEXBMI_2024.csv",
+                              "fact":  "CSV contains predefined company people and positions used as pipeline input."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/ROSN/Годовой отчет за 2024 г. Роснефть.pdf",
+                              "title":  "Годовой отчет ПАО \"НК \"Роснефть\" за 2024 год",
+                              "fact":  "Страница 2 подтверждает роль Игоря Сечина как CEO и Председателя Правления; страницы 36-38 подтверждают проведение ГОСА и описание Совета директоров, но не раскрывают персональный состав."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/ROSN/12м2024_ОКФО_Роснефть_публ_рус_доп_финал.pdf",
+                              "title":  "Обобщенная консолидированная финансовая отчетность ПАО \"НК \"Роснефть\" за 2024 год",
+                              "fact":  "Проверена как локальный документ ROSN; биографии и состав органов управления не раскрыты."
+                          },
+                          {
+                              "url":  "https://www.rosneft.ru/press/releases/item/220059/",
+                              "title":  "Состоялось годовое собрание акционеров ПАО \"НК \"Роснефть\"",
+                              "fact":  "Официальный релиз от 28 июня 2024 года перечисляет избранный Совет директоров из 11 человек: Акимов, Акино, Алсуваиди, Аль-Моханнади, Аль-Сада, Мартынов, Некипелов, Новак, Орешкин, Сатиш, Сечин."
+                          },
+                          {
+                              "url":  "https://www.rosneft.ru/press/releases/item/211157/",
+                              "title":  "Состоялось годовое собрание акционеров ПАО \"НК \"Роснефть\", 2022",
+                              "fact":  "Официальный релиз 2022 года объясняет наличие в CSV Литвиненко и Усса: они были избраны в прежний состав Совета директоров."
+                          }
+                      ],
+    "sources":  [
+                    {
+                        "url":  "https://www.rosneft.ru/press/releases/item/220059/",
+                        "title":  "Rosneft official AGM release, 28 June 2024",
+                        "fact":  "Primary online source for 2024 Board composition and Sechin\u0027s 2024 CEO/Board role."
+                    },
+                    {
+                        "url":  "https://www.rosneft.ru/upload/site1/document_file/77nkQHx94E.pdf",
+                        "title":  "Rosneft Annual Report 2011",
+                        "fact":  "Older official source for Sechin and Lazarev education and early career facts."
+                    },
+                    {
+                        "url":  "https://www.marketscreener.com/quote/stock/ROSNEFT-OIL-6498688/company/",
+                        "title":  "MarketScreener: Rosneft Oil company governance",
+                        "fact":  "Secondary source used for management/executive list where 2024 official Rosneft disclosure is limited."
+                    },
+                    {
+                        "url":  "https://markets.businessinsider.com/stocks/rnftf-stock",
+                        "title":  "Business Insider Markets: Rosneft management",
+                        "fact":  "Secondary source used for current management listing, treated as weaker than official filings."
+                    }
+                ],
+    "validation_notes":  "Processed 14 unique people from ROSN CSV rows and 15 CSV rows including Igor Sechin\u0027s duplicate CEO/Board entries. Checked 2 local ROSN documents: 2024 annual report and 2024 summarized consolidated financial statements. Performed 1 documented research round per person plus overview. Education was not confirmed for Valentin Mamayev, Yegor Filippov, Hamad Al-Mohannadi and Pedro A. Aquino. Weak sources were used for current management/executive status of Lazarev, Mamayev, Filippov and Latypov because Rosneft\u0027s 2024 local annual report does not disclose Management Board details under disclosure restrictions. Main conflict: CSV board composition differs from official Rosneft 28 June 2024 board composition; Alexander Uss and Vladimir Litvinenko are kept because they are in CSV, but official 2024 Board list excludes them. CSV labels Alexander Nekipelov as Chairman, while Rosneft materials indicate Mohammed Al-Sada chaired the Board from June 2023 onward; Al-Sada was not added to tmt because he is absent from CSV. Namesakes excluded: Ural Ramdrakovich Latypov, unrelated sports/social-media Yegor Filippov profiles, and unrelated Pedro Aquino records. Search considered complete because local documents were checked first, official 2024 board source was found, older official reports/university/government sources confirmed available education facts, and unresolved fields are left null or empty rather than inferred. QUALITY PASS ROUND 1 (2026-07-31): verified on-disk file against git HEAD baseline (commit f973022, prior corpus restore) -- identical, no post-restore regression found to recover. Fixed 1 simple desync: Maxim Oreshkin's two education entries already stated the degree level in the program field (Bachelor and Master) and in round-1 notes, but qualification_degree was left null; filled both from the existing citation, no new source needed. Corrected 4 mislabeled GICS triples on professional_experience entries where a commercial classification had been applied to a non-classifiable government/legislative/public-university employer or an unverifiable composite entry: Alexander Uss's Krasnoyarsk Krai / Federation Council / Siberian Federal University role (was Consumer Discretionary / Consumer Services / Diversified Consumer Services, now null -- regional government, national legislature and a state university are not commercial GICS entities), Alexander Nekipelov's Moscow School of Economics / MSU directorship (same wrong label, now null -- public state university), Vladimir Litvinenko's Saint Petersburg Mining University rectorship (same wrong label, now null -- public state university), and Petr Lazarev's composite Ministry of Finance USSR / financial institutions / Rosneft Treasury entry (was Financials / Banks / Banks, now null -- combines a Soviet government ministry with Rosneft's own internal treasury function and an unnamed, unverifiable financial institutions placeholder; none of the three named elements is a standalone classifiable bank). Verified as still-correct and left untouched: Akimov-Gazprombank (Banks), Al-Suwaidi Qatargas plus Qatar Petroleum (Energy), Al-Mohannadi Qatar Petroleum plus RasGas (Energy), Aquino Oil and Petroleum Holdings (Energy). Reviewed all documented Contradictions sections (Uss / Litvinenko board-exclusion, Nekipelov chairman conflict, transliteration variants for Al-Suwaidi, Al-Mohannadi and Latypov) and confirmed each was already properly investigated and resolved in round 1 with no new unresolved genuine inconsistency found. Attempted bounded honest-gap follow-up (education) for Mamayev, Filippov, Al-Mohannadi and Aquino with fresh, previously-untried queries, but WebSearch was unavailable this session (shared session budget exhausted at 200 of 200 before any query executed); all four education gaps remain null and unresolved -- see quality_pass_round1_20260731.md for the specific fresh queries queued for a future attempt. No prior facts, descriptions or source citations were shortened or deleted in this round.",
+    "sector":  "Energy",
+    "industry_group":  "Energy",
+    "industry":  "Oil, Gas \u0026 Consumable Fuels"
+}

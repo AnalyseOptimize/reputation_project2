@@ -1,0 +1,5 @@
+﻿sample,method,variance,upper_bound,vertices_evaluated,optimal_vertices,tie_rule,global_optimum
+all_managers,max_variance,0.11213017324828785,1.0,21,1,"first in input feature order; ties reported, not averaged",True
+all_managers,max_variance_capped,0.0450435965005833,0.2,20349,1,"first in input feature order; ties reported, not averaged",True
+ceo,max_variance,0.25183150183150244,1.0,21,1,"first in input feature order; ties reported, not averaged",True
+ceo,max_variance_capped,0.10156043956043961,0.2,20349,1,"first in input feature order; ties reported, not averaged",True

@@ -1,0 +1,1078 @@
+{
+  "company_name": "ПАО \"ФСК - Россети\"",
+  "company_ticker": "FEES",
+  "ceo": {
+    "name": "Рюмин Андрей Валерьевич",
+    "current_role": "Генеральный директор, Председатель Правления ПАО \"Федеральная сетевая компания - Россети\"",
+    "company_name": "ПАО \"ФСК - Россети\"",
+    "education": [
+      {
+        "institution": "Московский государственный университет имени М.В. Ломоносова",
+        "field": "математика, прикладная математика",
+        "degree_or_qualification": null,
+        "year": 2002,
+        "description": "Окончил МГУ по специальности \"математика, прикладная математика\". Название вуза нормализовано к каноническому варианту по university_names.json (исходная строка источника: \"Московский государственный университет им. М. В. Ломоносова\").",
+        "qualification_degree": "Specialist degree"
+      }
+    ],
+    "degrees": [
+      {
+        "degree": "кандидат экономических наук",
+        "institution": "Институт проблем рынка Российской академии наук",
+        "year": 2004,
+        "description": "Степень кандидата экономических наук получена в Институте проблем рынка РАН.",
+        "qualification_degree": "Doctoral degree"
+      }
+    ],
+    "professional_experience": [
+      {
+        "organization": "АО \"ОЭК\"",
+        "role": "первый заместитель генерального директора",
+        "start_year": 2011,
+        "end_year": 2013,
+        "description": "Предыдущий опыт, подтвержденный официальной биографией ПАО \"Россети Ленэнерго\".",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Electric Utilities"
+      },
+      {
+        "organization": "АО \"ОЭК\"",
+        "role": "генеральный директор",
+        "start_year": 2013,
+        "end_year": 2014,
+        "description": "Руководил АО \"ОЭК\".",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Electric Utilities"
+      },
+      {
+        "organization": "Предпринимательская деятельность",
+        "role": "индивидуальная предпринимательская деятельность",
+        "start_year": 2014,
+        "end_year": 2016,
+        "description": "Указано в биографии на официальном сайте ПАО \"Россети Ленэнерго\" (единоличный исполнительный орган) и зафиксировано в раунде 1 research_notes как часть карьерной хронологии Рюмина А. В.; не было перенесено в JSON при первичном формировании и добавлено в раунде качества. Конкретная организация/сфера деятельности источником не названа, поэтому GICS не присваивается.",
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "ПАО \"Мосэнерго\"",
+        "role": "член Совета директоров",
+        "start_year": 2016,
+        "end_year": 2017,
+        "description": "Указано в биографии на официальном сайте ПАО \"Россети Ленэнерго\" (единоличный исполнительный орган) и зафиксировано в раунде 1 research_notes как часть карьерной хронологии Рюмина А. В.; не было перенесено в JSON при первичном формировании и добавлено в раунде качества. ПАО \"Мосэнерго\" - тепловая генерирующая компания (входит в группу \"Газпром энергохолдинг\"), а не сетевой оператор, поэтому классифицировано отдельно от остальных записей этого лица (Electric Utilities), как Independent Power and Renewable Electricity Producers.",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Independent Power and Renewable Electricity Producers"
+      },
+      {
+        "organization": "ПАО \"Россети Ленэнерго\"",
+        "role": "Генеральный директор, Председатель Правления",
+        "start_year": 2018,
+        "end_year": 2021,
+        "description": "Указано в годовом отчете ПАО \"Россети\" за 2024 год.",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Electric Utilities"
+      },
+      {
+        "organization": "ПАО \"Российские сети\"",
+        "role": "Генеральный директор, Председатель Правления",
+        "start_year": 2021,
+        "end_year": 2023,
+        "description": "Указано в годовом отчете ПАО \"Россети\" за 2024 год.",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Electric Utilities"
+      },
+      {
+        "organization": "ПАО \"Федеральная сетевая компания - Россети\"",
+        "role": "Генеральный директор, Председатель Правления",
+        "start_year": 2022,
+        "end_year": null,
+        "description": "Генеральный директор также возглавляет Правление; в 2024 году участвовал в 43 из 43 заседаний Правления.",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Electric Utilities"
+      }
+    ],
+    "research_experience": [
+      {
+        "organization": "Институт проблем рынка РАН",
+        "role": "соискатель / автор кандидатской диссертации",
+        "start_year": null,
+        "end_year": 2004,
+        "description": "Подтверждена кандидатская диссертация по экономике; отдельная академическая должность не подтверждена."
+      }
+    ],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_Отчеты_2024/FEES/Rosseti_AR2024_01.07.2025.pdf",
+        "title": "ПАО \"Россети\". Годовой отчет за 2024 год",
+        "fact": "Стр. 208: Рюмин А. В. указан как Генеральный директор, Председатель Правления; указаны МГУ, кандидатская степень и опыт в ПАО \"Россети Ленэнерго\", ПАО \"Российские сети\" и ПАО \"ФСК - Россети\". Стр. 210-211: Генеральный директор возглавляет Правление; Рюмин участвовал в 43/43 заседаниях Правления в 2024 году."
+      },
+      {
+        "url": "https://www.rosseti-lenenergo.ru/about/management/singlemanagementbody/",
+        "title": "ПАО \"Россети Ленэнерго\" - Единоличный исполнительный орган",
+        "fact": "Официальная биография подтверждает образование Рюмина, кандидатскую степень и предыдущий опыт, включая ОЭК, Мосэнерго, Россети Ленэнерго и Российские сети."
+      },
+      {
+        "url": "https://www.ipr-ras.ru/old_site/authoref/aut-ryum.pdf",
+        "title": "Автореферат диссертации Рюмина А. В.",
+        "fact": "Подтверждает кандидатскую диссертацию Рюмина А. В. по экономике."
+      }
+    ],
+    "notes": "Публикации, патенты и h-index не добавлены: надежный научный профиль именно этого лица не найден. || Round 2 (2026-07-18) gap-fill: added qualification_degree (Specialist degree for the 2002 MSU mathematics education, inferred with high confidence because Russian pre-2003 Bologna-era 5-year specialty programs, and the MSU Mechanics-Mathematics faculty in particular, issued a diplom specialista rather than a bachelor degree, consistent with the qualification_degree convention already applied project-wide to identically-worded pre-2003 specialty education entries; Doctoral degree for the 2004 kandidat ekonomicheskikh nauk entry, per the project-wide convention that Russian kandidat/doktor nauk degrees map to the Doctoral degree enum value). Added company-level and professional_experience-level GICS sector, industry_group and industry tags (Utilities, Utilities, Electric Utilities for FEES itself, PAO Rosseti Lenenergo, PAO Rossiiskie seti and AO OEK, all electricity transmission and distribution grid operators, copied character for character from gics_taxonomy.json). Normalized the MSU institution string to its canonical form per university_names.json (the raw string Moskovskii gosudarstvennyi universitet im. M. V. Lomonosova is a listed alias of the canonical Moskovskii gosudarstvennyi universitet imeni M.V. Lomonosova); the kandidat degree institution Institut problem rynka Rossiiskoi akademii nauk was already an exact canonical match, no change needed. No new institutions encountered for this person. No prior fact was deleted or overwritten. || Round 3 (2026-07-19) gap-fill: единственное оставшееся null-поле -- research_experience[0].start_year (год начала соискательства в ИПР РАН), не отмеченное как неопределённость в round 1/2. Повторная попытка открыть автореферат (тот же источник, что даёт год защиты 2004) вернула ECONNREFUSED в этом раунде; WebSearch недоступен (бюджет сессии исчерпан). Год начала аспирантуры отдельно нигде не публикуется, поэтому per prefer-null-over-an-unverified-guess поле остаётся null. Остальные поля не пересматривались. Ни один ранее подтверждённый факт не удалён и не перезаписан. Публикации, патенты и h-index не добавлены: надежный научный профиль именно этого лица не найден. Раунд качества (2026-07-30): добавлены две записи карьерной хронологии (предпринимательская деятельность 2014-2016 и членство в Совете директоров ПАО \"Мосэнерго\" 2016-2017), зафиксированные в research_notes раунда 1 по уже процитированным источникам, но пропущенные при первичном формировании JSON; ни один факт не удален и не перезаписан. Раунд качества (2026-07-30): выполнена одна дополнительная попытка найти год начала аспирантуры в Институте проблем рынка РАН свежим запросом (\"Рюмин Андрей Валерьевич\" аспирантура Институт проблем рынка РАН соискатель, не пересекается с попыткой раунда 3 повторно открыть тот же сломанный URL). Найдены независимые источники (Циклопедия, rus.team, nepotism.proekt.media), подтверждающие поступление в аспирантуру ИПР РАН после окончания МГУ в 2002 году и защиту в 2004 году, но ни один не называет точный год начала обучения в аспирантуре как отдельный факт. research_experience[0].start_year остается null - пробел не решен."
+  },
+  "tmt": [
+    {
+      "name": "Кулишов Григорий Викторович",
+      "current_role": "CSO / заместитель Генерального директора по безопасности ПАО \"Россети\"",
+      "company_name": "ПАО \"ФСК - Россети\"",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Россети\"",
+          "role": "заместитель Генерального директора по безопасности",
+          "start_year": null,
+          "end_year": null,
+          "description": "Роль подтверждена CSV как CSO; внешний отраслевой источник после 2024 года называет Кулишова заместителем Генерального директора по безопасности в контексте итогов 2024 года и задач на 2025 год. Подробная биография не найдена.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains FEES, ПАО \"ФСК - Россети\", Кулишов Григорий Викторович, role CSO."
+        },
+        {
+          "url": "https://energyland.info/news-show--electro-266400",
+          "title": "Energyland - В Курской области работники блока безопасности \"Россетей\" совершили около тысячи выездов в \"серую зону\"",
+          "fact": "Материал от 11.02.2025 называет Григория Кулишова заместителем Генерального директора по безопасности ПАО \"Россети\" и описывает совещание, где подводились итоги работы блока безопасности в 2024 году и определялись задачи на 2025 год."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/FEES/Rosseti_AR2024_01.07.2025.pdf",
+          "title": "ПАО \"Россети\". Годовой отчет за 2024 год",
+          "fact": "Локальный годовой отчет проверен; персональная биография Кулишова не найдена."
+        },
+        {
+          "url": "https://www.rossetisk.ru/shareholders_and_investors/korporativnoe_upravlenie/sovet_direktorov/",
+          "title": "PAO Rosseti Severnyi Kavkaz - Sovet direktorov",
+          "fact": "Round 2 (2026-07-18) gap-fill re-check: re-fetched this DZO board page; Kulishov G. V. is not among the 11 listed board members and no biography for him is present on this page."
+        }
+      ],
+      "notes": "Существенная неопределенность: образование, ученые степени и прежний опыт публично не подтверждены. || Round 2 (2026-07-18) gap-fill: re-scanned the file for the remaining nulls for this person, namely education is empty, degrees is empty, and professional_experience start_year and end_year are both null, all flagged as a existennaya neopredelennost in round-1 notes. Local-filings check performed first per instructions: re-searched the full Rosseti_AR2024_01.07.2025.pdf, 216 pages, programmatically for the string Kulishov, zero matches anywhere in the document, confirming the round-1 finding that this annual report does not name him at all, since his role as zamestitel generalnogo direktora po bezopasnosti sits outside the Pravlenie and Sovet direktorov governance sections that the report discloses; also re-checked the 12 transaction-appendix PDFs in Prilozheniya k GO and the Otchetnost MSFO PDF for his name, zero matches. Web research attempted this round: the WebSearch tool was unavailable, the session web-search budget of 200 of 200 calls was already exhausted before this ticker round-2 pass began; fell back to targeted WebFetch of specific candidate URLs, re-fetched the rossetisk.ru board page (loads, but Kulishov is not among the 11 listed board members, consistent with round 1), attempted www.rosseti.ru investors management page (connection refused), attempted the Rosseti-group materials PDF hosted on rossetimr.ru that had surfaced Makarov education in round 1 (HTTP 403 this round, the link appears to have expired or been access-restricted since round 1), and attempted TAdviser and TASS person-page URL patterns by direct guess (all HTTP 404, no TAdviser or TASS profile exists for this name under the tested URL patterns). No new fact was found, no field was changed this round because nothing could be verified. This negative result is documented in research_notes/FEES/Kulishov_Grigorii_Viktorovich_round_2.md. Added a professional_experience GICS tag of Utilities, Utilities, Electric Utilities for PAO Rosseti, an electricity transmission and distribution grid operator; this classification is independent of the still-unresolved start_year and end_year gap. No education or degrees entries exist for this person, so no qualification_degree or institution-normalization work applies. No prior fact was deleted or overwritten; the round-1 existennaya neopredelennost assessment stands unresolved. || Round 3 (2026-07-19) gap-fill: повторная попытка по тем же полям, что в round 2 -- education=[], degrees=[], professional_experience[0].start_year/end_year=null. WebSearch сообщил об исчерпании бюджета сессии; через WebFetch (DuckDuckGo HTML) проверено несколько формулировок запроса -- найден только уже известный round-1 материал Energyland и тёзка Кулишов Владимир Григорьевич (ФСБ), отклонённый во избежание смешения тёзок. Ни образование, ни степени, ни даты опыта не найдены; per prefer-null-over-an-unverified-guess все поля остаются как в round 1/2. Существенная неопределённость нерешена третий раунд подряд. Ни один ранее подтверждённый факт не удалён и не перезаписан. Существенная неопределенность: образование, ученые степени и прежний опыт публично не подтверждены. Раунд качества (2026-07-30): выполнена одна дополнительная попытка закрыть пробел свежими запросами (\"Кулишов Григорий Викторович\" полковник ФСБ ФСО назначен; site:rosseti.ru Кулишов Григорий Викторович; \"Григорий Кулишов\" Россети интервью безопасность; Кулишов Григорий Викторович совет директоров дочернее общество Россети) - ни один не пересекается с запросами раундов 1-3. Все запросы вернули либо уже известного однофамильца (Кулишов Владимир Григорьевич, ФСБ Погранслужба), либо нерелевантные результаты. Образование, ученые степени и точные годы роли в 2024 году по-прежнему не подтверждены; существенная неопределенность остается нерешенной. Подробности - research_notes/FEES/quality_pass_round1_20260730.md."
+    },
+    {
+      "name": "Муров Андрей Евгеньевич",
+      "current_role": "Член Правления, Первый заместитель Генерального директора",
+      "company_name": "ПАО \"ФСК - Россети\"",
+      "education": [
+        {
+          "institution": "Санкт-Петербургский государственный университет",
+          "field": "правоведение",
+          "degree_or_qualification": null,
+          "year": 1993,
+          "description": "Окончил СПбГУ по специальности \"правоведение\".",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Межотраслевой институт повышения квалификации и переподготовки руководящих кадров",
+          "field": "финансовый менеджмент",
+          "degree_or_qualification": "профессиональная переподготовка",
+          "year": 1998,
+          "description": "Прошел профессиональную переподготовку по программе \"Финансовый менеджмент\".",
+          "qualification_degree": "Professional certification"
+        },
+        {
+          "institution": "Санкт-Петербургский государственный университет гражданской авиации",
+          "field": "организация перевозок и управление на транспорте (воздушный транспорт)",
+          "degree_or_qualification": null,
+          "year": 2009,
+          "description": "Окончил Государственный университет гражданской авиации. Название вуза нормализовано к каноническому варианту по university_names.json (исходная строка источника: \"Государственный университет гражданской авиации\").",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "доктор экономических наук",
+          "institution": "Санкт-Петербургский государственный экономический университет",
+          "year": 2008,
+          "description": "Годовой отчет ПАО \"Россети\" за 2024 год указывает степень доктора экономических наук. Институт и год подтверждены по диссертации \"Методологические основы государственного регулирования развития авиатранспортной инфраструктуры России\" (специальность 08.00.05, Санкт-Петербург, 2008): запись РГБ называет организацией защиты \"С.-Петерб. гос. ун-т экономики и финансов\" (канонический алиас Санкт-Петербургского государственного экономического университета), независимо подтверждено записью РНБ с тем же номером диссертации, годом и организацией. Тема диссертации согласуется с карьерой Мурова А. Е. в гражданской авиации (гендиректор аэропорта Пулково) и его вторым высшим образованием в Государственном университете гражданской авиации (2009).",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ФСК ЕЭС\"",
+          "role": "Председатель Правления",
+          "start_year": 2013,
+          "end_year": 2020,
+          "description": "Указано в годовом отчете ПАО \"Россети\" за 2024 год.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "Ассоциация \"РНК СИГРЭ\"",
+          "role": "Председатель",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "Профессиональная ассоциация, указанная в биографии.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"Российские сети\"",
+          "role": "Первый заместитель Генерального директора - исполнительный директор, член Правления",
+          "start_year": 2020,
+          "end_year": 2023,
+          "description": "Указано в годовом отчете ПАО \"Россети\" за 2024 год.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Федеральная сетевая компания - Россети\"",
+          "role": "Первый заместитель Генерального директора",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "В 2024 году член Правления; участвовал в 43/43 заседаниях Правления.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/FEES/Rosseti_AR2024_01.07.2025.pdf",
+          "title": "ПАО \"Россети\". Годовой отчет за 2024 год",
+          "fact": "Стр. 208: Муров А. Е. указан как член Правления, Первый заместитель Генерального директора; указаны образование, степень доктора экономических наук и опыт. Стр. 210-211: участие 43/43 заседаний Правления."
+        },
+        {
+          "url": "https://ar23.rosseti.ru/ru/corporate-governance/executive-bodies/management-board",
+          "title": "ПАО \"Россети\". Годовой отчет за 2023 год - Правление",
+          "fact": "Официальный интерактивный отчет подтверждает биографические сведения Мурова А. Е."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/FEES/Приложения к ГО/приложение 6 к Отчету о заключенных сделках.pdf",
+          "title": "Приложение 6 к Отчету о заключенных сделках",
+          "fact": "Документ содержит упоминание Мурова А. Е. как Первого заместителя Генерального директора; биографии не содержит."
+        },
+        {
+          "url": "https://search.rsl.ru/ru/record/01004573907",
+          "title": "Российская государственная библиотека - каталог диссертаций",
+          "fact": "Независимо подтверждает докторскую диссертацию Мурова А. Е. (08.00.05, Санкт-Петербург, 2008) и называет организацию защиты - С.-Петерб. гос. ун-т экономики и финансов."
+        },
+        {
+          "url": "https://rusneb.ru/catalog/000199_000009_004573907/",
+          "title": "Российская национальная электронная библиотека - карточка диссертации",
+          "fact": "Независимо подтверждает те же организацию, год и регистрационный номер диссертации Мурова А. Е. (д422-10)."
+        },
+        {
+          "url": "https://www.dissercat.com/content/metodologicheskie-osnovy-gosudarstvennogo-regulirovaniya-razvitiya-aviatransportnoi-infrastr",
+          "title": "disserCat - автореферат диссертации Мурова А. Е.",
+          "fact": "Подтверждает автора (Муров Андрей Евгеньевич), степень (доктор экономических наук) и специальность 08.00.05; тема диссертации согласуется с карьерой в гражданской авиации."
+        }
+      ],
+      "notes": "Публикации, патенты и h-index не подтверждены. || Round 2 (2026-07-18) gap-fill: the flagged gap was the doctoral degree missing its institution and year (degrees index 0 institution is null, year is null). Local-filings re-check: re-read the Rosseti_AR2024_01.07.2025.pdf Pravlenie bio section, printed page 208, in full, it states only Doktor ekonomicheskikh nauk with no institution or year, confirming the round-1 reading. Web research attempted: the WebSearch budget was exhausted before this round began; used WebFetch instead on the ar23.rosseti.ru management-board page, already a round-1 source, which independently repeats Doktor ekonomicheskikh nauk without naming an institution or year, so this re-check corroborates the annual report silence on this point rather than resolving it; attempted a guessed TASS encyclopedia URL for this person, HTTP 403, page could not be verified. No qualification_degree or GICS value was invented to fill this gap, degrees index 0 institution and year remain null per the prefer-null-over-an-unverified-guess rule; the qualification_degree enum value Doctoral degree was however added to this entry, since the degree type, kandidat or doktor nauk, is independently confirmed by two sources even though the awarding institution and year are not. Added qualification_degree to all three education entries: Specialist degree for the 1993 SPbGU law education and the 2009 civil-aviation-university education, both phrased in the source as specialty graduations, consistent with the project-wide convention for this phrasing; Professional certification for the 1998 professional-retraining program at the Mezhotraslevoi institut, since the source itself labels it professionalnaya perepodgotovka rather than a degree. Added GICS tags to all professional_experience entries: Utilities, Utilities, Electric Utilities for PAO FSK EES, PAO Rossiiskie seti and PAO Federalnaya setevaya kompaniya Rosseti; null, null, null for Assotsiatsiya RNK SIGRE, a non-profit professional and industry association, not a GICS-classifiable operating company, consistent with the null treatment already applied to comparable industry associations in other processed tickers, for example CHMF World Steel Association. Normalized institution strings: Gosudarstvennyi universitet grazhdanskoi aviatsii to canonical Sankt-Peterburgskii gosudarstvennyi universitet grazhdanskoi aviatsii, an exact listed alias in university_names.json; Sankt-Peterburgskii gosudarstvennyi universitet and Mezhotraslevoi institut povysheniya kvalifikatsii i perepodgotovki rukovodyashchikh kadrov were already exact canonical matches, no change needed. No new institutions encountered for this person. No prior fact was deleted or overwritten. || Round 3 (2026-07-19) gap-fill: флаг round 2 -- degrees[0].institution и degrees[0].year были null -- закрыт. Через WebFetch найдена и перепроверена по двум независимым библиотечным каталогам (РГБ, НЭБ) диссертация, 2008 год, Санкт-Петербург, спец. 08.00.05, организация защиты С.-Петерб. гос. ун-т экономики и финансов. Добавлены institution=Санкт-Петербургский государственный экономический университет (нормализовано по university_names.json, точный alias) и year=2008 вместо null; надёжность высокая -- два независимых государственных библиотечных источника плюс содержательное соответствие карьере в авиации. qualification_degree остаётся Doctoral degree. Ни один ранее подтверждённый факт не удалён и не перезаписан; новых институтов для new_institutions_found не встречено. Публикации, патенты и h-index не подтверждены. Раунд качества (2026-07-30): институт и год докторской степени найдены и добавлены (ранее null/null) по независимым записям РГБ и РНБ; см. research_notes/FEES/quality_pass_round1_20260730.md."
+    },
+    {
+      "name": "Краинский Даниил Владимирович",
+      "current_role": "Член Правления, заместитель Генерального директора по правовому обеспечению",
+      "company_name": "ПАО \"ФСК - Россети\"",
+      "education": [
+        {
+          "institution": "Московский государственный юридический университет имени О.Е. Кутафина (МГЮА)",
+          "field": "юриспруденция",
+          "degree_or_qualification": null,
+          "year": 2002,
+          "description": "Окончил МГЮА по специальности \"юриспруденция\". Название вуза нормализовано к каноническому варианту по university_names.json (исходная строка источника: \"Московская государственная юридическая академия\").",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Российские сети\"",
+          "role": "советник, главный советник, заместитель Генерального директора по правовому обеспечению; член Правления",
+          "start_year": 2017,
+          "end_year": 2023,
+          "description": "Член Правления ПАО \"Российские сети\" с 11.04.2022.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Ленэнерго\"",
+          "role": "советник Генерального директора; затем заместитель Генерального директора по правовому и корпоративному управлению; член Правления",
+          "start_year": 2018,
+          "end_year": null,
+          "description": "Должности указаны в годовом отчете; часть функций исполнялась по совместительству.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Федеральная сетевая компания - Россети\"",
+          "role": "заместитель Генерального директора по правовому обеспечению",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "В 2024 году член Правления; участвовал в 43/43 заседаниях.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/FEES/Rosseti_AR2024_01.07.2025.pdf",
+          "title": "ПАО \"Россети\". Годовой отчет за 2024 год",
+          "fact": "Стр. 208: Краинский Д. В. указан как член Правления, заместитель Генерального директора по правовому обеспечению; указаны образование и опыт. Стр. 210-211: участие 43/43 заседаний Правления."
+        },
+        {
+          "url": "https://ar23.rosseti.ru/ru/corporate-governance/executive-bodies/management-board",
+          "title": "ПАО \"Россети\". Годовой отчет за 2023 год - Правление",
+          "fact": "Официальный интерактивный отчет подтверждает биографические сведения Краинского Д. В."
+        }
+      ],
+      "notes": "Ученые степени, публикации, патенты и h-index не найдены. || Round 2 (2026-07-18) gap-fill: no numeric or factual field was null for this person beyond the already-established absence of an academic degree, degrees is empty, concluded after a full round-1 search and not re-litigated per the gap-fill-only instruction. Added qualification_degree equal to Specialist degree to the single education entry, MGYuA 2002, specialty yurisprudentsiya, inferred with high confidence: Russian legal education was on the government list of professions retained under the single-tier 5-year specialist track both before and for a long period after the 2003 Bologna reform, and the source phrasing matches the specialty pattern used project-wide for Specialist-degree inferences. Added professional_experience GICS tags: Utilities, Utilities, Electric Utilities for PAO Rossiiskie seti, PAO Rosseti Lenenergo and PAO Federalnaya setevaya kompaniya Rosseti, all electricity transmission and distribution grid operators. Normalized institution string Moskovskaya gosudarstvennaya yuridicheskaya akademiya to its canonical name Moskovskii gosudarstvennyi yuridicheskii universitet imeni O.E. Kutafina MGYuA per university_names.json, exact listed alias. No new institutions encountered. No prior fact was deleted or overwritten. || Round 3 (2026-07-19) gap-fill: пересмотрены поля этого человека на предмет оставшихся null/неопределённых значений после round 2 -- значимых пробелов, отмеченных в notes round 1/2, не осталось (единственные null-поля -- end_year действующих ролей и degree_or_qualification там, где источник не называет отдельную квалификацию, что не является пробелом). Дополнительное исследование в этом раунде не проводилось, факты не пересматривались. Ни один ранее подтверждённый факт не удалён и не перезаписан."
+    },
+    {
+      "name": "Ляпунов Евгений Викторович",
+      "current_role": "Член Правления, заместитель Генерального директора - главный инженер",
+      "company_name": "ПАО \"ФСК - Россети\"",
+      "education": [
+        {
+          "institution": "Ивановский государственный энергетический университет имени В.И. Ленина",
+          "field": "электроэнергетические системы и сети",
+          "degree_or_qualification": null,
+          "year": 2003,
+          "description": "Окончил ИГЭУ по специальности \"электроэнергетические системы и сети\". Название вуза нормализовано к каноническому варианту по university_names.json (исходная строка источника: \"Ивановский государственный энергетический университет\").",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Филиал ПАО \"ФСК ЕЭС\" - МЭС Центра",
+          "role": "Первый заместитель Генерального директора - главный инженер",
+          "start_year": 2015,
+          "end_year": 2019,
+          "description": "Указано в годовом отчете ПАО \"Россети\" за 2024 год.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "Филиал ПАО \"ФСК ЕЭС\" - МЭС Западной Сибири",
+          "role": "Генеральный директор",
+          "start_year": 2019,
+          "end_year": 2020,
+          "description": "Указано в годовом отчете ПАО \"Россети\" за 2024 год.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "Филиал ПАО \"ФСК ЕЭС\" - МЭС Центра",
+          "role": "Первый заместитель Генерального директора",
+          "start_year": 2020,
+          "end_year": 2022,
+          "description": "Указано в годовом отчете ПАО \"Россети\" за 2024 год.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"ФСК ЕЭС\"",
+          "role": "советник Первого заместителя Генерального директора - главного инженера",
+          "start_year": 2021,
+          "end_year": 2022,
+          "description": "Указано в годовом отчете ПАО \"Россети\" за 2024 год (стр. 208) как часть карьерной хронологии Ляпунова Е. В.; зафиксировано в research_notes раунда 1, но пропущено при первичном формировании JSON, добавлено в раунде качества. Позиция советника при головной компании ПАО \"ФСК ЕЭС\", по годам частично перекрывается с должностью Первого заместителя Генерального директора филиала МЭС Центра.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Российские сети\"",
+          "role": "главный советник, и. о. Первого заместителя Генерального директора - главного инженера",
+          "start_year": 2022,
+          "end_year": 2023,
+          "description": "Указано в годовом отчете ПАО \"Россети\" за 2024 год.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Федеральная сетевая компания - Россети\"",
+          "role": "заместитель Генерального директора - главный инженер",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "В 2024 году член Правления; участвовал в 43/43 заседаниях.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/FEES/Rosseti_AR2024_01.07.2025.pdf",
+          "title": "ПАО \"Россети\". Годовой отчет за 2024 год",
+          "fact": "Стр. 208: Ляпунов Е. В. указан как член Правления, заместитель Генерального директора - главный инженер; указаны образование и опыт. Стр. 210-211: участие 43/43 заседаний Правления."
+        },
+        {
+          "url": "https://ar23.rosseti.ru/ru/corporate-governance/executive-bodies/management-board",
+          "title": "ПАО \"Россети\". Годовой отчет за 2023 год - Правление",
+          "fact": "Официальный интерактивный отчет подтверждает биографические сведения Ляпунова Е. В."
+        }
+      ],
+      "notes": "Ученые степени, публикации, патенты и h-index не найдены. || Round 2 (2026-07-18) gap-fill: no null factual field remained beyond the already-established absence of an academic degree, degrees is empty, concluded in round 1 and not re-litigated. Added qualification_degree equal to Specialist degree to the single education entry, IGEU 2003, specialty elektroenergeticheskie sistemy i seti, consistent with the project-wide convention for this phrasing and era. Added professional_experience GICS tags: Utilities, Utilities, Electric Utilities for all five entries, MES Tsentra, MES Zapadnoi Sibiri, PAO Rossiiskie seti and PAO Federalnaya setevaya kompaniya Rosseti are all electric-grid transmission operating units of the same group. Normalized institution string Ivanovskii gosudarstvennyi energeticheskii universitet to its canonical name Ivanovskii gosudarstvennyi energeticheskii universitet imeni V.I. Lenina per university_names.json, exact listed alias. No new institutions encountered. No prior fact was deleted or overwritten. || Round 3 (2026-07-19) gap-fill: пересмотрены поля этого человека на предмет оставшихся null/неопределённых значений после round 2 -- значимых пробелов, отмеченных в notes round 1/2, не осталось (единственные null-поля -- end_year действующих ролей и degree_or_qualification там, где источник не называет отдельную квалификацию, что не является пробелом). Дополнительное исследование в этом раунде не проводилось, факты не пересматривались. Ни один ранее подтверждённый факт не удалён и не перезаписан. Ученые степени, публикации, патенты и h-index не найдены. Раунд качества (2026-07-30): добавлена пропущенная запись (советник Первого заместителя Генерального директора - главного инженера ПАО \"ФСК ЕЭС\", 2021-2022), зафиксированная в research_notes раунда 1 по уже процитированному источнику (годовой отчет, стр. 208), но пропущенная при первичном формировании JSON; ни один факт не удален и не перезаписан."
+    },
+    {
+      "name": "Мольский Алексей Валерьевич",
+      "current_role": "Член Правления, заместитель Генерального директора по инвестициям и капитальному строительству",
+      "company_name": "ПАО \"ФСК - Россети\"",
+      "education": [
+        {
+          "institution": "Национальный исследовательский университет «МЭИ»",
+          "field": "электроэнергетические системы и сети; экономика и управление на предприятии",
+          "degree_or_qualification": null,
+          "year": 2004,
+          "description": "Окончил МЭИ по двум указанным специальностям. Название вуза нормализовано к каноническому варианту по university_names.json (исходная строка источника: \"Московский энергетический институт\").",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ФСК ЕЭС\"",
+          "role": "заместитель Председателя Правления",
+          "start_year": 2012,
+          "end_year": 2019,
+          "description": "Указано в годовом отчете ПАО \"Россети\" за 2024 год.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "Союз \"ЭНЕРГОСТРОЙ\"",
+          "role": "Председатель и Президент",
+          "start_year": 2017,
+          "end_year": 2019,
+          "description": "Указано в годовом отчете ПАО \"Россети\" за 2024 год.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"ФСК ЕЭС\"",
+          "role": "Первый заместитель Председателя Правления; затем заместитель Генерального директора по инвестициям, капитальному строительству и реализации услуг",
+          "start_year": 2019,
+          "end_year": 2022,
+          "description": "Карьерный переход внутри ФСК указан в годовом отчете.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Российские сети\"",
+          "role": "заместитель Генерального директора по инвестициям, капитальному строительству и реализации услуг; член Правления",
+          "start_year": 2020,
+          "end_year": 2023,
+          "description": "Указано в годовом отчете ПАО \"Россети\" за 2024 год.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Федеральная сетевая компания - Россети\"",
+          "role": "заместитель Генерального директора по инвестициям и капитальному строительству",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "В 2024 году член Правления; участвовал в 43/43 заседаниях.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/FEES/Rosseti_AR2024_01.07.2025.pdf",
+          "title": "ПАО \"Россети\". Годовой отчет за 2024 год",
+          "fact": "Стр. 208: Мольский А. В. указан как член Правления, заместитель Генерального директора по инвестициям и капитальному строительству; указаны образование и опыт. Стр. 210-211: участие 43/43 заседаний Правления."
+        },
+        {
+          "url": "https://ar23.rosseti.ru/ru/corporate-governance/executive-bodies/management-board",
+          "title": "ПАО \"Россети\". Годовой отчет за 2023 год - Правление",
+          "fact": "Официальный интерактивный отчет подтверждает биографические сведения Мольского А. В."
+        }
+      ],
+      "notes": "Ученые степени, публикации, патенты и h-index не найдены. || Round 2 (2026-07-18) gap-fill: no null factual field remained beyond the already-established absence of an academic degree, degrees is empty, concluded in round 1 and not re-litigated. Added qualification_degree equal to Specialist degree to the single education entry, MEI 2004, dual specialty wording, consistent with the project-wide convention. Added professional_experience GICS tags: Utilities, Utilities, Electric Utilities for PAO FSK EES, both entries, PAO Rossiiskie seti and PAO Federalnaya setevaya kompaniya Rosseti; null, null, null for Soyuz ENERGOSTROI, a non-profit self-regulating construction-industry association, not a GICS-classifiable operating company. Normalized institution string Moskovskii energeticheskii institut to its canonical name Natsionalnyi issledovatelskii universitet MEI per university_names.json, exact listed alias. No new institutions encountered. No prior fact was deleted or overwritten. || Round 3 (2026-07-19) gap-fill: пересмотрены поля этого человека на предмет оставшихся null/неопределённых значений после round 2 -- значимых пробелов, отмеченных в notes round 1/2, не осталось (единственные null-поля -- end_year действующих ролей и degree_or_qualification там, где источник не называет отдельную квалификацию, что не является пробелом). Дополнительное исследование в этом раунде не проводилось, факты не пересматривались. Ни один ранее подтверждённый факт не удалён и не перезаписан."
+    },
+    {
+      "name": "Полинов Алексей Александрович",
+      "current_role": "Член Правления, врио заместителя Генерального директора по стратегии",
+      "company_name": "ПАО \"ФСК - Россети\"",
+      "education": [
+        {
+          "institution": "Национальный исследовательский Московский государственный строительный университет",
+          "field": "экономика и управление на предприятии (в строительстве)",
+          "degree_or_qualification": null,
+          "year": 2000,
+          "description": "Окончил МГСУ по указанной специальности. Название вуза нормализовано к каноническому варианту по university_names.json (исходная строка источника: \"Московский государственный строительный университет\").",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "кандидат экономических наук",
+          "institution": null,
+          "year": 2004,
+          "description": "Степень указана в годовом отчете ПАО \"Россети\" за 2024 год. Год подтвержден по диссертации \"Формирование экономического механизма регулирования незавершенного строительства на муниципальном уровне\" (специальность 08.00.05, Москва, 2004): независимо подтвержден записями РГБ и РНБ. Организация защиты не названа ни в одной из проверенных карточек; институт остается null.",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Россети Ленэнерго\"",
+          "role": "советник Генерального директора; заместитель Генерального директора по экономике и финансам; член Правления",
+          "start_year": 2018,
+          "end_year": null,
+          "description": "Должности указаны в годовом отчете; член Правления ПАО \"Россети Ленэнерго\" с 2019 года.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Российские сети\"",
+          "role": "главный советник; врио заместителя Генерального директора по экономике и финансам; член Правления",
+          "start_year": 2021,
+          "end_year": 2023,
+          "description": "Указано в годовом отчете ПАО \"Россети\" за 2024 год.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"ФСК ЕЭС\" / ПАО \"Федеральная сетевая компания - Россети\"",
+          "role": "врио заместителя Генерального директора по экономике и финансам; заместитель Генерального директора по экономике и финансам; главный советник; врио заместителя Генерального директора по стратегии",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "В 2024 году член Правления; с ноября 2024 года врио заместителя Генерального директора по стратегии; участие в заседаниях Правления 40/43.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/FEES/Rosseti_AR2024_01.07.2025.pdf",
+          "title": "ПАО \"Россети\". Годовой отчет за 2024 год",
+          "fact": "Стр. 210: Полинов А. А. указан как член Правления, врио заместителя Генерального директора по стратегии; указаны образование, кандидатская степень и опыт. Стр. 210-211: участие 40/43 заседаний Правления."
+        },
+        {
+          "url": "https://ar23.rosseti.ru/ru/corporate-governance/executive-bodies/management-board",
+          "title": "ПАО \"Россети\". Годовой отчет за 2023 год - Правление",
+          "fact": "Официальный интерактивный отчет подтверждает биографические сведения Полинова А. А."
+        },
+        {
+          "url": "https://search.rsl.ru/ru/record/01002750726",
+          "title": "Российская государственная библиотека - каталог диссертаций",
+          "fact": "Подтверждает диссертацию Полинова А. А. (08.00.05, Москва, 2004); организация защиты в записи не указана."
+        },
+        {
+          "url": "https://rusneb.ru/catalog/000199_000009_002750726/",
+          "title": "Российская национальная электронная библиотека - карточка диссертации",
+          "fact": "Независимо подтверждает Москву и 2004 год, регистрационный номер д20331-05; организация защиты в записи не указана."
+        },
+        {
+          "url": "https://www.dissercat.com/content/formirovanie-ekonomicheskogo-mekhanizma-regulirovaniya-nezavershennogo-stroitelstva-na-munit",
+          "title": "disserCat - автореферат диссертации Полинова А. А.",
+          "fact": "Подтверждает автора, степень и специальность 08.00.05; тема согласуется с образованием в МГСУ (экономика и управление в строительстве)."
+        }
+      ],
+      "notes": "Публикации, патенты и h-index не подтверждены. || Round 2 (2026-07-18) gap-fill: the flagged gap was the kandidat economic sciences degree missing its institution and year, degrees index 0 institution is null, year is null. Local-filings re-check: the annual report bio section states only Kandidat ekonomicheskikh nauk with no institution or year. Web research attempted: WebSearch budget exhausted; used WebFetch on the ar23.rosseti.ru management-board page, which independently repeats the degree title without naming an institution or year, corroborating rather than resolving the gap. Degrees index 0 institution and year remain null per the prefer-null-over-an-unverified-guess rule; qualification_degree equal to Doctoral degree was added since the degree type itself is confirmed by two independent sources. Added qualification_degree equal to Specialist degree to the education entry, MGSU 2000, specialty wording, consistent with project-wide convention. Added professional_experience GICS tags: all three entries, PAO Rosseti Lenenergo, PAO Rossiiskie seti, PAO FSK EES and PAO Federalnaya setevaya kompaniya Rosseti, equal to Utilities, Utilities, Electric Utilities. Normalized institution string Moskovskii gosudarstvennyi stroitelnyi universitet to its canonical name Natsionalnyi issledovatelskii Moskovskii gosudarstvennyi stroitelnyi universitet per university_names.json, exact listed alias. No new institutions encountered. No prior fact was deleted or overwritten. || Round 3 (2026-07-19) gap-fill: флаг round 2 -- degrees[0].institution и year были null -- частично закрыт. Найдена диссертация Полинова А. А., Москва, 2004, спец. 08.00.05; организация защиты ни в одной из двух независимых записей (РГБ, НЭБ) не названа, поэтому institution остаётся null. Год 2004 добавлен с высокой уверенностью (два независимых источника + содержательное соответствие образованию в МГСУ). qualification_degree остаётся Doctoral degree. Ни один ранее подтверждённый факт не удалён и не перезаписан. Публикации, патенты и h-index не подтверждены. Раунд качества (2026-07-30): год защиты найден и добавлен (2004, ранее null) по независимым записям РГБ и РНБ; организация защиты по-прежнему не названа ни в одном проверенном источнике - institution остается null (нерешенный пробел, см. research_notes/FEES/quality_pass_round1_20260730.md)."
+    },
+    {
+      "name": "Харитонов Владимир Вячеславович",
+      "current_role": "Член Правления, заместитель Генерального директора - руководитель Аппарата",
+      "company_name": "ПАО \"ФСК - Россети\"",
+      "education": [
+        {
+          "institution": "Российский университет дружбы народов имени Патриса Лумумбы",
+          "field": "энергомашиностроение",
+          "degree_or_qualification": "магистр техники и технологии",
+          "year": 2002,
+          "description": "Окончил РУДН по специальности \"магистр техники и технологии, энергомашиностроение\". Название вуза нормализовано к каноническому варианту по university_names.json (исходная строка источника: \"Российский университет дружбы народов\").",
+          "qualification_degree": "Master's degree"
+        },
+        {
+          "institution": "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+          "field": "менеджмент",
+          "degree_or_qualification": "MBA \"Топ-менеджер\"",
+          "year": 2009,
+          "description": "Окончил программу MBA \"Топ-менеджер\" по специализации \"Менеджмент\". Название вуза нормализовано к каноническому варианту по university_names.json (исходная строка источника: \"Российская академия народного хозяйства и государственной службы при Президенте РФ\").",
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "кандидат технических наук",
+          "institution": "Российский университет дружбы народов имени Патриса Лумумбы",
+          "year": 2005,
+          "description": "Степень указана в годовом отчете ПАО \"Россети\" за 2024 год. Институт и год найдены и подтверждены двумя независимыми биографическими справочными источниками (eepir.ru, energostrana.ru): в 2005 году диссертационным советом РУДН присуждена степень кандидата технических наук - согласуется с профильным образованием (РУДН, 2002, энергомашиностроение).",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "АО \"ФИЦ\"",
+          "role": "Генеральный директор",
+          "start_year": 2018,
+          "end_year": 2021,
+          "description": "Указано в годовом отчете ПАО \"Россети\" за 2024 год (запись объединяла АО \"ФИЦ\" и АО \"НИЦ ЕЭС\" в одну строку; разделено в раунде качества после подтверждения различного профиля деятельности двух организаций). АО \"ФИЦ\" (Федеральный испытательный центр) - научно-исследовательская и испытательная организация энергетической отрасли, дочерняя структура группы \"Россети\", управляется АО \"НТЦ ФСК ЕЭС\"; занимается НИОКР, испытаниями энергооборудования и проектами цифровизации сетей.",
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "АО \"НИЦ ЕЭС\"",
+          "role": "Генеральный директор",
+          "start_year": 2018,
+          "end_year": 2021,
+          "description": "Указано в годовом отчете ПАО \"Россети\" за 2024 год (запись объединяла АО \"ФИЦ\" и АО \"НИЦ ЕЭС\" в одну строку; разделено в раунде качества после подтверждения различного профиля деятельности двух организаций). Несмотря на название (\"научно-исследовательский центр\"), по данным официальной страницы группы \"Россети\" основной вид деятельности АО \"НИЦ ЕЭС\" - сдача в аренду и эксплуатация принадлежащих обществу объектов коммерческой недвижимости, а не исследовательская работа.",
+          "sector": "Real Estate",
+          "industry_group": "Real Estate Management & Development (New)",
+          "industry": "Real Estate Management & Development (New Code)"
+        },
+        {
+          "organization": "Ассоциация \"Цифровая энергетика\"",
+          "role": "член Правления",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Профессиональная ассоциация, указанная в биографии.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "АО \"НТЦ ФСК ЕЭС\"",
+          "role": "Генеральный директор управляющей организации, осуществляющей полномочия ЕИО АО \"НИЦ ЕЭС\" и АО \"ФИЦ\"",
+          "start_year": 2021,
+          "end_year": 2022,
+          "description": "В 2024 году член Правления; участие в заседаниях Правления 42/43. Round 3 (2026-07-19): GICS по собственному виду деятельности организации, а не материнской компании -- по официальному сайту АО \"Россети Научно-технический центр\" (ntc-power.ru), организация ведёт научно-исследовательские работы, проектирование и инжиниринг объектов электросетевого комплекса, испытания и сертификацию оборудования и производство инновационного электротехнического оборудования как центр компетенций группы \"Россети\"; основной вид деятельности -- профессиональные научно-технические и инжиниринговые услуги, а не производство или передача электроэнергии, поэтому классифицирована как Industrials / Commercial & Professional Services / Professional Services, а не Utilities.",
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "Ассоциация \"РНК СИГРЭ\"",
+          "role": "заместитель Председателя",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Профессиональная ассоциация, указанная в биографии.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"Российские сети\"",
+          "role": "главный советник",
+          "start_year": 2022,
+          "end_year": 2023,
+          "description": "Указано в годовом отчете ПАО \"Россети\" за 2024 год.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Федеральная сетевая компания - Россети\"",
+          "role": "заместитель Генерального директора - руководитель Аппарата",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "В 2024 году член Правления; участие в заседаниях Правления 42/43.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "АО \"ФИЦ\", АО \"НИЦ ЕЭС\", АО \"НТЦ ФСК ЕЭС\"",
+          "role": "руководитель научно-технических организаций",
+          "start_year": 2018,
+          "end_year": 2022,
+          "description": "Подтвержден управленческий опыт в научно-технических организациях; личные публикации и метрики не подтверждены."
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/FEES/Rosseti_AR2024_01.07.2025.pdf",
+          "title": "ПАО \"Россети\". Годовой отчет за 2024 год",
+          "fact": "Стр. 210: Харитонов В. В. указан как член Правления, заместитель Генерального директора - руководитель Аппарата; указаны образование, MBA, кандидатская степень и опыт. Стр. 210-211: участие 42/43 заседаний Правления."
+        },
+        {
+          "url": "https://ar23.rosseti.ru/ru/corporate-governance/executive-bodies/management-board",
+          "title": "ПАО \"Россети\". Годовой отчет за 2023 год - Правление",
+          "fact": "Официальный интерактивный отчет подтверждает биографические сведения Харитонова В. В."
+        },
+        {
+          "url": "https://eepir.ru/person/haritonov-vladimir-vyacheslavovich/",
+          "title": "EEPIR - биографическая справка Харитонова В. В.",
+          "fact": "Подтверждает, что в 2005 году диссертационным советом РУДН Харитонову В. В. присуждена степень кандидата технических наук."
+        },
+        {
+          "url": "https://energostrana.ru/persons/haritonov-vladimir-vyacheslavovich.html",
+          "title": "Энергострана.ру - биографическая справка Харитонова В. В.",
+          "fact": "Независимо подтверждает присуждение степени кандидата технических наук диссертационным советом РУДН в 2005 году."
+        },
+        {
+          "url": "https://spark-interfax.ru/sankt-peterburg-moskovski/ao-fits-inn-7820338897-ogrn-1147847405474-f75a24466cb242038ea6b444cbdd2f80",
+          "title": "СПАРК-Интерфакс / агрегаторы ЕГРЮЛ - карточка АО \"ФИЦ\"",
+          "fact": "Основной вид деятельности АО \"ФИЦ\" - научные исследования и разработки; управляющая организация - АО \"НТЦ ФСК ЕЭС\"; генеральный директор управляющей организации - Харитонов В. В."
+        },
+        {
+          "url": "https://www.rosseti.ru/about/sites/?ELEMENT_ID=12364",
+          "title": "ПАО \"Россети\" - официальная страница дочернего общества АО \"НИЦ ЕЭС\"",
+          "fact": "Указывает, что основной вид деятельности АО \"НИЦ ЕЭС\" - сдача в аренду и эксплуатация объектов коммерческой недвижимости, принадлежащих обществу (не НИОКР, несмотря на название)."
+        },
+        {
+          "url": "https://ntc-power.ru/",
+          "title": "АО \"Россети Научно-технический центр\" - официальный сайт, описание деятельности",
+          "fact": "Round 3 (2026-07-19): официальное описание собственного вида деятельности -- научно-исследовательские работы, проектирование и инжиниринг объектов электросетевого комплекса, испытания и сертификация оборудования, производство инновационного электротехнического оборудования; >850 специалистов, выручка свыше 3 млрд руб., основана в 2006 слиянием отраслевых НИИ. Использовано для GICS-классификации записи АО \"НТЦ ФСК ЕЭС\" (Харитонов В. В., 2021-2022)."
+        }
+      ],
+      "notes": "Не найден верифицированный список публикаций, патенты или h-index. || Round 2 (2026-07-18) gap-fill: the flagged gap was the kandidat technical sciences degree missing its institution and year, degrees index 0 institution is null, year is null. Local-filings re-check: the annual report bio section states only Kandidat tekhnicheskikh nauk with no institution or year. Web research attempted: WebSearch budget exhausted; used WebFetch on the ar23.rosseti.ru management-board page, which independently repeats the degree title without naming an institution or year, corroborating rather than resolving the gap. Degrees index 0 institution and year remain null per the prefer-null-over-an-unverified-guess rule; qualification_degree equal to Doctoral degree was added since the degree type itself is confirmed by two independent sources. Added qualification_degree to both education entries: Master degree for the 2002 RUDN entry, because the source explicitly names the awarded qualification as magistr tekhniki i tekhnologii, an explicit Master-level qualification, not an inferred one; MBA for the 2009 RANEPA entry, because the source explicitly names it as an MVA Top-menedzher program. Added professional_experience GICS tags: null, null, null for AO FITs and AO NITs EES, 2018 to 2021, and AO NTTs FSK EES, 2021 to 2022, these are power-sector testing, R and D and standards organizations whose precise standalone commercial classification, for example testing and certification services versus an in-group utility-support function, is not independently confirmed by any source found in this project research, so per the do-not-guess-a-GICS-bucket-you-cannot-support rule these three entries are left null rather than defaulted to Utilities or forced into a Professional Services guess; null, null, null for Assotsiatsiya Tsifrovaya energetika, a non-profit industry association, and Assotsiatsiya RNK SIGRE, a non-profit professional association; Utilities, Utilities, Electric Utilities for PAO Rossiiskie seti and PAO Federalnaya setevaya kompaniya Rosseti. Normalized institution string Rossiiskii universitet druzhby narodov to its canonical name Rossiiskii universitet druzhby narodov imeni Patrisa Lumumby, and Rossiiskaya akademiya narodnogo khozyaistva i gosudarstvennoi sluzhby pri Prezidente RF to its canonical name Rossiiskaya akademiya narodnogo khozyaistva i gosudarstvennoi sluzhby pri Prezidente Rossiiskoi Federatsii, both per university_names.json exact listed aliases. No new institutions encountered. No prior fact was deleted or overwritten. || Round 3 (2026-07-19) gap-fill: (1) degrees[0].institution/year (кандидат технических наук) -- повторная попытка неуспешна; найдена диссертация \"Разработка и исследование транспортной технологии для сетей NGN\" (спец. 05.12.13, телеком) автора Харитонов Владимир Владимирович -- отчество не совпадает (Владимирович, а не Вячеславович), тема тоже не по профилю (телеком, а не энергетика); факт отклонён как чужой, institution и year остаются null. (2) Добавлена GICS Industrials / Commercial & Professional Services / Professional Services для записи АО \"НТЦ ФСК ЕЭС\" (2021-2022) по официальному ntc-power.ru. (3) Запись АО \"ФИЦ\" и АО \"НИЦ ЕЭС\" (2018-2021) повторно проверена и оставлена null -- обнаружена новая неоднозначность по НИЦ ЕЭС (возможный тёзка в сфере офисной недвижимости); единая классификация не проставлена. Ни один ранее подтверждённый факт не удалён и не перезаписан; новых институтов для new_institutions_found не встречено. Не найден верифицированный список публикаций, патенты или h-index. Раунд качества (2026-07-30): найдены и добавлены институт и год кандидатской степени (РУДН, 2005; ранее null/null). Разделена объединенная запись \"АО ФИЦ и АО НИЦ ЕЭС\" на две отдельные строки professional_experience: АО \"ФИЦ\" классифицировано как Industrials/Commercial & Professional Services/Professional Services (та же научно-испытательная деятельность, что и АО \"НТЦ ФСК ЕЭС\", уже классифицированное так в предыдущем раунде); АО \"НИЦ ЕЭС\" классифицировано отдельно как Real Estate/Real Estate Management & Development (New) - по официальным данным группы \"Россети\" эта компания, несмотря на название, фактически занимается арендой и эксплуатацией коммерческой недвижимости, а не исследованиями. Это разрешает неопределенность, отмеченную в раунде 3 (нельзя было применить единую GICS-метку к двум организациям с разным профилем деятельности, объединенным в одну строку)."
+    },
+    {
+      "name": "Новак Александр Валентинович",
+      "current_role": "Председатель Совета директоров ПАО \"Россети\"; Заместитель Председателя Правительства Российской Федерации",
+      "company_name": "ПАО \"ФСК - Россети\"",
+      "education": [
+        {
+          "institution": "Норильский государственный индустриальный институт",
+          "field": "экономика и управление в металлургии",
+          "degree_or_qualification": "инженер-экономист",
+          "year": 1993,
+          "description": "Окончил Норильский индустриальный институт. Название вуза нормализовано к каноническому варианту по university_names.json (исходная строка источника: \"Норильский индустриальный институт\").",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "field": "менеджмент",
+          "degree_or_qualification": null,
+          "year": 2009,
+          "description": "Окончил МГУ по специальности \"менеджмент\". Название вуза нормализовано к каноническому варианту по university_names.json (исходная строка источника: \"Московский государственный университет им. М. В. Ломоносова\").",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Министерство финансов Российской Федерации",
+          "role": "заместитель Министра финансов РФ",
+          "start_year": 2008,
+          "end_year": 2012,
+          "description": "Подтверждено биографическими справками.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Министерство энергетики Российской Федерации",
+          "role": "Министр энергетики РФ",
+          "start_year": 2012,
+          "end_year": 2020,
+          "description": "Подтверждено биографическими справками.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Правительство Российской Федерации",
+          "role": "Заместитель Председателя Правительства РФ",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "Должность указана в годовом отчете ПАО \"Россети\" как должность Председателя Совета директоров.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"Россети\"",
+          "role": "Председатель Совета директоров",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Годовой отчет за 2024 год указывает решения Совета директоров от 30.06.2023 и 01.07.2024 об избрании Новака А. В. председателем.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/FEES/Rosseti_AR2024_01.07.2025.pdf",
+          "title": "ПАО \"Россети\". Годовой отчет за 2024 год",
+          "fact": "Стр. 192-193: Председателем Совета директоров избран Заместитель Председателя Правительства РФ Новак Александр Валентинович; указаны решения от 30.06.2023 и 01.07.2024."
+        },
+        {
+          "url": "https://tass.ru/encyclopedia/person/novak-aleksandr-valentinovich",
+          "title": "ТАСС Энциклопедия - Новак Александр Валентинович",
+          "fact": "Биографическая справка подтверждает образование и государственную карьеру Новака А. В."
+        },
+        {
+          "url": "https://ria.ru/20240511/novak-1945202918.html",
+          "title": "РИА Новости - Биография Александра Новака",
+          "fact": "Биографическая справка использована для сверки образования и карьеры."
+        }
+      ],
+      "notes": "Ученые степени, публикации, патенты и h-index не найдены. || Round 2 (2026-07-18) gap-fill: no factual field was null for this person; the only additions are the mechanical GICS, qualification and university-normalization pass. Added qualification_degree equal to Specialist degree to both education entries: the 1993 Norilskii industrialnyi institut entry, explicit named qualification inzhener-ekonomist, a classic pre-1993 Soviet-era 5-year specialist engineer-economist diploma, high confidence; and the 2009 MGU menedzhment entry, inferred with moderate to high confidence from the source okonchil po spetsialnosti menedzhment wording, which follows the same specialty pattern used project-wide as the basis for Specialist-degree inferences, note this is a second or executive-track higher education completed while the person held senior government office, no source specifies whether the underlying program was formally registered as a specialist, bachelor or executive-education track, so this value carries somewhat lower confidence than the pre-2003 entries and is flagged here for that reason, but is not left null because the explicit specialty wording is a positive signal under the established convention rather than an absence of information. Added professional_experience GICS tags: null, null, null for Ministerstvo finansov Rossiiskoi Federatsii, Ministerstvo energetiki Rossiiskoi Federatsii and Pravitelstvo Rossiiskoi Federatsii, all government bodies, not GICS-classifiable commercial organizations; Utilities, Utilities, Electric Utilities for PAO Rosseti, Chairman of the Board of Directors role. Normalized institution string Norilskii industrialnyi institut to its canonical name Norilskii gosudarstvennyi industrialnyi institut, and Moskovskii gosudarstvennyi universitet im. M. V. Lomonosova to Moskovskii gosudarstvennyi universitet imeni M.V. Lomonosova, both per university_names.json exact listed aliases. No new institutions encountered. No prior fact was deleted or overwritten. || Round 3 (2026-07-19) gap-fill: пересмотрены поля этого человека на предмет оставшихся null/неопределённых значений после round 2 -- значимых пробелов, отмеченных в notes round 1/2, не осталось (единственные null-поля -- end_year действующих ролей и degree_or_qualification там, где источник не называет отдельную квалификацию, что не является пробелом). Дополнительное исследование в этом раунде не проводилось, факты не пересматривались. Ни один ранее подтверждённый факт не удалён и не перезаписан."
+    },
+    {
+      "name": "Макаров Владимир Александрович",
+      "current_role": "Руководитель подразделения внутреннего контроля и управления рисками / директор по внутреннему контролю и управлению рисками - начальник Департамента внутреннего контроля и управления рисками ПАО \"Россети\"",
+      "company_name": "ПАО \"ФСК - Россети\"",
+      "education": [
+        {
+          "institution": "Московский государственный юридический университет имени О.Е. Кутафина (МГЮА)",
+          "field": "юриспруденция",
+          "degree_or_qualification": "юрист",
+          "year": 1994,
+          "description": "Окончил МГЮА по специальности \"юриспруденция\", квалификация юрист. Название вуза нормализовано к каноническому варианту по university_names.json (исходная строка источника: \"Московская государственная юридическая академия\").",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Россети\"",
+          "role": "директор по внутреннему контролю и управлению рисками - начальник Департамента внутреннего контроля и управления рисками",
+          "start_year": null,
+          "end_year": null,
+          "description": "Роль подтверждена внешним официальным источником группы; локальный годовой отчет FEES не раскрывает персональную биографию.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains FEES, ПАО \"ФСК - Россети\", Макаров Владимир Александрович, role: руководитель подразделения внутреннего контроля и управления рисками."
+        },
+        {
+          "url": "https://www.rossetisk.ru/shareholders_and_investors/korporativnoe_upravlenie/sovet_direktorov/",
+          "title": "ПАО \"Россети Северный Кавказ\" - Совет директоров",
+          "fact": "Официальный сайт ДЗО указывает Макарова В. А. как директора по внутреннему контролю и управлению рисками - начальника Департамента внутреннего контроля и управления рисками ПАО \"Россети\"."
+        },
+        {
+          "url": "https://rossetimr.ru/upload/iblock/ede/7v6kiq7kxillcbgh5ke335qepj91kkuw.pdf",
+          "title": "Материалы / отчет ПАО \"Россети Московский регион\"",
+          "fact": "Биографический фрагмент указывает образование Макарова В. А.: 1994, Московская государственная юридическая академия, юриспруденция, юрист."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/FEES/Rosseti_AR2024_01.07.2025.pdf",
+          "title": "ПАО \"Россети\". Годовой отчет за 2024 год",
+          "fact": "Локальный годовой отчет проверен; персональная биография Макарова В. А. не найдена."
+        },
+        {
+          "url": "https://ar2024.mrsk-1.ru/ru/corporate-governance",
+          "title": "ПАО \"Россети Центр\". Интерактивный годовой отчет за 2024 год - Корпоративное управление",
+          "fact": "Round 3 (2026-07-19) gap-fill re-check: просмотрены подстраницы Правление, Единоличный исполнительный орган и Управление рисками, внутренний контроль и внутренний аудит; персональная биография и карьерные даты Макарова В. А. не найдены (подстраница risk-management-internal-control-and-internal-audit вернула HTTP 404)."
+        }
+      ],
+      "notes": "Слабое место: полный предыдущий опыт не найден; роль в 2024 году основана на CSV и внешних источниках группы, а не на биографии в локальном FEES-отчете. || Round 2 (2026-07-18) gap-fill: the flagged gap, per round-1 notes polnyi predydushchii opyt ne naiden, is the professional_experience entry for this individual having start_year null and end_year null and no prior employer beyond the single current role. Local-filings re-check: re-searched the full Rosseti_AR2024_01.07.2025.pdf, all 12 Prilozheniya k GO appendix PDFs and the Otchetnost MSFO PDF for Makarov, no hits found in the FEES-specific report set beyond what round 1 already established, this individual role is disclosed only on a sister-company DZO page, not in the FEES-level annual report. Web research attempted: the WebSearch budget was exhausted before this round began; a targeted WebFetch attempt on a likely candidate URL, the Rosseti-group materials PDF hosted on rossetimr.ru that had surfaced this individual education in round 1, returned HTTP 403 this round, the link appears to have expired or been access-restricted since round 1, and did not yield new information. No new start_year, end_year or prior-employer fact was found or verified, so per the prefer-null-over-an-unverified-guess rule these fields remain null; the round-1 weak-spot assessment stands unresolved. Added a professional_experience GICS tag of Utilities, Utilities, Electric Utilities for PAO Rosseti. Added qualification_degree equal to Specialist degree to the single education entry, MGYuA 1994, explicit named qualification yurist, a classic pre-2003 5-year specialist law diploma, high confidence. Normalized institution string Moskovskaya gosudarstvennaya yuridicheskaya akademiya to its canonical name Moskovskii gosudarstvennyi yuridicheskii universitet imeni O.E. Kutafina MGYuA per university_names.json, exact listed alias. No new institutions encountered. No prior fact was deleted or overwritten. || Round 3 (2026-07-19) gap-fill: повторная попытка по professional_experience[0].start_year/end_year=null. Через WebFetch проверены общие формулировки и интерактивный годовой отчет ПАО \"Россети Центр\" за 2024 год (Правление, ЕИО, Управление рисками) -- биография Макарова В. А. отсутствует, подстраница управления рисками вернула HTTP 404. Иные найденные результаты по этому имени -- предприниматель (ИНН 5609...), главный инженер Артемовской ТЭЦ (1953 г.р.) -- явные однофамильцы, отклонены. Новых дат не найдено; start_year/end_year остаются null. Слабое место нерешено третий раунд подряд. Ни один ранее подтверждённый факт не удалён и не перезаписан. Слабое место: полный предыдущий опыт не найден; роль в 2024 году основана на CSV и внешних источниках группы, а не на биографии в локальном FEES-отчете. Раунд качества (2026-07-30): выполнена одна дополнительная попытка закрыть пробел свежими запросами (\"Макаров Владимир Александрович\" Россети до 2022 карьера прежнее место работы; tadviser Макаров Владимир Александрович Россети; Россети назначен директор по внутреннему контролю и управлению рисками Макаров пресс-релиз) - ни один не пересекается с запросами раундов 1 и 3. Найдено косвенное упоминание другого держателя близкой должности (Игорь Феоктистов) в новостном материале РИА \"Дагестан\", но не относящееся напрямую к датам работы Макарова В. А. и не использовано (недостаточно надежно для конкретной даты/фактов). start_year/end_year предыдущего опыта по-прежнему не найдены; слабое место остается нерешенным. Подробности - research_notes/FEES/quality_pass_round1_20260730.md."
+    },
+    {
+      "name": "Ульянов Антон Сергеевич",
+      "current_role": "Руководитель подразделения внутреннего аудита / директор по внутреннему аудиту - начальник Департамента внутреннего аудита ПАО \"Россети\"",
+      "company_name": "ПАО \"ФСК - Россети\"",
+      "education": [
+        {
+          "institution": "Московский государственный юридический университет имени О.Е. Кутафина (МГЮА)",
+          "field": "юриспруденция",
+          "degree_or_qualification": null,
+          "year": 2004,
+          "description": "Окончил МГЮА по специальности \"юриспруденция\". Название вуза нормализовано к каноническому варианту по university_names.json (исходная строка источника: \"Московская государственная юридическая академия\").",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "АНО ДПО \"Институт внутренних аудиторов\"",
+          "field": "внутренний аудит",
+          "degree_or_qualification": "профессиональные квалификации внутреннего аудитора / аудитора-консультанта / главного аудитора",
+          "year": 2021,
+          "description": "В 2021 году подтверждены квалификации внутреннего аудитора и аудитора-консультанта; в 2024 году - программа главного аудитора.",
+          "qualification_degree": "Professional certification"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Генеральная прокуратура Российской Федерации",
+          "role": "служба в органах прокуратуры",
+          "start_year": 2017,
+          "end_year": 2021,
+          "description": "Указано в годовых отчетах ДЗО \"Россетей\".",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"ФСК ЕЭС\" / ПАО \"Российские сети\"",
+          "role": "главный советник; врио директора по внутреннему контролю и управлению рисками; директор по внутреннему контролю и управлению рисками",
+          "start_year": 2021,
+          "end_year": 2022,
+          "description": "Указано в годовых отчетах ДЗО \"Россетей\".",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"ФСК - Россети\" / ПАО \"Россети\"",
+          "role": "директор по внутреннему аудиту - начальник Департамента внутреннего аудита",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Подтверждено несколькими годовыми отчетами ДЗО за 2024 год.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains FEES, ПАО \"ФСК - Россети\", Ульянов Антон Сергеевич, role: руководитель подразделения внутреннего аудита."
+        },
+        {
+          "url": "https://www.mrsk-1.ru/upload/documents/GO_PJSC_Rosseti_Centr_2024.pdf",
+          "title": "ПАО \"Россети Центр\". Годовой отчет 2024",
+          "fact": "Отчет ДЗО за 2024 год подтверждает должность Ульянова А. С. в ПАО \"Россети\", образование, квалификации и карьеру."
+        },
+        {
+          "url": "https://rosseti-kuban.ru/upload/iblock/0a9/0a92fb602c7b1113c098f4f514fa3617/Godovoy_otchet_PAO_Rosseti_Kuban_za_2024_god.pdf",
+          "title": "ПАО \"Россети Кубань\". Годовой отчет 2024",
+          "fact": "Отчет ДЗО за 2024 год подтверждает должность директора по внутреннему аудиту - начальника Департамента внутреннего аудита ПАО \"Россети\" и биографию."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/FEES/Rosseti_AR2024_01.07.2025.pdf",
+          "title": "ПАО \"Россети\". Годовой отчет за 2024 год",
+          "fact": "Локальный годовой отчет проверен; персональная биография Ульянова А. С. не найдена, но раздел внутреннего аудита прочитан."
+        }
+      ],
+      "notes": "Ученые степени, публикации, патенты и h-index не найдены. || Round 2 (2026-07-18) gap-fill: no numeric or factual field was null for this person beyond the already-established absence of an academic degree, degrees is empty, concluded in round 1 and not re-litigated; the mechanical GICS, qualification and university-normalization pass was applied. Added qualification_degree equal to Specialist degree to the 2004 MGYuA education entry, specialty yurisprudentsiya, consistent with the project-wide convention for Russian legal specialist-track education; added qualification_degree equal to Professional certification to the 2021 ANO DPO Institut vnutrennikh auditorov entry, since the source explicitly describes these as professionalnye kvalifikatsii, professional qualifications and certifications, not an academic degree. Added professional_experience GICS tags: null, null, null for Generalnaya prokuratura Rossiiskoi Federatsii, a government law-enforcement body, not a GICS-classifiable commercial organization; Utilities, Utilities, Electric Utilities for PAO FSK EES and PAO Rossiiskie seti, and PAO FSK Rosseti and PAO Rosseti, electricity transmission-grid group entities. Normalized institution string Moskovskaya gosudarstvennaya yuridicheskaya akademiya to its canonical name Moskovskii gosudarstvennyi yuridicheskii universitet imeni O.E. Kutafina MGYuA; ANO DPO Institut vnutrennikh auditorov was already an exact canonical match, no change needed. No new institutions encountered. No prior fact was deleted or overwritten. || Round 3 (2026-07-19) gap-fill: пересмотрены поля этого человека на предмет оставшихся null/неопределённых значений после round 2 -- значимых пробелов, отмеченных в notes round 1/2, не осталось (единственные null-поля -- end_year действующих ролей и degree_or_qualification там, где источник не называет отдельную квалификацию, что не является пробелом). Дополнительное исследование в этом раунде не проводилось, факты не пересматривались. Ни один ранее подтверждённый факт не удалён и не перезаписан."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/FEES/Rosseti_AR2024_01.07.2025.pdf",
+      "title": "ПАО \"Россети\". Годовой отчет за 2024 год",
+      "fact": "Стр. 208-211: состав Правления ПАО \"Россети\" в 2024 году, включая Рюмина, Мурова, Краинского, Ляпунова, Мольского, Полинова и Харитонова; указано, что в течение отчетного года изменений в составе Правления не происходило."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/FEES/Rosseti_AR2024_01.07.2025.pdf",
+      "title": "ПАО \"Россети\". Годовой отчет за 2024 год",
+      "fact": "Стр. 192-193: Председателем Совета директоров избран Заместитель Председателя Правительства РФ Новак Александр Валентинович."
+    },
+    {
+      "url": "https://ar23.rosseti.ru/ru/corporate-governance/executive-bodies/management-board",
+      "title": "ПАО \"Россети\". Годовой отчет за 2023 год - Правление",
+      "fact": "Официальный интерактивный отчет использован как дополнительное подтверждение биографий членов Правления."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_Отчеты_2024/FEES/Rosseti_AR2024_01.07.2025.pdf",
+      "title": "ПАО \"Россети\". Годовой отчет за 2024 год",
+      "fact": "Основной локальный источник по составу Правления, роли CEO, председателю Совета директоров и биографиям членов Правления."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/FEES/Отчетность МСФО за 2024 год (для раскрытия).pdf",
+      "title": "ПАО \"Россети\". Консолидированная финансовая отчетность за 2024 год",
+      "fact": "Проверена как локальный документ; персональных биографий не содержит."
+    },
+    {
+      "url": "https://www.rosseti-lenenergo.ru/about/management/singlemanagementbody/",
+      "title": "ПАО \"Россети Ленэнерго\" - Единоличный исполнительный орган",
+      "fact": "Официальный источник по биографии Рюмина А. В."
+    },
+    {
+      "url": "https://tass.ru/encyclopedia/person/novak-aleksandr-valentinovich",
+      "title": "ТАСС Энциклопедия - Новак Александр Валентинович",
+      "fact": "Источник по образованию и государственной карьере Новака А. В."
+    },
+    {
+      "url": "https://energyland.info/news-show--electro-266400",
+      "title": "Energyland - В Курской области работники блока безопасности \"Россетей\" совершили около тысячи выездов в \"серую зону\"",
+      "fact": "Вспомогательный источник по роли Кулишова Г. В. в блоке безопасности и итогам работы блока безопасности в 2024 году."
+    },
+    {
+      "url": "https://www.mrsk-1.ru/upload/documents/GO_PJSC_Rosseti_Centr_2024.pdf",
+      "title": "ПАО \"Россети Центр\". Годовой отчет 2024",
+      "fact": "Источник по биографии Ульянова А. С."
+    },
+    {
+      "url": "https://www.rossetisk.ru/shareholders_and_investors/korporativnoe_upravlenie/sovet_direktorov/",
+      "title": "ПАО \"Россети Северный Кавказ\" - Совет директоров",
+      "fact": "Вспомогательный источник по должности Макарова В. А."
+    }
+  ],
+  "validation_notes": "Обработано 11 человек из CSV для FEES. Проверено 14 локальных PDF в папке MOEXBMI_Отчеты_2024/FEES; основной биографический источник - годовой отчет ПАО \"Россети\" за 2024 год, финансовая отчетность и приложения проверены и не содержат биографий. Выполнен 1 полный research round с дополнительными поисковыми проходами по людям без официальной биографии. CEO определен как Рюмин Андрей Валерьевич. Состав Правления в 2024 году подтвержден локальным годовым отчетом; председатель Совета директоров Новак А. В. подтвержден локальным отчетом. Люди без подтвержденного образования: Кулишов Григорий Викторович. Существенная неопределенность: Кулишов Г. В. (нет официальной биографии, образование и прежний опыт не найдены); Макаров В. А. (роль и образование подтверждены внешними источниками группы, но нет полной карьерной биографии и локального FEES-профиля). Слабые источники использованы только для Кулишова и частично Макарова; смысл фактов не расширялся. Однофамильцы исключались по отсутствию связки с ПАО \"Россети\", электросетевой отраслью, должностью и карьерной цепочкой. Научные публикации, патенты и h-index не добавлены, так как подтвержденные профили нужных лиц не найдены; ученые степени сохранены только там, где они подтверждены отчетами. Неразрешенных конфликтов не осталось; оставшиеся пробелы отражены в notes. || Round 2 (2026-07-18, gap-fill plus GICS/qualification/university-normalization pass, per REFINEMENT.md): (1) Gap-fill research, local filings first then web, targeted exactly the fields flagged as null or uncertain in round-1 notes: Kulishov G. V., empty education and degrees, professional_experience with null start_year and end_year; Murov A. E., Polinov A. A. and Kharitonov V. V., each with a named academic degree, kandidat or doktor nauk, whose institution and year were null; Makarov V. A., incomplete prior career. Local documents re-checked first: the full Rosseti_AR2024_01.07.2025.pdf, 216 pages, all 12 Prilozheniya k GO appendix PDFs and the Otchetnost MSFO PDF were re-scanned programmatically for each of these names, confirming round 1, Kulishov does not appear anywhere in this report set at all, and Murov, Polinov and Kharitonov degree-institution and year fields are genuinely not disclosed anywhere in the local filings. Web research: the session WebSearch tool budget, 200 of 200 calls, was already exhausted before this ticker round-2 pass began, so WebSearch could not be used; WebFetch was used instead on a set of targeted URLs, ar23.rosseti.ru management-board page, re-fetched for Murov, Polinov and Kharitonov, corroborates the degree titles but adds no institution or year; rossetisk.ru board page, re-fetched for Kulishov, confirms his continued absence from that board listing; guessed TAdviser and TASS person-page URLs for Kulishov, Murov, Polinov and Kharitonov all returned HTTP 404 or HTTP 403; the rossetimr.ru materials PDF that had surfaced Makarov education in round 1 returned HTTP 403 this round; www.rosseti.ru and a Bing search fallback returned connection errors or irrelevant localized results. No new biographical fact was found or verified for Kulishov, Makarov, or the three missing degree institution and year values; per the prefer-null-over-an-unverified-guess rule, none of these null fields were filled with a guess, and the round-1 existennaya neopredelennost assessments for Kulishov and Makarov stand unresolved. This negative result is documented per-person in this round-2 pass and in research_notes/FEES/Kulishov_Grigorii_Viktorovich_round_2.md and research_notes/FEES/Makarov_Vladimir_Aleksandrovich_round_2.md. (2) GICS tagging: added company-level sector, industry_group, industry equal to Utilities, Utilities, Electric Utilities, PAO FSK Rosseti is Russia primary high-voltage electricity transmission grid operator, confirmed by the local annual report and financial statements. Tagged every professional_experience entry by the named organization own primary line of business, copied character for character from gics_taxonomy.json: PAO FSK Rosseti, PAO Rossiiskie seti, PAO Rosseti Lenenergo, PAO FSK EES, MES Tsentra, MES Zapadnoi Sibiri, AO OEK and PAO Rosseti equal to Utilities, Utilities, Electric Utilities, all electricity transmission and distribution grid operators within the same group. Set sector, industry_group, industry to null with justification for: government and law-enforcement bodies, Ministerstvo finansov RF, Ministerstvo energetiki RF, Pravitelstvo RF, Generalnaya prokuratura RF, not GICS-classifiable commercial organizations; non-profit industry and professional associations, Assotsiatsiya RNK SIGRE, Soyuz ENERGOSTROI, Assotsiatsiya Tsifrovaya energetika, the same treatment already applied to comparable associations in other processed tickers such as CHMF World Steel Association; and three power-sector R and D, testing and standards subsidiaries, AO FITs, AO NITs EES, AO NTTs FSK EES, whose precise standalone commercial-classification is not independently confirmed by any source found in this project research, so per the do-not-guess-a-GICS-bucket-you-cannot-support rule these three were left null rather than defaulted to Utilities or forced into an unsupported Professional Services guess. (3) qualification_degree: added to every education and degrees entry for all 11 people, using only the ten allowed enum values. Explicit qualifications named in the source were mapped directly, magistr tekhniki i tekhnologii to Master degree, MVA Top-menedzher to MBA, professionalnaya perepodgotovka and professionalnye kvalifikatsii to Professional certification. All kandidat and doktor nauk degrees, one each for Ryumin, Murov, Polinov and Kharitonov, were mapped to Doctoral degree, per the project-wide convention already applied across other tickers, for example ABIO, AFKS, AFLT and AKRN, that these Russian research degrees map to the Doctoral degree enum value. All remaining education entries, phrased in the sources as an okonchil, po spetsialnosti pattern, both pre-2003 and later, were inferred as Specialist degree with high confidence, consistent with the identical project-wide convention already applied to CHMF, AFLT, AKRN, AQUA and CIAN entries phrased the same way; Russian and Soviet 5-year institute and university programs graduating via a named spetsialnost, rather than a bakalavriat or magistratura napravlenie, issued a diplom spetsialista, and several of the relevant fields here, law, legal specialties and pre-1993 to 2004 engineering-economics, were additionally on the government list of professions retained under the single-tier specialist track well after the 2003 Bologna reform. One entry, Novak A. V. 2009 MGU menedzhment second higher education, carries somewhat lower confidence because no source specifies the exact program type for this executive-track second education; it was still tagged Specialist degree on the strength of the explicit specialnost wording rather than left null, and this lower-confidence reasoning is recorded in Novak notes field. (4) University-name normalization: nine raw institution strings in this file, Moskovskii gosudarstvennyi universitet im. M. V. Lomonosova, Gosudarstvennyi universitet grazhdanskoi aviatsii, Moskovskaya gosudarstvennaya yuridicheskaya akademiya, three occurrences, Ivanovskii gosudarstvennyi energeticheskii universitet, Moskovskii energeticheskii institut, Moskovskii gosudarstvennyi stroitelnyi universitet, Rossiiskii universitet druzhby narodov, Rossiiskaya akademiya narodnogo khozyaistva i gosudarstvennoi sluzhby pri Prezidente RF, and Norilskii industrialnyi institut, already had an exact-match canonical entry in university_names.json and were rewritten to their canonical forms; the original raw string is preserved in each entry description field so no information was lost. Four institution strings, Sankt-Peterburgskii gosudarstvennyi universitet, Mezhotraslevoi institut povysheniya kvalifikatsii i perepodgotovki rukovodyashchikh kadrov, Institut problem rynka Rossiiskoi akademii nauk and ANO DPO Institut vnutrennikh auditorov, were already an exact match to their canonical entry, no change needed. No institution not already covered by university_names.json was encountered, so new_institutions_found is empty for FEES this round. (5) Structural check: top-level and per-person key sets are unchanged from the established schema aside from the fields required by this task, company-level sector, industry_group, industry and new_institutions_found; per-professional_experience-entry sector, industry_group, industry; per-education and per-degrees-entry qualification_degree; no key was renamed or removed, and no previously confirmed fact was deleted or overwritten. Self-check performed: every qualification_degree value in this file, Specialist degree, Doctoral degree, Professional certification, Master degree, MBA, is in the ten-value allowed list; every sector, industry_group, industry triple in this file is either an exact row copied from gics_taxonomy.json, Utilities, Utilities, Electric Utilities, or all-null with a justification documented above; every institution string in this file matches an existing canonical entry in university_names.json, confirmed programmatically this round for all thirteen distinct institutions used in this file. || Round 3 (2026-07-19, gap-fill pass): продолжено закрытие пробелов после round 2 для 11 человек. WebSearch сообщил об исчерпании бюджета сессии (200 из 200) на старте раунда; WebFetch использовался как основной инструмент по конкретным URL и результатам disserCat/РГБ/НЭБ/DuckDuckGo-выдачи. Найдено и подтверждено: (1) Муров А. Е. -- degrees[0].institution и year (доктор экономических наук) заполнены как Санкт-Петербургский государственный экономический университет / 2008, по двум независимым библиотечным каталогам (РГБ, НЭБ), подкреплено содержательным соответствием карьере в гражданской авиации; (2) Полинов А. А. -- degrees[0].year заполнен как 2004 по тем же двум каталогам, institution остаётся null (не назван ни в одном источнике); (3) Харитонов В. В. -- запись АО \"НТЦ ФСК ЕЭС\" (2021-2022) получила GICS Industrials / Commercial & Professional Services / Professional Services по официальному ntc-power.ru; соседняя запись АО \"ФИЦ\" и АО \"НИЦ ЕЭС\" (2018-2021) осталась null из-за новой неоднозначности по НИЦ ЕЭС (возможный тёзка в сфере офисной недвижимости) и того, что запись объединяет два АО одной строкой. Подтверждено отсутствие прогресса (существенная неопределённость нерешена третий раунд подряд, факты не изобретались): Кулишов Г. В. (education/degrees по-прежнему пусты, даты по-прежнему null -- найден только не связанный тёзка, замдиректора ФСБ Кулишов Владимир Григорьевич, отклонён); Макаров В. А. (даты по-прежнему null, проверены подстраницы годового отчета ПАО \"Россети Центр\" за 2024 без результата); Харитонов В. В. (degrees[0].institution/year по-прежнему null -- найдена диссертация тёзки Харитонова Владимира Владимировича по телекоммуникациям, отклонена как факт другого человека); Рюмин А. В. (research_experience[0].start_year по-прежнему null, повторный запрос автореферата вернул ошибку соединения). Structural check: top-level и per-person key sets не изменены сверх значений, введённых в round 2 (никаких новых top-level ключей, никаких переименований); new_institutions_found остаётся пустым -- ни одного нового института, отсутствующего в university_names.json, не встречено (Санкт-Петербургский государственный экономический университет для Мурова А. Е. -- уже существующий канонический ключ с точным alias-совпадением). Self-check: каждое значение qualification_degree в файле по-прежнему входит в список из десяти допустимых значений; каждая новая/изменённая тройка sector/industry_group/industry -- либо точная строка из gics_taxonomy.json (Industrials / Commercial & Professional Services / Professional Services для АО \"НТЦ ФСК ЕЭС\"), либо all-null с обоснованием; каждая строка institution соответствует канонической записи university_names.json. Ни один ранее подтверждённый факт не удалён и не перезаписан. MASS DATA-LOSS REPAIR (2026-07-30): restored 11 shortened person notes, 1 shortened experience descriptions, 0 shortened education descriptions, 3 missing person-level sources, and 0 missing experience-level sources using git HEAD (commit 03bfe9f, 2026-07-20) as the reliable baseline. Nothing else in this file was touched.",
+  "sector": "Utilities",
+  "industry_group": "Utilities",
+  "industry": "Electric Utilities"
+}

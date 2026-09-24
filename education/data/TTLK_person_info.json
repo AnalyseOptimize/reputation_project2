@@ -1,0 +1,1796 @@
+{
+    "company_name":  "Публичное акционерное общество «Таттелеком»",
+    "company_ticker":  "TTLK",
+    "ceo":  {
+                "name":  "Нурутдинов Айрат Рафкатович",
+                "current_role":  "генеральный директор ПАО «Таттелеком»; член Совета директоров",
+                "company_name":  "ПАО «Таттелеком»",
+                "education":  [
+                                  {
+                                      "institution":  "Казанский государственный университет им. В.И. Ульянова-Ленина",
+                                      "year":  1994,
+                                      "qualification":  "высшее образование",
+                                      "description":  "Original education details: field: радиофизика и электроника.",
+                                      "sources":  [
+                                                      "https://m.business-gazeta.ru/person/1449",
+                                                      "MOEXBMI_Отчеты_2024/TTLK/ГО за 2024г для раскрытия..pdf"
+                                                  ],
+                                      "qualification_degree":  "Specialist degree"
+                                  },
+                                  {
+                                      "institution":  "Казанский государственный технический университет им. А.Н. Туполева",
+                                      "year":  2009,
+                                      "qualification":  "MBA / Master of Business Administration",
+                                      "description":  null,
+                                      "sources":  [
+                                                      "https://m.business-gazeta.ru/person/1449"
+                                                  ],
+                                      "qualification_degree":  "MBA"
+                                  }
+                              ],
+                "degrees":  [
+                                {
+                                    "degree":  "кандидат технических наук",
+                                    "field":  "Биоинспирированная нейросетевая архитектура аналоговых компьютеров общего назначения в задачах Wi-Fi-радиопланирования (специальность ВАК 2.3.8, диссертационный совет КФУ)",
+                                    "year":  2024,
+                                    "sources":  [
+                                                    "MOEXBMI_Отчеты_2024/TTLK/ГО за 2024г для раскрытия..pdf",
+                                                    "https://kpfu.ru/dis_card?p_id=3854",
+                                                    "https://www.dissercat.com/content/bioinspirirovannaya-neirosetevaya-arkhitektura-analogovykh-kompyuterov-obshchego-naznacheniy",
+                                                    "https://rusneb.ru/catalog/000199_000009_013204864/"
+                                                ],
+                                    "qualification_degree":  "Doctoral degree"
+                                }
+                            ],
+                "professional_experience":  [
+                                                {
+                                                    "organization":  "ПАО «Таттелеком»",
+                                                    "role":  "генеральный директор",
+                                                    "start_year":  2019,
+                                                    "end_year":  null,
+                                                    "description":  "Решением Совета директоров от 30.04.2019 вступил в должность 07.05.2019; решением Совета от 10.10.2022 с 11.10.2022 переизбран на новый срок. Quality-pass round (2026-08-01): GICS-триплет ранее был пуст, хотя тот же эмитент («ПАО «Таттелеком»») классифицирован во всех остальных 17 записях professional_experience этого файла и на верхнем уровне записи как Diversified Telecommunication Services; заполнено для внутренней согласованности файла.",
+                                                    "sources":  [
+                                                                    "https://my.tattelecom.ru/about/head/nurutdinov-ayrat-rafkatovich/",
+                                                                    "https://m.business-gazeta.ru/person/1449",
+                                                                    "MOEXBMI_Отчеты_2024/TTLK/ГО за 2024г для раскрытия..pdf"
+                                                                ],
+                                                    "sector":  "Communication Services",
+                                                    "industry_group":  "Telecommunication Services",
+                                                    "industry":  "Diversified Telecommunication Services"
+                                                },
+                                                {
+                                                    "organization":  "Министерство информатизации и связи Республики Татарстан",
+                                                    "role":  "первый заместитель министра",
+                                                    "start_year":  null,
+                                                    "end_year":  2019,
+                                                    "description":  "Предыдущая государственная управленческая роль подтверждается биографической карточкой; точный период до 2019 года в текущем раунде не детализирован. Quality-pass round (2026-08-01): GICS-триплет ошибочно копировал классификацию Таттелекома; министерство республиканского правительства — государственный орган, не коммерческая организация, поэтому GICS обнулен.",
+                                                    "sources":  [
+                                                                    "https://m.business-gazeta.ru/person/1449"
+                                                                ],
+                                                    "sector":  null,
+                                                    "industry_group":  null,
+                                                    "industry":  null
+                                                }
+                                            ],
+                "research_experience":  [
+                                            {
+                                                "organization":  "биоинспирированные нейросетевые архитектуры / Wi-Fi-радиопланирование",
+                                                "role":  "автор научных работ / диссертационного исследования",
+                                                "start_year":  null,
+                                                "end_year":  2024,
+                                                "description":  "Найден подтвержденный научный профиль (Google Scholar) и защищенная диссертация; ученая степень кандидата технических наук отдельно подтверждена официальным годовым отчетом ПАО «Таттелеком» за 2024 год и внесена в degrees. Quality-pass round (2026-08-01): организация/тематика исправлена с обобщенной формулировки «качество сервисов мультисервисных сетей связи» на подтвержденную тему исследования — см. правку publications ниже.",
+                                                "sources":  [
+                                                                "https://kpfu.ru/dis_card?p_id=3854",
+                                                                "https://scholar.google.com/citations?hl=ru\u0026user=BHPZSmMAAAAJ"
+                                                            ]
+                                            }
+                                        ],
+                "publications":  [
+                                     {
+                                         "title":  "Биоинспирированная нейросетевая архитектура аналоговых компьютеров общего назначения в задачах Wi-Fi-радиопланирования",
+                                         "year":  2024,
+                                         "venue":  "диссертация на соискание степени кандидата технических наук, ФГАОУ ВО «Казанский (Приволжский) федеральный университет», диссертационный совет",
+                                         "description":  "Quality-pass round (2026-08-01), genuine-inconsistency follow-up: прежнее название публикации («Методы и модели оценивания качества сервисов при проектировании и эксплуатации мультисервисных сетей связи») было указано с атрибуцией на этот же URL Google Scholar, но при повторном прочтении профиля Google Scholar в этом раунде такое название и такая тема (качество сервисов сетей связи) в списке публикаций не обнаружены — список посвящен биоинспирированным нейросетевым архитектурам, мозжечковым моделям и Wi-Fi-покрытию. Независимый поиск подтвердил дословно совпадающее название диссертации по трем независимым источникам (карточка диссертационного совета КФУ, каталог Диссеркат, каталог Российской национальной электронной библиотеки), включая указание, что результаты внедрены в ПАО «Таттелеком» (г. Казань) — это и подтверждает идентичность автора с генеральным директором. Прежнее название отклонено как неподтвержденное/недостоверно атрибутированное; принято выверенное название диссертации.",
+                                         "sources":  [
+                                                         "https://kpfu.ru/dis_card?p_id=3854",
+                                                         "https://www.dissercat.com/content/bioinspirirovannaya-neirosetevaya-arkhitektura-analogovykh-kompyuterov-obshchego-naznacheniy",
+                                                         "https://rusneb.ru/catalog/000199_000009_013204864/",
+                                                         "https://scholar.google.com/citations?hl=ru\u0026user=BHPZSmMAAAAJ"
+                                                     ]
+                                     }
+                                 ],
+                "patents":  [
+
+                            ],
+                "h_index":  {
+                                "value":  4,
+                                "source":  "Google Scholar",
+                                "as_of":  "2026-06-29",
+                                "sources":  [
+                                                {
+                                                    "url":  "https://scholar.google.com/citations?hl=ru\u0026user=BHPZSmMAAAAJ",
+                                                    "title":  "Google Scholar — Ayrat Nurutdinov",
+                                                    "fact":  "Профиль Google Scholar для Ayrat Nurutdinov показывает h-index 4; идентичность подтверждена диссертацией «Биоинспирированная нейросетевая архитектура...» (КФУ, 2024), результаты которой прямо указаны как внедренные в ПАО «Таттелеком» (см. publications)."
+                                                }
+                                            ]
+                            },
+                "sources":  [
+                                {
+                                    "url":  "https://my.tattelecom.ru/about/head/nurutdinov-ayrat-rafkatovich/",
+                                    "title":  "ПАО «Таттелеком» — Нурутдинов Айрат Рафкатович",
+                                    "fact":  "Официальная карточка руководителя."
+                                },
+                                {
+                                    "url":  "https://m.business-gazeta.ru/person/1449",
+                                    "title":  "Business Gazeta — Нурутдинов Айрат Рафкатович",
+                                    "fact":  "Биографический источник по образованию и карьере."
+                                },
+                                {
+                                    "url":  "https://scholar.google.com/citations?hl=ru\u0026user=BHPZSmMAAAAJ",
+                                    "title":  "Google Scholar — Ayrat Nurutdinov",
+                                    "fact":  "Источник по научному профилю и h-index."
+                                },
+                                {
+                                    "url":  "MOEXBMI_Отчеты_2024/TTLK/ГО за 2024г для раскрытия..pdf",
+                                    "title":  "ПАО «Таттелеком» — годовой отчет за 2024 год",
+                                    "fact":  "Подтверждает должность генерального директора, образование и ученую степень Нурутдинова А.Р."
+                                },
+                                {
+                                    "url":  "https://m.business-gazeta.ru/person/1449",
+                                    "title":  "Business Gazeta — Нурутдинов Айрат Рафкатович",
+                                    "fact":  "Биографическая карточка указывает окончание Казанского государственного университета по специальности «радиофизик» в 1994 году."
+                                },
+                                {
+                                    "url":  "MOEXBMI_Отчеты_2024/TTLK/ГО за 2024г для раскрытия..pdf",
+                                    "title":  "ПАО «Таттелеком» — годовой отчет за 2024 год",
+                                    "fact":  "Годовой отчет указывает высшее образование в Казанском государственном университете им. В.И. Ульянова-Ленина, специальность «Радиофизика и электроника»."
+                                },
+                                {
+                                    "url":  "https://m.business-gazeta.ru/person/1449",
+                                    "title":  "Business Gazeta — Нурутдинов Айрат Рафкатович",
+                                    "fact":  "Биографическая карточка указывает получение степени MBA в 2009 году в КГТУ им. А.Н. Туполева."
+                                },
+                                {
+                                    "url":  "MOEXBMI_Отчеты_2024/TTLK/ГО за 2024г для раскрытия..pdf",
+                                    "title":  "ПАО «Таттелеком» — годовой отчет за 2024 год",
+                                    "fact":  "Годовой отчет указывает ученую степень Нурутдинова А.Р. — кандидат технических наук."
+                                },
+                                {
+                                    "url":  "https://my.tattelecom.ru/about/head/nurutdinov-ayrat-rafkatovich/",
+                                    "title":  "ПАО «Таттелеком» — Нурутдинов Айрат Рафкатович",
+                                    "fact":  "Официальная карточка руководителя подтверждает должность генерального директора ПАО «Таттелеком»."
+                                },
+                                {
+                                    "url":  "https://m.business-gazeta.ru/person/1449",
+                                    "title":  "Business Gazeta — Нурутдинов Айрат Рафкатович",
+                                    "fact":  "Биографическая карточка указывает карьерный путь и назначение генеральным директором."
+                                },
+                                {
+                                    "url":  "MOEXBMI_Отчеты_2024/TTLK/ГО за 2024г для раскрытия..pdf",
+                                    "title":  "ПАО «Таттелеком» — годовой отчет за 2024 год",
+                                    "fact":  "Годовой отчет раскрывает избрание и переизбрание Нурутдинова А.Р. генеральным директором ПАО «Таттелеком»."
+                                },
+                                {
+                                    "url":  "https://m.business-gazeta.ru/person/1449",
+                                    "title":  "Business Gazeta — Нурутдинов Айрат Рафкатович",
+                                    "fact":  "Источник описывает карьеру Нурутдинова А.Р. до перехода в ПАО «Таттелеком»."
+                                },
+                                {
+                                    "url":  "https://scholar.google.com/citations?hl=ru\u0026user=BHPZSmMAAAAJ",
+                                    "title":  "Google Scholar — Ayrat Nurutdinov",
+                                    "fact":  "Профиль содержит публикации по телекоммуникационным сетям и связан с именем Ayrat Nurutdinov."
+                                },
+                                {
+                                    "url":  "https://scholar.google.com/citations?hl=ru\u0026user=BHPZSmMAAAAJ",
+                                    "title":  "Google Scholar — Ayrat Nurutdinov",
+                                    "fact":  "Научный профиль содержит работы автора и позволяет атрибутировать телекоммуникационную тематику нужному лицу."
+                                }
+                            ],
+                "notes":  "Идентичность подтверждена официальным годовым отчетом ПАО «Таттелеком» за 2024 год. Ученая степень кандидата технических наук внесена по годовому отчету; h-index и научные публикации сохраняются только при наличии ранее подтвержденного профиля. Quality-pass round (2026-08-01): genuine-inconsistency — старое название диссертации/публикации не подтвердилось при повторном чтении Google Scholar, заменено на выверенное название («Биоинспирированная нейросетевая архитектура...», КФУ, 2024) по трем независимым источникам (kpfu.ru, dissercat.com, rusneb.ru); поле degrees дополнено полем/годом на основании тех же источников. GICS роли в Министерстве информатизации и связи РТ обнулен (государственный орган). Образование: qualification_degree уточнен по корпусной конвенции (Specialist degree для до-болонского высшего 1994 года, MBA для явно указанной степени MBA 2009 года). Роль из CSV: Член Совета директоров ПАО «Таттелеком»; генеральный директор ПАО «Таттелеком»"
+            },
+    "tmt":  [
+                {
+                    "name":  "Сорокин Валерий Юрьевич",
+                    "current_role":  "председатель Совета директоров ПАО «Таттелеком»; генеральный директор АО «Связьинвестнефтехим»",
+                    "company_name":  "ПАО «Таттелеком»",
+                    "education":  [
+                                      {
+                                          "institution":  "Казанский (Приволжский) федеральный университет",
+                                          "year":  1986,
+                                          "qualification":  "высшее образование",
+                                          "description":  "Quality-pass round (2026-08-01), gap follow-up: подтверждено независимо тремя источниками (aif.ru, sin-x.ru — официальный сайт АО «Связьинвестнефтехим», gigabaza.ru). aif.ru указывает дословно: «В 1986 году окончил механико-математический факультет Казанского государственного университета по специальности «Механик»». Institution normalized to canonical form per university_names.json (raw: «Казанский государственный университет»).",
+                                          "sources":  [
+                                                          "https://aif.ru/dontknows/file/prezident_fk_rubin_valeriy_sorokin_dose",
+                                                          "https://sin-x.ru/about/222.php"
+                                                      ],
+                                          "qualification_degree":  "Specialist degree"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "АО «Связьинвестнефтехим»",
+                                                        "role":  "генеральный директор",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Идентичность подтверждается связкой ФИО, должности в АО «Связьинвестнефтехим» и роли председателя Совета директоров ПАО «Таттелеком».",
+                                                        "sources":  [
+                                                                        "https://tatcenter.ru/person/sorokin-valerij-yurevich/"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО «Таттелеком»",
+                                                        "role":  "председатель Совета директоров",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Роль соответствует строке CSV и публичному раскрытию состава органов управления Таттелекома.",
+                                                        "sources":  [
+                                                                        "https://www.e-disclosure.ru/portal/event.aspx?EventId=3fgo1EmcqkagR43FT6jocA-B-B"
+                                                                    ],
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Telecommunication Services",
+                                                        "industry":  "Diversified Telecommunication Services"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://tatcenter.ru/person/sorokin-valerij-yurevich/",
+                                        "title":  "TatCenter — Сорокин Валерий Юрьевич",
+                                        "fact":  "Источник подтверждает личность и связь с АО «Связьинвестнефтехим»."
+                                    },
+                                    {
+                                        "url":  "https://tatcenter.ru/person/sorokin-valerij-yurevich/",
+                                        "title":  "TatCenter — Сорокин Валерий Юрьевич",
+                                        "fact":  "Биографическая карточка идентифицирует Сорокина В.Ю. как руководителя АО «Связьинвестнефтехим»."
+                                    },
+                                    {
+                                        "url":  "https://www.e-disclosure.ru/portal/event.aspx?EventId=3fgo1EmcqkagR43FT6jocA-B-B",
+                                        "title":  "e-disclosure — решения годового общего собрания ПАО «Таттелеком»",
+                                        "fact":  "Раскрытие собрания 15.05.2024 использовано для проверки контекста Совета директоров 2024 года."
+                                    },
+                                    {
+                                        "url":  "https://aif.ru/dontknows/file/prezident_fk_rubin_valeriy_sorokin_dose",
+                                        "title":  "АиФ — досье Сорокина Валерия Юрьевича",
+                                        "fact":  "Quality-pass round (2026-08-01): указывает дословно окончание в 1986 году механико-математического факультета Казанского государственного университета по специальности «Механик»."
+                                    },
+                                    {
+                                        "url":  "https://sin-x.ru/about/222.php",
+                                        "title":  "АО «Связьинвестнефтехим» — официальный сайт, страница руководства",
+                                        "fact":  "Quality-pass round (2026-08-01): подтверждает высшее образование в Казанском государственном университете (без детализации года/специальности)."
+                                    }
+                                ],
+                    "notes":  "Надежно подтверждена управленческая идентичность. Научные степени, публикации, патенты и h-index в доступных источниках не подтверждены. Quality-pass round (2026-08-01), gap follow-up: свежие запросы («Сорокин Валерий Юрьевич Связьинвестнефтехим образование окончил») нашли образование — Казанский государственный университет (канонически: Казанский (Приволжский) федеральный университет), 1986, механико-математический факультет, специальность «Механик» — добавлено в education. Роль из CSV: Председатель Совета директоров ПАО «Таттелеком»; генеральный директор АО «Связьинвестнефтехим»"
+                },
+                {
+                    "name":  "Алексеев Сергей Владимирович",
+                    "current_role":  "член Совета директоров ПАО «Таттелеком»; первый заместитель генерального директора АО «Связьинвестнефтехим»",
+                    "company_name":  "ПАО «Таттелеком»",
+                    "education":  [
+                                      {
+                                          "institution":  "Казанский (Приволжский) федеральный университет",
+                                          "year":  1989,
+                                          "qualification":  "высшее образование",
+                                          "description":  "Quality-pass round (2026-08-01), gap follow-up: повторное прочтение уже цитируемого источника (realnoevremya.ru) дало дословно: «В 1989 г. — Окончил Казанский Государственный Университет (по специальности «радиофизика»)». Institution normalized to canonical form per university_names.json (raw: «Казанский государственный университет»).",
+                                          "sources":  [
+                                                          "https://realnoevremya.ru/persons/2331-alekseev-sergey-vladimirovich"
+                                                      ],
+                                          "qualification_degree":  "Specialist degree"
+                                      },
+                                      {
+                                          "institution":  "Татарский институт содействия бизнесу",
+                                          "year":  1999,
+                                          "qualification":  "высшее образование",
+                                          "description":  "Quality-pass round (2026-08-01), gap follow-up: повторное прочтение уже цитируемого источника (realnoevremya.ru) дало дословно: «В 1999 г. — Окончил Татарский институт содействия бизнесу (по специальности «экономика»)».",
+                                          "sources":  [
+                                                          "https://realnoevremya.ru/persons/2331-alekseev-sergey-vladimirovich"
+                                                      ],
+                                          "qualification_degree":  "Specialist degree"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "АО «Связьинвестнефтехим»",
+                                                        "role":  "первый заместитель генерального директора",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Публичные биографические карточки связывают Алексеева С.В. с руководством АО «Связьинвестнефтехим».",
+                                                        "sources":  [
+                                                                        "https://tatcenter.ru/person/alekseev-sergej-vladimirovich/"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО «Таттелеком»",
+                                                        "role":  "член Совета директоров",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Роль соответствует раскрытию Совета директоров и строке CSV.",
+                                                        "sources":  [
+                                                                        "https://my.tattelecom.ru/shareholders-and-investors/annual-reports/"
+                                                                    ],
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Telecommunication Services",
+                                                        "industry":  "Diversified Telecommunication Services"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://realnoevremya.ru/persons/2331-alekseev-sergey-vladimirovich",
+                                        "title":  "Реальное время — Алексеев Сергей Владимирович",
+                                        "fact":  "Использован для биографической идентификации и образования."
+                                    },
+                                    {
+                                        "url":  "https://realnoevremya.ru/persons/2331-alekseev-sergey-vladimirovich",
+                                        "title":  "Реальное время — Алексеев Сергей Владимирович",
+                                        "fact":  "Карточка указывает обучение в Казанском государственном университете."
+                                    },
+                                    {
+                                        "url":  "https://realnoevremya.ru/persons/2331-alekseev-sergey-vladimirovich",
+                                        "title":  "Реальное время — Алексеев Сергей Владимирович",
+                                        "fact":  "Карточка указывает обучение в Татарском институте содействия бизнесу."
+                                    },
+                                    {
+                                        "url":  "https://tatcenter.ru/person/alekseev-sergej-vladimirovich/",
+                                        "title":  "TatCenter — Алексеев Сергей Владимирович",
+                                        "fact":  "Источник подтверждает должность первого заместителя генерального директора АО «Связьинвестнефтехим»."
+                                    },
+                                    {
+                                        "url":  "https://my.tattelecom.ru/shareholders-and-investors/annual-reports/",
+                                        "title":  "ПАО «Таттелеком» — годовые отчеты",
+                                        "fact":  "Официальное раскрытие Таттелекома используется как источник состава органов управления."
+                                    },
+                                    {
+                                        "url":  "https://realnoevremya.ru/persons/2331-alekseev-sergey-vladimirovich",
+                                        "title":  "Реальное время — Алексеев Сергей Владимирович",
+                                        "fact":  "Quality-pass round (2026-08-01): дословно «В 1989 г. — Окончил Казанский Государственный Университет (по специальности «радиофизика»)» и «В 1999 г. — Окончил Татарский институт содействия бизнесу (по специальности «экономика»)»."
+                                    }
+                                ],
+                    "notes":  "Quality-pass round (2026-08-01), gap follow-up resolved: специальность и год окончания для обоих образований найдены при повторном прочтении уже цитируемого источника (realnoevremya.ru) — КГУ/КФУ, 1989, «радиофизика»; Татарский институт содействия бизнесу, 1999, «экономика». Научная деятельность, публикации, патенты и h-index не подтверждены. Роль из CSV: Член Совета директоров ПАО «Таттелеком»; первый заместитель генерального директора АО «Связьинвестнефтехим»"
+                },
+                {
+                    "name":  "Нафигин Альберт Ильдарович",
+                    "current_role":  "член Совета директоров ПАО «Таттелеком»; помощник Президента Республики Татарстан",
+                    "company_name":  "ПАО «Таттелеком»",
+                    "education":  [
+                                      {
+                                          "institution":  "Казанский институт бизнеса и управления",
+                                          "year":  1998,
+                                          "qualification":  "высшее образование",
+                                          "description":  "Quality-pass round (2026-08-01), gap follow-up: год и специальность найдены по 3 независимым источникам (tatar-inform.ru, официальный tatarstan.ru, sinref.ru): «В 1998 году окончил Казанский институт бизнеса и управления (менеджмент)».",
+                                          "sources":  [
+                                                          "https://tatcenter.ru/person/nafigin-albert-ildarovich/",
+                                                          "https://tatarstan.ru/index.htm/news/399268.htm"
+                                                      ],
+                                          "qualification_degree":  "Specialist degree"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Аппарат Президента / Раиса Республики Татарстан",
+                                                        "role":  "помощник Президента Республики Татарстан",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Должность совпадает с CSV и публичными биографическими карточками.",
+                                                        "sources":  [
+                                                                        "https://tatcenter.ru/person/nafigin-albert-ildarovich/"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО «Таттелеком»",
+                                                        "role":  "член Совета директоров",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Роль соответствует строке CSV и публичному раскрытию органов управления.",
+                                                        "sources":  [
+                                                                        "https://my.tattelecom.ru/shareholders-and-investors/annual-reports/"
+                                                                    ],
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Telecommunication Services",
+                                                        "industry":  "Diversified Telecommunication Services"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://tatcenter.ru/person/nafigin-albert-ildarovich/",
+                                        "title":  "TatCenter — Нафигин Альберт Ильдарович",
+                                        "fact":  "Использован для подтверждения личности, должности и образования."
+                                    },
+                                    {
+                                        "url":  "https://tatcenter.ru/person/nafigin-albert-ildarovich/",
+                                        "title":  "TatCenter — Нафигин Альберт Ильдарович",
+                                        "fact":  "Биографическая карточка указывает Казанский институт бизнеса и управления как образование Нафигина А.И."
+                                    },
+                                    {
+                                        "url":  "https://tatcenter.ru/person/nafigin-albert-ildarovich/",
+                                        "title":  "TatCenter — Нафигин Альберт Ильдарович",
+                                        "fact":  "Источник идентифицирует Нафигина А.И. как помощника Президента Республики Татарстан."
+                                    },
+                                    {
+                                        "url":  "https://my.tattelecom.ru/shareholders-and-investors/annual-reports/",
+                                        "title":  "ПАО «Таттелеком» — годовые отчеты",
+                                        "fact":  "Официальное раскрытие Таттелекома используется как источник состава органов управления."
+                                    },
+                                    {
+                                        "url":  "https://tatarstan.ru/index.htm/news/399268.htm",
+                                        "title":  "Официальный портал Республики Татарстан — Нафигин Альберт Ильдарович",
+                                        "fact":  "Quality-pass round (2026-08-01): «В 1998 году окончил Казанский институт бизнеса и управления (менеджмент)»."
+                                    }
+                                ],
+                    "notes":  "Quality-pass round (2026-08-01), gap follow-up resolved: год окончания (1998) и специальность (менеджмент) найдены по 3 независимым источникам (tatar-inform.ru, tatarstan.ru, sinref.ru). Научные публикации, патенты и h-index не подтверждены. Роль из CSV: Член Совета директоров ПАО «Таттелеком»; помощник Президента Республики Татарстан"
+                },
+                {
+                    "name":  "Минниханов Рифкат Нургалиевич",
+                    "current_role":  "член Совета директоров ПАО «Таттелеком»; президент Академии наук Республики Татарстан",
+                    "company_name":  "ПАО «Таттелеком»",
+                    "education":  [
+                                      {
+                                          "institution":  "Казанский авиационный институт",
+                                          "year":  1986,
+                                          "qualification":  "высшее образование",
+                                          "description":  null,
+                                          "sources":  [
+                                                          "https://tatcenter.ru/person/minnihanov-rifkat-nurgalievich/"
+                                                      ],
+                                          "qualification_degree":  "Specialist degree"
+                                      },
+                                      {
+                                          "institution":  "Казанское высшее военное инженерное училище",
+                                          "year":  null,
+                                          "qualification":  "высшее образование",
+                                          "description":  null,
+                                          "sources":  [
+                                                          "MOEXBMI_Отчеты_2024/TTLK/ГО за 2024г для раскрытия..pdf"
+                                                      ],
+                                          "qualification_degree":  "Unknown"
+                                      }
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "degree":  "кандидат технических наук",
+                                        "field":  null,
+                                        "year":  null,
+                                        "sources":  [
+                                                        "https://anrt.info/structure/president"
+                                                    ],
+                                        "qualification_degree":  "Doctoral degree"
+                                    },
+                                    {
+                                        "degree":  "доктор технических наук",
+                                        "field":  null,
+                                        "year":  null,
+                                        "sources":  [
+                                                        "https://anrt.info/structure/president"
+                                                    ],
+                                        "qualification_degree":  "Doctoral degree"
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Академия наук Республики Татарстан",
+                                                        "role":  "президент",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Официальный профиль АН РТ подтверждает текущую академическую руководящую роль.",
+                                                        "sources":  [
+                                                                        "https://anrt.info/structure/president"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО «Таттелеком»",
+                                                        "role":  "член Совета директоров",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "CSV фиксирует включение в Совет директоров с 15.05.2024; событие соотнесено с годовым собранием 15.05.2024.",
+                                                        "sources":  [
+                                                                        "https://www.e-disclosure.ru/portal/event.aspx?EventId=3fgo1EmcqkagR43FT6jocA-B-B"
+                                                                    ],
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Telecommunication Services",
+                                                        "industry":  "Diversified Telecommunication Services"
+                                                    }
+                                                ],
+                    "research_experience":  [
+                                                {
+                                                    "organization":  "Академия наук Республики Татарстан / научные организации Татарстана",
+                                                    "role":  "ученый и руководитель научной организации",
+                                                    "start_year":  null,
+                                                    "end_year":  null,
+                                                    "description":  "Подтверждены статус доктора технических наук, профессорский статус и руководство АН РТ; точный перечень исследовательских проектов не извлекался из-за недостатка доступных первичных страниц.",
+                                                    "sources":  [
+                                                                    "https://anrt.info/structure/president"
+                                                                ]
+                                                }
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://anrt.info/structure/president",
+                                        "title":  "Академия наук Республики Татарстан — президент АН РТ",
+                                        "fact":  "Основной источник по академическому статусу и текущей должности."
+                                    },
+                                    {
+                                        "url":  "https://tatcenter.ru/person/minnihanov-rifkat-nurgalievich/",
+                                        "title":  "TatCenter — Минниханов Рифкат Нургалиевич",
+                                        "fact":  "Использован для биографического подтверждения образования."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/TTLK/ГО за 2024г для раскрытия..pdf",
+                                        "title":  "ПАО «Таттелеком» — годовой отчет за 2024 год",
+                                        "fact":  "Подтверждает должность президента Академии наук Республики Татарстан и образование Р.Н. Минниханова в карточке Совета директоров."
+                                    },
+                                    {
+                                        "url":  "https://tatcenter.ru/person/minnihanov-rifkat-nurgalievich/",
+                                        "title":  "TatCenter — Минниханов Рифкат Нургалиевич",
+                                        "fact":  "Биографическая карточка указывает окончание Казанского авиационного института в 1986 году."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/TTLK/ГО за 2024г для раскрытия..pdf",
+                                        "title":  "ПАО «Таттелеком» — годовой отчет за 2024 год",
+                                        "fact":  "Годовой отчет ПАО «Таттелеком» за 2024 год указывает образование: Казанское высшее военное инженерное училище."
+                                    },
+                                    {
+                                        "url":  "https://anrt.info/structure/president",
+                                        "title":  "Академия наук Республики Татарстан — президент АН РТ",
+                                        "fact":  "Официальный профиль президента АН РТ указывает ученую степень Р.Н. Минниханова."
+                                    },
+                                    {
+                                        "url":  "https://anrt.info/structure/president",
+                                        "title":  "Академия наук Республики Татарстан — президент АН РТ",
+                                        "fact":  "Официальный профиль президента АН РТ указывает ученую степень доктора технических наук."
+                                    },
+                                    {
+                                        "url":  "https://anrt.info/structure/president",
+                                        "title":  "Академия наук Республики Татарстан — президент АН РТ",
+                                        "fact":  "Источник идентифицирует Р.Н. Минниханова как президента Академии наук Республики Татарстан."
+                                    },
+                                    {
+                                        "url":  "https://www.e-disclosure.ru/portal/event.aspx?EventId=3fgo1EmcqkagR43FT6jocA-B-B",
+                                        "title":  "e-disclosure — решения годового общего собрания ПАО «Таттелеком»",
+                                        "fact":  "Раскрытие собрания 15.05.2024 использовано для проверки даты изменения Совета директоров."
+                                    },
+                                    {
+                                        "url":  "https://anrt.info/structure/president",
+                                        "title":  "Академия наук Республики Татарстан — президент АН РТ",
+                                        "fact":  "Официальный профиль подтверждает академический статус Р.Н. Минниханова."
+                                    }
+                                ],
+                    "notes":  "Идентичность надежно подтверждена. Отдельные публикации и h-index не добавлены: найденные поисковые совпадения не дали верифицированного авторского профиля с однозначной привязкой (gap follow-up round 2026-08-01: свежий запрос «Минниханов Рифкат Нургалиевич публикации researchgate elibrary» вновь не дал однозначно атрибутированного профиля с метрикой — оставлено null). Годовой отчет за 2024 год дополнительно указывает Казанское высшее военное инженерное училище; ранее найденное образование не удалено, поскольку отчет не утверждает, что это единственное образование. Quality-pass round (2026-08-01): qualification_degree для КАИ (1986, до-болонский период) уточнен до Specialist degree; qualification_degree для обеих ученых степеней (кандидат/доктор технических наук) уточнен до Doctoral degree по установленной конвенции корпуса (см. аналогичные записи в других тикерах) — поле ранее оставалось null. Роль из CSV: Член Совета директоров ПАО «Таттелеком» с 15 мая 2024 года; президент Академии наук Республики Татарстан"
+                },
+                {
+                    "name":  "Сотов Денис Игоревич",
+                    "current_role":  "член Совета директоров ПАО «Таттелеком»; начальник отдела по работе с портфельными инвестициями АО «Связьинвестнефтехим»",
+                    "company_name":  "ПАО «Таттелеком»",
+                    "education":  [
+                                      {
+                                          "institution":  "Казанский финансово-экономический институт",
+                                          "year":  null,
+                                          "qualification":  "высшее образование",
+                                          "description":  null,
+                                          "sources":  [
+                                                          "MOEXBMI_Отчеты_2024/TTLK/ГО за 2024г для раскрытия..pdf"
+                                                      ],
+                                          "qualification_degree":  "Unknown"
+                                      },
+                                      {
+                                          "institution":  "Университет Париж-Дофин (Франция)",
+                                          "year":  null,
+                                          "qualification":  "высшее образование",
+                                          "description":  null,
+                                          "sources":  [
+                                                          "MOEXBMI_Отчеты_2024/TTLK/ГО за 2024г для раскрытия..pdf"
+                                                      ],
+                                          "qualification_degree":  "Unknown"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "АО «Связьинвестнефтехим»",
+                                                        "role":  "начальник отдела по работе с портфельными инвестициями",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Роль подтверждается строкой CSV и фрагментами официального раскрытия Таттелекома.",
+                                                        "sources":  [
+                                                                        "https://my.tattelecom.ru/shareholders-and-investors/annual-reports/"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО «Таттелеком»",
+                                                        "role":  "член Совета директоров; член Комитета по аудиту",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Членство соответствует CSV и публичному раскрытию органов управления.",
+                                                        "sources":  [
+                                                                        "https://my.tattelecom.ru/shareholders-and-investors/annual-reports/"
+                                                                    ],
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Telecommunication Services",
+                                                        "industry":  "Diversified Telecommunication Services"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://my.tattelecom.ru/shareholders-and-investors/annual-reports/",
+                                        "title":  "ПАО «Таттелеком» — годовые отчеты",
+                                        "fact":  "Основной источник для образования и роли; прямой PDF недоступен из-за таймаута."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/TTLK/ГО за 2024г для раскрытия..pdf",
+                                        "title":  "ПАО «Таттелеком» — годовой отчет за 2024 год",
+                                        "fact":  "Подтверждает должность, членство в Комитете по аудиту и образование Сотова Д.И."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/TTLK/ГО за 2024г для раскрытия..pdf",
+                                        "title":  "ПАО «Таттелеком» — годовой отчет за 2024 год",
+                                        "fact":  "Годовой отчет ПАО «Таттелеком» за 2024 год указывает образование Сотова Д.И.: Казанский финансово-экономический институт."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/TTLK/ГО за 2024г для раскрытия..pdf",
+                                        "title":  "ПАО «Таттелеком» — годовой отчет за 2024 год",
+                                        "fact":  "Годовой отчет ПАО «Таттелеком» за 2024 год указывает образование Сотова Д.И.: Университет Париж-Дофин (Франция)."
+                                    },
+                                    {
+                                        "url":  "https://my.tattelecom.ru/shareholders-and-investors/annual-reports/",
+                                        "title":  "ПАО «Таттелеком» — годовые отчеты",
+                                        "fact":  "Официальное раскрытие использовано для связи Сотова Д.И. с АО «Связьинвестнефтехим»."
+                                    },
+                                    {
+                                        "url":  "https://my.tattelecom.ru/shareholders-and-investors/annual-reports/",
+                                        "title":  "ПАО «Таттелеком» — годовые отчеты",
+                                        "fact":  "Официальное раскрытие использовано для состава органов управления."
+                                    }
+                                ],
+                    "notes":  "Образование заменено по официальному годовому отчету ПАО «Таттелеком» за 2024 год: прежние записи о КГТУ им. А.Н. Туполева и Татарском институте содействия бизнесу противоречили карточке Сотова Д.И. в отчете. Научная активность и h-index не подтверждены. Роль из CSV: Член Совета директоров и Комитета по аудиту Совета директоров ПАО «Таттелеком»; начальник отдела по работе с портфельными инвестициями АО «Связьинвестнефтехим»"
+                },
+                {
+                    "name":  "Яковлев Альберт Валерьевич",
+                    "current_role":  "член Совета директоров ПАО «Таттелеком»; заместитель министра цифрового развития государственного управления, информационных технологий и связи Республики Татарстан",
+                    "company_name":  "ПАО «Таттелеком»",
+                    "education":  [
+                                      {
+                                          "institution":  "КГТУ им. А.Н. Туполева",
+                                          "year":  null,
+                                          "qualification":  "высшее образование",
+                                          "description":  null,
+                                          "sources":  [
+                                                          "MOEXBMI_Отчеты_2024/TTLK/ГО за 2024г для раскрытия..pdf"
+                                                      ],
+                                          "qualification_degree":  "Unknown"
+                                      },
+                                      {
+                                          "institution":  "Институт государственной службы при Президенте Республики Татарстан",
+                                          "year":  null,
+                                          "qualification":  "высшее образование",
+                                          "description":  "Original education details: field: государственное и муниципальное управление.",
+                                          "sources":  [
+                                                          "MOEXBMI_Отчеты_2024/TTLK/ГО за 2024г для раскрытия..pdf"
+                                                      ],
+                                          "qualification_degree":  "Unknown"
+                                      },
+                                      {
+                                          "institution":  "РАНХиГС при Президенте Российской Федерации",
+                                          "year":  null,
+                                          "qualification":  "повышение квалификации",
+                                          "description":  "Original education details: field: реализация проектов цифровой трансформации.",
+                                          "sources":  [
+                                                          "MOEXBMI_Отчеты_2024/TTLK/ГО за 2024г для раскрытия..pdf"
+                                                      ],
+                                          "qualification_degree":  "Unknown"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Министерство цифрового развития государственного управления, информационных технологий и связи Республики Татарстан",
+                                                        "role":  "заместитель министра",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Должность подтверждается CSV и публичными упоминаниями министерства/Таттелекома; точная карьерная история не раскрыта в доступных источниках.",
+                                                        "sources":  [
+                                                                        "https://digital.tatarstan.ru/"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО «Таттелеком»",
+                                                        "role":  "член Совета директоров; член Комитета по аудиту",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Роль соответствует строке CSV и раскрытию Совета директоров.",
+                                                        "sources":  [
+                                                                        "https://www.e-disclosure.ru/portal/event.aspx?EventId=3fgo1EmcqkagR43FT6jocA-B-B"
+                                                                    ],
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Telecommunication Services",
+                                                        "industry":  "Diversified Telecommunication Services"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://digital.tatarstan.ru/",
+                                        "title":  "Министерство цифрового развития Республики Татарстан",
+                                        "fact":  "Контекстный официальный источник по ведомству."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/TTLK/ГО за 2024г для раскрытия..pdf",
+                                        "title":  "ПАО «Таттелеком» — годовой отчет за 2024 год",
+                                        "fact":  "Подтверждает должность, членство в Комитете по аудиту и образование Яковлева А.В."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/TTLK/ГО за 2024г для раскрытия..pdf",
+                                        "title":  "ПАО «Таттелеком» — годовой отчет за 2024 год",
+                                        "fact":  "Годовой отчет ПАО «Таттелеком» за 2024 год указывает образование Яковлева А.В.: КГТУ им. А.Н. Туполева."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/TTLK/ГО за 2024г для раскрытия..pdf",
+                                        "title":  "ПАО «Таттелеком» — годовой отчет за 2024 год",
+                                        "fact":  "Годовой отчет указывает обучение в Институте государственной службы при Президенте Республики Татарстан по направлению «Государственное и муниципальное управление»."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/TTLK/ГО за 2024г для раскрытия..pdf",
+                                        "title":  "ПАО «Таттелеком» — годовой отчет за 2024 год",
+                                        "fact":  "Годовой отчет указывает повышение квалификации «Реализация проектов цифровой трансформации» в РАНХиГС при Президенте Российской Федерации."
+                                    },
+                                    {
+                                        "url":  "https://digital.tatarstan.ru/",
+                                        "title":  "Министерство цифрового развития Республики Татарстан",
+                                        "fact":  "Официальный сайт министерства использован для проверки институционального контекста должности."
+                                    },
+                                    {
+                                        "url":  "https://www.e-disclosure.ru/portal/event.aspx?EventId=3fgo1EmcqkagR43FT6jocA-B-B",
+                                        "title":  "e-disclosure — решения годового общего собрания ПАО «Таттелеком»",
+                                        "fact":  "Раскрытие собрания 15.05.2024 использовано для проверки контекста Совета директоров."
+                                    }
+                                ],
+                    "notes":  "Образование и повышение квалификации внесены по официальному годовому отчету ПАО «Таттелеком» за 2024 год. Степени, публикации, патенты и h-index не подтверждены. Роль из CSV: Член Совета директоров и Комитета по аудиту Совета директоров ПАО «Таттелеком»; заместитель министра цифрового развития государственного управления, информационных технологий и связи Республики Татарстан"
+                },
+                {
+                    "name":  "Шафигуллин Лутфулла Нурисламович",
+                    "current_role":  "член Совета директоров ПАО «Таттелеком» до 15.05.2024; ранее генеральный директор ПАО «Таттелеком»",
+                    "company_name":  "ПАО «Таттелеком»",
+                    "education":  [
+                                      {
+                                          "institution":  "Камышинское военное строительное училище",
+                                          "year":  null,
+                                          "qualification":  "среднее специальное / военное образование",
+                                          "description":  null,
+                                          "sources":  [
+                                                          "https://tatcenter.ru/person/shafigullin-lutfulla-nurislamovich/"
+                                                      ],
+                                          "qualification_degree":  "Secondary education"
+                                      },
+                                      {
+                                          "institution":  "Поволжская государственная академия телекоммуникаций и информатики",
+                                          "year":  null,
+                                          "qualification":  "высшее образование",
+                                          "description":  null,
+                                          "sources":  [
+                                                          "https://tatcenter.ru/person/shafigullin-lutfulla-nurislamovich/"
+                                                      ],
+                                          "qualification_degree":  "Unknown"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО «Таттелеком»",
+                                                        "role":  "генеральный директор; член Совета директоров",
+                                                        "start_year":  null,
+                                                        "end_year":  2024,
+                                                        "description":  "В контексте CSV зафиксирован как член Совета директоров до 15.05.2024; биографические карточки связывают его с руководством Таттелекома.",
+                                                        "sources":  [
+                                                                        "https://tatcenter.ru/person/shafigullin-lutfulla-nurislamovich/",
+                                                                        "https://www.e-disclosure.ru/portal/event.aspx?EventId=3fgo1EmcqkagR43FT6jocA-B-B"
+                                                                    ],
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Telecommunication Services",
+                                                        "industry":  "Diversified Telecommunication Services"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://tatcenter.ru/person/shafigullin-lutfulla-nurislamovich/",
+                                        "title":  "TatCenter — Шафигуллин Лутфулла Нурисламович",
+                                        "fact":  "Использован для биографии и образования."
+                                    },
+                                    {
+                                        "url":  "https://tatcenter.ru/person/shafigullin-lutfulla-nurislamovich/",
+                                        "title":  "TatCenter — Шафигуллин Лутфулла Нурисламович",
+                                        "fact":  "Биографическая карточка указывает обучение в Камышинском военном строительном училище."
+                                    },
+                                    {
+                                        "url":  "https://tatcenter.ru/person/shafigullin-lutfulla-nurislamovich/",
+                                        "title":  "TatCenter — Шафигуллин Лутфулла Нурисламович",
+                                        "fact":  "Биографическая карточка указывает Поволжскую государственную академию телекоммуникаций и информатики."
+                                    },
+                                    {
+                                        "url":  "https://tatcenter.ru/person/shafigullin-lutfulla-nurislamovich/",
+                                        "title":  "TatCenter — Шафигуллин Лутфулла Нурисламович",
+                                        "fact":  "Источник подтверждает длительную связь Шафигуллина Л.Н. с руководством ПАО «Таттелеком»."
+                                    },
+                                    {
+                                        "url":  "https://www.e-disclosure.ru/portal/event.aspx?EventId=3fgo1EmcqkagR43FT6jocA-B-B",
+                                        "title":  "e-disclosure — решения годового общего собрания ПАО «Таттелеком»",
+                                        "fact":  "Раскрытие собрания 15.05.2024 использовано для контекста прекращения членства в Совете директоров."
+                                    }
+                                ],
+                    "notes":  "Академических степеней и научных публикаций не подтверждено; почетные/общественные статусы не переносились в degrees. Quality-pass round (2026-08-01): qualification_degree для Камышинского военного строительного училища уточнен до Secondary education (квалификация явно указана как «среднее специальное»); год окончания Поволжской академии телекоммуникаций и информатики в доступных источниках не найден — оставлен null. Роль из CSV: Член Совета директоров ПАО «Таттелеком» до 15 мая 2024 года"
+                },
+                {
+                    "name":  "Белобородов Сергей Александрович",
+                    "current_role":  "заместитель генерального директора ПАО «Таттелеком» по операционной деятельности и режиму",
+                    "company_name":  "ПАО «Таттелеком»",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО «Таттелеком»",
+                                                        "role":  "заместитель генерального директора по операционной деятельности и режиму",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Официальная карточка руководителя и профильный материал подтверждают текущую должность. Профильный материал описывает раннюю IT-карьеру и работу в телекоммуникационном контуре компании.",
+                                                        "sources":  [
+                                                                        "https://my.tattelecom.ru/about/head/beloborodov-sergey-aleksandrovich/",
+                                                                        "https://realnoevremya.ru/articles/309126-lica-tatarstanskogo-telekoma-kto-vedet-v-buduschee-kompaniyu"
+                                                                    ],
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Telecommunication Services",
+                                                        "industry":  "Diversified Telecommunication Services"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://my.tattelecom.ru/about/head/beloborodov-sergey-aleksandrovich/",
+                                        "title":  "ПАО «Таттелеком» — Белобородов Сергей Александрович",
+                                        "fact":  "Официальная карточка руководителя."
+                                    },
+                                    {
+                                        "url":  "https://realnoevremya.ru/articles/309126-lica-tatarstanskogo-telekoma-kto-vedet-v-buduschee-kompaniyu",
+                                        "title":  "Реальное время — «Лица татарстанского телекома»",
+                                        "fact":  "Дополнительная карьерная биография."
+                                    },
+                                    {
+                                        "url":  "https://my.tattelecom.ru/about/head/beloborodov-sergey-aleksandrovich/",
+                                        "title":  "ПАО «Таттелеком» — Белобородов Сергей Александрович",
+                                        "fact":  "Официальная карточка руководителя подтверждает должность."
+                                    },
+                                    {
+                                        "url":  "https://realnoevremya.ru/articles/309126-lica-tatarstanskogo-telekoma-kto-vedet-v-buduschee-kompaniyu",
+                                        "title":  "Реальное время — «Лица татарстанского телекома»",
+                                        "fact":  "Материал описывает карьерный путь Белобородова С.А. в IT/операционном блоке."
+                                    }
+                                ],
+                    "notes":  "Образование не внесено: доступные фрагменты не дали полного проверяемого описания учебного заведения, специальности или года. Gap follow-up round (2026-08-01): свежий запрос («Белобородов Сергей Александрович Таттелеком образование окончил вуз») не дал результатов — my.tattelecom.ru недоступен из рабочей среды в этом раунде (ECONNREFUSED), альтернативные источники образование не раскрывают. Оставлено null. Роль из CSV: Заместитель генерального директора ПАО «Таттелеком» по операционной деятельности и режиму"
+                },
+                {
+                    "name":  "Нургалеев Ильдар Тахиржанович",
+                    "current_role":  "заместитель генерального директора по информационной безопасности — директор департамента ИТ",
+                    "company_name":  "ПАО «Таттелеком»",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО «Таттелеком»",
+                                                        "role":  "заместитель генерального директора по информационной безопасности; директор департамента ИТ",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Официальная карточка руководителя подтверждает текущую должность. Профильный материал описывает карьеру в техническом и IT-блоке компании.",
+                                                        "sources":  [
+                                                                        "https://my.tattelecom.ru/about/head/ibragimov-rinat-tagirovich63805851/",
+                                                                        "https://realnoevremya.ru/articles/309126-lica-tatarstanskogo-telekoma-kto-vedet-v-buduschee-kompaniyu"
+                                                                    ],
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Telecommunication Services",
+                                                        "industry":  "Diversified Telecommunication Services"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://my.tattelecom.ru/about/head/ibragimov-rinat-tagirovich63805851/",
+                                        "title":  "ПАО «Таттелеком» — Нургалеев Ильдар Тахиржанович",
+                                        "fact":  "Официальная карточка руководителя."
+                                    },
+                                    {
+                                        "url":  "https://my.tattelecom.ru/about/head/ibragimov-rinat-tagirovich63805851/",
+                                        "title":  "ПАО «Таттелеком» — Нургалеев Ильдар Тахиржанович",
+                                        "fact":  "Официальная карточка руководителя подтверждает должность."
+                                    },
+                                    {
+                                        "url":  "https://realnoevremya.ru/articles/309126-lica-tatarstanskogo-telekoma-kto-vedet-v-buduschee-kompaniyu",
+                                        "title":  "Реальное время — «Лица татарстанского телекома»",
+                                        "fact":  "Материал описывает карьерный путь Нургалеева И.Т. в телекоммуникационной инфраструктуре."
+                                    }
+                                ],
+                    "notes":  "Образование, публикации, патенты и h-index в надежно доступных источниках не подтверждены. Gap follow-up round (2026-08-01): свежий запрос («Нургалеев Ильдар Тахиржанович Таттелеком образование окончил») нашел только «карьеру начал в 2003 году в соответствии с профильным образованием» (my.tattelecom.ru, без названия вуза) и однофамильца-директора АО «Уфанет» (uust.ru) без образовательных деталей — не атрибутировано с достаточной надежностью. Оставлено null. Роль из CSV: Заместитель генерального директора ПАО «Таттелеком» по информационной безопасности — директор департамента ИТ"
+                },
+                {
+                    "name":  "Шагиахметов Сергей Равилевич",
+                    "current_role":  "заместитель генерального директора ПАО «Таттелеком» по коммерческой деятельности",
+                    "company_name":  "ПАО «Таттелеком»",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО «Таттелеком»",
+                                                        "role":  "заместитель генерального директора по коммерческой деятельности",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Официальная карточка руководителя подтверждает должность; профильные упоминания связывают его с коммерческим блоком Таттелекома.",
+                                                        "sources":  [
+                                                                        "https://my.tattelecom.ru/about/head/shagiakhmetov-sergey-ravilevich/"
+                                                                    ],
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Telecommunication Services",
+                                                        "industry":  "Diversified Telecommunication Services"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://my.tattelecom.ru/about/head/shagiakhmetov-sergey-ravilevich/",
+                                        "title":  "ПАО «Таттелеком» — Шагиахметов Сергей Равилевич",
+                                        "fact":  "Официальная карточка руководителя."
+                                    },
+                                    {
+                                        "url":  "https://my.tattelecom.ru/about/head/shagiakhmetov-sergey-ravilevich/",
+                                        "title":  "ПАО «Таттелеком» — Шагиахметов Сергей Равилевич",
+                                        "fact":  "Официальная карточка руководителя подтверждает должность."
+                                    }
+                                ],
+                    "notes":  "Доступные источники подтверждают должность, но не дают проверяемого образования, степеней или научных результатов. Gap follow-up round (2026-08-01): свежий запрос («Шагиахметов Сергей Равилевич Таттелеком образование окончил») не дал результатов по вузу или году (my.tattelecom.ru, audit-it.ru, letai.ru — везде «не найдено: окончил/образование»). Оставлено null. Роль из CSV: Заместитель генерального директора ПАО «Таттелеком» по коммерческой деятельности"
+                },
+                {
+                    "name":  "Сибгатуллин Ильнар Ильдарович",
+                    "current_role":  "заместитель генерального директора ПАО «Таттелеком» по массовому рынку и маркетингу",
+                    "company_name":  "ПАО «Таттелеком»",
+                    "education":  [
+                                      {
+                                          "institution":  "Казанский государственный технический университет им. А.Н. Туполева",
+                                          "year":  2014,
+                                          "qualification":  "высшее образование",
+                                          "description":  "Original education details: field: управление и информатика в технических системах.",
+                                          "sources":  [
+                                                          "https://my.tattelecom.ru/about/head/sibgatullin-ilnar-ildarovich/"
+                                                      ],
+                                          "qualification_degree":  "Unknown"
+                                      },
+                                      {
+                                          "institution":  "Казанский государственный энергетический университет",
+                                          "year":  2017,
+                                          "qualification":  "высшее образование",
+                                          "description":  "Original education details: field: менеджмент.",
+                                          "sources":  [
+                                                          "https://my.tattelecom.ru/about/head/sibgatullin-ilnar-ildarovich/"
+                                                      ],
+                                          "qualification_degree":  "Unknown"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО «Таттелеком»",
+                                                        "role":  "заместитель генерального директора по массовому рынку и маркетингу",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "CSV указывает назначение с апреля 2024 года; официальная карточка подтверждает текущую должность.",
+                                                        "sources":  [
+                                                                        "https://my.tattelecom.ru/about/head/sibgatullin-ilnar-ildarovich/"
+                                                                    ],
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Telecommunication Services",
+                                                        "industry":  "Diversified Telecommunication Services"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://my.tattelecom.ru/about/head/sibgatullin-ilnar-ildarovich/",
+                                        "title":  "ПАО «Таттелеком» — Сибгатуллин Ильнар Ильдарович",
+                                        "fact":  "Официальная карточка руководителя."
+                                    },
+                                    {
+                                        "url":  "https://my.tattelecom.ru/about/head/sibgatullin-ilnar-ildarovich/",
+                                        "title":  "ПАО «Таттелеком» — Сибгатуллин Ильнар Ильдарович",
+                                        "fact":  "Официальная карточка руководителя указывает образование в КГТУ им. А.Н. Туполева по направлению управления и информатики в технических системах."
+                                    },
+                                    {
+                                        "url":  "https://my.tattelecom.ru/about/head/sibgatullin-ilnar-ildarovich/",
+                                        "title":  "ПАО «Таттелеком» — Сибгатуллин Ильнар Ильдарович",
+                                        "fact":  "Официальная карточка руководителя указывает образование в КГЭУ по направлению менеджмента."
+                                    },
+                                    {
+                                        "url":  "https://my.tattelecom.ru/about/head/sibgatullin-ilnar-ildarovich/",
+                                        "title":  "ПАО «Таттелеком» — Сибгатуллин Ильнар Ильдарович",
+                                        "fact":  "Официальная карточка руководителя подтверждает должность и образование."
+                                    }
+                                ],
+                    "notes":  "Научная деятельность, патенты и h-index не подтверждены; образование (два вуза, 2014 и 2017) подтверждено официальной карточкой руководителя, специальность заполнена. Роль из CSV: Заместитель генерального директора ПАО «Таттелеком» по массовому рынку и маркетингу с апреля 2024 года"
+                },
+                {
+                    "name":  "Минниханов Расуль Рифкатович",
+                    "current_role":  "заместитель генерального директора ПАО «Таттелеком» по развитию",
+                    "company_name":  "ПАО «Таттелеком»",
+                    "education":  [
+                                      {
+                                          "institution":  "Казанский финансово-экономический институт",
+                                          "year":  2005,
+                                          "qualification":  "высшее образование",
+                                          "description":  "Original education details: field: менеджмент.",
+                                          "sources":  [
+                                                          "https://my.tattelecom.ru/about/head/minnikhanov-rasul-rifkatovich/"
+                                                      ],
+                                          "qualification_degree":  "Unknown"
+                                      },
+                                      {
+                                          "institution":  "Российский университет кооперации",
+                                          "year":  2008,
+                                          "qualification":  "аспирантура",
+                                          "description":  "Original education details: field: экономика.",
+                                          "sources":  [
+                                                          "https://my.tattelecom.ru/about/head/minnikhanov-rasul-rifkatovich/"
+                                                      ],
+                                          "qualification_degree":  "Unknown"
+                                      }
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "degree":  "кандидат экономических наук",
+                                        "field":  "Кооперация в системе структурных и институциональных преобразований экономики АПК",
+                                        "year":  2023,
+                                        "sources":  [
+                                                        "https://search.rsl.ru/ru/record/01012781082",
+                                                        "https://www.dissercat.com/content/kooperatsiya-v-sisteme-strukturnykh-i-institutsionalnykh-preobrazovanii-ekonomiki-apk",
+                                                        "https://mydisser.com/ru/catalog/view/minnihanov-rasul-rifkatovich-kooperaciya-v-sisteme-strukturnyh-i-institucionalnyh-preobrazovaniy-ek.html"
+                                                    ],
+                                        "qualification_degree":  "Doctoral degree"
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО «Таттелеком»",
+                                                        "role":  "заместитель генерального директора по развитию",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "CSV указывает назначение с сентября 2024 года; официальная карточка подтверждает текущую должность.",
+                                                        "sources":  [
+                                                                        "https://my.tattelecom.ru/about/head/minnikhanov-rasul-rifkatovich/"
+                                                                    ],
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Telecommunication Services",
+                                                        "industry":  "Diversified Telecommunication Services"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://my.tattelecom.ru/about/head/minnikhanov-rasul-rifkatovich/",
+                                        "title":  "ПАО «Таттелеком» — Минниханов Расуль Рифкатович",
+                                        "fact":  "Официальная карточка руководителя."
+                                    },
+                                    {
+                                        "url":  "https://my.tattelecom.ru/about/head/minnikhanov-rasul-rifkatovich/",
+                                        "title":  "ПАО «Таттелеком» — Минниханов Расуль Рифкатович",
+                                        "fact":  "Официальная карточка руководителя указывает окончание КФЭИ по менеджменту."
+                                    },
+                                    {
+                                        "url":  "https://my.tattelecom.ru/about/head/minnikhanov-rasul-rifkatovich/",
+                                        "title":  "ПАО «Таттелеком» — Минниханов Расуль Рифкатович",
+                                        "fact":  "Официальная карточка руководителя указывает аспирантуру Российского университета кооперации по экономике."
+                                    },
+                                    {
+                                        "url":  "https://my.tattelecom.ru/about/head/minnikhanov-rasul-rifkatovich/",
+                                        "title":  "ПАО «Таттелеком» — Минниханов Расуль Рифкатович",
+                                        "fact":  "Официальная карточка руководителя подтверждает должность и образование."
+                                    }
+                                ],
+                    "notes":  "Quality-pass round (2026-08-01), gap follow-up resolved: свежий запрос («Минниханов Расуль Рифкатович кандидат наук диссертация») подтвердил защиту диссертации на степень кандидата экономических наук в 2023 году в том же Российском университете кооперации, где проходила аспирантура (2008), — по трем независимым каталогам (РГБ/search.rsl.ru, Диссеркат, mydisser.com). Добавлено в degrees. Роль из CSV: Заместитель генерального директора ПАО «Таттелеком» по развитию с сентября 2024 года"
+                },
+                {
+                    "name":  "Фролов Дмитрий Александрович",
+                    "current_role":  "заместитель генерального директора ПАО «Таттелеком» по техническим вопросам",
+                    "company_name":  "ПАО «Таттелеком»",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО «Таттелеком»",
+                                                        "role":  "заместитель генерального директора по техническим вопросам",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "CSV указывает назначение с ноября 2024 года; официальная карточка руководителя подтверждает текущую роль.",
+                                                        "sources":  [
+                                                                        "https://my.tattelecom.ru/about/head/frolov-dmitriy-aleksandrovich/"
+                                                                    ],
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Telecommunication Services",
+                                                        "industry":  "Diversified Telecommunication Services"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://my.tattelecom.ru/about/head/frolov-dmitriy-aleksandrovich/",
+                                        "title":  "ПАО «Таттелеком» — Фролов Дмитрий Александрович",
+                                        "fact":  "Официальная карточка руководителя."
+                                    },
+                                    {
+                                        "url":  "https://my.tattelecom.ru/about/head/frolov-dmitriy-aleksandrovich/",
+                                        "title":  "ПАО «Таттелеком» — Фролов Дмитрий Александрович",
+                                        "fact":  "Официальная карточка руководителя подтверждает должность."
+                                    }
+                                ],
+                    "notes":  "Образование и предыдущая карьера не подтверждены надежно доступными источниками; однофамильцы с научными публикациями не атрибутированы. Gap follow-up round (2026-08-01): свежий запрос («Фролов Дмитрий Александрович Таттелеком образование окончил вуз») нашел образование только для тезки — тюменского политика Фролова Дмитрия Александровича 1981 г.р. (Санкт-Петербургский институт точной механики и оптики, 2003) — не тот человек (заместитель гендиректора Таттелекома 1982 г.р.); my.tattelecom.ru не раскрывает вуз/год. Оставлено null. Роль из CSV: Заместитель генерального директора ПАО «Таттелеком» по техническим вопросам с ноября 2024 года"
+                },
+                {
+                    "name":  "Осадченко Анастасия Михайловна",
+                    "current_role":  "корпоративный секретарь ПАО «Таттелеком»; секретарь Совета директоров",
+                    "company_name":  "ПАО «Таттелеком»",
+                    "education":  [
+                                      {
+                                          "institution":  "Казанский государственный финансово-экономический институт",
+                                          "year":  1999,
+                                          "qualification":  "высшее образование",
+                                          "description":  "Original education details: field: финансы и кредит.",
+                                          "sources":  [
+                                                          "https://investonic.ru/wp-content/uploads/2024/01/godovoj-otchet-tattelekom-ttlk-2022.pdf",
+                                                          "https://my.tattelecom.ru/upload/iblock/311/2lslf26kwvwpnr0vnjqm9k3p4wvjeyp8/3.GO-za-2024g-..pdf",
+                                                          "MOEXBMI_Отчеты_2024/TTLK/ГО за 2024г для раскрытия..pdf"
+                                                      ],
+                                          "qualification_degree":  "Unknown"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО «Таттелеком»",
+                                                        "role":  "корпоративный секретарь; секретарь Совета директоров",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Официальное раскрытие и карточки Таттелекома подтверждают роль корпоративного секретаря.",
+                                                        "sources":  [
+                                                                        "https://my.tattelecom.ru/shareholders-and-investors/annual-reports/"
+                                                                    ],
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Telecommunication Services",
+                                                        "industry":  "Diversified Telecommunication Services"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://my.tattelecom.ru/shareholders-and-investors/annual-reports/",
+                                        "title":  "ПАО «Таттелеком» — годовые отчеты",
+                                        "fact":  "Основной источник по роли корпоративного секретаря."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/TTLK/ГО за 2024г для раскрытия..pdf",
+                                        "title":  "ПАО «Таттелеком» — годовой отчет за 2024 год",
+                                        "fact":  "Подтверждает исполнение обязанностей корпоративного секретаря в 2024 году и образование Осадченко А.М."
+                                    },
+                                    {
+                                        "url":  "https://investonic.ru/wp-content/uploads/2024/01/godovoj-otchet-tattelekom-ttlk-2022.pdf",
+                                        "title":  "ПАО «Таттелеком» — годовой отчет за 2022 год",
+                                        "fact":  "Годовой отчет указывает, что Осадченко А.М. в 1999 году окончила Казанский государственный финансово-экономический институт по специальности «Финансы и кредит»."
+                                    },
+                                    {
+                                        "url":  "https://my.tattelecom.ru/upload/iblock/311/2lslf26kwvwpnr0vnjqm9k3p4wvjeyp8/3.GO-za-2024g-..pdf",
+                                        "title":  "ПАО «Таттелеком» — годовой отчет за 2024 год",
+                                        "fact":  "Индексированный фрагмент годового отчета за 2024 год подтверждает высшее образование Осадченко А.М., но в доступном фрагменте название вуза обрезано."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/TTLK/ГО за 2024г для раскрытия..pdf",
+                                        "title":  "ПАО «Таттелеком» — годовой отчет за 2024 год",
+                                        "fact":  "Годовой отчет за 2024 год прямо подтверждает высшее образование: Казанский государственный финансово-экономический институт, специальность «Финансы и кредит»."
+                                    },
+                                    {
+                                        "url":  "https://my.tattelecom.ru/shareholders-and-investors/annual-reports/",
+                                        "title":  "ПАО «Таттелеком» — годовые отчеты",
+                                        "fact":  "Официальное раскрытие используется для подтверждения роли корпоративного секретаря."
+                                    }
+                                ],
+                    "notes":  "Образование и роль корпоративного секретаря подтверждены официальным годовым отчетом ПАО «Таттелеком» за 2024 год. Научная активность не подтверждена. Роль из CSV: Корпоративный секретарь ПАО «Таттелеком»; секретарь Совета директоров"
+                },
+                {
+                    "name":  "Надин Артем Александрович",
+                    "current_role":  "руководитель Альметьевского ЗУЭС ПАО «Таттелеком»",
+                    "company_name":  "ПАО «Таттелеком»",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО «Таттелеком», Альметьевский ЗУЭС",
+                                                        "role":  "руководитель / директор филиала",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Роль подтверждается CSV и профильным материалом о руководителях Таттелекома.",
+                                                        "sources":  [
+                                                                        "https://realnoevremya.ru/articles/309126-lica-tatarstanskogo-telekoma-kto-vedet-v-buduschee-kompaniyu"
+                                                                    ],
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Telecommunication Services",
+                                                        "industry":  "Diversified Telecommunication Services"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://realnoevremya.ru/articles/309126-lica-tatarstanskogo-telekoma-kto-vedet-v-buduschee-kompaniyu",
+                                        "title":  "Реальное время — «Лица татарстанского телекома»",
+                                        "fact":  "Основной источник по роли."
+                                    },
+                                    {
+                                        "url":  "https://realnoevremya.ru/articles/309126-lica-tatarstanskogo-telekoma-kto-vedet-v-buduschee-kompaniyu",
+                                        "title":  "Реальное время — «Лица татарстанского телекома»",
+                                        "fact":  "Материал идентифицирует Артема Надина как руководителя Альметьевского ЗУЭС."
+                                    }
+                                ],
+                    "notes":  "Образование, предыдущий опыт, публикации, патенты и h-index не подтверждены. Gap follow-up round (2026-08-01): свежий запрос («Надин Артем Александрович Альметьевский ЗУЭС Таттелеком образование») дал только одну низконадежную зацепку — личная страница ВКонтакте с полем «Образование: АГИМС '00» — аббревиатура не расшифрована, соцсеть не является первичным биографическим источником и принадлежность страницы не перепроверена независимо. Не внесено в JSON как неподтвержденное; оставлено null, зацепка зафиксирована для возможной будущей проверки. Роль из CSV: Директор филиала ПАО «Таттелеком»; руководитель Альметьевского ЗУЭС"
+                },
+                {
+                    "name":  "Алтынбаева Ландыш Завдятовна",
+                    "current_role":  "руководитель Буинского ЗУЭС ПАО «Таттелеком»",
+                    "company_name":  "ПАО «Таттелеком»",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО «Таттелеком», Буинский ЗУЭС",
+                                                        "role":  "руководитель / директор филиала",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Роль подтверждается CSV и публичными упоминаниями Таттелекома/регионального филиала.",
+                                                        "sources":  [
+                                                                        "https://my.tattelecom.ru/structural-units/buinskiy-zues/"
+                                                                    ],
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Telecommunication Services",
+                                                        "industry":  "Diversified Telecommunication Services"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://my.tattelecom.ru/structural-units/buinskiy-zues/",
+                                        "title":  "ПАО «Таттелеком» — Буинский ЗУЭС",
+                                        "fact":  "Официальная страница структурного подразделения."
+                                    },
+                                    {
+                                        "url":  "https://my.tattelecom.ru/structural-units/buinskiy-zues/",
+                                        "title":  "ПАО «Таттелеком» — Буинский ЗУЭС",
+                                        "fact":  "Официальная страница структурного подразделения указывает Алтынбаеву Л.З. как руководителя Буинского ЗУЭС."
+                                    }
+                                ],
+                    "notes":  "Доступные источники подтверждают роль, но не раскрывают проверяемое образование или научные результаты. Gap follow-up round (2026-08-01): свежий запрос («Алтынбаева Ландыш Завдятовна Буинский ЗУЭС образование») не дал результатов — источники подтверждают только должность. Оставлено null. Роль из CSV: Директор филиала ПАО «Таттелеком»; руководитель Буинского ЗУЭС"
+                },
+                {
+                    "name":  "Степанов Максим Александрович",
+                    "current_role":  "руководитель Набережно-Челнинского ЗУЭС ПАО «Таттелеком»",
+                    "company_name":  "ПАО «Таттелеком»",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО «Таттелеком», Набережно-Челнинский ЗУЭС",
+                                                        "role":  "руководитель / директор филиала",
+                                                        "start_year":  2023,
+                                                        "end_year":  null,
+                                                        "description":  "CSV указывает назначение с апреля 2023 года; профильный материал подтверждает роль в Набережно-Челнинском ЗУЭС.",
+                                                        "sources":  [
+                                                                        "https://realnoevremya.ru/articles/309126-lica-tatarstanskogo-telekoma-kto-vedet-v-buduschee-kompaniyu"
+                                                                    ],
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Telecommunication Services",
+                                                        "industry":  "Diversified Telecommunication Services"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://realnoevremya.ru/articles/309126-lica-tatarstanskogo-telekoma-kto-vedet-v-buduschee-kompaniyu",
+                                        "title":  "Реальное время — «Лица татарстанского телекома»",
+                                        "fact":  "Основной источник по роли."
+                                    },
+                                    {
+                                        "url":  "https://realnoevremya.ru/articles/309126-lica-tatarstanskogo-telekoma-kto-vedet-v-buduschee-kompaniyu",
+                                        "title":  "Реальное время — «Лица татарстанского телекома»",
+                                        "fact":  "Материал идентифицирует Максима Степанова как руководителя Набережно-Челнинского ЗУЭС."
+                                    }
+                                ],
+                    "notes":  "Образование и научная активность не подтверждены; найденные однофамильцы не атрибутированы. Gap follow-up round (2026-08-01): свежий запрос («Степанов Максим Александрович Набережно-Челнинский ЗУЭС Таттелеком образование») не дал результатов по вузу/году — my.tattelecom.ru, izbirkom.ru и letai.ru подтверждают только должность и почетное звание «заслуженный работник информатизации и связи РТ». Оставлено null. Роль из CSV: Директор филиала ПАО «Таттелеком»; руководитель Набережно-Челнинского ЗУЭС с апреля 2023 года"
+                },
+                {
+                    "name":  "Воробьев Михаил Сергеевич",
+                    "current_role":  "генеральный директор ООО «Твои Мобильные Технологии»",
+                    "company_name":  "ПАО «Таттелеком»",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ООО «Твои Мобильные Технологии»",
+                                                        "role":  "генеральный директор",
+                                                        "start_year":  2023,
+                                                        "end_year":  null,
+                                                        "description":  "Роль соответствует CSV и публичным данным о дочернем обществе/контуре Таттелекома. Quality-pass round (2026-08-01): подтверждено (ru.wikipedia.org, статья «Таттелеком»), что ООО «Твои Мобильные Технологии» (ТМТ) — оператор мобильного бренда «Летай» (LTE 1800/2600 МГц, более 500 тыс. абонентов в Татарстане), т.е. беспроводной сотовый оператор, а не диверсифицированный многопрофильный оператор.",
+                                                        "sources":  [
+                                                                        "https://checko.ru/company/tmt-1151690038367",
+                                                                        "https://companium.ru/id/1151690038367-tmt",
+                                                                        "https://ru.wikipedia.org/wiki/Таттелеком"
+                                                                    ],
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Telecommunication Services",
+                                                        "industry":  "Wireless Telecommunication Services"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://checko.ru/company/tmt-1151690038367",
+                                        "title":  "Checko — ООО «Твои Мобильные Технологии»",
+                                        "fact":  "Источник по роли генерального директора."
+                                    },
+                                    {
+                                        "url":  "https://checko.ru/company/tmt-1151690038367",
+                                        "title":  "Checko — ООО «Твои Мобильные Технологии»",
+                                        "fact":  "Карточка юридического лица указывает Воробьева М.С. как генерального директора ООО «Твои Мобильные Технологии»."
+                                    },
+                                    {
+                                        "url":  "https://companium.ru/id/1151690038367-tmt",
+                                        "title":  "Компаниум — ООО «ТМТ»",
+                                        "fact":  "Карточка указывает руководителя ООО «ТМТ» и связь учредителя с ПАО «Таттелеком»."
+                                    }
+                                ],
+                    "notes":  "Образование, предыдущая карьера и научная активность не подтверждены надежными источниками. Gap follow-up round (2026-08-01): свежий запрос («Воробьев Михаил Сергеевич Твои Мобильные Технологии образование») не дал результатов — оставлено null. GICS-корректировка (2026-08-01): industry исправлен с Diversified Telecommunication Services на Wireless Telecommunication Services — ТМТ управляет сотовым брендом «Летай» (см. professional_experience). Роль из CSV: Генеральный директор ООО «Твои Мобильные Технологии» с февраля 2023 года"
+                },
+                {
+                    "name":  "Камалетдинов Тимур Русланович",
+                    "current_role":  "генеральный директор ООО «ТТК Диджитал»",
+                    "company_name":  "ПАО «Таттелеком»",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ООО «ТТК Диджитал»",
+                                                        "role":  "генеральный директор",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "CSV указывает назначение с апреля 2024 года; публичные карточки дочернего общества подтверждают связь с ООО «ТТК Диджитал». Quality-pass round (2026-08-01): карточка контрагента (tbank.ru) перечисляет ОКВЭД компании — 46.52 (оптовая торговля электронным и телекоммуникационным оборудованием), 62.01 (разработка программного обеспечения), 62.03 (деятельность по управлению компьютерным оборудованием); основная деятельность — разработка ПО и управление IT-инфраструктурой, а не оказание телекоммуникационных услуг конечным абонентам.",
+                                                        "sources":  [
+                                                                        "https://companium.ru/id/1191690082264-ttk-didzhital",
+                                                                        "https://www.tbank.ru/business/contractor/legal/1191690082264/"
+                                                                    ],
+                                                        "sector":  "Information Technology",
+                                                        "industry_group":  "Software & Services",
+                                                        "industry":  "IT Services"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО «Таттелеком»",
+                                                        "role":  "директор приоритетных IT-проектов",
+                                                        "start_year":  null,
+                                                        "end_year":  2024,
+                                                        "description":  "Quality-pass round (2026-08-01), depth follow-up: kazanfirst.ru (статья от 12.09.2023) цитирует его как «Директор приоритетных IT-проектов» ПАО «Таттелеком», рассказывающего о внедрении IP-домофонии — предшествующая роль до назначения генеральным директором ООО «ТТК Диджитал» в апреле 2024 года.",
+                                                        "sources":  [
+                                                                        "https://kazanfirst.ru/articles/622242"
+                                                                    ],
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Telecommunication Services",
+                                                        "industry":  "Diversified Telecommunication Services"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://companium.ru/id/1191690082264-ttk-didzhital",
+                                        "title":  "Компаниум — ООО «ТТК Диджитал»",
+                                        "fact":  "Источник по роли генерального директора."
+                                    },
+                                    {
+                                        "url":  "https://companium.ru/id/1191690082264-ttk-didzhital",
+                                        "title":  "Компаниум — ООО «ТТК Диджитал»",
+                                        "fact":  "Карточка юридического лица указывает Камалетдинова Т.Р. как руководителя ООО «ТТК Диджитал»."
+                                    },
+                                    {
+                                        "url":  "https://www.tbank.ru/business/contractor/legal/1191690082264/",
+                                        "title":  "Т-Банк — ООО «ТТК Диджитал»",
+                                        "fact":  "Карточка контрагента указывает Камалетдинова Т.Р. руководителем с апреля 2024 года."
+                                    }
+                                ],
+                    "notes":  "Образование не подтверждено; научные публикации и патенты не найдены. Gap follow-up round (2026-08-01): свежий запрос («Камалетдинов Тимур Русланович ТТК Диджитал образование») не дал вуза/года, но нашел предыдущую роль — «Директор приоритетных IT-проектов» ПАО «Таттелеком» (kazanfirst.ru, 12.09.2023) — добавлено в professional_experience. GICS-корректировка (2026-08-01): ООО «ТТК Диджитал» переклассифицирован с Diversified Telecommunication Services на IT Services по ОКВЭД (разработка ПО, управление IT-оборудованием, а не оказание услуг связи). Роль из CSV: Генеральный директор ООО «ТТК Диджитал» с апреля 2024 года"
+                },
+                {
+                    "name":  "Урлин Андрей Олегович",
+                    "current_role":  "директор ООО «МИГ»",
+                    "company_name":  "ПАО «Таттелеком»",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ООО «МИГ»",
+                                                        "role":  "директор",
+                                                        "start_year":  2023,
+                                                        "end_year":  null,
+                                                        "description":  "CSV указывает роль с сентября 2023 года; профильный материал Таттелекома связывает Урлина А.О. с инфраструктурными проектами и ООО «МИГ». Quality-pass round (2026-08-01): полное наименование — ООО «Межрегиональная Инфраструктурная Группа» (ИНН 1615013278, ОГРН 1171690015232, г. Казань); несколько независимых бизнес-справочников (focus.kontur.ru, saby.ru, otc.ru) указывают ОКВЭД 42.22.2 «Строительство местных линий электропередачи и связи» — компания строит инфраструктуру связи (подрядчик), а не оказывает телекоммуникационные услуги как оператор.",
+                                                        "sources":  [
+                                                                        "https://my.tattelecom.ru/about/head/urlin-andrey-olegovich/",
+                                                                        "https://whoiswho.comnews.ru/person/28669/urlin-andrey-olegovich",
+                                                                        "https://realnoevremya.ru/articles/309126-lica-tatarstanskogo-telekoma-kto-vedet-v-buduschee-kompaniyu"
+                                                                    ],
+                                                        "sector":  "Industrials",
+                                                        "industry_group":  "Capital Goods",
+                                                        "industry":  "Construction & Engineering"
+                                                    },
+                                                    {
+                                                        "organization":  "ООО «Эдванс»",
+                                                        "role":  "заведующий складом",
+                                                        "start_year":  2005,
+                                                        "end_year":  2005,
+                                                        "description":  "Quality-pass round (2026-08-01), depth follow-up: whoiswho.comnews.ru (тот же источник, уже цитируемый в записи) дает раннюю карьеру дословно: «В 2005 г. работал заведующим складом в ООО «Эдванс», с 2006 г. по 2007 г. — в ООО «Мегаком»». Профиль организации не установлен — GICS оставлен null.",
+                                                        "sources":  [
+                                                                        "https://whoiswho.comnews.ru/person/28669/urlin-andrey-olegovich"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ООО «Мегаком»",
+                                                        "role":  "не детализировано",
+                                                        "start_year":  2006,
+                                                        "end_year":  2007,
+                                                        "description":  "Quality-pass round (2026-08-01), depth follow-up: whoiswho.comnews.ru дает раннюю карьеру дословно: «...с 2006 г. по 2007 г. — в ООО «Мегаком»» (должность в источнике не уточнена). Профиль организации не установлен — GICS оставлен null.",
+                                                        "sources":  [
+                                                                        "https://whoiswho.comnews.ru/person/28669/urlin-andrey-olegovich"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://my.tattelecom.ru/about/head/urlin-andrey-olegovich/",
+                                        "title":  "ПАО «Таттелеком» — Урлин Андрей Олегович",
+                                        "fact":  "Официальная карточка руководителя."
+                                    },
+                                    {
+                                        "url":  "https://my.tattelecom.ru/about/head/urlin-andrey-olegovich/",
+                                        "title":  "ПАО «Таттелеком» — Урлин Андрей Олегович",
+                                        "fact":  "Официальная карточка используется для подтверждения должности."
+                                    },
+                                    {
+                                        "url":  "https://whoiswho.comnews.ru/person/28669/urlin-andrey-olegovich",
+                                        "title":  "ComNews «Кто есть кто» — Урлин Андрей Олегович",
+                                        "fact":  "Профиль указывает карьерный путь Урлина А.О. и роль генерального директора ООО «МИГ» в группе компаний «Таттелеком»."
+                                    },
+                                    {
+                                        "url":  "https://realnoevremya.ru/articles/309126-lica-tatarstanskogo-telekoma-kto-vedet-v-buduschee-kompaniyu",
+                                        "title":  "Реальное время — «Лица татарстанского телекома»",
+                                        "fact":  "Материал содержит дополнительный карьерный контекст по инфраструктурным проектам."
+                                    }
+                                ],
+                    "notes":  "Образование и научные результаты не подтверждены; найденные технические публикации по однофамильцам не атрибутированы. Gap follow-up round (2026-08-01): свежий запрос («Урлин Андрей Олегович МИГ Таттелеком образование окончил») не дал вуза/года — оставлено null; попутно нашлась ранняя карьера (ООО «Эдванс» 2005, ООО «Мегаком» 2006-2007) по уже цитируемому источнику whoiswho.comnews.ru — добавлено в professional_experience. GICS-корректировка (2026-08-01): ООО «МИГ» переклассифицирован с Diversified Telecommunication Services на Construction & Engineering — компания (полное имя «Межрегиональная Инфраструктурная Группа») строит линии электропередачи и связи (ОКВЭД 42.22.2), а не оказывает услуги связи. Роль из CSV: Директор ООО «МИГ» с сентября 2023 года"
+                }
+            ],
+    "board_sources":  [
+                          {
+                              "url":  "MOEXBMI_2024.csv",
+                              "title":  "MOEXBMI_2024.csv",
+                              "fact":  "CSV contains predefined company people and positions used as pipeline input."
+                          },
+                          {
+                              "url":  "https://my.tattelecom.ru/shareholders-and-investors/annual-reports/",
+                              "title":  "ПАО «Таттелеком» — годовые отчеты",
+                              "fact":  "Официальный раздел раскрытия годовых отчетов использован как первичный контекст по компании и органам управления; прямое скачивание PDF из рабочей среды несколько раз завершалось таймаутом."
+                          },
+                          {
+                              "url":  "https://www.e-disclosure.ru/portal/event.aspx?EventId=3fgo1EmcqkagR43FT6jocA-B-B",
+                              "title":  "e-disclosure — решения годового общего собрания ПАО «Таттелеком» 15.05.2024",
+                              "fact":  "Раскрытие использовано для проверки факта годового собрания 15.05.2024 и изменения состава Совета директоров в 2024 году."
+                          },
+                          {
+                              "url":  "https://my.tattelecom.ru/about/head/",
+                              "title":  "ПАО «Таттелеком» — руководство",
+                              "fact":  "Официальные карточки руководителей использованы для подтверждения текущих должностей и отдельных биографических сведений управленческой команды."
+                          },
+                          {
+                              "url":  "https://realnoevremya.ru/articles/309126-lica-tatarstanskogo-telekoma-kto-vedet-v-buduschee-kompaniyu",
+                              "title":  "Реальное время — «Лица татарстанского телекома»",
+                              "fact":  "Профильный материал использован как дополнительный источник по карьерным траекториям руководителей ПАО «Таттелеком» и филиалов."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/TTLK/ГО за 2024г для раскрытия..pdf",
+                              "title":  "ПАО «Таттелеком» — годовой отчет за 2024 год",
+                              "fact":  "Локальный официальный годовой отчет использован для проверки состава Совета директоров, генерального директора и корпоративного секретаря ПАО «Таттелеком» в 2024 году."
+                          }
+                      ],
+    "sources":  [
+                    {
+                        "url":  "https://my.tattelecom.ru/shareholders-and-investors/annual-reports/",
+                        "title":  "ПАО «Таттелеком» — годовые отчеты",
+                        "fact":  "Официальный раздел раскрытия годовых отчетов использован как первичный контекст по компании и органам управления; прямое скачивание PDF из рабочей среды несколько раз завершалось таймаутом."
+                    },
+                    {
+                        "url":  "https://www.e-disclosure.ru/portal/event.aspx?EventId=3fgo1EmcqkagR43FT6jocA-B-B",
+                        "title":  "e-disclosure — решения годового общего собрания ПАО «Таттелеком» 15.05.2024",
+                        "fact":  "Раскрытие использовано для проверки факта годового собрания 15.05.2024 и изменения состава Совета директоров в 2024 году."
+                    },
+                    {
+                        "url":  "https://my.tattelecom.ru/about/head/",
+                        "title":  "ПАО «Таттелеком» — руководство",
+                        "fact":  "Официальные карточки руководителей использованы для подтверждения текущих должностей и отдельных биографических сведений управленческой команды."
+                    },
+                    {
+                        "url":  "https://realnoevremya.ru/articles/309126-lica-tatarstanskogo-telekoma-kto-vedet-v-buduschee-kompaniyu",
+                        "title":  "Реальное время — «Лица татарстанского телекома»",
+                        "fact":  "Профильный материал использован как дополнительный источник по карьерным траекториям руководителей ПАО «Таттелеком» и филиалов."
+                    },
+                    {
+                        "url":  "MOEXBMI_Отчеты_2024/TTLK/ГО за 2024г для раскрытия..pdf",
+                        "title":  "ПАО «Таттелеком» — годовой отчет за 2024 год",
+                        "fact":  "Локальный официальный годовой отчет использован для проверки состава Совета директоров, генерального директора и корпоративного секретаря ПАО «Таттелеком» в 2024 году."
+                    }
+                ],
+    "validation_notes":  "Original validation_notes: [\"Исследование выполнено по всем 21 строкам TTLK из MOEXBMI_2024.csv.\", \"Официальный сайт my.tattelecom.ru и PDF годового отчета периодически не открывались из рабочей среды: прямые curl/wget/web-open попытки завершались таймаутом. Факты из официального раскрытия использовались только там, где они подтверждались индексированными фрагментами или дополнительными источниками.\", \"Пустые поля оставлены намеренно: образование, степени, публикации, патенты и h-index не заполнялись по совпадению имени без подтвержденной идентичности.\", \"Для Нурутдинова А.Р. ученая степень кандидата технических наук внесена по официальному годовому отчету ПАО «Таттелеком» за 2024 год; h-index и публикации сохраняются только при наличии отдельно подтвержденного научного профиля.\", \"Для Р.Н. Минниханова подтвержден академический статус и ученые степени, но h-index не указан: не найден однозначно идентифицированный авторский профиль с метрикой.\"]\n\nNormalized to T_person_info.json schema on 2026-07-14. Original people count: 21; unresolved count: 0; normalized ceo: Нурутдинов Айрат Рафкатович; normalized tmt count: 20.\n\nOriginal top-level metadata preserved as JSON: {\"company_aliases\": [\"ПАО «Таттелеком»\", \"ПАО Таттелеком\", \"Tattelecom PJSC\", \"Таттелеком\"], \"csv_rows\": [{\"name\": \"Сорокин Валерий Юрьевич\", \"position\": \"Председатель Совета директоров ПАО «Таттелеком»; генеральный директор АО «Связьинвестнефтехим»\"}, {\"name\": \"Алексеев Сергей Владимирович\", \"position\": \"Член Совета директоров ПАО «Таттелеком»; первый заместитель генерального директора АО «Связьинвестнефтехим»\"}, {\"name\": \"Нафигин Альберт Ильдарович\", \"position\": \"Член Совета директоров ПАО «Таттелеком»; помощник Президента Республики Татарстан\"}, {\"name\": \"Минниханов Рифкат Нургалиевич\", \"position\": \"Член Совета директоров ПАО «Таттелеком» с 15 мая 2024 года; президент Академии наук Республики Татарстан\"}, {\"name\": \"Нурутдинов Айрат Рафкатович\", \"position\": \"Член Совета директоров ПАО «Таттелеком»; генеральный директор ПАО «Таттелеком»\"}, {\"name\": \"Сотов Денис Игоревич\", \"position\": \"Член Совета директоров и Комитета по аудиту Совета директоров ПАО «Таттелеком»; начальник отдела по работе с портфельными инвестициями АО «Связьинвестнефтехим»\"}, {\"name\": \"Яковлев Альберт Валерьевич\", \"position\": \"Член Совета директоров и Комитета по аудиту Совета директоров ПАО «Таттелеком»; заместитель министра цифрового развития государственного управления, информационных технологий и связи Республики Татарстан\"}, {\"name\": \"Шафигуллин Лутфулла Нурисламович\", \"position\": \"Член Совета директоров ПАО «Таттелеком» до 15 мая 2024 года\"}, {\"name\": \"Белобородов Сергей Александрович\", \"position\": \"Заместитель генерального директора ПАО «Таттелеком» по операционной деятельности и режиму\"}, {\"name\": \"Нургалеев Ильдар Тахиржанович\", \"position\": \"Заместитель генерального директора ПАО «Таттелеком» по информационной безопасности — директор департамента ИТ\"}, {\"name\": \"Шагиахметов Сергей Равилевич\", \"position\": \"Заместитель генерального директора ПАО «Таттелеком» по коммерческой деятельности\"}, {\"name\": \"Сибгатуллин Ильнар Ильдарович\", \"position\": \"Заместитель генерального директора ПАО «Таттелеком» по массовому рынку и маркетингу с апреля 2024 года\"}, {\"name\": \"Минниханов Расуль Рифкатович\", \"position\": \"Заместитель генерального директора ПАО «Таттелеком» по развитию с сентября 2024 года\"}, {\"name\": \"Фролов Дмитрий Александрович\", \"position\": \"Заместитель генерального директора ПАО «Таттелеком» по техническим вопросам с ноября 2024 года\"}, {\"name\": \"Осадченко Анастасия Михайловна\", \"position\": \"Корпоративный секретарь ПАО «Таттелеком»; секретарь Совета директоров\"}, {\"name\": \"Надин Артем Александрович\", \"position\": \"Директор филиала ПАО «Таттелеком»; руководитель Альметьевского ЗУЭС\"}, {\"name\": \"Алтынбаева Ландыш Завдятовна\", \"position\": \"Директор филиала ПАО «Таттелеком»; руководитель Буинского ЗУЭС\"}, {\"name\": \"Степанов Максим Александрович\", \"position\": \"Директор филиала ПАО «Таттелеком»; руководитель Набережно-Челнинского ЗУЭС с апреля 2023 года\"}, {\"name\": \"Воробьев Михаил Сергеевич\", \"position\": \"Генеральный директор ООО «Твои Мобильные Технологии» с февраля 2023 года\"}, {\"name\": \"Камалетдинов Тимур Русланович\", \"position\": \"Генеральный директор ООО «ТТК Диджитал» с апреля 2024 года\"}, {\"name\": \"Урлин Андрей Олегович\", \"position\": \"Директор ООО «МИГ» с сентября 2023 года\"}], \"target_year\": 2024, \"ticker\": \"TTLK\"}\n\nQuality-pass round 2 (2026-08-01). Step 0: on-disk file matched git HEAD exactly for TTLK (no regression to restore for this ticker). Genuine inconsistency resolved: CEO Нурутдинов А.Р. — dissertation/publication title was unverifiable at its cited Google Scholar URL on re-read (actual profile covers bio-inspired neural architectures, not telecom-network QoS); fresh research (kpfu.ru dissertation council card, dissercat.com, rusneb.ru — 3 independent sources) confirmed the real title «Биоинспирированная нейросетевая архитектура аналоговых компьютеров общего назначения в задачах Wi-Fi-радиопланирования» (КФУ, 2024), which also explicitly states implementation at ПАО «Таттелеком» — old title rejected as unattributed, degrees/publications/research_experience updated with reasoning documented in-record. GICS corrections: CEO's Министерство информатизации и связи РТ role (government ministry, was wrongly copying Tattelecom's commercial GICS) set to null/null/null; ООО «Твои Мобильные Технологии» (Воробьев) Diversified→Wireless Telecommunication Services (confirmed mobile brand «Летай»); ООО «ТТК Диджитал» (Камалетдинов) Diversified Telecom→IT Services (ОКВЭД: software dev + IT equipment management); ООО «МИГ» (Урлин) Diversified Telecom→Construction & Engineering (ОКВЭД 42.22.2, construction of power/communication lines). Simple omissions filled with sources: Сорокин (new education: КГУ/КФУ 1986), Алексеев (year+specialty for both existing education entries), Нафигин (year+specialty), qualification_degree corrected to corpus convention (Specialist degree / MBA / Doctoral degree / Secondary education) for CEO, Минниханов Р.Н., Шафигуллин. Минниханов Р.Р.: aspirantura→degree gap resolved (defended кандидат экономических наук, 2023, same institution). Depth additions: Камалетдинов (prior IT-projects director role at Таттелеком) and Урлин (early career Эдванс/Мегаком) professional_experience entries added with sources. Bounded gap follow-ups attempted and still unresolved (documented per-person in research_notes/TTLK/quality_pass_round1_20260801.md and in each person's notes field): education for Белобородов, Нургалеев, Шагиахметов, Фролов, Надин (low-confidence VK lead not adopted), Алтынбаева, Степанов, Воробьев, Камалетдинов, Урлин; CEO MBA institution linkage remains as previously sourced (unconfirmed further, not removed). No previously confirmed fact was shortened or deleted this round.\"",
+    "sector":  "Communication Services",
+    "industry_group":  "Telecommunication Services",
+    "industry":  "Diversified Telecommunication Services"
+}

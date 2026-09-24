@@ -1,0 +1,1549 @@
+{
+  "company_name": "ПАО \"Селигдар\"",
+  "company_ticker": "SELG",
+  "ceo": {
+    "name": "Сергей Михайлович Татаринов",
+    "current_role": "Генеральный директор - Председатель Правления ПАО \"Селигдар\"; член Совета директоров",
+    "company_name": "ПАО \"Селигдар\"",
+    "education": [
+      {
+        "program": "высшее образование",
+        "university": "Иркутский политехнический институт",
+        "field": "горный инженер; технология и комплексная механизация разработки россыпных месторождений",
+        "year": 1982,
+        "sources": [
+          {
+            "url": "MOEXBMI_Отчеты_2024/SELG/Seligdar_2024_AnnualReport_rus.pdf",
+            "title": "ПАО \"Селигдар\" Годовой отчет 2024",
+            "fact": "Страница PDF 97: биографический раздел указывает 1982 год окончания Иркутского политехнического института и квалификацию горного инженера."
+          },
+          {
+            "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+            "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+            "fact": "Раздел о членах органов управления указывает высшее образование Татаринова С. М.: Иркутский политехнический институт, 1982, горный инженер."
+          }
+        ],
+        "qualification_degree": null
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "ПАО \"Селигдар\"",
+        "role": "Генеральный директор - Председатель Правления",
+        "start_year": 2011,
+        "end_year": null,
+        "description": "Годовой отчет 2024 указывает, что с 2011 года должность Генерального директора ПАО \"Селигдар\" занимает Сергей Михайлович Татаринов.",
+        "sources": [
+          {
+            "url": "MOEXBMI_Отчеты_2024/SELG/Seligdar_2024_AnnualReport_rus.pdf",
+            "title": "ПАО \"Селигдар\" Годовой отчет 2024",
+            "fact": "Страница PDF 97: с 2011 года Генеральный директор - Председатель Правления ПАО \"Селигдар\"."
+          },
+          {
+            "url": "https://seligdar.ru/media/news/itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar/?ELEMENT_CODE=itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar",
+            "title": "Итоги годового общего собрания акционеров \"Селигдар\"",
+            "fact": "Официальное сообщение от 04.06.2024 включает Татаринова Сергея Михайловича в избранный состав Совета директоров."
+          }
+        ],
+        "sector": "Materials",
+        "industry_group": "Materials",
+        "industry": "Metals & Mining"
+      },
+      {
+        "organization": "ПАО \"Селигдар\"",
+        "role": "член Совета директоров",
+        "start_year": 2007,
+        "end_year": null,
+        "description": "Локальный годовой отчет и официальное сообщение об итогах ГОСА подтверждают участие в Совете директоров в 2024 году.",
+        "sources": [
+          {
+            "url": "MOEXBMI_Отчеты_2024/SELG/Seligdar_2024_AnnualReport_rus.pdf",
+            "title": "ПАО \"Селигдар\" Годовой отчет 2024",
+            "fact": "Страница PDF 97: с 2007 года член Совета директоров ПАО \"Селигдар\"."
+          },
+          {
+            "url": "https://seligdar.ru/media/news/itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar/?ELEMENT_CODE=itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar",
+            "title": "Итоги годового общего собрания акционеров \"Селигдар\"",
+            "fact": "Официальное сообщение от 04.06.2024 включает Татаринова Сергея Михайловича в избранный состав Совета директоров."
+          }
+        ],
+        "sector": "Materials",
+        "industry_group": "Materials",
+        "industry": "Metals & Mining"
+      },
+      {
+        "organization": "АО \"Золото Селигдара\"",
+        "role": "Генеральный директор по совместительству",
+        "start_year": 2011,
+        "end_year": null,
+        "description": "Должность указана в биографическом разделе годового отчета ПАО \"Селигдар\". АО \"Золото Селигдара\" — золотодобывающая дочерняя структура группы \"Селигдар\" (наименование прямо указывает на золотодобычу).",
+        "sources": [
+          {
+            "url": "MOEXBMI_Отчеты_2024/SELG/Seligdar_2024_AnnualReport_rus.pdf",
+            "title": "ПАО \"Селигдар\" Годовой отчет 2024",
+            "fact": "Страница PDF 97: с 2011 года Генеральный директор АО \"Золото Селигдара\" по совместительству."
+          }
+        ],
+        "sector": "Materials",
+        "industry_group": "Materials",
+        "industry": "Metals & Mining"
+      },
+      {
+        "organization": "ООО \"Рябиновое\"",
+        "role": "директор по совместительству",
+        "start_year": 2007,
+        "end_year": null,
+        "description": "Должность указана в биографическом разделе годового отчета ПАО \"Селигдар\". ООО \"Рябиновое\" ведет разработку золоторудного месторождения \"Рябиновое\" (Алданский район, Якутия) в составе группы \"Селигдар\".",
+        "sources": [
+          {
+            "url": "MOEXBMI_Отчеты_2024/SELG/Seligdar_2024_AnnualReport_rus.pdf",
+            "title": "ПАО \"Селигдар\" Годовой отчет 2024",
+            "fact": "Страница PDF 97: с 2007 года директор ООО \"Рябиновое\" по совместительству."
+          }
+        ],
+        "sector": "Materials",
+        "industry_group": "Materials",
+        "industry": "Metals & Mining"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_Отчеты_2024/SELG/Seligdar_2024_AnnualReport_rus.pdf",
+        "title": "ПАО \"Селигдар\" Годовой отчет 2024",
+        "fact": "Страница PDF 97 подтверждает ФИО, год рождения 1960, образование, должность Генерального директора - Председателя Правления и текущие должности в группе."
+      },
+      {
+        "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+        "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+        "fact": "Проспект повторяет образование и управленческие роли Татаринова С. М. в ПАО \"Селигдар\" и связанных организациях."
+      },
+      {
+        "url": "https://seligdar.ru/media/news/itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar/?ELEMENT_CODE=itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar",
+        "title": "Итоги годового общего собрания акционеров \"Селигдар\"",
+        "fact": "Официальное сообщение подтверждает избрание Татаринова С. М. в Совет директоров 04.06.2024."
+      }
+    ],
+    "notes": "Личность однозначно подтверждена локальным годовым отчетом и официальным раскрытием. Данные о научной деятельности, публикациях, патентах и h-index для этого лица не найдены."
+  },
+  "tmt": [
+    {
+      "name": "Александр Александрович Хрущ",
+      "current_role": "Президент ПАО \"Селигдар\" с 29.06.2024; Первый заместитель генерального директора - директор по экономике и финансам; член Совета директоров",
+      "company_name": "ПАО \"Селигдар\"",
+      "education": [
+        {
+          "program": "высшее образование",
+          "university": "Московский институт международных экономических отношений",
+          "field": "финансы и кредит; экономист",
+          "year": 2002,
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Проспект указывает, что Хрущ А. А. в 2002 году окончил Московский институт международных экономических отношений по специальности \"Финансы и кредит\"."
+            }
+          ],
+          "qualification_degree": null
+        },
+        {
+          "program": "корпоративное управление, сертификат и диплом IoD",
+          "university": "Institute of Directors",
+          "field": "директорская квалификация",
+          "year": null,
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Проспект указывает сертификат IoD 2018 года и диплом IoD 2019 года."
+            }
+          ],
+          "qualification_degree": "Professional certification"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Селигдар\"",
+          "role": "Президент",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Совет директоров 28.06.2024 избрал Александра Хруща Президентом с 29.06.2024; он сохранил должность Первого заместителя генерального директора - директора по экономике и финансам.",
+          "sources": [
+            {
+              "url": "https://seligdar.ru/media/news/prezidentom-kholdinga-seligdar-naznachen-aleksandr-khrushch/?ELEMENT_CODE=prezidentom-kholdinga-seligdar-naznachen-aleksandr-khrushch",
+              "title": "Президентом холдинга \"Селигдар\" назначен Александр Хрущ",
+              "fact": "Официальное сообщение: 28.06.2024 Совет директоров избрал Президентом Александра Хруща с 29.06.2024."
+            },
+            {
+              "url": "MOEXBMI_Отчеты_2024/SELG/Seligdar_2024_AnnualReport_rus.pdf",
+              "title": "ПАО \"Селигдар\" Годовой отчет 2024",
+              "fact": "Страницы PDF 16 и 96: в июне 2024 года избран Президент ПАО \"Селигдар\"; в декабре 2024 года Президент ПАО \"Селигдар\" Александр Хрущ представлял компанию на форуме ВТБ."
+            },
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Хруще А. А.: с 2014 года Первый заместитель генерального директора - директор по экономике и финансам ПАО \"Селигдар\"."
+            },
+            {
+              "url": "https://seligdar.ru/media/news/itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar/?ELEMENT_CODE=itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar",
+              "title": "Итоги годового общего собрания акционеров \"Селигдар\"",
+              "fact": "Официальное сообщение от 04.06.2024 включает Хруща Александра Александровича в избранный состав Совета директоров."
+            }
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ПАО \"Селигдар\"",
+          "role": "Первый заместитель генерального директора - директор по экономике и финансам",
+          "start_year": 2014,
+          "end_year": null,
+          "description": "Проспект раскрывает эту должность как занимаемую с 2014 года; официальное сообщение 2024 года указывает, что она сохранена после назначения Президентом.",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Хруще А. А.: с 2014 года Первый заместитель генерального директора - директор по экономике и финансам ПАО \"Селигдар\"."
+            },
+            {
+              "url": "https://seligdar.ru/media/news/prezidentom-kholdinga-seligdar-naznachen-aleksandr-khrushch/?ELEMENT_CODE=prezidentom-kholdinga-seligdar-naznachen-aleksandr-khrushch",
+              "title": "Президентом холдинга \"Селигдар\" назначен Александр Хрущ",
+              "fact": "Сообщение уточняет, что после назначения Президентом Хрущ сохранил должность Первого заместителя генерального директора - директора по экономике и финансам."
+            }
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ПАО \"Селигдар\"",
+          "role": "член Правления",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "Проспект указывает членство в Правлении с 2015 года.",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Хруще А. А.: с 2015 года член Правления ПАО \"Селигдар\"."
+            }
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ПАО \"Селигдар\"",
+          "role": "член Совета директоров (2015-2022); председатель Совета директоров (с 2022)",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "REFINEMENT (round 2, 2026-08-02): таблица проспекта (стр. 47) уточнена прямым чтением документа: член Совета директоров с 2015 по 2022 год, затем председатель Совета директоров с 2022 года по настоящее время; официальное сообщение 04.06.2024 включает Хруща в избранный состав Совета директоров. Ранее в JSON был указан только период с 2022 года (только председательство), без более раннего членства с 2015 года.",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Хруще А. А. (стр. 47 проспекта, таблица должностей): 2015-2022 член Совета директоров ПАО \"Селигдар\"; 2022-н.в. Председатель Совета директоров ПАО \"Селигдар\"."
+            },
+            {
+              "url": "https://seligdar.ru/media/news/itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar/?ELEMENT_CODE=itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar",
+              "title": "Итоги годового общего собрания акционеров \"Селигдар\"",
+              "fact": "Официальное сообщение от 04.06.2024 включает Хруща Александра Александровича в избранный состав Совета директоров."
+            }
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ПАО \"Русолово\"",
+          "role": "председатель Совета директоров; член Совета директоров",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Проспект указывает председательство в Совете директоров ПАО \"Русолово\" в 2019-2022 годах и членство в Совете директоров с 2022 года.",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Хруще А. А. указывает роли в ПАО \"Русолово\"."
+            }
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "АО \"Лунное\"",
+          "role": "член Совета директоров",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "REFINEMENT (round 2, 2026-08-02): найдено прямым чтением таблицы должностей в проспекте (стр. 47); эта роль не была отражена в JSON после первого раунда. АО \"Лунное\" — совместное предприятие \"Селигдара\" (49%) и АО \"Атомредметзолото\" по разработке золото-урано-серебряного месторождения \"Лунное\" в Алданском районе Якутии.",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Хруще А. А. (стр. 47 проспекта, таблица должностей): 2019-н.в. член Совета директоров АО \"Лунное\"."
+            }
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://seligdar.ru/media/news/prezidentom-kholdinga-seligdar-naznachen-aleksandr-khrushch/?ELEMENT_CODE=prezidentom-kholdinga-seligdar-naznachen-aleksandr-khrushch",
+          "title": "Президентом холдинга \"Селигдар\" назначен Александр Хрущ",
+          "fact": "Официальное сообщение подтверждает назначение Президентом с 29.06.2024 и сохранение финансовой должности."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/SELG/Seligdar_2024_AnnualReport_rus.pdf",
+          "title": "ПАО \"Селигдар\" Годовой отчет 2024",
+          "fact": "Страницы PDF 16 и 96 подтверждают роль Президента в 2024 году."
+        },
+        {
+          "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+          "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+          "fact": "Проспект раскрывает образование, квалификации IoD и ряд управленческих ролей Хруща А. А."
+        }
+      ],
+      "notes": "Официальная биография неполная, но связка ФИО-компания-должность подтверждена локальным отчетом, официальным сообщением и проспектом. Публикации, патенты и h-index не подтверждены. REFINEMENT round 2 (2026-08-02): прямым чтением стр. 47 проспекта добавлена роль в АО \"Лунное\" (с 2019) и уточнены даты роли в Совете директоров ПАО \"Селигдар\" (член с 2015, председатель с 2022) — обе правки основаны на таблице должностей того же проспекта, который уже был источником для этого лица."
+    },
+    {
+      "name": "Евгений Владимирович Щетинин",
+      "current_role": "Главный инженер ПАО \"Селигдар\"; член Правления",
+      "company_name": "ПАО \"Селигдар\"",
+      "education": [
+        {
+          "program": "высшее образование",
+          "university": "Московская государственная геологоразведочная академия имени С. Орджоникидзе",
+          "field": "подземная разработка месторождений полезных ископаемых; горный инженер",
+          "year": 1994,
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Проспект указывает, что Щетинин Е. В. в 1994 году окончил МГГА им. С. Орджоникидзе по специальности подземная разработка месторождений полезных ископаемых."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Селигдар\"",
+          "role": "главный инженер; член Правления",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Проспект раскрывает, что с 2021 года Щетинин является Главным инженером и членом Правления ПАО \"Селигдар\".",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Щетинине Е. В.: с 2021 года Главный инженер и член Правления ПАО \"Селигдар\"."
+            }
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+          "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+          "fact": "Проспект подтверждает ФИО, год рождения 1971, образование и роль Главного инженера / члена Правления."
+        },
+        {
+          "url": "https://markets.businessinsider.com/stocks/seligdar_jsc-stock",
+          "title": "Business Insider Markets: Seligdar JSC company profile",
+          "fact": "Профиль рынка перечисляет Evgeny V. Shchetinin как Chief Engineer & Management Board Member; использовано как вспомогательное англоязычное подтверждение роли."
+        }
+      ],
+      "notes": "Данных о предыдущих работодателях, академических степенях и публикациях в проверенных источниках не найдено; в проспекте указано отсутствие должностей в иных организациях в 2019-2021 годах."
+    },
+    {
+      "name": "Валерий Оруджалиевич Сулейманов",
+      "current_role": "член Совета директоров ПАО \"Селигдар\"; заместитель генерального директора по вспомогательным рыночным профилям",
+      "company_name": "ПАО \"Селигдар\"",
+      "education": [
+        {
+          "program": "высшее образование",
+          "university": "Иркутский политехнический институт",
+          "field": "подземная разработка месторождений полезных ископаемых; горный инженер",
+          "year": 1983,
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Проспект указывает, что Сулейманов В. О. в 1983 году окончил Иркутский политехнический институт по специальности подземная разработка месторождений полезных ископаемых."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Селигдар\"",
+          "role": "член Совета директоров",
+          "start_year": 2018,
+          "end_year": null,
+          "description": "Проспект раскрывает членство в Совете директоров с 2018 года; официальное сообщение 04.06.2024 подтверждает избрание в Совет директоров.",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Сулейманове В. О.: с 2018 года член Совета директоров ПАО \"Селигдар\"."
+            },
+            {
+              "url": "https://seligdar.ru/media/news/itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar/?ELEMENT_CODE=itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar",
+              "title": "Итоги годового общего собрания акционеров \"Селигдар\"",
+              "fact": "Официальное сообщение от 04.06.2024 включает Сулейманова Валерия Оруджалиевича в избранный состав Совета директоров."
+            },
+            {
+              "url": "https://markets.businessinsider.com/stocks/seligdar_jsc-stock",
+              "title": "Business Insider Markets: Seligdar JSC company profile",
+              "fact": "Профиль перечисляет Valery O. Suleimanov как Director & Deputy General Director."
+            }
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ПАО \"Селигдар\"",
+          "role": "заместитель генерального директора",
+          "start_year": null,
+          "end_year": null,
+          "description": "Рыночные профили указывают роль Director & Deputy General Director; официальный первичный источник для этой функциональной роли в текущем раунде не найден.",
+          "sources": [
+            {
+              "url": "https://markets.businessinsider.com/stocks/seligdar_jsc-stock",
+              "title": "Business Insider Markets: Seligdar JSC company profile",
+              "fact": "Профиль перечисляет Valery O. Suleimanov как Director & Deputy General Director."
+            }
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+          "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+          "fact": "Проспект подтверждает ФИО, год рождения 1959, образование и членство в Совете директоров."
+        },
+        {
+          "url": "https://seligdar.ru/media/news/itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar/?ELEMENT_CODE=itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar",
+          "title": "Итоги годового общего собрания акционеров \"Селигдар\"",
+          "fact": "Официальное сообщение подтверждает избрание в Совет директоров 04.06.2024."
+        }
+      ],
+      "notes": "Функциональная роль заместителя генерального директора опирается на вспомогательный рыночный профиль и помечена как слабее официального раскрытия. Научные данные не подтверждены."
+    },
+    {
+      "name": "Вадим Сергеевич Митрошин",
+      "current_role": "руководитель направления по связям с инвесторами / Investor Relations Contact",
+      "company_name": "ПАО \"Селигдар\"",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Селигдар\"",
+          "role": "Head-Investor Relations Department / Investor Relations Contact",
+          "start_year": null,
+          "end_year": null,
+          "description": "CSV указывает Investor Relations Contact; англоязычный рыночный профиль Finanzen указывает Head-Investor Relations Department.",
+          "sources": [
+            {
+              "url": "MOEXBMI_2024.csv",
+              "title": "MOEXBMI_2024.csv",
+              "fact": "Строка SELG указывает Mitroshin Vadim Sergeevich как Investor Relations Contact."
+            },
+            {
+              "url": "https://www.finanzen.net/unternehmensprofil/seligdar_jsc",
+              "title": "Finanzen.net: Seligdar JSC company profile",
+              "fact": "Профиль перечисляет Mitroshin Vadim Sergeevich как Head-Investor Relations Department."
+            }
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV задает Вадима Сергеевича Митрошина как лицо SELG и Investor Relations Contact."
+        },
+        {
+          "url": "https://www.finanzen.net/unternehmensprofil/seligdar_jsc",
+          "title": "Finanzen.net: Seligdar JSC company profile",
+          "fact": "Профиль подтверждает совпадающее ФИО и роль Head-Investor Relations Department."
+        }
+      ],
+      "notes": "Официальная биография, образование, предыдущий опыт и научные данные не найдены. Личность не смешана с однофамильцами, но подтверждение роли вне CSV основано на слабом рыночном агрегаторе. HONEST-GAP FOLLOW-UP (round 2, 2026-08-02): предпринята одна дополнительная попытка найти образование/биографию свежими запросами (не пересекающимися с раундом 1). Результаты не дали релевантных совпадений: единственный результат по точному ФИО+ИНН — не связанный с Селигдаром индивидуальный предприниматель в г. Батайске; общий поиск \"Митрошин Вадим\" вернул только однофамильцев (преподаватель КГАСУ, предприниматели в Самаре и др.), ни один не связан с Селигдаром или инвестиционными коммуникациями. Гэп остается неразрешенным; образование и предыдущие места работы Митрошина В. С. по-прежнему не найдены."
+    },
+    {
+      "name": "Сергей Владимирович Рыжов",
+      "current_role": "член Совета директоров ПАО \"Селигдар\"; советник генерального директора",
+      "company_name": "ПАО \"Селигдар\"",
+      "education": [
+        {
+          "program": "высшее образование",
+          "university": "Московский инженерно-физический институт",
+          "field": "прикладная математика; инженер-математик",
+          "year": 1993,
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Проспект указывает, что Рыжов С. В. в 1993 году окончил МИФИ по специальности \"Прикладная математика\"."
+            }
+          ],
+          "qualification_degree": null
+        },
+        {
+          "program": "CFA",
+          "university": "CFA Institute",
+          "field": "финансовая квалификация",
+          "year": 2004,
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Проспект указывает получение квалификации CFA в 2004 году."
+            }
+          ],
+          "qualification_degree": "Professional certification"
+        },
+        {
+          "program": "IoD Diploma",
+          "university": "Institute of Directors",
+          "field": "директорская квалификация",
+          "year": 2021,
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Проспект указывает диплом IoD 2021 года."
+            }
+          ],
+          "qualification_degree": "Professional certification"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "кандидат технических наук",
+          "field": "технические науки",
+          "year": 2021,
+          "institution": "Институт проблем комплексного освоения недр имени академика Н. В. Мельникова РАН",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Проспект указывает степень кандидата технических наук, полученную в 2021 году в ИПКОН РАН."
+            }
+          ],
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Селигдар\"",
+          "role": "член Совета директоров",
+          "start_year": 2013,
+          "end_year": null,
+          "description": "Проспект указывает председательство в Совете директоров в 2013-2022 годах и членство в Совете директоров с 2022 года; официальное сообщение 04.06.2024 подтверждает избрание в Совет директоров.",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Рыжове С. В. указывает роли в Совете директоров ПАО \"Селигдар\"."
+            },
+            {
+              "url": "https://seligdar.ru/media/news/itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar/?ELEMENT_CODE=itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar",
+              "title": "Итоги годового общего собрания акционеров \"Селигдар\"",
+              "fact": "Официальное сообщение от 04.06.2024 включает Рыжова Сергея Владимировича в избранный состав Совета директоров."
+            }
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ПАО \"Селигдар\"",
+          "role": "советник генерального директора",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Проспект указывает должность советника генерального директора с 2022 года.",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Рыжове С. В.: с 2022 года советник генерального директора ПАО \"Селигдар\"."
+            }
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "АО \"Лунное\"",
+          "role": "член Совета директоров",
+          "start_year": 2014,
+          "end_year": 2022,
+          "description": "Роль раскрыта в проспекте ПАО \"Селигдар\". АО \"Лунное\" — совместное предприятие \"Селигдара\" (49%) и АО \"Атомредметзолото\" по разработке золото-урано-серебряного месторождения в Якутии.",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Рыжове С. В. указывает членство в Совете директоров АО \"Лунное\" в 2014-2022 годах."
+            }
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "АО \"Русские Фонды\"",
+          "role": "член Совета директоров",
+          "start_year": 2015,
+          "end_year": 2022,
+          "description": "Роль раскрыта в проспекте ПАО \"Селигдар\".",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Рыжове С. В. указывает членство в Совете директоров АО \"Русские Фонды\" в 2015-2022 годах."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "ИПКОН РАН",
+          "role": "научный сотрудник",
+          "start_year": null,
+          "end_year": null,
+          "description": "Профиль публикации на mining-media идентифицирует Рыжова С. В. как научного сотрудника ИПКОН РАН и советника генерального директора ПАО \"Селигдар\".",
+          "sources": [
+            {
+              "url": "https://mining-media.ru/ru/article/newtech/16429-osobennosti-formirovaniya-rezhimov-proizvodstva-zolotodobyvayushchikh-predpriyatij",
+              "title": "Особенности формирования режимов производства золотодобывающих предприятий",
+              "fact": "Страница статьи указывает автора Рыжова С. В. как научного сотрудника ИПКОН РАН и советника генерального директора ПАО \"Селигдар\"."
+            }
+          ]
+        }
+      ],
+      "publications": [
+        {
+          "title": "Особенности формирования режимов производства золотодобывающих предприятий с открытым способом разработки месторождений",
+          "year": null,
+          "venue": "Mining-media / Горная промышленность",
+          "description": "Авторская статья Рыжова С. В.; страница указывает аффилиацию с ИПКОН РАН и ПАО \"Селигдар\".",
+          "sources": [
+            {
+              "url": "https://mining-media.ru/ru/article/newtech/16429-osobennosti-formirovaniya-rezhimov-proizvodstva-zolotodobyvayushchikh-predpriyatij",
+              "title": "Особенности формирования режимов производства золотодобывающих предприятий",
+              "fact": "Страница идентифицирует автора Рыжова С. В. с аффилиацией ИПКОН РАН и ПАО \"Селигдар\"."
+            }
+          ]
+        },
+        {
+          "title": "Обоснование структуры производственной мощности золотодобывающего предприятия на различных этапах развития открытых горных работ",
+          "year": 2022,
+          "venue": "Горный информационно-аналитический бюллетень",
+          "description": "Публикация с автором Рыжовым С. В.; отнесена к нужному лицу по совпадению ФИО, горнодобывающей тематики, степени в ИПКОН РАН и подтвержденной статье с аффилиацией ПАО \"Селигдар\".",
+          "sources": [
+            {
+              "url": "https://cyberleninka.ru/article/n/obosnovanie-struktury-proizvodstvennoy-moschnosti-zolotodobyvayuschego-predpriyatiya-na-razlichnyh-etapah-razvitiya-otkrytyh-gornyh",
+              "title": "CyberLeninka: Обоснование структуры производственной мощности золотодобывающего предприятия...",
+              "fact": "Карточка статьи указывает авторов, включая Рыжова С. В., и публикацию 2022 года в горнодобывающей тематике."
+            }
+          ]
+        }
+      ],
+      "patents": [
+        {
+          "title": "RU2622534C2: Способ извлечения благородных металлов из отработанных штабелей кучного выщелачивания",
+          "year": 2017,
+          "description": "Патентный профиль указывает изобретателя Рыжова Сергея Владимировича; связь с нужным лицом вероятна по горнодобывающей тематике и идентичному ФИО, но отдельной корпоративной аффилиации на странице патента не найдено.",
+          "sources": [
+            {
+              "url": "https://patents.google.com/patent/RU2622534C2/ru",
+              "title": "Google Patents: RU2622534C2",
+              "fact": "Патентная карточка указывает изобретателя Рыжова Сергея Владимировича."
+            }
+          ]
+        }
+      ],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+          "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+          "fact": "Проспект подтверждает образование, CFA, IoD, степень кандидата технических наук и управленческие роли Рыжова С. В."
+        },
+        {
+          "url": "https://mining-media.ru/ru/article/newtech/16429-osobennosti-formirovaniya-rezhimov-proizvodstva-zolotodobyvayushchikh-predpriyatij",
+          "title": "Особенности формирования режимов производства золотодобывающих предприятий",
+          "fact": "Страница публикации связывает Рыжова С. В. одновременно с ИПКОН РАН и ПАО \"Селигдар\"."
+        }
+      ],
+      "notes": "Научная идентификация надежнее для статьи mining-media, потому что указан e-mail/аффилиация ПАО \"Селигдар\". Патент сохранен с оговоркой: тематика и ФИО совпадают, но страница патента не дает корпоративной аффилиации."
+    },
+    {
+      "name": "Константин Александрович Бейрит",
+      "current_role": "член Совета директоров ПАО \"Селигдар\"; Президент ПАО \"Селигдар\" до 28.06.2024; акционер и консультант руководства после прекращения полномочий Президента",
+      "company_name": "ПАО \"Селигдар\"",
+      "education": [
+        {
+          "program": "высшее образование",
+          "university": "Московский физико-технический институт",
+          "field": "прикладные математика и физика; инженер-физик",
+          "year": 1993,
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Проспект указывает окончание МФТИ в 1993 году по направлению прикладной математики и физики."
+            }
+          ],
+          "qualification_degree": null
+        },
+        {
+          "program": "высшее образование",
+          "university": "Институт стран СНГ",
+          "field": "мировая экономика; экономист",
+          "year": 2010,
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Проспект указывает окончание Института стран СНГ в 2010 году по специальности \"Мировая экономика\"."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Селигдар\"",
+          "role": "член Совета директоров",
+          "start_year": 2007,
+          "end_year": null,
+          "description": "Проспект указывает членство в Совете директоров с 2007 года; официальное сообщение 04.06.2024 подтверждает избрание в Совет директоров.",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Бейрите К. А.: с 2007 года член Совета директоров ПАО \"Селигдар\"."
+            },
+            {
+              "url": "https://seligdar.ru/media/news/itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar/?ELEMENT_CODE=itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar",
+              "title": "Итоги годового общего собрания акционеров \"Селигдар\"",
+              "fact": "Официальное сообщение от 04.06.2024 включает Бейрита Константина Александровича в избранный состав Совета директоров."
+            },
+            {
+              "url": "https://seligdar.ru/media/news/prezidentom-kholdinga-seligdar-naznachen-aleksandr-khrushch/?ELEMENT_CODE=prezidentom-kholdinga-seligdar-naznachen-aleksandr-khrushch",
+              "title": "Президентом холдинга \"Селигдар\" назначен Александр Хрущ",
+              "fact": "Официальное сообщение: 28.06.2024 Совет директоров прекратил полномочия Президента Константина Бейрита; он остался акционером, членом Совета директоров и консультантом руководства."
+            }
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ПАО \"Селигдар\"",
+          "role": "Президент",
+          "start_year": 2016,
+          "end_year": 2024,
+          "description": "Проспект указывает должность Президента с 2016 года; 28.06.2024 Совет директоров прекратил полномочия Президента Бейрита.",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Бейрите К. А.: с 2016 года Президент ПАО \"Селигдар\"."
+            },
+            {
+              "url": "https://seligdar.ru/media/news/prezidentom-kholdinga-seligdar-naznachen-aleksandr-khrushch/?ELEMENT_CODE=prezidentom-kholdinga-seligdar-naznachen-aleksandr-khrushch",
+              "title": "Президентом холдинга \"Селигдар\" назначен Александр Хрущ",
+              "fact": "Официальное сообщение: 28.06.2024 Совет директоров прекратил полномочия Президента Константина Бейрита; он остался акционером, членом Совета директоров и консультантом руководства."
+            }
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "АО \"Русские Фонды\"",
+          "role": "председатель Совета директоров",
+          "start_year": 2014,
+          "end_year": null,
+          "description": "Роль раскрыта в проспекте ПАО \"Селигдар\". Русские Фонды — диверсифицированный инвестиционный холдинг (управление активами, пенсионные и страховые интересы) без единого профильного операционного бизнеса; GICS не присваивается.",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Бейрите К. А.: с 2014 года Председатель Совета директоров АО \"Русские Фонды\"."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ООО \"Страховая компания ТИТ\"",
+          "role": "член Совета директоров",
+          "start_year": 2017,
+          "end_year": null,
+          "description": "Роль раскрыта в проспекте ПАО \"Селигдар\". REFINEMENT (round 2, 2026-08-02): организационно-правовая форма исправлена с \"АО\" на \"ООО\" по прямому чтению таблицы должностей проспекта (стр. 49); добавлен GICS — компания является страховщиком (ОСАГО и сопутствующее страхование), а не финансовой организацией иного типа.",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Бейрите К. А. (стр. 49 проспекта, таблица должностей): 2017-н.в. член Совета директоров ООО \"СК \"ТИТ\"."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Insurance",
+          "industry": "Insurance"
+        },
+        {
+          "organization": "ПАО \"Наука-Связь\"",
+          "role": "член Совета директоров",
+          "start_year": 2007,
+          "end_year": 2022,
+          "description": "REFINEMENT (round 2, 2026-08-02): найдено прямым чтением таблицы должностей в проспекте (стр. 49); эта роль не была отражена в JSON после первого раунда. \"Наука-Связь\" — телекоммуникационный и IT-холдинг (интернет, телефония, кабельное ТВ, системная интеграция, промышленная автоматизация); классификация по единственной GICS-строке неоднозначна из-за диверсифицированного профиля деятельности, поэтому GICS не присвоен.",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Бейрите К. А. (стр. 49 проспекта, таблица должностей): 2007-2022 член Совета директоров ПАО \"Наука-Связь\"."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "АО \"НПФ \"Внешэкономфонд\"\"",
+          "role": "член Совета директоров",
+          "start_year": 2017,
+          "end_year": 2020,
+          "description": "REFINEMENT (round 2, 2026-08-02): найдено прямым чтением таблицы должностей в проспекте (стр. 49); эта роль не была отражена в JSON после первого раунда. Негосударственный пенсионный фонд; точной строки GICS для НПФ в таксономии нет, GICS не присвоен.",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Бейрите К. А. (стр. 49 проспекта, таблица должностей): 2017-2020 член Совета директоров АО \"НПФ \"Внешэкономфонд\"\"."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+          "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+          "fact": "Проспект подтверждает образование и ряд управленческих ролей Бейрита К. А."
+        },
+        {
+          "url": "https://seligdar.ru/media/news/prezidentom-kholdinga-seligdar-naznachen-aleksandr-khrushch/?ELEMENT_CODE=prezidentom-kholdinga-seligdar-naznachen-aleksandr-khrushch",
+          "title": "Президентом холдинга \"Селигдар\" назначен Александр Хрущ",
+          "fact": "Официальное сообщение фиксирует прекращение президентских полномочий Бейрита 28.06.2024 и его дальнейший статус акционера, члена Совета директоров и консультанта."
+        }
+      ],
+      "notes": "Для контекста 2024 года важно не переносить позднее прекращенную должность Президента на конец года; текущая исполнительная роль Президента после 29.06.2024 относится к Александру Хрущу. REFINEMENT round 2 (2026-08-02): прямым чтением стр. 49 проспекта добавлены 2 пропущенные роли (ПАО \"Наука-Связь\" 2007-2022, АО \"НПФ \"Внешэкономфонд\"\" 2017-2020) и исправлена организационно-правовая форма \"Страховой компании ТИТ\" с АО на ООО; добавлен GICS Financials/Insurance/Insurance для этой компании (подтверждено: страховщик с 1993 года, ОСАГО)."
+    },
+    {
+      "name": "Геннадий Альфредович Лаунер",
+      "current_role": "член Совета директоров ПАО \"Селигдар\"",
+      "company_name": "ПАО \"Селигдар\"",
+      "education": [
+        {
+          "program": "высшее образование",
+          "university": "Ленинградский политехнический институт",
+          "field": "физика; инженер-физик",
+          "year": 1988,
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Проспект указывает окончание Ленинградского политехнического института в 1988 году по специальности \"Физика\"."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Селигдар\"",
+          "role": "член Совета директоров",
+          "start_year": 2012,
+          "end_year": null,
+          "description": "Проспект указывает членство в Совете директоров с 2012 года; официальное сообщение 04.06.2024 подтверждает избрание.",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Лаунере Г. А.: с 2012 года член Совета директоров ПАО \"Селигдар\"."
+            },
+            {
+              "url": "https://seligdar.ru/media/news/itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar/?ELEMENT_CODE=itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar",
+              "title": "Итоги годового общего собрания акционеров \"Селигдар\"",
+              "fact": "Официальное сообщение от 04.06.2024 включает Лаунера Геннадия Альфредовича в избранный состав Совета директоров."
+            }
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "АО \"Лунное\"",
+          "role": "член Совета директоров",
+          "start_year": 2014,
+          "end_year": null,
+          "description": "Роль раскрыта в проспекте ПАО \"Селигдар\". АО \"Лунное\" — совместное предприятие \"Селигдара\" (49%) и АО \"Атомредметзолото\" по разработке золото-урано-серебряного месторождения в Якутии.",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Лаунере Г. А.: с 2014 года член Совета директоров АО \"Лунное\"."
+            }
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ООО \"Белое Золото\"",
+          "role": "генеральный директор",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Роль раскрыта в проспекте ПАО \"Селигдар\" (\"White Gold\" в предыдущей версии JSON — рабочий перевод русского названия ООО \"Белое Золото\"). GENUINE INCONSISTENCY проверена и НЕ разрешена в пользу прежней классификации (round 2, 2026-08-02): прежний GICS Materials/Materials/Metals & Mining был основан только на созвучии названия с золотодобычей и не подтвержден. Целевой поиск нашел юрлицо ООО \"Белое Золото\" (ИНН 9705157832, ОГРН 1217700335490, Москва) с очень малой выручкой (~665 тыс. руб. за 2024 год по данным открытых реестров) и без подтвержденного ОКВЭД/вида деятельности; такая выручка несовместима с действующим золотодобывающим предприятием. Поскольку код ОКВЭД/вид деятельности не подтвержден напрямую, а прежнее предположение выглядит недостоверным, GICS понижен до null как неподтвержденный, вместо того чтобы оставить вероятно ошибочную метку.",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Лаунере Г. А. (стр. 50-51 проспекта, таблица должностей): с 2021 года Генеральный директор ООО \"Белое Золото\"."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"Наука-Связь\"",
+          "role": "председатель Совета директоров (2020-2022); член Совета директоров (с 2021)",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "REFINEMENT (round 2, 2026-08-02): таблица проспекта (стр. 50-51) уточнена прямым чтением документа: председатель Совета директоров с 2020 по 2022 год, затем (параллельно и далее) член Совета директоров с 2021 года по настоящее время. Ранее в JSON был указан только период членства с 2021 года без более раннего председательства с 2020 года. \"Наука-Связь\" — телекоммуникационный и IT-холдинг (интернет, телефония, кабельное ТВ, системная интеграция, промышленная автоматизация); классификация по единственной GICS-строке неоднозначна из-за диверсифицированного профиля деятельности, поэтому GICS не присвоен.",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Лаунере Г. А. (стр. 50-51 проспекта, таблица должностей): 2020-2022 Председатель Совета директоров ПАО \"Наука-Связь\"; 2021-н.в. член Совета директоров ПАО \"Наука-Связь\"."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"Автелком\"",
+          "role": "председатель Совета директоров",
+          "start_year": 2015,
+          "end_year": 2022,
+          "description": "REFINEMENT (round 2, 2026-08-02): найдено прямым чтением таблицы должностей в проспекте (стр. 50); эта роль (\"Avtelcom\", упомянутая в research_notes раунда 1, но пропущенная при переносе в JSON) теперь добавлена с точным названием и должностью. Вид деятельности компании не установлен, GICS не присвоен.",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Лаунере Г. А. (стр. 50 проспекта, таблица должностей): 2015-2022 Председатель Совета директоров ПАО \"Автелком\"."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "АО \"НПФ \"Внешэкономфонд\"\"",
+          "role": "член Совета директоров",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "REFINEMENT (round 2, 2026-08-02): найдено прямым чтением таблицы должностей в проспекте (стр. 50); эта роль не была отражена в JSON после первого раунда. Негосударственный пенсионный фонд; точной строки GICS для НПФ в таксономии нет, GICS не присвоен.",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Лаунере Г. А. (стр. 50 проспекта, таблица должностей): 2020-н.в. член Совета директоров АО \"НПФ \"Внешэкономфонд\"\"."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "АО \"Оренбургский НПФ \"Доверие\"\"",
+          "role": "член Совета директоров",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "REFINEMENT (round 2, 2026-08-02): найдено прямым чтением таблицы должностей в проспекте (стр. 50); эта роль не была отражена в JSON после первого раунда. Негосударственный пенсионный фонд; точной строки GICS для НПФ в таксономии нет, GICS не присвоен.",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Лаунере Г. А. (стр. 50 проспекта, таблица должностей): 2021-н.в. член Совета директоров АО \"Оренбургский НПФ \"Доверие\"\"."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+          "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+          "fact": "Проспект подтверждает образование и карьерные роли Лаунера Г. А."
+        },
+        {
+          "url": "https://seligdar.ru/media/news/itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar/?ELEMENT_CODE=itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar",
+          "title": "Итоги годового общего собрания акционеров \"Селигдар\"",
+          "fact": "Официальное сообщение подтверждает избрание в Совет директоров 04.06.2024."
+        }
+      ],
+      "notes": "Научные публикации, патенты и h-index для нужного лица не подтверждены. REFINEMENT round 2 (2026-08-02): прямым чтением стр. 50-51 проспекта добавлены 3 пропущенные роли (АО \"НПФ \"Внешэкономфонд\"\", АО \"Оренбургский НПФ \"Доверие\"\", ПАО \"Автелком\") и уточнены даты роли в \"Наука-Связь\"; GICS-метка Metals & Mining для ООО \"Белое Золото\" (бывш. \"White Gold\") понижена до null как неподтвержденная после целевой проверки (см. round 2 notes)."
+    },
+    {
+      "name": "Александр Егорович Аммосов",
+      "current_role": "независимый член Совета директоров ПАО \"Селигдар\"",
+      "company_name": "ПАО \"Селигдар\"",
+      "education": [
+        {
+          "program": "высшее образование",
+          "university": "Якутский государственный университет",
+          "field": "физика",
+          "year": 1987,
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Проспект указывает окончание Якутского государственного университета в 1987 году по специальности \"Физика\"."
+            }
+          ],
+          "qualification_degree": null
+        },
+        {
+          "program": "высшее образование",
+          "university": "Финансовая академия при Правительстве Российской Федерации",
+          "field": "банковское дело",
+          "year": 1996,
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Проспект указывает окончание Финансовой академии при Правительстве РФ в 1996 году по специальности \"Банковское дело\"."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Селигдар\"",
+          "role": "член Совета директоров",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Проспект указывает членство в Совете директоров с 2022 года и независимый статус; официальное сообщение 04.06.2024 подтверждает избрание.",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел об Аммосове А. Е.: с 2022 года член Совета директоров ПАО \"Селигдар\"; статус независимого директора."
+            },
+            {
+              "url": "https://seligdar.ru/media/news/itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar/?ELEMENT_CODE=itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar",
+              "title": "Итоги годового общего собрания акционеров \"Селигдар\"",
+              "fact": "Официальное сообщение от 04.06.2024 включает Аммосова Александра Егоровича в избранный состав Совета директоров."
+            }
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "АО Холдинговая компания \"Илин\"",
+          "role": "председатель Совета директоров",
+          "start_year": 2004,
+          "end_year": 2021,
+          "description": "Роль раскрыта в проспекте ПАО \"Селигдар\". REFINEMENT (round 2, 2026-08-02): полное название уточнено прямым чтением таблицы должностей проспекта (стр. 48) — \"АО Холдинговая компания «Илин»\"; это подтверждает, что организация является холдинговой структурой без единого операционного бизнеса, поэтому GICS корректно оставлен null (не относится к случаю \"insufficient source\").",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел об Аммосове А. Е. (стр. 48 проспекта, таблица должностей): 2004-2021 Председатель Совета директоров АО Холдинговая компания «Илин»."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ОАО \"Транспортно-логистический центр Республики Саха (Якутия)\"",
+          "role": "председатель Совета директоров",
+          "start_year": 2014,
+          "end_year": 2021,
+          "description": "Роль раскрыта в проспекте ПАО \"Селигдар\". Компания строит и эксплуатирует транспортно-логистический центр на ж/д станции Нижний Бестях (Якутия) — инфраструктурный логистический хаб.",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел об Аммосове А. Е. указывает председательство в Совете директоров ОАО \"Транспортно-логистический центр Республики Саха (Якутия)\" в 2014-2021 годах."
+            }
+          ],
+          "sector": "Industrials",
+          "industry_group": "Transportation",
+          "industry": "Transportation Infrastructure"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+          "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+          "fact": "Проспект подтверждает образование, независимый статус и карьерные роли Аммосова А. Е."
+        },
+        {
+          "url": "https://seligdar.ru/media/news/itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar/?ELEMENT_CODE=itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar",
+          "title": "Итоги годового общего собрания акционеров \"Селигдар\"",
+          "fact": "Официальное сообщение подтверждает избрание в Совет директоров 04.06.2024."
+        }
+      ],
+      "notes": "Научные данные по нужному лицу не подтверждены. REFINEMENT round 2 (2026-08-02): прямым чтением стр. 48 проспекта уточнено полное название \"АО Холдинговая компания «Илин»\" (подтверждает корректность null GICS — холдинговая структура) и \"ОАО «Транспортно-логистический центр Республики Саха (Якутия)»\" (добавлен GICS Industrials/Transportation/Transportation Infrastructure — оператор транспортно-логистического хаба на ст. Нижний Бестях)."
+    },
+    {
+      "name": "Виктор Борисович Юн",
+      "current_role": "независимый член Совета директоров ПАО \"Селигдар\"",
+      "company_name": "ПАО \"Селигдар\"",
+      "education": [
+        {
+          "program": "высшее образование",
+          "university": "Московское высшее техническое училище имени Н. Э. Баумана",
+          "field": "конструирование и производство электронно-вычислительной аппаратуры; инженер-конструктор",
+          "year": 1980,
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Проспект указывает окончание МВТУ им. Н. Э. Баумана в 1980 году по специальности конструирования и производства электронно-вычислительной аппаратуры."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Селигдар\"",
+          "role": "член Совета директоров",
+          "start_year": 2016,
+          "end_year": null,
+          "description": "Проспект указывает членство в Совете директоров с 2016 года и независимый статус; официальное сообщение 04.06.2024 подтверждает избрание.",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Юне В. Б.: с 2016 года член Совета директоров ПАО \"Селигдар\"; статус независимого директора."
+            },
+            {
+              "url": "https://seligdar.ru/media/news/itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar/?ELEMENT_CODE=itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar",
+              "title": "Итоги годового общего собрания акционеров \"Селигдар\"",
+              "fact": "Официальное сообщение от 04.06.2024 включает Юна Виктора Борисовича в избранный состав Совета директоров."
+            }
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ООО \"Страховая компания ТИТ\"",
+          "role": "генеральный директор; член Совета директоров",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "Проспект указывает членство в Совете директоров с 2015 года и должность генерального директора с 2018 года. REFINEMENT (round 2, 2026-08-02): организационно-правовая форма исправлена с \"АО\" на \"ООО\" по прямому чтению таблицы должностей проспекта (стр. 55); добавлен GICS — компания является страховщиком (учреждена в 1993 году авиапредприятиями, специализируется на ОСАГО и сопутствующем страховании).",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Юне В. Б. (стр. 55 проспекта, таблица должностей): 2015-н.в. член Совета директоров ООО «Страховая компания ТИТ»; 2018-н.в. Генеральный директор ООО «Страховая компания ТИТ»."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Insurance",
+          "industry": "Insurance"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+          "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+          "fact": "Проспект подтверждает образование и управленческие роли Юна В. Б."
+        },
+        {
+          "url": "https://seligdar.ru/media/news/itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar/?ELEMENT_CODE=itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar",
+          "title": "Итоги годового общего собрания акционеров \"Селигдар\"",
+          "fact": "Официальное сообщение подтверждает избрание в Совет директоров 04.06.2024."
+        }
+      ],
+      "notes": "Научные данные по нужному лицу не подтверждены. REFINEMENT round 2 (2026-08-02): организационно-правовая форма \"Страховой компании ТИТ\" исправлена с АО на ООО по прямому чтению стр. 55 проспекта; добавлен GICS Financials/Insurance/Insurance (подтверждено: страховщик с 1993 года, ОСАГО)."
+    },
+    {
+      "name": "Валерий Николаевич Кондратьев",
+      "current_role": "независимый член Совета директоров ПАО \"Селигдар\"",
+      "company_name": "ПАО \"Селигдар\"",
+      "education": [
+        {
+          "program": "высшее образование",
+          "university": "Иркутский политехнический институт",
+          "field": "самолетостроение; инженер-механик",
+          "year": 1984,
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Проспект указывает окончание Иркутского политехнического института в 1984 году по специальности \"Самолетостроение\"."
+            }
+          ],
+          "qualification_degree": null
+        },
+        {
+          "program": "высшее образование",
+          "university": "Российская академия государственной службы при Президенте Российской Федерации",
+          "field": "менеджмент; менеджер-экономист",
+          "year": 1995,
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Проспект указывает окончание РАГС при Президенте РФ в 1995 году по специальности \"Менеджмент\"."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Селигдар\"",
+          "role": "член Совета директоров",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Проспект указывает членство в Совете директоров с 2022 года и независимый статус; официальное сообщение 04.06.2024 подтверждает избрание.",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Кондратьеве В. Н.: с 2022 года член Совета директоров ПАО \"Селигдар\"; статус независимого директора."
+            },
+            {
+              "url": "https://seligdar.ru/media/news/itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar/?ELEMENT_CODE=itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar",
+              "title": "Итоги годового общего собрания акционеров \"Селигдар\"",
+              "fact": "Официальное сообщение от 04.06.2024 включает Кондратьева Валерия Николаевича в избранный состав Совета директоров."
+            }
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ООО \"Алмазинтех-консультации и инжиниринг\"",
+          "role": "генеральный директор",
+          "start_year": 2002,
+          "end_year": null,
+          "description": "Роль раскрыта в проспекте ПАО \"Селигдар\". Основная деятельность компании — геологоразведочные, геофизические и геохимические работы в области изучения недр и воспроизводства минерально-сырьевой базы (не собственно алмазодобыча, несмотря на название).",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Кондратьеве В. Н.: с 2002 года генеральный директор ООО \"Алмазинтех-консультации и инжиниринг\"."
+            }
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "Aprelskoe Limited",
+          "role": "член Совета директоров",
+          "start_year": 2018,
+          "end_year": 2020,
+          "description": "Роль раскрыта в проспекте ПАО \"Селигдар\".",
+          "sources": [
+            {
+              "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+              "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+              "fact": "Раздел о Кондратьеве В. Н. указывает членство в Совете директоров Aprelskoe Limited в 2018-2020 годах."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+          "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+          "fact": "Проспект подтверждает образование, независимый статус и карьерные роли Кондратьева В. Н."
+        },
+        {
+          "url": "https://seligdar.ru/media/news/itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar/?ELEMENT_CODE=itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar",
+          "title": "Итоги годового общего собрания акционеров \"Селигдар\"",
+          "fact": "Официальное сообщение подтверждает избрание в Совет директоров 04.06.2024."
+        }
+      ],
+      "notes": "Научные данные по нужному лицу не подтверждены. REFINEMENT round 2 (2026-08-02): добавлен GICS Materials/Materials/Metals & Mining для ООО \"Алмазинтех-консультации и инжиниринг\" (геологоразведочные/геофизические/геохимические работы по изучению недр и воспроизводству минерально-сырьевой базы, подтверждено внешней проверкой; несмотря на название, компания не занимается непосредственно алмазодобычей)."
+    },
+    {
+      "name": "Константин Константинович Соколов",
+      "current_role": "член Совета директоров ПАО \"Селигдар\" в составе, избранном 04.06.2024; первый заместитель генерального директора по корпоративным функциям по официальному сообщению 2023 года",
+      "company_name": "ПАО \"Селигдар\"",
+      "education": [
+        {
+          "program": "высшее образование",
+          "university": null,
+          "field": null,
+          "year": null,
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1861955",
+              "title": "E-disclosure: раскрытие ПАО \"Русолово\" / сведения о Соколове К. К.",
+              "fact": "Индексированный официальный текст раскрытия указывает ФИО Соколов Константин Константинович, год рождения 1967 и высшее образование; прямое скачивание файла в текущей сессии завершалось таймаутом."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Селигдар\"",
+          "role": "член Совета директоров",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Официальные сообщения ПАО \"Селигдар\" подтверждают избрание Соколова К. К. в Совет директоров в 2023 году и повторное включение в избранный состав 04.06.2024.",
+          "sources": [
+            {
+              "url": "https://seligdar.ru/media/news/aktsionery-seligdara-izbrali-novyy-sostav-soveta-direktorov/",
+              "title": "Акционеры \"Селигдара\" избрали новый состав Совета директоров",
+              "fact": "Официальное сообщение 2023 года включает Соколова Константина Константиновича в новый состав Совета директоров."
+            },
+            {
+              "url": "https://seligdar.ru/media/news/itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar/?ELEMENT_CODE=itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar",
+              "title": "Итоги годового общего собрания акционеров \"Селигдар\"",
+              "fact": "Официальное сообщение от 04.06.2024 включает Соколова Константина Константиновича в избранный состав Совета директоров."
+            }
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ПАО \"Селигдар\"",
+          "role": "Первый заместитель генерального директора по корпоративным функциям",
+          "start_year": null,
+          "end_year": null,
+          "description": "Официальное сообщение 2023 года называет Соколова К. К. Первым заместителем генерального директора по корпоративным функциям.",
+          "sources": [
+            {
+              "url": "https://seligdar.ru/media/news/aktsionery-seligdara-izbrali-novyy-sostav-soveta-direktorov/",
+              "title": "Акционеры \"Селигдара\" избрали новый состав Совета директоров",
+              "fact": "Официальное сообщение: Соколов Константин Константинович - Первый заместитель генерального директора по корпоративным функциям."
+            }
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ПАО \"Русолово\"",
+          "role": "заместитель генерального директора по корпоративным функциям; член Правления",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Индексированный официальный текст e-disclosure указывает должность в ПАО \"Русолово\" с 2021 года и членство в Правлении с 2022 года. ПАО \"Русолово\" — оловодобывающее подразделение группы \"Селигдар\" (единственное в России предприятие по добыче и переработке оловянной руды; также вольфрам, медь, серебро в концентратах).",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1861955",
+              "title": "E-disclosure: раскрытие ПАО \"Русолово\" / сведения о Соколове К. К.",
+              "fact": "Индексированный официальный текст раскрытия указывает роли в ПАО \"Русолово\"; прямой файл в текущей сессии не был загружен из-за таймаута."
+            }
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://seligdar.ru/media/news/aktsionery-seligdara-izbrali-novyy-sostav-soveta-direktorov/",
+          "title": "Акционеры \"Селигдара\" избрали новый состав Совета директоров",
+          "fact": "Официальное сообщение подтверждает полное ФИО, роль первого заместителя генерального директора по корпоративным функциям и избрание в Совет директоров."
+        },
+        {
+          "url": "https://seligdar.ru/media/news/itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar/?ELEMENT_CODE=itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar",
+          "title": "Итоги годового общего собрания акционеров \"Селигдар\"",
+          "fact": "Официальное сообщение подтверждает избрание Соколова К. К. в Совет директоров 04.06.2024."
+        },
+        {
+          "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1861955",
+          "title": "E-disclosure: раскрытие ПАО \"Русолово\" / сведения о Соколове К. К.",
+          "fact": "Индексированный официальный текст указывает год рождения 1967, высшее образование и роли в ПАО \"Русолово\"; прямой файл не открылся в текущей сессии."
+        }
+      ],
+      "notes": "CSV содержит неполное имя \"Sokolov Konstantinovich\"; полное ФИО установлено по официальным сообщениям ПАО \"Селигдар\". Образование подтверждено только на уровне \"высшее образование\" через индексированный текст e-disclosure; вуз и специальность не подтверждены. HONEST-GAP FOLLOW-UP (round 2, 2026-08-02): предпринята одна дополнительная попытка (свежие запросы, не пересекающиеся с раундом 1) найти вуз/специальность/год окончания. Найден правдоподобный кандидат — raexpert.ru/database/person/sokolov_konstantin/, тот же год рождения (1967) — но при прямой проверке страницы это ОКАЗАЛСЯ ОДНОФАМИЛЕЦ: карьера целиком в атомной отрасли (ОАО \"ТВЭЛ\" вице-президент с 2001 года по настоящее время, ОАО \"НЗХК\", \"ЧМЗ\"), без единого упоминания \"Селигдара\" или \"Русолово\", образование — Московский автомобильно-дорожный институт. Постоянная работа в ТВЭЛ с 2001 года несовместима с ролями в Русолово/Селигдаре у целевого лица, поэтому эти данные НЕ использованы. Гэп остается неразрешенным; вуз, специальность и год окончания образования целевого Соколова К. К. по-прежнему неизвестны."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/SELG/Seligdar_2024_AnnualReport_rus.pdf",
+      "title": "ПАО \"Селигдар\" Годовой отчет 2024",
+      "fact": "Страницы PDF 93-94: годовой отчет описывает состав Совета директоров по состоянию на 31.12.2024, изменение численности до девяти человек и классификацию директоров; персональные ФИО в локальной копии на этих страницах обезличены как \"ФИО\"."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/SELG/Seligdar_2024_AnnualReport_rus.pdf",
+      "title": "ПАО \"Селигдар\" Годовой отчет 2024",
+      "fact": "Страницы PDF 96-98: отчет подтверждает исполнительные органы, назначение Президента в июне 2024 года, статус Генерального директора и состав Правления в шесть человек."
+    },
+    {
+      "url": "https://seligdar.ru/media/news/itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar/?ELEMENT_CODE=itogi-godovogo-obshchego-sobraniya-aktsionerov-seligdar",
+      "title": "Итоги годового общего собрания акционеров \"Селигдар\"",
+      "fact": "Официальное сообщение 04.06.2024 раскрывает избранный состав Совета директоров, включая Аммосова, Бейрита, Кондратьева, Лаунера, Рыжова, Соколова, Сулейманова, Татаринова, Хруща и Юна."
+    },
+    {
+      "url": "https://seligdar.ru/media/news/aktsionery-pao-seligdar-utverdili-vyplatu-promezhutochnykh-dividendov-po-rezultatam-pervogo-polugodi/?ELEMENT_CODE=aktsionery-pao-seligdar-utverdili-vyplatu-promezhutochnykh-dividendov-po-rezultatam-pervogo-polugodi",
+      "title": "Акционеры ПАО \"Селигдар\" утвердили выплату промежуточных дивидендов",
+      "fact": "Официальное сообщение о ВОСА фиксирует вопрос об уменьшении количественного состава Совета директоров до девяти человек."
+    },
+    {
+      "url": "https://seligdar.ru/media/news/prezidentom-kholdinga-seligdar-naznachen-aleksandr-khrushch/?ELEMENT_CODE=prezidentom-kholdinga-seligdar-naznachen-aleksandr-khrushch",
+      "title": "Президентом холдинга \"Селигдар\" назначен Александр Хрущ",
+      "fact": "Официальное сообщение подтверждает прекращение полномочий Президента Константина Бейрита 28.06.2024 и избрание Александра Хруща Президентом с 29.06.2024."
+    },
+    {
+      "url": "https://goldbond.seligdar.ru/docs/prospectus.pdf",
+      "title": "Проспект ценных бумаг ПАО \"Селигдар\"",
+      "fact": "Проспект раскрывает биографические данные, образование, должности и связи с органами управления для большинства лиц из CSV SELG."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_Отчеты_2024/SELG/Seligdar_2024_AnnualReport_rus.pdf",
+      "title": "ПАО \"Селигдар\" Годовой отчет 2024",
+      "fact": "Локальный основной отчет проверен полностью по релевантным разделам: корпоративное управление, Совет директоров, Правление, Генеральный директор, Президент и биография Татаринова С. М."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/SELG/Seligdar_12М2024_IFRS_rus.pdf",
+      "title": "ПАО \"Селигдар\" Консолидированная финансовая отчетность по МСФО за 2024 год",
+      "fact": "Локальная отчетность проверена; страница PDF 49 подтверждает сведения о долях Бейрита К. А. и Татаринова С. М., но не содержит расширенных биографий."
+    },
+    {
+      "url": "https://seligdar.ru/investors/disclosure/affiliates/",
+      "title": "ПАО \"Селигдар\": списки аффилированных лиц",
+      "fact": "Официальная страница раскрытия содержит список аффилированных лиц на 31.12.2024 и использована как указатель на официальный класс раскрытия."
+    },
+    {
+      "url": "https://markets.businessinsider.com/stocks/seligdar_jsc-stock",
+      "title": "Business Insider Markets: Seligdar JSC company profile",
+      "fact": "Вспомогательный рыночный профиль использован для сверки англоязычных должностей, включая Митрошина, Щетинина, Сулейманова и других лиц."
+    },
+    {
+      "url": "https://www.finanzen.net/unternehmensprofil/seligdar_jsc",
+      "title": "Finanzen.net: Seligdar JSC company profile",
+      "fact": "Вспомогательный профиль подтверждает роль Mitroshin Vadim Sergeevich как Head-Investor Relations Department."
+    },
+    {
+      "url": "https://mining-media.ru/ru/article/newtech/16429-osobennosti-formirovaniya-rezhimov-proizvodstva-zolotodobyvayushchikh-predpriyatij",
+      "title": "Особенности формирования режимов производства золотодобывающих предприятий",
+      "fact": "Источник использован для подтверждения научной аффилиации Рыжова С. В. с ИПКОН РАН и ПАО \"Селигдар\"."
+    },
+    {
+      "url": "https://cyberleninka.ru/article/n/obosnovanie-struktury-proizvodstvennoy-moschnosti-zolotodobyvayuschego-predpriyatiya-na-razlichnyh-etapah-razvitiya-otkrytyh-gornyh",
+      "title": "CyberLeninka: Обоснование структуры производственной мощности золотодобывающего предприятия...",
+      "fact": "Источник использован как дополнительная публикация Рыжова С. В. в горнодобывающей тематике с оговоркой по идентификации."
+    },
+    {
+      "url": "https://patents.google.com/patent/RU2622534C2/ru",
+      "title": "Google Patents: RU2622534C2",
+      "fact": "Патентная карточка использована для потенциального патента Рыжова Сергея Владимировича с оговоркой, что корпоративная аффилиация на странице не указана."
+    }
+  ],
+  "validation_notes": "Обработано 12 уникальных лиц из строк SELG в MOEXBMI_2024.csv. Проверено 2 локальных документа: Seligdar_2024_AnnualReport_rus.pdf и Seligdar_12М2024_IFRS_rus.pdf. Выполнено 12 person-rounds research_notes/SELG/*_round_1.md. CEO-equivalent на 2024 год определен как Сергей Михайлович Татаринов по локальному годовому отчету. Александр Хрущ отражен как Президент с 29.06.2024, а Константин Бейрит - как Президент только до 28.06.2024. Образование не найдено для Вадима Сергеевича Митрошина; для Константина Константиновича Соколова подтверждено только наличие высшего образования без вуза и специальности. Слабые источники использованы для роли Митрошина и вспомогательной сверки рыночных должностей; это прямо отмечено в персональных notes. Локальный годовой отчет 2024 обезличивает ФИО членов Совета директоров на страницах состава по состоянию на 31.12.2024, поэтому персональный состав сверялся с официальным сообщением ГОСА 04.06.2024, сообщением о снижении численности Совета до 9 человек и проспектом. Основные однофамильцы и академические профили не смешивались: публикации и патент сохранены только для Рыжова С. В. с оговоркой по источникам; для остальных научные профили не подтверждены. Поиск считается завершенным после локальной проверки, официальных источников ПАО \"Селигдар\", проспекта, e-disclosure-указателей, англо- и русскоязычных рыночных профилей, запросов по образованию, карьере, назначениям, прежним работодателям, научным публикациям, патентам и двум последовательным проходам без новых надежных биографических фактов. QUALITY PASS ROUND 2 (2026-08-02, см. research_notes/SELG/quality_pass_round1_20260802.md): Step 0 сверка с git HEAD показала полное совпадение (regression отсутствовал для SELG). Прямым чтением полного текста проспекта (стр. 47-61, таблицы должностей всех членов органов управления) исправлены и дополнены 7 профессиональных ролей, пропущенных при первом переносе в JSON (АО \"Лунное\" у Хруща; ПАО \"Наука-Связь\" и АО \"НПФ \"Внешэкономфонд\"\" у Бейрита; АО \"НПФ \"Внешэкономфонд\"\", АО \"Оренбургский НПФ \"Доверие\"\" и ПАО \"Автелком\" у Лаунера), уточнены даты председательства/членства в Совете директоров ПАО \"Селигдар\" у Хруща (член с 2015, не с 2022) и в \"Наука-Связь\" у Лаунера (председатель с 2020, не член с 2021), исправлена организационно-правовая форма \"Страховой компании ТИТ\" с АО на ООО (у Бейрита и Юна). GICS заполнен для всех ранее null профильных ролей в самом ПАО \"Селигдар\" и его подтвержденных отраслевых подразделениях (АО \"Золото Селигдара\", ООО \"Рябиновое\", ПАО \"Русолово\", АО \"Лунное\") как Materials/Materials/Metals & Mining — по образцу, уже принятому для аналогичных тикеров (ALRS, CHMF, GAZP, AFLT); также для ООО \"Страховая компания ТИТ\" (Financials/Insurance/Insurance), ОАО \"Транспортно-логистический центр Республики Саха (Якутия)\" (Industrials/Transportation/Transportation Infrastructure) и ООО \"Алмазинтех-консультации и инжиниринг\" (Materials/Materials/Metals & Mining). Ранее присвоенный GICS Materials/Metals & Mining для роли Лаунера в \"White Gold\"/ООО \"Белое Золото\" понижен до null как неподтвержденный (см. персональные notes Лаунера) — целевая проверка нашла юрлицо с крайне малой выручкой и без подтвержденного вида деятельности; прежняя метка основывалась только на созвучии названия. АО Холдинговая компания \"Илин\" и АО \"Русские Фонды\" подтверждены как диверсифицированные холдинговые структуры без единого операционного бизнеса — GICS корректно остается null. Bounded honest-gap follow-up: для образования Соколова К. К. и биографии Митрошина В. С. предпринято по одной дополнительной попытке со свежими запросами; оба гэпа остаются неразрешенными (см. персональные notes и файл раунда 2 для деталей запросов). Ни один ранее подтвержденный факт не был удален; все добавления и правки прослеживаются к уже процитированным источникам (проспект, годовой отчет) либо к целевым внешним проверкам, задокументированным в файле раунда 2.",
+  "sector": "Materials",
+  "industry_group": "Materials",
+  "industry": "Metals & Mining"
+}

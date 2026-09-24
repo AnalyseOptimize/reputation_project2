@@ -1,0 +1,3 @@
+﻿sample,spearman,kendall_tau_b,mean_abs_rank_shift,max_abs_rank_shift,top_k_jaccard
+all_managers,0.989423076923077,0.927579365079365,1.90625,8.0,1.0
+ceo,0.9633278598795839,0.857142857142857,1.5,7.0,0.6666666666666666

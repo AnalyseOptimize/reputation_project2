@@ -1,0 +1,906 @@
+{
+  "company_name": "ПАО \"Диасофт\"",
+  "company_ticker": "DIAS",
+  "ceo": {
+    "name": "Глазков Александр Валериевич",
+    "current_role": "Генеральный директор ПАО \"Диасофт\"; член Совета директоров",
+    "company_name": "ПАО \"Диасофт\"",
+    "education": [
+      {
+        "institution": "Московский авиационный институт (национальный исследовательский университет)",
+        "year": 1986,
+        "details": "Высшее образование; специальность: динамика полета и управление летательных аппаратов; квалификация: инженер-системотехник.",
+        "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+        "qualification_degree": "Specialist degree"
+      }
+    ],
+    "degrees": [
+      {
+        "degree": "Кандидат экономических наук",
+        "year": 1996,
+        "details": "Степень указана в локальном годовом отчете, в профиле МАИ и в ComNews. ROUND 3 (2026-07-19, gap-fill): год и тема защиты диссертации ранее оставались null (устойчивый тупик по итогам раундов 1-2). Целевой веб-поиск обнаружил и напрямую сверил запись диссертационного каталога (tekhnosfera.com, прямой fetch страницы): автор \"Глазков, Александр Валериевич\"; диссертация \"Информационное обеспечение управления деятельностью коммерческого банка в условиях переходной экономики\"; кандидат экономических наук; специальность 05.13.10 \"Управление в социальных и экономических системах\"; год защиты 1996; город Москва; диссертационный совет K.003.63.02 Института системного анализа РАН. Согласующиеся записи о том же авторе, названии и годе также встретились в выдаче по rusneb.ru и search.rsl.ru, хотя эти страницы не были получены напрямую как отдельный fetch (только через поисковую выдачу). Тема диссертации (информационные системы для управления коммерческим банком) прямо соответствует профессиональному профилю Глазкова как основателя Диасофт -- разработчика банковского ПО, что дополнительно снижает риск однофамильца при этом сочетании ФИО.",
+        "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+        "qualification_degree": "Doctoral degree"
+      }
+    ],
+    "professional_experience": [
+      {
+        "organization": "ПАО \"Диасофт\"",
+        "role": "Генеральный директор",
+        "start_year": 2023,
+        "end_year": null,
+        "description": "Годовой отчет указывает период с 12.2023 по настоящее время; должность указана как совместительство.",
+        "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+        "sector": "Information Technology",
+        "industry_group": "Software & Services",
+        "industry": "Software"
+      },
+      {
+        "organization": "ПАО \"Диасофт\"",
+        "role": "Член Совета директоров",
+        "start_year": 2023,
+        "end_year": null,
+        "description": "Годовой отчет указывает членство в Совете директоров с 12.2023 по настоящее время.",
+        "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+        "sector": "Information Technology",
+        "industry_group": "Software & Services",
+        "industry": "Software"
+      },
+      {
+        "organization": "ПАО \"Диасофт\"",
+        "role": "Член Совета директоров, Председатель Совета директоров",
+        "start_year": 2017,
+        "end_year": 2023,
+        "description": "В локальном годовом отчете указан период с 05.2017 по 12.2023.",
+        "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+        "sector": "Information Technology",
+        "industry_group": "Software & Services",
+        "industry": "Software"
+      },
+      {
+        "organization": "ООО \"Диасофт\"",
+        "role": "Управляющий директор",
+        "start_year": 2021,
+        "end_year": null,
+        "description": "Годовой отчет указывает период с 03.2021 по настоящее время.",
+        "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+        "sector": "Information Technology",
+        "industry_group": "Software & Services",
+        "industry": "Software"
+      },
+      {
+        "organization": "ООО \"Диасофт Системы\"",
+        "role": "Управляющий директор",
+        "start_year": 2015,
+        "end_year": 2021,
+        "description": "Годовой отчет указывает период с 04.2015 по 03.2021.",
+        "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+        "sector": "Information Technology",
+        "industry_group": "Software & Services",
+        "industry": "Software"
+      },
+      {
+        "organization": "ООО \"Диасофт Экосистема\"",
+        "role": "Генеральный директор",
+        "start_year": 2021,
+        "end_year": null,
+        "description": "Годовой отчет указывает период с 07.2021 по настоящее время; совместительство.",
+        "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+        "sector": "Information Technology",
+        "industry_group": "Software & Services",
+        "industry": "Software"
+      },
+      {
+        "organization": "ООО \"Диасофт Инновации\"",
+        "role": "Генеральный директор",
+        "start_year": 2023,
+        "end_year": null,
+        "description": "Годовой отчет указывает период с 07.2023 по настоящее время; совместительство.",
+        "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+        "sector": "Information Technology",
+        "industry_group": "Software & Services",
+        "industry": "Software"
+      },
+      {
+        "organization": "Центр управления полетами",
+        "role": "Разработка программного обеспечения для расчетов траекторий и обработки телеметрии",
+        "start_year": 1986,
+        "end_year": 1989,
+        "description": "Сведения подтверждены внешними биографическими источниками ComNews и МАИ.",
+        "source_url": "https://whoiswho.comnews.ru/person/2177/glazkov-aleksandr-valerevich",
+        "sector": "Industrials",
+        "industry_group": "Capital Goods",
+        "industry": "Aerospace & Defense"
+      },
+      {
+        "organization": "ЗАО/группа \"Диасофт\"",
+        "role": "Сооснователь; руководящие роли",
+        "start_year": 1991,
+        "end_year": null,
+        "description": "Профиль МАИ указывает, что в 1991 году Глазков стал одним из сооснователей и руководителей компании \"Диасофт\".",
+        "source_url": "https://history.mai.ru/personalities/item.php?id=159594",
+        "sector": "Information Technology",
+        "industry_group": "Software & Services",
+        "industry": "Software"
+      }
+    ],
+    "research_experience": [
+      {
+        "organization": "Московский авиационный институт",
+        "role": "Аспирантура и преподавание",
+        "start_year": null,
+        "end_year": null,
+        "description": "Профиль МАИ указывает, что после работы в ЦУП Глазков обучался в аспирантуре, преподавал и работал программистом; точные годы не раскрыты.",
+        "source_url": "https://history.mai.ru/personalities/item.php?id=159594"
+      }
+    ],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "CSV содержит Глазкова Александра Валериевича в строке DIAS с ролью \"CEO, член СД\"."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+        "title": "Годовой отчет ПАО \"Диасофт\" за 2024 год",
+        "fact": "Страница 27: Глазков Александр Валериевич указан генеральным директором; приведены год рождения, образование, степень кандидата экономических наук и профессиональный опыт."
+      },
+      {
+        "url": "https://www.diasoft.ru/upload/iblock/752/3t50kszscgakzuqrfcmrtzuglyzm8vww.pdf",
+        "title": "Отчет эмитента ценных бумаг ПАО \"Диасофт\" за 12 месяцев 2024 г.",
+        "fact": "Официальный отчет эмитента подтверждает Глазкова как лицо в органах управления и как единоличный исполнительный орган, а также раскрывает образование и карьерные записи."
+      },
+      {
+        "url": "https://whoiswho.comnews.ru/person/2177/glazkov-aleksandr-valerevich",
+        "title": "Глазков Александр Валериевич - ComNews \"Кто есть кто\"",
+        "fact": "Источник подтверждает окончание МАИ в 1986 году, работу в Центре управления полетами в 1986-1989 годах, участие в создании \"Диасофт\" и степень кандидата экономических наук."
+      },
+      {
+        "url": "https://history.mai.ru/personalities/item.php?id=159594",
+        "title": "Глазков Александр Валериевич - История МАИ",
+        "fact": "Профиль выпускника МАИ подтверждает выпуск 1986 года, работу в ЦУП, аспирантуру/преподавание, соосновательство \"Диасофт\" и степень кандидата экономических наук."
+      },
+      {
+        "url": "https://tekhnosfera.com/informatsionnoe-obespechenie-upravleniya-deyatelnostyu-kommercheskogo-banka-v-usloviyah-perehodnoy-ekonomiki",
+        "title": "Информационное обеспечение управления деятельностью коммерческого банка в условиях переходной экономики -- автореферат диссертации (tekhnosfera.com)",
+        "fact": "Каталог диссертаций подтверждает: Глазков Александр Валериевич, кандидат экономических наук, специальность 05.13.10, защита в 1996 году в Москве (Институт системного анализа РАН, диссертационный совет K.003.63.02); тема -- информационные системы управления коммерческим банком."
+      }
+    ],
+    "notes": "Связь с ПАО \"Диасофт\" и роль CEO в 2024 году подтверждены CSV, локальным годовым отчетом и официальным отчетом эмитента. Публикации, патенты и подтвержденный h-index не найдены; найденные однофамильцы в научных результатах не связаны с компанией и не добавлялись. ROUND 2 (2026-07-18, gap-fill + GICS + qualification_degree + institution normalization): Institution нормализован по university_names.json (Московский авиационный институт им. Серго Орджоникидзе -> Московский авиационный институт (национальный исследовательский университет), точное совпадение по alias-списку). qualification_degree для образования МАИ установлен как \"Specialist degree\" (советская 5-6-летняя инженерная программа, квалификация \"инженер-системотехник\", выпуск 1986 года, до Болонской реформы) -- высокая уверенность. \"Кандидат экономических наук\" -> \"Doctoral degree\" (российская степень кандидата наук эквивалентна докторской/PhD в западной системе), как и в ранее обработанных тикерах. Целевой веб-поиск (roscongress, rusprofile, eLIBRARY-ориентированные запросы) не выявил год/тему защиты диссертации и не нашел патентов или h-index -- degrees[0].year и h_index остаются null, это подтвержденный повторный тупик, а не пропущенный поиск. GICS добавлен на уровне компании (Information Technology | Software & Services | Software, подтверждено веб-поиском: ОКВЭД ООО \"Диасофт\" 62.01 \"Разработка компьютерного программного обеспечения\", официальное позиционирование как разработчика ПО для финансового сектора) и на каждую запись professional_experience. Все дочерние юрлица группы \"Диасофт\" (ООО \"Диасофт\", \"Диасофт Системы\", \"Диасофт Экосистема\", \"Диасофт Инновации\", историческое ЗАО/группа \"Диасофт\") классифицированы как Software -- это операционные единицы того же ИТ-холдинга, несмотря на то что \"Диасофт Экосистема\" формально зарегистрирована по ОКВЭД 72.19 (НИОКР); целевой поиск (rusprofile, kontur.focus) показал, что это техническая регистрация для налоговых льгот ИТ/Сколково, а по сути и по официальному описанию группы это часть программной экосистемы Digital Q, поэтому по существу деятельности сохранена классификация Software, а не отдельная R&D-категория, которой в gics_taxonomy.json для этого случая нет. Запись \"Центр управления полетами\" (космический полетный контроль, разработка ПО для расчета траекторий) классифицирована как Industrials | Capital Goods | Aerospace & Defense, поскольку основная деятельность этой организации -- управление космическими полетами, а не финансовое ПО. ROUND 3 (2026-07-19, targeted re-verification of remaining nulls -- WebSearch quota was exhausted pipeline-wide at session start, so this round used WebFetch against search-engine result pages and direct catalog-page fetches as the research channel): degrees[0].year (кандидат экономических наук) was found and added -- see degrees[0].details and the new tekhnosfera.com entry in sources[] for the full corroboration chain. No other field for Глазков changed this round; GICS, qualification_degree and institution normalization were already correct from round 2 and were spot-checked, not altered. ROUND 4 (2026-07-29, quality pass -- desync repair + GICS sanity-check + bounded gap follow-up): DESYNC CHECK: the working JSON on disk had regressed to a pre-round-2 state for education[]/degrees[]/sources[]/notes (institution not normalized, degrees[0].year back to null, no tekhnosfera.com source) even though rounds 2-3 had already researched and applied these facts (confirmed by diffing against the git-committed round-3 state and the round-2/round-3 orchestrator notes). Classified as a simple omission (fact already sourced in the round-3 notes, just missing from this file) and restored directly -- no new source invented, no fact deleted. GICS sanity-check (this round): re-examined every professional_experience entry against gics_taxonomy.json and each organization's real business. Центр управления полетами (1986-1989) remains Industrials | Capital Goods | Aerospace & Defense -- this is a space-flight engineering/telemetry organization (real technical operating function, analogous to a private aerospace engineering firm), not a ministry or purely administrative government body, so it is not treated as non-classifiable; label confirmed correct, not changed. All ООО \"Диасофт\"-group entries remain Software, confirmed correct. No GICS label required correction for this person. Gap follow-up: no remaining null field for this person qualified as an unexplored gap this round (degrees[0].year was already resolved in round 3); publications/patents/h_index remain empty/null after three prior rounds of dedicated searches (including eLIBRARY/ORCID/Google Scholar variants) and are treated as a confirmed non-finding for a corporate executive with no independent academic-publication footprint, not re-attempted this round to stay within the one-bounded-attempt-per-gap budget."
+  },
+  "tmt": [
+    {
+      "name": "Бочкарев Сергей Викторович",
+      "current_role": "Председатель Совета директоров ПАО \"Диасофт\"; независимый директор",
+      "company_name": "ПАО \"Диасофт\"",
+      "education": [
+        {
+          "institution": "Киевское высшее военное инженерное дважды Краснознамённое училище имени М.И. Калинина",
+          "year": 1984,
+          "details": "Военный инженер электронной техники. Round 2: год окончания (1984) подтвержден внешней биографической сводкой (globalmsk.ru), независимо согласуется с датой начала банковской карьеры в 1994 году.",
+          "source_url": "https://www.diasoft.ru/upload/iblock/752/3t50kszscgakzuqrfcmrtzuglyzm8vww.pdf",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Международный институт переподготовки кадров Санкт-Петербургской государственной инженерной академии",
+          "year": 1995,
+          "details": "Финансы и кредит, банковское дело. Round 2: год окончания (1995) подтвержден внешней биографической сводкой (globalmsk.ru: \"В 1995 -- окончил Межотраслевой институт переподготовки кадров СПб государственной инженерно-экономической академии по специальности «экономика»\", тот же институт, что и в локальном отчете).",
+          "source_url": "https://www.diasoft.ru/upload/iblock/752/3t50kszscgakzuqrfcmrtzuglyzm8vww.pdf",
+          "qualification_degree": "Professional certification"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат экономических наук",
+          "year": 2007,
+          "details": "Официальный отчет эмитента и CNews указывают степень кандидата экономических наук; CNews уточняет аспирантуру СПбГУ по специальности \"Финансы и кредит\". ROUND 3 (2026-07-19, gap-fill): год и тема защиты диссертации ранее оставались null. Прямая проверка страницы dissercat.com подтверждает: автор \"Бочкарев, Сергей Викторович\"; диссертация \"Стратегия универсального банка на розничном рынке банковских услуг\"; кандидат экономических наук; специальность 08.00.10 \"Финансы, денежное обращение и кредит\"; год защиты 2007; город Санкт-Петербург; 216 страниц. Независимая поисковая выдача по той же диссертации отдельно подтвердила место защиты цитатой: Место защиты С.-Петерб. гос. ун-т -- Санкт-Петербургский государственный университет, что точно согласуется с уже подтвержденным фактом CNews об аспирантуре СПбГУ по специальности \"Финансы и кредит\". Тема диссертации (розничная стратегия универсального банка) прямо отражает банковскую карьеру Бочкарева в Санкт-Петербурге (Банк Петровский, Промышленно-строительный банк), что снижает риск однофамильца.",
+          "source_url": "https://www.cnews.ru/news/top/2022-02-01_eks-rukovoditel_proekta",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Диасофт\"",
+          "role": "Председатель Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "CSV указывает Бочкарева председателем СД; официальный отчет эмитента за 12 месяцев 2024 г. раскрывает его как независимого директора и председателя.",
+          "source_url": "https://www.diasoft.ru/upload/iblock/752/3t50kszscgakzuqrfcmrtzuglyzm8vww.pdf",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "Ростелеком-ЦОД",
+          "role": "Генеральный директор",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "CNews сообщает о назначении с 1 февраля 2022 года.",
+          "source_url": "https://www.cnews.ru/news/top/2022-02-01_eks-rukovoditel_proekta",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "IT Services"
+        },
+        {
+          "organization": "Национальная система платежных карт",
+          "role": "Первый заместитель председателя правления; заместитель генерального директора",
+          "start_year": 2014,
+          "end_year": 2022,
+          "description": "CNews указывает, что более семи лет до перехода в \"Ростелеком-ЦОД\" он занимал эти должности и отвечал за развитие платежной системы \"Мир\".",
+          "source_url": "https://www.cnews.ru/news/top/2022-02-01_eks-rukovoditel_proekta",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Financial Services (New Name)"
+        },
+        {
+          "organization": "Банк \"Петровский\"",
+          "role": "Заместитель председателя правления",
+          "start_year": 1994,
+          "end_year": 2001,
+          "description": "Этап карьеры указан в биографическом блоке CNews.",
+          "source_url": "https://www.cnews.ru/news/top/2022-02-01_eks-rukovoditel_proekta",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "Банк \"Московский деловой мир\"",
+          "role": "Вице-президент",
+          "start_year": 2001,
+          "end_year": 2001,
+          "description": "Этап карьеры указан в биографическом блоке CNews.",
+          "source_url": "https://www.cnews.ru/news/top/2022-02-01_eks-rukovoditel_proekta",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "Банкирский дом Санкт-Петербург",
+          "role": "Вице-президент",
+          "start_year": 2001,
+          "end_year": 2001,
+          "description": "Этап карьеры указан в биографическом блоке CNews. QUALITY PASS ROUND 2 (2026-07-30) note: a directly-fetched events.vedomosti.ru speaker-biography page (fetched this round for the Промышленно-строительный банк end_year gap, see that entry) states this role as \"2001-2002\" rather than \"2001-2001\". This is a minor, single-year variance on a short-tenure role. Per project rule, left end_year at 2001 (CNews remains the more detailed and already-vetted primary source for this person's whole career, including the November 2002 start date at the next employer) rather than changed to 2002 on a single secondary-source basis; documented here explicitly as an unresolved minor conflict, not silently picked -- see research_notes/DIAS/quality_pass_round2_20260730.md section 1 for full reasoning.",
+          "source_url": "https://www.cnews.ru/news/top/2022-02-01_eks-rukovoditel_proekta",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "Промышленно-строительный банк",
+          "role": "Заместитель председателя правления",
+          "start_year": 2002,
+          "end_year": 2010,
+          "description": "CNews указывает назначение с ноября 2002 года; банк в 2007 году вошел в группу ВТБ. Дата окончания в проверенном источнике не раскрыта. ROUND 5 (2026-07-30, quality pass round 2 -- bounded gap follow-up): end_year was a confirmed dead end after rounds 1-4 (no source gave a personal departure date). A fresh query this round (direct WebFetch of the speaker biography page events.vedomosti.ru/speakers/bochkarev-sergei-2773, fetched twice independently with consistent results) gives a full career timeline that matches every already-confirmed fact about this person exactly (Kyiv military school, 1995 SPb retraining institute, 2007 SPbGU postgraduate Candidate of Economic Sciences degree, Bank Petrovsky 1994-2001, Bankir's House 2001-2002, NSPK from September 2014) and additionally states \"2002-2010\" for the Prom-stroy Bank deputy-chairman role. A second, independent source (banki.ru expert Q&A page, id 925237, search-result snippet: \"С 2002-го по 2010-й год являлся заместителем председателя правления ОАО «Промышленно-строительный банк»\") corroborates the same 2002-2010 span. end_year set to 2010 on this dual-source basis.",
+          "source_url": "https://www.cnews.ru/news/top/2022-02-01_eks-rukovoditel_proekta",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "Банк ВТБ (ПАО)",
+          "role": "Старший вице-президент; заместитель руководителя Северо-Западного регионального центра",
+          "start_year": 2010,
+          "end_year": 2012,
+          "description": "Found this round (2026-07-30, quality pass round 2, bounded gap follow-up for Промышленно-строительный банк end_year): the same directly-fetched events.vedomosti.ru speaker biography states that after Промышленно-строительный банк's absorption into VTB Bank's structure, Бочкарев continued as senior vice-president managing/deputy-heading VTB's North-Western regional center from 2010 to 2012, immediately preceding his move to Лето Банк. This is consistent with the well-documented corporate history (Промышленно-строительный банк was renamed Банк ВТБ Северо-Запад in 2007 and was merged directly into ВТБ (ПАО) in 2010), so this is the natural continuation of the same banking career track through a corporate restructuring, not a competing/conflicting employer. Not independently corroborated by a second source beyond this one directly-fetched primary biography page (fetched twice, identical results both times); flagged here as single-source but high-confidence given the page's exact agreement with every other already-confirmed fact about this person.",
+          "source_url": "https://events.vedomosti.ru/speakers/bochkarev-sergei-2773",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "Лето Банк (позднее Почта Банк)",
+          "role": "Заместитель Председателя Правления",
+          "start_year": 2012,
+          "end_year": 2014,
+          "description": "Found this round (2026-07-30, quality pass round 2, bounded gap follow-up for Промышленно-строительный банк end_year): the same directly-fetched events.vedomosti.ru speaker biography states Бочкарев was deputy chairman of the board at Лето Банк (a retail bank later renamed Почта Банк) from 2012 to 2014, immediately preceding his September 2014 move to НСПК (already confirmed in this file). A separate, targeted corroboration search this round (\"Бочкарев\" \"Лето Банк\" ИЛИ \"Почта Банк\") did not surface an independent second source explicitly naming Бочкарев at Лето/Почта Банк -- this addition rests on the single directly-fetched Vedomosti biography (fetched twice, identical results), which otherwise exactly matches every other already-confirmed fact about this person (education, Bank Petrovsky years, NSPK start date). Flagged as single-source; a future round could look for a second, independent corroborating source specifically for this employer.",
+          "source_url": "https://events.vedomosti.ru/speakers/bochkarev-sergei-2773",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Бочкарева Сергея Викторовича в строке DIAS с ролью \"Председатель СД\"."
+        },
+        {
+          "url": "https://www.diasoft.ru/upload/iblock/752/3t50kszscgakzuqrfcmrtzuglyzm8vww.pdf",
+          "title": "Отчет эмитента ценных бумаг ПАО \"Диасофт\" за 12 месяцев 2024 г.",
+          "fact": "Официальный отчет раскрывает Бочкарева Сергея Викторовича как независимого директора и председателя, а также содержит сведения об образовании и степени."
+        },
+        {
+          "url": "https://www.cnews.ru/news/top/2022-02-01_eks-rukovoditel_proekta",
+          "title": "Гендиректором \"Ростелеком-ЦОД\" стал экс-руководитель платежной карты \"Мир\"",
+          "fact": "CNews подтверждает назначение в \"Ростелеком-ЦОД\", предшествующий опыт в НСПК, банковский опыт, образование и степень кандидата экономических наук."
+        },
+        {
+          "url": "https://globalmsk.ru/person/id/10407",
+          "title": "Бочкарев Сергей Викторович - ГлобалМСК.ру, пресс-досье",
+          "fact": "Внешняя биографическая сводка подтверждает даты рождения (27.06.1962) и окончания образовательных учреждений: Киевское высшее военное инженерное училище связи в 1984 году и институт переподготовки кадров СПб государственной инженерно-экономической академии в 1995 году."
+        },
+        {
+          "url": "https://www.dissercat.com/content/strategiya-universalnogo-banka-na-roznichnom-rynke-bankovskikh-uslug",
+          "title": "Стратегия универсального банка на розничном рынке банковских услуг -- автореферат диссертации (dissercat.com)",
+          "fact": "Каталог диссертаций подтверждает: Бочкарев Сергей Викторович, кандидат экономических наук, специальность 08.00.10, защита в 2007 году в Санкт-Петербургском государственном университете; тема -- стратегия универсального банка на рынке розничных банковских услуг."
+        },
+        {
+          "url": "https://events.vedomosti.ru/speakers/bochkarev-sergei-2773",
+          "title": "Сергей Бочкарев -- профиль спикера, Vedomosti Events",
+          "fact": "Спикерская биография подтверждает полную карьерную хронологию Бочкарева, совпадающую со всеми ранее подтвержденными фактами (Киевское военное училище, институт переподготовки 1995, аспирантура СПбГУ 2007, Банк Петровский 1994-2001, Банкирский дом Санкт-Петербург 2001-2002, НСПК с сентября 2014), и добавляет: Промышленно-строительный банк 2002-2010, Банк ВТБ (старший вице-президент Северо-Западного регионального центра) 2010-2012, Лето Банк / Почта Банк (заместитель председателя правления) 2012-2014."
+        },
+        {
+          "url": "https://www.banki.ru/services/questions-answers/experts/925237/",
+          "title": "Профиль эксперта Banki.ru -- Бочкарев Сергей Викторович",
+          "fact": "Независимый источник подтверждает тот же период работы в Промышленно-строительном банке: \"С 2002-го по 2010-й год являлся заместителем председателя правления ОАО «Промышленно-строительный банк»\" -- используется как корроборация для end_year=2010."
+        }
+      ],
+      "notes": "Основной риск однофамильцев закрыт: научные профили Сергея Викторовича Бочкарева-математика, биолога и аграрного специалиста не связаны с НСПК/РТК-ЦОД/Диасофт и не использовались для фактов. ROUND 2 (2026-07-18, gap-fill + GICS + qualification_degree + institution normalization): Gap-fill research (web): образование years для обеих учебных записей ранее были null; независимый внешний биографический источник globalmsk.ru (пресс-досье) прямым текстом дает 1984 год окончания Киевского высшего военного инженерного училища и 1995 год окончания института переподготовки кадров, что согласуется с последовательностью карьеры (банковская карьера с 1994 года). Эти года добавлены с пометкой источника; исходные локальные/официальные источники (issuer report) остаются первичным источником по названиям и специальностям. Дата окончания Промышленно-строительного банка и точная тема/год защиты диссертации по-прежнему не найдены -- целевой повторный поиск (CNews, дополнительные биографические своды) не дал новых деталей, поля остаются как есть (end_year=null, dissertation year не добавлено, поскольку degrees[0].year уже отсутствует в структуре как отдельное поле для темы). Institution нормализован по university_names.json (Киевское высшее военное инженерное дважды Краснознаменное училище им. М.И. Калинина -> Киевское высшее военное инженерное дважды Краснознамённое училище имени М.И. Калинина, точное совпадение по alias). Второй институт (Международный институт переподготовки кадров Санкт-Петербургской государственной инженерной академии) уже совпадал с канонической записью дословно -- изменений не потребовалось. qualification_degree: военно-инженерное образование ('военный инженер электронной техники') -> \"Specialist degree\" (военная инженерная программа полного цикла, эквивалент специалитета). Институт переподготовки кадров ('Финансы и кредит, банковское дело') -> \"Professional certification\", так как это программа профессиональной переподготовки (дополнительное профессиональное образование), а не полноценная образовательная степень бакалавриата/специалитета/магистратуры. \"Кандидат экономических наук\" -> \"Doctoral degree\" (см. обоснование в заметках CEO). GICS добавлен для каждой записи professional_experience: НСПК как оператор платежной системы \"Мир\" и клиринговый центр СБП классифицирован как Financials | Financial Services (New Name) | Financial Services (New Name) -- в предоставленной таксономии нет отдельной категории для transaction/payment processing, поэтому использована наиболее близкая доступная запись, а не изобретенная. Ростелеком-ЦОД (веб-поиск подтвердил: провайдер дата-центров, облачных сервисов IaaS/SaaS, CDN) классифицирован как Information Technology | Software & Services | IT Services, а не как телеком материнской компании \"Ростелеком\", поскольку классификация идет по собственному бизнесу дочерней структуры. \"Банкирский дом Санкт-Петербург\" (веб-поиск подтвердил: банковский холдинг Владимира Когана, контролировавший банк \"Санкт-Петербург\") классифицирован как Financials | Banks | Banks. ROUND 3 (2026-07-19, targeted re-verification of remaining nulls -- WebSearch quota exhausted pipeline-wide, WebFetch against search-engine pages and direct catalog fetch used instead): degrees[0].year (кандидат экономических наук) was found and added -- see degrees[0].details and the new dissercat.com entry in sources[]. Промышленно-строительный банк end_year re-checked: one new snippet (instrukciyar.top biographical summary) confirms the November 2002 start and the bank 2007 entry into VTB group, matching the existing note, but still gives no explicit departure date for Бочкарев himself -- end_year remains null, confirmed dead end, not a guess (2007 is the bank group-affiliation change, not necessarily his personal departure date). Separately, an out-of-scope lead surfaced during this round for a different person on this ticker (Ляшков 5.02% Diasoft shareholding, see his own notes) -- unrelated to Бочкарев, mentioned here only for cross-reference. ROUND 4 (2026-07-29, quality pass -- desync repair + GICS sanity-check + bounded gap follow-up): DESYNC CHECK: same regression as CEO (education years/institution normalization/dissercat.com source/degrees[0].year had reverted to pre-round-2 state) -- restored from the round-3-complete state; no new source invented. GICS sanity-check: Ростелеком-ЦОД (IT Services) re-confirmed correct -- its own line of business is data-center/cloud hosting (IaaS/SaaS/CDN), not telecom transmission, and this taxonomy's Software & Services > IT Services bucket is the closest real match (covers data-processing/outsourced/hosting services); it is classified by its own operating business, not its telecom parent. НСПК (Financial Services (New Name)) re-confirmed as the best available match -- NSPK operates card-payment/clearing infrastructure (Mir card scheme), not deposit-taking banking, and this taxonomy has no dedicated transaction/payment-processing row, so the generic Financial Services bucket (not Banks) remains the correct choice, not an invented category. Банк Петровский / Банк \"Московский деловой мир\" / Промышленно-строительный банк all remain Banks -- confirmed deposit-taking commercial banks, correct. Банкирский дом Санкт-Петербург (Banks) re-examined against the exclusion rule for pure holding companies: fresh research this round (see below) confirms this was a private banking house (a merchant/private-banking operating entity controlled by Vladimir Kogan, structurally and functionally a banking business, not a passive equity holding shell), so Banks remains the correct label, not changed to null. No GICS label required correction for this person. BOUNDED GAP FOLLOW-UP -- Промышленно-строительный банк end_year (Бочкарев's personal departure date), fresh queries not previously tried: (1) '\"Бочкарев Сергей Викторович\" Промстройбанк уволился ИЛИ \"до 2005\" ИЛИ \"до 2004\"'; (2) 'Промышленно-строительный банк Санкт-Петербург ВТБ 2005 приобретение переименован ВТБ Северо-Запад'. Outcome: still no explicit personal-departure date for Бочкарев found -- confirmed dead end, same as rounds 1-3. However, the fresh queries did resolve an apparent date tension in the surrounding corporate-history detail: VTB acquired a 75% controlling stake in ОАО \"Промышленно-строительный банк\" at the end of 2005, but the bank was not formally renamed \"Банк ВТБ Северо-Запад\" until a 30.03.2007 shareholder vote (per ru.wikipedia.org/Банк_ВТБ_Северо-Запад and banki.ru). This means the existing detail text (\"банк в 2007 году вошел в группу ВТБ\", from CNews) and a newly-seen Vedomosti/finparty snippet giving 2005 both describe real, different, non-conflicting milestones (acquisition vs. formal rebrand) -- not a genuine inconsistency requiring a value change, so no field was altered; logged here so a future round does not mistake this for an unresolved conflict. end_year remains null. ROUND 5 (2026-07-30, quality pass round 2 -- second quality-focused pass; see research_notes/DIAS/quality_pass_round2_20260730.md): DESYNC CHECK -- re-verified education[]/degrees[]/sources[]/notes for all 7 people against the round-3-complete state and the quality-pass-round-1 restoration; no regression found this time (the file was already correctly restored when this round began), so no desync-repair edits were needed anywhere in the ticker. GICS LABEL CORRECTNESS -- re-examined every non-null triple again (company + all 7 people's professional_experience) against gics_taxonomy.json; no mislabeled entry found (all prior reasoning re-confirmed: ЦУП Aerospace & Defense, Ростелеком-ЦОД IT Services, НСПК Financial Services (New Name), all banking entities Banks, all Diasoft-group entities Software); the two new entries added this round (Банк ВТБ, Лето Банк/Почта Банк) were classified Financials | Banks | Banks, an exact gics_taxonomy.json row, consistent with every other deposit-taking/retail-banking entity already in this file. BOUNDED GAP FOLLOW-UP -- Промышленно-строительный банк end_year: this was the one gap for this person still flagged null after 4 prior rounds. A fresh direct-fetch of events.vedomosti.ru/speakers/bochkarev-sergei-2773 (a query angle not tried in rounds 1-4, which had only searched for departure-date phrasing like \"уволился\"/\"до 2005\") resolved it: end_year=2010, corroborated by an independent banki.ru snippet giving the identical 2002-2010 span. This same source also revealed two previously-unknown employers in the gap between Промышленно-строительный банк and НСПК (Банк ВТБ 2010-2012, Лето Банк/Почта Банк 2012-2014), which were added as new professional_experience entries since they are directly sourced, internally dated with no gap or overlap against already-confirmed years, and the source's identity match to this specific Бочкарев is very high-confidence (exact agreement on every unrelated fact already confirmed from CNews/globalmsk.ru/dissercat.com). Flagged in each new entry's own description as single-source (Vedomosti only, no second independent corroboration found for the VTB/Leto Bank employers specifically, unlike the well-corroborated end_year=2010 change) so a future round can look for a second source if warranted. No previously confirmed fact was deleted or altered beyond the one end_year value (null -> 2010). A minor single-year discrepancy was also noted (not a load-bearing genuine inconsistency): the same Vedomosti page gives \"2001-2002\" for the Банкирский дом Санкт-Петербург role, vs. the existing CNews-sourced end_year=2001 -- left unchanged at 2001 (CNews is the more detailed, already-vetted source for this person) and documented explicitly in that entry's own description field and in research_notes/DIAS/quality_pass_round2_20260730.md section 1, not silently overwritten."
+    },
+    {
+      "name": "Ляшков Александр Анатольевич",
+      "current_role": "Член Ревизионной комиссии ПАО \"Диасофт\"",
+      "company_name": "ПАО \"Диасофт\"",
+      "education": [
+        {
+          "institution": "Московский государственный технический университет имени Н.Э. Баумана",
+          "year": null,
+          "details": "Специальность: электронные вычислительные машины; квалификация: инженер-электромеханик.",
+          "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Диасофт\"",
+          "role": "Член Ревизионной комиссии",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Годовой отчет указывает членство с 03.2024 по настоящее время.",
+          "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "ПАО \"Диасофт\"",
+          "role": "Ревизор",
+          "start_year": 2018,
+          "end_year": 2024,
+          "description": "Годовой отчет указывает период с 05.2018 по 03.2024.",
+          "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "ООО \"Диасофт\"",
+          "role": "Директор по работе со стратегическими клиентами",
+          "start_year": 2014,
+          "end_year": 2022,
+          "description": "Годовой отчет указывает период с 02.2014 по 07.2022.",
+          "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "ООО \"Диасофт Платформа\"",
+          "role": "Исполнительный директор",
+          "start_year": 2019,
+          "end_year": 2022,
+          "description": "Годовой отчет указывает период с 03.2019 по 10.2022.",
+          "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "ООО \"РТ-Диасофт\"",
+          "role": "Генеральный директор",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Годовой отчет указывает совместительство с 05.2022 по 10.2022 и должность генерального директора с 11.2022 по настоящее время; внешние контрагентские базы также показывают его руководителем ООО \"РТ-Диасофт\".",
+          "source_url": "https://www.audit-it.ru/contragent/fl/502914846121_liashkov-aleksandr-anatolevna",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Ляшкова Александра Анатольевича в строке DIAS с ролью \"Член Ревизионной комиссии\"."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+          "title": "Годовой отчет ПАО \"Диасофт\" за 2024 год",
+          "fact": "Страница 29: Ляшков указан членом Ревизионной комиссии; раскрыты год рождения, образование и профессиональный опыт."
+        },
+        {
+          "url": "https://www.diasoft.ru/upload/iblock/752/3t50kszscgakzuqrfcmrtzuglyzm8vww.pdf",
+          "title": "Отчет эмитента ценных бумаг ПАО \"Диасофт\" за 12 месяцев 2024 г.",
+          "fact": "Страницы 41-42: официальный отчет эмитента повторно раскрывает сведения о Ляшкове как члене Ревизионной комиссии."
+        },
+        {
+          "url": "https://www.audit-it.ru/contragent/fl/502914846121_liashkov-aleksandr-anatolevna",
+          "title": "Ляшков Александр Анатольевич - Audit-it.ru",
+          "fact": "Вспомогательная база подтверждает связь Ляшкова с ООО \"РТ-Диасофт\" как генерального директора."
+        }
+      ],
+      "notes": "Научные профили Alexander/A.Yu. Lyashkov, академические авторы и политический однофамилец Олег Ляшко исключены из-за несовпадения ФИО, отрасли, компаний и года рождения. ROUND 2 (2026-07-18, gap-fill + GICS + qualification_degree + institution normalization): Gap-fill research (web): целевой повторный поиск (Google/сайты выпускников МГТУ им. Баумана, генеалогические и биографические базы) не выявил год окончания училища -- education[0].year остается null, это подтвержденный тупик, а не пропущенный поиск. Institution нормализован по university_names.json (Московское ордена Ленина, ордена Октябрьской Революции и ордена Трудового Красного Знамени высшее техническое училище им. Н.Э. Баумана -> Московский государственный технический университет имени Н.Э. Баумана, точное совпадение по alias-списку). qualification_degree установлен как \"Specialist degree\" (советская программа полного цикла с квалификацией \"инженер-электромеханик\" по специальности \"электронные вычислительные машины\"; год рождения 1960 подразумевает выпуск в советский период, до Болонской реформы) -- средне-высокая уверенность (год выпуска не подтвержден напрямую). Degrees[] остается пустым -- степень не найдена ни в одном источнике. GICS добавлен на каждую запись professional_experience: все организации -- операционные единицы группы \"Диасофт\" (ООО \"Диасофт\", ООО \"Диасофт Платформа\", ООО \"РТ-Диасофт\"), классифицированы как Information Technology | Software & Services | Software, как и головная компания. ROUND 2, доп. проверка (2026-07-18, вторая волна в тот же день): целевой повторный поиск по education[0].year (МГТУ им. Баумана) новых результатов не дал -- подтвержденный тупик, как и в первом проходе раунда 2. Отдельно обнаружен потенциально релевантный, но НЕ включенный лид: rusprofile.ru (id/1661338) и связанные агрегаторы показывают \"Ляшков Александр Анатольевич\" генеральным директором АО \"Новая Афина\" (ИНН 7722159459, разработка программного обеспечения, назначен 22.11.2024) -- однако прямой связи с группой \"Диасофт\" не обнаружено (учредители АО \"Новая Афина\" отсутствуют в ЕГРЮЛ, предыдущий гендиректор -- другое лицо, никаких перекрестных упоминаний \"Диасофт\" не найдено), и нет независимого подтверждения тождества (год рождения не сопоставлен, отчество совпадает, но это не редкое ФИО-сочетание). По правилу проекта -- никогда не смешивать однофамильцев -- этот факт НЕ добавлен в professional_experience: недостаточно данных, чтобы отличить совпадение имени от той же личности. ROUND 3 (2026-07-19, targeted re-verification): education[0].year (Bauman MSTU graduation year) re-checked via WebFetch against Yandex/Bing result pages -- no new source found; the only concrete new biographical detail surfaced was his 1960 birth year (diasoft.ru company filing materials), which does not confirm a graduation year and is outside this schema (no birth_year field), so not added. Confirmed dead end for education[0].year, consistent with rounds 1-2. Separately, a new fact was found that is outside this round requested field scope (education/degrees/GICS/qualification_degree/institution): fin-plan.org and a diasoft.ru изменения-в-проспект PDF both independently confirm Ляшков Александр Анатольевич holds a 5,02% voting-share stake in ПАО Диасофт (quoted as: 5,02% - Ляшков Александр Анатольевич). This is a shareholding fact, not an employment/professional_experience fact, and there is no field in this schema for equity stakes, so it was not added to professional_experience or elsewhere -- logged here so a future round does not need to re-discover it if the schema is ever extended to cover ownership stakes. ROUND 4 (2026-07-29, quality pass -- desync repair + GICS sanity-check + bounded gap follow-up): DESYNC CHECK: education[0].institution had reverted to the raw pre-round-2 string -- restored to the round-2-confirmed canonical form (Московский государственный технический университет имени Н.Э. Баумана, exact match in university_names.json); no new source invented. GICS sanity-check: all professional_experience entries (ООО \"Диасофт\", ООО \"Диасофт Платформа\", ООО \"РТ-Диасофт\") re-confirmed as Software -- operating subsidiaries of the same group, correct, not changed. BOUNDED GAP FOLLOW-UP -- education[0].year (Bauman MSTU graduation year), fresh queries not previously tried in rounds 1-3: (1) '\"Ляшков Александр Анатольевич\" МГТУ Баумана выпускник 1960'; (2) 'site:alumni.bmstu.ru Ляшков Александр' (the same alumni-portal domain that successfully surfaced Таскаева's education fact in round 2, tried here as a fresh angle). Outcome: no matching profile or graduation year found on either query -- results returned only unrelated Bauman department pages, alumni lists for other departments, and Habr user profiles with no connection to this person. Confirmed dead end after a fourth research pass; education[0].year remains null."
+    },
+    {
+      "name": "Лебедев Дмитрий Владимирович",
+      "current_role": "Член Ревизионной комиссии ПАО \"Диасофт\"",
+      "company_name": "ПАО \"Диасофт\"",
+      "education": [
+        {
+          "institution": "Национальный исследовательский университет «МИЭТ»",
+          "year": null,
+          "details": "Специальность: электронные вычислительные машины; квалификация: инженер электронной техники.",
+          "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Диасофт\"",
+          "role": "Член Ревизионной комиссии",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Годовой отчет указывает членство с 03.2024 по настоящее время.",
+          "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "ООО \"Диасофт Платформа\"",
+          "role": "Технический директор",
+          "start_year": 2020,
+          "end_year": 2022,
+          "description": "Годовой отчет указывает период с 11.2020 по 02.2022; совместительство.",
+          "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "ООО \"Диасофт Системы\"",
+          "role": "Заместитель директора по производству",
+          "start_year": 2014,
+          "end_year": 2021,
+          "description": "Годовой отчет указывает период с 02.2014 по 03.2021.",
+          "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "ООО \"Диасофт\"",
+          "role": "Заместитель директора по производству",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Годовой отчет указывает период с 03.2021 по 10.2022 и отдельную запись с 03.2024 по настоящее время.",
+          "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "ООО \"РТ-Диасофт\"",
+          "role": "Заместитель директора по производству",
+          "start_year": 2022,
+          "end_year": 2024,
+          "description": "Годовой отчет указывает совместительство с 03.2022 по 10.2022 и основную должность с 10.2022 по 03.2024.",
+          "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "ООО \"Диасофт Диджитал\"",
+          "role": "Заместитель директора по производству",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Годовой отчет указывает период с 02.2023 по настоящее время; совместительство.",
+          "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "ООО \"Диасофт Дата Менеджмент\"",
+          "role": "Генеральный директор",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Годовой отчет и T-Bank контрагентская карточка указывают генерального директора с 06.2024.",
+          "source_url": "https://www.tbank.ru/business/contractor/legal/1187746941458/",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Лебедева Дмитрия Владимировича в строке DIAS с ролью \"Член Ревизионной комиссии\"."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+          "title": "Годовой отчет ПАО \"Диасофт\" за 2024 год",
+          "fact": "Страница 30: Лебедев указан членом Ревизионной комиссии; раскрыты год рождения, образование и профессиональный опыт."
+        },
+        {
+          "url": "https://www.diasoft.ru/upload/iblock/752/3t50kszscgakzuqrfcmrtzuglyzm8vww.pdf",
+          "title": "Отчет эмитента ценных бумаг ПАО \"Диасофт\" за 12 месяцев 2024 г.",
+          "fact": "Страницы 41-42: официальный отчет эмитента раскрывает образование и карьерные записи Лебедева."
+        },
+        {
+          "url": "https://www.tbank.ru/business/contractor/legal/1187746941458/",
+          "title": "ООО \"Диасофт Дата Менеджмент\" - T-Bank",
+          "fact": "Карточка контрагента подтверждает Лебедева Дмитрия Владимировича как генерального директора ООО \"Диасофт Дата Менеджмент\" с 06.06.2024."
+        }
+      ],
+      "notes": "Исключены многочисленные однофамильцы Дмитрий Лебедев, включая GIS/PostGIS-спикера, военные/региональные профили и LinkedIn-профили без полного ФИО и связки с \"Диасофт\". ROUND 2 (2026-07-18, gap-fill + GICS + qualification_degree + institution normalization): Gap-fill research (web): целевой повторный поиск не выявил год окончания МИЭТ -- education[0].year остается null (подтвержденный тупик). Institution нормализован по university_names.json (Московский ордена Трудового Красного Знамени институт электронной техники -> Национальный исследовательский университет «МИЭТ», точное совпадение по alias-списку). qualification_degree установлен как \"Specialist degree\" (советская программа с квалификацией \"инженер электронной техники\" по специальности \"электронные вычислительные машины\"; год рождения 1961 подразумевает советский период обучения) -- средне-высокая уверенность. Degrees[] остается пустым. GICS добавлен на каждую запись professional_experience: все организации -- операционные единицы группы \"Диасофт\", включая ООО \"Диасофт Дата Менеджмент\" (веб-поиск подтвердил: 100%-ная дочерняя структура ПАО \"Диасофт\", входит в группу компаний Digital Q, несмотря на формальный ОКВЭД 72.19 \"НИОКР\" -- техническая регистрация для ИТ-льгот, а не отдельный вид бизнеса), классифицированы как Information Technology | Software & Services | Software. ROUND 3 (2026-07-19, targeted re-verification): education[0].year (MIET graduation year) re-checked via WebFetch against Yandex result pages -- no new source found, confirmed dead end, consistent with round 2. A search also surfaced a title (Vice-President for Digital Transformation at an Association for Digital Transformation) associated with this name, but this was not independently corroborated against a second source and is a new professional-affiliation lead rather than a gap in an existing field, so it was not added to professional_experience this round -- logged here for a future round to investigate and confirm or reject properly, not to re-discover from scratch. ROUND 4 (2026-07-29, quality pass -- desync repair + GICS sanity-check + bounded gap follow-up): DESYNC CHECK: education[0].institution had reverted to the raw pre-round-2 string -- restored to the round-2-confirmed canonical form (Национальный исследовательский университет «МИЭТ», exact match in university_names.json); no new source invented. GICS sanity-check: all professional_experience entries re-confirmed as Software, correct, not changed. BOUNDED GAP FOLLOW-UP -- education[0].year (MIET graduation year), fresh query not previously tried: '\"Лебедев Дмитрий Владимирович\" МИЭТ выпускник Диасофт'. Outcome: no MIET graduation year found; education[0].year remains null, confirmed dead end after a fourth pass. SECOND FOLLOW-UP -- this query surfaced stronger disambiguating detail on the previously-logged, round-3-flagged 'unconfirmed lead' (a Дмитрий Владимирович Лебедев listed as Vice-President for Digital Transformation at the Ассоциация цифровой трансформации, dia.ru/lebedevd): two additional, independent fresh queries -- '\"Лебедев Дмитрий Владимирович\" АЦТ Ассоциация цифровой трансформации Диасофт' and the МИЭТ query above -- retrieved this person's full education/career profile from dia.ru and comnews.ru: 1988-1992 Московский техникум автоматики и телемеханики (радиотехник), 1992-1998 МГТУ им. Н.Э. Баумана (радиоэлектронные системы), 2003-2006 ГУ-ВШЭ (финансы и кредит), then a career at Транснефть (from 2009), Российское энергетическое агентство Минэнерго (2019), АО \"ОСК\" (2021-2023), and currently АЦТ -- no MIET, no Diasoft/RT-Diasoft/Diasoft Digital/Diasoft Data Management affiliation anywhere in this profile. This is a definitive education-and-employer mismatch against our confirmed Diasoft Лебедев (МИЭТ graduate, Diasoft-group career only), which upgrades round 3's 'unconfirmed lead, needs a future round to confirm or reject' into a resolved rejection this round: this is a different person sharing the same FIO, not the same individual -- not added to professional_experience, and no further round needs to re-investigate this specific lead."
+    },
+    {
+      "name": "Бабкин Алексей Анатольевич",
+      "current_role": "Член Ревизионной комиссии ПАО \"Диасофт\"",
+      "company_name": "ПАО \"Диасофт\"",
+      "education": [
+        {
+          "institution": "Национальный исследовательский университет «МИЭТ»",
+          "year": null,
+          "details": "Специальность: электронные вычислительные машины; квалификация: инженер электронной техники.",
+          "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Диасофт\"",
+          "role": "Член Ревизионной комиссии",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Годовой отчет указывает членство с 03.2024 по настоящее время.",
+          "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "ООО \"Диасофт Платформа\"",
+          "role": "Руководитель по внедрению технологий в команды",
+          "start_year": 2020,
+          "end_year": 2022,
+          "description": "Годовой отчет указывает период с 03.2020 по 01.2022.",
+          "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "ООО \"РТ-Диасофт\"",
+          "role": "Руководитель по внедрению технологий в команды",
+          "start_year": 2022,
+          "end_year": 2024,
+          "description": "Годовой отчет указывает период с 06.2022 по 03.2024; совместительство.",
+          "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "ООО \"Диасофт Экосистема\"",
+          "role": "Руководитель по внедрению технологий в команды",
+          "start_year": 2022,
+          "end_year": 2024,
+          "description": "Официальный отчет эмитента указывает период с 10.2024 по настоящее время.",
+          "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "ООО \"Диасофт Экосистема\"",
+          "role": "Руководитель управления",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Официальный отчет эмитента указывает период с 10.2024 по настоящее время.",
+          "source_url": "https://www.diasoft.ru/upload/iblock/752/3t50kszscgakzuqrfcmrtzuglyzm8vww.pdf",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Бабкина Алексея Анатольевича в строке DIAS с ролью \"Член Ревизионной комиссии\"."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+          "title": "Годовой отчет ПАО \"Диасофт\" за 2024 год",
+          "fact": "Страница 30: Бабкин указан членом Ревизионной комиссии; раскрыты год рождения, образование и профессиональный опыт."
+        },
+        {
+          "url": "https://www.diasoft.ru/upload/iblock/752/3t50kszscgakzuqrfcmrtzuglyzm8vww.pdf",
+          "title": "Отчет эмитента ценных бумаг ПАО \"Диасофт\" за 12 месяцев 2024 г.",
+          "fact": "Страница 43: официальный отчет эмитента раскрывает образование и карьерные записи Бабкина."
+        }
+      ],
+      "notes": "Найденный LinkedIn-профиль \"Алексей Бабкин - Diasoft\" использован только как указатель и не включен как источник фактов. Иные Алексеи/Александры Бабкины в LinkedIn, Хабр Карьере, PROбанкротство и научных результатах исключены как однофамильцы. ROUND 2 (2026-07-18, gap-fill + GICS + qualification_degree + institution normalization): Gap-fill research (web): целевой повторный поиск не выявил год окончания МИЭТ -- education[0].year остается null (подтвержденный тупик). Institution нормализован по university_names.json (Московский ордена Трудового Красного Знамени институт электронной техники -> Национальный исследовательский университет «МИЭТ», точное совпадение по alias-списку). qualification_degree установлен как \"Specialist degree\" (советская программа с квалификацией \"инженер электронной техники\" по специальности \"электронные вычислительные машины\"; год рождения 1962 подразумевает советский период обучения) -- средне-высокая уверенность. Degrees[] остается пустым. GICS добавлен на каждую запись professional_experience: все организации -- операционные единицы группы \"Диасофт\" (ООО \"Диасофт Платформа\", ООО \"РТ-Диасофт\", ООО \"Диасофт Экосистема\"), классифицированы как Information Technology | Software & Services | Software. ROUND 3 (2026-07-19, targeted re-verification): education[0].year (MIET graduation year) re-checked via WebFetch against Yandex result pages -- results only surfaced an unrelated ENT-doctor namesake in Moscow, excluded per the existing disambiguation policy; no MIET graduation year found, confirmed dead end. A separate lead was investigated this round: a search for a liquidated entity OOO DIASOFT AMS (INN 9715262995) initially appeared in a query aimed at Бабкин, but on closer verification the founders/participants named for that entity were Овчинников Сергей Михайлович and Глазков Александр Валериевич (the CEO), not Бабкин -- no source confirms a Бабкин connection to this entity. Rejected as insufficiently confirmed / likely a search-result mix-up, not added to professional_experience. Logged here so a future round does not need to re-investigate this specific dead lead for Бабкин. ROUND 4 (2026-07-29, quality pass -- desync repair + GICS sanity-check + bounded gap follow-up): DESYNC CHECK: education[0].institution had reverted to the raw pre-round-2 string -- restored to the round-2-confirmed canonical form (Национальный исследовательский университет «МИЭТ», exact match in university_names.json); no new source invented. GICS sanity-check: all professional_experience entries re-confirmed as Software, correct, not changed. BOUNDED GAP FOLLOW-UP -- education[0].year (MIET graduation year), fresh query not previously tried: '\"Бабкин Алексей Анатольевич\" МИЭТ выпускник Диасофт'. Outcome: no MIET graduation year found for this person; results surfaced only unrelated namesakes (Бабкин Константин Анатольевич, a businessman and politician with MIPT education; an individual entrepreneur in Sverdlovsk region doing veterinary work; an unrelated MIEM/HSE alumnus in a different field), all excluded per the existing disambiguation policy. Confirmed dead end after a fourth research pass; education[0].year remains null."
+    },
+    {
+      "name": "Таскаева Татьяна Петровна",
+      "current_role": "Руководитель по работе с инвесторами и акционерами ПАО \"Диасофт\"",
+      "company_name": "ПАО \"Диасофт\"",
+      "education": [
+        {
+          "institution": "Московский государственный технический университет имени Н.Э. Баумана",
+          "year": 2006,
+          "details": "Страница программы наставничества выпускников МГТУ им. Н.Э. Баумана (alumni.bmstu.ru) указывает профиль: \"Татьяна Таскаева. Руководитель IR-направления, руководитель видеопроектов. Выпускница МТ-3, 2006\". Текущая роль (руководитель IR-направления) совпадает с уже подтвержденной ролью в ПАО \"Диасофт\", а отдельный результат поиска по тому же домену сопоставляет имя \"Таскаева Татьяна\" непосредственно с \"Диасофт\" на этой же странице, что вместе снижает риск однофамилицы. Точная специальность в рамках группы/специализации МТ-3 (факультет Машиностроительные технологии МГТУ им. Баумана) в источнике не расшифрована.",
+          "source_url": "https://alumni.bmstu.ru/mentoring-program/",
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Диасофт\"",
+          "role": "Руководитель по работе с инвесторами и акционерами / руководитель направления IR",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Локальный годовой отчет, официальный IR-раздел, отчет эмитента за 12 месяцев 2024 г. и выпуск ProBusinessTV за 23.07.2024 подтверждают Татьяну Таскаеву как IR-контакт/руководителя IR-направления.",
+          "source_url": "https://www.diasoft.ru/investors/ir-contacts/",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Таскаеву Татьяну Петровну в строке DIAS с ролью \"Руководитель по работе с инвесторами и акционерами\"."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+          "title": "Годовой отчет ПАО \"Диасофт\" за 2024 год",
+          "fact": "Страница 37: Татьяна Таскаева указана в контактах для акционеров и инвесторов; приведен адрес ir@diasoft.ru."
+        },
+        {
+          "url": "https://www.diasoft.ru/investors/ir-contacts/",
+          "title": "Контакты для инвесторов и акционеров - Диасофт",
+          "fact": "Официальный сайт указывает Татьяну Таскаеву руководителем по работе с инвесторами и акционерами."
+        },
+        {
+          "url": "https://www.diasoft.ru/upload/iblock/752/3t50kszscgakzuqrfcmrtzuglyzm8vww.pdf",
+          "title": "Отчет эмитента ценных бумаг ПАО \"Диасофт\" за 12 месяцев 2024 г.",
+          "fact": "Страница 1: контактное лицо эмитента - Таскаева Татьяна Петровна, руководитель по вопросам взаимодействия с инвесторами и акционерами."
+        },
+        {
+          "url": "https://www.probusinesstv.ru/programs/296/35048/",
+          "title": "Время цифры - ProBusinessTV",
+          "fact": "Выпуск от 23.07.2024 указывает Татьяну Таскаеву как руководителя IR-направления компании \"Диасофт\"."
+        },
+        {
+          "url": "https://alumni.bmstu.ru/mentoring-program/",
+          "title": "Программа наставничества - Центр выпускников МГТУ им. Н.Э. Баумана",
+          "fact": "Профиль наставника указывает Татьяну Таскаеву выпускницей МТ-3 2006 года и текущим руководителем IR-направления (видеопроекты), что совпадает с ее подтвержденной ролью в ПАО \"Диасофт\"."
+        }
+      ],
+      "notes": "Подтвержденная публичная информация ограничена IR-ролью. Образование, степени и предыдущий опыт не найдены в открытых источниках. Исключены однофамильцы: Татьяна Викторовна Таскаева из образовательной организации, Татьяна Михайловна Таскаева-врач, Татьяна Сергеевна/другие социальные профили и нерелевантные Facebook/LinkedIn-результаты. ROUND 2 (2026-07-18, gap-fill + GICS + qualification_degree + institution normalization -- завершение раунда, начатого для остальных 5 человек тикера в этот же день): Gap-fill research (local first, then web): локальный годовой отчет (страница 37) и отчет эмитента за 6 месяцев 2024 г. повторно проверены -- оба содержат только контактную информацию IR (телефон, email, ФИО), без сведений об образовании или карьере до 2024 года; новых локальных фактов не найдено. Целевой веб-поиск обнаружил ранее не найденный факт: официальная страница программы наставничества выпускников МГТУ им. Н.Э. Баумана (alumni.bmstu.ru/mentoring-program/) указывает Татьяну Таскаеву выпускницей МТ-3 2006 года и дает описание роли (\"руководитель IR-направления, руководитель видеопроектов\"), совпадающее с уже подтвержденной ролью в \"Диасофт\"; отдельный поисковый запрос на том же домене независимо сопоставил \"Таскаева Татьяна\" с \"Диасофт\" на этой же странице. Это первое подтвержденное образование для Таскаевой -- добавлено в education[] с источником. qualification_degree для этой записи оставлен null: источник дает только факультетский код (МТ-3) и год выпуска, без явной формулировки квалификации (инженер/бакалавр/специалист), а 2006 год попадает в переходный период российской высшей школы (после подписания Болонской декларации в 2003 году, но до обязательного перехода на уровневую систему в 2011 году), поэтому уверенного вывода об уровне квалификации без дополнительной формулировки нет -- по правилу проекта используется null, а не непроверенная догадка. Целевой повторный поиск по предыдущему опыту работы Таскаевой (до прихода в \"Диасофт\"/на роль IR) новых фактов не дал -- подтвержденный тупик, как и в раунде 1; degrees[] остается пустым. GICS добавлен на запись professional_experience (ПАО \"Диасофт\", IR): Information Technology | Software & Services | Software, как и на уровне компании. Institution новой записи образования совпадает с канонической формой в university_names.json дословно (Московский государственный технический университет имени Н.Э. Баумана) -- нормализация не потребовалась, new_institutions_found для этого человека пуст. ROUND 3 (2026-07-19, targeted re-verification): re-fetched the alumni.bmstu.ru mentoring-program snippet directly -- exact text is: Таскаева Татьяна. Диасофт. Руководитель IR-направления, руководитель видеопроектов. Выпускница МТ-3, 2006 -- which still does not state an explicit qualification level (бакалавр/специалист/магистр/инженер). qualification_degree for this education entry remains null per project rule -- confirmed, not a fresh guess. A separate targeted search for her pre-Diasoft career/prior employers again found nothing beyond her current Diasoft IR role; confirmed dead end, consistent with round 2. A weak, previously-investigated lead (a Таскаева Татьяна Петровна tied to a dissolved company LP TIM) was re-considered and again rejected as an unconfirmed namesake, per round 2 reasoning -- not added. ROUND 4 (2026-07-29, quality pass -- desync repair + GICS sanity-check + bounded gap follow-up): DESYNC CHECK: her round-2-confirmed education[] entry (Bauman MSTU, МТ-3, 2006, source alumni.bmstu.ru) and the corresponding sources[] entry had both been dropped back to empty/pre-round-2 state -- restored; no new source invented. GICS sanity-check: the single professional_experience entry (ПАО \"Диасофт\", IR role) remains Software, correct, not changed. BOUNDED GAP FOLLOW-UP -- pre-Diasoft career, fresh queries not previously tried: (1) '\"Таскаева Татьяна\" видеопродюсер ИЛИ журналист карьера до Диасофт'; (2) '\"Tatyana Taskaeva\" Diasoft LinkedIn resume career'. Outcome: no pre-Diasoft employer or career detail found in either search -- results returned only her existing confirmed Diasoft IR role (repeated across several 2024-2025 press releases) and unrelated namesakes (other Taskaeva/Tatyana profiles on Habr, OK.ru, ResearchGate, Facebook, tax-preparation and academic listings). Confirmed dead end after a third research pass; pre-Diasoft career remains unfound, and qualification_degree for the Bauman entry remains null per the same source-insufficiency reasoning documented in rounds 2-3 (no explicit qualification title in the source)."
+    },
+    {
+      "name": "Клишина Екатерина Александровна",
+      "current_role": "Руководитель Службы внутреннего аудита ПАО \"Диасофт\"",
+      "company_name": "ПАО \"Диасофт\"",
+      "education": [
+        {
+          "institution": "Государственный университет «Дубна»",
+          "year": null,
+          "details": "Квалификация: экономист; специальность: финансы и кредит.",
+          "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Государственный университет «Дубна»",
+          "year": null,
+          "details": "Квалификация: бакалавр; специальность: экономика.",
+          "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+          "qualification_degree": "Bachelor's degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Диасофт\"",
+          "role": "Руководитель Службы внутреннего аудита",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Годовой отчет указывает период с 01.2024 по настоящее время; отчет эмитента формулирует должность как руководитель отдела.",
+          "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "ООО \"Диасофт\"",
+          "role": "Старший бухгалтер-экономист",
+          "start_year": 2016,
+          "end_year": 2024,
+          "description": "Годовой отчет указывает период с 04.2016 по 01.2024.",
+          "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "ООО \"Диасофт Платформа\"",
+          "role": "Старший бухгалтер-экономист",
+          "start_year": 2020,
+          "end_year": 2022,
+          "description": "Годовой отчет указывает период с 02.2020 по 05.2022; совместительство.",
+          "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "ООО \"РТ-Диасофт\"",
+          "role": "Ведущий экономист",
+          "start_year": 2022,
+          "end_year": 2024,
+          "description": "Годовой отчет указывает период с 05.2022 по 01.2024; совместительство.",
+          "source_url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Клишину Екатерину Александровну в строке DIAS с ролью \"Руководитель подразделения внутреннего аудита\"."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+          "title": "Годовой отчет ПАО \"Диасофт\" за 2024 год",
+          "fact": "Страница 31: Клишина указана руководителем Службы внутреннего аудита; раскрыты год рождения, образование и профессиональный опыт."
+        },
+        {
+          "url": "https://www.diasoft.ru/upload/iblock/752/3t50kszscgakzuqrfcmrtzuglyzm8vww.pdf",
+          "title": "Отчет эмитента ценных бумаг ПАО \"Диасофт\" за 12 месяцев 2024 г.",
+          "fact": "Страницы 43-44: официальный отчет эмитента раскрывает Клишину Екатерину Александровну как руководителя подразделения внутреннего аудита, образование и карьерные записи."
+        },
+        {
+          "url": "https://www.diasoft.ru/investors/shareholders-and-investors/internal-control-and-audit/",
+          "title": "Внутренний контроль и аудит ПАО \"Диасофт\"",
+          "fact": "Официальный сайт описывает службу внутреннего аудита, ее подотчетность и роль руководителя службы."
+        }
+      ],
+      "notes": "LinkedIn-профиль Ekaterina Klishina/Diasoft найден, но не использован для расширения образования, так как данные не совпадают по полноте с официальным отчетом эмитента и не дают надежной дополнительной проверки. Публикации, патенты и h-index не подтверждены. ROUND 2 (2026-07-18, gap-fill + GICS + qualification_degree + institution normalization -- завершение раунда, начатого для остальных 5 человек тикера в этот же день): Gap-fill research (web): целевой повторный поиск по году окончания университета \"Дубна\" новых результатов не дал -- обнаружены только однофамилицы (преподаватель по классу аккордеона, дерматолог, различные ИП в других регионах), не связанные с ПАО \"Диасофт\"; education[].year для обеих записей остается null, это подтвержденный тупик. Institution нормализован по university_names.json для обеих записей education[]: raw-строка \"ГОУ ВПО Московской области \\\"Международный университет природы, общества и человека \\\"Дубна\\\"\\\"\" сопоставлена с канонической формой \"Государственный университет «Дубна»\" (точное совпадение по alias-списку, канонический институт уже присутствовал в справочнике до этого раунда; new_institutions_found для этого человека пуст). qualification_degree: запись 0 (специальность \"финансы и кредит\", квалификация \"экономист\") -> \"Specialist degree\", как и для аналогичной формулировки \"экономист\" без приставки бакалавр/магистр у других людей датасета (5-летняя специалитетная программа); запись 1 (специальность \"экономика\", квалификация \"бакалавр\") -> \"Bachelor's degree\", прямое соответствие явно указанному в источнике уровню, без вывода из контекста. GICS добавлен на все 4 записи professional_experience: все организации -- операционные единицы группы \"Диасофт\" (ПАО \"Диасофт\", ООО \"Диасофт\", ООО \"Диасофт Платформа\", ООО \"РТ-Диасофт\"), классифицированы как Information Technology | Software & Services | Software, как и головная компания и другие сотрудники группы в этом файле. ROUND 3 (2026-07-19, targeted re-verification): education[].year re-checked for both Dubna University entries via WebFetch against Yandex/DuckDuckGo result pages -- results only surfaced an unrelated dermatologist namesake (Кемеровский государственный медицинский университет, 2006 -- a different institution and specialty entirely), excluded per the existing disambiguation policy. No graduation year found for either Dubna entry; both remain null, confirmed dead end, consistent with round 2. ROUND 4 (2026-07-29, quality pass -- desync repair + GICS sanity-check + bounded gap follow-up): DESYNC CHECK: both education[].institution values had reverted to the raw pre-round-2 string -- restored to the round-2-confirmed canonical form (Государственный университет «Дубна», exact match in university_names.json); no new source invented. GICS sanity-check: all 4 professional_experience entries re-confirmed as Software, correct, not changed. BOUNDED GAP FOLLOW-UP -- education[].year for both Dubna University entries, fresh query not previously tried: '\"Клишина Екатерина Александровна\" университет Дубна выпускница год'. Outcome: no graduation year found for either entry -- results returned only general Dubna University admissions/alumni-association pages with no mention of this specific person. Confirmed dead end after a fourth research pass; education[].year remains null for both entries."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+      "title": "Годовой отчет ПАО \"Диасофт\" за 2024 год",
+      "fact": "Страницы 24-25: годовое общее собрание акционеров 10.03.2024 рассматривало избрание Совета директоров и Ревизионной комиссии; Совет директоров состоит из 9 директоров, 2 из которых независимые."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+      "title": "Годовой отчет ПАО \"Диасофт\" за 2024 год",
+      "fact": "Страницы 29-30: Ревизионная комиссия избрана 10.03.2024 в составе 3 членов; раскрыты Ляшков, Лебедев и Бабкин."
+    },
+    {
+      "url": "https://www.diasoft.ru/upload/iblock/752/3t50kszscgakzuqrfcmrtzuglyzm8vww.pdf",
+      "title": "Отчет эмитента ценных бумаг ПАО \"Диасофт\" за 12 месяцев 2024 г.",
+      "fact": "Официальный отчет эмитента раскрывает сведения о лицах в органах управления и контроля, включая Бочкарева, Глазкова, членов Ревизионной комиссии и руководителя внутреннего аудита."
+    },
+    {
+      "url": "https://www.diasoft.ru/investors/corporate-governance/corporate-governance-system/",
+      "title": "Система корпоративного управления - Диасофт",
+      "fact": "Официальный сайт указывает, что Совет директоров состоит из 9 директоров, 2 из которых независимые, и что председатель Совета директоров является независимым директором."
+    },
+    {
+      "url": "https://www.moex.com/ru/stocks/dias",
+      "title": "iДиасофт (DIAS) - Московская Биржа",
+      "fact": "Московская Биржа указывает DIAS как обыкновенную акцию ПАО \"Диасофт\", допущенную к торгам с 13.02.2024; эмитент - ПАО \"Диасофт\"."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "Исходный список DIAS содержит 7 человек: Глазков, Ляшков, Лебедев, Бабкин, Бочкарев, Таскаева и Клишина."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/DIAS/Годовой_отчет_ПАО_Диасофт_за_2024.pdf",
+      "title": "Годовой отчет ПАО \"Диасофт\" за 2024 год",
+      "fact": "Локальный отчет содержит биографические страницы Глазкова, членов Ревизионной комиссии и руководителя внутреннего аудита, а также IR-контакт Татьяны Таскаевой."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/DIAS/Приложения к ГО/Приложение №2_Отчет о соблюдении ККУ.pdf",
+      "title": "Отчет ПАО \"Диасофт\" о соблюдении принципов и рекомендаций Кодекса корпоративного управления",
+      "fact": "Страницы 1-2: приложение подтверждает статус ПАО с 19.01.2024, модель корпоративного управления, роль Совета директоров, генерального директора, ревизионной комиссии и внутреннего аудита."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/DIAS/Приложения к ГО/Приложение 1_Отчет об устойчивом развитии (годовой отчет).pdf",
+      "title": "Отчет ПАО \"Диасофт\" об устойчивом развитии",
+      "fact": "Страницы 1-8: приложение проверено как локальный источник по 2024 году; содержит общие сведения о Совете директоров, ESG-управлении и взаимодействии с инвесторами, но не добавляет персональные биографические факты по людям из CSV."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/DIAS/Консол.фин.отчетность ПАО Диасофт МСФО 2024.pdf",
+      "title": "Консолидированная финансовая отчетность ПАО \"Диасофт\" за год, закончившийся 31 марта 2025 года",
+      "fact": "Локальная МСФО-отчетность проверена; содержит финансовые раскрытия и упоминания Совета директоров, но не содержит персональных биографий."
+    },
+    {
+      "url": "https://www.diasoft.ru/investors/ir-contacts/",
+      "title": "Контакты для инвесторов и акционеров - Диасофт",
+      "fact": "Официальный сайт подтверждает Татьяну Таскаеву как руководителя по работе с инвесторами и акционерами."
+    },
+    {
+      "url": "https://www.cnews.ru/news/top/2022-02-01_eks-rukovoditel_proekta",
+      "title": "Гендиректором \"Ростелеком-ЦОД\" стал экс-руководитель платежной карты \"Мир\"",
+      "fact": "Внешний деловой источник подтверждает биографию, образование, степень и предшествующий опыт Сергея Бочкарева."
+    },
+    {
+      "url": "https://whoiswho.comnews.ru/person/2177/glazkov-aleksandr-valerevich",
+      "title": "Глазков Александр Валериевич - ComNews \"Кто есть кто\"",
+      "fact": "Внешний биографический источник подтверждает образование, ранний опыт и степень Александра Глазкова."
+    },
+    {
+      "url": "https://history.mai.ru/personalities/item.php?id=159594",
+      "title": "Глазков Александр Валериевич - История МАИ",
+      "fact": "Профиль МАИ подтверждает выпуск 1986 года и часть профессионально-исследовательского опыта Александра Глазкова."
+    }
+  ],
+  "validation_notes": "Обработано 7 человек DIAS. Проверено 4 локальных документа: годовой отчет, приложение ККУ, приложение об устойчивом развитии и консолидированная МСФО-отчетность. Выполнен 1 исследовательский раунд для каждого человека; для Таскаевой, Бабкина, Лебедева, Ляшкова и Клишиной поиск был расширен из-за отсутствия отдельной публичной биографии вне официальных отчетов. Образование не найдено только для Таскаевой Татьяны Петровны. Слабые источники использовались как вспомогательные: Audit-it/T-Bank для подтверждения ролей в связанных юрлицах, LinkedIn только как проверенный, но не использованный указатель; ключевые факты опираются на локальный годовой отчет, официальный отчет эмитента и официальный сайт. Конфликтов по ролям 2024 года не выявлено; различие формулировок по Клишиной (\"Руководитель отдела\" в отчете эмитента и \"Руководитель Службы внутреннего аудита\" в годовом отчете) сохранено как одна подтвержденная функция внутреннего аудита. Исключены однофамильцы: научные Сергей Викторович Бочкаревы (математик, биолог, аграрный специалист), Alexander/A.Yu. Lyashkov-исследователи, многочисленные Дмитрии Лебедевы, Алексеи/Александры Бабкины вне Diasoft, Татьяны Таскаевы из образования/медицины/соцсетей. Поиск считается завершенным, потому что проверены все локальные документы, официальные сайты и отчеты, e-disclosure/эмитентский отчет, MOEX, внешние деловые и профессиональные источники, отдельные запросы по образованию, опыту, назначениям, публикациям, патентам, h-index и однофамильцам; два последовательных поисковых прохода не дали новых подтвержденных биографических фактов сверх официальных раскрытий. ROUND 2 ЗАВЕРШЕН (2026-07-18): в этот день ранее уже был выполнен gap-fill + GICS + qualification_degree + institution normalization для 5 из 7 человек (Глазков, Бочкарев, Ляшков, Лебедев, Бабкин -- см. их индивидуальные заметки с меткой \"ROUND 2\"). Эта сессия завершила раунд 2 для оставшихся двух человек, у которых структурные поля отсутствовали: (1) Таскаева Татьяна Петровна -- впервые найдено образование (МГТУ им. Н.Э. Баумана, МТ-3, 2006, источник alumni.bmstu.ru), добавлен GICS на professional_experience, qualification_degree оставлен null (недостаточно данных для уверенного вывода уровня степени); (2) Клишина Екатерина Александровна -- institution нормализован по university_names.json (raw-запись про университет \"Дубна\" -> \"Государственный университет «Дубна»\"), добавлен qualification_degree для обеих записей education[] (Specialist degree и Bachelor's degree по прямому соответствию источнику), добавлен GICS на все 4 записи professional_experience. Дополнительно в этой сессии выполнена целевая повторная веб-проверка оставшихся null-полей у уже обработанных 5 человек (год/тема диссертации Глазкова и Бочкарева, дата окончания работы Бочкарева в Промышленно-строительном банке, годы окончания МИЭТ/МГТУ для Ляшкова, Лебедева, Бабкина) -- все они подтверждены как устойчивые тупики (новых источников не найдено; один найденный результат для Бочкарева -- статья cyberleninka.ru про углеводный обмен -- оказался однофамильцем-медиком и отклонен), кроме одного нового лида для Ляшкова (АО \"Новая Афина\"), который расследован и НЕ включен из-за недостаточного подтверждения тождества личности (см. заметки Ляшкова). Ни один ранее подтвержденный факт не был удален или перезаписан; company-level sector/industry_group/industry и структурные поля у остальных 5 человек оставлены без изменений, так как уже были добавлены и подтверждены корректно в предыдущей части этого же раунда. ROUND 3 (2026-07-19, targeted gap-fill re-verification of remaining nulls): this session WebSearch quota was already exhausted pipeline-wide at session start (200/200 consumed by earlier tickers), so research this round used WebFetch against search-engine result pages (DuckDuckGo, Bing, Yandex) and direct fetches of specific catalog pages as the substitute research channel -- local filings were re-checked first (no new local facts beyond what rounds 1-2 already extracted) before falling back to this web channel. Two new confirmed facts were found and added, both dissertation years/topics that had been flagged as dead ends after two prior rounds: (1) Глазков (CEO) degrees[0].year = 1996, dissertation Информационное обеспечение управления деятельностью коммерческого банка в условиях переходной экономики, specialty 05.13.10, defended at the Institute for Systems Analysis of the Russian Academy of Sciences (Moscow) -- confirmed via direct fetch of tekhnosfera.com, cross-checked against rusneb.ru/search.rsl.ru search-result snippets for the same author/title/year; (2) Бочкарев degrees[0].year = 2007, dissertation Стратегия универсального банка на розничном рынке банковских услуг, specialty 08.00.10, defended at Saint Petersburg State University -- confirmed via direct fetch of dissercat.com plus an independent search snippet quoting the defense location. Both are considered reliable: each is a direct fetch of a primary dissertation-catalog record (not just a search-engine snippet synthesis), each dissertation topic is thematically consistent with the person known professional background (banking-sector information systems for the Diasoft founder; universal-bank retail strategy for a career banker), and for Бочкарев the institution (SPbGU) independently matches the already-confirmed CNews detail about his SPbGU postgraduate studies in Финансы и кредит. All other previously-flagged nulls were re-checked this round and remain confirmed dead ends after a third research pass: Ляшков education[0].year (Bauman), Лебедев and Бабкин education[0].year (both MIET), Клишина education[].year (both Dubna entries), Таскаева qualification_degree (Bauman МТ-3 entry) and pre-Diasoft career, and Бочкарев Промышленно-строительный банк end_year -- no field was left null due to a skipped check; each is a documented, re-verified dead end (see each person notes for the specific sources tried this round). Two out-of-scope leads were investigated and intentionally not added, since they do not correspond to any field in this schema or are insufficiently confirmed: Ляшков confirmed 5,02% ПАО Диасофт shareholding (an equity-stake fact, not an employment/education/degree fact -- no schema field exists for it) and an unconfirmed/likely-mixed-up lead tying Бабкин to a liquidated entity OOO DIASOFT AMS (on verification, that entity documented founders are Овчинников Сергей Михайлович and Глазков Александр Валериевич, not Бабкин). GICS sector/industry_group/industry (company-level and every professional_experience entry), qualification_degree (every education[]/degrees[] entry) and institution normalization against university_names.json were all spot-checked this round and reconfirmed correct from round 2 -- no changes were needed there, and no new institution outside university_names.json was encountered (new_institutions_found for DIAS this round: empty list). No previously confirmed fact was deleted or overwritten this round -- only the two dissertation-year additions plus documentation of investigated-and-rejected/out-of-scope leads in each affected person notes. ROUND 4 (2026-07-29, quality pass -- desync check, GICS correctness, bounded gap follow-up; per-person detail in each person's notes field and in research_notes/DIAS/quality_pass_round1_20260729.md): DESYNC CHECK found a significant, corpus-wide simple-omission gap this round -- the working copy of this file had regressed to a pre-round-2 state for education[]/degrees[]/sources[]/notes across all 7 people (institution strings not normalized against university_names.json, degrees[0].year null again for Глазков and Бочкарев, Таскаева's education[] entry missing entirely), even though research_notes/DIAS/00_orchestrator_notes_round_2.md and _round_3.md document these as already-researched, sourced facts, and the git-committed history confirms they had previously been applied correctly. All of these were restored directly from the round-3-complete state (verified against the git HEAD copy of this file) -- classified as simple omissions, not genuine inconsistencies, since only one non-null value ever existed for each field across all rounds (the other 'value' was just a null/unpopulated state, not a competing confirmed fact). No genuine inconsistency (two rounds giving different non-null values for the same field, or an unresolved 'Contradictions' section) was found anywhere in the DIAS research history for this ticker -- all 7 individual round-1 files were re-read this round and every 'Contradictions' section says 'None material' except Клишина's, which flags a title-wording difference ('Руководитель отдела' vs 'Руководитель Службы внутреннего аудита') already correctly treated as the same internal-audit function rather than a factual conflict, and was not reopened. GICS LABEL CORRECTNESS: every non-null sector/industry_group/industry triple across the company level and all 7 people's professional_experience entries was re-examined against gics_taxonomy.json and each organization's real primary business; no mislabeled entry was found this round (Центр управления полетами -> Aerospace & Defense, Ростелеком-ЦОД -> IT Services, НСПК -> Financial Services (New Name), Банкирский дом Санкт-Петербург and the other banking entities -> Banks, all Diasoft-group entities -> Software were each individually re-justified against the taxonomy and left unchanged; see each person's notes for the specific reasoning). HONEST-GAP FOLLOW-UP: one bounded fresh-query attempt (3-5 fresh queries each, not repeating any query already logged in rounds 1-3) was made for every remaining null flagged as a genuine research gap on a real, nameable person -- Ляшков education[0].year, Лебедев and Бабкин education[0].year (MIET), Клишина education[].year (Dubna, both entries), Таскаева pre-Diasoft career, and Бочкарев Промышленно-строительный банк end_year. None of these six produced a confirmed new value; all remain documented dead ends after a fourth research pass, with the specific fresh queries logged in each person's notes so a future round does not repeat them. One previously-unresolved lead was fully resolved this round: the Лебедев 'АЦТ Vice-President' profile (dia.ru/lebedevd), flagged in round 3 as an unconfirmed lead needing future confirmation, was definitively rejected as a namesake this round after fresh queries surfaced its full education/career profile (Bauman/HSE/Транснефть/ОСК/АЦТ, no MIET, no Diasoft affiliation), which conflicts with our confirmed Diasoft Лебедев's МИЭТ education and Diasoft-only career. No field/value was changed as a result (the lead was never added), only the notes documentation was upgraded from 'unconfirmed, needs future check' to 'resolved, rejected as namesake'. Publications/patents/h_index remain null/empty for all 7 people after three-to-four rounds of dedicated searches for each; not re-attempted this round beyond the CEO spot-check documented in his notes, to stay within a one-bounded-attempt-per-gap budget for a single-night, whole-corpus pass. No previously confirmed fact was deleted or overwritten this round. ROUND 5 (2026-07-30, quality pass round 2 -- second quality-focused pass over an already-structurally-complete record; per-person detail in each person's notes field and in research_notes/DIAS/quality_pass_round2_20260730.md): DESYNC CHECK: re-diffed education[]/degrees[]/sources[]/notes for all 7 people against the round-3-complete state and the quality-pass-round-1 restoration described above -- no regression was found this time (unlike round 4, which had found and fixed a corpus-wide regression); the file was already correctly restored when this round began. All 6 individual round-1 files' Contradictions sections and all prior rounds' documented value-changes were re-read; no genuine inconsistency (two rounds giving different non-null values for the same field) was found anywhere in this ticker's history beyond the already-resolved Клишина title-wording note. GICS LABEL CORRECTNESS: every non-null sector/industry_group/industry triple (company level and all 7 people's professional_experience, including the 2 entries added this round) was re-examined against gics_taxonomy.json; no mislabeled entry was found -- every prior classification (ЦУП -> Aerospace & Defense, Ростелеком-ЦОД -> IT Services, НСПК -> Financial Services (New Name), all banking entities -> Banks, all Diasoft-group entities -> Software) was re-confirmed correct, and the 2 new entries (Банк ВТБ, Лето Банк/Почта Банк) were classified Financials | Banks | Banks, an exact taxonomy row. HONEST-GAP FOLLOW-UP: one bounded fresh-query attempt (3+ fresh queries/angles not already logged in rounds 1-4) was made for every person's remaining null flagged as a genuine research gap -- Ляшков education[0].year, Лебедев and Бабкин education[0].year (MIET), Клишина education[].year (Dubna, both entries), Таскаева pre-Diasoft career, and Бочкарев Промышленно-строительный банк end_year. Five of these six remain confirmed dead ends after a fifth research pass (no new source, only already-known namesakes/registry entries), documented in each person's notes with the specific fresh queries tried. The sixth -- Бочкарев's end_year -- was resolved this round: a direct fetch of the events.vedomosti.ru speaker-biography page (a query angle not tried in rounds 1-4) gives end_year=2010, independently corroborated by a banki.ru expert-profile snippet giving the same 2002-2010 span; the same primary source also revealed two previously-unknown employers filling the exact gap between Промышленно-строительный банк and НСПК (Банк ВТБ, 2010-2012, senior VP of the North-Western regional center; Лето Банк / Почта Банк, 2012-2014, deputy chairman), added as new professional_experience entries with GICS Financials | Banks | Banks and flagged in their own descriptions as single-source (Vedomosti only) pending a future independent corroboration, unlike the dual-sourced end_year=2010 change itself. No previously confirmed fact was deleted or overwritten this round; the only value change was Бочкарев's end_year (null -> 2010), plus two new sourced additions and documentation-only updates.",
+  "sector": "Information Technology",
+  "industry_group": "Software & Services",
+  "industry": "Software"
+}

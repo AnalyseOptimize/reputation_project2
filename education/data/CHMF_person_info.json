@@ -1,0 +1,467 @@
+{
+  "company_name": "ПАО \"Северсталь\"",
+  "company_ticker": "CHMF",
+  "sector": "Materials",
+  "industry_group": "Materials",
+  "industry": "Metals & Mining",
+  "ceo": {
+    "name": "Шевелёв Александр Анатольевич",
+    "current_role": "Генеральный директор АО \"Северсталь Менеджмент\" (управляющая организация ПАО \"Северсталь\"); в публикациях 2024 года также обозначается как генеральный директор \"Северстали\".",
+    "company_name": "ПАО \"Северсталь\"",
+    "education": [
+      {
+        "institution": "Вологодская государственная молочнохозяйственная академия имени Н.В. Верещагина",
+        "description": "Окончил по специальности \"инженер-механик\"; CPV указывает 1996 год. Institution name normalized to canonical form per university_names.json (raw source string: \"Вологодская государственная молочно-хозяйственная академия\").",
+        "year": 1996,
+        "qualification_degree": "Specialist degree",
+        "sources": [
+          "https://www.cpv.ru/modules/news/article.php?storyid=73880",
+          "https://www.rbc.ru/business/22/11/2016/583430b69a7947500565be4a",
+          "https://www.kommersant.ru/doc/4149933"
+        ]
+      },
+      {
+        "institution": "Санкт-Петербургский политехнический университет Петра Великого",
+        "description": "Получил второе образование по специальности \"экономист-менеджер\"; CPV указывает 2001 год. В источниках есть расхождение в точном названии вуза, поэтому программа указана осторожно. Round 2 (2026-07-18): дополнительно проверено -- CPV и globalmsk.ru независимо цитируют \"Санкт-Петербургский Государственный Технический Университет\" (в т.ч. globalmsk.ru уточняет \"филиал\"), тогда как только Kommersant называет вуз \"Санкт-Петербургский государственный технологический институт\" -- это другое реальное учреждение. Большинство независимых источников (CPV, globalmsk.ru) поддерживает прочтение \"технический университет\", поэтому институт нормализован к каноническому имени СПбГТУ = Санкт-Петербургский политехнический университет Петра Великого по university_names.json; вариант Kommersant трактуется как вероятная опечатка/подмена похожих слов, но полностью не исключается. Round 3 (2026-07-18): дополнительно проверено -- mining-portal.ru (прямая проверка, независимый источник) также цитирует \"филиал Санкт-Петербургского Государственного Технического Университета\", что даёт уже четвёртый независимый источник (CPV, globalmsk.ru, RBC, mining-portal.ru) в пользу прочтения \"технический университет\" против единственного расходящегося варианта Kommersant. Прямых официальных источников (сайт severstal.com, личное интервью Шевелёва с упоминанием второго вуза) найти не удалось несмотря на дополнительный поиск -- вариант Kommersant по-прежнему сохранён в записи без удаления, но теперь считается практически разрешённым в пользу большинства.",
+        "year": 2001,
+        "qualification_degree": "Specialist degree",
+        "sources": [
+          "https://www.cpv.ru/modules/news/article.php?storyid=73880",
+          "https://www.rbc.ru/business/22/11/2016/583430b69a7947500565be4a",
+          "https://www.tadviser.ru/index.php/%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%3A%D0%A8%D0%B5%D0%B2%D0%B5%D0%BB%D0%B5%D0%B2_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87",
+          "https://globalmsk.ru/person/id/8866",
+          "https://www.mining-portal.ru/news/all-news/11349-12-dekabrya-na-dolzhnost-generalnogo-direktora-ao-severstal-menedzhment-budet-naznachen-aleksandr-shevelev/"
+        ]
+      },
+      {
+        "institution": "Northumbria University",
+        "description": "Получил MBA в бизнес-школе университета Нортумбрия, Newcastle, UK; CPV указывает 2007 год. Institution name normalized to canonical form per university_names.json (raw source string: \"Northumbria University business school\").",
+        "year": 2007,
+        "qualification_degree": "MBA",
+        "sources": [
+          "https://www.cpv.ru/modules/news/article.php?storyid=73880",
+          "https://www.kommersant.ru/doc/4149933",
+          "https://www.tadviser.ru/index.php/%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%3A%D0%A8%D0%B5%D0%B2%D0%B5%D0%BB%D0%B5%D0%B2_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87"
+        ]
+      }
+    ],
+    "degrees": [
+      {
+        "degree": "MBA",
+        "institution": "Northumbria University",
+        "year": 2007,
+        "description": "Профессиональная степень MBA; не является исследовательской степенью. Institution name normalized to canonical form per university_names.json (raw source string: \"Northumbria University business school\").",
+        "qualification_degree": "MBA",
+        "sources": [
+          "https://www.cpv.ru/modules/news/article.php?storyid=73880",
+          "https://www.kommersant.ru/doc/4149933"
+        ]
+      }
+    ],
+    "professional_experience": [
+      {
+        "organization": "АО \"Северсталь Менеджмент\" / ПАО \"Северсталь\"",
+        "role": "Генеральный директор управляющей организации; CEO figure for Severstal",
+        "start_year": 2016,
+        "end_year": null,
+        "description": "Назначен генеральным директором АО \"Северсталь Менеджмент\" с декабря 2016 года; локальный годовой отчет за 2024 год подписан им как гендиректором управляющей организации.",
+        "sector": "Materials",
+        "industry_group": "Materials",
+        "industry": "Metals & Mining",
+        "sources": [
+          "MOEXBMI_Отчеты_2024/CHMF/Годовой отчет за 2024_ раскрываемый.pdf",
+          "https://www.cpv.ru/modules/news/article.php?storyid=73880",
+          "https://ria.ru/20240604/severstal-1950329477.html",
+          "https://ria.ru/20240606/soglashenie-1951147870.html"
+        ]
+      },
+      {
+        "organization": "Группа \"Свеза\"",
+        "role": "Генеральный директор",
+        "start_year": 2016,
+        "end_year": 2016,
+        "description": "Работал генеральным директором группы \"Свеза\" с апреля по декабрь 2016 года.",
+        "sector": "Materials",
+        "industry_group": "Materials",
+        "industry": "Paper & Forest Products",
+        "sources": [
+          "https://www.cpv.ru/modules/news/article.php?storyid=73880",
+          "https://www.kommersant.ru/doc/4149933",
+          "https://www.rbc.ru/business/22/11/2016/583430b69a7947500565be4a"
+        ]
+      },
+      {
+        "organization": "ОАО \"Северсталь-метиз\"",
+        "role": "Генеральный директор",
+        "start_year": 2013,
+        "end_year": 2016,
+        "description": "С 29 июля 2013 года работал генеральным директором \"Северсталь-метиз\"; источники указывают период до 2016 года.",
+        "sector": "Materials",
+        "industry_group": "Materials",
+        "industry": "Metals & Mining",
+        "sources": [
+          "https://www.cpv.ru/modules/news/article.php?storyid=73880",
+          "https://www.kommersant.ru/doc/4149933",
+          "https://www.tadviser.ru/index.php/%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%3A%D0%A8%D0%B5%D0%B2%D0%B5%D0%BB%D0%B5%D0%B2_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87"
+        ]
+      },
+      {
+        "organization": "Правительство Вологодской области",
+        "role": "Заместитель губернатора Вологодской области",
+        "start_year": 2013,
+        "end_year": 2013,
+        "description": "В июне 2013 года назначен заместителем губернатора Вологодской области.",
+        "sector": null,
+        "industry_group": null,
+        "industry": null,
+        "sources": [
+          "https://www.cpv.ru/modules/news/article.php?storyid=73880",
+          "https://www.kommersant.ru/doc/4149933",
+          "https://www.rbc.ru/business/22/11/2016/583430b69a7947500565be4a"
+        ]
+      },
+      {
+        "organization": "Администрация города Череповца",
+        "role": "Первый заместитель мэра / заместитель мэра",
+        "start_year": 2012,
+        "end_year": 2013,
+        "description": "С 1 июля 2012 года занимал должность первого заместителя мэра Череповца; затем перешел в правительство Вологодской области.",
+        "sector": null,
+        "industry_group": null,
+        "industry": null,
+        "sources": [
+          "https://www.cpv.ru/modules/news/article.php?storyid=73880",
+          "https://www.kommersant.ru/doc/4149933",
+          "https://www.rbc.ru/business/22/11/2016/583430b69a7947500565be4a"
+        ]
+      },
+      {
+        "organization": "ОАО \"Череповецкий сталепрокатный завод\" / Череповецкий завод \"Северсталь-метиз\"",
+        "role": "Слесарь-ремонтник; стратегическое планирование; директор по техническому обеспечению; исполнительный директор",
+        "start_year": 1997,
+        "end_year": 2012,
+        "description": "Начал работу в 1997 году слесарем-ремонтником; затем занимал экономические и стратегические роли, был директором по техническому обеспечению и исполнительным директором.",
+        "sector": "Materials",
+        "industry_group": "Materials",
+        "industry": "Metals & Mining",
+        "sources": [
+          "https://www.cpv.ru/modules/news/article.php?storyid=73880",
+          "https://www.kommersant.ru/doc/4149933",
+          "https://www.rbc.ru/business/22/11/2016/583430b69a7947500565be4a"
+        ]
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "CSV row for CHMF lists Шевелёв Александр Анатольевич as CEO+Член СД for ПАО \"Северсталь\"."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/CHMF/Годовой отчет за 2024_ раскрываемый.pdf",
+        "title": "Годовой отчет ПАО \"Северсталь\" за 2024 год",
+        "fact": "PDF page 1: the annual report is signed by A.A. Shevelev as general director of AO \"Severstal Management\", the managing organization acting under the 01.01.2015 agreement. PDF pages 6 and 41 confirm the 2024 board election process and explain that named board/executive composition is temporarily not disclosed."
+      },
+      {
+        "url": "https://www.cpv.ru/modules/news/article.php?storyid=73880",
+        "title": "В \"Северсталь Менеджмент\" назначен новый генеральный директор",
+        "fact": "CPV/35media reports the December 2016 appointment and gives Shevelev's education and career chronology."
+      },
+      {
+        "url": "https://www.kommersant.ru/doc/4149933",
+        "title": "Шевелев Александр Анатольевич",
+        "fact": "Kommersant personal file gives education, MBA and career sequence through Severstal Management."
+      },
+      {
+        "url": "https://ria.ru/20240604/severstal-1950329477.html",
+        "title": "\"Северсталь\" обновила стратегию развития, ожидает прирост EBITDA",
+        "fact": "RIA Novosti on 04.06.2024 identifies Alexander Shevelev as general director of Severstal while quoting him on the company's strategy."
+      },
+      {
+        "url": "https://globalmsk.ru/person/id/8866",
+        "title": "ШЕВЕЛЁВ Александр Анатольевич - биография, новости, фото, дата рождения, пресс-досье",
+        "fact": "Round 2 (2026-07-18): independently states his second education was at a branch of \"Санкт-Петербургский Государственный Технический Университет\" (specialty \"экономист-менеджер\"), corroborating CPV against Kommersant's single divergent \"технологический институт\" wording."
+      },
+      {
+        "url": "https://www.mining-portal.ru/news/all-news/11349-12-dekabrya-na-dolzhnost-generalnogo-direktora-ao-severstal-menedzhment-budet-naznachen-aleksandr-shevelev/",
+        "title": "12 декабря на должность генерального директора АО «Северсталь Менеджмент» будет назначен Александр Шевелев",
+        "fact": "Round 3 (2026-07-18): independently quotes his second education as \"филиал Санкт-Петербургского Государственного Технического Университета\" (specialty \"экономист-менеджер\"), a fourth independent source corroborating CPV/globalmsk.ru against Kommersant's lone divergent \"технологический институт\" wording."
+      }
+    ],
+    "notes": "Identity confidence is high. The 2024 local annual report does not disclose named board composition; therefore the CSV board-member label is retained as input context but not expanded into unsupported board biography facts. No confirmed scholarly publications, patents or h-index were found. Round 2 (2026-07-18) gap-fill: resolved the second-education institution-name discrepancy in favor of \"Санкт-Петербургский государственный технический университет\" (majority of independent sources: CPV, globalmsk.ru) over Kommersant's lone \"технологический институт\" reading; added qualification_degree, GICS sector/industry_group/industry tags and normalized institution names per university_names.json -- no prior fact was removed. Round 3 (2026-07-18) gap-fill: found a fourth independent source (mining-portal.ru) corroborating the majority \"технический университет\" reading, further strengthening (though not changing) the round-2 resolution; no prior fact was removed. Round 4 (2026-07-18) closure-verification gap-fill: re-scanned the file field by field; the only remaining soft item was the second-education institution-name discrepancy already resolved by majority in rounds 2-3 (4 independent sources for \"технический университет\" vs. Kommersant's lone \"технологический институт\"). Attempted additional targeted research: WebSearch for an official severstal.com management-bio page and additional aggregators; WebFetch of ru.ruwiki.ru (HTTP 401, same as round 3), tek-all.ru (fetched, no education detail at all), cherinfo.ru (fetched, paywalled/no article body), and severstal.com/rus/about/management/ (HTTP 404); further site-restricted searches were blocked by session web-search quota exhaustion. None of these attempts produced a new source, so no new fact was added and no field was changed this round -- the round-3 resolution stands. This negative result is documented in research_notes/CHMF/Шевелёв_Александр_Анатольевич_round_4.md; no prior fact was removed. Quality pass round 1 (2026-07-29): before this round's own work, output/CHMF_person_info.json was found to be a regressed, stale snapshot in the working tree -- it matched only the pre-round-2 (round-1) content, while git HEAD (commit 03bfe9f) already contained the fully-worked round 2-6 version (canonical institution names, the globalmsk.ru/mining-portal.ru sources, and the full rounds 2-6 validation_notes history). This matches a corpus-wide regression pattern already documented for other tickers (e.g. ALRS's own quality-pass round 1). The file was restored from git HEAD as this round's base -- a pure recovery of already-completed, source-backed work, not new invented facts. On top of the restored content: (1) desync check -- re-compared the restored JSON against every research_notes/CHMF/Шевелёв_Александр_Анатольевич_round_*.md file; found no further simple omissions or genuine inconsistencies (the recovery itself resolved the only prior desync, which was the entire missing rounds 2-6 normalization). (2) GICS label correctness -- re-checked every non-null sector/industry_group/industry triple against gics_taxonomy.json and against the named organization's real primary business (Severstal/Severstal Management/Severstal-metiz/Cherepovets Steel Rolling Plant = Metals & Mining; SVEZA = Paper & Forest Products, correctly not defaulted to the parent's steel classification; government bodies correctly null): no incorrect label found, nothing changed. (3) honest-gap follow-up -- ran fresh queries not tried in rounds 1-6 for the one remaining null-due-to-insufficient-source field, h_index (and the empty publications/patents arrays): \"Шевелев Александр Анатольевич\" Северсталь патент изобретение Роспатент; \"Шевелев Александр Анатольевич\" elibrary статья научная публикация автор. Outcome: still unresolved -- no patents, publications or eLibrary/РИНЦ author profile found; the search also positively ruled out two unrelated namesakes (Шевелев Александр Ясенович, a co-inventor on medical patents, and Шевелев Александр Николаевич, a pedagogy professor) by patronymic mismatch, reinforcing rather than undermining identity confidence. h_index/publications/patents remain null/empty; no field was changed for this person as a result. Full findings in research_notes/CHMF/quality_pass_round1_20260729.md. Quality pass round 2 (2026-07-30): independent re-audit of quality pass round 1's work (round 1 dated 2026-07-29 had already restored this file from git HEAD and enriched Mordashov's honorary-doctorate note; this round found no further regression). Re-verified programmatically: all qualification_degree values within the ten-value enum, all sector/industry_group/industry triples exact rows from gics_taxonomy.json or all-null with documented non-classifiable justification, all institution strings exact canonical keys in university_names.json -- 0 violations on every check. Re-read all six research rounds plus quality_pass_round1_20260729.md; confirmed no further simple omission and that both previously-flagged genuine inconsistencies (second-education institution name; see tmt[0] for the analogous Mordashov item) had already received real additional-research treatment in rounds 2-3, not a same-day silent pick -- nothing further to adjudicate. GICS labels re-checked against the task's specific failure-mode examples (ministry/insurer/coal/quarry misclassification patterns); none apply to this ticker's people and no label was incorrect. Honest-gap follow-up: attempted 2 fresh WebSearch queries for the h_index/publications/patents gap (\"Шевелев Александр Анатольевич\" Северсталь researchgate научные труды соавтор; \"Alexander Shevelev\" Severstal patent inventor USPTO Rospatent), not previously tried in round 1's 25+ queries or quality_pass_round1's 2 queries -- blocked by the session-wide WebSearch budget (0/200 remaining, the same persistent constraint documented in rounds 4-6). WebFetch-based workarounds (direct elibrary.ru author-search URL) also failed to surface content (parameter/session-error page). h_index/publications/patents remain unresolved; no field was changed for this person as a result. Full findings in research_notes/CHMF/quality_pass_round2_20260730.md."
+  },
+  "tmt": [
+    {
+      "name": "Мордашов Алексей Александрович",
+      "current_role": "Председатель Совета директоров ПАО \"Северсталь\"; основной акционер, indirectly controlling 77.03% of shares as of 31.12.2024.",
+      "company_name": "ПАО \"Северсталь\"",
+      "education": [
+        {
+          "institution": "Санкт-Петербургский государственный экономический университет",
+          "description": "Окончил в 1988 году; TAdviser specifies engineer-economist in mechanical engineering, while TASS describes study at the engineering-construction faculty. Institution name normalized to canonical form per university_names.json (raw source string: \"Ленинградский инженерно-экономический институт им. П. Тольятти\" -- ИНЖЭКОН, вошедший в состав СПбГЭУ при объединении вузов в 2012 году). Round 2 (2026-07-18): дополнительно проверено -- ru.wikipedia.org и stuki-druki.com независимо подтверждают специальность \"инженер-экономист в машиностроении\" (совпадает с TAdviser) без упоминания инженерно-строительного факультета; версия TASS про инженерно-строительный факультет не подтверждена другими найденными источниками, но и не противоречит специальности напрямую (могла быть названием факультета внутри института), поэтому сохранена как есть без удаления. Round 3 (2026-07-18): дополнительно проверено -- lenta.ru (прямая проверка, независимый источник) прямо подтверждает формулировку TASS слово в слово: \"В 1988 году с отличием окончил инженерно-строительный факультет Ленинградского инженерно-экономического института имени Пальмиро Тольятти\"; ko.ru (прямая проверка) независимо подтверждает специальность \"инженер-экономист в машиностроении\". Оба реквизита (факультет и специальность) теперь подтверждены двумя и более независимыми источниками каждый и не противоречат друг другу, поэтому расхождение фактически снято -- оба факта сохранены в записи без удаления. Сам TASS остаётся недоступен для прямой повторной проверки (HTTP 403), но его формулировка теперь независимо корроборирована lenta.ru.",
+          "year": 1988,
+          "qualification_degree": "Specialist degree",
+          "sources": [
+            "https://tass.ru/encyclopedia/person/mordashov-aleksey-aleksandrovich",
+            "https://www.forbes.ru/profile/aleksei-mordashov",
+            "https://www.tadviser.ru/index.php/%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%3A%D0%9C%D0%BE%D1%80%D0%B4%D0%B0%D1%88%D0%BE%D0%B2_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+            "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D0%B4%D0%B0%D1%88%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+            "https://stuki-druki.com/authors/mordashov-alexey.php",
+            "https://lenta.ru/lib/14164057/",
+            "https://ko.ru/biography/aleksey-mordashov/"
+          ]
+        },
+        {
+          "institution": "Northumbria University",
+          "description": "Получил MBA в 2001 году. Institution name normalized to canonical form per university_names.json (raw source string: \"Northumbria University business school\").",
+          "year": 2001,
+          "qualification_degree": "MBA",
+          "sources": [
+            "https://tass.ru/encyclopedia/person/mordashov-aleksey-aleksandrovich",
+            "https://www.tadviser.ru/index.php/%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%3A%D0%9C%D0%BE%D1%80%D0%B4%D0%B0%D1%88%D0%BE%D0%B2_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "MBA",
+          "institution": "Northumbria University",
+          "year": 2001,
+          "description": "Профессиональная степень MBA; honorary doctorate references were not treated as earned research degrees. Institution name normalized to canonical form per university_names.json (raw source string: \"Northumbria University business school\"). Quality pass round 1 (2026-07-29): honest-gap follow-up on the h_index/publications gap (see person-level notes) incidentally clarified the previously-vague honorary-doctorate references -- Mordashov holds honorary doctorates from Санкт-Петербургский политехнический университет Петра Великого (awarded 12.02.2026, per spbstu.ru and independent media), Санкт-Петербургский государственный инженерно-экономический университет (since 2001) and Northumbria University (since 2003), per multiple independent sources (spbstu.ru, immit.spbstu.ru, 35media.ru, tvspb.ru, vologda-poisk.ru). These remain correctly excluded from qualification_degree/degrees as non-earned honorary titles, consistent with the existing convention; recorded here only to replace the earlier vague \"honorary doctorate references... sources conflict on details\" note with a precise, source-backed one -- no earned degree was added or changed.",
+          "qualification_degree": "MBA",
+          "sources": [
+            "https://tass.ru/encyclopedia/person/mordashov-aleksey-aleksandrovich",
+            "https://www.tadviser.ru/index.php/%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%3A%D0%9C%D0%BE%D1%80%D0%B4%D0%B0%D1%88%D0%BE%D0%B2_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+            "https://www.spbstu.ru/media/news/studencheskaya_zhizn/aleksey-mordashov-stal-pochyetnym-doktorom-politekha/"
+          ]
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Северсталь\"",
+          "role": "Председатель Совета директоров",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "TASS says he was elected chairman of PJSC Severstal's board on 26 May 2015; industry/news sources in 2024-2025 continue to identify him as chairman.",
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining",
+          "sources": [
+            "MOEXBMI_2024.csv",
+            "https://tass.ru/encyclopedia/person/mordashov-aleksey-aleksandrovich",
+            "https://www.comnews.ru/content/239550/2025-06-04/2025-w23/1008/severstal-otkazalas-sozdaniya-erp-sistemy",
+            "https://www.prometall.info/intrigi/trendi/russkaya_stal_ne_khochet_peremen"
+          ]
+        },
+        {
+          "organization": "АО \"Северсталь Менеджмент\"",
+          "role": "Генеральный директор управляющей организации ПАО \"Северсталь\"",
+          "start_year": 2014,
+          "end_year": 2015,
+          "description": "С декабря 2014 года по май 2015 года был генеральным директором AO \"Severstal Management\".",
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining",
+          "sources": [
+            "https://tass.ru/encyclopedia/person/mordashov-aleksey-aleksandrovich",
+            "https://www.tadviser.ru/index.php/%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%3A%D0%9C%D0%BE%D1%80%D0%B4%D0%B0%D1%88%D0%BE%D0%B2_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87"
+          ]
+        },
+        {
+          "organization": "ОАО \"Северсталь\"",
+          "role": "Генеральный директор",
+          "start_year": 2006,
+          "end_year": 2014,
+          "description": "TASS reports he served as CEO of OAO Severstal from December 2006 to December 2014.",
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining",
+          "sources": [
+            "https://tass.ru/encyclopedia/person/mordashov-aleksey-aleksandrovich"
+          ]
+        },
+        {
+          "organization": "ЗАО \"Северсталь-групп\" / ОАО \"Северсталь\"",
+          "role": "CEO of Severstal-group and chairman of OAO Severstal board",
+          "start_year": 2002,
+          "end_year": 2006,
+          "description": "TASS reports he held CEO roles at Severstal-group and chaired OAO Severstal's board in 2002-2006.",
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining",
+          "sources": [
+            "https://tass.ru/encyclopedia/person/mordashov-aleksey-aleksandrovich"
+          ]
+        },
+        {
+          "organization": "ОАО \"Северсталь\" / Череповецкий металлургический комбинат",
+          "role": "Генеральный директор; earlier finance/economics director and senior economist",
+          "start_year": 1988,
+          "end_year": 2002,
+          "description": "Joined ChMK after graduation as an economist; appointed finance/economics director in 1992; led privatization in 1993; appointed Severstal general director in December 1996.",
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining",
+          "sources": [
+            "https://tass.ru/encyclopedia/person/mordashov-aleksey-aleksandrovich",
+            "https://www.forbes.ru/profile/aleksei-mordashov",
+            "https://www.tadviser.ru/index.php/%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%3A%D0%9C%D0%BE%D1%80%D0%B4%D0%B0%D1%88%D0%BE%D0%B2_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87"
+          ]
+        },
+        {
+          "organization": "World Steel Association",
+          "role": "Chairman",
+          "start_year": 2012,
+          "end_year": 2013,
+          "description": "TAdviser reports he chaired the World Steel Association from October 2012 to October 2013.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null,
+          "sources": [
+            "https://www.tadviser.ru/index.php/%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%3A%D0%9C%D0%BE%D1%80%D0%B4%D0%B0%D1%88%D0%BE%D0%B2_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87"
+          ]
+        },
+        {
+          "organization": "Ассоциация предприятий черной металлургии \"Русская Сталь\"",
+          "role": "Президент (2021-2024); председатель наблюдательного совета с 2024 года",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "TASS reports he was president in 2021-2024 and supervisory board chairman from 2024; ProMetall reported the 2024 election to head the supervisory board for two years.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null,
+          "sources": [
+            "https://tass.ru/encyclopedia/person/mordashov-aleksey-aleksandrovich",
+            "https://www.prometall.info/intrigi/trendi/russkaya_stal_ne_khochet_peremen"
+          ]
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row for CHMF lists Мордашов Алексей Александрович as Председатель СД for ПАО \"Северсталь\"."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/CHMF/Severstal_FS_31122024_RUB_ раскрываемая_c АЗ.pdf",
+          "title": "Раскрываемая консолидированная финансовая отчетность ПАО \"Северсталь\" за 2024 год",
+          "fact": "PDF page 10: A.A. Mordashov indirectly controlled 77.03% of PJSC Severstal shares as of 31 December 2024, 2023 and 2022."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/CHMF/Годовой отчет за 2024_ раскрываемый.pdf",
+          "title": "Годовой отчет ПАО \"Северсталь\" за 2024 год",
+          "fact": "PDF page 6: the report states that the 7 June 2024 AGM elected 10 board members and the 10 June 2024 board meeting elected the board chair; PDF page 41 explains why named board composition is temporarily not disclosed."
+        },
+        {
+          "url": "https://tass.ru/encyclopedia/person/mordashov-aleksey-aleksandrovich",
+          "title": "Мордашов, Алексей Александрович - ПЕРСОНА ТАСС",
+          "fact": "TASS gives Mordashov's education, MBA, Severstal career, 26 May 2015 election as chairman of PJSC Severstal's board, 77.03% shareholding and Russian Steel roles."
+        },
+        {
+          "url": "https://www.forbes.ru/profile/aleksei-mordashov",
+          "title": "Алексей Мордашов и семья",
+          "fact": "Forbes lists birth/place, Leningrad Engineering-Economic Institute education, Severstal as core asset and biography facts about joining ChMK after education."
+        },
+        {
+          "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D0%B4%D0%B0%D1%88%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+          "title": "Мордашов, Алексей Александрович — Википедия",
+          "fact": "Round 2 (2026-07-18): confirms specialty \"инженер-экономист в машиностроении\" at the Leningrad Engineering-Economic Institute (1988 graduation), matching TAdviser's specialty wording."
+        },
+        {
+          "url": "https://stuki-druki.com/authors/mordashov-alexey.php",
+          "title": "Алексей Мордашов - биография, новости, личная жизнь, фото",
+          "fact": "Round 2 (2026-07-18): independently confirms 1988 graduation with distinction (\"с отличием\") from Ленинградский инженерно-экономический институт им. Пальмиро Тольятти, specialty \"инженер-экономист в машиностроении\"."
+        },
+        {
+          "url": "https://lenta.ru/lib/14164057/",
+          "title": "Мордашов, Алексей - Lenta.ru",
+          "fact": "Round 3 (2026-07-18): independently quotes verbatim \"В 1988 году с отличием окончил инженерно-строительный факультет Ленинградского инженерно-экономического института имени Пальмиро Тольятти\", corroborating the TASS-sourced engineering-construction-faculty detail that round 2 could not independently confirm."
+        },
+        {
+          "url": "https://ko.ru/biography/aleksey-mordashov/",
+          "title": "Мордашов Алексей Александрович / «Компания». Биографии",
+          "fact": "Round 3 (2026-07-18): independently confirms \"1988 -- Ленинградский инженерно-экономический институт им. Пальмиро Тольятти, специальность -- инженер-экономист в машиностроении\", corroborating the TAdviser-sourced specialty wording."
+        },
+        {
+          "url": "https://www.spbstu.ru/media/news/studencheskaya_zhizn/aleksey-mordashov-stal-pochyetnym-doktorom-politekha/",
+          "title": "Алексей Мордашов стал Почётным доктором Политеха",
+          "fact": "Quality pass round 1 (2026-07-29): official SPbPU (Санкт-Петербургский политехнический университет Петра Великого) news page confirms Mordashov was awarded the honorary-doctor title on 12.02.2026, with the diploma and gown presented by rector Andrei Rudskoy during a ceremonial session of the university's Academic Council; corroborated independently by immit.spbstu.ru, tvspb.ru, vologda-poisk.ru and 35media.ru. Found during this round's bounded honest-gap follow-up on the h_index/publications gap; not used to fill any degree field -- honorary doctorates remain excluded from qualification_degree/degrees per the existing round-1 convention."
+        }
+      ],
+      "notes": "Identity confidence is high. The 2024 issuer annual report redacts named board composition, so the board chair role relies on CSV plus TASS/professional/industry sources; the local financial statement independently confirms his 77.03% controlling shareholder status at 31.12.2024. No confirmed scholarly publications, patents or h-index were found. Round 2 (2026-07-18) gap-fill: corroborated education specialty via Wikipedia and stuki-druki.com, added qualification_degree, GICS sector/industry_group/industry tags (including null for the two non-commercial industry-association roles) and normalized institution names per university_names.json -- no prior fact was removed. Round 3 (2026-07-18) gap-fill: found direct independent corroboration (lenta.ru) for the previously-uncorroborated TASS \"engineering-construction faculty\" detail, plus an additional independent confirmation (ko.ru) of the specialty wording -- the round-2 education discrepancy is now considered resolved (both details corroborated by 2+ independent sources each and shown to be compatible facts, not contradictory ones); no prior fact was removed. Round 4 (2026-07-18) closure-verification gap-fill: re-scanned the file field by field; no field remained genuinely open for this person going into this round (the round-1/2-flagged TASS faculty detail was already resolved in round 3 via lenta.ru/ko.ru corroboration). Attempted additional targeted research as due diligence: re-fetched tass.ru/encyclopedia/person/mordashov-aleksey-aleksandrovich (still HTTP 403, same as rounds 2-3), searched for an official severstal.com bio page (fetched severstal.com/rus/about/management/, HTTP 404; no working official page located), and additional aggregator searches surfaced only already-known/consistent sources with no new faculty or institution detail. No new fact was found, so no field was changed this round. This negative result is documented in research_notes/CHMF/Мордашов_Алексей_Александрович_round_4.md; no prior fact was removed. Quality pass round 1 (2026-07-29): before this round's own work, output/CHMF_person_info.json was found to be a regressed, stale snapshot in the working tree (matching only the pre-round-2 content) while git HEAD already held the fully-worked round 2-6 version; restored from git HEAD as this round's base (pure recovery, zero new invented facts -- see ceo.notes for the full recovery description, shared across this file). On top of the restored content: (1) desync check -- no further simple omissions or genuine inconsistencies found beyond the recovery itself. (2) GICS label correctness -- Severstal/Severstal Management/OAO Severstal/Severstal-group/ChMK entries re-checked against gics_taxonomy.json and the real business of each named organization, all correctly Materials/Materials/Metals & Mining; World Steel Association and Ассоциация \"Русская Сталь\" correctly null (non-profit trade associations, not GICS-classifiable companies): no incorrect label found, nothing changed. (3) honest-gap follow-up -- ran fresh queries not tried in rounds 1-6 for the h_index/publications/patents gap: \"Мордашов Алексей Александрович\" elibrary.ru автор публикации; Мордашов Алексей Александрович почетный доктор университета звание. Outcome: h_index/publications/patents remain unresolved -- no eLibrary/РИНЦ author profile or patent record found. The second query did surface a genuinely new, well-corroborated fact: Mordashov holds honorary doctorates from Санкт-Петербургский политехнический университет Петра Великого (awarded 12.02.2026), Санкт-Петербургский государственный инженерно-экономический университет (since 2001) and Northumbria University (since 2003) -- this clarifies (but does not change) the existing, previously-vague \"honorary doctorate references... sources conflict on details\" note; per the established round-1 convention, honorary doctorates are still correctly excluded from qualification_degree/degrees as non-earned titles, so degrees[0].description and sources[] were updated with the new precise detail and citation but no qualification_degree/degrees value was added or changed. Full findings in research_notes/CHMF/quality_pass_round1_20260729.md. Quality pass round 2 (2026-07-30): independent re-audit of quality pass round 1's work (see ceo.notes for the shared recovery/regression-check background). Re-verified programmatically: all qualification_degree values within the ten-value enum, all sector/industry_group/industry triples exact rows from gics_taxonomy.json or all-null with documented non-classifiable justification (government bodies, non-profit trade associations), all institution strings exact canonical keys in university_names.json -- 0 violations on every check. Re-read all six research rounds plus quality_pass_round1_20260729.md; confirmed the 1988 institute-faculty discrepancy (TASS's \"инженерно-строительный факультет\" vs. TAdviser's specialty wording) had already received real additional-research treatment in round 3 (lenta.ru and ko.ru independently fetched and checked, establishing both details as corroborated and compatible, not contradictory) -- nothing further to adjudicate. GICS labels re-checked against the task's specific failure-mode examples; none apply to this ticker's people (no coal producer, no quarry, no insurer, no misclassified ministry) and no label was incorrect. Honest-gap follow-up: attempted 2 fresh WebSearch queries for the h_index/publications/patents gap (Мордашов Алексей Александрович researchgate scientific publication co-author; Алексей Мордашов патент изобретение Роспатент металлургия автор), not previously tried in round 1's 25+ queries or quality_pass_round1's 2 queries -- blocked by the session-wide WebSearch budget (0/200 remaining, the same persistent constraint documented in rounds 4-6). A WebFetch-based workaround (Google search-results URL) also failed to surface content (bare error page, no snippets). h_index/publications/patents remain unresolved; no field was changed for this person as a result. Full findings in research_notes/CHMF/quality_pass_round2_20260730.md."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/CHMF/Годовой отчет за 2024_ раскрываемый.pdf",
+      "title": "Годовой отчет ПАО \"Северсталь\" за 2024 год",
+      "fact": "PDF page 6: the report confirms that 10 board members were elected at the 7 June 2024 AGM and that the 10 June 2024 board meeting elected the board chair; PDF page 41 explains that named executive-body and board composition was temporarily not disclosed."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/CHMF/Severstal_FS_31122024_RUB_ раскрываемая_c АЗ.pdf",
+      "title": "Раскрываемая консолидированная финансовая отчетность ПАО \"Северсталь\" за 2024 год",
+      "fact": "PDF page 10: A.A. Mordashov indirectly controlled 77.03% of PJSC Severstal shares as of 31 December 2024."
+    },
+    {
+      "url": "https://tass.ru/encyclopedia/person/mordashov-aleksey-aleksandrovich",
+      "title": "Мордашов, Алексей Александрович - ПЕРСОНА ТАСС",
+      "fact": "TASS identifies Alexey Mordashov as elected chairman of PJSC Severstal's board on 26 May 2015 and states his Severstal shareholding."
+    },
+    {
+      "url": "https://ria.ru/20240604/severstal-1950329477.html",
+      "title": "\"Северсталь\" обновила стратегию развития, ожидает прирост EBITDA",
+      "fact": "RIA Novosti on 04.06.2024 identifies Alexander Shevelev as general director of Severstal."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "Ticker CHMF rows contain ПАО \"Северсталь\", Шевелёв Александр Анатольевич as CEO+Член СД and Мордашов Алексей Александрович as Председатель СД."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/CHMF/Годовой отчет за 2024_ раскрываемый.pdf",
+      "title": "Годовой отчет ПАО \"Северсталь\" за 2024 год",
+      "fact": "Local annual report checked in full for relevant governance/biography data; pages 1, 6, 11 and 41 were relevant."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/CHMF/Severstal_FS_31122024_RUB_ раскрываемая_c АЗ.pdf",
+      "title": "Раскрываемая консолидированная финансовая отчетность ПАО \"Северсталь\" за 2024 год",
+      "fact": "Local financial statements checked; page 10 confirms Mordashov's 77.03% indirect control as of 31.12.2024 and page 22 describes key management personnel generically."
+    },
+    {
+      "url": "https://www.cpv.ru/modules/news/article.php?storyid=73880",
+      "title": "В \"Северсталь Менеджмент\" назначен новый генеральный директор",
+      "fact": "Provides Shevelev appointment and biography."
+    },
+    {
+      "url": "https://www.kommersant.ru/doc/4149933",
+      "title": "Шевелев Александр Анатольевич",
+      "fact": "Provides Shevelev education and career chronology."
+    },
+    {
+      "url": "https://tass.ru/encyclopedia/person/mordashov-aleksey-aleksandrovich",
+      "title": "Мордашов, Алексей Александрович - ПЕРСОНА ТАСС",
+      "fact": "Provides Mordashov education, MBA, career, Severstal board chair role and shareholding."
+    },
+    {
+      "url": "https://www.forbes.ru/profile/aleksei-mordashov",
+      "title": "Алексей Мордашов и семья",
+      "fact": "Provides Mordashov Forbes profile, education and core Severstal asset context."
+    }
+  ],
+  "validation_notes": "Processed 2 people for CHMF. Checked 2 relevant local documents in MOEXBMI_Отчеты_2024/CHMF plus MOEXBMI_2024.csv. Completed 1 research round for each person. Education was found for both people. No confirmed scholarly publications, patents or h-index were found for either person. Weak/caveated area: the 2024 annual report redacts named board and executive composition, and e-disclosure was inaccessible/403, so Shevelev's board-member label is retained only as CSV context while his CEO role is independently confirmed; Mordashov's board-chair role is supported by CSV, TASS/professional/industry sources and local confirmation of controlling shareholder status. Excluded a namesake Alexander Anatolyevich Shevelev born 09.04.1980 in Kirov from an appraiser registry; no credible Alexey Alexandrovich Mordashov namesake with Severstal/metallurgy anchors was found. Search is considered complete because local documents were checked first, more than 25 distinct query directions were used per person including education, prior employers, appointments, interviews/conferences, namesakes and scientific/patent checks, and two successive search passes produced no new verified employers, degrees, research outputs or higher-quality accessible official 2024 board source. || Round 2 (2026-07-18, gap-fill + GICS/qualification/university normalization pass, per REFINEMENT.md): (1) Gap-fill research -- the only flagged uncertainties in the round-1 file were two institution-name discrepancies noted in education descriptions (Shevelev's second-education vuz named differently by Kommersant vs. CPV/RBC/TAdviser; Mordashov's institute faculty/specialty wording differing between TASS and TAdviser). No field was actually null except intentionally-ongoing professional_experience end_year values and h_index, which round 1 had already confirmed absent after 25+ queries and were not re-litigated per the gap-fill-only instruction. Targeted web checks this round: fetched Kommersant (kommersant.ru/doc/4149933) and CPV (cpv.ru) directly and found a new independent source, globalmsk.ru, that also reads \"Санкт-Петербургский Государственный Технический Университет\" for Shevelev -- 2 of 3 checked sources (CPV, globalmsk.ru) agree against Kommersant's lone \"технологический институт\", so the institution field now follows the majority reading with the discrepancy still documented in the entry description (not deleted). For Mordashov, fetched ru.wikipedia.org and stuki-druki.com, both independently corroborating the specialty \"инженер-экономист в машиностроении\" (matches TAdviser); TASS's \"engineering-construction faculty\" detail is not corroborated by these two new sources but is kept in the description as-is since faculty name and specialty are not strictly contradictory. All new sources added to the affected person's sources[] array with a Round 2 fact tag; no previously confirmed fact was deleted or overwritten, only annotated/corroborated. (2) GICS tagging -- added company-level sector/industry_group/industry = Materials/Materials/Metals & Mining (Severstal is a vertically integrated steel producer; MOEXBMI_Отчеты_2024/CHMF annual report and financial statements confirm the core business). Tagged every professional_experience entry by the named organization's own primary line of business, copied character-for-character from gics_taxonomy.json: Severstal / Severstal Management / Severstal-metiz / Cherepovets Steel Rolling Plant = Materials/Materials/Metals & Mining (steel producers and steel-product manufacturers within the same group); SVEZA Group = Materials/Materials/Paper & Forest Products (Russia's largest birch-plywood/wood-panel producer, a genuinely different primary business from steel, so not defaulted to the parent's classification). Set sector/industry_group/industry to null with justification for four entries that are not GICS-classifiable commercial organizations: Правительство Вологодской области and Администрация города Череповца (government/municipal bodies, not companies), World Steel Association and Ассоциация \"Русская Сталь\" (non-profit industry trade associations, not operating companies) -- these are not guesses, GICS simply does not apply to non-commercial governmental/associational bodies. (3) qualification_degree -- added to every education[]/degrees[] entry, exact enum values only. Explicit MBA entries (Northumbria University, both people) tagged \"MBA\" directly from the source text, no inference needed. The two Soviet/pre-Bologna Russian higher-education entries (Shevelev's ВГМХА 1996 and second education 2001; Mordashov's Leningrad Engineering-Economic Institute 1988) were inferred as \"Specialist degree\" with high confidence: Russian/Soviet 5-year institute/university programs granting a named specialty diploma (\"инженер-механик\", \"экономист-менеджер\", \"инженер-экономист в машиностроении\") before Russia's 2003 Bologna accession were awarded as \"диплом специалиста\", not a Bachelor's -- this is standard, well-established context for this era/region, not a speculative guess; reasoning is recorded on each affected entry's description field as well. (4) University-name normalization -- all four raw institution strings in this file (Вологодская государственная молочно-хозяйственная академия; Санкт-Петербургский государственный технический университет / СПбГТУ; Northumbria University business school; Ленинградский инженерно-экономический институт им. П. Тольятти) already had an exact-match canonical entry in university_names.json and were rewritten to their canonical forms (Вологодская государственная молочнохозяйственная академия имени Н.В. Верещагина; Санкт-Петербургский политехнический университет Петра Великого; Northumbria University; Санкт-Петербургский государственный экономический университет respectively); the original raw string is preserved in each entry's description so no information was lost. No institution not already covered by university_names.json was encountered, so new_institutions_found is empty for CHMF this round. (5) Structural check -- top-level and per-person key sets are unchanged from the established schema aside from the newly added fields required by this task (company-level sector/industry_group/industry; per-professional_experience-entry sector/industry_group/industry; per-education/degrees-entry qualification_degree); no key was renamed or removed. || Round 3 (2026-07-18, further gap-fill on the two discrepancies still flagged as unresolved after round 2): Re-scanned the full file programmatically for remaining null/vague/flagged fields; the only remaining nulls are structurally justified (ongoing-role end_year, h_index absence, non-commercial-organization sector/industry_group/industry) and were not re-litigated, consistent with the gap-fill-only instruction. The two genuinely open items were the education-institution-name discrepancies still described as unresolved in round 2: (a) Shevelev's second-education institution name (CPV/globalmsk.ru \"технический университет\" vs Kommersant's lone \"технологический институт\"); (b) Mordashov's 1988 institute faculty detail (TASS's uncorroborated \"engineering-construction faculty\" claim vs TAdviser's specialty wording). Both reference files (gics_taxonomy.json, university_names.json) were re-checked against this file's current entries and remain fully consistent -- no canonical-name drift occurred that would require re-normalization. Targeted web research this round: (a) for Shevelev, found and directly fetched a fourth independent source, mining-portal.ru, quoting \"филиал Санкт-Петербургского Государственного Технического Университета\" -- strengthening the round-2 majority resolution (now 4 independent sources vs. Kommersant's 1); attempted further checks (severstal.com official site, Forbes video interview, ru.ruwiki.ru, cyclowiki.org, labyrinth.ru, bfm.ru) found no additional named detail or were inaccessible (401/403), so Kommersant's variant remains undeleted in the record as a documented, now practically-resolved-by-majority discrepancy. (b) for Mordashov, directly fetched lenta.ru, which independently quotes TASS's exact \"инженерно-строительный факультет\" wording verbatim, and ko.ru, which independently confirms the \"инженер-экономист в машиностроении\" specialty -- both previously-uncorroborated details are now each corroborated by 2+ independent sources and shown to be compatible (not contradictory) facts about the same 1988 graduation; TASS itself remains unfetchable this round (HTTP 403, same as round 2) but its wording is now independently corroborated by lenta.ru. All new sources were appended to the respective person's sources[] array and education[] entry sources[] with Round 3 fact tags; no previously confirmed fact was deleted or overwritten, only further corroborated. No new institutions were encountered (new_institutions_found remains empty for CHMF) and no qualification_degree or GICS value changed -- this round only added corroborating sources and updated descriptive text/notes. Top-level and per-person key sets remain unchanged; no key was renamed or removed. || Round 4 (2026-07-18, closure-verification gap-fill pass): Before starting, re-scanned the entire file programmatically for any remaining null/vague/flagged field. Finding: every field is either solidly sourced, or an intentionally-null field with a documented structural justification already recorded in round 2/3 (ongoing-role end_year; h_index absence; sector/industry_group/industry = null for the four non-commercial government/association organizations). Re-checked gics_taxonomy.json and university_names.json against every sector/industry_group/industry triple and institution string currently in this file -- all remain exact, byte-for-byte matches; no re-normalization was needed and new_institutions_found remains empty for CHMF. The only two items still carrying any residual uncertainty language were Shevelev's second-education institution name (Kommersant's lone divergent reading vs. a four-source majority) and Mordashov's institute-faculty detail (already resolved in round 3). This round performed additional targeted research as due diligence on both: for Shevelev, attempted ru.ruwiki.ru (HTTP 401), tek-all.ru (fetched, no education detail), cherinfo.ru (fetched, paywalled), and an official severstal.com management-bio page (HTTP 404); for Mordashov, re-attempted tass.ru (still HTTP 403) and searched for an official severstal.com bio page (same HTTP 404). Neither line of inquiry produced a new source or fact; the session's web-search quota (200/200 calls) was exhausted before further site-restricted queries could be attempted. Because no new fact was verified and nothing was contradicted, no JSON field was changed this round (per the gap-fill-only instruction: do not re-verify facts already confirmed, and prefer leaving an already-resolved item as-is over unsupported further editing). This negative-result due-diligence is recorded in research_notes/CHMF/Шевелёв_Александр_Анатольевич_round_4.md and research_notes/CHMF/Мордашов_Алексей_Александрович_round_4.md. No previously confirmed fact was deleted or overwritten. Top-level and per-person key sets remain unchanged from the schema established in rounds 1-3; no key was renamed or removed. Self-check performed: every qualification_degree value in this file (\"Specialist degree\" x3, \"MBA\" x2 across degrees[]/education[]) is in the ten-value allowed list; every sector/industry_group/industry triple in this file is either an exact row copied from gics_taxonomy.json (Materials/Materials/Metals & Mining; Materials/Materials/Paper & Forest Products) or all-null with a justification already documented in round 2 (government bodies and non-profit trade associations); every institution string matches an existing canonical entry in university_names.json (confirmed programmatically this round for all four institutions used: Вологодская государственная молочнохозяйственная академия имени Н.В. Верещагина, Санкт-Петербургский политехнический университет Петра Великого, Northumbria University, Санкт-Петербургский государственный экономический университет). || Round 5 (2026-07-19, gap-fill pass per updated task instructions): Re-scanned the entire file programmatically (Python null-scan across every nested field) before starting. Confirmed the only remaining null fields are structurally justified and unchanged from rounds 2-4: ceo.professional_experience[0].end_year and tmt[0].professional_experience[5/6].end_year (ongoing roles), ceo.professional_experience[3/4].sector/industry_group/industry and tmt[0].professional_experience[5/6].sector/industry_group/industry (government bodies and non-profit industry associations, not GICS-classifiable commercial organizations, justification unchanged from round 2), and both people's h_index (no research/academic record after 25+ round-1 queries). The only remaining soft/flagged item was Shevelev's second-education institution-name discrepancy (Kommersant's lone \"технологический институт\" vs. a four-source majority \"технический университет\"), already resolved by majority in rounds 2-3 and reconfirmed unchanged in round 4. Targeted research attempted this round: WebSearch was blocked for the entire round (session budget fully exhausted at 200/200 calls, the same ceiling already hit in round 4, confirming the quota is a persistent project-wide constraint rather than a per-round one); WebFetch was tried against severstal.com/rus/about/ (fetched, general company page with no executive biography content) and four guessed corporate-governance/board/management URL paths on severstal.com plus an eng/about/management/ path (all HTTP 404); a re-attempt of tass.ru/encyclopedia/person/mordashov-aleksey-aleksandrovich (still HTTP 403, fourth consecutive round of the same failure); and web.archive.org, which the available WebFetch tool cannot reach at all in this environment. A fresh local-document re-check (pdftotext, both -layout and plain, over the 2024 annual report PDF) found zero matches for either surname or any education keyword, confirming again that the report's text layer contains no named board/executive biography detail. A cross-check of university_names.json found that it already separately catalogues both sides of the Shevelev discrepancy as two genuinely distinct real institutions -- \"Санкт-Петербургский политехнический университет Петра Великого\" (aliased to \"Санкт-Петербургский Государственный Технический Университет\" etc.) and \"Санкт-Петербургский государственный технологический институт (технический университет)\" (aliased to Kommersant's exact wording) -- which corroborates, without changing, the rounds 2-3 decision to resolve by source-count majority rather than merge the two readings. gics_taxonomy.json and university_names.json were re-checked against every sector/industry_group/industry triple and institution string currently in this file and remain exact, byte-for-byte matches; no re-normalization was needed and new_institutions_found remains empty for CHMF this round. Because no new fact was verified and nothing was contradicted, no JSON field other than this validation_notes text was changed this round (per the gap-fill-only instruction: do not re-verify facts already confirmed, and prefer leaving an already-resolved item as-is over unsupported further editing). This negative-result due-diligence is recorded in research_notes/CHMF/Шевелёв_Александр_Анатольевич_round_5.md and research_notes/CHMF/Мордашов_Алексей_Александрович_round_5.md. No previously confirmed fact was deleted or overwritten. Top-level and per-person key sets remain unchanged from the schema established in rounds 1-4; no key was renamed or removed. Self-check performed: every qualification_degree value in this file (\"Specialist degree\" x3, \"MBA\" x2 across degrees[]/education[]) is in the ten-value allowed list; every sector/industry_group/industry triple in this file is either an exact row copied from gics_taxonomy.json (Materials/Materials/Metals & Mining; Materials/Materials/Paper & Forest Products) or all-null with a justification documented in round 2 (government bodies and non-profit trade associations); every institution string matches an existing canonical entry in university_names.json (re-confirmed programmatically this round for all four institutions used); no prior field was deleted or overwritten. || Round 6 (2026-07-19, gap-fill pass per updated task instructions): Re-scanned the entire file programmatically (Python null-scan across every nested field) before starting; confirmed the only remaining null fields are unchanged and structurally justified from rounds 2-5 (ceo.professional_experience[0].end_year and tmt[0].professional_experience[5/6].end_year for ongoing roles; ceo.professional_experience[3/4].sector/industry_group/industry and tmt[0].professional_experience[5/6].sector/industry_group/industry for government bodies and non-profit trade associations; both people's h_index). Re-verified gics_taxonomy.json (list-of-rows structure with keys sector/industry_group/industry) contains the exact rows Materials/Materials/Metals & Mining and Materials/Materials/Paper & Forest Products used in this file, and university_names.json (a dict of 427 canonical names) contains exact-match keys for all four institution strings used in this file (Вологодская государственная молочнохозяйственная академия имени Н.В. Верещагина; Санкт-Петербургский политехнический университет Петра Великого; Northumbria University; Санкт-Петербургский государственный экономический университет) -- no re-normalization was needed and new_institutions_found remains empty for CHMF this round. Targeted research this round focused on the one remaining soft/flagged item, Shevelev's second-education institution-name discrepancy (Kommersant's lone “технологический институт” vs. the four-source majority “технический университет”): WebSearch remained fully exhausted (200/200 calls, the same environment-level ceiling already hit in rounds 4-5); used WebFetch to load Yandex search-results pages directly as a workaround (technically possible since WebFetch is a separate mechanism from the WebSearch tool), which re-surfaced only the already-known Kommersant snippet and no new independent source; discovered severstal.com's actual sitemap.xml and the real corporate-governance URL paths (/rus/about/corporative/board-of-directors/, /executive-agency/, /corporate-secretary/, /rus/about/company-management/) that rounds 3-5 had not found (their guessed paths returned plain 404s) -- fetching these pages showed the board-of-directors section exists but is explicitly marked “Раздел находится в разработке” (under development) and the executive-agency/company-management pages contain only generic legal text and one unrelated 2026 news item, confirming more precisely than before that Severstal is deliberately not publishing named board/executive biographies on its own site at this time; also checked vmeste.severstal.com (Severstal's internal corporate-magazine subdomain) and re-fetched tek-all.ru directly to rule out a search-snippet claim of new education detail there -- neither yielded anything new. One unrelated new current-affairs fact surfaced incidentally (Mordashov joining the Presidential Nature Fund's board of trustees, per a July 2026 severstal.com news item) but was deliberately NOT added to the record because it is out of scope for this gap-filling task (not a null/vague/uncertain education, degree, or GICS field). Because no new fact bearing on any flagged field was verified and nothing was contradicted, no JSON field other than this validation_notes text was changed this round -- education[1].institution for Shevelev remains “Санкт-Петербургский политехнический университет Петра Великого” (four-source majority), Kommersant's divergent reading undeleted in the entry description. This round's due diligence is recorded in research_notes/CHMF/Шевелёв_Александр_Анатольевич_round_6.md and research_notes/CHMF/Мордашов_Алексей_Александрович_round_6.md. No previously confirmed fact was deleted or overwritten. Top-level and per-person key sets remain unchanged from the schema established in rounds 1-5; no key was renamed or removed. Self-check performed: every qualification_degree value in this file (\"Specialist degree\" x3, \"MBA\" x2 across degrees[]/education[]) is in the ten-value allowed list; every sector/industry_group/industry triple in this file is either an exact row copied from gics_taxonomy.json (Materials/Materials/Metals & Mining; Materials/Materials/Paper & Forest Products, re-verified programmatically this round against the reference file's actual list-of-dicts structure) or all-null with a justification documented in round 2 (government bodies and non-profit trade associations); every institution string matches an existing canonical key in university_names.json (re-confirmed programmatically this round for all four institutions used); no prior field was deleted or overwritten. || Quality pass round 1 (2026-07-29, second/quality-focused pass per the assignment brief -- desync check, GICS-label correctness, bounded honest-gap follow-up): Major finding before any new work -- output/CHMF_person_info.json in the working tree was a regressed, stale pre-round-2 snapshot (institution names not normalized, only 3 of the eventual sources present, validation_notes truncated to the round-1 text), while git HEAD (commit 03bfe9f) already contained the fully-worked round 2-6 version matching research_notes/CHMF/*_round_2.md through *_round_6.md in full detail. This is the same corpus-wide working-tree regression already documented for other tickers (e.g. ALRS's own quality-pass round 1); it was not caused by this session. Action taken: the file was restored from git HEAD as this round's base -- a pure recovery of already-completed, source-backed work, not new invented facts (every restored value traces to a source already cited in research_notes/CHMF/*_round_2.md through *_round_6.md). university_names.json in the working tree was checked and found NOT to need restoration for this ticker -- it already contains exact-match canonical entries for all four institutions used in this file (it is currently ahead of HEAD, 460 vs 427 entries, from other tickers' already-applied quality-pass work in this same session). With the file restored: (1) Desync check -- re-compared the restored JSON against every research_notes/CHMF/*_round_1.md through *_round_6.md file for both people; found no further simple omissions and no unresolved genuine inconsistencies (the recovery itself resolved the only real desync, which was the entirety of the missing rounds 2-6 work). Both education-institution-name discrepancies flagged in the notes (Shevelev's second-education institution vs. Kommersant; Mordashov's institute-faculty detail vs. TAdviser) were already correctly resolved with documented majority/corroboration reasoning in the restored HEAD content, matching rounds 2-6's own conclusions -- nothing further to adjudicate. (2) GICS label correctness -- every non-null sector/industry_group/industry triple across both people (11 professional_experience entries with non-null GICS) was checked against gics_taxonomy.json for exact-row validity and against the named organization's real primary business, including the task's specific failure-mode examples (ministry-as-commercial, insurer-as-consumer-finance, coal-as-metals-mining, quarry-as-metals-mining -- none of these entity types appear in this ticker's two people). Result: no incorrect label found. Severstal / Severstal Management / Severstal-metiz / Cherepovets Steel Rolling Plant are all correctly Materials/Materials/Metals & Mining; SVEZA is correctly Materials/Materials/Paper & Forest Products (a genuinely different primary business from steel, not defaulted to the parent's classification); Правительство Вологодской области, Администрация города Череповца, World Steel Association and Ассоциация \"Русская Сталь\" are all correctly null (government/municipal bodies and non-profit trade associations are not GICS-classifiable commercial organizations). No label was changed. (3) Honest-gap follow-up (bounded, one attempt per person) -- the only field null specifically due to \"insufficient reliable source\" documented across rounds 1-6 is h_index (and the empty publications/patents arrays) for both people; all other nulls (ongoing-role end_year, government-body/trade-association GICS triples) are correctly non-classifiable and were not disturbed. Ran fresh queries not present in any prior round's search-query lists: for Shevelev, \"Шевелев Александр Анатольевич\" Северсталь патент изобретение Роспатент and \"Шевелев Александр Анатольевич\" elibrary статья научная публикация автор -- outcome still unresolved (no patents, publications or eLibrary/РИНЦ profile found; two unrelated namesakes by patronymic were positively ruled out, reinforcing identity confidence). For Mordashov, \"Мордашов Алексей Александрович\" elibrary.ru автор публикации and Мордашов Алексей Александрович почетный доктор университета звание -- h_index/publications/patents outcome still unresolved (no eLibrary/РИНЦ profile or patent record found), but the honorary-doctorate query incidentally resolved the previously-vague \"honorary doctorate references... sources conflict on details\" note into a precise, multi-source-confirmed detail (SPbPU, 12.02.2026; СПбГЭУ/ИНЖЭКОН since 2001; Northumbria since 2003); per the established round-1 convention this remains excluded from qualification_degree/degrees as a non-earned title, so only degrees[0].description and sources[] were enriched with the new citation -- no degree value changed. No previously-confirmed fact was deleted or overwritten. Every qualification_degree value (\"Specialist degree\" x3, \"MBA\" x2) remains within the ten-value enum. Every GICS triple is an exact row from gics_taxonomy.json or all-null with documented justification. Every institution string is an exact canonical key in university_names.json. No correctly-non-classifiable null was disturbed. Full findings in research_notes/CHMF/quality_pass_round1_20260729.md. || Quality pass round 2 (2026-07-30, independent re-audit of quality_pass_round1_20260729): confirmed output/CHMF_person_info.json had not regressed again since round 1's restoration and enrichment -- no further recovery action needed. (1) Desync check -- re-read all six research rounds for both people plus quality_pass_round1_20260729.md in full, including each round's \"Contradictions\" sections; found no further simple omission, and independently confirmed both previously-flagged genuine inconsistencies (Shevelev's second-education institution name; Mordashov's 1988 institute-faculty detail) had already received real additional-source research in rounds 2-3 -- not a same-day pick without investigation -- with the rejected reading kept undeleted and documented in each case; nothing further to adjudicate. Two round-1-flagged items (Shevelev's birthplace variance; Mordashov's birth-date variance) were confirmed out of scope since neither field exists in this project's JSON schema. (2) GICS label correctness -- re-ran a fresh programmatic check of every non-null sector/industry_group/industry triple (11 professional_experience entries + 1 company-level triple) against gics_taxonomy.json: 0 violations. Manually re-checked against the task's specific failure-mode examples (ministry-as-commercial, insurer-as-Consumer-Finance, coal-as-Metals-&-Mining, quarry-as-Metals-&-Mining): none of these entity types occur among this ticker's two people's employers, so none apply; no label was incorrect and nothing was changed. (3) Honest-gap follow-up (bounded, one attempt per person) -- re-confirmed h_index/publications/patents remain the only fields null due to insufficient-source (as opposed to correctly-non-classifiable) reasons for both people; checked the cumulative exhausted-query list across round 1 (25+ queries/person) and quality_pass_round1 (2 further queries/person) and attempted 4 genuinely fresh queries this round (2 per person, worded differently from all prior rounds) -- blocked before returning results by the session-wide WebSearch budget (0/200 remaining), the same persistent constraint already documented in rounds 4-6; two WebFetch-based workarounds (direct elibrary.ru author-search URL; a Google search-results URL) also failed to surface usable content. Outcome: still unresolved for both people; this negative result and the specific blocked queries are logged so a future pass does not repeat this exact wording. Also re-confirmed MOEXBMI_Отчеты_2024/CHMF/ contains only the two PDFs already cited in this file -- no additional local document was missed. No fact-bearing field (education, degrees, professional_experience, qualification_degree, GICS triples, h_index, publications, patents) was changed this round; only ceo.notes, tmt[0].notes and this validation_notes field were extended with this round's findings. Self-check: every qualification_degree value (\"Specialist degree\" x3, \"MBA\" x2) remains within the ten-value enum; every GICS triple is an exact row from gics_taxonomy.json or all-null with documented justification; every institution string is an exact canonical key in university_names.json; no correctly-non-classifiable null was disturbed; no prior data was deleted. Full findings in research_notes/CHMF/quality_pass_round2_20260730.md."
+}

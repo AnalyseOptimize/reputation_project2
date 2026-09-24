@@ -1,0 +1,1169 @@
+{
+    "company_name":  "ПАО \"Группа Позитив\"",
+    "company_ticker":  "POSI",
+    "ceo":  {
+                "name":  "Денис Сергеевич Баранов",
+                "current_role":  "Генеральный директор ПАО \"Группа Позитив\" / Positive Technologies с 29 июля 2021 года; CSV также содержит отдельную строку о членстве в совете директоров.",
+                "company_name":  "ПАО \"Группа Позитив\"",
+                "education":  [
+                                  {
+                                      "institution":  "Национальный исследовательский университет ИТМО",
+                                      "program_or_field":  "прикладная математика",
+                                      "degree_or_qualification":  null,
+                                      "year":  2008,
+                                      "sources":  [
+                                                      {
+                                                          "url":  "MOEXBMI_Отчеты_2024/POSI/Годовой отчет ПАО Группа Позитив_раскрытие.pdf",
+                                                          "title":  "Годовой отчет ПАО \"Группа Позитив\" за 2024 год",
+                                                          "fact":  "Страница 192: Денис Баранов окончил НИУ ИТМО по специальности \"прикладная математика\"."
+                                                      },
+                                                      {
+                                                          "url":  "https://ar2024.ptsecurity.com/corporate-governance",
+                                                          "title":  "Positive Technologies Annual Report 2024: Corporate Governance",
+                                                          "fact":  "Официальный веб-отчет 2024 повторяет биографию Дениса Баранова и образование в НИУ ИТМО."
+                                                      },
+                                                      {
+                                                          "url":  "https://www.tadviser.ru/index.php/Персона:Баранов_Денис_Сергеевич",
+                                                          "title":  "TAdviser: Баранов Денис Сергеевич",
+                                                          "fact":  "TAdviser указывает год окончания НИУ ИТМО — 2008; зафиксировано в research_notes round 1 как вспомогательное подтверждение."
+                                                      }
+                                                  ],
+                                      "qualification_degree":  null
+                                  }
+                              ],
+                "degrees":  [
+
+                            ],
+                "professional_experience":  [
+                                                {
+                                                    "organization":  "Actimind",
+                                                    "role":  "разработчик веб-приложений",
+                                                    "start_year":  null,
+                                                    "end_year":  null,
+                                                    "description":  "Ранний карьерный опыт; даты не раскрыты.",
+                                                    "sources":  [
+                                                                    {
+                                                                        "url":  "MOEXBMI_Отчеты_2024/POSI/Годовой отчет ПАО Группа Позитив_раскрытие.pdf",
+                                                                        "title":  "Годовой отчет ПАО \"Группа Позитив\" за 2024 год",
+                                                                        "fact":  "Страница 192: в начале карьеры Денис Баранов разрабатывал веб-приложения в Actimind."
+                                                                    }
+                                                                ],
+                                                    "sector":  "Information Technology",
+                                                    "industry_group":  "Software & Services",
+                                                    "industry":  "IT Services"
+                                                },
+                                                {
+                                                    "organization":  "T-Systems",
+                                                    "role":  "разработчик Java/C++",
+                                                    "start_year":  null,
+                                                    "end_year":  null,
+                                                    "description":  "Ранний карьерный опыт; даты не раскрыты.",
+                                                    "sources":  [
+                                                                    {
+                                                                        "url":  "MOEXBMI_Отчеты_2024/POSI/Годовой отчет ПАО Группа Позитив_раскрытие.pdf",
+                                                                        "title":  "Годовой отчет ПАО \"Группа Позитив\" за 2024 год",
+                                                                        "fact":  "Страница 192: Баранов писал код на Java и C++ в T-Systems."
+                                                                    }
+                                                                ],
+                                                    "sector":  "Information Technology",
+                                                    "industry_group":  "Software & Services",
+                                                    "industry":  "IT Services"
+                                                },
+                                                {
+                                                    "organization":  "\"Новел-ИЛ\"",
+                                                    "role":  "разработчик Java/C++",
+                                                    "start_year":  null,
+                                                    "end_year":  null,
+                                                    "description":  "Ранний карьерный опыт; даты не раскрыты.",
+                                                    "sources":  [
+                                                                    {
+                                                                        "url":  "MOEXBMI_Отчеты_2024/POSI/Годовой отчет ПАО Группа Позитив_раскрытие.pdf",
+                                                                        "title":  "Годовой отчет ПАО \"Группа Позитив\" за 2024 год",
+                                                                        "fact":  "Страница 192: Баранов писал код на Java и C++ в \"Новел-ИЛ\"."
+                                                                    }
+                                                                ],
+                                                    "sector":  "Information Technology",
+                                                    "industry_group":  "Technology Hardware & Equipment",
+                                                    "industry":  "Communications Equipment"
+                                                },
+                                                {
+                                                    "organization":  "Positive Technologies",
+                                                    "role":  "специалист и затем руководитель отдела анализа защищенности веб-приложений",
+                                                    "start_year":  2010,
+                                                    "end_year":  null,
+                                                    "description":  "Участвовал в проектировании PT Application Inspector, PT Application Firewall и PT ISIM.",
+                                                    "sources":  [
+                                                                    {
+                                                                        "url":  "MOEXBMI_Отчеты_2024/POSI/Годовой отчет ПАО Группа Позитив_раскрытие.pdf",
+                                                                        "title":  "Годовой отчет ПАО \"Группа Позитив\" за 2024 год",
+                                                                        "fact":  "Страница 192: Баранов пришел в Positive Technologies в 2010 году, занимал позиции специалиста и руководителя отдела анализа защищенности веб-приложений, участвовал в проектировании продуктов."
+                                                                    }
+                                                                ],
+                                                    "sector":  "Information Technology",
+                                                    "industry_group":  "Software \u0026 Services",
+                                                    "industry":  "Software"
+                                                },
+                                                {
+                                                    "organization":  "ПАО \"Группа Позитив\" / Positive Technologies",
+                                                    "role":  "генеральный директор",
+                                                    "start_year":  2021,
+                                                    "end_year":  null,
+                                                    "description":  "С 29 июля 2021 года является генеральным директором компании.",
+                                                    "sources":  [
+                                                                    {
+                                                                        "url":  "MOEXBMI_Отчеты_2024/POSI/Годовой отчет ПАО Группа Позитив_раскрытие.pdf",
+                                                                        "title":  "Годовой отчет ПАО \"Группа Позитив\" за 2024 год",
+                                                                        "fact":  "Страница 192: с 29 июля 2021 года генеральным директором Компании является Денис Сергеевич Баранов."
+                                                                    },
+                                                                    {
+                                                                        "url":  "https://www.interfax.ru/business/932980",
+                                                                        "title":  "Positive Technologies ожидает увеличения доли зарубежных продаж до 20% в 2025 году",
+                                                                        "fact":  "Интерфакс в ноябре 2023 года цитирует Дениса Баранова как генерального директора Positive Technologies."
+                                                                    }
+                                                                ],
+                                                    "sector":  "Information Technology",
+                                                    "industry_group":  "Software \u0026 Services",
+                                                    "industry":  "Software"
+                                                }
+                                            ],
+                "research_experience":  [
+                                            {
+                                                "organization":  "SCADA Strangelove",
+                                                "role":  "участник исследовательской группы",
+                                                "start_year":  null,
+                                                "end_year":  null,
+                                                "description":  "Группа специализируется на анализе защищенности промышленных систем управления; Баранов назван автором ряда исследований в области application security.",
+                                                "sources":  [
+                                                                {
+                                                                    "url":  "MOEXBMI_Отчеты_2024/POSI/Годовой отчет ПАО Группа Позитив_раскрытие.pdf",
+                                                                    "title":  "Годовой отчет ПАО \"Группа Позитив\" за 2024 год",
+                                                                    "fact":  "Страница 192: Баранов входит в SCADA Strangelove и является автором ряда исследований в application security."
+                                                                }
+                                                            ]
+                                            }
+                                        ],
+                "publications":  [
+
+                                 ],
+                "patents":  [
+
+                            ],
+                "h_index":  null,
+                "sources":  [
+                                {
+                                    "url":  "MOEXBMI_2024.csv",
+                                    "title":  "MOEXBMI_2024.csv",
+                                    "fact":  "CSV содержит две строки по Денису Сергеевичу Баранову для POSI: генеральный директор и член совета директоров."
+                                },
+                                {
+                                    "url":  "MOEXBMI_Отчеты_2024/POSI/Годовой отчет ПАО Группа Позитив_раскрытие.pdf",
+                                    "title":  "Годовой отчет ПАО \"Группа Позитив\" за 2024 год",
+                                    "fact":  "Страница 192: биография, образование, карьерный путь и статус генерального директора Дениса Баранова."
+                                },
+                                {
+                                    "url":  "https://ar2024.ptsecurity.com/corporate-governance",
+                                    "title":  "Positive Technologies Annual Report 2024: Corporate Governance",
+                                    "fact":  "Официальный веб-отчет 2024 подтверждает сведения локального PDF."
+                                }
+                            ],
+                "notes":  "По Денису Баранову биографические факты подтверждены официальным годовым отчетом 2024. Персональное членство в совете директоров в 2024 году не раскрыто в локальном годовом отчете, хотя CSV содержит такую строку."
+            },
+    "tmt":  [
+                {
+                    "name":  "Алексей Вячеславович Андреев",
+                    "current_role":  "член совета директоров по CSV; в официальном отчете 2022 указан как управляющий директор департамента исследований и разработки Positive Technologies. Поименное подтверждение состава СД 2024 в доступном годовом отчете отсутствует.",
+                    "company_name":  "ПАО \"Группа Позитив\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Московский авиационный институт",
+                                          "program_or_field":  "факультет радиоэлектроники летательных аппаратов; специальность \"разработчик вычислительных систем\"",
+                                          "degree_or_qualification":  null,
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                                              "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                                              "fact":  "Строки 227-232: Алексей Андреев окончил факультет радиоэлектроники летательных аппаратов МАИ по специальности \"разработчик вычислительных систем\"."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "Московский авиационный институт",
+                                          "program_or_field":  "факультет прикладной математики и физики; специальность \"системный программист\"",
+                                          "degree_or_qualification":  null,
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                                              "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                                              "fact":  "Строки 227-232: Андреев также окончил факультет прикладной математики и физики МАИ по специальности \"системный программист\"."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Acronis",
+                                                        "role":  "руководитель разработки облачных сервисов и enterprise-продуктов",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Руководил созданием Acronis Backup as a Service и Acronis Storage.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                                                            "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                                                            "fact":  "Строки 230-232: в Acronis Андреев руководил разработкой облачных сервисов и enterprise-продуктов, включая Acronis Backup as a Service и Acronis Storage."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Information Technology",
+                                                        "industry_group":  "Software & Services",
+                                                        "industry":  "Software"
+                                                    },
+                                                    {
+                                                        "organization":  "Positive Technologies",
+                                                        "role":  "управляющий директор департамента исследований и разработки",
+                                                        "start_year":  2015,
+                                                        "end_year":  null,
+                                                        "description":  "Пришел в компанию в 2015 году; с 2016 года отвечал за разработку MaxPatrol SIEM.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                                                            "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                                                            "fact":  "Строки 230-232: с 2015 года в Positive Technologies; с 2016 года отвечал за MaxPatrol SIEM; управляющий директор R\u0026D."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Information Technology",
+                                                        "industry_group":  "Software \u0026 Services",
+                                                        "industry":  "Software"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV содержит Алексея Вячеславовича Андреева как члена совета директоров POSI."
+                                    },
+                                    {
+                                        "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                        "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                        "fact":  "Официальный отчет 2022 содержит биографию Андреева и сведения об избрании в совет директоров 20 мая 2022 года."
+                                    },
+                                    {
+                                        "url":  "https://octan.ru/deponews/2026/05/19/I1953981/",
+                                        "title":  "НРД: итоги корпоративного действия ПАО \"Группа Позитив\"",
+                                        "fact":  "Строки 68-77: Андреев избран в совет директоров на ГОСА 2026; post-2024 источник не использован для подтверждения состава 2024."
+                                    }
+                                ],
+                    "notes":  "Образование и опыт подтверждены официальным отчетом 2022. Состав СД 2024 в локальном годовом отчете раскрыт без имен, поэтому роль члена СД на 2024 помечена как основанная на CSV и косвенных/более поздних источниках."
+                },
+                {
+                    "name":  "Евгений Вячеславович Киреев",
+                    "current_role":  "член совета директоров по CSV; сооснователь Positive Technologies. Поименное подтверждение состава СД 2024 в доступном годовом отчете отсутствует.",
+                    "company_name":  "ПАО \"Группа Позитив\"",
+                    "education":  [
+                                      {
+                                          "institution":  "МГУ им. М. В. Ломоносова",
+                                          "program_or_field":  "химический факультет",
+                                          "degree_or_qualification":  null,
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                                              "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                                              "fact":  "Строки 264-268: Киреев окончил химический факультет МГУ им. М. В. Ломоносова."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  null,
+                                                        "role":  "младший научный сотрудник",
+                                                        "start_year":  null,
+                                                        "end_year":  1991,
+                                                        "description":  "Работал младшим научным сотрудником до 1991 года; организация в источнике не указана.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                                                            "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                                                            "fact":  "Строки 264-268: до 1991 года Киреев работал младшим научным сотрудником."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "\"Агама\"",
+                                                        "role":  "разработчик ПО, технический директор, генеральный директор",
+                                                        "start_year":  1991,
+                                                        "end_year":  2001,
+                                                        "description":  "Последовательно занимал технические и управленческие роли.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                                                            "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                                                            "fact":  "Строки 264-268: в 1991-2001 годах Киреев работал в \"Агаме\" разработчиком, техническим директором и генеральным директором."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Information Technology",
+                                                        "industry_group":  "Software & Services",
+                                                        "industry":  "Software"
+                                                    },
+                                                    {
+                                                        "organization":  "\"Апорт\"",
+                                                        "role":  "один из создателей и руководителей проекта",
+                                                        "start_year":  1995,
+                                                        "end_year":  2001,
+                                                        "description":  "Проект связан с периодом работы в \"Агаме\".",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                                                            "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                                                            "fact":  "Строки 264-268: Киреев был одним из создателей и руководителей проекта \"Апорт\" в 1995-2001 годах."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Media & Entertainment",
+                                                        "industry":  "Interactive Media & Services"
+                                                    },
+                                                    {
+                                                        "organization":  "Golden Telecom",
+                                                        "role":  "начальник отдела разработки программного продукта",
+                                                        "start_year":  2001,
+                                                        "end_year":  2002,
+                                                        "description":  null,
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                                                            "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                                                            "fact":  "Строки 264-268: в 2001-2002 годах Киреев работал в Golden Telecom начальником отдела разработки программного продукта."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Telecommunication Services",
+                                                        "industry":  "Diversified Telecommunication Services"
+                                                    },
+                                                    {
+                                                        "organization":  "Positive Technologies",
+                                                        "role":  "сооснователь; ранее генеральный директор и директор по развитию",
+                                                        "start_year":  2002,
+                                                        "end_year":  null,
+                                                        "description":  "Киреев, Дмитрий Максимов и Юрий Максимов основали Positive Technologies в 2002 году.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                                                            "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                                                            "fact":  "Строки 264-268: Киреев является одним из основателей Positive Technologies и занимал должности генерального директора и директора по развитию."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Information Technology",
+                                                        "industry_group":  "Software \u0026 Services",
+                                                        "industry":  "Software"
+                                                    }
+                                                ],
+                    "research_experience":  [
+                                                {
+                                                    "organization":  null,
+                                                    "role":  "младший научный сотрудник",
+                                                    "start_year":  null,
+                                                    "end_year":  1991,
+                                                    "description":  "Область исследований не раскрыта.",
+                                                    "sources":  [
+                                                                    {
+                                                                        "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                                                        "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                                                        "fact":  "Строки 264-268: до 1991 года Киреев работал младшим научным сотрудником."
+                                                                    }
+                                                                ]
+                                                }
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV содержит Евгения Вячеславовича Киреева как члена совета директоров POSI."
+                                    },
+                                    {
+                                        "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                        "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                        "fact":  "Официальный отчет 2022 содержит образование, карьеру и членство Киреева в СД."
+                                    },
+                                    {
+                                        "url":  "https://www.tadviser.ru/index.php/Компания:Positive_Technologies_(Позитив_Текнолоджиз)",
+                                        "title":  "TAdviser: Positive Technologies",
+                                        "fact":  "TAdviser указывает Киреева среди собственников на октябрь 2024 и сообщает об избрании председателем совета директоров в 2023; источник вспомогательный."
+                                    }
+                                ],
+                    "notes":  "Биография хорошо подтверждена официальным отчетом 2022. По 2024 году персональный состав СД в локальном отчете не раскрыт."
+                },
+                {
+                    "name":  "Денис Иванович Кораблев",
+                    "current_role":  "управляющий директор, директор по продуктам Positive Technologies; членство в СД указано в CSV, но для 2024 не подтверждено открытым поименным источником.",
+                    "company_name":  "ПАО \"Группа Позитив\"",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Deutsche Bank",
+                                                        "role":  "руководитель разработки продуктов для алгоритмического трейдинга",
+                                                        "start_year":  2010,
+                                                        "end_year":  2012,
+                                                        "description":  "Москва; найдено в round 2 (honest-gap follow-up) через страницу спикера HighLoad++ 2023.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://highload.ru/moscow/2023/authors/14551",
+                                                                            "title":  "HighLoad++ 2023: страница спикера Денис Кораблев",
+                                                                            "fact":  "Deutsche Bank (2010-2012, Москва): \"руководителем разработки продуктов для алгоритмического трейдинга\"."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    },
+                                                    {
+                                                        "organization":  "Skype",
+                                                        "role":  "руководитель отдела бэкенд-разработки",
+                                                        "start_year":  2012,
+                                                        "end_year":  2014,
+                                                        "description":  "Прага; найдено в round 2 (honest-gap follow-up) через страницу спикера HighLoad++ 2023.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://highload.ru/moscow/2023/authors/14551",
+                                                                            "title":  "HighLoad++ 2023: страница спикера Денис Кораблев",
+                                                                            "fact":  "Skype (2012-2014, Прага): \"руководителем отдела бэкенд-разработки\"."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Media & Entertainment",
+                                                        "industry":  "Interactive Media & Services"
+                                                    },
+                                                    {
+                                                        "organization":  "Positive Technologies",
+                                                        "role":  "управляющий директор, директор по продуктам",
+                                                        "start_year":  2017,
+                                                        "end_year":  null,
+                                                        "description":  "Упоминался в годовом отчете 2024 в связи с PT NGFW и продуктовыми направлениями. Год прихода в компанию (2017) подтвержден в round 2 через highload.ru.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "MOEXBMI_Отчеты_2024/POSI/Годовой отчет ПАО Группа Позитив_раскрытие.pdf",
+                                                                            "title":  "Годовой отчет ПАО \"Группа Позитив\" за 2024 год",
+                                                                            "fact":  "Страницы 70 и 169: Денис Кораблев указан как управляющий директор, директор по продуктам Positive Technologies."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://highload.ru/moscow/2023/authors/14551",
+                                                                            "title":  "HighLoad++ 2023: страница спикера Денис Кораблев",
+                                                                            "fact":  "\"Positive Technologies (2017-present): Director of Products and Managing Director\"."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Information Technology",
+                                                        "industry_group":  "Software \u0026 Services",
+                                                        "industry":  "Software"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV содержит Дениса Ивановича Кораблева как члена совета директоров POSI."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/POSI/Годовой отчет ПАО Группа Позитив_раскрытие.pdf",
+                                        "title":  "Годовой отчет ПАО \"Группа Позитив\" за 2024 год",
+                                        "fact":  "Страницы 70 и 169 подтверждают управленческую продуктовую роль Кораблева."
+                                    },
+                                    {
+                                        "url":  "https://octan.ru/deponews/2026/05/19/I1953981/",
+                                        "title":  "НРД: итоги корпоративного действия ПАО \"Группа Позитив\"",
+                                        "fact":  "Строки 82-85: Кораблев избран в совет директоров на ГОСА 2026; post-2024 источник не использован для подтверждения состава 2024."
+                                    },
+                                    {
+                                        "url":  "https://highload.ru/moscow/2023/authors/14551",
+                                        "title":  "HighLoad++ 2023: страница спикера Денис Кораблев",
+                                        "fact":  "Round 2 (honest-gap follow-up): подтверждает карьеру в Deutsche Bank (2010-2012) и Skype (2012-2014) до прихода в Positive Technologies в 2017 году."
+                                    }
+                                ],
+                    "notes":  "Образование не найдено (round 2: агрегированный сниппет поисковика намекал на Нижегородский государственный университет, но прямая проверка страницы tadviser.ru/index.php/Персона:Кораблев_Денис_Иванович вернула 404 — verbatim-цитата недоступна, факт не добавлен в JSON, гэп остается открытым для будущего прохода). Карьера до Positive Technologies (Deutsche Bank 2010-2012, Skype 2012-2014, дата прихода в PT 2017) найдена и подтверждена в round 2 через https://highload.ru/moscow/2023/authors/14551. В 2025 списке кандидатов Кораблева нет, а в 2026 он избран в СД; поэтому CSV, вероятно, отражает более поздний состав, а не 2024."
+                },
+                {
+                    "name":  "Андрей Игоревич Кузин",
+                    "current_role":  "операционный директор Positive Technologies; членство в СД указано в CSV, но для 2024 не подтверждено открытым поименным источником.",
+                    "company_name":  "ПАО \"Группа Позитив\"",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Positive Technologies",
+                                                        "role":  "операционный директор",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Интерфакс цитирует Андрея Кузина как операционного директора Positive Technologies в ноябре 2023 года.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.interfax.ru/business/932980",
+                                                                            "title":  "Positive Technologies ожидает увеличения доли зарубежных продаж до 20% в 2025 году",
+                                                                            "fact":  "Строки 29-33 и 55-56: Андрей Кузин назван операционным директором Positive Technologies."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Information Technology",
+                                                        "industry_group":  "Software \u0026 Services",
+                                                        "industry":  "Software"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV содержит имя \"Андрей Игоревич Кузин\" как члена совета директоров POSI."
+                                    },
+                                    {
+                                        "url":  "https://www.interfax.ru/business/932980",
+                                        "title":  "Positive Technologies ожидает увеличения доли зарубежных продаж до 20% в 2025 году",
+                                        "fact":  "Интерфакс подтверждает Андрея Кузина как операционного директора Positive Technologies."
+                                    },
+                                    {
+                                        "url":  "https://octan.ru/deponews/2025/04/29/I2943622/",
+                                        "title":  "НРД: корпоративное действие ПАО \"Группа Позитив\"",
+                                        "fact":  "Строки 126-128: post-2024 источник указывает вариант \"Кузин Андрей Игорьевич\" как кандидата в СД на ГОСА 2025."
+                                    },
+                                    {
+                                        "url":  "https://octan.ru/deponews/2026/05/19/I1953981/",
+                                        "title":  "НРД: итоги корпоративного действия ПАО \"Группа Позитив\"",
+                                        "fact":  "Строки 86-88: post-2024 источник указывает вариант \"Кузин Андрей Игорьевич\" как избранного в СД на ГОСА 2026."
+                                    },
+                                    {
+                                        "url":  "https://yandex.ru/search/?text=%22%D0%9A%D1%83%D0%B7%D0%B8%D0%BD%20%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9%20%D0%98%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87%22%20Positive%20Technologies",
+                                        "title":  "Round 2: агрегированные независимые корпоративные раскрытия по запросу \"Кузин Андрей Игорьевич\" Positive Technologies",
+                                        "fact":  "Round 2 (genuine-inconsistency follow-up): четыре независимых друг от друга и от CSV/октан.ru раскрытия корпоративных действий — Альфа-Капитал (\"Кузин Андрей Игорьевич. Принято: Да.\"), GOF Makler (\"Кузин Андрей Игорьевич ORDI Обычное\"), USC Invest (\"Кузин Андрей Игорьевич. Тип решения. ORDI Обычное.\") и раскрытие \"Приложение 24\" на 1Prime (\"Кузин Андрей Игорьевич. г. Москва. Лицо является членом Совета директоров акционерного общества.\") — единообразно указывают отчество \"Игорьевич\" применительно к члену совета директоров ПАО \"Группа Позитив\". Ни один из независимых источников варианта \"Игоревич\" для этого человека не подтвердил."
+                                    },
+                                    {
+                                        "url":  "https://disclosure.1prime.ru/Portal/GetDocument.aspx?emId=0277010898&docId=8f92352900f649a39cd320dc027ab56d",
+                                        "title":  "1Prime: список аффилированных лиц ОАО \"Гостиничный комплекс \"Россия\"\" (05.05.2014)",
+                                        "fact":  "Round 2: прямая проверка нашла отдельного, не связанного с Positive Technologies однофамильца \"Кузин Андрей Игоревич\" — члена совета директоров ОАО \"Гостиничный комплекс \"Россия\"\" (раскрытие датировано 05.05.2014, изменение от 30.04.2014). Это объясняет, почему вариант \"Игоревич\" в принципе существует в открытых источниках, но подтверждает, что он относится к другому человеку, а не к операционному директору Positive Technologies."
+                                    }
+                                ],
+                    "notes":  "Есть расхождение отчества: CSV пишет \"Игоревич\", а минимум шесть независимых источников (октан.ru НРД-раскрытия 2025/2026, а также независимо найденные в round 2 раскрытия Альфа-Капитал, GOF Makler, USC Invest и \"Приложение 24\" на 1Prime) единообразно указывают \"Игорьевич\" применительно к операционному директору Positive Technologies. Round 2 (genuine-inconsistency follow-up) также нашел отдельного однофамильца \"Кузин Андрей Игоревич\" (член СД ОАО \"Гостиничный комплекс \"Россия\"\", 2014 год) — не связанного с Positive Technologies; это объясняет происхождение варианта \"Игоревич\" в поиске, но не меняет вывод. Итог: \"Игорьевич\" — верифицированный вариант отчества для персоны из CSV/POSI; вероятная опечатка (или смешение с однофамильцем) в исходном CSV. Поле name сохранено в форме CSV для сохранения связки с исходной строкой пайплайна, по установленной в round 1 конвенции. Образование не найдено ни в round 1, ни в round 2 (fresh-запросы: \"Андрей Кузин образование\" + \"Positive Technologies операционный директор образование интервью\" — подтвержденных сведений не найдено, гэп остается открытым)."
+                },
+                {
+                    "name":  "Дмитрий Владимирович Пухов",
+                    "current_role":  "член совета директоров по CSV; открытое поименное подтверждение найдено только в post-2024 corporate actions 2025/2026, не для 2024 года.",
+                    "company_name":  "ПАО \"Группа Позитив\"",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV содержит Дмитрия Владимировича Пухова как члена совета директоров POSI."
+                                    },
+                                    {
+                                        "url":  "https://octan.ru/deponews/2025/04/29/I2943622/",
+                                        "title":  "НРД: корпоративное действие ПАО \"Группа Позитив\"",
+                                        "fact":  "Строки 144-146: post-2024 источник указывает Дмитрия Владимировича Пухова как кандидата в СД на ГОСА 2025."
+                                    },
+                                    {
+                                        "url":  "https://octan.ru/deponews/2026/05/19/I1953981/",
+                                        "title":  "НРД: итоги корпоративного действия ПАО \"Группа Позитив\"",
+                                        "fact":  "Строки 90-91: post-2024 источник указывает Дмитрия Владимировича Пухова как избранного в СД на ГОСА 2026."
+                                    },
+                                    {
+                                        "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                        "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                        "fact":  "Round 2 (genuine-inconsistency follow-up): прямая повторная проверка страницы подтвердила дословно \"Дмитрий Николаевич Пухов\" (род. 1983, МГИУ, партнер Diamond Family, независимый директор с 20 мая 2022) — отчество отличается от CSV/post-2024 \"Дмитрий Владимирович Пухов\"; независимого совпадения не найдено, решение round 1 не смешивать этих двух людей подтверждено."
+                                    }
+                                ],
+                    "notes":  "Не смешивать с Дмитрием Николаевичем Пуховым из официального отчета Positive Technologies 2022: отчество отличается, поэтому его образование и опыт не перенесены. Round 2 (genuine-inconsistency follow-up): повторно проверена страница ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice вербатим — она однозначно называет \"Дмитрий Николаевич Пухов\", это подтверждает, что round-1 решение не сливать биографии было верным; независимого источника, связывающего \"Дмитрия Владимировича\" с образованием/ранней карьерой, не найдено (round 2 fresh-запросы через Yandex: \"Дмитрий Владимирович Пухов\" Positive Technologies — нашлись только регистрационные записи ЕГРЮЛ разных однофамильцев и научная статья про другого В.Д. Васильченко/Пухова в соавторстве, отношения к POSI не подтверждено). По Дмитрию Владимировичу Пухову образование, карьера и роль в 2024 остаются неподтвержденными; гэп открыт для будущего прохода."
+                },
+                {
+                    "name":  "Даниил Александрович Рыбак",
+                    "current_role":  "член совета директоров по CSV; в официальном отчете 2022 указан как независимый директор Positive Technologies. Поименное подтверждение состава СД 2024 в доступном годовом отчете отсутствует.",
+                    "company_name":  "ПАО \"Группа Позитив\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Московский институт радиотехники, электроники и автоматики",
+                                          "program_or_field":  "прикладная математика",
+                                          "degree_or_qualification":  null,
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                                              "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                                              "fact":  "Строки 304-321: Рыбак окончил МИРЭА по специальности \"прикладная математика\"."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "Высшая школа социальных наук (EHESS), Париж",
+                                          "program_or_field":  null,
+                                          "degree_or_qualification":  null,
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                                              "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                                              "fact":  "Строки 304-321: Рыбак также окончил Высшую школу социальных наук (Париж)."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "IMD, INSEAD, Stanford GSB",
+                                          "program_or_field":  "краткосрочные программы бизнес-школ",
+                                          "degree_or_qualification":  null,
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                                              "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                                              "fact":  "Строки 304-321: Рыбак проходил краткосрочные программы IMD, INSEAD и Stanford GSB."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  null,
+                                                        "role":  "участие в создании и управлении компаниями (разработка ПО, корпоративные информационные системы, электронная коммерция); советник по инвестиционной политике в крупном системном интеграторе",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "До прихода в Odgers Berndtson (до 2001 года); конкретные названия компаний в источнике не раскрыты. Добавлено в round 2 (simple-omission desync fix): факт присутствовал в research_notes round 1, но отсутствовал в JSON.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                                                            "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                                                            "fact":  "\"До прихода в Odgers Berndtson участвовал в создании и управлении компаниями в области разработки программного обеспечения, корпоративных информационных систем, систем электронной коммерции. Занимал должность советника по инвестиционной политике в крупном системном интеграторе.\" (verbatim, round 2 повторная проверка)."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Ассоциация независимых директоров",
+                                                        "role":  "член",
+                                                        "start_year":  2015,
+                                                        "end_year":  2017,
+                                                        "description":  null,
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                                                            "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                                                            "fact":  "Строки 304-321: Рыбак был членом Ассоциации независимых директоров в 2015-2017 годах."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Odgers Berndtson",
+                                                        "role":  "партнер",
+                                                        "start_year":  2001,
+                                                        "end_year":  null,
+                                                        "description":  "Работает в сфере executive search, оценки и развития руководителей с 2001 года.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                                                            "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                                                            "fact":  "Строки 304-321: Рыбак является партнером Odgers Berndtson и с 2001 года работает в executive search, оценке и развитии руководителей."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Industrials",
+                                                        "industry_group":  "Commercial & Professional Services",
+                                                        "industry":  "Professional Services"
+                                                    },
+                                                    {
+                                                        "organization":  "Berkeley Executive Coaching Institute",
+                                                        "role":  "сертифицированный коуч руководителей высшего звена",
+                                                        "start_year":  2012,
+                                                        "end_year":  null,
+                                                        "description":  "Также сертифицирован как эксперт в Human Asset Review, LeaderFit, Hogan Assessment Systems и MBTI.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                                                            "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                                                            "fact":  "Строки 304-321: с 2012 года сертифицирован Berkeley Executive Coaching Institute и сертифицирован по нескольким оценочным методикам."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Services",
+                                                        "industry":  "Diversified Consumer Services"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV содержит Даниила Александровича Рыбака как члена совета директоров POSI."
+                                    },
+                                    {
+                                        "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                        "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                        "fact":  "Официальный отчет 2022 содержит биографию, образование и опыт Рыбака."
+                                    }
+                                ],
+                    "notes":  "Официальный источник 2022 подтверждает профиль независимого директора и образование. 2024 годовой отчет имена СД не раскрывает. Round 2: добавлена ранее пропущенная в JSON строка карьеры до Odgers Berndtson (simple-omission desync fix, факт был в research_notes round 1, но отсутствовал в JSON) — verbatim-цитата перепроверена повторным чтением ar2022.ptsecurity.com. GICS для Odgers Berndtson заполнен (Industrials/Commercial & Professional Services/Professional Services, executive search — подтверждено через odgers.com/en/about); Berkeley Executive Coaching Institute (Consumer Discretionary/Consumer Services/Diversified Consumer Services) проверен и признан корректным, без изменений."
+                },
+                {
+                    "name":  "Карина Суреновна Саркисян",
+                    "current_role":  "член совета директоров по CSV; в официальном отчете 2022 указана как независимый директор Positive Technologies. Поименное подтверждение состава СД 2024 в доступном годовом отчете отсутствует.",
+                    "company_name":  "ПАО \"Группа Позитив\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Финансовый университет при Правительстве РФ",
+                                          "program_or_field":  "международные валютно-кредитные и финансовые отношения",
+                                          "degree_or_qualification":  "магистр экономики",
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                                              "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                                              "fact":  "Строки 323-338: Саркисян имеет степень магистра экономики по специализации \"международные валютно-кредитные и финансовые отношения\" Финансового университета."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "Vienna University of Economics and Business",
+                                          "program_or_field":  "контроллинг и финансы",
+                                          "degree_or_qualification":  "MBA",
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                                              "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                                              "fact":  "Строки 323-338: Саркисян получила MBA Vienna University of Economics and Business по специализации \"контроллинг и финансы\"."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "degree":  "кандидат экономических наук",
+                                        "field":  "экономика",
+                                        "year":  null,
+                                        "sources":  [
+                                                        {
+                                                            "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                                            "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                                            "fact":  "Строки 323-338: Саркисян указана как кандидат экономических наук."
+                                                        }
+                                                    ],
+                                        "qualification_degree":  null
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Финансовый университет при Правительстве РФ",
+                                                        "role":  "преподаватель кафедры экономической безопасности и управления рисками",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Факультет экономики и бизнеса.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                                                            "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                                                            "fact":  "Строки 323-338: Саркисян преподает в Финансовом университете на кафедре экономической безопасности и управления рисками."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Ernst \u0026 Young; Deloitte \u0026 Touche CIS",
+                                                        "role":  "руководящие позиции в аудите",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Работала в компаниях большой четверки.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                                                            "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                                                            "fact":  "Строки 323-338: Саркисян занимала руководящие позиции в Ernst \u0026 Young и Deloitte \u0026 Touche CIS."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Industrials",
+                                                        "industry_group":  "Commercial & Professional Services",
+                                                        "industry":  "Professional Services"
+                                                    },
+                                                    {
+                                                        "organization":  "Роснефть",
+                                                        "role":  "заместитель директора - начальник управления внутреннего контроля",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Департамент планирования, управления эффективностью, развития инвестиций в разведке и добыче.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                                                            "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                                                            "fact":  "Строки 323-338: указана роль Саркисян в Роснефти."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Energy",
+                                                        "industry_group":  "Energy",
+                                                        "industry":  "Oil, Gas & Consumable Fuels"
+                                                    },
+                                                    {
+                                                        "organization":  "\"Перекресток\"",
+                                                        "role":  "директор по внутреннему контролю и комплаенсу",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  null,
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                                                            "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                                                            "fact":  "Строки 323-338: Саркисян была директором по внутреннему контролю и комплаенсу в \"Перекрестке\"."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Consumer Staples",
+                                                        "industry_group":  "Consumer Staples Distribution & Retail (New Name)",
+                                                        "industry":  "Consumer Staples Distribution & Retail (New Name)"
+                                                    },
+                                                    {
+                                                        "organization":  "Почта России",
+                                                        "role":  "директор по управлению рисками и внутреннему контролю",
+                                                        "start_year":  2018,
+                                                        "end_year":  null,
+                                                        "description":  null,
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                                                            "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                                                            "fact":  "Строки 323-338: с 2018 года Саркисян работает в Почте России директором по управлению рисками и внутреннему контролю."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Industrials",
+                                                        "industry_group":  "Transportation",
+                                                        "industry":  "Air Freight & Logistics"
+                                                    }
+                                                ],
+                    "research_experience":  [
+                                                {
+                                                    "organization":  "Финансовый университет при Правительстве РФ",
+                                                    "role":  "преподаватель",
+                                                    "start_year":  null,
+                                                    "end_year":  null,
+                                                    "description":  "Преподавание на кафедре экономической безопасности и управления рисками; конкретные публикации не подтверждены.",
+                                                    "sources":  [
+                                                                    {
+                                                                        "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                                                        "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                                                        "fact":  "Строки 323-338: Саркисян преподает в Финансовом университете."
+                                                                    }
+                                                                ]
+                                                }
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV содержит Карину Суреновну Саркисян как члена совета директоров POSI."
+                                    },
+                                    {
+                                        "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                        "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                        "fact":  "Официальный отчет 2022 содержит образование, ученую степень, MBA и карьеру Саркисян."
+                                    },
+                                    {
+                                        "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                                        "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                                        "fact":  "Round 2 (simple-omission desync fix, verbatim перепроверено): \"Имеет опыт внедрения требований международных бирж, включая Нью-Йоркскую, Лондонскую, Итальянскую и Гонконгскую фондовые биржи.\" Общая квалификационная деталь, не привязанная источником к одному конкретному работодателю."
+                                    }
+                                ],
+                    "notes":  "Кандидатская степень подтверждена официальным отчетом 2022, но название диссертации, публикации и h-index не найдены. 2024 годовой отчет имена СД не раскрывает. Round 2: добавлен пропущенный факт из research_notes round 1 — опыт внедрения требований NYSE/LSE/Итальянской/Гонконгской фондовых бирж, проекты по внутреннему контролю в нескольких странах (не привязан к одному работодателю, добавлен как общая квалификация в sources). GICS-гэпы закрыты (round 2, honest-gap follow-up): Ernst & Young / Deloitte & Touche CIS -> Industrials/Commercial & Professional Services/Professional Services; Роснефть -> Energy/Energy/Oil, Gas & Consumable Fuels; \"Перекресток\" -> Consumer Staples/Consumer Staples Distribution & Retail (New Name)/Consumer Staples Distribution & Retail (New Name); Почта России -> Industrials/Transportation/Air Freight & Logistics (АО, 100% в госсобственности, но ведет операционный коммерческий бизнес почтовой логистики — не министерство и не чистая холдинговая структура). Финансовый университет при Правительстве РФ (преподавание) оставлен без GICS-классификации: государственный вуз, по аналогии с некоммерческой/государственной организацией, корректно неклассифицируем."
+                },
+                {
+                    "name":  "Максим Георгиевич Филиппов",
+                    "current_role":  "заместитель генерального директора Positive Technologies; членство в СД указано в CSV, но для 2024 не подтверждено открытым поименным источником.",
+                    "company_name":  "ПАО \"Группа Позитив\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Национальный исследовательский университет «МИЭТ»",
+                                          "program_or_field":  "Вычислительные машины, комплексы, системы и сети",
+                                          "degree_or_qualification":  null,
+                                          "year":  1997,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.anti-malware.ru/interviews/2021-11-22/37541",
+                                                              "title":  "Anti-Malware.ru: интервью с Максимом Филипповым",
+                                                              "fact":  "Round 2 (honest-gap follow-up): \"Moscow State Institute of Electronic Technology (1997) — specialty: 'Computing machines, complexes, systems and networks'\" (МИЭТ, окончен в 1997 году)."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "Международный институт бизнес-образования",
+                                          "program_or_field":  "Менеджмент",
+                                          "degree_or_qualification":  null,
+                                          "year":  2002,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.anti-malware.ru/interviews/2021-11-22/37541",
+                                                              "title":  "Anti-Malware.ru: интервью с Максимом Филипповым",
+                                                              "fact":  "Round 2 (honest-gap follow-up): \"International Business Education Institute (2002) — specialty: 'Management'\"."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ЭЛВИС-ПЛЮС",
+                                                        "role":  "от менеджера проектов до заместителя генерального директора по коммерческой деятельности",
+                                                        "start_year":  null,
+                                                        "end_year":  2014,
+                                                        "description":  "Работал 15 лет, до перехода в Positive Technologies в 2014 году. Найдено в round 2 (honest-gap follow-up).",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.anti-malware.ru/interviews/2021-11-22/37541",
+                                                                            "title":  "Anti-Malware.ru: интервью с Максимом Филипповым",
+                                                                            "fact":  "\"Worked at ELVIS-PLUS for 15 years, progressing from project manager to deputy general director for commercial activities\"."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Information Technology",
+                                                        "industry_group":  "Software & Services",
+                                                        "industry":  "Software"
+                                                    },
+                                                    {
+                                                        "organization":  "Positive Technologies",
+                                                        "role":  "директор по развитию бизнеса в России",
+                                                        "start_year":  2014,
+                                                        "end_year":  null,
+                                                        "description":  "Первая роль в Positive Technologies (до последующего назначения заместителем генерального директора). Найдено в round 2 (honest-gap follow-up).",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.anti-malware.ru/interviews/2021-11-22/37541",
+                                                                            "title":  "Anti-Malware.ru: интервью с Максимом Филипповым",
+                                                                            "fact":  "\"Since 2014: Director of Business Development at Positive Technologies in Russia\"."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Information Technology",
+                                                        "industry_group":  "Software & Services",
+                                                        "industry":  "Software"
+                                                    },
+                                                    {
+                                                        "organization":  "Positive Technologies",
+                                                        "role":  "заместитель генерального директора",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "В обращении CEO в годовом отчете 2024 указано, что Максим Филиппов вновь возьмет ответственность за продажи на всех рынках присутствия компании, включая российский периметр.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "MOEXBMI_Отчеты_2024/POSI/Годовой отчет ПАО Группа Позитив_раскрытие.pdf",
+                                                                            "title":  "Годовой отчет ПАО \"Группа Позитив\" за 2024 год",
+                                                                            "fact":  "Страницы 35-36: Максим Филиппов назван заместителем генерального директора и связан с ответственностью за продажи."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Information Technology",
+                                                        "industry_group":  "Software \u0026 Services",
+                                                        "industry":  "Software"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV содержит Максима Георгиевича Филиппова как члена совета директоров POSI."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/POSI/Годовой отчет ПАО Группа Позитив_раскрытие.pdf",
+                                        "title":  "Годовой отчет ПАО \"Группа Позитив\" за 2024 год",
+                                        "fact":  "Страницы 35-36 подтверждают роль заместителя генерального директора."
+                                    },
+                                    {
+                                        "url":  "https://octan.ru/deponews/2026/05/19/I1953981/",
+                                        "title":  "НРД: итоги корпоративного действия ПАО \"Группа Позитив\"",
+                                        "fact":  "Строки 99-100: Филиппов избран в совет директоров на ГОСА 2026; post-2024 источник не использован для подтверждения состава 2024."
+                                    },
+                                    {
+                                        "url":  "https://www.anti-malware.ru/interviews/2021-11-22/37541",
+                                        "title":  "Anti-Malware.ru: интервью с Максимом Филипповым",
+                                        "fact":  "Round 2 (honest-gap follow-up): свежий запрос \"anti-malware.ru Максим Филиппов SIEM\" нашел интервью 2021 года с биографическим вступлением — образование (МИЭТ 1997, МИБО 2002) и карьера до Positive Technologies (ЭЛВИС-ПЛЮС 15 лет, переход в PT в 2014 году директором по развитию бизнеса)."
+                                    }
+                                ],
+                    "notes":  "Образование и ранняя карьера найдены в round 2 (honest-gap follow-up): свежие запросы, не пробовавшиеся в round 1 (\"anti-malware.ru Максим Филиппов SIEM\", после первичного наведения через сниппет tadviser.ru про МИЭТ, который сам по себе не открылся — 404 при прямой проверке) вывели на интервью anti-malware.ru (2021-11-22) с полным биографическим вступлением: МИЭТ (1997, специальность \"Вычислительные машины, комплексы, системы и сети\"), Международный институт бизнес-образования (2002, \"Менеджмент\"), 15 лет в ЭЛВИС-ПЛЮС (от менеджера проектов до зам. гендиректора по коммерции), с 2014 года — директор по развитию бизнеса в Positive Technologies (позже — заместитель генерального директора). В 2025 списке кандидатов Филиппова нет, а в 2026 он избран в СД; поэтому CSV, вероятно, отражает более поздний состав."
+                }
+            ],
+    "board_sources":  [
+                          {
+                              "url":  "MOEXBMI_2024.csv",
+                              "title":  "MOEXBMI_2024.csv",
+                              "fact":  "CSV contains predefined company people and positions used as pipeline input."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/POSI/Годовой отчет ПАО Группа Позитив_раскрытие.pdf",
+                              "title":  "Годовой отчет ПАО \"Группа Позитив\" за 2024 год",
+                              "fact":  "Страница 189: текущий состав Совета директоров из девяти членов был избран 14 мая 2024 года и действует до следующего годового Общего собрания акционеров; имена членов СД публично не раскрыты."
+                          },
+                          {
+                              "url":  "https://ar2024.ptsecurity.com/corporate-governance",
+                              "title":  "Positive Technologies Annual Report 2024: Corporate Governance",
+                              "fact":  "Официальный веб-отчет 2024 подтверждает структуру СД из девяти членов и ограничения раскрытия поименного состава."
+                          },
+                          {
+                              "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                              "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                              "fact":  "Официальный отчет 2022 раскрывает биографии и членство в совете директоров для Баранова, Андреева, Киреева, Рыбака и Саркисян; для Пухова раскрыт Дмитрий Николаевич, поэтому он не смешан с Дмитрием Владимировичем из CSV."
+                          },
+                          {
+                              "url":  "https://octan.ru/deponews/2025/04/29/I2943622/",
+                              "title":  "НРД: корпоративное действие ПАО \"Группа Позитив\" 2025",
+                              "fact":  "Post-2024 список кандидатов 2025 включает Андреева, Баранова, Киреева, Кузина Игорьевича, Пухова Владимировича, Рыбака, Саркисян, но не включает Кораблева и Филиппова; источник не переносится на 2024."
+                          },
+                          {
+                              "url":  "https://octan.ru/deponews/2026/05/19/I1953981/",
+                              "title":  "НРД: итоги корпоративного действия ПАО \"Группа Позитив\" 2026",
+                              "fact":  "Post-2024 итоги ГОСА 2026 почти полностью совпадают с CSV: Андреев, Баранов, Киреев, Кораблев, Кузин Игорьевич, Пухов Владимирович, Рыбак, Саркисян, Филиппов; источник не переносится на 2024."
+                          }
+                      ],
+    "sources":  [
+                    {
+                        "url":  "MOEXBMI_2024.csv",
+                        "title":  "MOEXBMI_2024.csv",
+                        "fact":  "Строки 635-644 содержат 10 записей POSI, из них 9 уникальных людей; Денис Баранов встречается как CEO и член СД."
+                    },
+                    {
+                        "url":  "MOEXBMI_Отчеты_2024/POSI/Годовой отчет ПАО Группа Позитив_раскрытие.pdf",
+                        "title":  "Годовой отчет ПАО \"Группа Позитив\" за 2024 год",
+                        "fact":  "Локальный годовой отчет проверен по разделам стратегии, продуктов, устойчивого развития и корпоративного управления; содержит биографию CEO и отдельные упоминания Кораблева и Филиппова."
+                    },
+                    {
+                        "url":  "MOEXBMI_Отчеты_2024/POSI/АЗ и Отчетность МСФО 2024_перевыпуск_1012_pass.pdf",
+                        "title":  "Раскрываемая консолидированная финансовая отчетность ПАО \"Группа Позитив\" за 2024 год",
+                        "fact":  "Проверена по управленческим терминам и ФИО; персональных биографий не содержит."
+                    },
+                    {
+                        "url":  "https://ar2024.ptsecurity.com/corporate-governance",
+                        "title":  "Positive Technologies Annual Report 2024: Corporate Governance",
+                        "fact":  "Официальная веб-версия подтверждает локальный годовой отчет 2024."
+                    },
+                    {
+                        "url":  "https://ar2022.ptsecurity.com/corporate-governance/governing-bodies/advice",
+                        "title":  "Positive Technologies Annual Report 2022: Board of Directors",
+                        "fact":  "Официальный отчет 2022 использован для биографий людей, чьи ФИО однозначно совпадают с CSV."
+                    },
+                    {
+                        "url":  "https://www.interfax.ru/business/932980",
+                        "title":  "Positive Technologies ожидает увеличения доли зарубежных продаж до 20% в 2025 году",
+                        "fact":  "Независимый деловой источник подтверждает роли Дениса Баранова и Андрея Кузина в 2023 году."
+                    },
+                    {
+                        "url":  "https://www.tadviser.ru/index.php/Компания:Positive_Technologies_(Позитив_Текнолоджиз)",
+                        "title":  "TAdviser: Positive Technologies",
+                        "fact":  "Вспомогательный источник для топ-менеджмента и корпоративного контекста; использован с оговоркой."
+                    }
+                ],
+    "validation_notes":  "Обработано 10 CSV-строк POSI и 9 уникальных людей; Денис Баранов объединен из двух строк. Проверено 2 локальных PDF из папки MOEXBMI_Отчеты_2024/POSI. Выполнен 1 research round по каждому уникальному человеку, всего 9 notes-файлов. Годовой отчет 2024 подтверждает CEO, структуру СД из 9 членов и отдельные роли Кораблева/Филиппова, но ограничивает поименное раскрытие состава СД. CSV, вероятно, соответствует более позднему составу СД 2026: это подтверждается тем, что Кораблев и Филиппов есть в итогах 2026, но отсутствуют в списке кандидатов 2025. Люди без подтвержденного образования (после round 2): Денис Кораблев, Андрей Кузин, Дмитрий Владимирович Пухов. Слабые/post-2024 источники использованы только для disambiguation и не перенесены на 2024 год. Конфликты: Кузин в CSV указан как Игоревич, а corporate actions 2025/2026 как Игорьевич; Дмитрий Владимирович Пухов из CSV не смешан с Дмитрием Николаевичем Пуховым из отчета 2022. Однофамильцы без связи с Positive Technologies исключены. Поиск считается завершенным условно: локальные документы проверены, официальные отчеты и разные классы источников изучены, но по ряду людей публичная биография отсутствует или раскрыта только после 2024 года. ROUND 2 (quality pass, 2026-07-31): STEP 0 подтвердил, что on-disk файл идентичен git HEAD (f973022) — регрессии не было, восстановление не потребовалось. Простые desync-фиксы (факт был в research_notes round 1, но отсутствовал в JSON): год окончания ИТМО Барановым (2008, TAdviser); карьера Рыбака до Odgers Berndtson (verbatim перепроверено на ar2022.ptsecurity.com); опыт Саркисян по требованиям NYSE/LSE/Итальянской/Гонконгской бирж (verbatim перепроверено). Genuine-inconsistency расследования: (1) отчество Кузина — доп. независимые раскрытия (Альфа-Капитал, GOF Makler, USC Invest, 1Prime) подтвердили \"Игорьевич\" для персоны POSI и отдельно нашли не связанного однофамильца \"Игоревич\" (Гостиничный комплекс Россия, 2014) — объясняет происхождение варианта в CSV, но не меняет вывод; name-поле сохранено как в CSV по конвенции round 1, конфликт задокументирован подробнее. (2) Пухов — повторная verbatim-проверка ar2022.ptsecurity.com подтвердила \"Дмитрий Николаевич\", решение round 1 не смешивать биографии подтверждено, конфликт остается нерешенным по существу. GICS-коррекции (item 2): Golden Telecom (Киреев) исправлен с ошибочного Materials/Materials/Metals & Mining на Communication Services/Telecommunication Services/Diversified Telecommunication Services (диверсифицированный оператор фиксированной+беспроводной связи, подтверждено Wikipedia). Berkeley Executive Coaching Institute (Рыбак) проверен и признан корректным без изменений. GICS honest-gap follow-up (item 3, все подтверждены свежими фетчами/поиском в round 2): T-Systems и Actimind -> IT Services; \"Новел-ИЛ\" -> Technology Hardware & Equipment/Communications Equipment (производитель телеком-оборудования, не софт); Acronis -> Software; \"Агама\" -> Software, \"Апорт\" -> Interactive Media & Services (поисковик эпохи 1996-2000); Odgers Berndtson -> Professional Services; Ernst & Young/Deloitte & Touche CIS -> Professional Services; Роснефть -> Oil, Gas & Consumable Fuels; \"Перекресток\" -> Consumer Staples Distribution & Retail (New Name); Почта России -> Air Freight & Logistics (АО, ведет операционный коммерческий бизнес, не министерство). Финансовый университет при Правительстве РФ (Саркисян, преподавание) сознательно оставлен без GICS — государственный вуз, корректно неклассифицируемый по аналогии с гос./некоммерческой организацией. Honest-gap образование: Филиппов найден и добавлен (МИЭТ 1997, МИБО 2002, карьера ЭЛВИС-ПЛЮС->PT 2014, источник anti-malware.ru) через свежие запросы, не пробовавшиеся в round 1; Кораблев — карьера Deutsche Bank/Skype/дата прихода в PT (2017) найдена и добавлена (highload.ru), но образование (сниппет намекал на Нижегородский госуниверситет) не подтверждено verbatim (TAdviser 404) и осталось null; Кузин и Пухов В.В. — образование по-прежнему не найдено после свежих запросов, гэпы задокументированы как нерешенные в research_notes/POSI/quality_pass_round1_20260731.md. WebSearch budget сессии был исчерпан другими подагентами до начала работы над POSI; весь round 2 research выполнен через WebFetch (прямые URL + Yandex/Bing search result pages), без использования WebSearch tool.",
+    "sector":  "Information Technology",
+    "industry_group":  "Software \u0026 Services",
+    "industry":  "Software"
+}

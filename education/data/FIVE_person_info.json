@@ -1,0 +1,670 @@
+{
+  "company_name": "ПАО «Корпоративный центр ИКС 5» / X5 Group; CSV company: Икс 5 Ритейл Груп Н.В.",
+  "company_ticker": "FIVE",
+  "ceo": {
+    "name": "Шехтерман Игорь Владимирович",
+    "current_role": "Генеральный директор ПАО «Корпоративный центр ИКС 5» in the 2024 reporting context; CEO / Chief Executive Officer of X5 Group.",
+    "company_name": "ПАО «Корпоративный центр ИКС 5» / X5 Group",
+    "education": [
+      {
+        "institution": "Калининградский государственный технический университет",
+        "field": "Economics",
+        "year": 1992,
+        "description": "Local annual report and official issuer report describe a bachelor's degree in economics.",
+        "qualification_degree": "Bachelor's degree"
+      },
+      {
+        "institution": "Institute d'Administration des Enterprises",
+        "field": "General management and financial management",
+        "year": 1994,
+        "description": "Local annual report and official issuer report describe a degree in general management and financial management. Quality-pass round 1 (2026-07-30): the local annual report's own text (page 163) lists this entry under the \"Высшее\" (Higher Education) section header, together with the confirmed Kaliningrad bachelor's degree, and uses the same word \"степень\" (degree) for both -- this weighs against ru.wikipedia.org's framing of this credential as \"дополнительное образование\" (supplementary/executive education, found in round 3) and toward TheOrg.com's \"degree\" framing (also round 3). However, no source states an explicit degree level (bachelor's/master's/MBA), so qualification_degree remains null rather than guessed; this is the conservative resolution of a genuine two-source conflict, not an unexamined gap.",
+        "qualification_degree": null
+      },
+      {
+        "institution": "Danish Management School",
+        "field": "General management and financial management",
+        "year": 1995,
+        "description": "Local annual report and official issuer report describe a degree in general management and financial management. Quality-pass round 1 (2026-07-30): the local annual report's own text (page 163) lists this entry under the \"Высшее\" (Higher Education) section header, together with the confirmed Kaliningrad bachelor's degree, and uses the same word \"степень\" (degree) for both -- this weighs against ru.wikipedia.org's framing of this credential as \"дополнительное образование\" (supplementary/executive education, found in round 3) and toward TheOrg.com's \"degree\" framing (also round 3). However, no source states an explicit degree level (bachelor's/master's/MBA), so qualification_degree remains null rather than guessed; this is the conservative resolution of a genuine two-source conflict, not an unexamined gap.",
+        "qualification_degree": null
+      }
+    ],
+    "degrees": [
+      {
+        "degree": "Bachelor's degree in economics",
+        "institution": "Калининградский государственный технический университет",
+        "year": 1992,
+        "description": "Confirmed by local annual report and official issuer report.",
+        "qualification_degree": "Bachelor's degree"
+      },
+      {
+        "degree": "Degree in general management and financial management",
+        "institution": "Institute d'Administration des Enterprises",
+        "year": 1994,
+        "description": "Confirmed by local annual report and official issuer report. Quality-pass round 1 (2026-07-30): the local annual report's own text (page 163) lists this entry under the \"Высшее\" (Higher Education) section header, together with the confirmed Kaliningrad bachelor's degree, and uses the same word \"степень\" (degree) for both -- this weighs against ru.wikipedia.org's framing of this credential as \"дополнительное образование\" (supplementary/executive education, found in round 3) and toward TheOrg.com's \"degree\" framing (also round 3). However, no source states an explicit degree level (bachelor's/master's/MBA), so qualification_degree remains null rather than guessed; this is the conservative resolution of a genuine two-source conflict, not an unexamined gap.",
+        "qualification_degree": null
+      },
+      {
+        "degree": "Degree in general management and financial management",
+        "institution": "Danish Management School",
+        "year": 1995,
+        "description": "Confirmed by local annual report and official issuer report. Quality-pass round 1 (2026-07-30): the local annual report's own text (page 163) lists this entry under the \"Высшее\" (Higher Education) section header, together with the confirmed Kaliningrad bachelor's degree, and uses the same word \"степень\" (degree) for both -- this weighs against ru.wikipedia.org's framing of this credential as \"дополнительное образование\" (supplementary/executive education, found in round 3) and toward TheOrg.com's \"degree\" framing (also round 3). However, no source states an explicit degree level (bachelor's/master's/MBA), so qualification_degree remains null rather than guessed; this is the conservative resolution of a genuine two-source conflict, not an unexamined gap.",
+        "qualification_degree": null
+      }
+    ],
+    "professional_experience": [
+      {
+        "organization": "ПАО «Корпоративный центр ИКС 5»",
+        "role": "Генеральный директор",
+        "start_year": 2024,
+        "end_year": null,
+        "description": "Local annual report says he was elected General Director for the Russian public company from 01.07.2024.",
+        "sector": "Consumer Staples",
+        "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+        "industry": "Consumer Staples Distribution & Retail (New Name)"
+      },
+      {
+        "organization": "X5 Retail Group N.V.",
+        "role": "Chief Executive Officer / member of Management Board",
+        "start_year": 2015,
+        "end_year": 2024,
+        "description": "Local annual report and X5 releases confirm CEO role before the Russian public-company transition.",
+        "sector": "Consumer Staples",
+        "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+        "industry": "Consumer Staples Distribution & Retail (New Name)"
+      },
+      {
+        "organization": "X5 Retail Group N.V.",
+        "role": "Member of Supervisory Board",
+        "start_year": 2013,
+        "end_year": 2015,
+        "description": "X5 official 2015 release and Retail.ru state that he served on the Supervisory Board from 2013 before becoming CEO.",
+        "sector": "Consumer Staples",
+        "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+        "industry": "Consumer Staples Distribution & Retail (New Name)"
+      },
+      {
+        "organization": "RosExpert",
+        "role": "Co-founder, managing partner / CEO",
+        "start_year": 1996,
+        "end_year": 2015,
+        "description": "X5 official 2015 release and Retail.ru state he co-founded RosExpert, which became the Russian alliance partner of Korn Ferry International.",
+        "sector": "Industrials",
+        "industry_group": "Commercial & Professional Services",
+        "industry": "Professional Services"
+      },
+      {
+        "organization": "Контакт",
+        "role": null,
+        "start_year": 1994,
+        "end_year": 1996,
+        "description": "Retail.ru states that he worked at the recruitment agency Kontakt.",
+        "sector": "Industrials",
+        "industry_group": "Commercial & Professional Services",
+        "industry": "Professional Services"
+      },
+      {
+        "organization": "Beoluna Russian office",
+        "role": "Finance manager",
+        "start_year": 1992,
+        "end_year": 1994,
+        "description": "X5 official 2015 release and Retail.ru describe his early role at the Russian office of Japanese jewellery producer Beoluna.",
+        "sector": "Consumer Discretionary",
+        "industry_group": "Consumer Durables & Apparel",
+        "industry": "Textiles, Apparel & Luxury Goods"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_Отчеты_2024/FIVE/Годовой отчет 2024 Икс 5.pdf",
+        "title": "Годовой отчет 2024 Икс 5",
+        "fact": "Pages 21, 153-163, 193-197 and 354-356 confirm the 2024 X5 governance context, Shekhterman's CEO role, education, election from 01.07.2024 and financial-statement signatures."
+      },
+      {
+        "url": "https://www.x5.ru/wp-content/uploads/2025/11/oeczb_kcz_12m2024_raskrytyj_korr.-12.11.25.pdf",
+        "title": "Отчет эмитента эмиссионных ценных бумаг ПАО «Корпоративный центр ИКС 5» за 12 месяцев 2024 г.",
+        "fact": "Page 36 repeats Shekhterman's 1970 birth year, education and General Director role in the 2024 issuer-report context."
+      },
+      {
+        "url": "https://www.x5.ru/ru/news/x5-retail-group-obyavlyaet-o-rezultatah-vneochered/",
+        "title": "X5 Retail Group announces results of EGM",
+        "fact": "Official 2015 X5 release confirms birth date, RosExpert/Korn Ferry and Beoluna experience, X5 supervisory board service and appointment as CEO."
+      },
+      {
+        "url": "https://www.retail.ru/persons/shekhterman-igor/",
+        "title": "Retail.ru: Шехтерман Игорь",
+        "fact": "Retail.ru confirms education and career path through Beoluna, Kontakt, RosExpert, X5 Supervisory Board and CEO role."
+      }
+    ],
+    "notes": "No confirmed scientific publications, patents, research roles or h-index were found. CSV company name reflects the pre-2024 Dutch X5 Retail Group N.V.; local 2024 documents identify ПАО «Корпоративный центр ИКС 5» after the 01.07.2024 transformation."
+  },
+  "tmt": [
+    {
+      "name": "Лобачева Екатерина Владимировна",
+      "current_role": "Президент ПАО «Корпоративный центр ИКС 5» in the 2024 reporting context.",
+      "company_name": "ПАО «Корпоративный центр ИКС 5» / X5 Group",
+      "education": [
+        {
+          "institution": "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+          "field": "Jurisprudence",
+          "year": 2005,
+          "description": "Local annual report lists higher education in Jurisprudence.",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Российский экономический университет имени Г.В. Плеханова",
+          "field": "Finance and Credit",
+          "year": 2013,
+          "description": "Local annual report and Delovaya Rossiya biography confirm this education.",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "IMD Business School",
+          "field": "Corporate Executive MBA programme",
+          "year": 2021,
+          "description": "Local annual report and Delovaya Rossiya biography state that she completed the IMD corporate Executive MBA programme.",
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Specialty/degree in Jurisprudence",
+          "institution": "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+          "year": 2005,
+          "description": "Confirmed by local annual report.",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "degree": "Specialty/degree in Finance and Credit",
+          "institution": "Российский экономический университет имени Г.В. Плеханова",
+          "year": 2013,
+          "description": "Confirmed by local annual report and Delovaya Rossiya.",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "degree": "Executive MBA",
+          "institution": "IMD Business School",
+          "year": 2021,
+          "description": "Described by sources as a corporate Executive MBA programme.",
+          "qualification_degree": "MBA"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Корпоративный центр ИКС 5»",
+          "role": "Президент",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Local annual report says she was elected President from 01.07.2024.",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "X5 Retail Group N.V.",
+          "role": "President; Management Board member",
+          "start_year": 2022,
+          "end_year": 2024,
+          "description": "Local annual report and official X5 release confirm the president role before the Russian public-company transition.",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "X5 Retail Group / X5 Group",
+          "role": "Board Member; Director of Government Relations and Legal Affairs",
+          "start_year": 2020,
+          "end_year": 2022,
+          "description": "X5 archive, Interfax and Kommersant describe her joining X5 in 2016/2017 and later serving as director for legal affairs and government relations. Round 3: clarified via two new sources rather than a true contradiction. rea.ru (Plekhanov own alumni profile) states that in 2016 Ekaterina Lobacheva joined X5 Group, while legalinsight.ru interview states that in March 2017 she was formally appointed director of legal support for business at X5 Retail Group. These are read as two different milestones -- joining the company in 2016 and being formally appointed to the specific director title in March 2017 -- rather than a genuine date conflict; start_year 2016 is kept as the entry join year.",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "X5 Retail Group / X5 Group",
+          "role": "Director of Business Support",
+          "start_year": 2016,
+          "end_year": 2020,
+          "description": "X5 archive, Interfax and the original Kommersant report (doc/5259382) already established she joined X5 in the 2016/2017 window in a legal/government-relations capacity. This round, Kommersant (doc/8312256) and Forbes Congress (fcongress.forbes.ru/spikeryi/lobacheva-ekaterina) both independently give a more precise breakdown: 2016-2020 as Director of Business Support, followed by a separate 2020-2022 role (see next entry). Both new sources agree with each other on this split.",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "ООО «ЕвразХолдинг»",
+          "role": "Director/head of corporate and property relations and related legal leadership roles",
+          "start_year": 2011,
+          "end_year": 2016,
+          "description": "Kommersant, Interfax and X5 annual-report archive confirm senior roles at EvrazHolding.",
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "МДМ Банк",
+          "role": "Board apparatus / corporate secretary leadership context",
+          "start_year": 2008,
+          "end_year": 2011,
+          "description": "Kommersant and speaker biographies confirm MDM Bank experience.",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "ООО «Арсана-2000»",
+          "role": "Head of Legal Department",
+          "start_year": 2005,
+          "end_year": 2008,
+          "description": "Retail.ru, rea.ru (Plekhanov University alumni profile) and a TAdviser persona page (search-snippet corroboration only, page itself returns HTTP 404 on direct fetch) independently and consistently state that immediately before MDM Bank (2008-2011), Lobacheva headed the legal department of general building contractor Arsana-2000. Registry check via rusprofile.ru confirms OOO Arsana-2000, OGRN 1037700147484, INN 7726280008, OKVED 45.21.1 (general building construction), liquidated 2013. This occupies the same chronological slot as the separately-named \"Investment Construction Holding\" employer from Kommersant/Interfax, but no source equates the two by name, so they are kept as separate entries rather than merged (documented in round 3 notes).",
+          "sector": "Industrials",
+          "industry_group": "Capital Goods",
+          "industry": "Construction & Engineering"
+        },
+        {
+          "organization": "Министерство имущественных отношений Российской Федерации",
+          "role": "Советник / Advisor",
+          "start_year": 2003,
+          "end_year": 2005,
+          "description": "New this round (quality-pass round 1, 2026-07-30): Kommersant (kommersant.ru/doc/8312256) confirms Lobacheva worked as an advisor at the Ministry of Property Relations of the Russian Federation but gives no dates for that role; Forbes Congress speaker biography (fcongress.forbes.ru/spikeryi/lobacheva-ekaterina), fetched independently, gives the same role with exact dates, 2003 to 2005, immediately before Arsana-2000 and before completing her 2005 RANEPA-branch law degree. Round 3 notes had flagged a single-source, undated version of this fact (from rea.ru) as too thin to add; this round independently confirmed the role via two additional sources, one of which (Forbes Congress) supplied the specific dates. A federal government ministry is not a commercial GICS-classifiable entity, so sector/industry_group/industry are intentionally left null, consistent with the project's non-classifiable-government-body rule.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Инвестиционный строительный холдинг",
+          "role": null,
+          "start_year": null,
+          "end_year": null,
+          "description": "Kommersant and Interfax list this as an earlier employer; exact dates and role were not confirmed. Reconfirmed dead end after a further bounded attempt in quality-pass round 1 (2026-07-30): fresh queries for \"Investment Construction Holding\"/\"инвестиционно-строительный холдинг\" plus Lobacheva's name returned only the same generic employer mention, no specific legal entity. The chronological slot immediately before MDM Bank is now well-covered by the separately-sourced Arsana-2000 (2005-2008) and Ministry of Property Relations (2003-2005) entries above, but no source equates either of them with this label by name, so this entry is kept separate and still null rather than merged or guessed.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/FIVE/Годовой отчет 2024 Икс 5.pdf",
+          "title": "Годовой отчет 2024 Икс 5",
+          "fact": "Pages 21, 154, 163 and 354-356 confirm Lobacheva's President role, education, 2024 election and related-party context."
+        },
+        {
+          "url": "https://www.x5.ru/wp-content/uploads/2025/11/oeczb_kcz_12m2024_raskrytyj_korr.-12.11.25.pdf",
+          "title": "Отчет эмитента ПАО «Корпоративный центр ИКС 5» за 12 месяцев 2024 г.",
+          "fact": "Official issuer report repeats Lobacheva's 2024 President role and education."
+        },
+        {
+          "url": "https://www.interfax.ru/business/829532",
+          "title": "Интерфакс: Х5 ввела должность президента и назначила на нее директора по правовым вопросам",
+          "fact": "Interfax confirms the creation of X5 president role in 2022, Lobacheva's previous legal/government relations role and previous employers."
+        },
+        {
+          "url": "https://www.kommersant.ru/doc/5259382",
+          "title": "Коммерсантъ: X5 Group ввела должность президента компании",
+          "fact": "Kommersant confirms X5 employment and previous employers EvrazHolding, MDM Bank and Investment Construction Holding."
+        },
+        {
+          "url": "https://deloros.ru/litsa/lobacheva-ekaterina-vladimirovna/",
+          "title": "Деловая Россия: Лобачева Екатерина Владимировна",
+          "fact": "Biography confirms education in 2005, 2013 and 2021."
+        },
+        {
+          "url": "https://www.retail.ru/persons/lobacheva-ekaterina/",
+          "title": "Retail.ru: Лобачева Екатерина",
+          "fact": "Dedicated Lobacheva biography page with a dated career timeline; independently confirms the Arsana-2000 (2005-2008) role."
+        },
+        {
+          "url": "https://www.rea.ru/news/65823-120-izvestnyih-vyipusknikov-ekaterina-lobachva-prezident-x5-group",
+          "title": "РЭУ им. Г.В. Плеханова: 120 известных выпускников — Екатерина Лобачева",
+          "fact": "Plekhanov University's own alumni profile; frames the 2013 Finance-and-Credit credential as a second-higher-education specialty and mentions the Arsana-2000 and Ministry of Property Relations early-career roles."
+        },
+        {
+          "url": "https://legalinsight.ru/news/riteyl-eto-ochen-tehnologichnyy-biznes-intervyu-s-ekaterinoy-lobachevoy-2/",
+          "title": "Legal Insight: интервью с Екатериной Лобачевой",
+          "fact": "Confirms March 2017 as her formal appointment to the director-of-legal-support title at X5, clarifying the 2016-vs-2017 joining-date wording (read as two separate milestones, not a contradiction)."
+        },
+        {
+          "url": "https://www.rusprofile.ru/id/2037483",
+          "title": "Rusprofile: ООО «Арсана-2000»",
+          "fact": "Company registry profile confirming Arsana-2000's OGRN, OKVED 45.21.1 (general building construction) and 2013 liquidation, used to support the Construction & Engineering GICS classification."
+        },
+        {
+          "url": "https://www.kommersant.ru/doc/8312256",
+          "title": "Коммерсантъ: Екатерина Лобачева возглавляет X5 Group — карьерный путь и текущие задачи",
+          "fact": "Confirms an advisor role at the Ministry of Property Relations (this article itself gives no dates for that role -- the 2003-2005 dates come from the Forbes Congress source below) and gives a precise 2016-2020 (Director of Business Support) / 2020-2022 (Director of Government Relations and Legal Affairs) split of her pre-president X5 tenure."
+        },
+        {
+          "url": "https://fcongress.forbes.ru/spikeryi/lobacheva-ekaterina",
+          "title": "Forbes Congress: Лобачева Екатерина",
+          "fact": "Independently confirms the same 2003-2005 Ministry of Property Relations dates and the same 2016-2020/2020-2022 X5 role split as the Kommersant source."
+        }
+      ],
+      "notes": "No confirmed scientific publications, patents, research roles or h-index were found. Sources differ slightly on 2016 vs 2017 X5 joining date; the broader 2016/2017 wording is retained in notes."
+    },
+    {
+      "name": "Ворона Иван Николаевич",
+      "current_role": "Руководитель подразделения внутреннего аудита / Director of Internal Audit, X5 Group, in the 2024 issuer-report and CSV context.",
+      "company_name": "ПАО «Корпоративный центр ИКС 5» / X5 Group",
+      "education": [
+        {
+          "institution": "University of Maryland University College",
+          "field": "Business and Management",
+          "year": 1997,
+          "description": "TopTrening biography lists bachelor's education in business and management.",
+          "qualification_degree": "Bachelor's degree"
+        },
+        {
+          "institution": "Дальневосточный федеральный университет",
+          "field": "World Economy",
+          "year": 1998,
+          "description": "TopTrening biography lists specialist education in world economy.",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "University of Chicago Booth School of Business",
+          "field": "Executive MBA",
+          "year": 2009,
+          "description": "TopTrening and IIA education center pages list e-MBA / Executive MBA from Booth.",
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Bachelor's degree",
+          "institution": "University of Maryland University College",
+          "year": 1997,
+          "description": "Field: business and management; confirmed by TopTrening.",
+          "qualification_degree": "Bachelor's degree"
+        },
+        {
+          "degree": "Specialist degree",
+          "institution": "Дальневосточный федеральный университет",
+          "year": 1998,
+          "description": "Field: world economy; confirmed by TopTrening.",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "degree": "Executive MBA",
+          "institution": "University of Chicago Booth School of Business",
+          "year": 2009,
+          "description": "Confirmed by TopTrening and IIA education center.",
+          "qualification_degree": "MBA"
+        },
+        {
+          "degree": "Certified Internal Auditor (CIA)",
+          "institution": null,
+          "year": null,
+          "description": "Professional certification confirmed by IIA education center; not treated as an academic degree.",
+          "qualification_degree": "Professional certification"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "X5 Group / X5 Retail Group",
+          "role": "Director of Internal Audit",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "Professional biographies state he returned to X5 in May 2015 and is director of internal audit.",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "BearingPoint Russia & CIS",
+          "role": "Leadership roles in consulting",
+          "start_year": 2013,
+          "end_year": 2015,
+          "description": "TopTrening says he worked for two years in senior roles at BearingPoint Russia & CIS before returning to X5 in May 2015.",
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "PwC / PricewaterhouseCoopers, Coca-Cola, Cargill",
+          "role": "External and internal audit roles",
+          "start_year": null,
+          "end_year": null,
+          "description": "IIA and TopTrening biographies confirm experience in external/internal audit at these companies; exact dates were not public.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "AlfaStrakhovanie group and Rosvodokanal group",
+          "role": "Audit committee member",
+          "start_year": null,
+          "end_year": null,
+          "description": "IIA education center page states he is a member of audit committees of these groups.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/FIVE/Годовой отчет 2024 Икс 5.pdf",
+          "title": "Годовой отчет 2024 Икс 5",
+          "fact": "Pages 154-155 and 159-166 confirm the 2024 internal-audit governance context and appointment of the internal-audit director, but do not name Vorona directly."
+        },
+        {
+          "url": "https://www.x5.ru/wp-content/uploads/2025/11/oeczb_kcz_12m2024_raskrytyj_korr.-12.11.25.pdf",
+          "title": "Отчет эмитента ПАО «Корпоративный центр ИКС 5» за 12 месяцев 2024 г.",
+          "fact": "Official issuer report section 2.4 identifies the internal-audit function and responsible person in the 2024 reporting context."
+        },
+        {
+          "url": "https://www.iva-edu.ru/event/trening/auditmenegment_vorona/",
+          "title": "Учебный центр ИВА: Ворона Иван Николаевич",
+          "fact": "Identifies Ivan Vorona as e-MBA (Booth), CIA, director of internal audit X5, audit committee member, and former PwC/Coca-Cola/Cargill auditor."
+        },
+        {
+          "url": "https://www.toptrening.ru/trainings/22718/",
+          "title": "TopTrening: Ворона Иван Николаевич",
+          "fact": "Provides education details, BearingPoint experience, X5 internal-audit role and prior PwC/Coca-Cola/Cargill experience."
+        },
+        {
+          "url": "https://plus.rbc.ru/partners/647997f67a8aa9e71e035162",
+          "title": "РБК+: В X5 Group выбрали платформу Sber Process Mining",
+          "fact": "Quotes Ivan Vorona as director of internal audit X5 Group in a 2023 internal-audit technology project."
+        }
+      ],
+      "notes": "A 2024 article by an author named Иван Николаевич Ворона at the All-Russian Academy of Foreign Trade was found but not added to publications because no X5/internal-audit identity anchor was available. No patents or h-index were confirmed."
+    },
+    {
+      "name": "Мурашкин Андрей Игоревич",
+      "current_role": "Директор по рискам ПАО «Корпоративный центр ИКС 5» in the 2024 issuer-report context; CSV describes him as head of internal control and risk management.",
+      "company_name": "ПАО «Корпоративный центр ИКС 5» / X5 Group",
+      "education": [
+        {
+          "institution": "Новгородский государственный университет имени Ярослава Мудрого",
+          "field": "Economics and Enterprise Management",
+          "year": 2001,
+          "description": "Official issuer report lists specialty `Экономика и управление на предприятии`, qualification economist-manager.",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Новгородский государственный университет имени Ярослава Мудрого",
+          "field": "Management / Economics",
+          "year": 2004,
+          "description": "Official issuer report lists Candidate of Economic Sciences in Management; DisserCat confirms dissertation topic.",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Economist-manager qualification",
+          "institution": "Новгородский государственный университет имени Ярослава Мудрого",
+          "year": 2001,
+          "description": "Confirmed by official issuer report.",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "degree": "Candidate of Economic Sciences",
+          "institution": "Новгородский государственный университет имени Ярослава Мудрого",
+          "year": 2004,
+          "description": "Dissertation topic: `Управление рисками при построении корпоративной информационной системы`; confirmed by official issuer report and DisserCat.",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Корпоративный центр ИКС 5»",
+          "role": "Директор по рискам",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Official issuer report lists this role from July 2024 to present.",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "ООО «Корпоративный центр ИКС 5»",
+          "role": "Директор по рискам",
+          "start_year": 2023,
+          "end_year": 2024,
+          "description": "Official issuer report lists June 2023-June 2024.",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "ООО «СТД «Петрович»",
+          "role": "Head of Internal Control Department",
+          "start_year": 2019,
+          "end_year": 2023,
+          "description": "Official issuer report lists May 2019-May 2023.",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Specialty Retail"
+        },
+        {
+          "organization": "EY",
+          "role": "Risk management, internal control and audit consulting",
+          "start_year": null,
+          "end_year": null,
+          "description": "CFO Russia biography says he spent 6.5 years at EY; exact years not confirmed.",
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "Retail companies",
+          "role": "Risk/internal-control roles",
+          "start_year": 2011,
+          "end_year": null,
+          "description": "CFO Russia states he has worked in major retail companies since 2011.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "Новгородский государственный университет имени Ярослава Мудрого",
+          "role": "Candidate dissertation",
+          "start_year": 2004,
+          "end_year": 2004,
+          "description": "Candidate dissertation on risk management in building a corporate information system."
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/FIVE/Годовой отчет 2024 Икс 5.pdf",
+          "title": "Годовой отчет 2024 Икс 5",
+          "fact": "Pages 154, 160 and 165-168 confirm the local 2024 risk-management and internal-control context, but do not name Murashkin directly."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/FIVE/Аудиторское заключение и Финансовая отчетность_ПАО КЦ ИКС 5_2024_формат_ДОП.pdf",
+          "title": "Финансовая отчетность ПАО КЦ ИКС 5 2024",
+          "fact": "Pages 60-63 describe financial risk management and refer to the corporate-governance risk-management system."
+        },
+        {
+          "url": "https://www.x5.ru/wp-content/uploads/2025/11/oeczb_kcz_12m2024_raskrytyj_korr.-12.11.25.pdf",
+          "title": "Отчет эмитента ПАО «Корпоративный центр ИКС 5» за 12 месяцев 2024 г.",
+          "fact": "Page 44 identifies Department for Risks, Director for Risks Андрей Игоревич Мурашкин, birth year 1979, education, candidate degree and recent roles at STD Petrovich and X5."
+        },
+        {
+          "url": "https://www.cfo-russia.ru/meropriyatiya/speakers/85278/",
+          "title": "CFO Russia: Андрей Мурашкин / Х5",
+          "fact": "Speaker biography confirms risk director role at X5, Novgorod education, 2004 candidate dissertation, EY and retail-sector experience."
+        },
+        {
+          "url": "https://www.dissercat.com/content/upravlenie-riskami-pri-postroenii-korporativnoi-informatsionnoi-sistemy",
+          "title": "DisserCat: Управление рисками при построении корпоративной информационной системы",
+          "fact": "Confirms 2004 Candidate of Economic Sciences dissertation by Андрей Игоревич Мурашкин, specialty 08.00.05, Veliky Novgorod."
+        }
+      ],
+      "notes": "CFO Russia gives the graduation year as 2002, while the official issuer report gives 2001; the official issuer-report year is used. No separate confirmed publications, patents or h-index were found."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/FIVE/Годовой отчет 2024 Икс 5.pdf",
+      "title": "Годовой отчет 2024 Икс 5",
+      "fact": "Pages 153-163 describe the 2024 corporate governance structure, creation of ПАО «Корпоративный центр ИКС 5», Board/committee context, and sole executive bodies General Director and President."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/FIVE/Годовой отчет 2024 Икс 5.pdf",
+      "title": "Годовой отчет 2024 Икс 5",
+      "fact": "Pages 154-155 and 159-166 describe internal audit, audit/risk committee, risk-management and internal-control governance in 2024."
+    },
+    {
+      "url": "https://www.x5.ru/ru/investors/issuers-reports/",
+      "title": "X5: Отчеты эмитента",
+      "fact": "Official X5 page lists issuer reports, including the 12-month 2024 report used for person-specific governance disclosures."
+    },
+    {
+      "url": "https://www.x5.ru/wp-content/uploads/2025/11/oeczb_kcz_12m2024_raskrytyj_korr.-12.11.25.pdf",
+      "title": "Отчет эмитента ПАО «Корпоративный центр ИКС 5» за 12 месяцев 2024 г.",
+      "fact": "Section 2.1-2.4 confirms executive bodies and responsible persons for risk/internal audit in the 2024 issuer-report context."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_Отчеты_2024/FIVE/Годовой отчет 2024 Икс 5.pdf",
+      "title": "Годовой отчет 2024 Икс 5",
+      "fact": "Primary local annual report checked for all four people and 2024 governance context."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/FIVE/Аудиторское заключение и Финансовая отчетность_ПАО КЦ ИКС 5_2024_формат_ДОП.pdf",
+      "title": "Аудиторское заключение и Финансовая отчетность ПАО КЦ ИКС 5 2024",
+      "fact": "Local financial statements checked; used for financial risk-management context and to confirm no additional biographies were present."
+    },
+    {
+      "url": "https://www.x5.ru/wp-content/uploads/2025/11/oeczb_kcz_12m2024_raskrytyj_korr.-12.11.25.pdf",
+      "title": "Отчет эмитента ПАО «Корпоративный центр ИКС 5» за 12 месяцев 2024 г.",
+      "fact": "Official issuer report used for executive-body and risk/internal-audit responsible-person disclosures."
+    },
+    {
+      "url": "https://www.iva-edu.ru/event/trening/auditmenegment_vorona/",
+      "title": "Учебный центр ИВА: Ворона Иван Николаевич",
+      "fact": "Professional biography source for Ivan Vorona's internal-audit role, e-MBA, CIA and previous audit experience."
+    },
+    {
+      "url": "https://www.cfo-russia.ru/meropriyatiya/speakers/85278/",
+      "title": "CFO Russia: Андрей Мурашкин / Х5",
+      "fact": "Professional biography source for Andrey Murashkin's education, candidate dissertation and risk-management career."
+    }
+  ],
+  "validation_notes": "Processed 4 people for ticker FIVE. Checked 2 local documents in MOEXBMI_Отчеты_2024/FIVE before web search. Completed 1 research round for each person, 4 total person rounds, plus one orchestrator overview. CEO is confirmed as Igor Shekhterman in the 2024 context. Education was confirmed for all four people, though Ivan Vorona's education relies on professional training biographies rather than university pages. Weak/non-primary sources used: TopTrening and IIA/IVA for Ivan Vorona biography; CFO Russia for Murashkin pre-2019 career summary; these are supported where possible by official issuer-report role context. Conflicts: CSV company name reflects X5 Retail Group N.V., while 2024 local documents identify ПАО «Корпоративный центр ИКС 5» after 01.07.2024; annual report pages differ on the end date of executive-body powers (30.06.2025 vs 30.07.2025), so the JSON does not depend on the end date. Namesakes excluded: unconfirmed academic/publication profile for Ivan Nikolaevich Vorona at VAVT, historical/unrelated Vorona/Murashkin results, Wikipedia/Ruwiki summaries, Instagram/social snippets, and employee-review pages. Search considered complete because local PDFs, official issuer reports, official/business biographies, education queries, previous-employer queries, appointment queries, professional biography queries, publications/patents/h-index queries, and namesake checks were completed; no unresolved high-quality lead remained. ROUND 2 (gap-filling + GICS + qualification_degree + institution normalization, this session): (1) Gap-filling -- re-checked local filings first (full-text scan of both MOEXBMI_Отчеты_2024/FIVE PDFs for Kontakt, Investment Construction Holding, AlfaStrakhovanie, Rosvodokanal, BearingPoint, PwC/Coca-Cola/Cargill, EY, Petrovich, Vorona and Murashkin name strings -- no hits beyond an unrelated AlfaStrakhovanie mention in a loyalty-program context), then re-fetched the specific previously-cited web sources directly (retail.ru for Shekhterman/Kontakt; kommersant.ru and x5.praxisgroup.ru for Lobacheva/Investment Construction Holding; iva-edu.ru and toptrening.ru for Vorona/PwC-Coca-Cola-Cargill/AlfaStrakhovanie-Rosvodokanal dates; cfo-russia.ru and risk-practice.ru for Murashkin/EY years and pre-2019 retail employers). None of these re-fetches surfaced a role/date/employer detail beyond what round 1 already captured, so the following fields remain deliberately null, now confirmed as dead ends rather than unexamined gaps: Shekhterman's Kontakt role; Lobacheva's Investment Construction Holding role/dates; Vorona's PwC/Coca-Cola/Cargill and AlfaStrakhovanie/Rosvodokanal dates; Murashkin's EY years and the identity of the unnamed retail employers 2011-2019. New unrestricted web search (beyond re-fetching already-known URLs) was not available this round because the session's web-search quota was exhausted; no field was guessed to compensate for this, per the project's prefer-null-over-guess rule. (2) sector/industry_group/industry were added at company level (Consumer Staples / Consumer Staples Distribution & Retail (New Name) / Consumer Staples Distribution & Retail (New Name), matching X5 Group's core grocery-retail business) and to every professional_experience entry for all four people, copied verbatim from gics_taxonomy.json. Each organization was classified by its own primary business: X5/ПАО «Корпоративный центр ИКС 5» entities as Consumer Staples retail; RosExpert and Kontakt (executive search/recruitment) and BearingPoint and EY (consulting/professional services) as Industrials / Commercial & Professional Services / Professional Services; Beoluna (Japanese jewellery producer) as Consumer Discretionary / Consumer Durables & Apparel / Textiles, Apparel & Luxury Goods; EvrazHolding as Materials / Materials / Metals & Mining; MDM Bank as Financials / Banks / Banks; STD Petrovich (building-materials/DIY retail chain) as Consumer Discretionary / Consumer Discretionary Distribution & Retail (New Name) / Specialty Retail. Three entries were left all-null with an explanation because a single GICS triple could not be supported: Lobacheva's 'Investment Construction Holding' (generic label, no specific legal entity identified); Vorona's combined PwC/Coca-Cola/Cargill entry (three organizations with different primary businesses combined in one entry); Vorona's combined AlfaStrakhovanie/Rosvodokanal audit-committee entry (insurance vs. water utility, different GICS sectors); Murashkin's generic 'Retail companies' entry (no specific employer named). (3) qualification_degree was added to every education[] and degrees[] entry using only the ten allowed values or null. Explicit degree titles were mapped directly (Bachelor's degree for Shekhterman's and Vorona's bachelor's degrees; Specialist degree for Vorona's and Murashkin's specialist-level Soviet/Russian qualifications and for Lobacheva's first RANEPA-branch law degree, reflecting the pre-Bologna five-year single-tier structure; MBA for Vorona's and Lobacheva's Executive MBA programmes at Chicago Booth and IMD; Professional certification for Vorona's CIA; Doctoral degree for Murashkin's Candidate of Economic Sciences, consistent with the Candidate-of-Sciences to Doctoral-degree mapping already used elsewhere in this dataset, e.g. DIAS). Three entries were left null because the source language does not state an explicit degree level and no independent confirmation could be found this round: Shekhterman's Institute d'Administration des Enterprises and Danish Management School entries (described only as 'general management and financial management', consistent with either an executive-education programme or a postgraduate degree, not distinguishable with high confidence), and Lobacheva's second Plekhanov Finance-and-Credit education entry (2013 is inside Russia's completed Bachelor's/Specialist-mix transition period and the source does not state which). (4) Institution names were normalized to their canonical university_names.json form: 'ГОУ ВПО «Поволжская академия государственной службы имени П. А. Столыпина»' and 'Поволжская академия государственной службы имени П. А. Столыпина' -> 'Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации'; 'Российский экономический университет имени Г. В. Плеханова' -> 'Российский экономический университет имени Г.В. Плеханова' (punctuation-only normalization); 'Дальневосточный государственный университет' -> 'Дальневосточный федеральный университет'; 'Chicago Booth' -> 'University of Chicago Booth School of Business'. All four raw strings were already listed as exact aliases in university_names.json, so new_institutions_found for this ticker is an empty list -- no institution outside the reference file was encountered. All other institution strings (Kaliningrad State Technical University, Institute d'Administration des Enterprises, Danish Management School, IMD Business School, University of Maryland University College, Novgorod State University named after Yaroslav the Wise) already matched their canonical entries verbatim and were left unchanged. No previously confirmed fact was deleted or overwritten; only additions and the four institution-string normalizations above were made, all cross-checked against a pre-round-2 backup (output/FIVE_person_info.json.bak_round2). ROUND 3 (further gap-filling, this session): local filings offer nothing new (already fully re-scanned in round 2), so this round focused on targeted web checks of the remaining null/vague fields flagged in round 2. Session WebSearch quota was exhausted immediately, so research used direct WebFetch against specific known URLs and against Yandex/Bing/DuckDuckGo search-result pages (a workaround consistent with other tickers this-round pattern, e.g. EUTR round 3). Result for each previously-null field: (1) Shekhterman Institute d'Administration des Enterprises and Danish Management School qualification_degree stays null -- Russian Wikipedia frames these as dopolnitelnoe obrazovanie (supplementary education, pointing to Executive education) while TheOrg.com calls them degrees (pointing the other way); the conflict between two secondary sources is not enough to raise this to high confidence, so it remains an intentional null with the added context now recorded in each entry description. (2) Shekhterman Kontakt role stays null -- re-fetched retail.ru directly and cross-checked three search engines, all repeat only the agency name, no title; reconfirmed dead end. (3) Lobacheva Plekhanov (Finance and Credit, 2013) qualification_degree filled as Specialist degree -- Plekhanov University own rea.ru alumni profile frames it as vtoroe obrazovanie po spetsialnosti (second education, in the specialty), the pre-Bologna specialnost framing typical of that era single-cycle second-higher-education programmes, consistent with the Specialist-degree classification already used for her first (RANEPA) degree; reasoning recorded inline as an inference, not an explicit source statement. (4) Lobacheva Investment Construction Holding entry stays entirely null -- a company-registry search found one real OOO Investitsionny stroitelny kholding (Chelyabinsk, OGRN 1087448001794, wholesale hardware/plumbing trade, liquidated 2018, 10,000-rouble shell-company profile) but it does not fit her Moscow-based senior-corporate career and no source names her in connection with this specific OGRN, so it was investigated and rejected rather than adopted; this remains a confirmed dead end for the specific generic label used by Kommersant/Interfax. (5) A new, separately-sourced professional_experience entry was added for Lobacheva: Stroitelnaya kompaniya Arsana-2000, 2005-2008, head of legal department, confirmed independently by Retail.ru dedicated Lobacheva biography, TAdviser RU/EN persona pages (via search snippet), and Plekhanov University own rea.ru alumni profile, classified Industrials / Capital Goods / Construction & Engineering (OOO Arsana-2000, OGRN 1037700147484, OKVED 45.21.1 general building construction). No source explicitly equates Arsana-2000 with the still-null Investment Construction Holding label, so the two entries were kept separate rather than merged, per the never-mix-namesakes/never-silently-invent rule. (6) The previously-flagged 2016-vs-2017 X5-joining discrepancy for Lobacheva was clarified (not changed in value) using two new sources: rea.ru gives 2016 as the year she joined X5 Group, legalinsight.ru gives March 2017 as her formal appointment to the specific director-of-legal-support title -- read as two different milestones rather than a contradiction; start_year 2016 is retained. (7) Vorona PwC/Coca-Cola/Cargill dates and AlfaStrakhovanie/Rosvodokanal audit-committee dates stay null -- a new tadviser.ru source was located via search but returned HTTP 404 on direct fetch and could not be read; iva-edu.ru and toptrening.ru were re-fetched directly and repeat only the same undated sentences as rounds 1-2; reconfirmed dead ends. (8) Murashkin EY years stay null -- cfo-russia.ru and risk-practice.ru re-checked directly, still give only six-and-a-half years with no start/end date. (9) Murashkin generic Retail companies (2011-2019) entry stays null -- a company-registry search surfaced OOO Unitreid (scrap-metal/recycling wholesale trade, Murashkin Andrey Igorevich listed as 100 percent founder only from 29.09.2022) which was investigated and explicitly rejected: wrong industry, wrong time window, reads as a personal ownership stake rather than an employment role, and no identity anchor ties it to the X5 risk director; the specific 2011-2019 retail employers remain unidentified. No previously confirmed fact was deleted, overwritten, or altered beyond straight appends to description text; the only field-value changes this round are the two Plekhanov qualification_degree fills (null -> Specialist degree) and the one new Arsana-2000 professional_experience entry plus its three new supporting sources, all cross-checked programmatically (flattened key-by-key comparison) against a pre-round-3 backup (output/FIVE_person_info.json.bak_round3) to confirm zero unintended removals or overwrites. new_institutions_found remains empty -- no education/degrees institution field was touched this round beyond the already-normalized set from round 2, and Arsana-2000/EY/etc. are companies, not educational institutions, so university_names.json normalization does not apply to them. MASS DATA-LOSS REPAIR (2026-07-30): restored 0 shortened person notes, 1 shortened experience descriptions, 0 shortened education descriptions, 0 missing person-level sources, and 0 missing experience-level sources using git HEAD (commit 03bfe9f, 2026-07-20) as the reliable baseline. Nothing else in this file was touched.",
+  "sector": "Consumer Staples",
+  "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+  "industry": "Consumer Staples Distribution & Retail (New Name)"
+}

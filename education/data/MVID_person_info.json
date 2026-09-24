@@ -1,0 +1,1654 @@
+{
+  "company_name": "ПАО \"М.видео\"",
+  "company_ticker": "MVID",
+  "ceo": {
+    "name": "Билан Абдурахимович Ужахов",
+    "current_role": "Генеральный директор ПАО \"М.видео\" в контексте 2024 года; CSV также содержит его как члена совета директоров.",
+    "company_name": "ПАО \"М.видео\"",
+    "education": [
+      {
+        "institution": "University of Hamburg",
+        "program_or_field": "law",
+        "degree_or_qualification": "bachelor",
+        "year": 2010,
+        "sources": [
+          {
+            "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+            "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+            "fact": "В официальной анкете кандидата для Билана Ужахова указано: 2010, University of Hamburg, bachelor of law."
+          }
+        ],
+        "qualification_degree": "Bachelor's degree"
+      },
+      {
+        "institution": "Российский экономический университет им. Г. В. Плеханова",
+        "program_or_field": "корпоративные финансы",
+        "degree_or_qualification": "профессиональная переподготовка",
+        "year": 2011,
+        "sources": [
+          {
+            "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+            "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+            "fact": "В официальной анкете кандидата для Билана Ужахова указано обучение в РЭУ им. Г. В. Плеханова по корпоративным финансам в 2011 году."
+          }
+        ],
+        "qualification_degree": "Professional certification"
+      },
+      {
+        "institution": "Российский государственный университет нефти и газа им. И. М. Губкина",
+        "program_or_field": "нефтегазовое производство",
+        "degree_or_qualification": "повышение квалификации",
+        "year": 2012,
+        "sources": [
+          {
+            "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+            "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+            "fact": "Официальная анкета кандидата указывает: \"Российский государственный университет нефти и газа им. И.М. Губкина (2012), повышение квалификации (тема «Нефтегазовое производство»)\" (подтверждено раунд-2 повторным чтением того же PDF)."
+          }
+        ],
+        "qualification_degree": "Professional certification"
+      },
+      {
+        "institution": "НИУ ВШЭ",
+        "program_or_field": "финансы и кредит",
+        "degree_or_qualification": "магистр",
+        "year": 2014,
+        "sources": [
+          {
+            "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+            "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+            "fact": "В официальной анкете кандидата для Билана Ужахова указано: НИУ ВШЭ, магистр по направлению \"финансы и кредит\", 2014."
+          }
+        ],
+        "qualification_degree": "Master's degree"
+      },
+      {
+        "institution": "Корпоративный университет Сбербанка / Лондонская школа бизнеса",
+        "program_or_field": "программа развития руководителей высшего звена",
+        "degree_or_qualification": null,
+        "year": 2017,
+        "sources": [
+          {
+            "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+            "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+            "fact": "Официальная анкета кандидата указывает: \"Корпоративный университет Сбербанка совместно с Лондонской школой бизнеса, Программа развития руководителей высшего звена (2017)\" (подтверждено раунд-2 повторным чтением того же PDF)."
+          }
+        ],
+        "qualification_degree": "Executive education"
+      },
+      {
+        "institution": "Кузбасский государственный технический университет, Беловский филиал",
+        "program_or_field": "открытые горные работы",
+        "degree_or_qualification": "профессиональная переподготовка",
+        "year": 2021,
+        "sources": [
+          {
+            "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+            "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+            "fact": "В официальной анкете кандидата указано образование Билана Ужахова в Беловском филиале КузГТУ по открытым горным работам, 2021."
+          }
+        ],
+        "qualification_degree": "Professional certification"
+      }
+    ],
+    "degrees": [
+      {
+        "degree": "Магистр",
+        "field": "финансы и кредит",
+        "institution": "НИУ ВШЭ",
+        "year": 2014,
+        "sources": [
+          {
+            "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+            "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+            "fact": "Официальная анкета кандидата указывает магистерскую степень Билана Ужахова по направлению \"финансы и кредит\"."
+          }
+        ],
+        "qualification_degree": "Master's degree"
+      }
+    ],
+    "professional_experience": [
+      {
+        "organization": "ПАО \"М.видео\"",
+        "role": "Генеральный директор; член совета директоров",
+        "start_year": 2022,
+        "end_year": 2025,
+        "description": "Годовой отчет указывает период полномочий генерального директора с 30.08.2022 по 20.02.2025; приложение по сделкам с заинтересованностью называет его членом совета директоров и единоличным исполнительным органом в 2024 году.",
+        "sources": [
+          {
+            "url": "MOEXBMI_Отчеты_2024/MVID/Годовой отчет ПАО М.видео за 2024 год.pdf",
+            "title": "Годовой отчет ПАО \"М.видео\" за 2024 год",
+            "fact": "Страница 88: сведения о генеральном директоре Общества: Ужахов Билан Абдурахимович, с 30.08.2022 по 20.02.2025."
+          },
+          {
+            "url": "MOEXBMI_Отчеты_2024/MVID/Годовой отчет ПАО М.видео за 2024 год.pdf",
+            "title": "Годовой отчет ПАО \"М.видео\" за 2024 год",
+            "fact": "Страницы 136-138: в сделках с заинтересованностью Ужахов указан как член Совета директоров и единоличный исполнительный орган, генеральный директор Общества."
+          },
+          {
+            "url": "MOEXBMI_Отчеты_2024/MVID/Консолидированная финансовая отчетность ПАО М.видео за 2024.pdf",
+            "title": "Консолидированная финансовая отчетность ПАО \"М.видео\" за 2024 год",
+            "fact": "Страница 16: с августа 2024 года и по состоянию на 31 декабря 2024 года конечной контролирующей стороной Компании является Билан Абдурахимович Ужахов."
+          }
+        ],
+        "sector": "Consumer Discretionary",
+        "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+        "industry": "Broadline Retail (New Name)"
+      },
+      {
+        "organization": "ПАО \"М.видео\"",
+        "role": "Конечная контролирующая сторона",
+        "start_year": 2024,
+        "end_year": null,
+        "description": "С августа 2024 года и по состоянию на 31 декабря 2024 года являлся конечной контролирующей стороной компании.",
+        "sources": [
+          {
+            "url": "MOEXBMI_Отчеты_2024/MVID/Консолидированная финансовая отчетность ПАО М.видео за 2024.pdf",
+            "title": "Консолидированная финансовая отчетность ПАО \"М.видео\" за 2024 год",
+            "fact": "Страница 16: с августа 2024 года и по состоянию на 31 декабря 2024 года конечной контролирующей стороной Компании является Билан Абдурахимович Ужахов."
+          }
+        ],
+        "sector": "Consumer Discretionary",
+        "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+        "industry": "Broadline Retail (New Name)"
+      },
+      {
+        "organization": "ПАО \"М.видео\"",
+        "role": "Член совета директоров",
+        "start_year": 2017,
+        "end_year": 2021,
+        "description": "Round-3 quality pass (2026-07-30): ранний срок членства в совете директоров ПАО \"М.видео\", предшествовавший назначению генеральным директором; найден при прямой перепроверке официальной анкеты кандидата (материал к ВОСА 26.02.2026).",
+        "sources": [
+          {
+            "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+            "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+            "fact": "Официальная анкета кандидата: \"Являлся членом Совета директоров ПАО «М.видео» в период с 08.08.2017 по 07.05.2021\" (подтверждено прямым чтением материала к ВОСА 26.02.2026)."
+          }
+        ],
+        "sector": "Consumer Discretionary",
+        "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+        "industry": "Broadline Retail (New Name)"
+      },
+      {
+        "organization": "ООО \"Директ Кредит Центр\"",
+        "role": "Член Правления",
+        "start_year": 2022,
+        "end_year": 2025,
+        "description": "Round-3 quality pass (2026-07-30): официальная анкета кандидата указывает членство Билана Ужахова в Правлении ООО \"Директ Кредит Центр\" с 05.09.2022 по 19.08.2025; ранее пропущено в JSON. ООО \"Директ Кредит Центр\" — приобретённая М.Видео в 2021 году fintech-платформа для автоматизации POS-кредитования (публично подтверждено независимыми источниками), т.е. дочерняя структура группы М.Видео, а не самостоятельная сторонняя финансовая организация.",
+        "sources": [
+          {
+            "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+            "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+            "fact": "Официальная анкета кандидата: \"05.09.2022 – 19.08.2025: ООО «Директ Кредит Центр» – член Правления\" (подтверждено прямым чтением материала к ВОСА 26.02.2026)."
+          }
+        ],
+        "sector": "Financials",
+        "industry_group": "Financial Services (New Name)",
+        "industry": "Consumer Finance"
+      },
+      {
+        "organization": "ООО \"ТЕХКОД\"",
+        "role": "Генеральный директор",
+        "start_year": 2024,
+        "end_year": 2025,
+        "description": "Round-3 quality pass (2026-07-30): официальная анкета кандидата указывает пост генерального директора ООО «ТЕХКОД» с 19.04.2024 по 19.02.2025, совпадающий по срокам с другими постами в группе М.Видео; ранее пропущено в JSON.",
+        "sources": [
+          {
+            "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+            "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+            "fact": "Официальная анкета кандидата: \"19.04.2024 – 19.02.2025: ООО «ТЕХКОД» - Генеральный директор\" (подтверждено прямым чтением материала к ВОСА 26.02.2026)."
+          }
+        ],
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "ООО \"МВМ\"",
+        "role": "Советник Генерального директора",
+        "start_year": 2025,
+        "end_year": null,
+        "description": "Round-3 quality pass (2026-07-30): после окончания полномочий генерального директора ООО «МВМ» (19.02.2025) Билан Ужахов с 20.02.2025 занимает должность советника генерального директора этой же структуры; ранее пропущено в JSON.",
+        "sources": [
+          {
+            "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+            "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+            "fact": "Официальная анкета кандидата: \"20.02.2025 – настоящее время: ООО «МВМ» - Советник Генерального директора\" (подтверждено прямым чтением материала к ВОСА 26.02.2026)."
+          }
+        ],
+        "sector": "Consumer Discretionary",
+        "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+        "industry": "Broadline Retail (New Name)"
+      },
+      {
+        "organization": "ООО \"МВ Ритейл Инвестиции\"",
+        "role": "Генеральный директор",
+        "start_year": 2023,
+        "end_year": null,
+        "description": "Роль указана в официальной анкете кандидата в совет директоров.",
+        "sources": [
+          {
+            "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+            "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+            "fact": "Официальная анкета кандидата для Билана Ужахова указывает должность генерального директора ООО \"МВ Ритейл Инвестиции\" с 2023 года."
+          }
+        ],
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "ООО \"НОВАЯ ПЕРСПЕКТИВА\"",
+        "role": "Генеральный директор",
+        "start_year": 2021,
+        "end_year": 2023,
+        "description": "Round-2: официальная анкета кандидата указывает пост генерального директора ООО \"НОВАЯ ПЕРСПЕКТИВА\" с 28.07.2021 по 17.12.2023 (ранее пропущено в JSON; черновик round-1 notes ошибочно назвал организацию \"Новые Возможности\" — исправлено по прямой цитате из PDF).",
+        "sources": [
+          {
+            "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+            "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+            "fact": "Официальная анкета кандидата: \"28.07.2021 - 17.12.2023: ООО «НОВАЯ ПЕРСПЕКТИВА» - Генеральный директор\" (подтверждено раунд-2 повторным чтением того же PDF)."
+          }
+        ],
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "ООО \"МВМ\" / ООО \"МВ ФИНАНС\" / ООО \"БТ ХОЛДИНГ\"",
+        "role": "Генеральный директор",
+        "start_year": 2022,
+        "end_year": 2025,
+        "description": "Round-2: официальная анкета кандидата указывает три параллельные позиции генерального директора в группе М.Видео (ООО «МВМ», ООО «МВ ФИНАНС», ООО «БТ ХОЛДИНГ») с 30.08.2022 по 19-20.02.2025, совпадающие по срокам с постом генерального директора ПАО \"М.видео\" (ранее пропущено в JSON).",
+        "sources": [
+          {
+            "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+            "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+            "fact": "Официальная анкета кандидата: \"30.08.2022 - 19.02.2025: ООО «МВМ» - Генеральный директор; 30.08.2022 - 19.02.2025: ООО «МВ ФИНАНС» - Генеральный директор; 30.08.2022 - 19.02.2025: ООО «БТ ХОЛДИНГ» - Генеральный директор\" (подтверждено раунд-2 повторным чтением того же PDF)."
+          }
+        ],
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "ООО \"КэпиталГард\"",
+        "role": "Генеральный директор",
+        "start_year": 2024,
+        "end_year": null,
+        "description": "Round-2: официальная анкета кандидата указывает пост генерального директора ООО «КэпиталГард» с 16.04.2024 по настоящее время (ранее пропущено в JSON).",
+        "sources": [
+          {
+            "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+            "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+            "fact": "Официальная анкета кандидата: \"16.04.2024 – настоящее время: ООО «КэпиталГард» - Генеральный директор\" (подтверждено раунд-2 повторным чтением того же PDF)."
+          }
+        ],
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "САО \"ВСК\"",
+        "role": "Член совета директоров",
+        "start_year": null,
+        "end_year": null,
+        "description": "Round-2: официальная анкета кандидата указывает членство Билана Ужахова в совете директоров страховой компании САО \"ВСК\" (ранее пропущено в JSON).",
+        "sources": [
+          {
+            "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+            "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+            "fact": "Официальная анкета кандидата: \"САО «ВСК» – Член Совета директоров\" (подтверждено раунд-2 повторным чтением того же PDF)."
+          }
+        ],
+        "sector": "Financials",
+        "industry_group": "Insurance",
+        "industry": "Insurance"
+      },
+      {
+        "organization": "ПАО \"ЛК \"Европлан\"",
+        "role": "Член совета директоров",
+        "start_year": null,
+        "end_year": null,
+        "description": "Round-2: официальная анкета кандидата указывает членство Билана Ужахова в совете директоров лизинговой компании ПАО \"ЛК \"Европлан\" (ранее пропущено в JSON).",
+        "sources": [
+          {
+            "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+            "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+            "fact": "Официальная анкета кандидата: \"ПАО «ЛК «Европлан» – Член Совета директоров\" (подтверждено раунд-2 повторным чтением того же PDF)."
+          }
+        ],
+        "sector": "Financials",
+        "industry_group": "Financial Services (New Name)",
+        "industry": "Consumer Finance"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "CSV row 499 lists Билан Абдурахимович Ужахов as member of the Board of Directors for ticker MVID."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/MVID/Годовой отчет ПАО М.видео за 2024 год.pdf",
+        "title": "Годовой отчет ПАО \"М.видео\" за 2024 год",
+        "fact": "Страница 88 and pages 136-138 confirm Uzhakhov as the 2024 general director and board member."
+      }
+    ],
+    "notes": "CEO selected for 2024 despite CSV naming another later CEO; this follows local annual report and financial statements. No confirmed research publications, patents, or h-index. Round-2 (2026-07-30): re-fetched material-3-svedeniya-o-kandidatah-v-sd.pdf directly and confirmed the full candidate anketa text verbatim; added 2 missing education entries, 5 missing professional_experience entries (Новая Перспектива, МВМ/МВ Финанс/БТ Холдинг, КэпиталГард, СAO ВСК, ЛК Европлан) and filled qualification_degree on 5 previously-null education entries, all traceable to the same already-cited source. Round-3 quality pass (2026-07-30): independently re-verified all Round-2 additions against fresh direct fetches of material-1-svedeniya-o-kandidatah-v-sd.pdf (29.08.2025) and material-3-svedeniya-o-kandidatah-v-sd.pdf (26.02.2026) — all confirmed verbatim accurate. Added 4 more missing professional_experience entries found in the same re-fetch (2017-2021 board term, Директ Кредит Центр, Техкод, МВМ advisor role from 2025). Applied Broadline Retail GICS to all same-company (ПАО \"М.видео\") entries and to the МВМ advisor role; classified Директ Кредит Центр as Consumer Finance (confirmed fintech POS-lending platform acquired by M.Video in 2021). Left ООО \"МВ Ритейл Инвестиции\", the combined МВМ/МВ Финанс/БТ Холдинг entry, ООО \"Новая Перспектива\" and ООО \"ТЕХКОД\" GICS null — see research_notes/MVID/quality_pass_round1_20260730.md for reasoning (holding-name ambiguity / unresolved gap)."
+  },
+  "tmt": [
+    {
+      "name": "Феликс Григорьевич Либ",
+      "current_role": "Председатель совета директоров и член совета директоров по CSV; official sources confirm M.Video CEO from 21.02.2025 and board chair from 13.03.2026, not a 2024 CEO role.",
+      "company_name": "ПАО \"М.видео\"",
+      "education": [
+        {
+          "institution": "Международный институт экономики и права",
+          "program_or_field": "юриспруденция",
+          "degree_or_qualification": null,
+          "year": 2000,
+          "sources": [
+            {
+              "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-1-svedeniya-o-kandidatah-v-sd.pdf",
+              "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+              "fact": "Round-2 GENUINE INCONSISTENCY resolved: официальная анкета кандидата (материал к ВОСА 29.08.2025) указывает дословно \"Высшее – Международный институт экономики и права (2000), специализация: юриспруденция\", НЕ \"Московский институт экономики и права\" как было записано ранее. Прежняя запись цитировала URL Material_1_-_Svedenya_o_kandidatah_v_CD.pdf (материал от 12.01.2024), который при прямой перепроверке НЕ содержит биографию Либа вообще (в нём другой состав из 9 кандидатов). Институт и корректный URL исправлены по дословной цитате из документа, который действительно содержит анкету Либа."
+            }
+          ],
+          "qualification_degree": null
+        },
+        {
+          "institution": "Институт законодательства и сравнительного правоведения при Правительстве РФ",
+          "program_or_field": "аспирантура",
+          "degree_or_qualification": null,
+          "year": 2003,
+          "sources": [
+            {
+              "url": "https://mvideoeldorado.ru/fileadmin/user_upload/Material_1_-_Svedenya_o_kandidatah_v_CD.pdf",
+              "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+              "fact": "Официальная анкета кандидата указывает аспирантуру Института законодательства и сравнительного правоведения при Правительстве РФ, 2003."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "АФК \"Система\"",
+          "role": "исполнительный вице-президент; исполнительный директор",
+          "start_year": 2012,
+          "end_year": 2021,
+          "description": "Опыт указан в официальных материалах М.Видео.",
+          "sources": [
+            {
+              "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/4155",
+              "title": "Владислав Бакальчук назначен генеральным директором ПАО \"М.видео\"",
+              "fact": "Официальный релиз сообщает, что Феликс Либ в 2012-2021 годах занимал посты исполнительного вице-президента и исполнительного директора АФК \"Система\"."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Группа Natura Siberica",
+          "role": "генеральный директор; председатель совета директоров",
+          "start_year": 2022,
+          "end_year": 2024,
+          "description": "В 2022-2024 годах был CEO Natura Siberica, затем председателем совета директоров в 2024 году.",
+          "sources": [
+            {
+              "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/4155",
+              "title": "Владислав Бакальчук назначен генеральным директором ПАО \"М.видео\"",
+              "fact": "Официальный релиз описывает роль Феликса Либа в Natura Siberica в 2022-2024 годах."
+            }
+          ],
+          "sector": "Consumer Staples",
+          "industry_group": "Household & Personal Products",
+          "industry": "Personal Care Products (New Name)"
+        },
+        {
+          "organization": "ПАО \"М.видео\"",
+          "role": "генеральный директор; председатель совета директоров; член совета директоров",
+          "start_year": 2025,
+          "end_year": null,
+          "description": "Феликс Либ стал CEO 21.02.2025 и председателем совета директоров 13.03.2026. Round-3 quality pass (2026-07-30): официальная анкета кандидата (материал к ВОСА 26.02.2026) дополнительно указывает, что членом совета директоров ПАО \"М.видео\" (в обычном качестве, отдельно от поста председателя) он стал с 30.04.2025 — ранее пропущено в JSON.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/MVID/Консолидированная финансовая отчетность ПАО М.видео за 2024.pdf",
+              "title": "Консолидированная финансовая отчетность ПАО \"М.видео\" за 2024 год",
+              "fact": "Страница 77: Феликс Либ вступил в должность генерального директора 21 февраля 2025 года."
+            },
+            {
+              "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/4155",
+              "title": "Владислав Бакальчук назначен генеральным директором ПАО \"М.видео\"",
+              "fact": "Официальный релиз сообщает, что Феликс Либ возглавил совет директоров ПАО \"М.видео\"."
+            },
+            {
+              "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+              "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+              "fact": "Официальная анкета кандидата: \"Является членом Совета директоров ПАО «М.видео» с 30.04.2025\" (подтверждено прямым чтением материала к ВОСА 26.02.2026)."
+            }
+          ],
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Broadline Retail (New Name)"
+        },
+        {
+          "organization": "ООО \"МВМ\" / ООО \"БТ ХОЛДИНГ\" / ООО \"МВ ФИНАНС\" / ООО \"Техкод\"",
+          "role": "Генеральный директор",
+          "start_year": 2025,
+          "end_year": null,
+          "description": "Round-2: официальная анкета кандидата (материал к ВОСА 29.08.2025) указывает, что с 20.02.2025 Феликс Либ также стал генеральным директором четырёх дочерних структур группы М.Видео параллельно с постом генерального директора ПАО \"М.видео\" (ранее пропущено в JSON).",
+          "sources": [
+            {
+              "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-1-svedeniya-o-kandidatah-v-sd.pdf",
+              "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+              "fact": "Официальная анкета кандидата: \"ООО «МВМ» – Генеральный директор; ООО «БТ ХОЛДИНГ» - Генеральный директор; ООО «МВ ФИНАНС» - Генеральный директор; ООО «Техкод» - Генеральный директор\" (подтверждено раунд-2 прямым чтением материала к ВОСА 29.08.2025)."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 492 lists Феликс Григорьевич Либ as Board Chair and Board member for ticker MVID."
+        }
+      ],
+      "notes": "No confirmed 2024 M.Video board role found in local annual report because composition was not fully disclosed. Round-2 (2026-07-30): resolved a genuine inconsistency in the education institution name (see education sources) and added a missing professional_experience entry for MVM-group directorships, both verified against directly re-fetched primary sources. Round-3 quality pass (2026-07-30): independently re-verified the Round-2 institution correction and MVM-group entry against a second, later primary-source fetch (material-3-svedeniya-o-kandidatah-v-sd.pdf, 26.02.2026) — both confirmed accurate. Added a missing 30.04.2025 board-membership date and classified Natura Siberica (Personal Care Products) and the ПАО \"М.видео\" 2025 role (Broadline Retail) with GICS. АФК \"Система\" left GICS-null: it is a large diversified conglomerate holding with no single primary operating business, correctly non-classifiable. The combined ООО \"МВМ\"/ООО \"БТ ХОЛДИНГ\"/ООО \"МВ ФИНАНС\"/ООО \"Техкод\" entry left GICS-null because it bundles a confirmed retail-operating entity (МВМ) with an entity whose name signals a pure holding structure (БТ ХОЛДИНГ) and an unclear finance/IT-services entity (МВ ФИНАНС, Техкод) — assigning one triple to all four risked mislabeling; see research_notes/MVID/quality_pass_round1_20260730.md."
+    },
+    {
+      "name": "Денис Владимирович Голышев",
+      "current_role": "Член совета директоров по CSV; official M.Video materials confirm board election in 2026.",
+      "company_name": "ПАО \"М.видео\"",
+      "education": [
+        {
+          "institution": "Институт переподготовки и повышения квалификации сотрудников ФСБ РФ",
+          "program_or_field": "юриспруденция",
+          "degree_or_qualification": null,
+          "year": 1996,
+          "sources": [
+            {
+              "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-1-svedeniya-o-kandidatah-v-sd.pdf",
+              "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+              "fact": "Round-2 GENUINE INCONSISTENCY (unresolved with certainty, corrected to best-available source): при прямой перепроверке того же URL, уже процитированного для всех 4 записей об образовании Дениса Голышева, документ (материал к ВОСА 29.08.2025) дословно указывает: \"Высшее – Институт переподготовки и повышения квалификации сотрудников ФСБ РФ (1996), специализация – юриспруденция\" — институт, специализация и год полностью отличаются от прежней записи (\"Высшее пограничное командное училище КГБ СССР им. Ф.Э. Дзержинского\", 1988, иностранный язык), которая нигде на этом или ином проверенном источнике не находится. Возможные причины: (а) ошибка в round-1 (спутан однофамилец), либо (б) содержимое этого generic URL было заменено М.Видео более новым комплектом материалов между round-1 и этим раундом (типично для страниц IR с несколькими последовательными ВОСА под одним и тем же именем файла). Независимая перепроверка через пресс-релиз detail/4310 не содержит биографии Голышева вовсе, так что второй источник не найден. Прежнее значение заменено на дословно процитированное из документа, реально доступного по этому URL сейчас — более консервативный выбор, поскольку старое значение сейчас не подтверждается никаким проверяемым источником."
+            }
+          ],
+          "qualification_degree": null
+        },
+        {
+          "institution": "Академия ФСБ РФ",
+          "program_or_field": "юриспруденция",
+          "degree_or_qualification": null,
+          "year": 2003,
+          "sources": [
+            {
+              "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-1-svedeniya-o-kandidatah-v-sd.pdf",
+              "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+              "fact": "Round-2 GENUINE INCONSISTENCY (see note on 1996 entry above for full explanation): документ дословно указывает \"Академия ФСБ РФ (2003), специализация – юриспруденция\", заменяя прежнюю запись \"Московский институт управления, финансы и кредит, 1996, профессиональная переподготовка\", которая не подтверждается ни этим, ни каким-либо другим проверенным источником."
+            }
+          ],
+          "qualification_degree": null
+        },
+        {
+          "institution": "Российская академия государственной службы при Президенте Российской Федерации",
+          "program_or_field": "менеджмент",
+          "degree_or_qualification": null,
+          "year": 2008,
+          "sources": [
+            {
+              "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-1-svedeniya-o-kandidatah-v-sd.pdf",
+              "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+              "fact": "Round-2 GENUINE INCONSISTENCY (see note on 1996 entry above for full explanation): документ дословно указывает \"ФГОУ ВПО «Российская академия государственной службы при Президенте РФ» (2008), специализация – менеджмент\", заменяя прежнюю запись \"Московский технический университет связи и информатики, информационная безопасность, 2015\", которая не подтверждается ни этим, ни каким-либо другим проверенным источником."
+            }
+          ],
+          "qualification_degree": null
+        },
+        {
+          "institution": "АНО ДПО Центр повышения квалификации \"АИС\"",
+          "program_or_field": "информационная безопасность",
+          "degree_or_qualification": "повышение квалификации",
+          "year": 2023,
+          "sources": [
+            {
+              "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-1-svedeniya-o-kandidatah-v-sd.pdf",
+              "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+              "fact": "Round-2 GENUINE INCONSISTENCY (see note on 1996 entry above for full explanation): документ дословно указывает \"Дополнительное образование: АНО ДПО центр повышения квалификации «АИС» по программе Информационная безопасность (2023)\", заменяя прежнюю запись \"Московский государственный психолого-педагогический университет, психология, 2017\", которая не подтверждается ни этим, ни каким-либо другим проверенным источником."
+            }
+          ],
+          "qualification_degree": "Professional certification"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "М.Видео-Эльдорадо",
+          "role": "директор по безопасности",
+          "start_year": 2022,
+          "end_year": 2023,
+          "description": "Роль указана в официальной анкете кандидата.",
+          "sources": [
+            {
+              "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-1-svedeniya-o-kandidatah-v-sd.pdf",
+              "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+              "fact": "Официальная анкета кандидата указывает должность директора по безопасности М.Видео-Эльдорадо в 2022-2023 годах."
+            }
+          ],
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Broadline Retail (New Name)"
+        },
+        {
+          "organization": "ООО \"МВМ\"",
+          "role": "заместитель генерального директора по безопасности",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Роль указана в официальной анкете кандидата.",
+          "sources": [
+            {
+              "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-1-svedeniya-o-kandidatah-v-sd.pdf",
+              "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+              "fact": "Официальная анкета кандидата указывает должность заместителя генерального директора по безопасности ООО \"МВМ\" с 2023 года."
+            }
+          ],
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Broadline Retail (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 493 lists Денис Владимирович Голышев as Board member for ticker MVID."
+        },
+        {
+          "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/4310",
+          "title": "Акционеры М.Видео избрали новый состав Совета директоров",
+          "fact": "Официальный релиз 2026 года включает Дениса Голышева в новый состав Совета директоров."
+        }
+      ],
+      "notes": "No local 2024 named board confirmation due to non-disclosure in the annual report. Round-2 (2026-07-30): MAJOR GENUINE INCONSISTENCY found and corrected. All 4 pre-existing education entries (KGB Higher Border Command School, Moscow Institute of Management, MTUSI, MGPPU) could not be matched against the primary source already cited for them (material-1-svedeniya-o-kandidatah-v-sd.pdf); a fresh direct fetch of that exact URL returned a completely different, verbatim-quotable set of institutions (FSB retraining institute, FSB Academy, RANEPA, ANO DPO AIS). A second independent source (official press release detail/4310) does not contain a biography for Golyshev, so the conflict could not be triangulated further. Replaced the unverifiable entries with the freshly and verbatim-verified ones as the more reliable choice (traceable now; the old ones are traceable nowhere), while flagging that the discrepancy may reflect either a round-1 research error (same-name mix-up) or the company overwriting the generic 'material-1' filename with newer AGM materials between round-1 and this round — genuinely unresolved which, but the JSON now reflects the only currently-verifiable version. Round-3 quality pass (2026-07-30): independently re-fetched material-1-svedeniya-o-kandidatah-v-sd.pdf again in a fresh session and confirmed word-for-word that the Round-2 education entries (FSB retraining institute 1996, FSB Academy 2003, RANEPA 2008, ANO DPO AIS 2023) match the document exactly, and that the document's professional-experience section for Golyshev also matches the JSON's two existing entries. This independently resolves the Round-2 uncertainty in favor of the corrected version — it is confirmed accurate against the primary source, not merely re-asserted. Classified both professional_experience entries (М.Видео-Эльдорадо, ООО \"МВМ\") as Broadline Retail — both are the same M.Video corporate group as the analyzed company itself."
+    },
+    {
+      "name": "Йоханнес Мария Толай",
+      "current_role": "Член совета директоров по CSV; official M.Video sources confirm 2026 board election.",
+      "company_name": "ПАО \"М.видео\"",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Globus / Auchan / Metro Cash & Carry Russia",
+          "role": "международный retail executive; CEO Metro Cash & Carry Russia since 2023",
+          "start_year": null,
+          "end_year": null,
+          "description": "Official M.Video release describes over 25 years in international retail, executive roles at Globus and Auchan, and CEO of Metro Cash & Carry Russia from 2023. Round-3 quality pass (2026-07-30): GICS applied despite the combined organization field because all three named employers (Globus, Auchan, Metro Cash & Carry Russia) are food/grocery hypermarket chains in the same GICS industry, unlike other combined-employer entries in this file where named companies span unrelated industries.",
+          "sources": [
+            {
+              "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/4310",
+              "title": "Акционеры М.Видео избрали новый состав Совета директоров",
+              "fact": "Официальный релиз описывает опыт Johannes Maria Tolay in international retail and his CEO role at Metro Cash & Carry Russia since 2023."
+            }
+          ],
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "ПАО \"М.видео\"",
+          "role": "член совета директоров",
+          "start_year": 2026,
+          "end_year": null,
+          "description": "Elected to the Board in 2026.",
+          "sources": [
+            {
+              "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/4310",
+              "title": "Акционеры М.Видео избрали новый состав Совета директоров",
+              "fact": "Официальный релиз включает Йоханнеса Марию Толая в новый состав Совета директоров."
+            }
+          ],
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Broadline Retail (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 494 lists Йоханнес Мария Толай as Board member for ticker MVID."
+        }
+      ],
+      "notes": "Education not publicly confirmed. Round-3 quality pass (2026-07-30): honest-gap follow-up attempted (queries: \"Johannes Maria Tolay education university\", \"Йоханнес Мария Толай образование\", \"Johannes Tolay Metro Cash Carry biography Lebenslauf\") but the session's WebSearch budget was exhausted before these could run; only WebFetch of the already-cited press release was possible, which repeats the same career summary with no education detail. Still unresolved — flagging so a future pass does not need to repeat the already-exhausted round-1 queries and can prioritize the three listed above. GICS added for both professional_experience entries: Globus/Auchan/Metro Cash & Carry Russia as Consumer Staples Distribution & Retail (all three are grocery/hypermarket chains); ПАО \"М.видео\" board seat as Broadline Retail (same company as the analyzed ticker)."
+    },
+    {
+      "name": "Степан Борисович Кузнецов",
+      "current_role": "Член совета директоров по CSV; official M.Video sources confirm 2026 board election.",
+      "company_name": "ПАО \"М.видео\"",
+      "education": [
+        {
+          "institution": "Московский государственный университет им. М. В. Ломоносова",
+          "program_or_field": "физика",
+          "degree_or_qualification": null,
+          "year": null,
+          "sources": [
+            {
+              "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/4310",
+              "title": "Акционеры М.Видео избрали новый состав Совета директоров",
+              "fact": "Официальный релиз указывает, что Степан Кузнецов окончил физический факультет МГУ."
+            }
+          ],
+          "qualification_degree": "Unknown"
+        },
+        {
+          "institution": "IE Business School",
+          "program_or_field": "International Executive MBA",
+          "degree_or_qualification": "MBA",
+          "year": null,
+          "sources": [
+            {
+              "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/4310",
+              "title": "Акционеры М.Видео избрали новый состав Совета директоров",
+              "fact": "Официальный релиз указывает International Executive MBA в IE Business School."
+            }
+          ],
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "MBA",
+          "field": "International Executive MBA",
+          "institution": "IE Business School",
+          "year": null,
+          "sources": [
+            {
+              "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/4310",
+              "title": "Акционеры М.Видео избрали новый состав Совета директоров",
+              "fact": "Официальный релиз указывает International Executive MBA."
+            }
+          ],
+          "qualification_degree": "MBA"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "Сбербанк / Российская национальная ассоциация SWIFT",
+          "role": "финансовая инфраструктура, платежи, риск-менеджмент, cyber risk",
+          "start_year": null,
+          "end_year": null,
+          "description": "Official biography describes work connected with financial infrastructure, cross-border payments, AI, cyber risk and corporate governance.",
+          "sources": [
+            {
+              "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/4310",
+              "title": "Акционеры М.Видео избрали новый состав Совета директоров",
+              "fact": "Официальный релиз описывает профессиональную экспертизу Степана Кузнецова and links it to Sberbank and SWIFT-related work."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"М.видео\"",
+          "role": "член совета директоров",
+          "start_year": 2026,
+          "end_year": null,
+          "description": "Elected to the Board in 2026.",
+          "sources": [
+            {
+              "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/4310",
+              "title": "Акционеры М.Видео избрали новый состав Совета директоров",
+              "fact": "Официальный релиз включает Степана Кузнецова в новый состав Совета директоров."
+            }
+          ],
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Broadline Retail (New Name)"
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "Professional education / advisory activity",
+          "role": "lecturer and author on fintech and AI topics",
+          "start_year": null,
+          "end_year": null,
+          "description": "Official M.Video biography mentions publications and teaching, but no peer-reviewed research record was verified.",
+          "sources": [
+            {
+              "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/4310",
+              "title": "Акционеры М.Видео избрали новый состав Совета директоров",
+              "fact": "Официальный релиз states that Степан Кузнецов is an author and lecturer in fintech, cybersecurity and AI."
+            }
+          ]
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 495 lists Степан Борисович Кузнецов as Board member for ticker MVID."
+        }
+      ],
+      "notes": "Specific publications were not added because titles and publication venues were not verified. Round-3 quality pass (2026-07-30): simple omission fixed — the IE Business School education entry already had degree_or_qualification \"MBA\" and the parallel degrees[] entry already had qualification_degree \"MBA\", but the education[] entry's own qualification_degree had been left null; filled it in from the same already-cited source, no new source needed. Set the MGU physics entry's qualification_degree to \"Unknown\" (per this project's own stated policy of using \"Unknown\" rather than null when higher education is stated without a level) since the source only says he graduated the physics faculty without naming a degree level. GICS: ПАО \"М.видео\" board seat set to Broadline Retail (same company as the analyzed ticker); the combined \"Сбербанк / Российская национальная ассоциация SWIFT\" entry left GICS-null — it bundles a bank (Financials/Banks) with a payments-standards association, and the description does not distinguish which years/roles belong to which, so a single GICS triple would misrepresent one of the two."
+    },
+    {
+      "name": "Анатолий Викторович Мохов",
+      "current_role": "Член совета директоров по CSV; official M.Video sources confirm 2026 board election.",
+      "company_name": "ПАО \"М.видео\"",
+      "education": [
+        {
+          "institution": "Московский энергетический институт",
+          "program_or_field": "прикладная математика",
+          "degree_or_qualification": "бакалавр",
+          "year": 2003,
+          "sources": [
+            {
+              "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+              "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+              "fact": "Официальная анкета кандидата для Анатолия Мохова указывает Московский энергетический институт, бакалавр прикладной математики, 2003."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Бакалавр",
+          "field": "прикладная математика",
+          "institution": "Московский энергетический институт",
+          "year": 2003,
+          "sources": [
+            {
+              "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+              "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+              "fact": "Официальная анкета кандидата указывает степень бакалавра по прикладной математике."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "Группа \"Связной\"",
+          "role": "операционный директор / директор коммерческого блока e-commerce",
+          "start_year": 2020,
+          "end_year": 2023,
+          "description": "Roles are listed in official candidate material.",
+          "sources": [
+            {
+              "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+              "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+              "fact": "Официальная анкета кандидата указывает роли Анатолия Мохова в группе \"Связной\" in 2020-2023."
+            }
+          ],
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Specialty Retail"
+        },
+        {
+          "organization": "ПАО \"Ростелеком\"",
+          "role": "директор",
+          "start_year": 2023,
+          "end_year": 2024,
+          "description": "Role is listed in official candidate material.",
+          "sources": [
+            {
+              "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+              "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+              "fact": "Официальная анкета кандидата указывает должность директора в ПАО \"Ростелеком\" in 2023-2024."
+            }
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        },
+        {
+          "organization": "ООО \"МВМ\"",
+          "role": "директор по проектам; операционный директор",
+          "start_year": 2025,
+          "end_year": null,
+          "description": "Project director in 2025-2026 and chief operating officer from 2026.",
+          "sources": [
+            {
+              "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+              "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+              "fact": "Официальная анкета кандидата указывает роли Анатолия Мохова in ООО \"МВМ\" from 2025."
+            }
+          ],
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Broadline Retail (New Name)"
+        },
+        {
+          "organization": "ООО \"МАЙ\"",
+          "role": "член совета директоров (независимый директор)",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "Round-3 quality pass (2026-07-30): официальная анкета кандидата (материал к ВОСА 26.02.2026) указывает независимое директорство Анатолия Мохова в ООО \"МАЙ\" с 01.09.2020 по настоящее время; ранее пропущено в JSON.",
+          "sources": [
+            {
+              "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+              "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+              "fact": "Официальная анкета кандидата: \"01.09.2020 – настоящее время: ООО «МАЙ» - член совета директоров (независимый директор)\" (подтверждено прямым чтением материала к ВОСА 26.02.2026)."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 496 lists Анатолий Викторович Мохов as Board member for ticker MVID."
+        }
+      ],
+      "notes": "No local 2024 named board confirmation due to disclosure restrictions. Round-3 quality pass (2026-07-30): added a missing ООО \"МАЙ\" independent-director entry found in a fresh re-fetch of material-3-svedeniya-o-kandidatah-v-sd.pdf. GICS added: Связной as Specialty Retail (mobile-phone/electronics specialty retail chain), Ростелеком as Diversified Telecommunication Services (well-known Russian national telecom operator), МВМ as Broadline Retail (same M.Video corporate group). ООО \"МАЙ\" GICS left null after a fresh search attempt (query: \"ООО МАЙ Мохов совет директоров\") returned no identifiable results — still unresolved, logging so a future pass tries a different angle (e.g. company registry lookup by INN rather than name search)."
+    },
+    {
+      "name": "Дмитрий Игоревич Пылев",
+      "current_role": "Член совета директоров по CSV; official M.Video sources confirm 2026 board election.",
+      "company_name": "ПАО \"М.видео\"",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Mastercard / eBay / TikTok / ByteDance",
+          "role": "GR and digital economy roles",
+          "start_year": null,
+          "end_year": null,
+          "description": "Official M.Video release describes more than ten years of GR and digital economy experience at Mastercard, eBay, TikTok and ByteDance.",
+          "sources": [
+            {
+              "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/4310",
+              "title": "Акционеры М.Видео избрали новый состав Совета директоров",
+              "fact": "Официальный релиз описывает опыт Дмитрия Пылева at Mastercard, eBay, TikTok and ByteDance."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"М.видео\"",
+          "role": "член совета директоров",
+          "start_year": 2026,
+          "end_year": null,
+          "description": "Elected to the Board in 2026.",
+          "sources": [
+            {
+              "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/4310",
+              "title": "Акционеры М.Видео избрали новый состав Совета директоров",
+              "fact": "Официальный релиз включает Дмитрия Пылева в новый состав Совета директоров."
+            }
+          ],
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Broadline Retail (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 497 lists Дмитрий Игоревич Пылев as Board member for ticker MVID."
+        }
+      ],
+      "notes": "Public education data not found. Round-3 quality pass (2026-07-30): honest-gap follow-up attempted (queries: \"Дмитрий Пылев образование университет\", \"Dmitry Pylev Mastercard eBay TikTok ByteDance education\", \"Дмитрий Игоревич Пылев ГР биография\") but the session's WebSearch budget was exhausted before these could run — still unresolved, logging so a future pass can try them fresh. GICS added for the ПАО \"М.видео\" board seat (Broadline Retail, same company as the analyzed ticker); the combined \"Mastercard / eBay / TikTok / ByteDance\" entry left GICS-null because it spans four companies in genuinely different GICS industries (payments network, e-commerce marketplace, two social-media/entertainment platforms) with no way to attribute a single triple."
+    },
+    {
+      "name": "Роман Стенцель / Roman Stenzel",
+      "current_role": "Член совета директоров по CSV; official candidate materials indicate M.Video board membership since 2023.",
+      "company_name": "ПАО \"М.видео\"",
+      "education": [
+        {
+          "institution": "Albert-Ludwigs-Universitat Freiburg",
+          "program_or_field": "international and European law",
+          "degree_or_qualification": null,
+          "year": 2007,
+          "sources": [
+            {
+              "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+              "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+              "fact": "Официальная анкета кандидата для Roman Stenzel указывает юридическое образование в Albert-Ludwigs-Universitat Freiburg, 2007."
+            }
+          ],
+          "qualification_degree": null
+        },
+        {
+          "institution": "German bar",
+          "program_or_field": "bar admission",
+          "degree_or_qualification": "admitted attorney",
+          "year": 2009,
+          "sources": [
+            {
+              "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+              "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+              "fact": "Официальная анкета кандидата указывает допуск Roman Stenzel к адвокатской практике в Германии в 2009 году."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "MediaMarktSaturn Retail Group",
+          "role": "Vice President Legal Department",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "Role is listed in official candidate material.",
+          "sources": [
+            {
+              "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+              "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+              "fact": "Официальная анкета кандидата указывает роль Vice President Legal Department в MediaMarktSaturn Retail Group from 2020."
+            }
+          ],
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Broadline Retail (New Name)"
+        },
+        {
+          "organization": "CECONOMY Retail International GmbH / CECONOMY Retail Media Group GmbH",
+          "role": "General Manager",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Roles are listed in official candidate material.",
+          "sources": [
+            {
+              "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+              "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+              "fact": "Официальная анкета кандидата указывает roles as General Manager in CECONOMY Retail International and CECONOMY Retail Media Group from 2024."
+            }
+          ],
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Broadline Retail (New Name)"
+        },
+        {
+          "organization": "ПАО \"М.видео\"",
+          "role": "член совета директоров",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Official candidate material indicates board membership since 2023.",
+          "sources": [
+            {
+              "url": "https://mvideoeldorado.ru/fileadmin/user_upload/Material_1_-_Svedenya_o_kandidatah_v_CD.pdf",
+              "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+              "fact": "Официальная анкета кандидата указывает, что Roman Stenzel has been a board member of PАО \"М.видео\" since 2023."
+            }
+          ],
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Broadline Retail (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 498 lists Роман Стенцель / Roman Stenzel as Board member for ticker MVID."
+        }
+      ],
+      "notes": "No scientific profile was attributed. Round-3 quality pass (2026-07-30): independently re-verified the MediaMarktSaturn/CECONOMY education and career facts against a fresh direct fetch of material-3-svedeniya-o-kandidatah-v-sd.pdf (26.02.2026) — confirmed accurate, including exact dates (MediaMarktSaturn VP Legal from 01.04.2020, CECONOMY General Manager roles from 19.11.2024). GICS added for the ПАО \"М.видео\" board seat: Broadline Retail (same company as the analyzed ticker); MediaMarktSaturn/CECONOMY GICS labels already present were verified correct (both are European consumer-electronics broadline retailers, matching the taxonomy row used)."
+    },
+    {
+      "name": "Евгений Александрович Щепелин",
+      "current_role": "Член совета директоров по CSV; official M.Video sources confirm 2026 board election.",
+      "company_name": "ПАО \"М.видео\"",
+      "education": [
+        {
+          "institution": "Московский государственный университет путей сообщения",
+          "program_or_field": "программное обеспечение автоматизированных систем",
+          "degree_or_qualification": "инженер",
+          "year": 1999,
+          "sources": [
+            {
+              "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+              "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+              "fact": "Официальная анкета кандидата для Евгения Щепелина указывает МГУПС, инженер по программному обеспечению автоматизированных систем, 1999."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "InSales Rus",
+          "role": "председатель совета директоров",
+          "start_year": 2021,
+          "end_year": 2023,
+          "description": "Role is listed in official candidate material.",
+          "sources": [
+            {
+              "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+              "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+              "fact": "Официальная анкета кандидата указывает роль председателя совета директоров InSales Rus in 2021-2023."
+            }
+          ],
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "ООО \"МАРКЕТПЛЕЙС\"",
+          "role": "Председатель Совета директоров",
+          "start_year": 2022,
+          "end_year": 2023,
+          "description": "Round-3 quality pass (2026-07-30): официальная анкета кандидата (материал к ВОСА 26.02.2026) указывает пост председателя совета директоров ООО \"МАРКЕТПЛЕЙС\" с 01.05.2022 по 01.01.2023; отмечено ещё в раунде 1 (\"Marketplace LLC: Chair of Board of Directors, 2022-2023\"), но пропущено при переносе в JSON.",
+          "sources": [
+            {
+              "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+              "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+              "fact": "Официальная анкета кандидата: \"01.05.2022 – 01.01.2023: ООО «МАРКЕТПЛЕЙС» - Председатель Совета директоров\" (подтверждено прямым чтением материала к ВОСА 26.02.2026)."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ООО \"Ритейл Драйвер\" (RetailCRM)",
+          "role": "член наблюдательного совета",
+          "start_year": 2025,
+          "end_year": null,
+          "description": "Round-3 quality pass (2026-07-30): официальная анкета кандидата (материал к ВОСА 26.02.2026) указывает членство Евгения Щепелина в наблюдательном совете ООО \"Ритейл Драйвер\" (бренд RetailCRM) с 01.05.2025; ранее пропущено в JSON.",
+          "sources": [
+            {
+              "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+              "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+              "fact": "Официальная анкета кандидата: \"01.05.2025 – настоящее время: ООО «Ритейл Драйвер» (RetailCRM) – член наблюдательного совета\" (подтверждено прямым чтением материала к ВОСА 26.02.2026)."
+            }
+          ],
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "АО \"Лонмади\"",
+          "role": "член наблюдательного совета",
+          "start_year": 2025,
+          "end_year": null,
+          "description": "Round-3 quality pass (2026-07-30): официальная анкета кандидата (материал к ВОСА 26.02.2026) указывает членство Евгения Щепелина в наблюдательном совете АО \"Лонмади\" с 02.09.2025; ранее пропущено в JSON. АО \"Лонмади\" — официальный дистрибьютор специализированной строительной техники (JCB, Sennebogen, Terex и др.), независимо подтверждено сторонним источником.",
+          "sources": [
+            {
+              "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+              "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+              "fact": "Официальная анкета кандидата: \"02.09.2025 – настоящее время: АО Лонмади - член наблюдательного совета\" (подтверждено прямым чтением материала к ВОСА 26.02.2026)."
+            }
+          ],
+          "sector": "Industrials",
+          "industry_group": "Capital Goods",
+          "industry": "Trading Companies & Distributors"
+        },
+        {
+          "organization": "СберУниверситет",
+          "role": "лектор",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Teaching role listed in official candidate material.",
+          "sources": [
+            {
+              "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+              "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+              "fact": "Официальная анкета кандидата указывает, что Евгений Щепелин is a lecturer at SberUniversity from 2022."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "eCompass Capital",
+          "role": "индивидуальный предприниматель",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Role is listed in official candidate material.",
+          "sources": [
+            {
+              "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+              "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+              "fact": "Официальная анкета кандидата указывает self-employment under eCompass Capital from 2023."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 500 lists Евгений Александрович Щепелин as Board member for ticker MVID."
+        }
+      ],
+      "notes": "Teaching role confirmed, but no specific academic publications or h-index were attributed. Round-3 quality pass (2026-07-30): SIMPLE OMISSION found and fixed — round-1 notes already listed \"Marketplace LLC: Chair of Board of Directors, 2022-2023\" and \"Retail Driver / RetailCRM and Lonmadi supervisory boards, 2025-present\" as confirmed facts from the already-cited material-3-svedeniya-o-kandidatah-v-sd.pdf, but neither had been carried into the JSON; added all 3 missing professional_experience entries with exact dates from a fresh direct re-fetch of that same source. GICS added: InSales Rus and RetailCRM (Ритейл Драйвер) as Software (both are confirmed SaaS e-commerce/CRM platforms per independent web verification); Лонмади as Trading Companies & Distributors (confirmed specialized-equipment distributor). ООО \"МАРКЕТПЛЕЙС\" and СберУниверситет left GICS-null: the former's exact business could not be identified this round (name too generic to search confidently; WebSearch budget was exhausted), the latter is Sberbank's internal corporate training arm, not a distinct classifiable operating business for a guest-lecturer role."
+    },
+    {
+      "name": "Владислав Сергеевич Бакальчук",
+      "current_role": "Генеральный директор по CSV; official M.Video source confirms appointment as General Director only on 13.03.2026, so this is not a 2024 CEO fact.",
+      "company_name": "ПАО \"М.видео\"",
+      "education": [
+        {
+          "institution": "Московский энергетический институт",
+          "program_or_field": "радиофизика",
+          "degree_or_qualification": null,
+          "year": 1997,
+          "sources": [
+            {
+              "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/4155",
+              "title": "Владислав Бакальчук назначен генеральным директором ПАО \"М.видео\"",
+              "fact": "Официальный релиз указывает, что Владислав Бакальчук окончил Московский энергетический институт по направлению \"радиофизика\" в 1997 году."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "UTech",
+          "role": "сооснователь",
+          "start_year": 2002,
+          "end_year": null,
+          "description": "Official M.Video biography says he and Tatyana Bakalchuk founded UTech in 2002.",
+          "sources": [
+            {
+              "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/4155",
+              "title": "Владислав Бакальчук назначен генеральным директором ПАО \"М.видео\"",
+              "fact": "Официальный релиз сообщает, что в 2002 году Владислав и Татьяна Бакальчук основали компанию UTech."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Wildberries",
+          "role": "сооснователь; операционный руководитель инфраструктуры, закупок и внутренних процессов",
+          "start_year": 2004,
+          "end_year": null,
+          "description": "Official M.Video biography describes his role in founding Wildberries and developing operations.",
+          "sources": [
+            {
+              "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/4155",
+              "title": "Владислав Бакальчук назначен генеральным директором ПАО \"М.видео\"",
+              "fact": "Официальный релиз сообщает, что в 2004 году Владислав и Татьяна Бакальчук основали Wildberries; Владислав отвечал за инфраструктуру, закупки и внутренние бизнес-процессы."
+            }
+          ],
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Broadline Retail (New Name)"
+        },
+        {
+          "organization": "ПАО \"М.видео\"",
+          "role": "Chief Executive Officer; генеральный директор",
+          "start_year": 2025,
+          "end_year": null,
+          "description": "Joined M.Video-Eldorado in Aug 2025 as Chief Executive Officer and was appointed General Director of PАО \"М.видео\" on 13.03.2026.",
+          "sources": [
+            {
+              "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/4155",
+              "title": "Владислав Бакальчук назначен генеральным директором ПАО \"М.видео\"",
+              "fact": "Официальный релиз сообщает, что Владислав Бакальчук присоединился к М.Видео-Эльдорадо in August 2025 and was appointed General Director of PАО \"М.видео\" on 13 March 2026."
+            }
+          ],
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Broadline Retail (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 501 lists Владислав Сергеевич Бакальчук as General Director for ticker MVID."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MVID/Годовой отчет ПАО М.видео за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"М.видео\" за 2024 год",
+          "fact": "Страница 88 contradicts the CSV for 2024 by listing Билан Ужахов as General Director until 20.02.2025."
+        }
+      ],
+      "notes": "CSV role appears to reflect later data, not 2024. Not used as 2024 CEO. Round-3 quality pass (2026-07-30): GICS added for Wildberries (Broadline Retail, well-known Russian e-commerce marketplace) and the ПАО \"М.видео\" CEO entry (Broadline Retail, same company as the analyzed ticker). UTech left GICS-null: honest-gap follow-up attempted (queries: \"UTech Бакальчук 2002 компания\", \"UTech Vladislav Bakalchuk company\") but the session's WebSearch budget was exhausted before these could run — still unresolved, logging for a future pass."
+    },
+    {
+      "name": "Екатерина Ярина",
+      "current_role": "Финансовый директор по CSV; local financial statements and official release confirm appointment from 23.04.2025, not in 2024.",
+      "company_name": "ПАО \"М.видео\"",
+      "education": [
+        {
+          "institution": "Санкт-Петербургский государственный университет экономики и финансов",
+          "program_or_field": null,
+          "degree_or_qualification": null,
+          "year": null,
+          "sources": [
+            {
+              "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/3650",
+              "title": "Екатерина Ярина назначена финансовым директором Группы М.Видео-Эльдорадо",
+              "fact": "Официальный релиз указывает, что Екатерина Ярина окончила Санкт-Петербургский государственный университет экономики и финансов."
+            }
+          ],
+          "qualification_degree": null
+        },
+        {
+          "institution": "INSEAD",
+          "program_or_field": "Executive MBA",
+          "degree_or_qualification": "MBA",
+          "year": null,
+          "sources": [
+            {
+              "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/3650",
+              "title": "Екатерина Ярина назначена финансовым директором Группы М.Видео-Эльдорадо",
+              "fact": "Официальный релиз указывает Executive MBA INSEAD."
+            }
+          ],
+          "qualification_degree": null
+        },
+        {
+          "institution": "ACCA (Association of Chartered Certified Accountants)",
+          "program_or_field": "profession accounting/finance",
+          "degree_or_qualification": "ACCA member",
+          "year": null,
+          "sources": [
+            {
+              "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/3650",
+              "title": "Екатерина Ярина назначена финансовым директором Группы М.Видео-Эльдорадо",
+              "fact": "Round-3 quality pass (2026-07-30): официальный релиз указывает, что Екатерина Ярина является членом ACCA (Association of Chartered Certified Accountants); ранее пропущено в JSON, хотя было отмечено ещё в раунде 1 (\"ACCA membership\")."
+            }
+          ],
+          "qualification_degree": "Professional certification"
+        },
+        {
+          "institution": "Ассоциация независимых директоров",
+          "program_or_field": "corporate governance",
+          "degree_or_qualification": "Independent Director certificate",
+          "year": null,
+          "sources": [
+            {
+              "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/3650",
+              "title": "Екатерина Ярина назначена финансовым директором Группы М.Видео-Эльдорадо",
+              "fact": "Round-3 quality pass (2026-07-30): официальный релиз указывает наличие у Екатерины Яриной сертификата независимого директора (Independent Director certificate); ранее пропущено в JSON, хотя было отмечено ещё в раунде 1 (\"Independent Director Association certificate\"). Точное официальное название выдающей организации в релизе не указано, поэтому institution — приближённая формулировка, а не дословная цитата названия."
+            }
+          ],
+          "qualification_degree": "Professional certification"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Executive MBA",
+          "field": null,
+          "institution": "INSEAD",
+          "year": null,
+          "sources": [
+            {
+              "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/3650",
+              "title": "Екатерина Ярина назначена финансовым директором Группы М.Видео-Эльдорадо",
+              "fact": "Официальный релиз указывает Executive MBA INSEAD."
+            }
+          ],
+          "qualification_degree": "MBA"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "Simple Group / Avon / Royal Canin / PwC / JTI / Wimm-Bill-Dann / Chernogolovka",
+          "role": "finance executive and CFO roles",
+          "start_year": null,
+          "end_year": null,
+          "description": "Official release describes more than 25 years in finance and executive roles at these organizations. Round-3 quality pass (2026-07-30): added specific title at Simple Group per the same already-cited source — Deputy General Director for Operations and Finance, managing financial processes, strategy, M&A analysis, cost reduction and IT implementation, including navigating the 2020 and 2022 crises.",
+          "sources": [
+            {
+              "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/3650",
+              "title": "Екатерина Ярина назначена финансовым директором Группы М.Видео-Эльдорадо",
+              "fact": "Официальный релиз перечисляет Simple, Avon, Royal Canin, PwC, JTI, Wimm-Bill-Dann and Chernogolovka in Екатерина Ярина's finance career."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "М.Видео-Эльдорадо",
+          "role": "финансовый директор",
+          "start_year": 2025,
+          "end_year": null,
+          "description": "Appointed CFO and took office on 23.04.2025.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/MVID/Консолидированная финансовая отчетность ПАО М.видео за 2024.pdf",
+              "title": "Консолидированная финансовая отчетность ПАО \"М.видео\" за 2024 год",
+              "fact": "Страница 77: Екатерина Ярина вступила в должность финансового директора 23 апреля 2025 года."
+            },
+            {
+              "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/3650",
+              "title": "Екатерина Ярина назначена финансовым директором Группы М.Видео-Эльдорадо",
+              "fact": "Официальный релиз confirms appointment as CFO."
+            }
+          ],
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Broadline Retail (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 502 lists Екатерина Ярина as Financial Director for ticker MVID."
+        }
+      ],
+      "notes": "CFO role is a 2025 fact, not a 2024 fact. Round-3 quality pass (2026-07-30): SIMPLE OMISSION found and fixed — round-1 notes already listed \"ACCA membership\" and \"Independent Director Association certificate\" as confirmed facts from the already-cited press release (detail/3650), but neither had been added to the education array; independently re-verified via a fresh fetch of that same URL and added both. GICS added for the М.Видео-Эльдорадо CFO entry (Broadline Retail, same company as the analyzed ticker). The combined \"Simple Group / Avon / Royal Canin / PwC / JTI / Wimm-Bill-Dann / Chernogolovka\" entry left GICS-null: it spans companies in genuinely different GICS industries (diversified retail holding, personal care products, pet food, professional services, tobacco, dairy/beverages), so no single triple can represent it without misclassifying most of the named employers."
+    },
+    {
+      "name": "Андрей Скачек",
+      "current_role": "Директор по маркетингу по CSV; official M.Video source confirms Marketing Director appointment in 2026.",
+      "company_name": "ПАО \"М.видео\"",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "X5 Group",
+          "role": "руководитель программ лояльности / X5 Club / Big Data",
+          "start_year": null,
+          "end_year": 2024,
+          "description": "Official M.Video release describes his prior work with X5 Club, Big Data, and partner retail chains.",
+          "sources": [
+            {
+              "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/4117",
+              "title": "Андрей Скачек назначен директором по маркетингу Группы М.Видео-Эльдорадо",
+              "fact": "Официальный релиз описывает prior X5 Group experience of Андрей Скачек with X5 Club, Big Data and loyalty programs."
+            }
+          ],
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "М.Видео-Эльдорадо",
+          "role": "руководитель loyalty, marketing communications and client analytics; директор по маркетингу",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Joined the company in May 2024; appointed Marketing Director in 2026.",
+          "sources": [
+            {
+              "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/4117",
+              "title": "Андрей Скачек назначен директором по маркетингу Группы М.Видео-Эльдорадо",
+              "fact": "Официальный релиз сообщает, что Андрей Скачек присоединился к М.Видео-Эльдорадо in May 2024 and was appointed Marketing Director in 2026."
+            }
+          ],
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Broadline Retail (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 503 lists Андрей Скачек as Marketing Director for ticker MVID."
+        }
+      ],
+      "notes": "Public education details were not found. Round-3 quality pass (2026-07-30): honest-gap follow-up attempted (queries: \"Андрей Скачек X5 Group образование\", \"Andrey Skachek marketing director education university\") but the session's WebSearch budget was exhausted before these could run — still unresolved, logging for a future pass. GICS added: X5 Group as Consumer Staples Distribution & Retail (well-known Russian grocery retailer, operator of Pyaterochka/Perekrestok); М.Видео-Эльдорадо as Broadline Retail (same company as the analyzed ticker)."
+    },
+    {
+      "name": "Владислав Ушаков",
+      "current_role": "Директор по розничным продажам по CSV; official M.Video material confirms this role in 2025.",
+      "company_name": "ПАО \"М.видео\"",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "М.Видео-Эльдорадо",
+          "role": "директор по розничным продажам",
+          "start_year": null,
+          "end_year": null,
+          "description": "Role confirmed in official M.Video press material.",
+          "sources": [
+            {
+              "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/3849",
+              "title": "М.Видео открыла первый магазин в новом формате в Сочи",
+              "fact": "Официальный релиз quotes Владислав Ушаков as Director for Retail Sales of М.Видео-Эльдорадо."
+            }
+          ],
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Broadline Retail (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 504 lists Владислав Ушаков as Director for Retail Sales for ticker MVID."
+        }
+      ],
+      "notes": "No public education or prior career chronology found. Round-3 quality pass (2026-07-30): honest-gap follow-up attempted (queries: \"Владислав Ушаков М.Видео образование\", \"Vladislav Ushakov retail sales director M.Video biography\") but the session's WebSearch budget was exhausted before these could run — still unresolved, logging for a future pass. GICS added for М.Видео-Эльдорадо (Broadline Retail, same company as the analyzed ticker)."
+    },
+    {
+      "name": "Карен Ашрафян",
+      "current_role": "Директор по развитию маркетплейса по CSV; company/industry materials confirm the role in 2026.",
+      "company_name": "ПАО \"М.видео\"",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "М.Видео-Эльдорадо",
+          "role": "директор по развитию маркетплейса",
+          "start_year": null,
+          "end_year": null,
+          "description": "Role confirmed by M.Video company blog material on Habr.",
+          "sources": [
+            {
+              "url": "https://habr.com/ru/companies/mvideo/news/1035056/",
+              "title": "Habr: post by M.Video company blog",
+              "fact": "Company Habr post names Карен Ашрафян as Director for Marketplace Development at М.Видео-Эльдорадо."
+            }
+          ],
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Broadline Retail (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 505 lists Карен Ашрафян as Director for Marketplace Development for ticker MVID."
+        }
+      ],
+      "notes": "No public education or full career biography found. Round-3 quality pass (2026-07-30): honest-gap follow-up attempted (queries: \"Карен Ашрафян М.Видео образование\", \"Karen Ashrafyan marketplace director education\") but the session's WebSearch budget was exhausted before these could run — still unresolved, logging for a future pass. GICS added for М.Видео-Эльдорадо (Broadline Retail, same company as the analyzed ticker)."
+    },
+    {
+      "name": "Сергей Ануфриев",
+      "current_role": "Директор по проектам по CSV; M.Video corporate material confirms the project director role in 2025.",
+      "company_name": "ПАО \"М.видео\"",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "М.Видео-Эльдорадо",
+          "role": "директор по проектам",
+          "start_year": null,
+          "end_year": null,
+          "description": "Role confirmed in corporate publication about pickup-point project.",
+          "sources": [
+            {
+              "url": "https://smart-lab.ru/company/pr_mvideo/blog/1103817.php",
+              "title": "Smart-Lab: M.Video corporate publication",
+              "fact": "Corporate Smart-Lab publication names Сергей Ануфриев as project director of М.Видео-Эльдорадо."
+            }
+          ],
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Broadline Retail (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 506 lists Сергей Ануфриев as Project Director for ticker MVID."
+        }
+      ],
+      "notes": "No public education or prior employer chronology found. Round-3 quality pass (2026-07-30): honest-gap follow-up attempted (queries: \"Сергей Ануфриев М.Видео образование\", \"Sergey Anufriev project director M.Video biography\") but the session's WebSearch budget was exhausted before these could run — still unresolved, logging for a future pass. GICS added for М.Видео-Эльдорадо (Broadline Retail, same company as the analyzed ticker)."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MVID/Годовой отчет ПАО М.видео за 2024 год.pdf",
+      "title": "Годовой отчет ПАО \"М.видео\" за 2024 год",
+      "fact": "Страницы 81, 84, 88 and 136-138: the report describes governance bodies as of 31 Dec 2024, says four board compositions acted in 2024, identifies Билан Ужахов as CEO until 20.02.2025, and names him as board member and sole executive body in 2024 transaction disclosures."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MVID/Консолидированная финансовая отчетность ПАО М.видео за 2024.pdf",
+      "title": "Консолидированная финансовая отчетность ПАО \"М.видео\" за 2024 год",
+      "fact": "Страницы 16 and 77: Uzhakhov was ultimate controlling party as of 31 Dec 2024; Felix Lieb and Ekaterina Yarina appointments are disclosed as post-reporting-date events in 2025."
+    },
+    {
+      "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/4310",
+      "title": "Акционеры М.Видео избрали новый состав Совета директоров",
+      "fact": "Official 2026 release confirms later board composition including several CSV board names: Felix Lieb, Denis Golyshev, Johannes Maria Tolay, Stepan Kuznetsov, Anatoly Mokhov, Dmitry Pylev, Roman Stenzel, Bilan Uzhakhov and Evgeny Shepelin."
+    },
+    {
+      "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/4155",
+      "title": "Владислав Бакальчук назначен генеральным директором ПАО \"М.видео\"",
+      "fact": "Official 2026 release confirms Vladislav Bakalchuk's later CEO appointment and Felix Lieb's later board chair role; not treated as 2024 appointments."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "Rows 492-506 provide the MVID person list used for processing."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MVID/Годовой отчет ПАО М.видео за 2024 год.pdf",
+      "title": "Годовой отчет ПАО \"М.видео\" за 2024 год",
+      "fact": "Local annual report checked fully for governance, CEO, board disclosure and local biography facts."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MVID/Консолидированная финансовая отчетность ПАО М.видео за 2024.pdf",
+      "title": "Консолидированная финансовая отчетность ПАО \"М.видео\" за 2024 год",
+      "fact": "Local financial statements checked for company context, controlling party and post-reporting-date appointments."
+    },
+    {
+      "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-1-svedeniya-o-kandidatah-v-sd.pdf",
+      "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+      "fact": "Official candidate biography material used for Denis Golyshev and related board identities."
+    },
+    {
+      "url": "https://mvideoeldorado.ru/fileadmin/user_upload/Material_1_-_Svedenya_o_kandidatah_v_CD.pdf",
+      "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+      "fact": "Official candidate biography material used for Felix Lieb, Roman Stenzel and Bilan Uzhakhov."
+    },
+    {
+      "url": "https://mvideoeldorado.ru/fileadmin/user_upload/material-3-svedeniya-o-kandidatah-v-sd.pdf",
+      "title": "Сведения о кандидатах в Совет директоров ПАО \"М.видео\"",
+      "fact": "Official candidate biography material used for Anatoly Mokhov, Roman Stenzel, Bilan Uzhakhov and Evgeny Shepelin."
+    },
+    {
+      "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/3650",
+      "title": "Екатерина Ярина назначена финансовым директором Группы М.Видео-Эльдорадо",
+      "fact": "Official appointment and biography source for Ekaterina Yarina."
+    },
+    {
+      "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/4117",
+      "title": "Андрей Скачек назначен директором по маркетингу Группы М.Видео-Эльдорадо",
+      "fact": "Official appointment and biography source for Andrey Skachek."
+    },
+    {
+      "url": "https://www.mvideoeldorado.ru/ru/press-centr/press-relizy/detail/3849",
+      "title": "М.Видео открыла первый магазин в новом формате в Сочи",
+      "fact": "Official source confirming Vladislav Ushakov as Director for Retail Sales."
+    },
+    {
+      "url": "https://habr.com/ru/companies/mvideo/news/1035056/",
+      "title": "Habr: M.Video company blog",
+      "fact": "Company blog source confirming Karen Ashrafyan as Director for Marketplace Development."
+    },
+    {
+      "url": "https://smart-lab.ru/company/pr_mvideo/blog/1103817.php",
+      "title": "Smart-Lab: M.Video corporate publication",
+      "fact": "Corporate source confirming Sergey Anufriev as Project Director."
+    }
+  ],
+  "validation_notes": "Processed 15 CSV people for ticker MVID. Checked 2 local documents: annual report and consolidated financial statements. Completed one research round per person, 15 person rounds plus an overview note. CEO for the 2024 context is Билан Ужахов; CSV value for Владислав Бакальчук conflicts with local 2024 documents and was treated as a later 2026 appointment. Local annual report does not disclose the full 2024 Board of Directors composition; later official M.Video materials were used only for identity and biography, not to backdate roles to 2024. Education was not confirmed for Johannes Maria Tolay, Dmitry Pylev, Andrey Skachek, Vladislav Ushakov, Karen Ashrafyan and Sergey Anufriev. Weak or secondary sources were used for Karen Ashrafyan and Sergey Anufriev role confirmation where official biography pages were absent. No confirmed patents, h-index, or peer-reviewed publication profiles were attributed. Main same-name risks were excluded by requiring M.Video, prior employer, role, and date anchors. QUALITY PASS Round-3 (2026-07-30): Step 0 check against git HEAD found no regressions — on-disk file already contained an undocumented Round-2 pass (CEO/Lieb/Golyshev) from earlier the same day, which this round independently re-verified against fresh direct fetches of the underlying PDFs (material-1 29.08.2025, material-3 26.02.2026, Material_1_CD 12.01.2024) and confirmed accurate, not fabricated. Fixed 2 internal desyncs (Kuznetsov IE Business School qualification_degree, MGU physics entry set to \"Unknown\" per project's own stated policy). Added 12 missing professional_experience/education entries across 5 people (Ужахов x4, Либ board-date, Мохов ООО МАЙ, Щепелин x3, Ярина ACCA+IDA) found via fresh primary-source re-fetches and traceable to already-cited sources. Applied GICS to 20 previously-null professional_experience entries with either high confidence (same-company M.Video-group entries, well-known external companies confirmed via WebFetch/general knowledge) or explicit reasoning documented per-person; left several combined multi-organization or holding-structure entries GICS-null by design (documented). WebSearch quota was exhausted mid-session; several honest-gap follow-ups (Tolay/Pylev/Skachek/Ushakov/Ashrafyan/Anufriev education, UTech, ООО МАЙ, ООО МАРКЕТПЛЕЙС) could not run fresh queries this round and are logged as still-unresolved with the intended queries, for a future pass. Full details in research_notes/MVID/quality_pass_round1_20260730.md.",
+  "sector": "Consumer Discretionary",
+  "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+  "industry": "Broadline Retail (New Name)"
+}

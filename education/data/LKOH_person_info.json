@@ -1,0 +1,340 @@
+{
+  "company_name": "ПАО \"ЛУКОЙЛ\"",
+  "company_ticker": "LKOH",
+  "ceo": null,
+  "tmt": [
+    {
+      "name": "Кочкуров Сергей Алексеевич",
+      "current_role": "В 2024 году: вице-президент по добыче нефти и газа в России ПАО \"ЛУКОЙЛ\"; с января 2025 года: главный исполнительный директор ПАО \"ЛУКОЙЛ\". CSV указывает роль \"Генеральный директор\", но открытые источники относят назначение на эту должность к январю 2025 года.",
+      "company_name": "ПАО \"ЛУКОЙЛ\"",
+      "education": [
+        {
+          "institution": "Уфимский государственный нефтяной технический университет",
+          "year": 1986,
+          "program_or_specialty": "Бурение нефтяных и газовых скважин",
+          "qualification": null,
+          "description": "Официальный пресс-релиз ЛУКОЙЛа и профиль Думы ХМАО подтверждают окончание/обучение в Уфимском нефтяном институте; профиль Neftegaz уточняет специальность. Название нормализовано до канонического \"Уфимский государственный нефтяной технический университет\" по university_names.json (точное совпадение варианта); это уже было решено в раунде 2, но не было перенесено в JSON до этого раунда качества.",
+          "source": "https://lukoil.ru/PressCenter/Pressreleases/Pressrelease/soobshchenie-press-sluzhby_88",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Тюменский индустриальный университет",
+          "year": 2004,
+          "program_or_specialty": "Менеджмент организации",
+          "qualification": null,
+          "description": "Официальный пресс-релиз ЛУКОЙЛа, Дума ХМАО, Neftegaz и EPRussia подтверждают обучение/окончание в 2004 году; TASS описывает это как дополнительное образование. Название нормализовано до канонического \"Тюменский индустриальный университет\" по university_names.json (точное совпадение варианта); это уже было решено в раунде 2, но не было перенесено в JSON до этого раунда качества.",
+          "source": "https://www.dumahmao.ru/history/depfivesoz/detail.php?ID=23023",
+          "qualification_degree": null
+        },
+        {
+          "institution": "Московский институт нефтегазового бизнеса",
+          "year": 2009,
+          "program_or_specialty": null,
+          "qualification": null,
+          "description": "Официальный пресс-релиз ЛУКОЙЛа и профиль Думы ХМАО указывают Институт нефтегазового бизнеса; программа и квалификация в открытых источниках не уточнены (повторная точечная проверка в этом раунде качества также не нашла название конкретной программы 2009 года). Название нормализовано до канонического \"Московский институт нефтегазового бизнеса\" по university_names.json (сырая строка присутствует там как один из вариантов); нормализация была решена в раунде 2, но не была перенесена в JSON до этого раунда качества.",
+          "source": "https://lukoil.ru/PressCenter/Pressreleases/Pressrelease/soobshchenie-press-sluzhby_88",
+          "qualification_degree": "Professional certification"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПО \"Башнефть\"",
+          "role": "помощник бурильщика, производственная практика",
+          "start_year": 1983,
+          "end_year": 1985,
+          "description": "Профиль Думы ХМАО указывает производственную практику помощником бурильщика в объединении \"Башнефть\".",
+          "source": "https://www.dumahmao.ru/history/depfivesoz/detail.php?ID=23023",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "НГДУ \"Ватьеганнефть\"",
+          "role": "бурильщик капитального ремонта скважин, мастер, геолог, заместитель начальника цеха, начальник цеха, главный инженер управления",
+          "start_year": 1986,
+          "end_year": 2002,
+          "description": "Дума ХМАО и TASS описывают карьерный рост Кочкурова в НГДУ \"Ватьеганнефть\" с бурильщика до главного инженера управления.",
+          "source": "https://tass.ru/encyclopedia/person/kochkurov-sergey-alekseevich",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ТПП \"Когалымнефтегаз\" ООО \"ЛУКОЙЛ - Западная Сибирь\"",
+          "role": "заместитель генерального директора по производству; позднее генеральный директор",
+          "start_year": 2002,
+          "end_year": 2010,
+          "description": "Дума ХМАО указывает должность заместителя генерального директора по производству в 2002-2003 годах и генерального директора в 2009-2010 годах.",
+          "source": "https://www.dumahmao.ru/history/depfivesoz/detail.php?ID=23023",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ТПП \"Покачевнефтегаз\" ООО \"ЛУКОЙЛ - Западная Сибирь\"",
+          "role": "главный инженер - первый заместитель генерального директора; генеральный директор",
+          "start_year": 2003,
+          "end_year": 2009,
+          "description": "Дума ХМАО и TASS подтверждают работу главным инженером - первым заместителем гендиректора в 2003-2005 годах и генеральным директором в 2005-2009 годах.",
+          "source": "https://tass.ru/encyclopedia/person/kochkurov-sergey-alekseevich",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ООО \"ЛУКОЙЛ - Западная Сибирь\"",
+          "role": "первый заместитель генерального директора - главный инженер; генеральный директор",
+          "start_year": 2010,
+          "end_year": 2019,
+          "description": "Официальный пресс-релиз ЛУКОЙЛа от 17.04.2012 назначил Кочкурова генеральным директором ООО \"ЛУКОЙЛ - Западная Сибирь\"; официальный пресс-релиз от 01.04.2019 зафиксировал освобождение от этой должности.",
+          "source": "https://lukoil.ru/PressCenter/Pressreleases/Pressrelease/soobshchenie-press-sluzhby_88",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ПАО \"ЛУКОЙЛ\"",
+          "role": "вице-президент по производственному сервису",
+          "start_year": 2019,
+          "end_year": 2020,
+          "description": "Официальный пресс-релиз ЛУКОЙЛа от 25.06.2020 назначил Кочкурова вице-президентом по добыче нефти и газа в России; Kommersant и EPRussia указывают, что он занимал эту должность до назначения главным исполнительным директором в январе 2025 года. РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md). GICS присвоен по собственному основному виду деятельности организации (добыча/переработка нефти и газа), а не по деятельности материнской/дочерней структуры отдельно: строка \"Energy / Energy / Oil, Gas & Consumable Fuels\" скопирована verbatim из gics_taxonomy.json.",
+          "source": "https://lukoil.ru/PressCenter/Pressreleases/Pressrelease/soobshchenie-press-sluzhby_271",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ПАО \"ЛУКОЙЛ\"",
+          "role": "вице-президент по добыче нефти и газа в России",
+          "start_year": 2020,
+          "end_year": 2025,
+          "description": "Официальный пресс-релиз ЛУКОЙЛа от 25.06.2020 назначил Кочкурова вице-президентом по добыче нефти и газа в России; Kommersant и EPRussia указывают, что он занимал эту должность до назначения главным исполнительным директором в январе 2025 года.",
+          "source": "https://lukoil.ru/PressCenter/Pressreleases/Pressrelease/soobshchenie-press-sluzhby_303",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ПАО \"ЛУКОЙЛ\"",
+          "role": "главный исполнительный директор",
+          "start_year": 2025,
+          "end_year": null,
+          "description": "Kommersant, EPRussia и TASS сообщают, что совет директоров назначил Кочкурова главным исполнительным директором в январе 2025 года после прекращения полномочий Вадима Воробьева.",
+          "source": "https://www.kommersant.ru/doc/7431748",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "Дума Ханты-Мансийского автономного округа - Югры",
+          "role": "депутат; член комитета по бюджету, финансам и экономической политике / налоговой политике",
+          "start_year": 2011,
+          "end_year": 2016,
+          "description": "Профиль Думы ХМАО и TASS подтверждают депутатский мандат и работу в профильном комитете.",
+          "source": "https://www.dumahmao.ru/history/depfivesoz/detail.php?ID=23023",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [
+        {
+          "title": "Кустовая дожимная мультифазная насосная установка",
+          "patent_number": "RU176789U1",
+          "year": 2018,
+          "description": "Описание полезной модели к патенту указывает Кочкурова Сергея Алексеевича среди авторов, заявку 2016145217 от 17.11.2016, дату регистрации 29.01.2018 и патентообладателя ООО \"ЛУКОЙЛ - Западная Сибирь\".",
+          "source": "https://patentimages.storage.googleapis.com/af/67/e3/5b11a793974c66/RU176789U1.pdf"
+        },
+        {
+          "title": "Ступень погружного многоступенчатого лопастного насоса",
+          "patent_number": "RU188224U1",
+          "year": 2019,
+          "description": "Раунд 1 не смог прочитать страницу ФИПС по этому патенту (доступен был только поисковый сниппет) и не добавил его. В этом раунде качества страница патента прочитана через зеркало Google Patents: полный список из шести соавторов включает Кочкурова Сергея Алексеевича; заявка RU2018121560U от 27.08.2018, публикация 03.04.2019, патентообладатель ООО \"ЛУКОЙЛ ЭПУ Сервис\".",
+          "source": "https://patents.google.com/patent/RU188224U1/ru"
+        },
+        {
+          "title": "Устройство гидравлической защиты погружного электрического двигателя с усиленной осевой опорой",
+          "patent_number": "RU193137U1",
+          "year": 2019,
+          "description": "Раунд 1 нашел только цитату с инициалами \"Кочкуров С.А.\" в технической статье и не добавил патент. В этом раунде качества патент найден и прочитан через зеркало Google Patents с полным именем Кочкуров Сергей Алексеевич среди тех же шести соавторов, что и RU188224U1; заявка RU2018141993U от 29.11.2018, публикация 16.10.2019, патентообладатель ООО \"ЛУКОЙЛ ЭПУ Сервис\".",
+          "source": "https://patents.google.com/patent/RU193137U1/ru"
+        }
+      ],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Кочкуров Сергей Алексеевич for LKOH as Генеральный директор and notes that the board composition is not disclosed."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/LKOH/ГО2024 RUS_раскрытие.pdf",
+          "title": "Годовой отчет ПАО \"ЛУКОЙЛ\" за 2024 год",
+          "fact": "Страница 1: annual report for 2024 is signed by S.A. Кочкуров as Chief Executive Director after approval/preliminary approval in 2025; pages 53, 57-58 and 69 describe the 31.12.2024 governance structure and the chief executive director as the sole executive body."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/LKOH/FS IFRS Rus 1224 republished.pdf",
+          "title": "Раскрываемая консолидированная финансовая отчетность ПАО \"ЛУКОЙЛ\" за 2024 год",
+          "fact": "Page 6: the 2024 IFRS statement is signed by the acting Chief Executive Director and Chief Accountant V.A. Verkhov; no biography for Кочкуров was found in this file."
+        },
+        {
+          "url": "https://lukoil.ru/PressCenter/Pressreleases/Pressrelease/soobshchenie-press-sluzhby_88",
+          "title": "ЛУКОЙЛ press release, 17.04.2012",
+          "fact": "Official release appoints Сергей Кочкуров General Director of ООО \"ЛУКОЙЛ-Западная Сибирь\" and states his 1986, 2004 and 2009 education plus 1986-1995 work in НГДУ \"Ватьеганнефть\"."
+        },
+        {
+          "url": "https://lukoil.ru/PressCenter/Pressreleases/Pressrelease/soobshchenie-press-sluzhby_271",
+          "title": "ЛУКОЙЛ press release, 01.04.2019",
+          "fact": "Official release states Кочкуров was released from Vice-President / General Director of ООО \"ЛУКОЙЛ-Западная Сибирь\" and appointed Vice-President for Production Service."
+        },
+        {
+          "url": "https://lukoil.ru/PressCenter/Pressreleases/Pressrelease/soobshchenie-press-sluzhby_303",
+          "title": "ЛУКОЙЛ press release, 25.06.2020",
+          "fact": "Official release appoints Сергей Кочкуров Vice-President for Oil and Gas Production in Russia."
+        },
+        {
+          "url": "https://www.dumahmao.ru/history/depfivesoz/detail.php?ID=23023",
+          "title": "Дума Ханты-Мансийского автономного округа - Югры: Кочкуров Сергей Алексеевич",
+          "fact": "Official regional-parliament profile gives birth date/place, education, detailed 1981-2012 career, and deputy role."
+        },
+        {
+          "url": "https://tass.ru/encyclopedia/person/kochkurov-sergey-alekseevich",
+          "title": "ТАСС Энциклопедия: Кочкуров Сергей Алексеевич",
+          "fact": "TASS corroborates birth, Ufa/Tyumen education, career sequence, deputy role and January 2025 chief executive director appointment."
+        },
+        {
+          "url": "https://neftegaz.ru/persons/333338-kochkurov-sergey/",
+          "title": "Neftegaz.ru: Кочкуров Сергей Алексеевич",
+          "fact": "Industry biography corroborates education specialties, career milestones and January 2025 executive director role."
+        },
+        {
+          "url": "https://www.kommersant.ru/doc/7431748",
+          "title": "Коммерсантъ: ЛУКОЙЛ объявил о смене главного исполнительного директора",
+          "fact": "Article reports the board decision to replace Vadim Vorobyov with Сергей Кочкуров in January 2025 and states Кочкуров had been Vice-President for Oil and Gas Production in Russia since June 2020."
+        },
+        {
+          "url": "https://www.eprussia.ru/news/base/2025/6876188.htm",
+          "title": "Энергетика и промышленность России: Главным исполнительным директором «ЛУКОЙЛа» назначен Сергей Кочкуров",
+          "fact": "Industry article confirms January 2025 appointment, 2020 VP role, and Ufa/Tyumen education."
+        },
+        {
+          "url": "https://www.interfax.ru/business/1005203",
+          "title": "Интерфакс: \"ЛУКОЙЛ\" сменит руководителя крупнейшей добывающей \"дочки\"",
+          "fact": "Interfax describes the transition from LUKOIL-West Siberia to central-office VP for services, later VP for production in Russia, and January 2025 CEO appointment."
+        },
+        {
+          "url": "https://permneft-portal.ru/lukoilpro/orgkomitet/",
+          "title": "Пермская нефть: Оргкомитет",
+          "fact": "Page identifies Сергей Алексеевич Кочкуров as Vice-President for Oil and Gas Production in Russia at PJSC LUKOIL."
+        },
+        {
+          "url": "https://patentimages.storage.googleapis.com/af/67/e3/5b11a793974c66/RU176789U1.pdf",
+          "title": "RU176789U1 patent PDF",
+          "fact": "Patent document lists Кочкуров Сергей Алексеевич as author of the utility model and ООО \"ЛУКОЙЛ - Западная Сибирь\" as patent holder."
+        },
+        {
+          "url": "https://patents.google.com/patent/RU188224U1/ru",
+          "title": "RU188224U1 patent (Google Patents mirror)",
+          "fact": "Fetched this quality-pass round after round 1's FIPS page for this same patent number was unreadable. Confirms Кочкуров Сергей Алексеевич among six named inventors of \"Ступень погружного многоступенчатого лопастного насоса\" (app. RU2018121560U, filed 27.08.2018, published 03.04.2019), patent holder ООО \"ЛУКОЙЛ ЭПУ Сервис\"."
+        },
+        {
+          "url": "https://patents.google.com/patent/RU193137U1/ru",
+          "title": "RU193137U1 patent (Google Patents mirror)",
+          "fact": "Fetched this quality-pass round after round 1 only had an initials-only citation (\"Кочкуров С.А.\") for this patent number. Confirms full name Кочкуров Сергей Алексеевич among the same six inventors as RU188224U1 for \"Устройство гидравлической защиты погружного электрического двигателя с усиленной осевой опорой\" (app. RU2018141993U, filed 29.11.2018, published 16.10.2019), patent holder ООО \"ЛУКОЙЛ ЭПУ Сервис\"."
+        },
+        {
+          "url": "https://patents.google.com/patent/RU2693120C1/ru",
+          "title": "RU2693120C1 patent (Google Patents mirror) -- checked and rejected",
+          "fact": "Round 1 flagged a Patenton.ru search snippet appearing to list Кочкуров Сергей Алексеевич for this patent number but could not access the page (access denied). This quality-pass round fetched the patent directly via Google Patents: the sole inventor is Вячеслав Владимирович Леонов and the assignee is ООО \"Оклэс Технолоджиз\" -- Кочкуров does not appear anywhere in the document. Confirmed unrelated; not attributed to the target person."
+        }
+      ],
+      "notes": "Identity is strong by exact full name, birth details, LUKOIL/West Siberia career chain, regional deputy biography and official LUKOIL appointments. The main temporal caveat is that the CSV role \"Генеральный директор\" reflects a post-2024 appointment: sources indicate the chief executive director appointment occurred in January 2025, while the 2024 role is vice-president for oil and gas production in Russia. No verified academic degree, scholarly publication profile, ORCID/Scopus/Google Scholar profile or h-index for the target person was established. One full-name LUKOIL-West Siberia patent was verified; additional patent snippets were not added because the underlying pages were inaccessible or only initial-based. РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md). Точечный гап-филл (не редозе с нуля): целью раунда были поля qualification/qualification_degree в education[] (все три записи были null или не уточнены), нормализация институтов к university_names.json и GICS-разметка (уровень компании и все 9 записей professional_experience). Образование: институты нормализованы (все 3 уже присутствовали в university_names.json - новых институтов не найдено, new_institutions_found=[]); qualification_degree заполнен с обоснованием для двух записей (Уфимский нефтяной институт -> Specialist degree; НОУ ДПО/Институт нефтегазового бизнеса -> Professional certification) и оставлен null для одной записи (Тюменский государственный нефтегазовый университет), где тип/продолжительность программы остались неопределенными даже после точечного поиска. professional_experience: 8 записей, связанных с добычей/переработкой нефти и газа в структурах Башнефти и ЛУКОЙЛа, классифицированы как Energy/Energy/Oil, Gas & Consumable Fuels; депутатский мандат в Думе ХМАО-Югры оставлен null/null/null как государственный орган. Поля h_index, publications, research_experience повторно не исследовались в этом раунде: раунд 1 уже включал более 25 целевых запросов именно по этим направлениям (кандидат наук, диссертация, ORCID, Scopus, Google Scholar, eLIBRARY) с явным отрицательным результатом, задокументированным в research_notes; повторная проверка не входит в задачу точечного гап-филла (см. инструкцию: не передоказывать уже подтвержденные факты \"с нуля\"), и они остаются обоснованно null. Ограничение сессии: квота WebSearch была исчерпана (200/200) до начала этого раунда; дополнительный точечный поиск выполнен через WebFetch по прямым URL (lukoil.ru, dumahmao.ru, eprussia.ru) и через DuckDuckGo HTML/lite как запасной поисковый механизм. Identity is strong by exact full name, birth details, LUKOIL/West Siberia career chain, regional deputy biography and official LUKOIL appointments. The main temporal caveat is that the CSV role \"Генеральный директор\" reflects a post-2024 appointment: sources indicate the chief executive director appointment occurred in January 2025, while the 2024 role is vice-president for oil and gas production in Russia. No verified academic degree, scholarly publication profile, ORCID/Scopus/Google Scholar profile or h-index for the target person was established. Quality-pass round (2026-07-30): two additional full-name LUKOIL EPU Service patents (RU188224U1, RU193137U1) that round 1 could not read (FIPS page unreadable / only an initials-only citation) were located and confirmed via the Google Patents mirror, bringing the confirmed patent count to three, all with the same six-inventor team; a fourth patent number (RU2693120C1) that round 1 left as an unresolved snippet was checked directly this round and confirmed to belong to a different, unrelated inventor/assignee, so it remains excluded from this person's record. Education institution names were normalized to their canonical university_names.json form this round (Уфимский государственный нефтяной технический университет; Тюменский индустриальный университет; Московский институт нефтегазового бизнеса) -- this normalization had already been decided and documented in round 2's notes but had not actually been written into this JSON file until now. A fresh, bounded search for the formal qualification/degree title on the 1986 diploma, the 2004 qualification title, and the specific 2009 program name at the oil-and-gas-business institute did not surface any new confirmed detail; these three fields remain null."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/LKOH/ГО2024 RUS_раскрытие.pdf",
+      "title": "Годовой отчет ПАО \"ЛУКОЙЛ\" за 2024 год",
+      "fact": "Страница 53: annual report shows the corporate-governance structure as of 31 December 2024, including the shareholders meeting, board of directors, board committees and the chief executive director."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/LKOH/ГО2024 RUS_раскрытие.pdf",
+      "title": "Годовой отчет ПАО \"ЛУКОЙЛ\" за 2024 год",
+      "fact": "Страницы 57-58: annual report states the board of directors oversees the company, controls the sole executive body, appoints the chief executive director, and that the 26 April 2024 annual general meeting elected a nine-member board."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/LKOH/ГО2024 RUS_раскрытие.pdf",
+      "title": "Годовой отчет ПАО \"ЛУКОЙЛ\" за 2024 год",
+      "fact": "Страница 69: annual report states that the only executive body is the Chief Executive Director of PJSC LUKOIL, appointed by the board of directors for five years."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/LKOH/FS IFRS Rus 1224 republished.pdf",
+      "title": "Раскрываемая консолидированная финансовая отчетность ПАО \"ЛУКОЙЛ\" за 2024 год",
+      "fact": "Page 6: the 2024 IFRS statement is signed by the acting Chief Executive Director and Chief Accountant V.A. Verkhov, supporting the temporal caveat around the CEO role."
+    },
+    {
+      "url": "https://www.kommersant.ru/doc/7431748",
+      "title": "Коммерсантъ: ЛУКОЙЛ объявил о смене главного исполнительного директора",
+      "fact": "Article reports that in January 2025 LUKOIL's board terminated Vadim Vorobyov's powers and appointed Sergey Kochkurov; it also says Kochkurov had been Vice-President for Oil and Gas Production in Russia since June 2020."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "Input row for LKOH lists one person: Кочкуров Сергей Алексеевич, role \"Генеральный директор\"."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/LKOH/ГО2024 RUS_раскрытие.pdf",
+      "title": "Годовой отчет ПАО \"ЛУКОЙЛ\" за 2024 год",
+      "fact": "Local annual report checked for governance, chief executive body and Кочкуров signature; no full biography or education section for Кочкуров was present."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/LKOH/FS IFRS Rus 1224 republished.pdf",
+      "title": "Раскрываемая консолидированная финансовая отчетность ПАО \"ЛУКОЙЛ\" за 2024 год",
+      "fact": "Local IFRS report checked; no Кочкуров biography was present."
+    },
+    {
+      "url": "https://lukoil.ru/PressCenter/Pressreleases/Pressrelease/soobshchenie-press-sluzhby_88",
+      "title": "ЛУКОЙЛ press release, 17.04.2012",
+      "fact": "Official LUKOIL source for education and 2012 appointment to LUKOIL-West Siberia."
+    },
+    {
+      "url": "https://lukoil.ru/PressCenter/Pressreleases/Pressrelease/soobshchenie-press-sluzhby_271",
+      "title": "ЛУКОЙЛ press release, 01.04.2019",
+      "fact": "Official LUKOIL source for transition to Vice-President for Production Service."
+    },
+    {
+      "url": "https://lukoil.ru/PressCenter/Pressreleases/Pressrelease/soobshchenie-press-sluzhby_303",
+      "title": "ЛУКОЙЛ press release, 25.06.2020",
+      "fact": "Official LUKOIL source for appointment as Vice-President for Oil and Gas Production in Russia."
+    },
+    {
+      "url": "https://www.dumahmao.ru/history/depfivesoz/detail.php?ID=23023",
+      "title": "Дума ХМАО-Югры: Кочкуров Сергей Алексеевич",
+      "fact": "Regional-parliament biography for identity, education and detailed career history."
+    },
+    {
+      "url": "https://tass.ru/encyclopedia/person/kochkurov-sergey-alekseevich",
+      "title": "ТАСС Энциклопедия: Кочкуров Сергей Алексеевич",
+      "fact": "Independent biography corroborating identity, education, career and January 2025 appointment."
+    },
+    {
+      "url": "https://patentimages.storage.googleapis.com/af/67/e3/5b11a793974c66/RU176789U1.pdf",
+      "title": "RU176789U1 patent PDF",
+      "fact": "Patent source for confirmed patent authorship."
+    }
+  ],
+  "validation_notes": "Processed 1 CSV person for LKOH. Checked 2 local LKOH documents before web search. Completed 1 research round with more than 25 distinct queries and checks across official company releases, local reports, regional parliament, national/business/industry media, patent PDFs and technical publications. Education was confirmed for the only person. No person remains without confirmed education. The substantial uncertainty is temporal: CSV says Кочкуров is General Director, but sources place his chief executive director appointment in January 2025; therefore the 2024 CEO field is null and Кочкуров is included in tmt with his confirmed 2024 vice-president role plus the post-2024 appointment note. Weak or rejected sources: TEK-all was JavaScript-only; FIPS/Patenton patent hits were search-snippet-only or access denied; Wikipedia/Ruwiki were not used as factual sources. Excluded namesake/rejected scientific trail: Кочкуров Леонид Алексеевич in physics publications and unrelated \"кандидат наук\" comment snippets. No unresolved contradiction affects the education/career facts, but the CEO-in-2024 mapping remains intentionally unresolved because adding Vadim Vorobyov would add a person absent from CSV.\n\nРАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md). Компания классифицирована по GICS: Energy / Energy / Oil, Gas & Consumable Fuels (строка из gics_taxonomy.json скопирована verbatim на уровень компании и во все применимые записи professional_experience единственного человека в tmt - Кочкурова С.А.). Единственное исключение - депутатский мандат в Думе Ханты-Мансийского автономного округа - Югры (2011-2016): GICS не присвоен (null/null/null с обоснованием в описании записи), так как это региональный законодательный орган государственной власти, а не коммерческая организация. В education[] добавлен qualification_degree для всех трех записей: 'Specialist degree' для Уфимского нефтяного института (нормализован к канонической форме \"Уфимский государственный нефтяной технический университет\") - высокая уверенность на основании контекста (очная советская 5-летняя инженерная программа 1981-1986, до Болонской системы); null для Тюменского государственного нефтегазового университета (нормализован к канонической форме \"Тюменский индустриальный университет\") - тип/продолжительность второй программы высшего образования 2004 года остались неопределенными даже после точечного веб-поиска этого раунда, поэтому выбран null вместо догадки (методология согласована с прецедентом AFKS для структурно идентичного случая); 'Professional certification' для НОУ ДПО/Института нефтегазового бизнеса (нормализован к канонической форме \"Московский институт нефтегазового бизнеса\") - высокая уверенность на основании институционального типа учреждения (негосударственное ДПО, не аккредитованное на выдачу вузовских дипломов; методология согласована с прецедентом FEES). degrees[] остался пустым (без изменений) - академическая степень для Кочкурова С.А. по-прежнему не подтверждена ни одним источником, что уже было задокументировано в раунде 1; предпочтен null вместо непроверенной догадки. Нормализация вузов: все три института LKOH уже присутствовали как варианты в university_names.json - новых институтов не найдено (new_institutions_found=[]). Поля h_index, publications, research_experience остались null без повторного полного веб-поиска в этом раунде (раунд 1 уже документировал более 25 целевых запросов по научным/патентным профилям с отрицательным результатом) - это соответствует принципу точечного гап-филла, а не передоказательства с нуля. Ограничение сессии: квота WebSearch (200/200 вызовов) была исчерпана до начала этого раунда; весь дополнительный точечный поиск выполнен через WebFetch по прямым URL, уже процитированным в раунде 1 (lukoil.ru, dumahmao.ru, eprussia.ru), и через DuckDuckGo HTML/lite как запасной поисковый механизм; новых расхождений с уже подтвержденными фактами раунда 1 не обнаружено, ни один ранее подтвержденный факт не удален и не перезаписан молча. MASS DATA-LOSS REPAIR (2026-07-30): restored 1 shortened person notes, 1 shortened experience descriptions, 0 shortened education descriptions, 0 missing person-level sources, and 0 missing experience-level sources using git HEAD (commit 03bfe9f, 2026-07-20) as the reliable baseline. Nothing else in this file was touched.",
+  "sector": "Energy",
+  "industry_group": "Energy",
+  "industry": "Oil, Gas & Consumable Fuels"
+}

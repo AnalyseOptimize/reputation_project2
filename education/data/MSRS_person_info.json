@@ -1,0 +1,1637 @@
+{
+    "company_name":  "ПАО \"Россети Московский регион\" (ранее ПАО \"МОЭСК\")",
+    "company_ticker":  "MSRS",
+    "ceo":  {
+                "name":  "Александр Михайлович Пятигор",
+                "current_role":  "Генеральный директор, Председатель Правления ПАО \"Россети Московский регион\" с 12.09.2024",
+                "company_name":  "ПАО \"Россети Московский регион\"",
+                "education":  [
+                                  {
+                                      "institution":  "Казахский аграрный университет имени С. Сейфуллина",
+                                      "year":  2002,
+                                      "field":  "электроснабжение и электрификация",
+                                      "qualification":  "инженер-электрик",
+                                      "description":  "Годовой отчет за 2024 год подтверждает высшее образование, но не раскрывает вуз и специальность. Round 2 (2026-07-28) закрыл этот пробел: institution/year/field/qualification заполнены по независимо совпадающим текстам energostrana.ru и eepir.ru (verbatim: \"В 2002 году окончил Казахский аграрный университет имени С. Сейфуллина по специальности «электроснабжение и электрификация», получив квалификацию «инженер-электрик»\"). Quality-пасс (2026-07-30): факт был задокументирован в research_notes round 2, но не был перенесен в JSON; восстановлен в этом раунде после повторной проверки обоих источников через WebFetch (цитата подтверждена дословно в обоих).",
+                                      "sources":  [
+                                                      "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf",
+                                                      "https://energostrana.ru/persons/pyatigor-aleksandr-mihajlovich.html",
+                                                      "https://eepir.ru/person/aleksandr-mihajlovich-pyatigor/"
+                                                  ],
+                                      "qualification_degree":  "Specialist degree"
+                                  }
+                              ],
+                "degrees":  [
+
+                            ],
+                "professional_experience":  [
+                                                {
+                                                    "organization":  "ПАО \"Россети\"",
+                                                    "role":  "Заместитель генерального директора по реализации услуг",
+                                                    "start_year":  2018,
+                                                    "end_year":  2020,
+                                                    "sources":  [
+                                                                    "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf"
+                                                                ],
+                                                    "sector":  "Utilities",
+                                                    "industry_group":  "Utilities",
+                                                    "industry":  "Electric Utilities"
+                                                },
+                                                {
+                                                    "organization":  "ПАО \"Россети Ленэнерго\"",
+                                                    "role":  "Советник генерального директора; заместитель генерального директора по развитию и технологическому присоединению",
+                                                    "start_year":  2020,
+                                                    "end_year":  2020,
+                                                    "sources":  [
+                                                                    "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf"
+                                                                ],
+                                                    "sector":  "Utilities",
+                                                    "industry_group":  "Utilities",
+                                                    "industry":  "Electric Utilities"
+                                                },
+                                                {
+                                                    "organization":  "ПАО \"Россети Урал\"",
+                                                    "role":  "Генеральный директор, Председатель Правления до 11.09.2024; член Совета директоров с 2023 года",
+                                                    "start_year":  2022,
+                                                    "end_year":  2024,
+                                                    "sources":  [
+                                                                    "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf"
+                                                                ],
+                                                    "sector":  "Utilities",
+                                                    "industry_group":  "Utilities",
+                                                    "industry":  "Electric Utilities"
+                                                },
+                                                {
+                                                    "organization":  "ПАО \"Россети Московский регион\"",
+                                                    "role":  "Генеральный директор, Председатель Правления",
+                                                    "start_year":  2024,
+                                                    "end_year":  null,
+                                                    "description":  "В составе Правления с 25.10.2024 указан как генеральный директор; сноска годового отчета указывает дату 12.09.2024.",
+                                                    "sources":  [
+                                                                    "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf"
+                                                                ],
+                                                    "sector":  "Utilities",
+                                                    "industry_group":  "Utilities",
+                                                    "industry":  "Electric Utilities"
+                                                }
+                                            ],
+                "research_experience":  [
+
+                                        ],
+                "publications":  [
+
+                                 ],
+                "patents":  [
+
+                            ],
+                "h_index":  null,
+                "sources":  [
+                                {
+                                    "url":  "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf",
+                                    "title":  "Годовой отчет ПАО \"Россети Московский регион\" за 2024 год",
+                                    "fact":  "Страницы 205-206 и 339-340: отчет указывает состав Правления на 31.12.2024, называет Александра Пятигора генеральным директором и председателем Правления с 12.09.2024, приводит карьеру в Россети, Россети Ленэнерго, Россети Урал и Россети Московский регион."
+                                },
+                                {
+                                    "url":  "https://energostrana.ru/persons/pyatigor-aleksandr-mihajlovich.html",
+                                    "title":  "Пятигор Александр Михайлович - ЭнергоСтрана",
+                                    "fact":  "Отраслевая биография подтверждает дословно: \"В 2002 году окончил Казахский аграрный университет имени С. Сейфуллина по специальности «электроснабжение и электрификация», получив квалификацию «инженер-электрик»\"."
+                                },
+                                {
+                                    "url":  "https://eepir.ru/person/aleksandr-mihajlovich-pyatigor/",
+                                    "title":  "Пятигор Александр Михайлович - EEPIR",
+                                    "fact":  "Независимо совпадает дословно с формулировкой energostrana.ru об образовании в Казахском аграрном университете имени С. Сейфуллина (2002, специальность «электроснабжение и электрификация», квалификация «инженер-электрик»)."
+                                }
+                            ],
+                "notes":  "Александр Пятигор отсутствует в CSV, но включен в поле ceo, потому что официальный локальный годовой отчет подтверждает его как генерального директора на конец 2024 года. Вуз и специальность не раскрыты в местном отчете. Round 2 (2026-07-28): образование найдено в energostrana.ru и eepir.ru (независимо совпадающая формулировка) - Казахский аграрный университет имени С. Сейфуллина, 2002, «электроснабжение и электрификация», «инженер-электрик». Quality-пасс (2026-07-30): это заполнение было задокументировано в research_notes round 2, но отсутствовало в JSON (desync); восстановлено в этом раунде, оба источника повторно проверены через WebFetch."
+            },
+    "tmt":  [
+                {
+                    "name":  "Петр Алексеевич Синютин",
+                    "current_role":  "CSV: Chief Executive Officer; Director/Board Member. В официальном отчете 2024: генеральный директор и председатель Правления до 11.09.2024; член Совета директоров",
+                    "company_name":  "ПАО \"Россети Московский регион\"",
+                    "education":  [
+                                      {
+                                          "institution":  "South Ural State University (National Research University)",
+                                          "year":  1984,
+                                          "field":  "Электрические станции",
+                                          "qualification":  "инженер-электрик",
+                                          "description":  "Институт нормализован к каноническому имени из university_names.json (Челябинский политехнический институт впоследствии вошел в состав ЮУрГУ). Год и специальность подтверждены globalmsk.ru (round 2, 2026-07-28): \"В 1984 г. окончил Челябинский политехнический институт по специальности «Электрические станции».\" Quality-пасс (2026-07-30): заполнение было задокументировано в round 2, но отсутствовало в JSON (desync); восстановлено и перепроверено через WebFetch.",
+                                          "sources":  [
+                                                          "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf",
+                                                          "https://globalmsk.ru/person/id/2896"
+                                                      ],
+                                          "qualification_degree":  "Specialist degree"
+                                      },
+                                      {
+                                          "institution":  "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+                                          "year":  1998,
+                                          "field":  "государственное и муниципальное управление",
+                                          "qualification":  "экономист",
+                                          "description":  "Институт нормализован к каноническому имени из university_names.json. Год и квалификация подтверждены globalmsk.ru (round 2, 2026-07-28): \"В 1998 г. окончил Академию Госслужбы при Президенте РФ по специальности «Государственное и муниципальное управление, экономист».\" Quality-пасс (2026-07-30): восстановлено после desync-проверки, источник перепроверен через WebFetch.",
+                                          "sources":  [
+                                                          "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf",
+                                                          "https://globalmsk.ru/person/id/2896"
+                                                      ],
+                                          "qualification_degree":  "Specialist degree"
+                                      }
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "degree":  "кандидат технических наук",
+                                        "sources":  [
+                                                        "https://rossetimr.ru/upload/iblock/da9/moesk-ar2016-full-rus-smart_new.pdf"
+                                                    ],
+                                        "qualification_degree":  "Doctoral degree"
+                                    },
+                                    {
+                                        "degree":  "доктор экономических наук",
+                                        "sources":  [
+                                                        "https://rossetimr.ru/upload/iblock/da9/moesk-ar2016-full-rus-smart_new.pdf"
+                                                    ],
+                                        "qualification_degree":  "Doctoral degree"
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ОАО \"Мосэнергосбыт\"",
+                                                        "role":  "Управляющий директор; первый заместитель генерального директора",
+                                                        "start_year":  2010,
+                                                        "end_year":  2012,
+                                                        "sources":  [
+                                                                        "https://rossetimr.ru/upload/iblock/da9/moesk-ar2016-full-rus-smart_new.pdf"
+                                                                    ],
+                                                        "sector":  "Utilities",
+                                                        "industry_group":  "Utilities",
+                                                        "industry":  "Electric Utilities"
+                                                    },
+                                                    {
+                                                        "organization":  "ОАО/ПАО \"МОЭСК\" / ПАО \"Россети Московский регион\"",
+                                                        "role":  "И.о. генерального директора; генеральный директор; председатель Правления; член Совета директоров",
+                                                        "start_year":  2012,
+                                                        "end_year":  2024,
+                                                        "description":  "Годовой отчет 2024 подтверждает, что он был генеральным директором и председателем Правления до 11.09.2024 и членом Совета директоров с 2013 года.",
+                                                        "sources":  [
+                                                                        "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf",
+                                                                        "https://rossetimr.ru/upload/iblock/da9/moesk-ar2016-full-rus-smart_new.pdf"
+                                                                    ],
+                                                        "sector":  "Utilities",
+                                                        "industry_group":  "Utilities",
+                                                        "industry":  "Electric Utilities"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV contains Peter Alekseevich Sinyutin for MSRS as Chief Executive Officer and Director/Board Member."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf",
+                                        "title":  "Годовой отчет ПАО \"Россети Московский регион\" за 2024 год",
+                                        "fact":  "Страницы 190-191, 337, 340: Синютин Петр Алексеевич указан в составе Совета директоров; отчет раскрывает образование и указывает, что он был генеральным директором и председателем Правления до 11.09.2024."
+                                    },
+                                    {
+                                        "url":  "https://rossetimr.ru/upload/iblock/da9/moesk-ar2016-full-rus-smart_new.pdf",
+                                        "title":  "Годовой отчет ПАО \"МОЭСК\" за 2016 год",
+                                        "fact":  "Архивный официальный отчет указывает ученые степени и карьеру Синютина до и после прихода в МОЭСК."
+                                    },
+                                    {
+                                        "url":  "https://globalmsk.ru/person/id/2896",
+                                        "title":  "Синютин Петр Алексеевич - GlobalMSK",
+                                        "fact":  "Указывает годы окончания обоих вузов: 1984 (Челябинский политехнический институт, «Электрические станции») и 1998 (Академия Госслужбы при Президенте РФ, «Государственное и муниципальное управление, экономист»)."
+                                    }
+                                ],
+                    "notes":  "Не является генеральным директором на конец 2024 года: официальный отчет указывает прекращение полномочий 11.09.2024 и назначение Александра Пятигора с 12.09.2024. Round 2 (2026-07-28): годы окончания обоих вузов и квалификация второго вуза заполнены по globalmsk.ru. Quality-пасс (2026-07-30): это заполнение и нормализация названий вузов были задокументированы в round 2, но отсутствовали в JSON (desync); восстановлены в этом раунде, источник перепроверен через WebFetch."
+                },
+                {
+                    "name":  "Владимир Юрьевич Мясников",
+                    "current_role":  "Первый заместитель генерального директора по финансово-экономической деятельности; член Правления",
+                    "company_name":  "ПАО \"Россети Московский регион\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Национальный исследовательский ядерный университет «МИФИ»",
+                                          "year":  null,
+                                          "field":  null,
+                                          "qualification":  "инженер-физик",
+                                          "description":  "Институт нормализован к каноническому имени из university_names.json (МИФИ). Год выпуска остается неподтвержденным: round 2 (2026-07-28) искал год и вместо этого нашел противоречащую версию карьеры (wiki.fa100.ru, Кольская ГМК/Норникель 1999-2006, Росэнергоатом с 2011), которая была сознательно отклонена как противоречащая уже подтвержденной хронологии 2004-2016 из atomic-energy.ru. Quality-пасс (2026-07-30): выполнена дополнительная попытка (WebFetch на energostrana.ru/persons/myasnikov-vladimir-yurevich.html - 404; WebSearch недоступен, квота исчерпана в этой сессии) - год по-прежнему не найден, оставлен null.",
+                                          "sources":  [
+                                                          "https://www.atomic-energy.ru/experts/myasnikov-vladimir-yurevich"
+                                                      ],
+                                          "qualification_degree":  "Specialist degree"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ОАО/АО \"Концерн Росэнергоатом\"",
+                                                        "role":  "Экономические, планово-тарифные и руководящие финансовые должности; первый заместитель генерального директора / исполнительный директор по экономике и финансам",
+                                                        "start_year":  2004,
+                                                        "end_year":  2016,
+                                                        "sources":  [
+                                                                        "https://www.atomic-energy.ru/experts/myasnikov-vladimir-yurevich"
+                                                                    ],
+                                                        "sector":  "Utilities",
+                                                        "industry_group":  "Utilities",
+                                                        "industry":  "Electric Utilities"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Россети Московский регион\"",
+                                                        "role":  "Первый заместитель генерального директора по финансово-экономической деятельности; член Правления",
+                                                        "start_year":  2017,
+                                                        "end_year":  null,
+                                                        "sources":  [
+                                                                        "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf"
+                                                                    ],
+                                                        "sector":  "Utilities",
+                                                        "industry_group":  "Utilities",
+                                                        "industry":  "Electric Utilities"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV contains Vladimir Yurievich Myasnikov for MSRS as Director of Finance/CFO."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf",
+                                        "title":  "Годовой отчет ПАО \"Россети Московский регион\" за 2024 год",
+                                        "fact":  "Страницы 206, 343-344: Мясников Владимир Юрьевич указан членом Правления и первым заместителем генерального директора по финансово-экономической деятельности."
+                                    },
+                                    {
+                                        "url":  "https://www.atomic-energy.ru/experts/myasnikov-vladimir-yurevich",
+                                        "title":  "Мясников Владимир Юрьевич - Atomic Energy",
+                                        "fact":  "Биография указывает образование в МИФИ и карьеру в Концерне Росэнергоатом."
+                                    }
+                                ],
+                    "notes":  "Официальный локальный отчет раскрывает только факт высшего образования; вуз и квалификация взяты из отраслевой биографии Atomic Energy. Round 2 (2026-07-28): институт нормализован к каноническому имени; год выпуска не найден, обнаруженная альтернативная карьерная хронология (wiki.fa100.ru) отклонена как противоречащая уже подтвержденным датам. Quality-пасс (2026-07-30): один дополнительный ограниченный заход на закрытие пробела года выпуска не дал результата (см. education[0].description); гэп остается открытым."
+                },
+                {
+                    "name":  "Всеволод Евгеньевич Иванов",
+                    "current_role":  "CSV: Chief Tech/Sci/R&D Officer; не найден в локальном отчете 2024. Round 2 (2026-07-28): подтвержден дословно как главный инженер МОЭСК (с июля 2015), с 2018 - главный инженер филиала \"Московские высоковольтные сети\".",
+                    "company_name":  "ПАО \"МОЭСК\" / ПАО \"Россети Московский регион\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Московский государственный открытый университет имени В.С. Черномырдина",
+                                          "year":  2005,
+                                          "field":  "Электрические станции",
+                                          "qualification":  null,
+                                          "description":  "Пониженная достоверность: единственный источник (peretok.ru) удалось прочитать только через сниппет поисковика (WebSearch), прямой WebFetch дважды вернул ECONNREFUSED (сайт недоступен), проверено повторно в этом раунде.",
+                                          "sources":  [
+                                                          "https://peretok.ru/references/persons/223/10634/"
+                                                      ],
+                                          "qualification_degree":  "Specialist degree"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"МОЭСК\"",
+                                                        "role":  "Электромонтер -> мастер -> диспетчер -> заместитель главного инженера -> директор филиала (ранний карьерный путь)",
+                                                        "start_year":  1997,
+                                                        "end_year":  2013,
+                                                        "description":  "Пониженная достоверность: даты и должности из сниппетов peretok.ru/globalmsk.ru (WebSearch, прямой фетч недоступен); начало ~1997 года дополнительно косвенно подтверждено формулировкой ruscable.ru о \"более 20 лет\" опыта на момент назначения в ноябре 2018.",
+                                                        "sources":  [
+                                                                        "https://peretok.ru/references/persons/223/10634/",
+                                                                        "https://globalmsk.ru/person/id/4186",
+                                                                        "https://www.ruscable.ru/news/2018/11/23/Dmitrij_Gvozdev_naznachen_na_dolzhnosty_glavnogo_i/"
+                                                                    ],
+                                                        "sector":  "Utilities",
+                                                        "industry_group":  "Utilities",
+                                                        "industry":  "Electric Utilities"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"МОЭСК\"",
+                                                        "role":  "Первый заместитель генерального директора - главный инженер",
+                                                        "start_year":  2015,
+                                                        "end_year":  2018,
+                                                        "description":  "Подтверждено дословным прочтением ruscable.ru (WebFetch, независимая проверка в этом раунде): \"Занимавший ранее должность главного инженера МОЭСК Всеволод Иванов назначен главным инженером 'Московских высоковольтных сетей'\"; должность в МОЭСК занимал с июля 2015 года.",
+                                                        "sources":  [
+                                                                        "https://www.ruscable.ru/news/2018/11/23/Dmitrij_Gvozdev_naznachen_na_dolzhnosty_glavnogo_i/"
+                                                                    ],
+                                                        "sector":  "Utilities",
+                                                        "industry_group":  "Utilities",
+                                                        "industry":  "Electric Utilities"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"МОЭСК\", филиал \"Московские высоковольтные сети\"",
+                                                        "role":  "Главный инженер",
+                                                        "start_year":  2018,
+                                                        "end_year":  null,
+                                                        "description":  "Подтверждено дословным прочтением ruscable.ru (23.11.2018, WebFetch, независимая проверка в этом раунде).",
+                                                        "sources":  [
+                                                                        "https://www.ruscable.ru/news/2018/11/23/Dmitrij_Gvozdev_naznachen_na_dolzhnosty_glavnogo_i/"
+                                                                    ],
+                                                        "sector":  "Utilities",
+                                                        "industry_group":  "Utilities",
+                                                        "industry":  "Electric Utilities"
+                                                    }
+                                                ],
+                                        "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV contains Vsevolod Evgenyevich Ivanov for MSRS as Chief Tech/Sci/R&D Officer."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf",
+                                        "title":  "Годовой отчет ПАО \"Россети Московский регион\" за 2024 год",
+                                        "fact":  "Checked for Vsevolod/Ivanov names; no Vsevolod Ivanov biography found. Page 342 contains Oleg Vladimirovich Ivanov, treated as a different person."
+                                    },
+                                    {
+                                        "url":  "https://www.marketscreener.com/quote/stock/ROSSETI-MOSCOW-REGION-6498954/company-governance/",
+                                        "title":  "Rosseti Moscow Region - Company Governance - MarketScreener",
+                                        "fact":  "Aggregator page provides weak corroboration of CSV-style historical management profiles."
+                                    }
+                                ],
+                    "notes":  "Significant uncertainty: no strong official biography or education source found in round 1. The local 2024 report\u0027s Oleg Ivanov is a different person. Round 2 (2026-07-28): identity/current role independently confirmed via verbatim WebFetch of ruscable.ru (chief engineer of МОЭСК from July 2015, chief engineer of филиал \"Московские высоковольтные сети\" from 2018); education (2005, Московский государственный открытый университет имени В.С. Черномырдина) and early-career history (1997-2013, ПАО \"МОЭСК\") added via peretok.ru/globalmsk.ru search snippets, flagged reduced-confidence since direct WebFetch to both sites returned ECONNREFUSED."
+                },
+                {
+                    "name":  "Ирина Алёхина",
+                    "current_role":  "Investor Relations Contact",
+                    "company_name":  "ПАО \"МОЭСК\" / ПАО \"Россети Московский регион\"",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Россети Московский регион\" / ПАО \"МОЭСК\"",
+                                                        "role":  "Investor relations contact",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "sources":  [
+                                                                        "https://rossetimr.ru/about/client/info_vladeltsam/aktsioneram_i_investoram/contacts/",
+                                                                        "https://www.marketscreener.com/quote/stock/ROSSETI-MOSCOW-REGION-6498954/company-governance/"
+                                                                    ],
+                                                        "sector":  "Utilities",
+                                                        "industry_group":  "Utilities",
+                                                        "industry":  "Electric Utilities"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV contains Irina Alekhina for MSRS as Investor Relations Contact."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf",
+                                        "title":  "Годовой отчет ПАО \"Россети Московский регион\" за 2024 год",
+                                        "fact":  "Local 2024 report checked; no named biography for Irina Alekhina found."
+                                    },
+                                    {
+                                        "url":  "https://rossetimr.ru/about/client/info_vladeltsam/aktsioneram_i_investoram/contacts/",
+                                        "title":  "Contact Information - Rosseti Moscow Region",
+                                        "fact":  "Official company investor contact page confirms the IR contact channel used for investor relations."
+                                    },
+                                    {
+                                        "url":  "https://www.marketscreener.com/quote/stock/ROSSETI-MOSCOW-REGION-6498954/company-governance/",
+                                        "title":  "Rosseti Moscow Region - Company Governance - MarketScreener",
+                                        "fact":  "Aggregator page identifies Irina Alekhina as investor relations contact."
+                                    }
+                                ],
+                    "notes":  "No reliable public education or full biography found. Namesakes in insurance/academic contexts were excluded. Round 2 (2026-07-28): дополнительный поиск (\"Ирина Алехина\"/\"Ирина Алёхина\" Россети Московский регион инвесторы; rossetimr.ru \"Алехина\"/\"Алёхина\") не нашел новых фактов, только неродственные однофамилицы (архитектор в Курской области, страховой юрист Национальной страховой гильдии). Quality-пасс (2026-07-30): попытка закрыть гэп повторена -- WebFetch на официальную страницу контактов rossetimr.ru вернул 403 Forbidden; WebSearch недоступен (квота сессии исчерпана). Образование остается открытым пробелом, гэп задокументирован для будущих проходов."
+                },
+                {
+                    "name":  "Лилия Ивановна Шелест",
+                    "current_role":  "CSV: Human Resources Officer; weak public corroboration as head-of-staff/HR-related officer",
+                    "company_name":  "ПАО \"МОЭСК\" / ПАО \"Россети Московский регион\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Коми государственный педагогический институт",
+                                          "year":  1990,
+                                          "field":  "французский и немецкий языки",
+                                          "qualification":  null,
+                                          "description":  "Найдено round 2 (2026-07-28) через peretok.ru (\"Лица отрасли: Шелест Лилия Ивановна\"). Пониженная достоверность: единственный источник удалось прочитать только через сниппет поисковика (WebSearch), прямой WebFetch дважды вернул ECONNREFUSED (сайт недоступен). Институт отсутствует в university_names.json (в 2014 году вошел в состав Сыктывкарского государственного университета имени Питирима Сорокина), логируется как новый институт. qualification_degree=Specialist degree по прецеденту пятилетних советских педагогических программ этого периода. Quality-пасс (2026-07-30): это заполнение было задокументировано в round 2, но не перенесено в JSON (desync); восстановлено в этом раунде, повторная попытка WebFetch снова вернула ECONNREFUSED.",
+                                          "sources":  [
+                                                          "https://peretok.ru/references/persons/238/10927/"
+                                                      ],
+                                          "qualification_degree":  "Specialist degree"
+                                      },
+                                      {
+                                          "institution":  "Вятский государственный гуманитарный университет",
+                                          "year":  2005,
+                                          "field":  "психология",
+                                          "qualification":  null,
+                                          "description":  "Второе высшее образование. Найдено round 2 (2026-07-28) через peretok.ru, та же пониженная достоверность (снова только сниппет поисковика). Институт отсутствует в university_names.json (в 2015-2016 годах слит с Вятским государственным университетом). qualification_degree=Specialist degree (умеренная уверенность: программы второго высшего образования по психологии в российских гуманитарных вузах этого периода обычно давали единый диплом \"психолог\", а не отдельные бакалавриат/магистратуру). Quality-пасс (2026-07-30): восстановлено после desync-проверки.",
+                                          "sources":  [
+                                                          "https://peretok.ru/references/persons/238/10927/"
+                                                      ],
+                                          "qualification_degree":  "Specialist degree"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ОАО \"Южная генерирующая компания\" (ТГК-8)",
+                                                        "role":  "Не указана детально",
+                                                        "start_year":  2006,
+                                                        "end_year":  2006,
+                                                        "description":  "Найдено round 2 (2026-07-28) через peretok.ru (сниппет поисковика, прямой фетч недоступен). Quality-пасс (2026-07-30): восстановлено после desync-проверки.",
+                                                        "sources":  [
+                                                                        "https://peretok.ru/references/persons/238/10927/"
+                                                                    ],
+                                                        "sector":  "Utilities",
+                                                        "industry_group":  "Utilities",
+                                                        "industry":  "Electric Utilities"
+                                                    },
+                                                    {
+                                                        "organization":  "ОАО \"Мосэнергосбыт\"",
+                                                        "role":  "Не указана детально",
+                                                        "start_year":  2007,
+                                                        "end_year":  2012,
+                                                        "description":  "Найдено round 2 (2026-07-28) через peretok.ru (сниппет поисковика, прямой фетч недоступен). Quality-пасс (2026-07-30): восстановлено после desync-проверки.",
+                                                        "sources":  [
+                                                                        "https://peretok.ru/references/persons/238/10927/"
+                                                                    ],
+                                                        "sector":  "Utilities",
+                                                        "industry_group":  "Utilities",
+                                                        "industry":  "Electric Utilities"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Россети Московский регион\" / ПАО \"МОЭСК\"",
+                                                        "role":  "Human resources / head-of-staff related role (руководитель аппарата)",
+                                                        "start_year":  2012,
+                                                        "end_year":  null,
+                                                        "description":  "CSV role is corroborated only by weak aggregator and official social-media evidence originally; round 2 (2026-07-28) added peretok.ru (сниппет), которая независимо сходится с Telegram-источником на роли \"руководитель аппарата\" с июля 2012 года, повышая уверенность. Quality-пасс (2026-07-30): восстановлено после desync-проверки.",
+                                                        "sources":  [
+                                                                        "MOEXBMI_2024.csv",
+                                                                        "https://www.marketscreener.com/quote/stock/ROSSETI-MOSCOW-REGION-6498954/company-governance/",
+                                                                        "https://t.me/rossetimr_official/1253",
+                                                                        "https://peretok.ru/references/persons/238/10927/"
+                                                                    ],
+                                                        "sector":  "Utilities",
+                                                        "industry_group":  "Utilities",
+                                                        "industry":  "Electric Utilities"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV contains Lilia Ivanovna Shelest for MSRS as Human Resources Officer."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf",
+                                        "title":  "Годовой отчет ПАО \"Россети Московский регион\" за 2024 год",
+                                        "fact":  "Local 2024 report checked; no named biography for Lilia Shelest found."
+                                    },
+                                    {
+                                        "url":  "https://www.marketscreener.com/quote/stock/ROSSETI-MOSCOW-REGION-6498954/company-governance/",
+                                        "title":  "Rosseti Moscow Region - Company Governance - MarketScreener",
+                                        "fact":  "Aggregator page provides weak corroboration of a management/officer role."
+                                    },
+                                    {
+                                        "url":  "https://t.me/rossetimr_official/1253",
+                                        "title":  "Official Rosseti Moscow Region Telegram post",
+                                        "fact":  "Company social-media post identifies Liliya Shelest as head of staff and says she had worked in the company for 12 years; used only as weak corroboration, not as a precise 2024 HR title source."
+                                    },
+                                    {
+                                        "url":  "https://peretok.ru/references/persons/238/10927/",
+                                        "title":  "Лица отрасли: Шелест Лилия Ивановна - Переток",
+                                        "fact":  "Отраслевая биография (доступна только через сниппет поисковика; прямой WebFetch дважды вернул ECONNREFUSED, включая повторную попытку в quality-пассе 2026-07-30) дает образование (Коми гос. пединститут 1990, Вятский гос. гуманитарный университет 2005) и карьеру (ТГК-8 2006, Мосэнергосбыт 2007-2012, руководитель аппарата МОЭСК с июля 2012)."
+                                    }
+                                ],
+                    "notes":  "Significant uncertainty: education and detailed career history не удалось подтвердить in round 1; source strength is weak. Round 2 (2026-07-28): образование (2 записи) и три записи карьеры добавлены по peretok.ru (сниппет поисковика, сниженная достоверность -- прямой фетч недоступен). Quality-пасс (2026-07-30): весь этот объем данных был задокументирован в round 2, но не перенесен в JSON (desync); полностью восстановлен в этом раунде; повторная попытка WebFetch на peretok.ru снова вернула ECONNREFUSED, достоверность остается сниженной."
+                },
+                {
+                    "name":  "Анатолий Анатольевич Гавриленко",
+                    "current_role":  "Член Совета директоров ПАО \"Россети Московский регион\"; генеральный директор ЗАО \"Лидер\"",
+                    "company_name":  "ПАО \"Россети Московский регион\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Московский государственный университет имени М.В. Ломоносова",
+                                          "year":  1995,
+                                          "field":  "экономическая кибернетика",
+                                          "qualification":  null,
+                                          "description":  "Институт нормализован к каноническому имени из university_names.json (round 2, 2026-07-28). Quality-пасс (2026-07-30): нормализация была задокументирована в round 2, но не перенесена в JSON (desync); восстановлена в этом раунде.",
+                                          "sources":  [
+                                                          "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf"
+                                                      ],
+                                          "qualification_degree":  "Specialist degree"
+                                      },
+                                      {
+                                          "institution":  "Московский государственный университет имени М.В. Ломоносова",
+                                          "year":  2001,
+                                          "field":  "юриспруденция",
+                                          "qualification":  null,
+                                          "description":  "Институт нормализован к каноническому имени из university_names.json (round 2, 2026-07-28). Quality-пасс (2026-07-30): нормализация была задокументирована в round 2, но не перенесена в JSON (desync); восстановлена в этом раунде.",
+                                          "sources":  [
+                                                          "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf"
+                                                      ],
+                                          "qualification_degree":  "Specialist degree"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ЗАО \"Лидер\"",
+                                                        "role":  "Генеральный директор; член Совета директоров",
+                                                        "start_year":  2004,
+                                                        "end_year":  null,
+                                                        "sources":  [
+                                                                        "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Россети Московский регион\"",
+                                                        "role":  "Член Совета директоров",
+                                                        "start_year":  2005,
+                                                        "end_year":  null,
+                                                        "sources":  [
+                                                                        "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf"
+                                                                    ],
+                                                        "sector":  "Utilities",
+                                                        "industry_group":  "Utilities",
+                                                        "industry":  "Electric Utilities"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV contains Anatoliy Gavrilenko for MSRS as Director/Board Member."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf",
+                                        "title":  "Годовой отчет ПАО \"Россети Московский регион\" за 2024 год",
+                                        "fact":  "Страницы 188-189 и 329: Гавриленко Анатолий Анатольевич указан членом Совета директоров; раскрыты образование в МГУ и должность генерального директора ЗАО \"Лидер\"."
+                                    }
+                                ],
+                    "notes":  "Round 2 (2026-07-28): институты нормализованы к каноническим именам, qualification_degree и GICS добавлены; фактических пробелов не было (все поля уже подтверждены годовым отчетом в round 1). Quality-пасс (2026-07-30): нормализация институтов была задокументирована в round 2, но не перенесена в JSON (desync); восстановлена в этом раунде."
+                },
+                {
+                    "name":  "Алексей Викторович Нуждов",
+                    "current_role":  "Член Совета директоров ПАО \"Россети Московский регион\"; старший вице-президент АО \"НПФ ГАЗФОНД\"",
+                    "company_name":  "ПАО \"Россети Московский регион\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Саратовское высшее военное командное краснознаменное училище МВД СССР имени Ф.Э. Дзержинского",
+                                          "year":  1989,
+                                          "field":  "мотострелковые войска",
+                                          "qualification":  "офицер",
+                                          "description":  "Год заполнен по wiki.letopis.ru (round 2, 2026-07-28), которая цитирует официальный документ раскрытия АО «НПФ ГАЗФОНД» (\"СВЕДЕНИЯ ... 31.12.pdf\"): 1989 год выпуска, подтвержден независимо двумя упоминаниями в одном поиске. Институт нормализован к каноническому имени из university_names.json. Quality-пасс (2026-07-30): это заполнение было задокументировано в round 2, но не перенесено в JSON (desync); восстановлено в этом раунде.",
+                                          "sources":  [
+                                                          "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf",
+                                                          "https://wiki.letopis.ru/index.php?title=Нуждов_Алексей_Викторович"
+                                                      ],
+                                          "qualification_degree":  "Specialist degree"
+                                      },
+                                      {
+                                          "institution":  "Высшие курсы ФСК России",
+                                          "year":  1994,
+                                          "field":  "военная контрразведка",
+                                          "qualification":  "офицер с высшим специальным образованием",
+                                          "description":  "Второе образование, найдено round 2 (2026-07-28) через wiki.letopis.ru, цитирующую официальный документ раскрытия АО «НПФ ГАЗФОНД». Короткий специализированный курс переподготовки, не полная программа высшего образования, поэтому qualification_degree=Professional certification. Институт отсутствует в university_names.json; логируется как новый институт, кандидат канонического имени \"Высшие курсы Федеральной службы контрразведки Российской Федерации\". Quality-пасс (2026-07-30): восстановлено после desync-проверки.",
+                                          "sources":  [
+                                                          "https://wiki.letopis.ru/index.php?title=Нуждов_Алексей_Викторович"
+                                                      ],
+                                          "qualification_degree":  "Professional certification"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ЗАО \"Лидер\"",
+                                                        "role":  "Заместитель генерального директора по инвестициям",
+                                                        "start_year":  2008,
+                                                        "end_year":  2018,
+                                                        "description":  "Найдено round 2 (2026-07-28) через wiki.letopis.ru, цитирующую официальный документ раскрытия АО «НПФ ГАЗФОНД»; ранее в файле отсутствовало. Quality-пасс (2026-07-30): восстановлено после desync-проверки.",
+                                                        "sources":  [
+                                                                        "https://wiki.letopis.ru/index.php?title=Нуждов_Алексей_Викторович"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "АО \"НПФ ГАЗФОНД\"",
+                                                        "role":  "Старший вице-президент",
+                                                        "start_year":  2018,
+                                                        "end_year":  null,
+                                                        "description":  "start_year=2018 заполнен по wiki.letopis.ru (round 2, 2026-07-28). Quality-пасс (2026-07-30): исправлена перепутанная GICS-метка -- эта запись (НПФ, негосударственный пенсионный фонд) ранее была ошибочно помечена Financials/Financial Services (New Name)/Capital Markets, а метка Financials/Insurance/Insurance ошибочно стояла на записи ПАО «Россети Московский регион» ниже. НПФ по бизнес-модели (актуарные резервы, пенсионные/аннуитетные обязательства) ближе к страхованию жизни, чем к рынкам капитала; в GICS нет отдельной категории пенсионных фондов, поэтому применена Insurance/Insurance по аналогии, использованной в round 2 для этого же работодателя у другого члена Совета директоров (Логовинский).",
+                                                        "sources":  [
+                                                                        "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf",
+                                                                        "https://wiki.letopis.ru/index.php?title=Нуждов_Алексей_Викторович"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Insurance",
+                                                        "industry":  "Insurance"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Россети Московский регион\"",
+                                                        "role":  "Член Совета директоров",
+                                                        "start_year":  2010,
+                                                        "end_year":  null,
+                                                        "description":  "Quality-пасс (2026-07-30): исправлена перепутанная GICS-метка -- эта запись (член Совета директоров электросетевой компании) ранее была ошибочно помечена Financials/Insurance/Insurance (метка, которая относится к работодателю НПФ ГАЗФОНД выше); исправлено на Utilities/Utilities/Electric Utilities по прямому прецеденту всех остальных записей ПАО «Россети Московский регион» в этом файле.",
+                                                        "sources":  [
+                                                                        "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf"
+                                                                    ],
+                                                        "sector":  "Utilities",
+                                                        "industry_group":  "Utilities",
+                                                        "industry":  "Electric Utilities"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV contains Aleksey Viktorovich Nuzhdov for MSRS as Director/Board Member."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf",
+                                        "title":  "Годовой отчет ПАО \"Россети Московский регион\" за 2024 год",
+                                        "fact":  "Страницы 190 и 335: Нуждов Алексей Викторович указан членом Совета директоров; раскрыты образование и должность старшего вице-президента АО \"НПФ ГАЗФОНД\"."
+                                    },
+                                    {
+                                        "url":  "https://wiki.letopis.ru/index.php?title=Нуждов_Алексей_Викторович",
+                                        "title":  "Нуждов Алексей Викторович - Экономическая летопись России",
+                                        "fact":  "Цитирует официальный документ раскрытия АО «НПФ ГАЗФОНД», подтверждает год выпуска военного училища (1989), второе образование (Высшие курсы ФСК России, 1994), должность в ЗАО «Лидер» (2008-2018, заместитель генерального директора по инвестициям) и переход в АО «НПФ ГАЗФОНД» с 2018 года."
+                                    }
+                                ],
+                    "notes":  "Round 2 (2026-07-28): год окончания училища, второе образование и должность в ЗАО «Лидер» (2008-2018) заполнены по wiki.letopis.ru. Quality-пасс (2026-07-30): это заполнение было задокументировано в round 2, но не перенесено в JSON (desync); восстановлено в этом раунде. Дополнительно исправлена перепутанная GICS-метка между записями АО «НПФ ГАЗФОНД» и ПАО «Россети Московский регион» в professional_experience (см. описания записей)."
+                },
+                {
+                    "name":  "Сергей Александрович Никитин",
+                    "current_role":  "Независимый член Совета директоров ПАО \"Россети Московский регион\"; первый заместитель генерального директора ЗАО \"Лидер\"",
+                    "company_name":  "ПАО \"Россети Московский регион\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Московский государственный технический университет имени Н.Э. Баумана",
+                                          "year":  null,
+                                          "field":  "конструирование и производство радиоэлектронных средств",
+                                          "qualification":  null,
+                                          "description":  "Институт нормализован к каноническому имени из university_names.json (round 2, 2026-07-28). Год и квалификация остаются неподтвержденными: round 2 провела дополнительный целевой поиск (\"Никитин Сергей Александрович\" \"Лидер\" \"Бауман\" ИЛИ \"ВШЭ\" биография), который вернул только однофамильцев (культуролог, советский историк-славист, физик МГУ), не связанных с ЗАО «Лидер» или Советом директоров. Quality-пасс (2026-07-30): нормализация была задокументирована в round 2, но не перенесена в JSON (desync); восстановлена в этом раунде.",
+                                          "sources":  [
+                                                          "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf"
+                                                      ],
+                                          "qualification_degree":  "Specialist degree"
+                                      },
+                                      {
+                                          "institution":  "Национальный исследовательский университет «Высшая школа экономики»",
+                                          "year":  null,
+                                          "field":  "финансы и кредит",
+                                          "qualification":  null,
+                                          "description":  "Институт нормализован к каноническому имени из university_names.json (round 2, 2026-07-28). Год и квалификация остаются неподтвержденными (см. описание первой записи образования). Quality-пасс (2026-07-30): восстановлено после desync-проверки.",
+                                          "sources":  [
+                                                          "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf"
+                                                      ],
+                                          "qualification_degree":  "Specialist degree"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ЗАО \"Лидер\"",
+                                                        "role":  "Первый заместитель генерального директора",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "sources":  [
+                                                                        "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Россети Московский регион\"",
+                                                        "role":  "Член Совета директоров; независимый директор",
+                                                        "start_year":  2013,
+                                                        "end_year":  null,
+                                                        "description":  "Отчет 2024 указывает признание независимым директором решением Совета директоров от 24.07.2024.",
+                                                        "sources":  [
+                                                                        "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf"
+                                                                    ],
+                                                        "sector":  "Utilities",
+                                                        "industry_group":  "Utilities",
+                                                        "industry":  "Electric Utilities"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV contains Sergey Alexandrovich Nikitin for MSRS as Director/Board Member."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf",
+                                        "title":  "Годовой отчет ПАО \"Россети Московский регион\" за 2024 год",
+                                        "fact":  "Страницы 190, 192 и 335: Никитин Сергей Александрович указан членом Совета директоров и независимым директором; раскрыты образование и должность в ЗАО \"Лидер\"."
+                                    }
+                                ],
+                    "notes":  "Round 2 (2026-07-28): институты нормализованы к каноническим именам, qualification_degree и GICS добавлены; дополнительный целевой поиск года выпуска и квалификации не нашел релевантных источников (только однофамильцы). Quality-пасс (2026-07-30): нормализация институтов была задокументирована в round 2, но не перенесена в JSON (desync); восстановлена в этом раунде. Год и квалификация остаются открытым пробелом (см. education[].description)."
+                },
+                {
+                    "name":  "Сергей Валентинович Грищенко",
+                    "current_role":  "CSV: Director/Board Member; в локальном отчете 2024 не входит в текущий Совет директоров. Round 2 (2026-07-28): подтверждено членство в Совете директоров МОЭСК в 2012, 2015 и 2017 годах как представителя Банка ГПБ (АО) (Газпромбанк).",
+                    "company_name":  "ПАО \"МОЭСК\" / ПАО \"Россети Московский регион\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Московский государственный институт международных отношений (университет) Министерства иностранных дел Российской Федерации",
+                                          "year":  1994,
+                                          "field":  "международное право",
+                                          "qualification":  null,
+                                          "description":  "Найдено round 2 (2026-07-28) через wiki.letopis.ru (\"Экономическая летопись России\"): МГИМО, факультет международного права, с отличием, 1994; аспирантура (без защиты) на кафедре финансового права МГИМО, 2002 (в degrees не добавлена, т.к. степень не защищена). Институт нормализован к каноническому имени из university_names.json. Quality-пасс (2026-07-30): это заполнение было задокументировано в round 2, но не перенесено в JSON (desync); восстановлено в этом раунде.",
+                                          "sources":  [
+                                                          "https://wiki.letopis.ru/index.php?title=Грищенко_Сергей_Валентинович"
+                                                      ],
+                                          "qualification_degree":  "Specialist degree"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Внешторгбанк РФ",
+                                                        "role":  "Начало карьеры",
+                                                        "start_year":  1993,
+                                                        "end_year":  1994,
+                                                        "description":  "Найдено round 2 (2026-07-28) через wiki.letopis.ru. Quality-пасс (2026-07-30): восстановлено после desync-проверки.",
+                                                        "sources":  [
+                                                                        "https://wiki.letopis.ru/index.php?title=Грищенко_Сергей_Валентинович"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    },
+                                                    {
+                                                        "organization":  "KPMG Peat Marwick",
+                                                        "role":  "Не указана детально",
+                                                        "start_year":  1994,
+                                                        "end_year":  1995,
+                                                        "description":  "Найдено round 2 (2026-07-28) через wiki.letopis.ru. Классифицировано по собственной сфере деятельности фирмы (аудит/консалтинг), а не по клиентам. Quality-пасс (2026-07-30): восстановлено после desync-проверки.",
+                                                        "sources":  [
+                                                                        "https://wiki.letopis.ru/index.php?title=Грищенко_Сергей_Валентинович"
+                                                                    ],
+                                                        "sector":  "Industrials",
+                                                        "industry_group":  "Commercial & Professional Services",
+                                                        "industry":  "Professional Services"
+                                                    },
+                                                    {
+                                                        "organization":  "Skadden Arps Slate Meagher & Flom",
+                                                        "role":  "Не указана детально",
+                                                        "start_year":  1995,
+                                                        "end_year":  1996,
+                                                        "description":  "Найдено round 2 (2026-07-28) через wiki.letopis.ru. Классифицировано по собственной сфере деятельности фирмы (юридические услуги), а не по клиентам. Quality-пасс (2026-07-30): восстановлено после desync-проверки.",
+                                                        "sources":  [
+                                                                        "https://wiki.letopis.ru/index.php?title=Грищенко_Сергей_Валентинович"
+                                                                    ],
+                                                        "sector":  "Industrials",
+                                                        "industry_group":  "Commercial & Professional Services",
+                                                        "industry":  "Professional Services"
+                                                    },
+                                                    {
+                                                        "organization":  "Тройка Диалог",
+                                                        "role":  "Руководитель юридического департамента",
+                                                        "start_year":  1996,
+                                                        "end_year":  null,
+                                                        "description":  "Найдено round 2 (2026-07-28) через wiki.letopis.ru. Quality-пасс (2026-07-30): восстановлено после desync-проверки.",
+                                                        "sources":  [
+                                                                        "https://wiki.letopis.ru/index.php?title=Грищенко_Сергей_Валентинович"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "\"Базовый Элемент\"",
+                                                        "role":  "Директор по корпоративным отношениям",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Найдено round 2 (2026-07-28) через wiki.letopis.ru, точные даты не указаны источником. Классифицировано как диверсифицированный промышленный холдинг. Quality-пасс (2026-07-30): восстановлено после desync-проверки.",
+                                                        "sources":  [
+                                                                        "https://wiki.letopis.ru/index.php?title=Грищенко_Сергей_Валентинович"
+                                                                    ],
+                                                        "sector":  "Industrials",
+                                                        "industry_group":  "Capital Goods",
+                                                        "industry":  "Industrial Conglomerates"
+                                                    },
+                                                    {
+                                                        "organization":  "Банк ГПБ (АО) / Газпромбанк",
+                                                        "role":  "Директор департамента корпоративных финансов; заместитель начальника департамента прямых инвестиций",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Найдено round 2 (2026-07-28) через wiki.letopis.ru; независимо подтверждено отдельным поиском по составу Совета директоров МОЭСК за 2012, 2015, 2017 годы (Грищенко представлял Газпромбанк как заместитель начальника департамента прямых инвестиций). Quality-пасс (2026-07-30): восстановлено после desync-проверки.",
+                                                        "sources":  [
+                                                                        "https://wiki.letopis.ru/index.php?title=Грищенко_Сергей_Валентинович"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"МОЭСК\" / Rosseti Moscow Region",
+                                                        "role":  "Historical Board member per CSV/archive/aggregator sources, представитель Банка ГПБ (АО)",
+                                                        "start_year":  2012,
+                                                        "end_year":  2017,
+                                                        "description":  "Даты уточнены round 2 (2026-07-28): независимо подтверждено членство в Совете директоров в 2012 (кандидат), 2015 и 2017 годах; конечная дата 2017 приблизительна -- источники подтверждают членство именно в эти годы, но не дают точной даты прекращения полномочий. Quality-пасс (2026-07-30): восстановлено после desync-проверки.",
+                                                        "sources":  [
+                                                                        "MOEXBMI_2024.csv",
+                                                                        "https://rossetimr.ru/upload/iblock/a26/god_otchet-2019-polno.pdf",
+                                                                        "https://www.marketscreener.com/quote/stock/ROSSETI-MOSCOW-REGION-6498954/company-governance/",
+                                                                        "https://wiki.letopis.ru/index.php?title=Грищенко_Сергей_Валентинович"
+                                                                    ],
+                                                        "sector":  "Utilities",
+                                                        "industry_group":  "Utilities",
+                                                        "industry":  "Electric Utilities"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV contains Sergey Valentinovich Grischenko for MSRS as Director/Board Member."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf",
+                                        "title":  "Годовой отчет ПАО \"Россети Московский регион\" за 2024 год",
+                                        "fact":  "Local 2024 report checked; Grischenko is not listed in the current 2024 Board composition."
+                                    },
+                                    {
+                                        "url":  "https://www.marketscreener.com/quote/stock/ROSSETI-MOSCOW-REGION-6498954/company-governance/",
+                                        "title":  "Rosseti Moscow Region - Company Governance - MarketScreener",
+                                        "fact":  "Aggregator page provides weak corroboration of the historical governance profile."
+                                    },
+                                    {
+                                        "url":  "https://wiki.letopis.ru/index.php?title=Грищенко_Сергей_Валентинович",
+                                        "title":  "Грищенко Сергей Валентинович - Экономическая летопись России",
+                                        "fact":  "Полная биография: образование в МГИМО (1994, международное право, с отличием), аспирантура МГИМО (2002, без защиты), карьера во Внешторгбанке, KPMG, Skadden Arps, Тройке Диалог, «Базовом Элементе» и Газпромбанке, а также членство в Совете директоров МОЭСК как представителя Газпромбанка."
+                                    }
+                                ],
+                    "notes":  "Significant uncertainty: education institution and detailed career chronology были не удалось подтвердить in strong sources изначально (round 1). Round 2 (2026-07-28): гэп закрыт через wiki.letopis.ru -- добавлены образование (МГИМО, 1994) и семь записей карьеры (Внешторгбанк, KPMG, Skadden Arps, Тройка Диалог, «Базовый Элемент», Газпромбанк, МОЭСК 2012-2017 как представитель Газпромбанка). Quality-пасс (2026-07-30): этот значительный объем данных был задокументирован в round 2, но не перенесен в JSON (desync); полностью восстановлен в этом раунде. Также исправлена GICS-метка на записи МОЭСК: была ошибочно Financials/Banks/Banks (по-видимому, метка предназначалась для записи Газпромбанка), исправлена на Utilities/Utilities/Electric Utilities по прямому прецеденту остальных записей ПАО «Россети Московский регион»/МОЭСК в этом файле. Treated as historical CSV board person, not as current 2024 director."
+                },
+                {
+                    "name":  "Евгений Ильич Логовинский",
+                    "current_role":  "Независимый член Совета директоров ПАО \"Россети Московский регион\"; вице-президент - финансовый директор АО \"НПФ ГАЗФОНД\"",
+                    "company_name":  "ПАО \"Россети Московский регион\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Государственный университет управления",
+                                          "year":  1994,
+                                          "field":  "экономист-аналитик математического и компьютерного обеспечения управления",
+                                          "qualification":  null,
+                                          "description":  "Год заполнен round 2 (2026-07-28) по tadviser.ru, которая цитирует официальный документ раскрытия АО «НПФ ГАЗФОНД». Институт нормализован к каноническому имени из university_names.json (историческое название на момент выпуска -- Государственная академия управления им. С. Орджоникидзе). Quality-пасс (2026-07-30): это заполнение было задокументировано в round 2, но не перенесено в JSON (desync); восстановлено в этом раунде.",
+                                          "sources":  [
+                                                          "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf",
+                                                          "https://www.tadviser.ru/index.php/Персона:Логовинский_Евгений_Ильич"
+                                                      ],
+                                          "qualification_degree":  "Specialist degree"
+                                      },
+                                      {
+                                          "institution":  "Manchester Business School",
+                                          "year":  null,
+                                          "field":  "банковское дело и финансы",
+                                          "qualification":  "MBA",
+                                          "description":  "Год выпуска остается неподтвержденным: round 2 (2026-07-28) нашла внутреннее противоречие в mbaconsult.ru (обучение началось в 2003, диплом \"в 2006\" по детальному описанию, но итоговая строка того же источника говорит \"в 2007 году окончил\"); противоречие не удалось разрешить, поле оставлено null вместо выбора одного из двух конфликтующих значений.",
+                                          "sources":  [
+                                                          "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf"
+                                                      ],
+                                          "qualification_degree":  "MBA"
+                                      }
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "degree":  "кандидат экономических наук",
+                                        "institution":  "Государственный университет управления",
+                                        "year":  1997,
+                                        "description":  "Год защиты заполнен round 2 (2026-07-28) по tadviser.ru, которая цитирует официальный документ раскрытия АО «НПФ ГАЗФОНД». Quality-пасс (2026-07-30): восстановлено после desync-проверки.",
+                                        "sources":  [
+                                                        "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf",
+                                                        "https://www.tadviser.ru/index.php/Персона:Логовинский_Евгений_Ильич"
+                                                    ],
+                                        "qualification_degree":  "Doctoral degree"
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "PricewaterhouseCoopers (PwC)",
+                                                        "role":  "Не указана детально",
+                                                        "start_year":  1995,
+                                                        "end_year":  2004,
+                                                        "description":  "Найдено round 2 (2026-07-28) через mbaconsult.ru (полная досье-хронология до Газфонда). Quality-пасс (2026-07-30): восстановлено после desync-проверки.",
+                                                        "sources":  [
+                                                                        "mbaconsult.ru"
+                                                                    ],
+                                                        "sector":  "Industrials",
+                                                        "industry_group":  "Commercial & Professional Services",
+                                                        "industry":  "Professional Services"
+                                                    },
+                                                    {
+                                                        "organization":  "УК \"Лидер\"",
+                                                        "role":  "Не указана детально (первый период)",
+                                                        "start_year":  2004,
+                                                        "end_year":  2006,
+                                                        "description":  "Найдено round 2 (2026-07-28) через mbaconsult.ru. Quality-пасс (2026-07-30): восстановлено после desync-проверки.",
+                                                        "sources":  [
+                                                                        "mbaconsult.ru"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "АО \"СОГАЗ\"",
+                                                        "role":  "Не указана детально",
+                                                        "start_year":  2006,
+                                                        "end_year":  2010,
+                                                        "description":  "Найдено round 2 (2026-07-28) через mbaconsult.ru. Quality-пасс (2026-07-30): восстановлено после desync-проверки.",
+                                                        "sources":  [
+                                                                        "mbaconsult.ru"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Insurance",
+                                                        "industry":  "Insurance"
+                                                    },
+                                                    {
+                                                        "organization":  "АО \"Собинбанк\"",
+                                                        "role":  "Не указана детально",
+                                                        "start_year":  2010,
+                                                        "end_year":  2011,
+                                                        "description":  "Найдено round 2 (2026-07-28) через mbaconsult.ru. Quality-пасс (2026-07-30): восстановлено после desync-проверки.",
+                                                        "sources":  [
+                                                                        "mbaconsult.ru"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    },
+                                                    {
+                                                        "organization":  "ГК \"Видео Интернешнл\"",
+                                                        "role":  "Не указана детально",
+                                                        "start_year":  2011,
+                                                        "end_year":  2012,
+                                                        "description":  "Найдено round 2 (2026-07-28) через mbaconsult.ru. Классифицировано как продавец телерекламы (media selling house). Quality-пасс (2026-07-30): восстановлено после desync-проверки.",
+                                                        "sources":  [
+                                                                        "mbaconsult.ru"
+                                                                    ],
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Media & Entertainment",
+                                                        "industry":  "Media"
+                                                    },
+                                                    {
+                                                        "organization":  "ОАО \"АБ \"Россия\"\"",
+                                                        "role":  "Не указана детально",
+                                                        "start_year":  2012,
+                                                        "end_year":  2015,
+                                                        "description":  "Найдено round 2 (2026-07-28) через mbaconsult.ru. Quality-пасс (2026-07-30): восстановлено после desync-проверки.",
+                                                        "sources":  [
+                                                                        "mbaconsult.ru"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    },
+                                                    {
+                                                        "organization":  "АО \"АБР Менеджмент\"",
+                                                        "role":  "Не указана детально",
+                                                        "start_year":  2015,
+                                                        "end_year":  null,
+                                                        "description":  "Найдено round 2 (2026-07-28) через mbaconsult.ru; ценнобумажно-управляющая структура банковской группы «АБ Россия», подтверждено отдельным целевым поиском собственного реестрового профиля компании. Quality-пасс (2026-07-30): восстановлено после desync-проверки.",
+                                                        "sources":  [
+                                                                        "mbaconsult.ru"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "Банк СГБ",
+                                                        "role":  "Не указана детально",
+                                                        "start_year":  2015,
+                                                        "end_year":  null,
+                                                        "description":  "Найдено round 2 (2026-07-28) через mbaconsult.ru. Quality-пасс (2026-07-30): восстановлено после desync-проверки.",
+                                                        "sources":  [
+                                                                        "mbaconsult.ru"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    },
+                                                    {
+                                                        "organization":  "АО \"НПФ ГАЗФОНД\"",
+                                                        "role":  "Вице-президент - финансовый директор",
+                                                        "start_year":  2015,
+                                                        "end_year":  null,
+                                                        "description":  "start_year=2015 заполнен round 2 (2026-07-28) по tadviser.ru (умеренная достоверность -- источник группирует несколько назначений 2015 года без точной привязки месяца именно к этой должности). Quality-пасс (2026-07-30): исправлена GICS-метка -- ранее ошибочно Industrials/Commercial & Professional Services/Professional Services, исправлено на Financials/Insurance/Insurance по прямому прецеденту, использованному в round 2 для этого же работодателя (негосударственный пенсионный фонд, GICS не имеет отдельной категории для пенсионных фондов, актуарно ближе к страхованию жизни, чем к профессиональным услугам).",
+                                                        "sources":  [
+                                                                        "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf",
+                                                                        "https://www.tadviser.ru/index.php/Персона:Логовинский_Евгений_Ильич"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Insurance",
+                                                        "industry":  "Insurance"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Россети Московский регион\"",
+                                                        "role":  "Член Совета директоров; независимый директор",
+                                                        "start_year":  2016,
+                                                        "end_year":  null,
+                                                        "sources":  [
+                                                                        "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf"
+                                                                    ],
+                                                        "sector":  "Utilities",
+                                                        "industry_group":  "Utilities",
+                                                        "industry":  "Electric Utilities"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV contains Yevgeniy Logovinskiy for MSRS as Director/Board Member."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf",
+                                        "title":  "Годовой отчет ПАО \"Россети Московский регион\" за 2024 год",
+                                        "fact":  "Страницы 189, 192 и 331-332: Логовинский Евгений Ильич указан членом Совета директоров и независимым директором; раскрыты образование, MBA, кандидатская степень и должность в АО \"НПФ ГАЗФОНД\"."
+                                    },
+                                    {
+                                        "url":  "https://www.tadviser.ru/index.php/Персона:Логовинский_Евгений_Ильич",
+                                        "title":  "Логовинский Евгений Ильич - TAdviser",
+                                        "fact":  "Цитирует официальный документ раскрытия АО «НПФ ГАЗФОНД», подтверждает год первого высшего образования (1994), год защиты кандидатской степени (1997) и дату назначения вице-президентом - финансовым директором Газфонда (2015)."
+                                    }
+                                ],
+                    "notes":  "No reliable publication profile found despite confirmed candidate degree. Round 2 (2026-07-28): годы образования и защиты кандидатской степени заполнены по tadviser.ru; семь новых записей карьеры (PwC, УК «Лидер», СОГАЗ, Собинбанк, Видео Интернешнл, АБ «Россия», АБР Менеджмент, Банк СГБ) добавлены по mbaconsult.ru; год MBA оставлен null из-за внутреннего противоречия в источнике. Quality-пасс (2026-07-30): весь этот объем данных был задокументирован в round 2, но не перенесен в JSON (desync); полностью восстановлен в этом раунде. Дополнительно исправлена GICS-метка записи АО «НПФ ГАЗФОНД» (была ошибочно Industrials/Commercial & Professional Services/Professional Services, исправлена на Financials/Insurance/Insurance)."
+                },
+                {
+                    "name":  "Ольга Андреевна Сергеева",
+                    "current_role":  "CSV: Director/Board Member; в локальном отчете 2024 не входит в текущий Совет директоров",
+                    "company_name":  "ПАО \"МОЭСК\" / ПАО \"Россети Московский регион\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Российский экономический университет имени Г.В. Плеханова",
+                                          "year":  2006,
+                                          "field":  "экономика и управление на предприятии (строительство)",
+                                          "qualification":  "экономист-менеджер",
+                                          "description":  "Год заполнен round 2 (2026-07-28) по tadviser.ru: родилась 26.04.1984 в Москве, окончила РЭУ им. Плеханова в 2006 году. Институт нормализован к каноническому имени из university_names.json. Quality-пасс (2026-07-30): это заполнение было задокументировано в round 2, но не перенесено в JSON (desync); восстановлено в этом раунде.",
+                                          "sources":  [
+                                                          "https://rossetimr.ru/upload/iblock/a26/god_otchet-2019-polno.pdf",
+                                                          "https://www.tadviser.ru/index.php/Персона:Сергеева_Ольга_Андреевна"
+                                                      ],
+                                          "qualification_degree":  "Specialist degree"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Департамент топливно-энергетического хозяйства города Москвы / Департамент ЖКХ города Москвы",
+                                                        "role":  "Руководящие должности",
+                                                        "start_year":  2016,
+                                                        "end_year":  2017,
+                                                        "sources":  [
+                                                                        "https://rossetimr.ru/upload/iblock/a26/god_otchet-2019-polno.pdf"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Россети\"",
+                                                        "role":  "Советник / главный советник / заместитель генерального директора - руководитель аппарата",
+                                                        "start_year":  2017,
+                                                        "end_year":  2019,
+                                                        "sources":  [
+                                                                        "https://rossetimr.ru/upload/iblock/a26/god_otchet-2019-polno.pdf"
+                                                                    ],
+                                                        "sector":  "Utilities",
+                                                        "industry_group":  "Utilities",
+                                                        "industry":  "Electric Utilities"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"МОЭСК\" / Rosseti Moscow Region",
+                                                        "role":  "Historical Board member",
+                                                        "start_year":  2018,
+                                                        "end_year":  2019,
+                                                        "sources":  [
+                                                                        "MOEXBMI_2024.csv",
+                                                                        "https://rossetimr.ru/upload/iblock/a26/god_otchet-2019-polno.pdf"
+                                                                    ],
+                                                        "sector":  "Utilities",
+                                                        "industry_group":  "Utilities",
+                                                        "industry":  "Electric Utilities"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV contains Olga Andreevna Sergeeva for MSRS as Director/Board Member."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf",
+                                        "title":  "Годовой отчет ПАО \"Россети Московский регион\" за 2024 год",
+                                        "fact":  "Local 2024 report checked; Sergeeva is not listed in the current 2024 Board composition."
+                                    },
+                                    {
+                                        "url":  "https://rossetimr.ru/upload/iblock/a26/god_otchet-2019-polno.pdf",
+                                        "title":  "Годовой отчет ПАО \"Россети Московский регион\" за 2019 год",
+                                        "fact":  "Archive annual report search snippets provide historical board, education and Rosseti/Moscow government career details for Olga Sergeeva."
+                                    },
+                                    {
+                                        "url":  "https://www.tadviser.ru/index.php/Персона:Сергеева_Ольга_Андреевна",
+                                        "title":  "Сергеева Ольга Андреевна - TAdviser",
+                                        "fact":  "Подтверждает год рождения (1984), год окончания РЭУ им. Плеханова (2006) со специальностью «экономика и управление на предприятии. Строительство», и последующую карьеру в аппарате мэра и правительства Москвы с 2009 года."
+                                    }
+                                ],
+                    "notes":  "Treated as historical CSV board person, not as current 2024 director. Round 2 (2026-07-28): год окончания вуза заполнен по tadviser.ru. Quality-пасс (2026-07-30): это заполнение было задокументировано в round 2, но не перенесено в JSON (desync); восстановлено в этом раунде."
+                },
+                {
+                    "name":  "Гасан Гизбуллагович Гасангаджиев",
+                    "current_role":  "CSV: Director/Board Member; в локальном отчете 2024 не входит в текущий Совет директоров",
+                    "company_name":  "ПАО \"МОЭСК\" / ПАО \"Россети Московский регион\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Национальный исследовательский университет «МЭИ»",
+                                          "year":  1988,
+                                          "field":  "Динамика и прочность машин",
+                                          "qualification":  null,
+                                          "description":  "Институт нормализован к каноническому имени из university_names.json. Год и специальность заполнены round 2 (2026-07-28) и подтверждены дословным прочтением viperson.ru (WebFetch, независимая проверка в quality-пассе 2026-07-30): \"В 1988 г. окончил Московский энергетический институт (технический университет) по специальности «Динамика и прочность машин»\". Quality-пасс (2026-07-30): это заполнение было задокументировано в round 2, но не перенесено в JSON (desync); восстановлено в этом раунде.",
+                                          "sources":  [
+                                                          "https://globalmsk.ru/person/id/6704",
+                                                          "https://viperson.ru/people/gasangadzhiev-gasan-gizbullagovich"
+                                                      ],
+                                          "qualification_degree":  "Specialist degree"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Департамент топливно-энергетического хозяйства города Москвы",
+                                                        "role":  "Руководящие должности в топливно-энергетическом хозяйстве Москвы",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "sources":  [
+                                                                        "https://globalmsk.ru/person/id/6704",
+                                                                        "https://rossetimr.ru/upload/iblock/a26/god_otchet-2019-polno.pdf"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "АО \"МОСГАЗ\"",
+                                                        "role":  "Генеральный директор",
+                                                        "start_year":  2009,
+                                                        "end_year":  2017,
+                                                        "description":  "Найдено round 2 (2026-07-28), не перенесено в JSON (desync). Quality-пасс (2026-07-30): восстановлено и независимо перепроверено дословным прочтением viperson.ru (WebFetch): \"Генеральный директор крупнейшего газораспределительного предприятия Европы -- Акционерного общества «МОСГАЗ» (май 2009 г. -- сентябрь 2017 г.)\".",
+                                                        "sources":  [
+                                                                        "https://viperson.ru/people/gasangadzhiev-gasan-gizbullagovich"
+                                                                    ],
+                                                        "sector":  "Utilities",
+                                                        "industry_group":  "Utilities",
+                                                        "industry":  "Gas Utilities"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"МОЭСК\" / Rosseti Moscow Region",
+                                                        "role":  "Historical Board member",
+                                                        "start_year":  2018,
+                                                        "end_year":  2019,
+                                                        "description":  "Quality-пасс (2026-07-30): исправлена перепутанная GICS-метка -- эта запись (член Совета директоров электросетевой компании МОЭСК) ранее была ошибочно помечена Gas Utilities (метка, по-видимому, предназначалась для отсутствовавшей записи АО «МОСГАЗ» выше); исправлено на Electric Utilities по прямому прецеденту всех остальных записей ПАО «МОЭСК»/«Россети Московский регион» в этом файле.",
+                                                        "sources":  [
+                                                                        "MOEXBMI_2024.csv",
+                                                                        "https://rossetimr.ru/upload/iblock/a26/god_otchet-2019-polno.pdf"
+                                                                    ],
+                                                        "sector":  "Utilities",
+                                                        "industry_group":  "Utilities",
+                                                        "industry":  "Electric Utilities"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV contains Gasan Gizbullagovich Gasangadzhiev for MSRS as Director/Board Member."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf",
+                                        "title":  "Годовой отчет ПАО \"Россети Московский регион\" за 2024 год",
+                                        "fact":  "Local 2024 report checked; Gasangadzhiev is not listed in the current 2024 Board composition."
+                                    },
+                                    {
+                                        "url":  "https://globalmsk.ru/person/id/6704",
+                                        "title":  "Гасангаджиев Гасан - GlobalMSK",
+                                        "fact":  "Secondary biography links the person to Moscow energy administration and reports education at Moscow Energy Institute."
+                                    },
+                                    {
+                                        "url":  "https://viperson.ru/people/gasangadzhiev-gasan-gizbullagovich",
+                                        "title":  "Гасангаджиев Гасан Гизбуллагович - Viperson",
+                                        "fact":  "Подтверждает дословно образование (МЭИ, 1988, «Динамика и прочность машин») и должность генерального директора АО «МОСГАЗ» (май 2009 -- сентябрь 2017), а также назначение руководителем Департамента ЖКХ Москвы с 9 сентября 2017 года."
+                                    }
+                                ],
+                    "notes":  "Patronymic varies across transliterations/sources (Gizbullagovich/Gizbulatovich); identity retained because company and Moscow energy roles align. Education is from a secondary source. Round 2 (2026-07-28): год и специальность образования заполнены, добавлена должность генерального директора АО «МОСГАЗ» (2009-2017) по viperson.ru. Quality-пасс (2026-07-30): это заполнение было задокументировано в round 2, но не перенесено в JSON (desync) -- восстановлено и повторно проверено через WebFetch в этом раунде. Дополнительно исправлена перепутанная GICS-метка: запись МОЭСК ошибочно имела industry=\"Gas Utilities\" (по-видимому, предназначавшуюся для отсутствовавшей записи МОСГАЗ), исправлена на \"Electric Utilities\"; добавлена сама запись МОСГАЗ с industry=\"Gas Utilities\"."
+                },
+                {
+                    "name":  "Юрий Владимирович Гончаров",
+                    "current_role":  "CSV: Director/Board Member; в локальном отчете 2024 не входит в текущий Совет директоров",
+                    "company_name":  "ПАО \"МОЭСК\" / ПАО \"Россети Московский регион\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Национальный исследовательский технологический университет «МИСиС»",
+                                          "year":  2000,
+                                          "field":  "менеджмент",
+                                          "qualification":  null,
+                                          "description":  "Институт нормализован к каноническому имени из university_names.json (Московский государственный горный университет впоследствии вошел в состав НИТУ МИСиС). Round 2 (2026-07-28) перечитала первоисточник energostrana.ru дословно: \"2000 г. -- Окончил Московский государственный горный университет по направлению «менеджмент»\"; qualification_degree оставлена null, т.к. формулировка \"направление\" не позволяет надежно определить уровень (переходный период между специалитетом и Болонской системой). Quality-пасс (2026-07-30): нормализация института была задокументирована в round 2, но не перенесена в JSON (desync); восстановлена в этом раунде.",
+                                          "sources":  [
+                                                          "https://www.energostrana.ru/persons/4074"
+                                                      ],
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "Московский институт экономики, политики и права",
+                                          "year":  2014,
+                                          "field":  "юриспруденция",
+                                          "qualification":  null,
+                                          "description":  "Второе высшее образование. qualification_degree присвоена round 2 (2026-07-28) с умеренно-высокой уверенностью: к 2014 году переход на болонскую систему для юридических факультетов российских вузов (включая частные институты) был практически завершен. Институт уже соответствовал каноническому имени, нормализация не требовалась.",
+                                          "sources":  [
+                                                          "https://www.energostrana.ru/persons/4074"
+                                                      ],
+                                          "qualification_degree":  "Bachelor\u0027s degree"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Россети\"",
+                                                        "role":  "Заместитель генерального директора / главный советник по корпоративному управлению",
+                                                        "start_year":  2013,
+                                                        "end_year":  null,
+                                                        "sources":  [
+                                                                        "https://rossetimr.ru/upload/iblock/a26/god_otchet-2019-polno.pdf",
+                                                                        "https://www.energostrana.ru/persons/4074"
+                                                                    ],
+                                                        "sector":  "Utilities",
+                                                        "industry_group":  "Utilities",
+                                                        "industry":  "Electric Utilities"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"МОЭСК\" / Rosseti Moscow Region",
+                                                        "role":  "Historical Board member",
+                                                        "start_year":  2018,
+                                                        "end_year":  2019,
+                                                        "sources":  [
+                                                                        "MOEXBMI_2024.csv",
+                                                                        "https://rossetimr.ru/upload/iblock/a26/god_otchet-2019-polno.pdf"
+                                                                    ],
+                                                        "sector":  "Utilities",
+                                                        "industry_group":  "Utilities",
+                                                        "industry":  "Electric Utilities"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV contains Yuri Goncharov for MSRS as Director/Board Member."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf",
+                                        "title":  "Годовой отчет ПАО \"Россети Московский регион\" за 2024 год",
+                                        "fact":  "Local 2024 report checked; Goncharov is not listed in the current 2024 Board composition."
+                                    },
+                                    {
+                                        "url":  "https://www.energostrana.ru/persons/4074",
+                                        "title":  "Юрий Гончаров - ЭнергоСтрана",
+                                        "fact":  "Industry biography provides education and Rosseti corporate-governance career details."
+                                    }
+                                ],
+                    "notes":  "Common-name risk was handled by requiring Rosseti/MOESK corporate-governance markers. Treated as historical CSV board person, not current 2024 director. Round 2 (2026-07-28): институт первой записи образования нормализован к каноническому имени (НИТУ МИСиС); qualification_degree добавлена для обеих записей образования (2000 запись оставлена null из-за неоднозначной формулировки источника). Quality-пасс (2026-07-30): нормализация института была задокументирована в round 2, но не перенесена в JSON (desync); восстановлена в этом раунде."
+                },
+                {
+                    "name":  "Лариса Анатольевна Романовская",
+                    "current_role":  "CSV: Director/Board Member; в локальном отчете 2024 не входит в текущий Совет директоров",
+                    "company_name":  "ПАО \"МОЭСК\" / ПАО \"Россети Московский регион\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Самарский государственный экономический университет",
+                                          "year":  1995,
+                                          "field":  null,
+                                          "qualification":  "экономист",
+                                          "description":  "Институт нормализован к каноническому имени из university_names.json (round 2, 2026-07-28; Самарская государственная экономическая академия -- историческое название). Quality-пасс (2026-07-30): нормализация была задокументирована в round 2, но не перенесена в JSON (desync); восстановлена в этом раунде.",
+                                          "sources":  [
+                                                          "https://rossetimr.ru/upload/iblock/a26/god_otchet-2019-polno.pdf"
+                                                      ],
+                                          "qualification_degree":  "Specialist degree"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ООО \"Свой Хлеб\"",
+                                                        "role":  "Генеральный директор",
+                                                        "start_year":  2011,
+                                                        "end_year":  2014,
+                                                        "sources":  [
+                                                                        "https://rossetimr.ru/upload/iblock/a26/god_otchet-2019-polno.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Staples",
+                                                        "industry_group":  "Food, Beverage & Tobacco",
+                                                        "industry":  "Food Products"
+                                                    },
+                                                    {
+                                                        "organization":  "ООО \"Энсол\"",
+                                                        "role":  "Генеральный директор",
+                                                        "start_year":  2014,
+                                                        "end_year":  2017,
+                                                        "sources":  [
+                                                                        "https://rossetimr.ru/upload/iblock/a26/god_otchet-2019-polno.pdf"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Россети\"",
+                                                        "role":  "Советник / главный советник / заместитель генерального директора",
+                                                        "start_year":  2017,
+                                                        "end_year":  2019,
+                                                        "sources":  [
+                                                                        "https://rossetimr.ru/upload/iblock/a26/god_otchet-2019-polno.pdf"
+                                                                    ],
+                                                        "sector":  "Utilities",
+                                                        "industry_group":  "Utilities",
+                                                        "industry":  "Electric Utilities"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"МОЭСК\" / Rosseti Moscow Region",
+                                                        "role":  "Historical Board member",
+                                                        "start_year":  2018,
+                                                        "end_year":  2019,
+                                                        "sources":  [
+                                                                        "MOEXBMI_2024.csv",
+                                                                        "https://rossetimr.ru/upload/iblock/a26/god_otchet-2019-polno.pdf"
+                                                                    ],
+                                                        "sector":  "Utilities",
+                                                        "industry_group":  "Utilities",
+                                                        "industry":  "Electric Utilities"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV contains Larisa Anatolyevna Romanovskaya for MSRS as Director/Board Member."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf",
+                                        "title":  "Годовой отчет ПАО \"Россети Московский регион\" за 2024 год",
+                                        "fact":  "Local 2024 report checked; Romanovskaya is not listed in the current 2024 Board composition."
+                                    },
+                                    {
+                                        "url":  "https://rossetimr.ru/upload/iblock/a26/god_otchet-2019-polno.pdf",
+                                        "title":  "Годовой отчет ПАО \"Россети Московский регион\" за 2019 год",
+                                        "fact":  "Archive annual report search snippets provide historical board, education and career details for Larisa Romanovskaya."
+                                    }
+                                ],
+                    "notes":  "Treated as historical CSV board person, not as current 2024 director. Round 2 (2026-07-28): институт нормализован к каноническому имени, qualification_degree и GICS добавлены; целевой поиск установил, что ООО «Энсол» соответствует нескольким разным юрлицам, ни одно из которых не подтверждает связь с Романовской, поэтому GICS этой записи оставлен null. Quality-пасс (2026-07-30): нормализация института была задокументирована в round 2, но не перенесена в JSON (desync); восстановлена в этом раунде."
+                }
+            ],
+    "board_sources":  [
+                          {
+                              "url":  "MOEXBMI_2024.csv",
+                              "title":  "MOEXBMI_2024.csv",
+                              "fact":  "CSV contains predefined company people and positions used as pipeline input."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf",
+                              "title":  "Годовой отчет ПАО \"Россети Московский регион\" за 2024 год",
+                              "fact":  "Страницы 188-191: отчет указывает состав Совета директоров с 21.06.2024; из CSV-персон в этом составе подтверждены Гавриленко, Логовинский, Никитин, Нуждов и Синютин. Страницы 205-206 и 339-344 подтверждают состав Правления и смену генерального директора в 2024 году."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/MSRS/РМР_ФО по МСФО за 2024.pdf",
+                              "title":  "Консолидированная финансовая отчетность ПАО \"Россети Московский регион\" за 2024 год",
+                              "fact":  "Страница 32: отчет описывает Совет директоров как орган, контролирующий бизнес-направления группы; биографических данных не содержит."
+                          },
+                          {
+                              "url":  "https://rossetimr.ru/upload/iblock/a26/god_otchet-2019-polno.pdf",
+                              "title":  "Годовой отчет ПАО \"Россети Московский регион\" за 2019 год",
+                              "fact":  "Архивный официальный отчет использован для исторических CSV-директоров, которые отсутствуют в составе Совета директоров 2024 года."
+                          },
+                          {
+                              "url":  "https://www.marketscreener.com/quote/stock/ROSSETI-MOSCOW-REGION-6498954/company-governance/",
+                              "title":  "Rosseti Moscow Region - Company Governance - MarketScreener",
+                              "fact":  "Aggregator source used only as weak corroboration for historical/low-disclosure CSV profiles."
+                          }
+                      ],
+    "sources":  [
+                    {
+                        "url":  "MOEXBMI_2024.csv",
+                        "title":  "MOEXBMI_2024.csv",
+                        "fact":  "Input CSV rows for ticker MSRS."
+                    },
+                    {
+                        "url":  "MOEXBMI_Отчеты_2024/MSRS/Годовой отчет Россети_МР 2024.pdf",
+                        "title":  "Годовой отчет ПАО \"Россети Московский регион\" за 2024 год",
+                        "fact":  "Primary local source for 2024 board, management board, CEO transition, and biographies of current directors/managers."
+                    },
+                    {
+                        "url":  "MOEXBMI_Отчеты_2024/MSRS/РМР_ФО по МСФО за 2024.pdf",
+                        "title":  "Консолидированная финансовая отчетность за 2024 год",
+                        "fact":  "Checked as local source; no individual biographies found."
+                    },
+                    {
+                        "url":  "https://rossetimr.ru/upload/iblock/a26/god_otchet-2019-polno.pdf",
+                        "title":  "Годовой отчет ПАО \"Россети Московский регион\" за 2019 год",
+                        "fact":  "Official archive source for historical CSV board members."
+                    },
+                    {
+                        "url":  "https://rossetimr.ru/upload/iblock/da9/moesk-ar2016-full-rus-smart_new.pdf",
+                        "title":  "Годовой отчет ПАО \"МОЭСК\" за 2016 год",
+                        "fact":  "Official archive source for Peter Sinyutin\u0027s older biography."
+                    },
+                    {
+                        "url":  "https://www.atomic-energy.ru/experts/myasnikov-vladimir-yurevich",
+                        "title":  "Мясников Владимир Юрьевич - Atomic Energy",
+                        "fact":  "Sector biography for Vladimir Myasnikov\u0027s education and Rosenergoatom career."
+                    },
+                    {
+                        "url":  "https://rossetimr.ru/about/client/info_vladeltsam/aktsioneram_i_investoram/contacts/",
+                        "title":  "Contact Information - Rosseti Moscow Region",
+                        "fact":  "Official investor contact page used for IR role context."
+                    },
+                    {
+                        "url":  "https://globalmsk.ru/person/id/6704",
+                        "title":  "Гасангаджиев Гасан - GlobalMSK",
+                        "fact":  "Secondary biography for Gasan Gasangadzhiev."
+                    },
+                    {
+                        "url":  "https://www.energostrana.ru/persons/4074",
+                        "title":  "Юрий Гончаров - ЭнергоСтрана",
+                        "fact":  "Industry biography for Yuri Goncharov."
+                    },
+                    {
+                        "url":  "https://www.marketscreener.com/quote/stock/ROSSETI-MOSCOW-REGION-6498954/company-governance/",
+                        "title":  "Rosseti Moscow Region - Company Governance - MarketScreener",
+                        "fact":  "Weak aggregator source used only with caveats."
+                    }
+                ],
+    "validation_notes":  "Processed 15 people total: 14 unique CSV people plus Alexander Pyatigor added only as the confirmed 2024 year-end CEO. Local documents checked: 2 files in MOEXBMI_Отчеты_2024/MSRS. Research rounds completed: 2 per person (round 1: local filings + CSV reconciliation; round 2, 2026-07-28: targeted gap-fill + GICS/qualification_degree/institution-normalization). Education не удалось подтвердить or only weakly disclosed (round 1) for Alexander Pyatigor, Vsevolod Ivanov, Irina Alekhina, Lilia Shelest, and Sergey Grischenko; round 2 closed the Pyatigor, Ivanov, Shelest and Grischenko education/career gaps via industry biographies (energostrana.ru/eepir.ru, peretok.ru, ruscable.ru, wiki.letopis.ru); Irina Alekhina's education remains unresolved after two rounds of targeted search. Gasan Gasangadzhiev and Yuri Goncharov use secondary education sources; round 2 filled Gasangadzhiev's graduation year/field via viperson.ru. Weak sources were used for low-disclosure or historical profiles: MarketScreener, BusinessInsider/Finanzen-style mirrors, GlobalMSK, Energostrana, peretok.ru (search-snippet only, direct fetch unreachable), and official Telegram. Main conflicts: CSV lists Peter Sinyutin as CEO, while the official 2024 annual report says he was CEO/Chairman of the Management Board until 11.09.2024 and Alexander Pyatigor from 12.09.2024; several CSV board members are historical and are absent from the 2024 Board composition. Namesakes excluded include Oleg Vladimirovich Ivanov of the 2024 Management Board, unrelated Irina Alekhina profiles, unrelated Lilia Shelest profiles, and common-name Yuri Goncharov profiles without Rosseti markers. Genuine inconsistency handled without fabrication: Yevgeniy Logovinskiy's MBA graduation year has an internal contradiction within mbaconsult.ru itself (narrative says 2006, summary line says 2007) -- left null per task rules rather than guessing. Quality-pass round 1 (2026-07-30): compared the on-disk file against git HEAD and found it already exceeded HEAD (a prior session had applied most of round 2's findings to the JSON but left five people -- Irina Alekhina, Lilia Shelest, Gasan Gasangadzhiev, Yuri Goncharov, Larisa Romanovskaya -- desynced, i.e. their round-2 research_notes findings were never written into the JSON); restored all five (institution normalization, education year/field, new professional_experience entries, source citations) by cross-checking every fact against the actual round-2 .md files and, where feasible, re-verifying the underlying source via a fresh WebFetch this round (viperson.ru for Gasangadzhiev, confirmed verbatim; peretok.ru for Shelest, still ECONNREFUSED, kept at the same reduced confidence). Corrected one genuine GICS mislabel: Gasangadzhiev's ПАО «МОЭСК» board-membership entry had industry=\"Gas Utilities\" (evidently a copy-paste meant for the missing АО «МОСГАЗ» entry) -- fixed to \"Electric Utilities\" and added the missing МОСГАЗ entry itself (Utilities/Utilities/Gas Utilities, 2009-2017 Генеральный директор). No other GICS triples in this file were found to be incorrect on inspection against gics_taxonomy.json. Gap follow-up attempted for Irina Alekhina's education (WebFetch on rossetimr.ru's official contacts page returned 403 Forbidden; WebSearch was unavailable, session quota exhausted) -- still unresolved, documented for a future pass. No previously confirmed fact, professional_experience/education description, or source citation was shortened or deleted in this round; two leftover temp comparison files used for the git-HEAD diff check were removed from the project root after the check.",
+    "sector":  "Utilities",
+    "industry_group":  "Utilities",
+    "industry":  "Electric Utilities"
+}

@@ -1,0 +1,1237 @@
+{
+  "company_name": "ПАО \"ММК\"",
+  "company_ticker": "MAGN",
+  "ceo": {
+    "name": "Шиляев Павел Владимирович",
+    "current_role": "Генеральный директор, член Совета директоров ПАО \"ММК\"",
+    "company_name": "ПАО \"ММК\"",
+    "education": [
+      {
+        "institution": "Южно-Уральский государственный университет (национальный исследовательский университет)",
+        "year": 1992,
+        "program_or_specialty": "Электропривод и автоматизация промышленных установок",
+        "qualification": null,
+        "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+        "qualification_degree": "Specialist degree"
+      },
+      {
+        "institution": "Stockholm School of Economics",
+        "year": 2006,
+        "program_or_specialty": "Управление эффективностью",
+        "qualification": "программа обучения",
+        "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+        "qualification_degree": "Executive education"
+      }
+    ],
+    "degrees": [
+      {
+        "degree": "Кандидат технических наук",
+        "year": 2010,
+        "field": "Электротехнические комплексы и системы (ВАК 05.09.03)",
+        "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+        "qualification_degree": "Doctoral degree"
+      }
+    ],
+    "professional_experience": [
+      {
+        "organization": "ПАО \"ММК\"",
+        "role": "Генеральный директор; председатель Правления; член Совета директоров",
+        "start_year": 2014,
+        "end_year": null,
+        "description": "Local annual report 2024 states that the shareholders elected Pavel Shilyaev General Director with sole executive-body powers by decision dated 26 February 2014; MMK annual report 2019 also describes him as CEO, chairman of the Management Board and board member.",
+        "source": "MOEXBMI_Отчеты_2024/MAGN/Годовой отчет 2024 ММК.pdf",
+        "sector": "Materials",
+        "industry_group": "Materials",
+        "industry": "Metals & Mining"
+      },
+      {
+        "organization": "ПАО \"Кредит Урал Банк\"",
+        "role": "Член Совета директоров",
+        "start_year": 2017,
+        "end_year": null,
+        "description": "MMK annual report 2019 lists Shilyaev as a board member of Credit Ural Bank from 2017.",
+        "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+        "sector": "Financials",
+        "industry_group": "Banks",
+        "industry": "Banks"
+      },
+      {
+        "organization": "АНО \"Центральная клиническая медико-санитарная часть\" (АНО \"ЦКМСЧ\")",
+        "role": "Член Совета директоров",
+        "start_year": 2018,
+        "end_year": null,
+        "description": "MMK annual report 2019 lists Shilyaev as a board member of CKMSCh from 2018.",
+        "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+        "sector": "Health Care",
+        "industry_group": "Health Care Equipment & Services",
+        "industry": "Health Care Providers & Services"
+      }
+    ],
+    "research_experience": [
+      {
+        "organization": null,
+        "role": "Кандидатская диссертация",
+        "start_year": 2010,
+        "end_year": 2010,
+        "description": "Quality-pass correction: the URL previously cited here (sovershenstvovanie-elektromekhanicheskoi-sistemy-regulirovaniya-natyazheniya-polosy-shirokop) belongs to a different author (Чертоусов А.А., 2004), confirmed by directly fetching that page's citation_author/citation_publication_date meta tags. The real DisserCat record for Pavel Vladimirovich Shilyaev is \"Совершенствование электромеханической системы косвенного регулирования натяжения полосы широкополосного стана горячей прокатки\", ВАК 05.09.03, defended 2010, confirmed by directly fetching this URL's own citation_author/citation_publication_date meta tags (citation_author: Шиляев, Павел Владимирович; citation_publication_date: 2010).",
+        "source": "https://www.dissercat.com/content/sovershenstvovanie-elektromekhanicheskoi-sistemy-kosvennogo-regulirovaniya-natyazheniya-polo"
+      }
+    ],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "CSV lists Шиляев Павел Владимирович for MAGN as Генеральный директор, Член СД."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/MAGN/Годовой отчет 2024 ММК.pdf",
+        "title": "Годовой отчет ПАО \"ММК\" за 2024 год",
+        "fact": "Page 248: shareholders elected Павел Владимирович Шиляев General Director of PJSC MMK with sole executive-body powers by the 26 February 2014 extraordinary general meeting decision."
+      },
+      {
+        "url": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+        "title": "MMK Annual Report 2019",
+        "fact": "Page 97: reports Shilyaev's education at Chelyabinsk State Technical University and Stockholm School of Economics in Russia, Candidate of Technical Sciences degree, and CEO/board roles."
+      },
+      {
+        "url": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+        "title": "MMK Quarterly Report for Q2 2021",
+        "fact": "Page 77: confirms higher education, Candidate of Technical Sciences degree and MMK CEO/management/board role chain."
+      },
+      {
+        "url": "https://www.dissercat.com/content/sovershenstvovanie-elektromekhanicheskoi-sistemy-kosvennogo-regulirovaniya-natyazheniya-polo",
+        "title": "DisserCat: Shilyaev dissertation record (corrected)",
+        "fact": "Lists Pavel Vladimirovich Shilyaev's candidate dissertation (2010, VAK 05.09.03) on hot-strip-mill indirect tension-regulation systems; confirmed via the page own citation_author/citation_publication_date meta tags."
+      }
+    ],
+    "notes": "Identity confirmed by full name, MMK CEO role and technical-dissertation profile. Individual publication and patent records were not verified, so those arrays are empty. ROUND 2 (2026-07-19): corrected a namesake/citation mix-up found in round 1 -- the DisserCat URL originally attached to Shilyaev's candidate dissertation actually belongs to a different author (Chertousov A.A., 2004). Verified the real dissertation record directly via dissercat.com and updated research_experience/degrees[0].field/sources accordingly; no other round-1 facts about Shilyaev were changed. Identity confirmed by full name, MMK CEO role and technical-dissertation profile. Individual publication and patent records were not verified, so those arrays are empty. Quality pass 2026-07-30: corrected a namesake mix-up in the dissertation citation (round-1/round-2 finding) -- the original URL belonged to a different author (Chertousov A.A., 2004); the real Shilyaev dissertation (2010, VAK 05.09.03) was independently re-verified this round via direct fetch of the page citation meta tags."
+  },
+  "tmt": [
+    {
+      "name": "Рашников Виктор Филиппович",
+      "current_role": "Председатель Совета директоров ПАО \"ММК\"; член Совета директоров по CSV",
+      "company_name": "ПАО \"ММК\"",
+      "education": [
+        {
+          "institution": "Магнитогорский государственный технический университет имени Г.И. Носова",
+          "year": 1974,
+          "program_or_specialty": null,
+          "qualification": "инженер-металлург",
+          "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Магнитогорский государственный технический университет имени Г.И. Носова",
+          "year": 1993,
+          "program_or_specialty": "организация управления производством / management",
+          "qualification": "менеджер",
+          "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Доктор технических наук",
+          "year": 1996,
+          "field": null,
+          "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "qualification_degree": "Doctoral degree"
+        },
+        {
+          "degree": "Профессор",
+          "year": null,
+          "field": null,
+          "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "qualification_degree": null
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ММК\"",
+          "role": "Председатель Совета директоров; член Совета директоров",
+          "start_year": 1993,
+          "end_year": null,
+          "description": "MMK annual report 2019 states that Rashnikov has been on the Board of Directors since 1993 and is Chairman of the Board. Local IFRS reporting for 2024 also calls him chairman and final beneficial owner of the controlling stake.",
+          "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "Всемирная ассоциация стали (World Steel Association)",
+          "role": "Член Совета директоров",
+          "start_year": 2005,
+          "end_year": null,
+          "description": "Quality pass 2026-07-30: split out of a combined round-1 entry. MMK annual report 2019, p.95, gives the verbatim biography text: \"с 2005 года – член Совета директоров Всемирной ассоциации стали\".",
+          "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ООО \"Континентальная хоккейная лига\" (КХЛ)",
+          "role": "Член Совета директоров",
+          "start_year": 2008,
+          "end_year": null,
+          "description": "Quality pass 2026-07-30: split out of a combined round-1 entry. MMK annual report 2019, p.95, gives the verbatim biography text: \"с 2008 года - член Совета директоров ООО «Континентальная хоккейная лига»\". Non-profit professional sports league, not a GICS-classifiable commercial company.",
+          "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Ассоциация предприятий черной металлургии \"Русская сталь\"",
+          "role": "Член Наблюдательного совета",
+          "start_year": 2011,
+          "end_year": null,
+          "description": "Quality pass 2026-07-30: split out of a combined round-1 entry. MMK annual report 2019, p.95, gives the verbatim biography text: \"с 2011 года – член Наблюдательного совета «Ассоциации предприятий черной металлургии «Русская сталь»\". Trade/industry association, not a GICS-classifiable commercial company.",
+          "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "РСПП (Российский союз промышленников и предпринимателей)",
+          "role": "Член Правления",
+          "start_year": null,
+          "end_year": null,
+          "description": "Quality pass 2026-07-30: split out of a combined round-1 entry. MMK annual report 2019, p.95, lists РСПП board membership with no start year given in the source. Trade/industry association, not a GICS-classifiable commercial company.",
+          "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Челябинская региональная организация работодателей \"Союз промышленников и предпринимателей\" (ЧРОО/ЧОАР \"СПП\")",
+          "role": "Президент",
+          "start_year": null,
+          "end_year": null,
+          "description": "Quality pass 2026-07-30: split out of a combined round-1 entry. MMK annual report 2019, p.95, lists these regional employer-association president roles with no start year given in the source. Regional business/employer association, not a GICS-classifiable commercial company.",
+          "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "ПАО \"ММК\"",
+          "role": "Doctoral dissertation in technical sciences",
+          "start_year": 1996,
+          "end_year": 1996,
+          "description": "The UrFO profile states that Rashnikov defended a doctoral dissertation in 1996 in technical sciences related to improving production through technology and quality management at MMK.",
+          "source": "https://uralfo.gov.ru/district/laborheroes/lh7/"
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Рашников Виктор Филиппович for MAGN as Член СД."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MAGN/IFRS_RUR_2412.pdf",
+          "title": "Консолидированная финансовая отчетность ПАО \"ММК\" за 2024 год",
+          "fact": "Page 6: identifies Viktor Filippovich Rashnikov as chairman of the Board of Directors and final beneficial owner of the controlling stake."
+        },
+        {
+          "url": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "title": "MMK Annual Report 2019",
+          "fact": "Page 95: gives education, Doctor of Technical Sciences, Professor status and board roles."
+        },
+        {
+          "url": "https://uralfo.gov.ru/district/laborheroes/lh7/",
+          "title": "UrFO: Герои Труда - Виктор Рашников",
+          "fact": "Official regional profile confirms education and describes the 1996 doctoral dissertation."
+        }
+      ],
+      "notes": "General claims about many publications or inventions were not converted into publications/patents because individual records were not verified. ROUND 2 (2026-07-19): read the MMK 2019 annual report (p.95) directly (fetched from akm.ru) and expanded the previously combined 'World Steel Association, KHL, Russkaya Stal, RSPP and regional business organizations' entry into five dated entries; all five are trade/industry associations or a non-profit sports league rather than GICS-classifiable commercial companies, so sector/industry_group/industry are null for each with that reasoning. Doctoral degree year (1996) cross-referenced from the already-sourced uralfo.gov.ru research_experience entry; Professor left with qualification_degree=null because it is an academic rank, not a degree. General claims about many publications or inventions were not converted into publications/patents because individual records were not verified. Quality pass 2026-07-30: applied round-2 gap-fill that had not yet reached the JSON -- filled degrees[0].year (1996) by cross-referencing the already-cited research_experience entry, split the combined trade/public-association professional_experience entry into five per-organization entries with precise start years, and normalized institution names to the university_names.json canonical form."
+    },
+    {
+      "name": "Еремин Андрей Анатольевич",
+      "current_role": "Член Совета директоров ПАО \"ММК\"",
+      "company_name": "ПАО \"ММК\"",
+      "education": [
+        {
+          "institution": "Государственный университет управления",
+          "year": 1995,
+          "program_or_specialty": "Экономика и управление в металлургической промышленности",
+          "qualification": null,
+          "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+          "year": 2007,
+          "program_or_specialty": "Евроменеджмент",
+          "qualification": "MBA",
+          "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ММК\"",
+          "role": "Директор по экономике; член Правления",
+          "start_year": 2016,
+          "end_year": null,
+          "description": "MMK Q2 2021 report confirms Eremin as economy director and management board member in the 2016-2021 period.",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ПАО \"ММК\"",
+          "role": "Член Совета директоров",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "MMK annual report 2019 states that Eremin joined the Board of Directors on 31 May 2019.",
+          "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ООО «Центр технологий роботизации «Некст»» (ООО «ЦТР «Некст»»)",
+          "role": "Board/management role",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "MMK Q2 2021 report lists Eremin in a role at ООО \"ЦТР «Некст»\" from 2020. Quality pass 2026-07-30: full legal name confirmed via list-org.com registry lookup (ИНН 7455038272, Магнитогорск, primary ОКВЭД 62.02 computer-technology consultancy).",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "IT Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Еремин Андрей Анатольевич for MAGN as Член СД."
+        },
+        {
+          "url": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "title": "MMK Annual Report 2019",
+          "fact": "Page 96: gives Eremin's education, economy director role and 31 May 2019 board start date."
+        },
+        {
+          "url": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "title": "MMK Quarterly Report for Q2 2021",
+          "fact": "Page 81: confirms higher education and MMK economy director/management board/board roles."
+        }
+      ],
+      "notes": "No verified scientific degree, publications, patents or h-index found. ROUND 2 (2026-07-19): identified OOO TSTR Nekst via list-org.com registry lookup as OOO Tsentr tekhnologiy robotizatsii Nekst (Magnitogorsk, primary OKVED 62.02); classified as IT Services on that basis. No new scientific degree, publications, patents or h-index found. No verified scientific degree, publications, patents or h-index found. Quality pass 2026-07-30: expanded ООО \"ЦТР «Некст»\" to its full confirmed legal name (round-2 finding not yet applied) and normalized institution names to the university_names.json canonical form."
+    },
+    {
+      "name": "Исмаилов Рашид Рустам оглы",
+      "current_role": "Член Совета директоров ПАО \"ММК\"",
+      "company_name": "ПАО \"ММК\"",
+      "education": [
+        {
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "year": 1988,
+          "program_or_specialty": "Исторический факультет",
+          "qualification": null,
+          "source": "https://softline.ru/about/news/pao-softlayn-obyavlyaet-o-naznachenii-predsedatelya-soveta-direktorov",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Московский политехнический университет",
+          "year": 2007,
+          "program_or_specialty": null,
+          "qualification": null,
+          "source": "https://softline.ru/about/news/pao-softlayn-obyavlyaet-o-naznachenii-predsedatelya-soveta-direktorov",
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Министерство связи и массовых коммуникаций РФ",
+          "role": "Заместитель министра",
+          "start_year": 2016,
+          "end_year": 2018,
+          "description": "MMK Q2 2021 report lists Ismailov as Deputy Minister in 2016-2018.",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Nokia Solutions and Networks",
+          "role": "Services director",
+          "start_year": 2018,
+          "end_year": 2019,
+          "description": "MMK Q2 2021 report lists this role after the ministry position.",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": "Information Technology",
+          "industry_group": "Technology Hardware & Equipment",
+          "industry": "Communications Equipment"
+        },
+        {
+          "organization": "АО \"Данные - центр обработки и автоматизации\" (Data Center Processing and Automation)",
+          "role": "General director",
+          "start_year": 2019,
+          "end_year": 2020,
+          "description": "MMK Q2 2021 report lists this CEO/general director role. Quality pass 2026-07-30: full Russian legal name confirmed via direct read of the MMK Q2 2021 report itself, p.83-84.",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "IT Services"
+        },
+        {
+          "organization": "ПАО \"ВымпелКом\"",
+          "role": "Adviser; president",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "MMK Q2 2021 report lists him as adviser in 2020 and president from 2020.",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Wireless Telecommunication Services"
+        },
+        {
+          "organization": "ПАО \"ММК\"",
+          "role": "Член Совета директоров",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "MMK Q2 2021 report and official 2021 GOSA news confirm his election to the board from 28 May 2021.",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Исмаилов Рашид Рустам оглы for MAGN as Член СД."
+        },
+        {
+          "url": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "title": "MMK Quarterly Report for Q2 2021",
+          "fact": "Page 84: confirms Ismailov's MMK board membership, higher education and telecom/government career chain."
+        },
+        {
+          "url": "https://softline.ru/about/news/pao-softlayn-obyavlyaet-o-naznachenii-predsedatelya-soveta-direktorov",
+          "title": "Softline: appointment of board chairman",
+          "fact": "Professional/company biography for Rashid Rustamovich Ismailov gives MSU History Faculty 1988 and Moscow Polytechnic/MAMI 2007; career markers match MMK's VimpelCom/Nokia/Deputy Minister profile."
+        }
+      ],
+      "notes": "Education source uses patronymic form Рустамович while CSV/MMK use Рустам оглы; identity accepted because the career chain matches. A different public-policy/ecology profile with inconsistent education was rejected. ROUND 2 (2026-07-19): re-read the MMK Q2 2021 quarterly report directly (p.83-84); the official regulatory filing itself uses the patronymic form Rustam ogly (matching CSV), the same form used throughout this record, which further supports (without fully resolving) the round-1 acceptance of the Softline education source that used the variant form Rustamovich; education[1] (Moscow Polytechnic/MAMI, 2007) still lacks a stated specialty or qualification title in every source checked, so qualification_degree stays null rather than guessed. Full legal name of the 2019-2020 employer recovered: AO Dannye - tsentr obrabotki i avtomatizatsii. AUDIT FIX (2026-07-19): added the missing justification for the one professional_experience entry that had a null sector/industry_group/industry with no recorded reason -- Министерство связи и массовых коммуникаций РФ is a federal government ministry, not a GICS-classifiable commercial company, so that entry's sector/industry_group/industry stay null (same treatment already used elsewhere in this file for Government of Saint Petersburg and the U.S.-Russia Business Council). Education source uses patronymic form Рустамович while CSV/MMK use Рустам оглы; identity accepted because the career chain matches. A different public-policy/ecology profile with inconsistent education was rejected. Quality pass 2026-07-30: bounded fresh-query gap follow-up on the patronymic-identity question (tried a direct Wikipedia slug fetch under the Рустамович spelling) returned HTTP 404 -- no Wikipedia page exists; the identity nuance remains unresolved on the same basis as round 1/2 (career-chain matching). Also expanded the Data Center Processing and Automation organization to its confirmed Russian legal name."
+    },
+    {
+      "name": "Марцинович Валерий Ярославович",
+      "current_role": "Член Совета директоров ПАО \"ММК\"",
+      "company_name": "ПАО \"ММК\"",
+      "education": [
+        {
+          "institution": "Uniwersytet Gdański",
+          "year": 1996,
+          "program_or_specialty": "Экономический факультет, внешняя торговля",
+          "qualification": "магистр экономики",
+          "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "qualification_degree": "Master's degree"
+        },
+        {
+          "institution": "London Metropolitan University",
+          "year": 1997,
+          "program_or_specialty": "Investment Banking",
+          "qualification": "postgraduate program",
+          "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "qualification_degree": "Executive education"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Магистр экономики",
+          "year": 1996,
+          "field": "Экономика / внешняя торговля",
+          "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "qualification_degree": "Master's degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "Hay Group / Korn Ferry",
+          "role": "Strategic Director Fast Growing Markets Europe",
+          "start_year": 2016,
+          "end_year": null,
+          "description": "MMK annual report 2019 and Q2 2021 report describe his role as strategic director for fast-growing European markets at Hay Group/Korn Ferry.",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "ПАО \"ММК\"",
+          "role": "Independent member of Board of Directors",
+          "start_year": 2014,
+          "end_year": null,
+          "description": "MMK annual report 2019 states that Martsinovich has been an MMK board member since 2014.",
+          "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Марцинович Валерий Ярославович for MAGN as Член СД."
+        },
+        {
+          "url": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "title": "MMK Annual Report 2019",
+          "fact": "Page 95: gives education, independent director status and Hay Group role."
+        },
+        {
+          "url": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "title": "MMK Quarterly Report for Q2 2021",
+          "fact": "Page 78: confirms higher education, Korn Ferry/Hay Group role and MMK board service."
+        }
+      ],
+      "notes": "No verified research profile, publications, patents or h-index found. ROUND 2 (2026-07-19): no new degree/publication/patent gaps found beyond what round 1 already established; London Guildhall University program classified as Executive education because the MMK 2019 annual report (p.95, read directly this round) itself labels it postgraduate/continuing-education specialization (Posledimplomnoe obuchenie), not a conferred degree. No verified research profile, publications, patents or h-index found. Quality pass 2026-07-30: normalized institution names to the university_names.json canonical form; no factual changes."
+    },
+    {
+      "name": "Морган Ральф Таваколян",
+      "current_role": "Член Совета директоров ПАО \"ММК\"",
+      "company_name": "ПАО \"ММК\"",
+      "education": [
+        {
+          "institution": "Yale University",
+          "year": null,
+          "program_or_specialty": "Political Science and International Relations",
+          "qualification": "Bachelor of Arts",
+          "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "qualification_degree": "Bachelor's degree"
+        },
+        {
+          "institution": "St Antony's College, University of Oxford",
+          "year": null,
+          "program_or_specialty": "Economics and law of Russia and Eastern Europe",
+          "qualification": "Master's degree",
+          "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "qualification_degree": "Master's degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Bachelor of Arts",
+          "year": null,
+          "field": "Political Science and International Relations",
+          "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "qualification_degree": "Bachelor's degree"
+        },
+        {
+          "degree": "Master's degree",
+          "year": null,
+          "field": "Economics and law of Russia and Eastern Europe",
+          "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "qualification_degree": "Master's degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "Baring Vostok",
+          "role": "Department director",
+          "start_year": 2016,
+          "end_year": null,
+          "description": "MMK Q2 2021 report lists Morgan as a department director at Baring Vostok in the 2016-2021 window.",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "ПАО \"ММК\"",
+          "role": "Independent member of Board of Directors",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "MMK annual report 2019 states that Morgan has been an MMK board member since 2015.",
+          "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "Tigers Realm Coal",
+          "role": "Non-executive director",
+          "start_year": 2016,
+          "end_year": 2020,
+          "description": "MMK Q2 2021 report lists a non-executive director role at Tigers Realm Coal ending in 2020.",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "U.S.-Russia Business Council",
+          "role": "Board role",
+          "start_year": 2017,
+          "end_year": null,
+          "description": "MMK Q2 2021 report lists a USRBC board role from 2017.",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Nostrum Oil & Gas",
+          "role": "Alternate board role",
+          "start_year": 2019,
+          "end_year": 2020,
+          "description": "MMK Q2 2021 report lists an alternate board role in 2019-2020.",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Морган Ральф Таваколян for MAGN as Член СД."
+        },
+        {
+          "url": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "title": "MMK Annual Report 2019",
+          "fact": "Page 95: gives Yale/Oxford education and MMK/Baring Vostok roles."
+        },
+        {
+          "url": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "title": "MMK Quarterly Report for Q2 2021",
+          "fact": "Page 79: confirms higher education and recent Baring Vostok, Tigers Realm Coal, USRBC and Nostrum roles."
+        }
+      ],
+      "notes": "Russian official board news uses the shorter name Tav Morgan; identity was matched through MMK/Baring Vostok role chain. ROUND 2 (2026-07-19): graduation years for Yale and St Antony's College remain unconfirmed after a direct check (no accessible Wikipedia page or MMK filing gives them); left null rather than guessed. Tigers Realm Coal and Nostrum Oil & Gas classified under Energy/Oil, Gas & Consumable Fuels (coal & consumable-fuels producers sit in this GICS industry, not Metals & Mining, per the 2018 GICS revision); U.S.-Russia Business Council is a bilateral trade/business association, not a GICS-classifiable company, so left null. Russian official board news uses the shorter name Tav Morgan; identity was matched through MMK/Baring Vostok role chain. Quality pass 2026-07-30: bounded fresh-query gap follow-up on Yale/Oxford graduation years (tried a Wikipedia slug fetch not attempted before) returned HTTP 404 -- no page exists; years remain null as in round 1/2."
+    },
+    {
+      "name": "Наумова Ольга Валерьевна",
+      "current_role": "Член Совета директоров ПАО \"ММК\"",
+      "company_name": "ПАО \"ММК\"",
+      "education": [
+        {
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "year": 1994,
+          "program_or_specialty": "Marketing",
+          "qualification": null,
+          "source": "https://ar2018.magnit.com/en/40/30/60",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Procter & Gamble",
+          "role": "Sales and marketing roles",
+          "start_year": 1994,
+          "end_year": 2000,
+          "description": "Magnit annual report 2018 gives this early career period.",
+          "source": "https://ar2018.magnit.com/en/40/30/60",
+          "sector": "Consumer Staples",
+          "industry_group": "Household & Personal Products",
+          "industry": "Household Products"
+        },
+        {
+          "organization": "Bashkiria Trading House",
+          "role": "Deputy CEO",
+          "start_year": 2000,
+          "end_year": 2001,
+          "description": "Magnit annual report 2018 lists this role.",
+          "source": "https://ar2018.magnit.com/en/40/30/60",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Cherkizovo Trading House",
+          "role": "Regional sales director",
+          "start_year": 2001,
+          "end_year": 2002,
+          "description": "Magnit annual report 2018 lists this role.",
+          "source": "https://ar2018.magnit.com/en/40/30/60",
+          "sector": "Consumer Staples",
+          "industry_group": "Food, Beverage & Tobacco",
+          "industry": "Food Products"
+        },
+        {
+          "organization": "RIM / NLMK",
+          "role": "Senior roles",
+          "start_year": 2002,
+          "end_year": 2005,
+          "description": "Magnit annual report 2018 lists this employer period.",
+          "source": "https://ar2018.magnit.com/en/40/30/60",
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "Severstal-Enamel",
+          "role": "CEO",
+          "start_year": 2005,
+          "end_year": 2009,
+          "description": "Magnit annual report 2018 lists her as CEO.",
+          "source": "https://ar2018.magnit.com/en/40/30/60",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Durables & Apparel",
+          "industry": "Household Durables"
+        },
+        {
+          "organization": "Severstal Russian Steel",
+          "role": "Director role",
+          "start_year": 2010,
+          "end_year": 2013,
+          "description": "Magnit annual report 2018 lists this Severstal Russian Steel period.",
+          "source": "https://ar2018.magnit.com/en/40/30/60",
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "Pyaterochka / X5 / Agrotorg",
+          "role": "CEO / general director",
+          "start_year": 2013,
+          "end_year": 2018,
+          "description": "Magnit annual report 2018 and MMK Q2 2021 report confirm the Pyaterochka/X5 career period.",
+          "source": "https://ar2018.magnit.com/en/40/30/60",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "ПАО \"Магнит\"",
+          "role": "CEO, executive director and board member",
+          "start_year": 2018,
+          "end_year": 2019,
+          "description": "Magnit annual report 2018 identifies Naumova as CEO, executive director and board member.",
+          "source": "https://ar2018.magnit.com/en/40/30/60",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "Lorus SCM",
+          "role": "CEO",
+          "start_year": 2019,
+          "end_year": 2021,
+          "description": "MMK Q2 2021 report lists Lorus SCM CEO role until 30 May 2021.",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ООО \"Русская рыбопромышленная компания\" (Russian Fishery Company)",
+          "role": "Board role",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "Quality pass 2026-07-30: split out of a combined round-1 entry (Russian Fishery Company, Sollers Auto and Russian Crab) for per-company GICS classification. MMK Q2 2021 report lists board roles in these companies from 2020.",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Food, Beverage & Tobacco",
+          "industry": "Food Products"
+        },
+        {
+          "organization": "ПАО \"СОЛЛЕРС Авто\" (Sollers Auto)",
+          "role": "Board role",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "Quality pass 2026-07-30: split out of a combined round-1 entry (Russian Fishery Company, Sollers Auto and Russian Crab) for per-company GICS classification -- the original combined entry incorrectly carried a single Food Products label for all three companies, which misclassified this automaker. MMK Q2 2021 report lists board roles in these companies from 2020.",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Automobiles & Components",
+          "industry": "Automobiles"
+        },
+        {
+          "organization": "ООО \"Русский Краб\" (Russian Crab)",
+          "role": "Board role",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "Quality pass 2026-07-30: split out of a combined round-1 entry (Russian Fishery Company, Sollers Auto and Russian Crab) for per-company GICS classification. MMK Q2 2021 report lists board roles in these companies from 2020.",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Food, Beverage & Tobacco",
+          "industry": "Food Products"
+        },
+        {
+          "organization": "Eastern Retail Networks",
+          "role": "CEO",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "MMK Q2 2021 report lists this CEO role from 2021. Quality pass 2026-07-30: corrected GICS -- ООО Восточные розничные сети was confirmed via list-org.com registry lookup with primary ОКВЭД 46.31 (wholesale fruit/vegetable trade); the entry had been mislabeled Consumer Discretionary/Automobiles & Components/Automobiles (likely a copy-paste artifact from the adjacent Sollers Auto entry), corrected to the retail/distribution classification matching its actual registered business.",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "ПАО \"ММК\"",
+          "role": "Member of Board of Directors",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Quality pass 2026-07-30: corrected GICS -- this entry had been mislabeled Consumer Staples/Food, Beverage & Tobacco/Food Products (a copy-paste artifact from the surrounding retail-employer entries); ПАО \"ММК\" is a steel producer and belongs in Materials/Materials/Metals & Mining, consistent with every other ММК entry in this record. MMK Q2 2021 report and official 2021 news confirm Naumova's election to the MMK board from 28 May 2021.",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Наумова Ольга Валерьевна for MAGN as Член СД."
+        },
+        {
+          "url": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "title": "MMK Quarterly Report for Q2 2021",
+          "fact": "Page 82: confirms Naumova's MMK board identity and retail/board career chain."
+        },
+        {
+          "url": "https://ar2018.magnit.com/en/40/30/60",
+          "title": "Magnit Annual Report 2018: Board biography of Olga Naumova",
+          "fact": "Confirms 1994 Moscow State University marketing education and detailed career through Magnit CEO role."
+        }
+      ],
+      "notes": "Academic namesake results were rejected because they did not match the Magnit/Pyaterochka/MMK executive profile. Quality pass 2026-07-30: fixed a GICS-correctness bug -- the combined \"Russian Fishery Company, Sollers Auto and Russian Crab\" entry had carried a single Food Products label covering an automaker (Sollers Auto), and the separate ММК board-membership entry had been mislabeled Food Products instead of Metals & Mining, apparently a copy-paste/scrambling artifact from an earlier corrupted patch run. Split the combined entry into three per-company entries with correct GICS, corrected the Eastern Retail Networks entry (previously mislabeled Automobiles; confirmed via registry OKVED lookup as retail/distribution), and corrected the ММК board entry to Materials/Materials/Metals & Mining. Bounded fresh-query gap follow-up on Lorus SCM (list-org.com and rusprofile.ru name searches) found no registry match; remains unidentified/null as before."
+    },
+    {
+      "name": "Осеевский Михаил Эдуардович",
+      "current_role": "Член Совета директоров ПАО \"ММК\"",
+      "company_name": "ПАО \"ММК\"",
+      "education": [
+        {
+          "institution": "Санкт-Петербургский политехнический университет Петра Великого",
+          "year": 1983,
+          "program_or_specialty": "Инженерная электрофизика",
+          "qualification": null,
+          "source": "https://www.company.rt.ru/ir/agm/events/candidates_list.pdf",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Доктор экономических наук",
+          "year": null,
+          "field": null,
+          "source": "https://www.company.rt.ru/ir/agm/events/candidates_list.pdf",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "Government of Saint Petersburg",
+          "role": "Senior government roles including vice-governor/head of administration",
+          "start_year": null,
+          "end_year": 2012,
+          "description": "Rostelecom candidate materials summarize senior Saint Petersburg government roles in the pre-2012 career chain.",
+          "source": "https://www.company.rt.ru/ir/agm/events/candidates_list.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Банк ВТБ",
+          "role": "Deputy president / chairman of management board",
+          "start_year": 2016,
+          "end_year": 2017,
+          "description": "MMK Q2 2021 report lists this role immediately before Rostelecom.",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "ПАО \"Ростелеком\"",
+          "role": "President; chairman/member of board",
+          "start_year": 2017,
+          "end_year": null,
+          "description": "MMK Q2 2021 report and Rostelecom candidate materials confirm the Rostelecom leadership role.",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        },
+        {
+          "organization": "ПАО \"ММК\"",
+          "role": "Member of Board of Directors",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "MMK Q2 2021 report and official 2021 news confirm election to MMK Board of Directors from 28 May 2021.",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Осеевский Михаил Эдуардович for MAGN as Член СД."
+        },
+        {
+          "url": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "title": "MMK Quarterly Report for Q2 2021",
+          "fact": "Page 83: confirms Oseevsky's MMK board identity, Doctor of Economic Sciences degree and VTB/Rostelecom career chain."
+        },
+        {
+          "url": "https://www.company.rt.ru/ir/agm/events/candidates_list.pdf",
+          "title": "Rostelecom candidate materials",
+          "fact": "Lists Mikhail Eduardovich Oseevsky, Rostelecom president, with 1983 Leningrad Polytechnic education and Doctor of Economic Sciences degree."
+        }
+      ],
+      "notes": "Dissertation title and individual scientific publications were not verified. ROUND 2 (2026-07-19): re-checked ru.wikipedia.org directly -- confirms the 1983 Leningrad Polytechnic specialty inzhenernaya elektrofizika verbatim but does not give a year or topic for the Doctor of Economic Sciences degree; degrees[0].year stays null rather than guessed. Government of Saint Petersburg is a state body, not a GICS-classifiable company, so left null. Dissertation title and individual scientific publications were not verified. Quality pass 2026-07-30: bounded fresh-query gap follow-up on the Doctor of Economic Sciences dissertation year (direct Wikipedia fetch, a source not read in round 1/2) confirmed the degree but again gave no dissertation year or title; remains null."
+    },
+    {
+      "name": "Рашникова Ольга Викторовна",
+      "current_role": "Член Совета директоров ПАО \"ММК\"",
+      "company_name": "ПАО \"ММК\"",
+      "education": [
+        {
+          "institution": "Franklin University Switzerland",
+          "year": 2000,
+          "program_or_specialty": "Finance and economics",
+          "qualification": null,
+          "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "qualification_degree": "Bachelor's degree"
+        },
+        {
+          "institution": "Государственный университет управления",
+          "year": 2009,
+          "program_or_specialty": "Executive MBA",
+          "qualification": "Executive MBA",
+          "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ММК\"",
+          "role": "Non-executive member of Board of Directors",
+          "start_year": 2012,
+          "end_year": null,
+          "description": "MMK annual report 2019 states that Rashnikova has been an MMK board member since 2012.",
+          "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ПАО \"ММК\"",
+          "role": "Finance director / head of financial resources roles",
+          "start_year": 2016,
+          "end_year": null,
+          "description": "MMK Q2 2021 report lists finance-related MMK roles in the 2016 reporting window.",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ПАО \"Кредит Урал Банк\"",
+          "role": "Board role",
+          "start_year": 2016,
+          "end_year": 2017,
+          "description": "MMK Q2 2021 report lists this board role.",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "ООО \"МЭК\"",
+          "role": "Board role",
+          "start_year": 2016,
+          "end_year": 2018,
+          "description": "Quality pass 2026-07-30: split out of a combined round-1 entry (\"ООО МЭК and ООО Энергопарк\"). MMK Q2 2021 report lists this board role. A fresh registry search this round (query \"Магнитогорская энергетическая компания\") found one exact-name candidate in Magnitogorsk (ИНН 7445020452, ООО \"МЭК\" = \"Магнитогорская энергетическая компания\", list-org.com/company/134824), but the primary ОКВЭД could not be confirmed (list-org.com blocked further detail behind a CAPTCHA) and the match to this specific MMK board seat was not independently corroborated, so GICS is left null pending confirmation in a future pass.",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ООО \"Энергопарк\"",
+          "role": "Board role",
+          "start_year": 2016,
+          "end_year": 2018,
+          "description": "ROUND 2: split out of a combined 2-company entry. MMK Q2 2021 report lists these board roles. Corporate registry search for Energopark returns 16 unrelated companies nationwide with this exact name; the specific MMK-linked entity could not be confidently identified, so sector/industry_group/industry are left null.",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ООО \"МАГСТОРН\"",
+          "role": "Finance department/head role",
+          "start_year": 2016,
+          "end_year": 2017,
+          "description": "MMK Q2 2021 report lists this finance role. Round-2 research confirmed the entity via list-org.com registry lookup (ИНН 7706187219, formerly ООО \"МАГМА\", primary ОКВЭД 68.20.2 -- rental/management of non-residential real estate) but the GICS classification was not yet applied to this record; applied in this quality pass.",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": "Real Estate",
+          "industry_group": "Real Estate Management & Development (New)",
+          "industry": "Real Estate Management & Development (New Code)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Рашникова Ольга Викторовна for MAGN as Член СД."
+        },
+        {
+          "url": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "title": "MMK Annual Report 2019",
+          "fact": "Page 96: gives education and MMK board role."
+        },
+        {
+          "url": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "title": "MMK Quarterly Report for Q2 2021",
+          "fact": "Page 76: confirms higher education, finance-related roles and daughter relationship to Viktor Rashnikov."
+        }
+      ],
+      "notes": "Family relationship to Viktor Rashnikov helped disambiguation. No verified scientific degree or publication profile found. Quality pass 2026-07-30: split the combined \"ООО МЭК and ООО Энергопарк\" entry into two per-organization entries and applied round-2's ООО МАГСТОРН GICS finding (Real Estate/Real Estate Management & Development) that had not yet reached the JSON. Bounded fresh-query gap follow-up on ООО МЭК found a plausible candidate (\"Магнитогорская энергетическая компания\", ИНН 7445020452) via a broader registry-name query, but its primary OKVED could not be confirmed (list-org.com CAPTCHA-blocked) and the match to this specific board seat was not independently corroborated, so left null pending confirmation; a fresh query on ООО Энергопарк with a Magnitogorsk qualifier returned zero registry matches, still unresolved."
+    },
+    {
+      "name": "Ушаков Сергей Николаевич",
+      "current_role": "Член Совета директоров ПАО \"ММК\"",
+      "company_name": "ПАО \"ММК\"",
+      "education": [
+        {
+          "institution": "Магнитогорский государственный технический университет имени Г.И. Носова",
+          "year": 2017,
+          "program_or_specialty": "Металлургия",
+          "qualification": null,
+          "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат технических наук",
+          "year": 2020,
+          "field": "Металлургия черных, цветных и редких металлов (ВАК 05.16.02)",
+          "source": "https://www.dissercat.com/content/razrabotka-tekhnologii-proizvodstva-trubnoi-ultranizkosernistoi-stali-v-sovremennom-kislorod",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ММК\"",
+          "role": "Deputy General Director for Commerce",
+          "start_year": 2016,
+          "end_year": 2017,
+          "description": "MMK annual report 2019 and Q2 2021 report state that Ushakov has been an MMK board member from 2017.",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ПАО \"ММК\"",
+          "role": "Member of Management Board",
+          "start_year": 2016,
+          "end_year": 2019,
+          "description": "MMK Q2 2021 report lists Management Board membership in 2016-2019.",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ПАО \"ММК\"",
+          "role": "Deputy General Director for Production",
+          "start_year": 2017,
+          "end_year": 2018,
+          "description": "MMK Q2 2021 report lists this production role in 2017-2018.",
+          "source": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ПАО \"ММК\"",
+          "role": "Deputy General Director for Sales",
+          "start_year": 2018,
+          "end_year": null,
+          "description": "MMK annual report 2019 and Q2 2021 report confirm this role from 2018.",
+          "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ПАО \"ММК\"",
+          "role": "Member of Board of Directors",
+          "start_year": 2017,
+          "end_year": null,
+          "description": "MMK annual report 2019 and Q2 2021 report state that Ushakov has been an MMK board member from 2017.",
+          "source": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "ПАО \"ММК\"",
+          "role": "Кандидатская диссертация",
+          "start_year": 2020,
+          "end_year": 2020,
+          "description": "Quality pass 2026-07-30: corrected the year (round-1 misread the same DisserCat page as 2017); an independent direct fetch of this URL's citation_author/citation_publication_date meta tags this round confirms Ushakov Sergey Nikolaevich, VAK 05.16.02, defended 2020. DisserCat lists Ushakov's candidate dissertation \"Разработка технологии производства трубной ультранизкосернистой стали в современном кислородно-конвертерном цехе\" and indicates MMK affiliation.",
+          "source": "https://www.dissercat.com/content/razrabotka-tekhnologii-proizvodstva-trubnoi-ultranizkosernistoi-stali-v-sovremennom-kislorod"
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Ушаков Сергей Николаевич for MAGN as Член СД."
+        },
+        {
+          "url": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+          "title": "MMK Annual Report 2019",
+          "fact": "Page 96: gives education, deputy general director for sales role and board service since 2017."
+        },
+        {
+          "url": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+          "title": "MMK Quarterly Report for Q2 2021",
+          "fact": "Page 80: confirms higher education, Candidate of Technical Sciences degree and MMK career sequence."
+        },
+        {
+          "url": "https://www.dissercat.com/content/razrabotka-tekhnologii-proizvodstva-trubnoi-ultranizkosernistoi-stali-v-sovremennom-kislorod",
+          "title": "DisserCat: Ushakov dissertation record (year corrected)",
+          "fact": "Lists the 2020 candidate dissertation by Sergey Nikolaevich Ushakov on pipe ultra-low-sulfur steel production with MMK affiliation; confirmed via the page's own citation_author/citation_publication_date meta tags."
+        }
+      ],
+      "notes": "DisserCat says main dissertation results were reflected in 11 works, but individual publication records were not separately verified; publications remain empty. ROUND 2 (2026-07-19): corrected the dissertation defence year from 2017 to 2020 after verifying the DisserCat page's own title/meta tags directly (round 1 misread the year from the same URL). education[0] (MGTU im. Nosova, 2017, Metallurgiya) qualification_degree left null: 2017 falls after Russia's Bologna transition and no source states whether this was a Bachelor's, Master's, or a retained Specialist-track metallurgy program, so the degree level cannot be inferred with high confidence. DisserCat says main dissertation results were reflected in 11 works, but individual publication records were not separately verified; publications remain empty. Quality pass 2026-07-30: corrected a year-misread from round 1 -- the dissertation was defended in 2020, not 2017, independently re-verified this round via direct fetch of the page's citation meta tags."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MAGN/Годовой отчет 2024 ММК.pdf",
+      "title": "Годовой отчет ПАО \"ММК\" за 2024 год",
+      "fact": "Pages 190-193: annual general meeting on 30 May 2024 elected the Board of Directors; MMK Board consists of 10 people; the new composition did not change compared with the composition elected on 26 May 2023; 13 board meetings were held in 2024."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MAGN/Годовой отчет 2024 ММК.pdf",
+      "title": "Годовой отчет ПАО \"ММК\" за 2024 год",
+      "fact": "Pages 201-202: MMK's executive bodies are the Management Board and the sole executive body, the General Director."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MAGN/IFRS_RUR_2412.pdf",
+      "title": "Консолидированная финансовая отчетность ПАО \"ММК\" за 2024 год",
+      "fact": "Page 6: identifies Viktor Filippovich Rashnikov as chairman of the Board of Directors and final beneficial owner of the controlling stake."
+    },
+    {
+      "url": "https://mmk.ru/ru/press-center/news/01-06-2021mmk-soobshchaet-ob-itogakh-godovogo-obshchego-sobraniya-aktsionerov/",
+      "title": "MMK reports results of the annual general meeting of shareholders, 1 June 2021",
+      "fact": "Official MMK news names the board elected in 2021: Viktor Rashnikov, Pavel Shilyaev, Andrey Eremin, Olga Rashnikova, Sergey Ushakov, Tav Morgan, Valery Martsinovich, Mikhail Oseevsky, Olga Naumova and Rashid Ismailov."
+    },
+    {
+      "url": "https://mmk.ru/upload/iblock/866/o5tpf9dh5myrk3b86dd6f3ejw0xl8vi4/Otchet-ob-itogakh-golosovaniya-na-GOSA-PAO-MMK-30.05.2024-_dlya-raskrytiya_.pdf",
+      "title": "Отчет об итогах голосования на ГОСА ПАО \"ММК\" 30.05.2024",
+      "fact": "The official 2024 voting report confirms the board-election agenda item, while candidate/resolution details are withheld under Russian Government Decree No. 1102."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "Rows for MAGN/PАО \"ММК\" provide the initial list of 10 people and positions."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MAGN/Годовой отчет 2024 ММК.pdf",
+      "title": "Годовой отчет ПАО \"ММК\" за 2024 год",
+      "fact": "Local annual report checked for 2024 board, executive-body and CEO context."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MAGN/IFRS_RUR_2412.pdf",
+      "title": "Консолидированная финансовая отчетность ПАО \"ММК\" за 2024 год",
+      "fact": "Local IFRS report checked; confirms Viktor Rashnikov as chairman and final beneficial owner."
+    },
+    {
+      "url": "https://www.akm.ru/upload/akmrating/MMK_annual_report_2019.pdf",
+      "title": "MMK Annual Report 2019",
+      "fact": "Used for detailed biographies of Rashnikov, Martsinovich, Morgan, Eremin, Rashnikova, Ushakov and Shilyaev."
+    },
+    {
+      "url": "https://mmk.ru/upload/iblock/c51/ocbvp8l9iiw14gmmcqqknwq38m8iygsn/qreport_2_2021.pdf",
+      "title": "MMK Quarterly Report for Q2 2021",
+      "fact": "Used for 2021 board biographies of all ten people, including newer independent directors Naumova, Oseevsky and Ismailov."
+    },
+    {
+      "url": "https://mmk.ru/ru/press-center/news/01-06-2021mmk-soobshchaet-ob-itogakh-godovogo-obshchego-sobraniya-aktsionerov/",
+      "title": "MMK 2021 AGM results",
+      "fact": "Official MMK page confirms the same named board list was elected in 2021."
+    },
+    {
+      "url": "https://ar2018.magnit.com/en/40/30/60",
+      "title": "Magnit Annual Report 2018",
+      "fact": "Used for Olga Naumova's education and career history."
+    },
+    {
+      "url": "https://www.company.rt.ru/ir/agm/events/candidates_list.pdf",
+      "title": "Rostelecom candidate materials",
+      "fact": "Used for Mikhail Oseevsky's education, degree and Rostelecom identity."
+    },
+    {
+      "url": "https://softline.ru/about/news/pao-softlayn-obyavlyaet-o-naznachenii-predsedatelya-soveta-direktorov",
+      "title": "Softline biography of Rashid Ismailov",
+      "fact": "Used cautiously for Rashid Ismailov's education; career markers match the MMK Q2 2021 telecom profile."
+    }
+  ],
+  "validation_notes": "Processed 10 MAGN people from CSV: 1 CEO and 9 other board/TMT entries. Checked 2 local documents in MOEXBMI_Отчеты_2024/MAGN: Годовой отчет 2024 ММК.pdf and IFRS_RUR_2412.pdf. Total research rounds: 10 person-rounds, one per person. Education was found for all 10 people. Weak or secondary sources used: Softline for Rashid Ismailov's education because MMK 2021 only states higher professional education; DisserCat for Shilyaev and Ushakov dissertation details; AKM-hosted copy of MMK 2019 annual report where the official 2024 MMK disclosures no longer provide biographies. Key conflict/limitation: the 2024 local annual report confirms a 10-person board and no change versus the board elected on 26 May 2023, but does not disclose names; the 2024 voting report also withholds candidate/resolution details under Government Decree No. 1102. The named 2024 people are therefore anchored by CSV, 2024 local board context, 2024 chairman/CEO local facts, the official MMK 2021 named board list, and detailed MMK 2019/2021 biographies. Rejected namesakes: Rashid Ismailov public-policy/ecology profile with inconsistent education; generic Olga Naumova academic profiles; generic Sergey Ushakov/Ralph Morgan/Andrey Eremin search results without MMK or employer-chain markers. Publications, patents and h-index are empty unless a specific verified scientific profile was found; generic claims of publications or inventions were not expanded. Search considered complete because local documents, official/issuer reports, prior employer sources, education-specific searches, career-chain searches, dissertation searches and namesake checks were completed with no remaining unverified employer or university lead material enough to change the JSON. ROUND 2 (2026-07-19, gap-fill + GICS/qualification_degree/university-normalization pass, per REFINEMENT.md and this round's task brief): Local filings re-checked first -- confirmed via a full-text scan of both MOEXBMI_Otchety_2024/MAGN files that only Shilyaev (CEO) and Rashnikov/Rashnikova appear by name in the 2024 annual report (intro/signature pages), and neither local document discloses other board members' biographies, matching round 1's conclusion; no new local-filing facts were available this round. Went to web/primary-source research next: downloaded and read the two external primary sources already cited in round 1 (MMK 2019 annual report via akm.ru and MMK Q2 2021 quarterly report via mmk.ru) directly page-by-page instead of relying on round-1 summaries, which surfaced one significant correction and several precise gap-fills. CORRECTION: Shilyaev's research_experience dissertation entry and one ceo.sources entry pointed to the wrong DisserCat record in round 1 (a namesake mix-up -- that record is actually Chertousov A.A.'s 2004 dissertation); the real Shilyaev dissertation was located via a dissercat.com site search and confirmed by its own page metadata (title/citation_author/citation_publication_date), giving degrees[0].field and a corrected research_experience entry, both consistent with degrees[0].year=2010 already on file. CORRECTION: Ushakov's dissertation year was 2017 in round 1; a direct fetch of the same DisserCat URL's own title/meta tags shows 2020 -- round 1 misread the year from that page; corrected degrees[0].year and research_experience accordingly, and field filled with the VAK specialty (05.16.02). GAP-FILL: Rashnikov's degrees[0].year (Doctor of Technical Sciences) filled as 1996 by cross-referencing the already-sourced uralfo.gov.ru research_experience entry on file since round 1. GAP-FILL: Rashnikov's vague combined professional_experience entry (World Steel Association/KHL/Russkaya Stal/RSPP/regional associations) was split into five dated entries using precise start years found on p.95 of the MMK 2019 annual report (read directly this round); all five are trade/industry associations or a non-profit sports league, not GICS-classifiable companies, so their sector/industry_group/industry are null with that reasoning, not guessed. GAP-FILL: identified full legal names for three previously vague organizations by direct read of the MMK Q2 2021 report -- TSTR Nekst = OOO Tsentr tekhnologiy robotizatsii Nekst (Eremin), and Data Center Processing and Automation = AO Dannye - tsentr obrabotki i avtomatizatsii (Ismailov) -- and used Russian corporate-registry lookups (list-org.com, by company name/INN) to confirm primary OKVED codes for several ambiguous MMK-adjacent entities: OOO TSTR Nekst (OKVED 62.02, IT consultancy), OOO MAGSTORN (OKVED 68.20.2, non-residential real-estate management, Rashnikova), OOO TD Cherkizovo (OKVED 46.32.1, wholesale meat/poultry trade, Naumova) and OOO Vostochnye roznichnye seti (OKVED 46.31, wholesale fruit/vegetable trade, Naumova). Split three more combined multi-organization professional_experience entries into individual entries for per-organization GICS classification: Naumova's 'Russian Fishery Company, Sollers Auto and Russian Crab' (into 3) and Rashnikova's 'OOO MEK and OOO Energopark' (into 2, both left with null GICS tags because the names are too generic to match to one specific registry entry with confidence). GICS SECTOR/INDUSTRY: added company-level sector=Materials/industry_group=Materials/industry=Metals & Mining (MMK is a steel producer; all GICS strings copied character-for-character from gics_taxonomy.json) and a sector/industry_group/industry triple to every professional_experience entry for all 10 people; government bodies (Ministry of Telecom, Government of Saint Petersburg), industry/trade associations, a sports league, and a handful of unidentifiable shell-like entities (Bashkiria Trading House, Lorus SCM, OOO MEK, OOO Energopark) were left null/null/null with a reason recorded in that entry's description rather than forced into a GICS bucket. QUALIFICATION_DEGREE: added to every education[]/degrees[] entry for all 10 people. Soviet/Russian pre-Bologna (pre-~2003) higher-education completions with an explicit specialist-style qualification title (inzhener-metallurg, menedzher, ekonomika i upravlenie v metallurgicheskoy promyshlennosti, inzhenernaya elektrofizika, Marketing/MGU 1994) were classified 'Specialist degree', consistent with the heuristic already established for other tickers in this project (see e.g. DVEC/ALRS validation_notes); explicit MBA/Executive MBA labels -> 'MBA'; explicit Bachelor of Arts/Master's-degree labels (Morgan, Rashnikova's Franklin College) -> 'Bachelor's degree'/'Master's degree'; short non-degree-conferring executive programs (Shilyaev's Stockholm SSE program, Martsinovich's London Guildhall postgraduate specialization) -> 'Executive education'; kandidat/doktor nauk degrees -> 'Doctoral degree' (Russia's two-tier system has no separate bucket in the ten allowed values); 'Professor' academic-rank entries -> null (not a degree, per the same convention used for this title elsewhere in the project). Left null wherever no source gave enough detail to infer a degree level with high confidence -- notably Ismailov's 2007 Moscow Polytechnic/MAMI entry and Ushakov's 2017 Metallurgy entry, the latter because 2017 falls after Russia's Bologna transition and no source states whether it was a Bachelor's, Master's, or a retained Specialist-track program. UNIVERSITY NORMALIZATION: all 16 distinct raw institution strings used across the 10 people already had a canonical entry in university_names.json (Chelyabinsk State Technical University -> Yuzhno-Uralskiy gosudarstvennyy universitet; Magnitogorsk Mining-Metallurgical Institute -> Magnitogorsk State Technical University named after G.I. Nosov; Gdansk University -> Uniwersytet Gdanski; London Guildhall University -> London Metropolitan University; and others listed in the round-2 research notes), so new_institutions_found is empty for this ticker -- nothing to add. Nothing confirmed in round 1 was deleted; every change above either adds a previously-null/vague field or corrects a demonstrable citation/date error found by re-reading the same primary sources already on file, with the correction documented in place rather than silently overwritten. DATA-LOSS REPAIR (2026-07-30): restored 8 shortened person notes, 2 shortened experience descriptions, 0 shortened education descriptions, 0 missing person-level sources, and 0 missing experience-level sources using git HEAD (commit 03bfe9f, 2026-07-20) as the reliable baseline. Nothing else in this file was touched. Additional repair: restored the full confirmed legal name for 1 professional_experience entry/entries (АНО \"ЦКМСЧ\" -> full name with abbreviation), verified by round 2 against MMK 2019 annual report p.96 and MMK Q2 2021 report p.77; this had been silently shortened back to the bare abbreviation.",
+  "sector": "Materials",
+  "industry_group": "Materials",
+  "industry": "Metals & Mining"
+}

@@ -1,0 +1,2000 @@
+{
+  "company_name": "МКПАО «ВК»",
+  "company_ticker": "VKCO",
+  "ceo": {
+    "name": "Багудина Елена Геннадьевна",
+    "current_role": "генеральный директор МКПАО «ВК»",
+    "company_name": "МКПАО «ВК»",
+    "education": [],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "МКПАО «ВК»",
+        "role": "генеральный директор",
+        "start_year": null,
+        "end_year": null,
+        "description": "Руководитель МКПАО «ВК» по данным агрегированного ЕГРЮЛ-источника.",
+        "sources": [
+          "https://checko.ru/company/kompaniya-vk-1097746572813"
+        ],
+        "sector": "Communication Services",
+        "industry_group": "Media & Entertainment",
+        "industry": "Interactive Media & Services"
+      },
+      {
+        "organization": "ООО «Компания ВК»",
+        "role": "генеральный директор",
+        "start_year": 2011,
+        "end_year": null,
+        "description": "Руководитель ООО «Компания ВК».",
+        "sources": [
+          "https://checko.ru/company/kompaniya-vk-1097746572813"
+        ],
+        "sector": "Communication Services",
+        "industry_group": "Media & Entertainment",
+        "industry": "Interactive Media & Services"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "https://checko.ru/company/kompaniya-vk-1097746572813",
+        "title": "Checko — ООО «Компания ВК»",
+        "fact": "Подтверждает руководящую связь Елены Багудиной с VK-структурами."
+      },
+      {
+        "url": "https://checko.ru/company/kompaniya-vk-1097746572813",
+        "title": "Checko — ООО «Компания ВК»",
+        "fact": "Страница указывает Багудину Елену Геннадьевну руководителем ООО «Компания ВК» и в связях по руководителю — генеральным директором МКПАО «ВК»."
+      },
+      {
+        "url": "https://checko.ru/company/kompaniya-vk-1097746572813",
+        "title": "Checko — ООО «Компания ВК»",
+        "fact": "Страница указывает, что Багудина Елена Геннадьевна является генеральным директором ООО «Компания ВК» с 26 октября 2011 года."
+      },
+      {
+        "url": "https://www.rusprofile.ru/person/bagudina-eg-772900107508",
+        "title": "Rusprofile — Багудина Елена Геннадьевна (ИНН 772900107508)",
+        "fact": "Страница подтверждает руководящие позиции того же ИНН: генеральный директор ООО «Компания ВК», ООО «Управляющая Компания ВК» и МКПАО «ВК», директор БФ «Код Добра», генеральный директор ООО «Киберспорт.Ру»; страница не содержит сведений об образовании."
+      }
+    ],
+    "notes": "Quality pass 2026-08-01 (honest-gap follow-up): проверено 3 свежих запроса на образование. Найден только тезка — Багудина Елена Геннадьевна, доцент кафедры экономической теории РТУ МИРЭА, к.э.н. (studizba.com) — но прямая привязка к ИНН 772900107508 (гендиректор МКПАО «ВК») не подтвердилась: профиль rusprofile.ru по этому ИНН перечисляет только руководящие позиции в структурах VK/БФ «Код Добра»/«Киберспорт.Ру» и не упоминает РТУ МИРЭА или ученую степень. Во избежание смешения тезок образовательные данные НЕ добавлены. Образование, ученые степени и научные данные по-прежнему не подтверждены. Источник по роли — агрегатор ЕГРЮЛ/rusprofile; желательно заменить на официальную выписку ФНС или читаемый годовой отчет. Роль из CSV: Генеральный директор МКПАО «ВК»; единоличный исполнительный орган в 2024 году"
+  },
+  "tmt": [
+    {
+      "name": "Куприянов Сергей",
+      "current_role": "председатель Совета директоров МКПАО «ВК»; неисполнительный директор",
+      "company_name": "МКПАО «ВК»",
+      "education": [
+        {
+          "institution": "Московский физико-технический институт",
+          "year": null,
+          "qualification": null,
+          "description": "Original education details: field: моделирование экономических процессов (специализация на базе Института системного анализа РАН).",
+          "sources": [
+            "https://viperson.ru/people/kupriyanov-sergey-vladimirovich-eb547284-9479-4a54-ab43-4d48521511dd"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "VK",
+          "role": "председатель Совета директоров; неисполнительный директор",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "В 2022 году избран председателем Совета директоров VK; в совет вошел в декабре 2021 года как неисполнительный директор.",
+          "sources": [
+            "https://www.rbc.ru/business/24/05/2022/628cd1f39a794751482d5208"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        },
+        {
+          "organization": "ПАО «Газпром»",
+          "role": "пресс-секретарь председателя правления; начальник департамента",
+          "start_year": 2003,
+          "end_year": null,
+          "description": "Профессиональный контекст, использованный для disambiguation.",
+          "sources": [
+            "https://www.forbes.ru/biznes/466527-press-sekretar-glavy-pravlenia-gazproma-kuprianov-vozglavil-sovet-direktorov-vk"
+          ],
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.interfax.ru/russia/842599",
+          "title": "Интерфакс — Главой совета директоров VK избран Сергей Куприянов",
+          "fact": "Подтверждает роль Куприянова в Совете директоров VK и состав совета на момент изменения."
+        },
+        {
+          "url": "https://www.rbc.ru/business/24/05/2022/628cd1f39a794751482d5208",
+          "title": "РБК — Пресс-секретарь главы правления «Газпрома» возглавил совет директоров VK",
+          "fact": "РБК сообщает, что Сергей Куприянов назначен председателем Совета директоров VK и ранее вошел в совет как неисполнительный директор."
+        },
+        {
+          "url": "https://www.forbes.ru/biznes/466527-press-sekretar-glavy-pravlenia-gazproma-kuprianov-vozglavil-sovet-direktorov-vk",
+          "title": "Forbes — Сергей Куприянов возглавил совет директоров VK",
+          "fact": "Forbes указывает, что Куприянов является пресс-секретарем председателя правления «Газпрома» с 2003 года и начальником департамента ПАО «Газпром» с 2019 года."
+        },
+        {
+          "url": "https://viperson.ru/people/kupriyanov-sergey-vladimirovich-eb547284-9479-4a54-ab43-4d48521511dd",
+          "title": "Viperson — Куприянов Сергей Владимирович",
+          "fact": "Биография указывает, что Сергей Куприянов — выпускник Московского физико-технического института, специализировался в области моделирования экономических процессов на базе Института системного анализа РАН; родился в 1974 году."
+        }
+      ],
+      "notes": "Quality pass 2026-08-01 (honest-gap follow-up): найдено образование (МФТИ) через viperson.ru; конкретный год выпуска и точная квалификация (специалист/бакалавр) источником не названы, поэтому qualification_degree оставлен Unknown. Ученые степени, публикации, патенты и h-index по-прежнему не подтверждены надежным источником. Актуальность на 2024 год основана на CSV и найденном годовом отчете, который не удалось полноценно прочитать инструментами. Роль из CSV: Председатель Совета директоров МКПАО «ВК»; неисполнительный директор"
+    },
+    {
+      "name": "Зыбина Мария",
+      "current_role": "член Совета директоров МКПАО «ВК»; неисполнительный директор",
+      "company_name": "МКПАО «ВК»",
+      "education": [
+        {
+          "institution": "Московский государственный институт международных отношений (МГИМО)",
+          "year": 1999,
+          "qualification": null,
+          "description": "Original education details: field: международные экономические отношения / международные валютно-кредитные отношения (окончила с отличием).",
+          "sources": [
+            "https://roscongress.org/speakers/zybina-mariya/biography/"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "VK",
+          "role": "неисполнительный директор",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "В 2022 году назначена/избрана неисполнительным директором VK.",
+          "sources": [
+            "https://www.rbc.ru/business/24/05/2022/628cd1f39a794751482d5208"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        },
+        {
+          "organization": "Газпромбанк",
+          "role": "исполнительный вице-президент",
+          "start_year": null,
+          "end_year": null,
+          "description": "Отвечала за управление цифровыми активами в Газпромбанке.",
+          "sources": [
+            "https://www.interfax.ru/russia/842599"
+          ],
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.interfax.ru/russia/842599",
+          "title": "Интерфакс — Главой совета директоров VK избран Сергей Куприянов",
+          "fact": "Подтверждает включение Марии Зыбиной в Совет директоров VK."
+        },
+        {
+          "url": "https://www.rbc.ru/business/24/05/2022/628cd1f39a794751482d5208",
+          "title": "РБК — Пресс-секретарь главы правления «Газпрома» возглавил совет директоров VK",
+          "fact": "РБК сообщает, что Мария Зыбина назначена на должность неисполнительного директора VK."
+        },
+        {
+          "url": "https://www.interfax.ru/russia/842599",
+          "title": "Интерфакс — Главой совета директоров VK избран Сергей Куприянов",
+          "fact": "Интерфакс указывает Зыбину исполнительным вице-президентом Газпромбанка, отвечающим за управление цифровыми активами."
+        },
+        {
+          "url": "https://roscongress.org/speakers/zybina-mariya/biography/",
+          "title": "Roscongress — биография Марии Зыбиной",
+          "fact": "Биография указывает, что Мария Сергеевна Зыбина в 1999 году с отличием окончила МГИМО по специализации международные экономические/валютно-кредитные отношения; родилась 4 марта 1977 года; до Газпромбанка работала в Marsh & McLennan (1999–2006) и Росгосстрахе (с 2006 года)."
+        }
+      ],
+      "notes": "Quality pass 2026-08-01 (honest-gap follow-up): найдено образование (МГИМО, 1999, с отличием) и отчество (Сергеевна) через roscongress.org; name оставлен как в CSV. Дополнительная профессиональная история (Marsh & McLennan, Росгосстрах) зафиксирована в источниках, но не добавлена в professional_experience этим раундом (вне узкого фокуса gap-fill на образование). CSV не содержит отчество. Роль из CSV: Член Совета директоров МКПАО «ВК»; неисполнительный директор"
+    },
+    {
+      "name": "Антонова Ульяна",
+      "current_role": "член Совета директоров МКПАО «ВК»; неисполнительный директор",
+      "company_name": "МКПАО «ВК»",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "VK",
+          "role": "неисполнительный директор",
+          "start_year": null,
+          "end_year": null,
+          "description": "Указана в составе Совета директоров VK в сообщении о составе совета после изменений 2022 года.",
+          "sources": [
+            "https://www.interfax.ru/russia/842599"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        },
+        {
+          "organization": "АО «МФ Технологии»",
+          "role": "генеральный директор",
+          "start_year": null,
+          "end_year": null,
+          "description": "Профессиональный контекст для идентификации.",
+          "sources": [
+            "https://www.interfax.ru/russia/842599"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.interfax.ru/russia/842599",
+          "title": "Интерфакс — Главой совета директоров VK избран Сергей Куприянов",
+          "fact": "Подтверждает связь Ульяны Антоновой с Советом директоров VK."
+        },
+        {
+          "url": "https://www.interfax.ru/russia/842599",
+          "title": "Интерфакс — Главой совета директоров VK избран Сергей Куприянов",
+          "fact": "Интерфакс перечисляет генерального директора АО «МФ Технологии» Ульяну Антонову в составе Совета директоров VK."
+        },
+        {
+          "url": "https://www.interfax.ru/russia/842599",
+          "title": "Интерфакс — Главой совета директоров VK избран Сергей Куприянов",
+          "fact": "Интерфакс указывает Антонову генеральным директором АО «МФ Технологии»."
+        }
+      ],
+      "notes": "CSV не содержит отчество. Образование и научные данные не подтверждены. Роль из CSV: Член Совета директоров МКПАО «ВК»; неисполнительный директор"
+    },
+    {
+      "name": "Устинов Антон",
+      "current_role": "член Совета директоров МКПАО «ВК»; неисполнительный директор",
+      "company_name": "МКПАО «ВК»",
+      "education": [
+        {
+          "institution": "Саратовская государственная академия права",
+          "year": 1998,
+          "qualification": null,
+          "description": "Original education details: field: юриспруденция.",
+          "sources": [
+            "https://whoiswho.dp.ru/cart/person/1936092"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "кандидат юридических наук",
+          "university": null,
+          "year": 2000,
+          "sources": [
+            "https://whoiswho.dp.ru/cart/person/1936092"
+          ],
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "VK",
+          "role": "неисполнительный директор",
+          "start_year": null,
+          "end_year": null,
+          "description": "Указан в составе Совета директоров VK.",
+          "sources": [
+            "https://www.interfax.ru/russia/842599"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        },
+        {
+          "organization": "АО «СОГАЗ»",
+          "role": "председатель правления",
+          "start_year": 2016,
+          "end_year": null,
+          "description": "Роль используется как identity anchor.",
+          "sources": [
+            "https://whoiswho.dp.ru/cart/person/1936092"
+          ],
+          "sector": "Financials",
+          "industry_group": "Insurance",
+          "industry": "Insurance"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://whoiswho.dp.ru/cart/person/1936092",
+          "title": "Деловой Петербург — Устинов Антон Алексеевич",
+          "fact": "Подтверждает образование, степень и карьеру Антона Устинова."
+        },
+        {
+          "url": "https://whoiswho.dp.ru/cart/person/1936092",
+          "title": "Деловой Петербург — Устинов Антон Алексеевич",
+          "fact": "Профиль указывает, что Антон Устинов в 1998 году окончил Саратовскую государственную академию права с квалификацией юрист."
+        },
+        {
+          "url": "https://whoiswho.dp.ru/cart/person/1936092",
+          "title": "Деловой Петербург — Устинов Антон Алексеевич",
+          "fact": "Профиль указывает, что с 2000 года Антон Устинов — кандидат юридических наук."
+        },
+        {
+          "url": "https://www.interfax.ru/russia/842599",
+          "title": "Интерфакс — Главой совета директоров VK избран Сергей Куприянов",
+          "fact": "Интерфакс перечисляет председателя правления АО «СОГАЗ» Антона Устинова в составе Совета директоров VK."
+        },
+        {
+          "url": "https://whoiswho.dp.ru/cart/person/1936092",
+          "title": "Деловой Петербург — Устинов Антон Алексеевич",
+          "fact": "Профиль указывает, что с 2016 года Антон Устинов занимает должность председателя правления СОГАЗ."
+        }
+      ],
+      "notes": "Полное имя установлено как Антон Алексеевич Устинов по источникам о СОГАЗ. Научные публикации, патенты и h-index не добавлены. Роль из CSV: Член Совета директоров МКПАО «ВК»; неисполнительный директор"
+    },
+    {
+      "name": "Чудаков Дмитрий",
+      "current_role": "член Совета директоров МКПАО «ВК»; неисполнительный директор",
+      "company_name": "МКПАО «ВК»",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "VK",
+          "role": "неисполнительный директор",
+          "start_year": null,
+          "end_year": null,
+          "description": "Указан в составе Совета директоров VK.",
+          "sources": [
+            "https://www.interfax.ru/russia/842599"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        },
+        {
+          "organization": "АО «Газпром-Медиа Холдинг»",
+          "role": "глава юридической дирекции",
+          "start_year": null,
+          "end_year": null,
+          "description": "Профессиональный контекст для идентификации.",
+          "sources": [
+            "https://www.interfax.ru/russia/842599"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Media"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.interfax.ru/russia/842599",
+          "title": "Интерфакс — Главой совета директоров VK избран Сергей Куприянов",
+          "fact": "Подтверждает связь Дмитрия Чудакова с Советом директоров VK."
+        },
+        {
+          "url": "https://www.interfax.ru/russia/842599",
+          "title": "Интерфакс — Главой совета директоров VK избран Сергей Куприянов",
+          "fact": "Интерфакс перечисляет Дмитрия Чудакова, главу юридической дирекции АО «Газпром-медиа холдинг», в составе Совета директоров VK."
+        },
+        {
+          "url": "https://www.interfax.ru/russia/842599",
+          "title": "Интерфакс — Главой совета директоров VK избран Сергей Куприянов",
+          "fact": "Интерфакс указывает Чудакова главой юридической дирекции АО «Газпром-медиа холдинг»."
+        }
+      ],
+      "notes": "CSV не содержит отчество. Образование и научные данные не подтверждены. Роль из CSV: Член Совета директоров МКПАО «ВК»; неисполнительный директор"
+    },
+    {
+      "name": "Гордин Михаил",
+      "current_role": "член Совета директоров МКПАО «ВК»; неисполнительный директор",
+      "company_name": "МКПАО «ВК»",
+      "education": [
+        {
+          "institution": "МГТУ им. Н.Э. Баумана",
+          "year": 1993,
+          "qualification": null,
+          "description": "Original education details: field: автоматизированные системы обработки информации и управления.",
+          "sources": [
+            "https://rusengineer.bmstu.ru/gordin-mihail-valerevich"
+          ],
+          "qualification_degree": "Unknown"
+        },
+        {
+          "institution": "California State University / Институт бизнеса и экономики АНХ при Правительстве РФ",
+          "year": 1996,
+          "qualification": "MBA",
+          "description": null,
+          "sources": [
+            "https://rusengineer.bmstu.ru/gordin-mihail-valerevich"
+          ],
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "кандидат технических наук",
+          "university": null,
+          "year": null,
+          "sources": [
+            "https://rusengineer.bmstu.ru/gordin-mihail-valerevich"
+          ],
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "VK",
+          "role": "неисполнительный директор",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Вошел в Совет директоров VK как руководитель одного из крупнейших вузов.",
+          "sources": [
+            "https://www.finam.ru/publications/item/v-sovet-direktorov-vk-voshli-gabrielyan-i-aiyvazov-20220331-092727/"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        },
+        {
+          "organization": "МГТУ им. Н.Э. Баумана",
+          "role": "ректор",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Ректор МГТУ им. Н.Э. Баумана.",
+          "sources": [
+            "https://rusengineer.bmstu.ru/gordin-mihail-valerevich"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "ЦИАМ им. П.И. Баранова",
+          "role": "генеральный директор; участник НИОКР в области авиационных силовых установок",
+          "start_year": 2016,
+          "end_year": null,
+          "description": "Биография описывает участие в научно-исследовательских работах по гибридным и электрическим силовым установкам.",
+          "sources": [
+            "https://rusengineer.bmstu.ru/gordin-mihail-valerevich"
+          ]
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://rusengineer.bmstu.ru/gordin-mihail-valerevich",
+          "title": "МГТУ им. Н.Э. Баумана — Гордин Михаил Валерьевич",
+          "fact": "Подтверждает образование, степень и профессиональную биографию Михаила Гордина."
+        },
+        {
+          "url": "https://rusengineer.bmstu.ru/gordin-mihail-valerevich",
+          "title": "МГТУ им. Н.Э. Баумана — Гордин Михаил Валерьевич",
+          "fact": "Биография указывает, что Михаил Гордин в 1993 году окончил Бауманский университет по специальности «Автоматизированные системы обработки информации и управления»."
+        },
+        {
+          "url": "https://rusengineer.bmstu.ru/gordin-mihail-valerevich",
+          "title": "МГТУ им. Н.Э. Баумана — Гордин Михаил Валерьевич",
+          "fact": "Биография указывает обучение по совместной программе MBA California State University и Института бизнеса и экономики АНХ к 1996 году."
+        },
+        {
+          "url": "https://rusengineer.bmstu.ru/gordin-mihail-valerevich",
+          "title": "МГТУ им. Н.Э. Баумана — Гордин Михаил Валерьевич",
+          "fact": "Страница указывает ученую степень к.т.н. и тему кандидатской диссертации."
+        },
+        {
+          "url": "https://www.finam.ru/publications/item/v-sovet-direktorov-vk-voshli-gabrielyan-i-aiyvazov-20220331-092727/",
+          "title": "Финам — В совет директоров VK вошли Габриелян и Айвазов",
+          "fact": "Финам сообщает, что Михаил Гордин, и.о. ректора МГТУ им. Баумана, стал неисполнительным директором VK."
+        },
+        {
+          "url": "https://rusengineer.bmstu.ru/gordin-mihail-valerevich",
+          "title": "МГТУ им. Н.Э. Баумана — Гордин Михаил Валерьевич",
+          "fact": "Биография указывает назначение и утверждение Михаила Гордина в должности ректора МГТУ им. Н.Э. Баумана."
+        },
+        {
+          "url": "https://rusengineer.bmstu.ru/gordin-mihail-valerevich",
+          "title": "МГТУ им. Н.Э. Баумана — Гордин Михаил Валерьевич",
+          "fact": "Источник указывает, что под руководством Гордина в ЦИАМ велись НИОКР в области гибридных и электрических силовых установок."
+        }
+      ],
+      "notes": "Полное имя установлено как Михаил Валерьевич Гордин. Публикации, патенты и h-index не добавлены без отдельной проверки авторских профилей. Роль из CSV: Член Совета директоров МКПАО «ВК»; неисполнительный директор"
+    },
+    {
+      "name": "Анисимов Никита",
+      "current_role": "член Совета директоров МКПАО «ВК»; независимый директор",
+      "company_name": "МКПАО «ВК»",
+      "education": [
+        {
+          "institution": "Московский государственный университет им. М.В. Ломоносова",
+          "year": 1998,
+          "qualification": "специалитет",
+          "description": "Original education details: field: математика, прикладная математика.",
+          "sources": [
+            "https://www.hse.ru/staff/anisimov/"
+          ],
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "кандидат физико-математических наук",
+          "university": "Московский государственный университет им. М.В. Ломоносова",
+          "year": 2002,
+          "sources": [
+            "https://www.hse.ru/staff/anisimov/"
+          ],
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "VK",
+          "role": "независимый директор",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Вошел в Совет директоров VK как независимый директор.",
+          "sources": [
+            "https://www.finam.ru/publications/item/v-sovet-direktorov-vk-voshli-gabrielyan-i-aiyvazov-20220331-092727/"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        },
+        {
+          "organization": "НИУ ВШЭ",
+          "role": "ректор",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Официальная страница ВШЭ указывает должность ректора и начало работы в НИУ ВШЭ в 2021 году.",
+          "sources": [
+            "https://www.hse.ru/staff/anisimov/"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "МГУ им. М.В. Ломоносова",
+          "role": "соискатель кандидатской степени",
+          "start_year": null,
+          "end_year": 2002,
+          "description": "Кандидатская диссертация по математической логике, алгебре и теории чисел.",
+          "sources": [
+            "https://www.hse.ru/staff/anisimov/"
+          ]
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.hse.ru/staff/anisimov/",
+          "title": "НИУ ВШЭ — Анисимов Никита Юрьевич",
+          "fact": "Подтверждает образование, степень и должность Никиты Анисимова."
+        },
+        {
+          "url": "https://www.hse.ru/staff/anisimov/",
+          "title": "НИУ ВШЭ — Анисимов Никита Юрьевич",
+          "fact": "Официальная страница ВШЭ указывает специалитет МГУ 1998 года по математике и прикладной математике."
+        },
+        {
+          "url": "https://www.hse.ru/staff/anisimov/",
+          "title": "НИУ ВШЭ — Анисимов Никита Юрьевич",
+          "fact": "Официальная страница ВШЭ указывает степень кандидата физико-математических наук, МГУ, 2002 год."
+        },
+        {
+          "url": "https://www.finam.ru/publications/item/v-sovet-direktorov-vk-voshli-gabrielyan-i-aiyvazov-20220331-092727/",
+          "title": "Финам — В совет директоров VK вошли Габриелян и Айвазов",
+          "fact": "Финам сообщает, что ректор НИУ ВШЭ Никита Анисимов присоединился к Совету директоров VK в качестве независимого директора."
+        },
+        {
+          "url": "https://www.hse.ru/staff/anisimov/",
+          "title": "НИУ ВШЭ — Анисимов Никита Юрьевич",
+          "fact": "Страница ВШЭ указывает Никиту Анисимова ректором."
+        },
+        {
+          "url": "https://www.hse.ru/staff/anisimov/",
+          "title": "НИУ ВШЭ — Анисимов Никита Юрьевич",
+          "fact": "Страница ВШЭ указывает тему диссертации «Инволютивные тождества бесконечномерных алгебр»."
+        }
+      ],
+      "notes": "Полное имя установлено как Никита Юрьевич Анисимов. Публикации и h-index не добавлены без отдельной проверки научного профиля. Роль из CSV: Член Совета директоров МКПАО «ВК»; независимый директор"
+    },
+    {
+      "name": "Яковлева Наталья",
+      "current_role": "член Совета директоров МКПАО «ВК»; независимый директор",
+      "company_name": "МКПАО «ВК»",
+      "education": [
+        {
+          "institution": "МГИМО",
+          "year": null,
+          "qualification": null,
+          "description": "Original education details: field: международная экономика, аудит и бухгалтерский учет.",
+          "sources": [
+            "https://petropavlovskplc.com/wp-content/uploads/2021/12/20211213-POG-INED-apppointment_final-Rus-2.pdf"
+          ],
+          "qualification_degree": "Unknown"
+        },
+        {
+          "institution": null,
+          "year": null,
+          "qualification": "ACCA",
+          "description": "Original education details: field: бухгалтерский учет и аудит.",
+          "sources": [
+            "https://petropavlovskplc.com/wp-content/uploads/2021/12/20211213-POG-INED-apppointment_final-Rus-2.pdf"
+          ],
+          "qualification_degree": "Professional certification"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "VK",
+          "role": "независимый директор",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Вошла в Совет директоров VK как независимый директор.",
+          "sources": [
+            "https://www.finam.ru/publications/item/v-sovet-direktorov-vk-voshli-gabrielyan-i-aiyvazov-20220331-092727/"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        },
+        {
+          "organization": "PriceWaterhouseCoopers Russia",
+          "role": "партнер; аудитор",
+          "start_year": 1993,
+          "end_year": 2016,
+          "description": "Опыт работы в PWC, включая партнерскую роль.",
+          "sources": [
+            "https://petropavlovskplc.com/wp-content/uploads/2021/12/20211213-POG-INED-apppointment_final-Rus-2.pdf"
+          ],
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "АО «Медиаскоп»",
+          "role": "независимый директор",
+          "start_year": 2016,
+          "end_year": null,
+          "description": "Независимый директор в АО «Медиаскоп».",
+          "sources": [
+            "https://petropavlovskplc.com/wp-content/uploads/2021/12/20211213-POG-INED-apppointment_final-Rus-2.pdf"
+          ],
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://petropavlovskplc.com/wp-content/uploads/2021/12/20211213-POG-INED-apppointment_final-Rus-2.pdf",
+          "title": "Petropavlovsk PLC — назначение Натальи Яковлевой",
+          "fact": "Подтверждает образование и профессиональный опыт Натальи Яковлевой."
+        },
+        {
+          "url": "https://petropavlovskplc.com/wp-content/uploads/2021/12/20211213-POG-INED-apppointment_final-Rus-2.pdf",
+          "title": "Petropavlovsk PLC — назначение Натальи Яковлевой",
+          "fact": "PDF сообщает, что Наталья Яковлева закончила с отличием МГИМО по специальности международная экономика, аудит и бухучет."
+        },
+        {
+          "url": "https://petropavlovskplc.com/wp-content/uploads/2021/12/20211213-POG-INED-apppointment_final-Rus-2.pdf",
+          "title": "Petropavlovsk PLC — назначение Натальи Яковлевой",
+          "fact": "PDF указывает, что Наталья Яковлева является сертифицированным бухгалтером ACCA."
+        },
+        {
+          "url": "https://www.finam.ru/publications/item/v-sovet-direktorov-vk-voshli-gabrielyan-i-aiyvazov-20220331-092727/",
+          "title": "Финам — В совет директоров VK вошли Габриелян и Айвазов",
+          "fact": "Финам сообщает, что Наталья Яковлева назначена независимым директором VK."
+        },
+        {
+          "url": "https://petropavlovskplc.com/wp-content/uploads/2021/12/20211213-POG-INED-apppointment_final-Rus-2.pdf",
+          "title": "Petropavlovsk PLC — назначение Натальи Яковлевой",
+          "fact": "PDF указывает 23-летний опыт Яковлевой в PriceWaterhouseCoopers Russia, из которых 12 лет партнером."
+        },
+        {
+          "url": "https://petropavlovskplc.com/wp-content/uploads/2021/12/20211213-POG-INED-apppointment_final-Rus-2.pdf",
+          "title": "Petropavlovsk PLC — назначение Натальи Яковлевой",
+          "fact": "PDF указывает должность независимого директора АО «Медиаскоп» после ухода из PWC."
+        }
+      ],
+      "notes": "Отчество не подтверждено в источниках, использовано имя из CSV. Научные данные не найдены. Роль из CSV: Член Совета директоров МКПАО «ВК»; независимый директор"
+    },
+    {
+      "name": "Айвазов Александр",
+      "current_role": "член Совета директоров МКПАО «ВК»; исполнительный директор; старший вице-президент по инвестициям и развитию бизнеса VK",
+      "company_name": "МКПАО «ВК»",
+      "education": [
+        {
+          "institution": "Тбилисский государственный университет",
+          "year": 2001,
+          "qualification": null,
+          "description": "Original education details: field: прикладная физика, информационные технологии (физико-математический факультет).",
+          "sources": [
+            "https://www.tadviser.ru/index.php/Персона:Айвазов_Александр_Георгиевич"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "VK",
+          "role": "исполнительный директор; старший вице-президент по инвестициям и развитию бизнеса",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Курирует сделки M&A, онлайн-образование и бизнес-группу «Экосистемные и комплексные сервисы».",
+          "sources": [
+            "https://www.finam.ru/publications/item/v-sovet-direktorov-vk-voshli-gabrielyan-i-aiyvazov-20220331-092727/",
+            "https://www.forbes.ru/tekhnologii/495827-vk-sozdala-dve-biznes-gruppy-i-naznacila-vice-prezidenta-po-iskusstvennomu-intellektu"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        },
+        {
+          "organization": "ПАО «Ростелеком»",
+          "role": "вице-президент по развитию бизнеса",
+          "start_year": null,
+          "end_year": null,
+          "description": "Предыдущий опыт в Ростелекоме.",
+          "sources": [
+            "https://oborot.ru/news/ajvazov-sirenko-kovalchuk-artamonova-mandzhikov-vladelcy-vk-menyayut-top-menedzhment-i152403.html"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.forbes.ru/tekhnologii/495827-vk-sozdala-dve-biznes-gruppy-i-naznacila-vice-prezidenta-po-iskusstvennomu-intellektu",
+          "title": "Forbes — VK создала две бизнес-группы",
+          "fact": "Подтверждает текущую роль Александра Айвазова в структуре VK."
+        },
+        {
+          "url": "https://www.finam.ru/publications/item/v-sovet-direktorov-vk-voshli-gabrielyan-i-aiyvazov-20220331-092727/",
+          "title": "Финам — В совет директоров VK вошли Габриелян и Айвазов",
+          "fact": "Финам указывает Александра Айвазова исполнительным директором и старшим вице-президентом по инвестициям и развитию бизнеса VK."
+        },
+        {
+          "url": "https://www.forbes.ru/tekhnologii/495827-vk-sozdala-dve-biznes-gruppy-i-naznacila-vice-prezidenta-po-iskusstvennomu-intellektu",
+          "title": "Forbes — VK создала две бизнес-группы",
+          "fact": "Forbes сообщает, что бизнес-группу «Экосистемные и комплексные сервисы» возглавил Александр Айвазов."
+        },
+        {
+          "url": "https://oborot.ru/news/ajvazov-sirenko-kovalchuk-artamonova-mandzhikov-vladelcy-vk-menyayut-top-menedzhment-i152403.html",
+          "title": "Oborot.ru — Владельцы VK меняют топ-менеджмент",
+          "fact": "Источник указывает, что до прихода в VK Александр Айвазов отвечал за развитие бизнеса ПАО «Ростелеком» в должности вице-президента."
+        },
+        {
+          "url": "https://www.tadviser.ru/index.php/Персона:Айвазов_Александр_Георгиевич",
+          "title": "TAdviser — Айвазов Александр Георгиевич",
+          "fact": "Профиль указывает полное имя Александр Георгиевич Айвазов и что в 2001 году он окончил физико-математический факультет Тбилисского государственного университета по специальности «Прикладная физика. Информационные технологии»; также в 2001–2003 гг. проходил обучение по стратегическому менеджменту в Открытом университете Великобритании (Open University)."
+        }
+      ],
+      "notes": "Quality pass 2026-08-01 (honest-gap follow-up): найдено образование (Тбилисский государственный университет, 2001) и отчество (Георгиевич) через TAdviser; name оставлен как в CSV. Дополнительное обучение по стратегическому менеджменту (Open University, 2001–2003) зафиксировано в источнике, отдельной education-записью не добавлено — не основное высшее образование. CSV не содержит отчество. Роль из CSV: Член Совета директоров МКПАО «ВК»; исполнительный директор; старший вице-президент по инвестициям и развитию бизнеса VK"
+    },
+    {
+      "name": "Мальгинов Антон",
+      "current_role": "член Совета директоров МКПАО «ВК»; исполнительный директор; руководитель юридического департамента VK",
+      "company_name": "МКПАО «ВК»",
+      "education": [
+        {
+          "institution": "МГИМО МИД России",
+          "year": 2002,
+          "qualification": null,
+          "description": "Original education details: field: международное публичное право.",
+          "sources": [
+            "https://whoiswho.comnews.ru/person/51516/malginov-anton-olegovich"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "VK",
+          "role": "исполнительный директор Совета директоров; руководитель юридического департамента",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "С 2010 года руководит юридическим департаментом VK/Mail.ru Group; с июня 2022 года исполнительный директор в Совете директоров VK.",
+          "sources": [
+            "https://whoiswho.comnews.ru/person/51516/malginov-anton-olegovich",
+            "https://www.vedomosti.ru/business/news/2022/06/28/928904-vk"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://whoiswho.comnews.ru/person/51516/malginov-anton-olegovich",
+          "title": "ComNews Кто есть кто — Мальгинов Антон Олегович",
+          "fact": "Подтверждает образование и карьеру Антона Мальгинова."
+        },
+        {
+          "url": "https://whoiswho.comnews.ru/person/51516/malginov-anton-olegovich",
+          "title": "ComNews Кто есть кто — Мальгинов Антон Олегович",
+          "fact": "Профиль указывает, что в 2002 году Мальгинов окончил отделение международного публичного права международно-правового факультета МГИМО."
+        },
+        {
+          "url": "https://whoiswho.comnews.ru/person/51516/malginov-anton-olegovich",
+          "title": "ComNews Кто есть кто — Мальгинов Антон Олегович",
+          "fact": "Профиль указывает карьеру Мальгинова в юридической службе Mail.ru Group/VK и должность исполнительного директора Совета директоров VK."
+        },
+        {
+          "url": "https://www.vedomosti.ru/business/news/2022/06/28/928904-vk",
+          "title": "Ведомости — Исполнительным директором совета директоров VK стал Антон Мальгинов",
+          "fact": "Ведомости сообщают, что Антон Мальгинов вошел в Совет директоров VK как исполнительный директор и работает руководителем юридического департамента VK."
+        }
+      ],
+      "notes": "Полное имя установлено как Антон Олегович Мальгинов. Научные данные не подтверждены. Роль из CSV: Член Совета директоров МКПАО «ВК»; исполнительный директор; руководитель юридического департамента VK"
+    },
+    {
+      "name": "Кириенко Владимир Сергеевич",
+      "current_role": "генеральный директор группы VK",
+      "company_name": "МКПАО «ВК»",
+      "education": [
+        {
+          "institution": "Национальный исследовательский университет «Высшая школа экономики»",
+          "year": 2005,
+          "qualification": null,
+          "description": "Original education details: field: финансы и кредит / экономика и финансы фирмы (поступил в 2000 году в нижегородский филиал ВШЭ, окончил вуз в Москве в 2005 году).",
+          "sources": [
+            "https://ru.wikipedia.org/wiki/Кириенко,_Владимир_Сергеевич"
+          ],
+          "qualification_degree": "Unknown"
+        },
+        {
+          "institution": "Московская школа управления «Сколково»",
+          "year": 2014,
+          "qualification": "Executive MBA",
+          "description": null,
+          "sources": [
+            "https://ru.wikipedia.org/wiki/Кириенко,_Владимир_Сергеевич"
+          ],
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "VK",
+          "role": "генеральный директор",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Назначен генеральным директором VK в декабре 2021 года.",
+          "sources": [
+            "https://www.interfax.ru/business/809481"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        },
+        {
+          "organization": "ПАО «Ростелеком»",
+          "role": "первый вице-президент",
+          "start_year": null,
+          "end_year": 2021,
+          "description": "Предыдущий профессиональный опыт до VK.",
+          "sources": [
+            "https://www.interfax.ru/business/809481"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.interfax.ru/business/809481",
+          "title": "Интерфакс — Куприянов вошел в совет директоров VK",
+          "fact": "Подтверждает назначение Владимира Кириенко генеральным директором VK."
+        },
+        {
+          "url": "https://www.interfax.ru/business/809481",
+          "title": "Интерфакс — Куприянов вошел в совет директоров VK",
+          "fact": "Интерфакс сообщает, что в VK сменился генеральный директор: им стал бывший первый вице-президент Ростелекома Владимир Кириенко."
+        },
+        {
+          "url": "https://www.interfax.ru/business/809481",
+          "title": "Интерфакс — Куприянов вошел в совет директоров VK",
+          "fact": "Интерфакс указывает, что до назначения в VK Владимир Кириенко был первым вице-президентом Ростелекома."
+        },
+        {
+          "url": "https://ru.wikipedia.org/wiki/Кириенко,_Владимир_Сергеевич",
+          "title": "Википедия — Кириенко, Владимир Сергеевич",
+          "fact": "Статья указывает, что Владимир Кириенко родился в 1983 году, в 2005 году окончил НИУ ВШЭ по специальности «финансы и кредит», в 2014 году получил степень Executive MBA в Московской школе управления «Сколково», а 13 декабря 2021 года был утвержден генеральным директором VK."
+        }
+      ],
+      "notes": "Quality pass 2026-08-01 (honest-gap follow-up): найдено образование (НИУ ВШЭ 2005 + Executive MBA Сколково 2014) через Википедию, независимо подтверждено ComNews Кто есть кто и TAdviser (по сниппетам поиска). Точная квалификация уровня НИУ ВШЭ (специалист/бакалавр) источниками не названа явно, оставлена Unknown. Роль из CSV: Генеральный директор группы VK"
+    },
+    {
+      "name": "Азаренко Елена",
+      "current_role": "управляющий директор VK",
+      "company_name": "МКПАО «ВК»",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "VK Company Limited",
+          "role": "управляющий директор",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Работала в VK с 2011 года; ранее была заместителем управляющего директора и корпоративным секретарем.",
+          "sources": [
+            "https://adindex.ru/news/hr/2022/09/7/306450.phtml"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        },
+        {
+          "organization": "VK Company Limited",
+          "role": "заместитель управляющего директора; корпоративный секретарь",
+          "start_year": 2011,
+          "end_year": 2022,
+          "description": "Работала в VK с 2011 года; ранее была заместителем управляющего директора и корпоративным секретарем.",
+          "sources": [
+            "https://adindex.ru/news/hr/2022/09/7/306450.phtml"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://adindex.ru/news/hr/2022/09/7/306450.phtml",
+          "title": "AdIndex — VK Company Limited назвала имена новых топ-менеджеров",
+          "fact": "Подтверждает назначение Елены Азаренко управляющим директором VK."
+        },
+        {
+          "url": "https://adindex.ru/news/hr/2022/09/7/306450.phtml",
+          "title": "AdIndex — VK Company Limited назвала имена новых топ-менеджеров",
+          "fact": "AdIndex сообщает, что управляющим директором VK Company Limited назначена Елена Азаренко."
+        },
+        {
+          "url": "https://adindex.ru/news/hr/2022/09/7/306450.phtml",
+          "title": "AdIndex — VK Company Limited назвала имена новых топ-менеджеров",
+          "fact": "AdIndex указывает, что Елена Азаренко работает в VK с 2011 года и ранее занимала должности заместителя управляющего директора и корпоративного секретаря."
+        }
+      ],
+      "notes": "CSV не содержит отчество. Образование и научные данные не подтверждены. Роль из CSV: Управляющий директор VK"
+    },
+    {
+      "name": "Борыславская Светлана",
+      "current_role": "финансовый директор VK",
+      "company_name": "МКПАО «ВК»",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "VK Company Limited",
+          "role": "финансовый директор",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Работает в VK с 2009 года; ранее возглавляла профильное направление в финансовой функции.",
+          "sources": [
+            "https://nsn.fm/economy/findirektorom-vk-naznachili-svetlanu-boryslavskuu",
+            "https://adindex.ru/news/hr/2022/09/7/306450.phtml"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        },
+        {
+          "organization": "VK Company Limited",
+          "role": "руководитель направления по взаимодействию с ключевыми акционерами и корпоративному учету",
+          "start_year": 2009,
+          "end_year": 2022,
+          "description": "Работает в VK с 2009 года; ранее возглавляла профильное направление в финансовой функции.",
+          "sources": [
+            "https://adindex.ru/news/hr/2022/09/7/306450.phtml"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://nsn.fm/economy/findirektorom-vk-naznachili-svetlanu-boryslavskuu",
+          "title": "НСН — Финдиректором VK назначили Светлану Борыславскую",
+          "fact": "Подтверждает назначение Светланы Борыславской финансовым директором VK."
+        },
+        {
+          "url": "https://nsn.fm/economy/findirektorom-vk-naznachili-svetlanu-boryslavskuu",
+          "title": "НСН — Финдиректором VK назначили Светлану Борыславскую",
+          "fact": "НСН сообщает о назначении Светланы Борыславской финансовым директором VK."
+        },
+        {
+          "url": "https://adindex.ru/news/hr/2022/09/7/306450.phtml",
+          "title": "AdIndex — VK Company Limited назвала имена новых топ-менеджеров",
+          "fact": "AdIndex указывает, что Светлана Борыславская работает в VK с 2009 года и ранее возглавляла направление по взаимодействию с ключевыми акционерами и корпоративному учету."
+        }
+      ],
+      "notes": "CSV не содержит отчество. Образование и научные данные не подтверждены. Роль из CSV: Финансовый директор VK"
+    },
+    {
+      "name": "Китова Екатерина",
+      "current_role": "корпоративный секретарь МКПАО «ВК»",
+      "company_name": "МКПАО «ВК»",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "МКПАО «ВК»",
+          "role": "корпоративный секретарь",
+          "start_year": null,
+          "end_year": null,
+          "description": "Указана как корпоративный секретарь МКПАО «ВК» в программе профильного форума по корпоративному управлению.",
+          "sources": [
+            "https://nokc.org.ru/forum-2024-sessiya-7/"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://nokc.org.ru/forum-2024-sessiya-7/",
+          "title": "НОКС — Форум-2024, сессия о редомициляции",
+          "fact": "Подтверждает должность Екатерины Китовой как корпоративного секретаря МКПАО «ВК»."
+        },
+        {
+          "url": "https://nokc.org.ru/forum-2024-sessiya-7/",
+          "title": "НОКС — Форум-2024, сессия о редомициляции",
+          "fact": "В программе сессии Екатерина Китова указана как корпоративный секретарь МКПАО «ВК»."
+        }
+      ],
+      "notes": "CSV не содержит отчество. Образование и научные данные не подтверждены. Роль из CSV: Корпоративный секретарь МКПАО «ВК»"
+    },
+    {
+      "name": "Ковальчук Степан",
+      "current_role": "старший вице-президент по медиастратегии; руководитель бизнес-группы «Социальные платформы и медиаконтент» VK",
+      "company_name": "МКПАО «ВК»",
+      "education": [
+        {
+          "institution": "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+          "year": null,
+          "qualification": null,
+          "description": "Original education details: field: менеджмент.",
+          "sources": [
+            "https://theperson.pro/kovalchuk-stepan-kirillovich/"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "кандидат политических наук",
+          "university": "Московский государственный университет им. М.В. Ломоносова",
+          "year": 2019,
+          "sources": [
+            "https://peopletop.ru/kovalchuk-stepan-kirillovich/"
+          ],
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "VK",
+          "role": "старший вице-президент по медиастратегии; руководитель бизнес-группы «Социальные платформы и медиаконтент»",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Возглавил бизнес-группу социальных платформ и медиаконтента.",
+          "sources": [
+            "https://www.forbes.ru/tekhnologii/495827-vk-sozdala-dve-biznes-gruppy-i-naznacila-vice-prezidenta-po-iskusstvennomu-intellektu"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.forbes.ru/tekhnologii/495827-vk-sozdala-dve-biznes-gruppy-i-naznacila-vice-prezidenta-po-iskusstvennomu-intellektu",
+          "title": "Forbes — VK создала две бизнес-группы",
+          "fact": "Подтверждает должность Степана Ковальчука в VK."
+        },
+        {
+          "url": "https://www.forbes.ru/tekhnologii/495827-vk-sozdala-dve-biznes-gruppy-i-naznacila-vice-prezidenta-po-iskusstvennomu-intellektu",
+          "title": "Forbes — VK создала две бизнес-группы",
+          "fact": "Forbes сообщает, что группу «Социальные платформы и медиаконтент» возглавил Степан Ковальчук в должности старшего вице-президента VK по медиастратегии."
+        },
+        {
+          "url": "https://theperson.pro/kovalchuk-stepan-kirillovich/",
+          "title": "ThePerson.pro — Ковальчук Степан Кириллович",
+          "fact": "Указывает полное имя Степан Кириллович Ковальчук, что он окончил РАНХиГС по направлению «Менеджмент» и с 2015 по 2018 год проходил очную аспирантуру МГУ им. М.В. Ломоносова."
+        },
+        {
+          "url": "https://peopletop.ru/kovalchuk-stepan-kirillovich/",
+          "title": "PeopleTop.ru — Ковальчук Степан Кириллович",
+          "fact": "Указывает, что в 2019 году Степан Ковальчук защитил диссертацию и стал кандидатом политических наук в МГУ им. М.В. Ломоносова; родился 3 мая 1994 года."
+        }
+      ],
+      "notes": "Quality pass 2026-08-01 (honest-gap follow-up): найдено полное имя (Ковальчук Степан Кириллович), образование (РАНХиГС, менеджмент) и ученая степень (кандидат политических наук, МГУ, 2019) через theperson.pro и peopletop.ru; name оставлен как в CSV. CSV не содержит отчество. Роль из CSV: Старший вице-президент по медиастратегии; руководитель бизнес-группы «Социальные платформы и медиаконтент» VK"
+    },
+    {
+      "name": "Хуснояров Фарит",
+      "current_role": "вице-президент по развитию мессенджера VK",
+      "company_name": "МКПАО «ВК»",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "VK",
+          "role": "вице-президент; руководитель подразделения по развитию VK Мессенджера",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Перешел в VK и возглавил направление развития VK Мессенджера.",
+          "sources": [
+            "https://adindex.ru/news/hr/2022/08/10/306038.phtml"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        },
+        {
+          "organization": "РТ Лабс",
+          "role": "генеральный директор",
+          "start_year": null,
+          "end_year": 2022,
+          "description": "Предыдущий опыт до VK.",
+          "sources": [
+            "https://adindex.ru/news/hr/2022/08/10/306038.phtml"
+          ],
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "IT Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://adindex.ru/news/hr/2022/08/10/306038.phtml",
+          "title": "AdIndex — Куратором мессенджера VK стал Фарит Хуснояров",
+          "fact": "Подтверждает должность Фарита Хусноярова в VK."
+        },
+        {
+          "url": "https://adindex.ru/news/hr/2022/08/10/306038.phtml",
+          "title": "AdIndex — Куратором мессенджера VK стал Фарит Хуснояров",
+          "fact": "AdIndex сообщает, что Фарит Хуснояров руководит подразделением по развитию VK Мессенджера и занимает должность вице-президента."
+        },
+        {
+          "url": "https://adindex.ru/news/hr/2022/08/10/306038.phtml",
+          "title": "AdIndex — Куратором мессенджера VK стал Фарит Хуснояров",
+          "fact": "Источник указывает, что до перехода в VK Хуснояров был гендиректором IT-дочки Ростелекома «РТ Лабс»."
+        }
+      ],
+      "notes": "CSV не содержит отчество; в поиске встречается Фарит Фаритович Хуснояров, но отчество не внесено в name для сохранения CSV-якоря. Образование и научные данные не подтверждены. Роль из CSV: Вице-президент по развитию мессенджера VK"
+    },
+    {
+      "name": "Хайбуллов Рустам",
+      "current_role": "вице-президент по стратегическим проектам VK",
+      "company_name": "МКПАО «ВК»",
+      "education": [
+        {
+          "institution": "Ульяновский государственный университет",
+          "year": null,
+          "qualification": null,
+          "description": "Original education details: field: физико-технический факультет.",
+          "sources": [
+            "https://roscongress.org/speakers/khaybullov-rustam/biography/"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "VK",
+          "role": "вице-президент по стратегическим проектам",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Назначен вице-президентом по стратегическим проектам VK.",
+          "sources": [
+            "https://www.rbc.ru/rbcfreenews/63a9b52b9a79476b4751d160"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        },
+        {
+          "organization": "VK",
+          "role": "директор департамента стратегических проектов",
+          "start_year": null,
+          "end_year": 2022,
+          "description": "Предыдущая позиция внутри VK.",
+          "sources": [
+            "https://www.rbc.ru/rbcfreenews/63a9b52b9a79476b4751d160"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.rbc.ru/rbcfreenews/63a9b52b9a79476b4751d160",
+          "title": "РБК — В VK назначили трех новых вице-президентов",
+          "fact": "Подтверждает должность Рустама Хайбуллова."
+        },
+        {
+          "url": "https://www.rbc.ru/rbcfreenews/63a9b52b9a79476b4751d160",
+          "title": "РБК — В VK назначили трех новых вице-президентов",
+          "fact": "РБК сообщает, что Рустам Хайбуллов стал вице-президентом по стратегическим проектам VK."
+        },
+        {
+          "url": "https://www.rbc.ru/rbcfreenews/63a9b52b9a79476b4751d160",
+          "title": "РБК — В VK назначили трех новых вице-президентов",
+          "fact": "РБК указывает, что ранее Хайбуллов был директором департамента стратегических проектов."
+        },
+        {
+          "url": "https://roscongress.org/speakers/khaybullov-rustam/biography/",
+          "title": "Roscongress — биография Рустама Хайбуллова",
+          "fact": "Указывает, что Рустам Хайбуллов — выпускник физико-технического факультета Ульяновского государственного университета (УлГУ); он выступал перед студентами УлГУ с лекцией о карьере в ИТ."
+        }
+      ],
+      "notes": "Quality pass 2026-08-01 (honest-gap follow-up): найдено образование (УлГУ, физико-технический факультет) через биографию на roscongress.org; конкретный год выпуска и квалификация источником не названы, qualification_degree оставлен Unknown. CSV не содержит отчество. Роль из CSV: Вице-президент по стратегическим проектам VK"
+    },
+    {
+      "name": "Сиренко Ирина",
+      "current_role": "вице-президент по связям с государственными органами VK",
+      "company_name": "МКПАО «ВК»",
+      "education": [
+        {
+          "institution": "Государственный университет управления",
+          "year": 2004,
+          "qualification": null,
+          "description": "Original education details: field: юриспруденция.",
+          "sources": [
+            "https://roscongress.org/speakers/sirenko-irina/biography/"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "кандидат юридических наук",
+          "university": null,
+          "year": null,
+          "sources": [
+            "https://roscongress.org/speakers/sirenko-irina/biography/"
+          ],
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "VK",
+          "role": "вице-президент по связям с государственными органами",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Назначена вице-президентом по связям с государственными органами.",
+          "sources": [
+            "https://ict-online.ru/appointments/irina-sirenko-naznachena-vice-prezidentom-vk-po-svyazyam-s-gosudarstvennymi-organami-9263"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        },
+        {
+          "organization": "ПАО «Ростелеком»",
+          "role": "вице-президент по взаимодействию с органами государственной власти",
+          "start_year": null,
+          "end_year": 2022,
+          "description": "Предыдущая должность до перехода в VK.",
+          "sources": [
+            "https://ict-online.ru/appointments/irina-sirenko-naznachena-vice-prezidentom-vk-po-svyazyam-s-gosudarstvennymi-organami-9263"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://ict-online.ru/appointments/irina-sirenko-naznachena-vice-prezidentom-vk-po-svyazyam-s-gosudarstvennymi-organami-9263",
+          "title": "ICT-Online — Ирина Сиренко назначена вице-президентом VK",
+          "fact": "Подтверждает должность Ирины Сиренко в VK и предыдущий опыт."
+        },
+        {
+          "url": "https://ict-online.ru/appointments/irina-sirenko-naznachena-vice-prezidentom-vk-po-svyazyam-s-gosudarstvennymi-organami-9263",
+          "title": "ICT-Online — Ирина Сиренко назначена вице-президентом VK",
+          "fact": "Источник сообщает, что Ирина Сиренко стала вице-президентом VK по связям с государственными органами."
+        },
+        {
+          "url": "https://ict-online.ru/appointments/irina-sirenko-naznachena-vice-prezidentom-vk-po-svyazyam-s-gosudarstvennymi-organami-9263",
+          "title": "ICT-Online — Ирина Сиренко назначена вице-президентом VK",
+          "fact": "Источник указывает, что до перехода в VK Сиренко была вице-президентом по взаимодействию с органами государственной власти в Ростелекоме."
+        },
+        {
+          "url": "https://roscongress.org/speakers/sirenko-irina/biography/",
+          "title": "Roscongress — биография Ирины Сиренко",
+          "fact": "Указывает, что Ирина Никитична Сиренко в 2004 году окончила Государственный университет управления по специальности «юриспруденция», является кандидатом юридических наук, родилась 9 апреля 1983 года в Москве и до VK/Ростелекома работала в Министерстве образования и науки РФ, а также руководила юридической службой Департамента информационных технологий Москвы (2011–2018)."
+        }
+      ],
+      "notes": "Quality pass 2026-08-01 (honest-gap follow-up): найдено образование (ГУУ, юриспруденция, 2004) и ученая степень (кандидат юридических наук, университет защиты не назван) через биографию на roscongress.org; отчество Никитична независимо подтверждено (уже упоминалось в предыдущем раунде), name оставлен как в CSV. Роль из CSV: Вице-президент по связям с государственными органами VK"
+    },
+    {
+      "name": "Тадевосян Максим",
+      "current_role": "вице-президент VK",
+      "company_name": "МКПАО «ВК»",
+      "education": [
+        {
+          "institution": "Московский государственный институт международных отношений (МГИМО)",
+          "year": null,
+          "qualification": "специалист",
+          "description": "Original education details: field: международные отношения.",
+          "sources": [
+            "https://raexpert.ru/database/person/tadevosyan_maksim/"
+          ],
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "VK",
+          "role": "вице-президент VK; ранее — вице-президент по стратегии и развитию",
+          "start_year": null,
+          "end_year": null,
+          "description": "В 2024 году указан как вице-президент VK среди участников мероприятия KASSIR.RU. Более поздняя биографическая страница Эксперт РА описывает его прежнюю роль как вице-президента по стратегии и развитию VK.",
+          "sources": [
+            "https://globalmsk.ru/firmnews/id/35891",
+            "https://raexpert.ru/database/person/tadevosyan_maksim/"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        },
+        {
+          "organization": "Rambler&Co",
+          "role": "генеральный директор группы",
+          "start_year": null,
+          "end_year": null,
+          "description": "Предыдущий профессиональный опыт до прихода в VK.",
+          "sources": [
+            "https://raexpert.ru/database/person/tadevosyan_maksim/"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Media"
+        },
+        {
+          "organization": "НЛМК",
+          "role": "советник",
+          "start_year": null,
+          "end_year": null,
+          "description": "Предыдущий профессиональный опыт до прихода в VK.",
+          "sources": [
+            "https://raexpert.ru/database/person/tadevosyan_maksim/"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "RAMT",
+          "role": "основатель инвестиционной компании / технологические проекты",
+          "start_year": null,
+          "end_year": null,
+          "description": "Предыдущий предпринимательский и инвестиционный опыт.",
+          "sources": [
+            "https://raexpert.ru/database/person/tadevosyan_maksim/"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://raexpert.ru/database/person/tadevosyan_maksim/",
+          "title": "Эксперт РА — Тадевосян Максим",
+          "fact": "Биографическая страница сообщает, что Максим Тадевосян получил степень специалиста по международным отношениям в МГИМО."
+        },
+        {
+          "url": "https://globalmsk.ru/firmnews/id/35891",
+          "title": "ГлобалМСК — KASSIR.RU подвел итоги в юбилейный год",
+          "fact": "Публикация за 2024 год перечисляет среди спикеров и гостей вице-президента VK Максима Тадевосяна."
+        },
+        {
+          "url": "https://raexpert.ru/database/person/tadevosyan_maksim/",
+          "title": "Эксперт РА — Тадевосян Максим",
+          "fact": "Биографическая страница сообщает, что ранее Максим Тадевосян занимал должность вице-президента по стратегии и развитию в VK."
+        },
+        {
+          "url": "https://raexpert.ru/database/person/tadevosyan_maksim/",
+          "title": "Эксперт РА — Тадевосян Максим",
+          "fact": "Страница сообщает, что до прихода в VK Максим Тадевосян был генеральным директором группы Rambler&Co."
+        },
+        {
+          "url": "https://raexpert.ru/database/person/tadevosyan_maksim/",
+          "title": "Эксперт РА — Тадевосян Максим",
+          "fact": "Страница сообщает, что до прихода в VK Максим Тадевосян был советником в НЛМК."
+        },
+        {
+          "url": "https://raexpert.ru/database/person/tadevosyan_maksim/",
+          "title": "Эксперт РА — Тадевосян Максим",
+          "fact": "Страница сообщает, что Максим Тадевосян реализовывал технологические проекты в составе основанной им инвестиционной компании RAMT."
+        }
+      ],
+      "notes": "В 2024 году отдельно подтвержден статус вице-президента VK. Узкая формулировка CSV «по развитию бизнеса и стратегии» частично соотносится с биографией Эксперт РА о прежней роли по стратегии и развитию, но не подтверждена как точная формулировка должности именно на дату публикации 2024 года. Научные данные не подтверждены. Роль из CSV: Вице-президент по развитию бизнеса и стратегии VK"
+    },
+    {
+      "name": "Мыздриков Иван",
+      "current_role": "вице-президент по развитию почтовых сервисов и магазина приложений VK; директор по продуктам VK Tech",
+      "company_name": "МКПАО «ВК»",
+      "education": [
+        {
+          "institution": "Российский экономический университет имени Г.В. Плеханова",
+          "year": 2006,
+          "qualification": null,
+          "description": "Original education details: field: информатика/компьютерные технологии (Институт компьютерных технологий; на момент выпуска — Московский государственный университет экономики, статистики и информатики (МЭСИ), впоследствии присоединенный к РЭУ им. Г.В. Плеханова). В 2009 году окончил аспирантуру.",
+          "sources": [
+            "https://www.kommersant.ru/doc/5653574"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "VK",
+          "role": "вице-президент по развитию почтовых сервисов и магазина приложений; директор по продуктам VK Tech",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Работает в VK с 2011 года; с 2022 года занимает должность вице-президента по развитию почтовых сервисов и магазина приложений VK; в 2024 назначен директором по продуктам VK Tech.",
+          "sources": [
+            "https://adindex.ru/news/hr/2024/10/1/326043.phtml"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://adindex.ru/news/hr/2024/10/1/326043.phtml",
+          "title": "AdIndex — Иван Мыздриков стал директором по продуктам VK Tech",
+          "fact": "Подтверждает должность и опыт Ивана Мыздрикова."
+        },
+        {
+          "url": "https://adindex.ru/news/hr/2024/10/1/326043.phtml",
+          "title": "AdIndex — Иван Мыздриков стал директором по продуктам VK Tech",
+          "fact": "AdIndex сообщает, что Иван Мыздриков работает в VK с 2011 года, с 2022 года занимает должность вице-президента по развитию почтовых сервисов и магазина приложений VK и стал директором по продуктам VK Tech."
+        },
+        {
+          "url": "https://www.kommersant.ru/doc/5653574",
+          "title": "Коммерсантъ — про Ивана Мыздрикова",
+          "fact": "Указывает, что Иван Сергеевич Мыздриков в 2006 году окончил Институт компьютерных технологий Московского государственного университета экономики, статистики и информатики, а в 2009-м — аспирантуру."
+        }
+      ],
+      "notes": "Quality pass 2026-08-01 (honest-gap follow-up): найдено образование (Институт компьютерных технологий МЭСИ, 2006, аспирантура 2009) через Коммерсантъ, независимо подтверждено постом vk.com/wall-129812158_13777; институт нормализован к РЭУ им. Г.В. Плеханова по university_names.json (МЭСИ присоединен к РЭУ им. Плеханова в 2011 году), оригинальное название сохранено в description. Отчество Сергеевич независимо подтверждено (уже упоминалось в предыдущем раунде), name оставлен как в CSV. Роль из CSV: Вице-президент по развитию почтовых сервисов и магазина приложений VK"
+    },
+    {
+      "name": "Меркутов Алексей",
+      "current_role": "вице-президент по коммуникациям VK",
+      "company_name": "МКПАО «ВК»",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "VK",
+          "role": "вице-президент по коммуникациям",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Назначен вице-президентом по коммуникациям VK.",
+          "sources": [
+            "https://tass.ru/ekonomika/14272069"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        },
+        {
+          "organization": "Группа МТС",
+          "role": "руководитель корпоративных коммуникаций и продвижения цифровых продуктов",
+          "start_year": null,
+          "end_year": 2022,
+          "description": "Предыдущий опыт до VK.",
+          "sources": [
+            "https://tass.ru/ekonomika/14272069"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Wireless Telecommunication Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://tass.ru/ekonomika/14272069",
+          "title": "ТАСС — VK назначила вице-президентов по информационной безопасности и искусственному интеллекту",
+          "fact": "Подтверждает должность Алексея Меркутова в VK."
+        },
+        {
+          "url": "https://tass.ru/ekonomika/14272069",
+          "title": "ТАСС — VK назначила вице-президентов по информационной безопасности и искусственному интеллекту",
+          "fact": "ТАСС сообщает, что к команде VK присоединился вице-президент по коммуникациям Алексей Меркутов."
+        },
+        {
+          "url": "https://tass.ru/ekonomika/14272069",
+          "title": "ТАСС — VK назначила вице-президентов по информационной безопасности и искусственному интеллекту",
+          "fact": "ТАСС указывает, что Меркутов перешел в VK из группы МТС, где курировал корпоративные коммуникации и продвижение цифровых продуктов."
+        }
+      ],
+      "notes": "CSV не содержит отчество. Образование и научные данные не подтверждены. Роль из CSV: Вице-президент по коммуникациям VK"
+    },
+    {
+      "name": "Гогичаты Мераб",
+      "current_role": "вице-президент по инфраструктуре и прикладным сервисам VK",
+      "company_name": "МКПАО «ВК»",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "VK",
+          "role": "вице-президент по инфраструктуре и прикладным сервисам",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Назначен вице-президентом VK по инфраструктуре и прикладным сервисам.",
+          "sources": [
+            "https://www.comnews.ru/content/224132/2023-01-27/2023-w04/vk-naznachila-meraba-gogichaty-dolzhnost-vice-prezidenta-infrastrukture-i-prikladnym-servisam"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        },
+        {
+          "organization": "Ак Барс Банк",
+          "role": "заместитель председателя правления",
+          "start_year": null,
+          "end_year": 2023,
+          "description": "Предыдущий опыт до VK.",
+          "sources": [
+            "https://telesputnik.ru/materials/companies/news/eks-zampred-pravleniya-banka-ak-bars-naznachen-na-dolzhnost-vice-prezidenta-po-infrastrukture-i-prikladnym-servisam-vk"
+          ],
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.comnews.ru/content/224132/2023-01-27/2023-w04/vk-naznachila-meraba-gogichaty-dolzhnost-vice-prezidenta-infrastrukture-i-prikladnym-servisam",
+          "title": "ComNews — VK назначила Мераба Гогичаты вице-президентом",
+          "fact": "Подтверждает должность Мераба Гогичаты в VK."
+        },
+        {
+          "url": "https://www.comnews.ru/content/224132/2023-01-27/2023-w04/vk-naznachila-meraba-gogichaty-dolzhnost-vice-prezidenta-infrastrukture-i-prikladnym-servisam",
+          "title": "ComNews — VK назначила Мераба Гогичаты вице-президентом",
+          "fact": "ComNews сообщает, что Мераб Гогичаты назначен вице-президентом VK по инфраструктуре и прикладным сервисам."
+        },
+        {
+          "url": "https://telesputnik.ru/materials/companies/news/eks-zampred-pravleniya-banka-ak-bars-naznachen-na-dolzhnost-vice-prezidenta-po-infrastrukture-i-prikladnym-servisam-vk",
+          "title": "Телеспутник — Экс-зампред правления Ак Барс Банка назначен вице-президентом VK",
+          "fact": "Источник сообщает, что Мераб Гогичаты пришел в VK с позиции заместителя председателя правления банка «Ак Барс»."
+        }
+      ],
+      "notes": "CSV не содержит отчество; в источниках встречается Мераб Автандилович Гогичаты, но name сохранен как в CSV. Образование и научные данные не подтверждены. Роль из CSV: Вице-президент по инфраструктуре и прикладным сервисам VK"
+    },
+    {
+      "name": "Фролов Антон",
+      "current_role": "вице-президент по AI, контентным и рекомендательным сервисам VK",
+      "company_name": "МКПАО «ВК»",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "VK",
+          "role": "вице-президент по AI, контентным и рекомендательным сервисам",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Назначен вице-президентом по AI, контентным и рекомендательным сервисам; совмещал с руководством «Дзеном».",
+          "sources": [
+            "https://www.forbes.ru/tekhnologii/495827-vk-sozdala-dve-biznes-gruppy-i-naznacila-vice-prezidenta-po-iskusstvennomu-intellektu"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.forbes.ru/tekhnologii/495827-vk-sozdala-dve-biznes-gruppy-i-naznacila-vice-prezidenta-po-iskusstvennomu-intellektu",
+          "title": "Forbes — VK создала две бизнес-группы",
+          "fact": "Подтверждает должность Антона Фролова в VK."
+        },
+        {
+          "url": "https://www.forbes.ru/tekhnologii/495827-vk-sozdala-dve-biznes-gruppy-i-naznacila-vice-prezidenta-po-iskusstvennomu-intellektu",
+          "title": "Forbes — VK создала две бизнес-группы",
+          "fact": "Forbes сообщает, что вице-президентом VK по AI, контентным и рекомендательным сервисам стал руководитель «Дзена» Антон Фролов."
+        }
+      ],
+      "notes": "CSV не содержит отчество. В 2025 году должность могла измениться, но для 2024 сохранен статус из источника 2023 года и CSV. Образование и научные данные не подтверждены. Роль из CSV: Вице-президент по искусственному интеллекту, контентным и рекомендательным сервисам VK"
+    },
+    {
+      "name": "Карпов Антон",
+      "current_role": "вице-президент, директор по информационной безопасности VK",
+      "company_name": "МКПАО «ВК»",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "VK",
+          "role": "вице-президент, директор по информационной безопасности",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Назначен вице-президентом и директором по информационной безопасности VK.",
+          "sources": [
+            "https://www.cnews.ru/news/top/2023-10-03_vk_obyavil_o_naznachenii_dvuh"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        },
+        {
+          "organization": "Яндекс",
+          "role": "руководитель службы безопасности",
+          "start_year": null,
+          "end_year": 2023,
+          "description": "Предыдущий опыт до VK.",
+          "sources": [
+            "https://www.cnews.ru/news/top/2023-10-03_vk_obyavil_o_naznachenii_dvuh"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.cnews.ru/news/top/2023-10-03_vk_obyavil_o_naznachenii_dvuh",
+          "title": "CNews — VK переманил двух топ-менеджеров из «Яндекса»",
+          "fact": "Подтверждает должность Антона Карпова."
+        },
+        {
+          "url": "https://www.cnews.ru/news/top/2023-10-03_vk_obyavil_o_naznachenii_dvuh",
+          "title": "CNews — VK переманил двух топ-менеджеров из «Яндекса»",
+          "fact": "CNews сообщает, что Антон Карпов назначен вице-президентом, директором по информационной безопасности VK."
+        },
+        {
+          "url": "https://www.cnews.ru/news/top/2023-10-03_vk_obyavil_o_naznachenii_dvuh",
+          "title": "CNews — VK переманил двух топ-менеджеров из «Яндекса»",
+          "fact": "CNews сообщает, что до прихода в VK Карпов работал в «Яндексе» более 10 лет."
+        }
+      ],
+      "notes": "CSV не содержит отчество. Образование и научные данные не подтверждены. Роль из CSV: Вице-президент по информационной безопасности VK"
+    },
+    {
+      "name": "Попов Петр",
+      "current_role": "вице-президент по рекламным технологиям VK",
+      "company_name": "МКПАО «ВК»",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "VK",
+          "role": "вице-президент по рекламным технологиям",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Назначен вице-президентом по рекламным технологиям VK.",
+          "sources": [
+            "https://www.cnews.ru/news/top/2023-10-03_vk_obyavil_o_naznachenii_dvuh"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        },
+        {
+          "organization": "Яндекс",
+          "role": "руководитель в поисковых и рекламных технологиях",
+          "start_year": null,
+          "end_year": 2023,
+          "description": "Предыдущий опыт до VK.",
+          "sources": [
+            "https://ict-online.ru/appointments/Petr-Popov-naznachen-vitse-prezidentom-po-reklamnym-tekhnologiyam-VK-279339"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.cnews.ru/news/top/2023-10-03_vk_obyavil_o_naznachenii_dvuh",
+          "title": "CNews — VK переманил двух топ-менеджеров из «Яндекса»",
+          "fact": "Подтверждает должность Петра Попова."
+        },
+        {
+          "url": "https://www.cnews.ru/news/top/2023-10-03_vk_obyavil_o_naznachenii_dvuh",
+          "title": "CNews — VK переманил двух топ-менеджеров из «Яндекса»",
+          "fact": "CNews сообщает, что Петр Попов занял пост вице-президента по рекламным технологиям VK."
+        },
+        {
+          "url": "https://ict-online.ru/appointments/Petr-Popov-naznachen-vitse-prezidentom-po-reklamnym-tekhnologiyam-VK-279339",
+          "title": "ICT-Online — Петр Попов назначен вице-президентом VK",
+          "fact": "Источник указывает, что до перехода в VK Петр Попов более 10 лет работал в Яндексе и занимался развитием поисковых и рекламных технологий."
+        }
+      ],
+      "notes": "CSV не содержит отчество. Образование и научные данные не подтверждены. Роль из CSV: Вице-президент по рекламным технологиям VK"
+    },
+    {
+      "name": "Дуксин Николай",
+      "current_role": "вице-президент по музыкальным и видеосервисам VK",
+      "company_name": "МКПАО «ВК»",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "VK",
+          "role": "вице-президент по музыкальным и видеосервисам",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "В 2024 году публично выступал от имени VK как вице-президент по музыкальным и видеосервисам.",
+          "sources": [
+            "https://www.sostav.ru/publication/muz-tv-vk-video-68497.html",
+            "https://www.comnews.ru/content/236683/2024-12-04/2024-w49/1010/vk-video-stal-dostupen-otdelnom-domene-vkvideoru"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        },
+        {
+          "organization": "VK",
+          "role": "директор музыкальных сервисов",
+          "start_year": 2022,
+          "end_year": 2024,
+          "description": "Присоединился к VK 2 июня 2022 года для развития сервиса VK Музыка и новых направлений музыкального бизнеса компании; до вице-президентского титула по музыкальным и видеосервисам (2024) занимал эту должность.",
+          "sources": [
+            "https://vk.company/ru/press/releases/11169/"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.sostav.ru/publication/muz-tv-vk-video-68497.html",
+          "title": "Sostav — В эфире «Муз-ТВ» появятся оригинальные шоу «VK Видео»",
+          "fact": "Подтверждает должность Николая Дуксина в 2024 году."
+        },
+        {
+          "url": "https://www.sostav.ru/publication/muz-tv-vk-video-68497.html",
+          "title": "Sostav — В эфире «Муз-ТВ» появятся оригинальные шоу «VK Видео»",
+          "fact": "Публикация от 25.06.2024 приводит Николая Дуксина как вице-президента по музыкальным и видеосервисам VK."
+        },
+        {
+          "url": "https://www.comnews.ru/content/236683/2024-12-04/2024-w49/1010/vk-video-stal-dostupen-otdelnom-domene-vkvideoru",
+          "title": "ComNews — VK Видео стал доступен на отдельном домене",
+          "fact": "ComNews приводит Николая Дуксина как вице-президента по музыкальным и видеосервисам VK."
+        },
+        {
+          "url": "https://vk.company/ru/press/releases/11169/",
+          "title": "VK Company — официальный пресс-релиз о назначении Николая Дуксина",
+          "fact": "Официальный пресс-релиз VK от 2 июня 2022 года сообщает, что Николай Дуксин будет развивать сервис VK Музыка и новые направления музыкального бизнеса компании; ранее руководил творческим объединением «Газгольдер» (с 2013 года)."
+        }
+      ],
+      "notes": "Quality pass 2026-08-01 (honest-gap follow-up): найдена более ранняя роль в VK (директор музыкальных сервисов, с 2 июня 2022 года, официальный пресс-релиз VK) — это не противоречит уже подтвержденному титулу «вице-президент по музыкальным и видеосервисам» на 2024 год (Sostav/ComNews), а описывает более раннюю ступень карьеры в самой VK; добавлено отдельной professional_experience записью, существующая запись 2024 года не изменена. Образование не найдено (см. round file). CSV не содержит отчество. Роль из CSV: Вице-президент по музыкальным и видеосервисам VK с июня 2024 года"
+    },
+    {
+      "name": "Кучай Анастасия",
+      "current_role": "вице-президент по персоналу VK",
+      "company_name": "МКПАО «ВК»",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "VK",
+          "role": "вице-президент по персоналу",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Назначена вице-президентом по персоналу VK в июне 2024 года.",
+          "sources": [
+            "https://www.sostav.ru/publication/anastasiya-kuchaj-vk-68339.html"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        },
+        {
+          "organization": "Ozon Tech",
+          "role": "HR-директор",
+          "start_year": null,
+          "end_year": 2024,
+          "description": "Предыдущий опыт до VK.",
+          "sources": [
+            "https://www.sostav.ru/publication/anastasiya-kuchaj-vk-68339.html"
+          ],
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Broadline Retail (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.sostav.ru/publication/anastasiya-kuchaj-vk-68339.html",
+          "title": "Sostav — Анастасия Кучай назначена вице-президентом по персоналу в VK",
+          "fact": "Подтверждает назначение Анастасии Кучай вице-президентом по персоналу VK."
+        },
+        {
+          "url": "https://www.sostav.ru/publication/anastasiya-kuchaj-vk-68339.html",
+          "title": "Sostav — Анастасия Кучай назначена вице-президентом по персоналу в VK",
+          "fact": "Sostav сообщает, что бывший HR-директор Ozon Tech Анастасия Кучай стала вице-президентом по персоналу в VK."
+        },
+        {
+          "url": "https://www.sostav.ru/publication/anastasiya-kuchaj-vk-68339.html",
+          "title": "Sostav — Анастасия Кучай назначена вице-президентом по персоналу в VK",
+          "fact": "Источник указывает, что до перехода в VK Анастасия Кучай была HR-директором Ozon Tech."
+        }
+      ],
+      "notes": "CSV не содержит отчество. Образование и научные данные не подтверждены. Роль из CSV: Вице-президент по персоналу VK с июня 2024 года"
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "https://www.e-disclosure.ru/portal/company.aspx?id=38965",
+      "title": "Интерфакс — сервер раскрытия информации: МКПАО «ВК»",
+      "fact": "Карточка раскрытия информации эмитента МКПАО «ВК»."
+    },
+    {
+      "url": "https://rspp.ru/upload/uf/a3a/r1xfofld5nuhsnf7joqz4jp5n2fz83bp/%D0%92%D0%9A_%D0%98%D0%9E_2024.pdf",
+      "title": "Годовой отчет МКПАО «ВК» за 2024 год",
+      "fact": "Документ найден как годовой отчет за 2024 год; прямое чтение PDF через web-инструмент и полная загрузка были нестабильны, поэтому он не использован как единственный claim-level источник."
+    },
+    {
+      "url": "https://www.interfax.ru/russia/842599",
+      "title": "Интерфакс — Главой совета директоров VK избран Сергей Куприянов",
+      "fact": "Источник подтверждает председательство Сергея Куприянова и состав Совета директоров VK после изменений 2022 года."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.e-disclosure.ru/portal/company.aspx?id=38965",
+      "title": "Интерфакс — сервер раскрытия информации: МКПАО «ВК»",
+      "fact": "Карточка раскрытия информации эмитента МКПАО «ВК»."
+    },
+    {
+      "url": "https://rspp.ru/upload/uf/a3a/r1xfofld5nuhsnf7joqz4jp5n2fz83bp/%D0%92%D0%9A_%D0%98%D0%9E_2024.pdf",
+      "title": "Годовой отчет МКПАО «ВК» за 2024 год",
+      "fact": "Документ найден как годовой отчет за 2024 год; прямое чтение PDF через web-инструмент и полная загрузка были нестабильны, поэтому он не использован как единственный claim-level источник."
+    },
+    {
+      "url": "https://www.interfax.ru/russia/842599",
+      "title": "Интерфакс — Главой совета директоров VK избран Сергей Куприянов",
+      "fact": "Источник подтверждает председательство Сергея Куприянова и состав Совета директоров VK после изменений 2022 года."
+    }
+  ],
+  "validation_notes": "Original notes: Исследование выполнено по строкам MOEXBMI_2024.csv для VKCO. Официальные PDF годового отчета и e-disclosure были найдены, но прямое чтение/загрузка были нестабильны; поэтому для claim-level фактов использованы только открываемые страницы и PDF, содержание которых удалось прочитать. Для части лиц без отчества и с ограниченным публичным профилем биографические поля оставлены пустыми.\n\nNormalized to T_person_info.json schema on 2026-07-14. Original people count: 28; unresolved count: 0; normalized ceo: Багудина Елена Геннадьевна; normalized tmt count: 27.\n\nOriginal top-level metadata preserved as JSON: {\"company_aliases\": [\"МКПАО \\\"ВК\\\"\", \"VK\", \"VK Company Limited\", \"Mail.ru Group\", \"ВКонтакте\"], \"csv_rows\": [{\"name\": \"Куприянов Сергей\", \"position\": \"Председатель Совета директоров МКПАО «ВК»; неисполнительный директор\"}, {\"name\": \"Зыбина Мария\", \"position\": \"Член Совета директоров МКПАО «ВК»; неисполнительный директор\"}, {\"name\": \"Антонова Ульяна\", \"position\": \"Член Совета директоров МКПАО «ВК»; неисполнительный директор\"}, {\"name\": \"Устинов Антон\", \"position\": \"Член Совета директоров МКПАО «ВК»; неисполнительный директор\"}, {\"name\": \"Чудаков Дмитрий\", \"position\": \"Член Совета директоров МКПАО «ВК»; неисполнительный директор\"}, {\"name\": \"Гордин Михаил\", \"position\": \"Член Совета директоров МКПАО «ВК»; неисполнительный директор\"}, {\"name\": \"Анисимов Никита\", \"position\": \"Член Совета директоров МКПАО «ВК»; независимый директор\"}, {\"name\": \"Яковлева Наталья\", \"position\": \"Член Совета директоров МКПАО «ВК»; независимый директор\"}, {\"name\": \"Айвазов Александр\", \"position\": \"Член Совета директоров МКПАО «ВК»; исполнительный директор; старший вице-президент по инвестициям и развитию бизнеса VK\"}, {\"name\": \"Мальгинов Антон\", \"position\": \"Член Совета директоров МКПАО «ВК»; исполнительный директор; руководитель юридического департамента VK\"}, {\"name\": \"Багудина Елена Геннадьевна\", \"position\": \"Генеральный директор МКПАО «ВК»; единоличный исполнительный орган в 2024 году\"}, {\"name\": \"Кириенко Владимир Сергеевич\", \"position\": \"Генеральный директор группы VK\"}, {\"name\": \"Азаренко Елена\", \"position\": \"Управляющий директор VK\"}, {\"name\": \"Борыславская Светлана\", \"position\": \"Финансовый директор VK\"}, {\"name\": \"Китова Екатерина\", \"position\": \"Корпоративный секретарь МКПАО «ВК»\"}, {\"name\": \"Ковальчук Степан\", \"position\": \"Старший вице-президент по медиастратегии; руководитель бизнес-группы «Социальные платформы и медиаконтент» VK\"}, {\"name\": \"Хуснояров Фарит\", \"position\": \"Вице-президент по развитию мессенджера VK\"}, {\"name\": \"Хайбуллов Рустам\", \"position\": \"Вице-президент по стратегическим проектам VK\"}, {\"name\": \"Сиренко Ирина\", \"position\": \"Вице-президент по связям с государственными органами VK\"}, {\"name\": \"Тадевосян Максим\", \"position\": \"Вице-президент по развитию бизнеса и стратегии VK\"}, {\"name\": \"Мыздриков Иван\", \"position\": \"Вице-президент по развитию почтовых сервисов и магазина приложений VK\"}, {\"name\": \"Меркутов Алексей\", \"position\": \"Вице-президент по коммуникациям VK\"}, {\"name\": \"Гогичаты Мераб\", \"position\": \"Вице-президент по инфраструктуре и прикладным сервисам VK\"}, {\"name\": \"Фролов Антон\", \"position\": \"Вице-президент по искусственному интеллекту, контентным и рекомендательным сервисам VK\"}, {\"name\": \"Карпов Антон\", \"position\": \"Вице-президент по информационной безопасности VK\"}, {\"name\": \"Попов Петр\", \"position\": \"Вице-президент по рекламным технологиям VK\"}, {\"name\": \"Дуксин Николай\", \"position\": \"Вице-президент по музыкальным и видеосервисам VK с июня 2024 года\"}, {\"name\": \"Кучай Анастасия\", \"position\": \"Вице-президент по персоналу VK с июня 2024 года\"}], \"notes\": \"Исследование выполнено по строкам MOEXBMI_2024.csv для VKCO. Официальные PDF годового отчета и e-disclosure были найдены, но прямое чтение/загрузка были нестабильны; поэтому для claim-level фактов использованы только открываемые страницы и PDF, содержание которых удалось прочитать. Для части лиц без отчества и с ограниченным публичным профилем биографические поля оставлены пустыми.\", \"target_year\": 2024, \"ticker\": \"VKCO\"}\n\nQuality pass round 1 (2026-08-01): Step 0 git-baseline check confirmed the on-disk file was byte-identical to git HEAD (commit f973022) before this round — no regression to restore. Fixed 6 qualification_degree desyncs (Анисимов x2, Устинов, Гордин, Яковлева/ACCA, Тадевосян/специалист) using the corpus-wide enum convention already established elsewhere. Corrected 4 GICS labels to exact gics_taxonomy.json rows: Карпов и Попов at «Яндекс» Software->Interactive Media & Services (matches Yandex's own YDEX_person_info.json convention); Кучай at «Ozon Tech» Software->Broadline Retail (matches OZON_person_info.json convention); Тадевосян at «RAMT» Entertainment->null (unsupported by source, generic investment vehicle). Ran bounded honest-gap follow-up (fresh queries via WebFetch/DuckDuckGo, WebSearch quota was exhausted session-wide): resolved education/degree/professional_experience gaps for 9 people (Куприянов, Зыбина, Айвазов, Кириенко, Ковальчук, Хайбуллов, Сиренко, Мыздриков, Дуксин), each cross-checked to confirm same-identity (not a namesake) before adding. Explicitly checked-and-rejected two leads to avoid fabrication/namesake-mixing: a same-named non-VK academic for CEO Багудина (her own rusprofile.ru/ИНН page has no education/teaching mention), and an unconfirmed page-title-only \"кандидат юридических наук\" claim for Мальгинов. 12 people's education/degree gaps remain unresolved with the specific exhausted fresh queries logged in research_notes/VKCO/quality_pass_round1_20260801.md for a future pass. No previously confirmed fact, note, or source citation was shortened or deleted (verified via git diff).",
+  "sector": "Communication Services",
+  "industry_group": "Media & Entertainment",
+  "industry": "Interactive Media & Services"
+}

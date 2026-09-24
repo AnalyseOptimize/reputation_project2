@@ -1,0 +1,1712 @@
+{
+  "company_name": "ПАО \"Россети Северо-Запад\"",
+  "company_ticker": "MRKZ",
+  "ceo": {
+    "name": "Вячеслав Юрьевич Торсунов",
+    "current_role": "Генеральный директор, Председатель Правления ПАО \"Россети Северо-Запад\" с 25.12.2024",
+    "company_name": "ПАО \"Россети Северо-Запад\"",
+    "education": [
+      {
+        "institution": "Московский государственный юридический университет имени О.Е. Кутафина (МГЮА)",
+        "year": 1999,
+        "field": "юриспруденция",
+        "qualification": "юрист",
+        "sources": [
+          "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+          "https://ar2024rosseti-sz.ru/pdf/ar/ru/corporate-governance_executive-bodies.pdf"
+        ],
+        "qualification_degree": "Specialist degree"
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "Правительство Российской Федерации",
+        "role": "Заместитель директора департамента промышленности и инфраструктуры",
+        "start_year": 2012,
+        "end_year": 2020,
+        "sources": [
+          "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+          "https://ar2024rosseti-sz.ru/pdf/ar/ru/corporate-governance_executive-bodies.pdf"
+        ],
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "Фонд капитального ремонта многоквартирных домов города Москвы",
+        "role": "Первый заместитель генерального директора",
+        "start_year": 2020,
+        "end_year": 2021,
+        "sources": [
+          "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+        ],
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "Департамент жилищно-коммунального хозяйства города Москвы",
+        "role": "Руководитель департамента",
+        "start_year": 2021,
+        "end_year": 2024,
+        "sources": [
+          "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+          "https://ar2024rosseti-sz.ru/pdf/ar/ru/corporate-governance_executive-bodies.pdf"
+        ],
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "ПАО \"Россети Северо-Запад\"",
+        "role": "Генеральный директор, Председатель Правления",
+        "start_year": 2024,
+        "end_year": null,
+        "description": "Избран решением Совета директоров 24.12.2024 на срок с 25.12.2024 по 15.10.2027.",
+        "sources": [
+          "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+          "https://ar2024rosseti-sz.ru/ru/corporate-governance/executive-bodies"
+        ],
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Electric Utilities"
+      },
+      {
+        "organization": "ПАО \"Россети Московский регион\", АО \"Мосводоканал\", АО \"Москоллектор\", АО \"Мосэнергосбыт\", ПАО \"Мосэнерго\" и другие организации ЖКХ Москвы",
+        "role": "Член или председатель советов директоров",
+        "start_year": 2021,
+        "end_year": null,
+        "description": "Годовой отчет перечисляет несколько советов директоров; годы различаются по организациям.",
+        "sources": [
+          "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+        ],
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "CSV lists Вячеслав Юрьевич Торсунов for MRKZ as генеральный директор, председатель правления, член совета директоров."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+        "title": "Годовой отчет ПАО \"Россети Северо-Запад\" за 2024 год",
+        "fact": "Страницы 290-291: отчет указывает, что Торсунов избран генеральным директором и председателем Правления с 25.12.2024; приводит образование, карьеру в Правительстве РФ, ФКР Москвы, Департаменте ЖКХ Москвы и органах управления компаний."
+      },
+      {
+        "url": "https://ar2024rosseti-sz.ru/ru/corporate-governance/executive-bodies",
+        "title": "Годовой отчет 2024: Исполнительные органы Общества",
+        "fact": "Официальная интернет-версия годового отчета подтверждает избрание Торсунова генеральным директором с 25.12.2024 и переход от Пидника к Торсунову в 2024 году."
+      },
+      {
+        "url": "https://www.rosseti-sz.ru/about/controldepartments/directorsboardandcommittees/",
+        "title": "Совет директоров и Комитеты Совета директоров",
+        "fact": "Текущая официальная страница указывает образование Торсунова, карьеру за последние пять лет и дату первого избрания в совет директоров 19.06.2025; этот источник использован только для идентификации и более позднего статуса."
+      }
+    ],
+    "notes": "На 31.12.2024 Торсунов подтвержден как генеральный директор и председатель Правления. Годовой отчет 2024 не включает его в состав Совета директоров на 31.12.2024; текущая официальная страница указывает первое избрание в Совет директоров 19.06.2025."
+  },
+  "tmt": [
+    {
+      "name": "Алексей Александрович Полинов",
+      "current_role": "Председатель Совета директоров ПАО \"Россети Северо-Запад\"; член Совета директоров в составе 2024 года",
+      "company_name": "ПАО \"Россети Северо-Запад\"",
+      "education": [
+        {
+          "institution": "Национальный исследовательский Московский государственный строительный университет",
+          "year": 2000,
+          "field": "экономика и управление на предприятии (в строительстве)",
+          "qualification": "экономист-менеджер",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://ar2024rosseti-sz.ru/ru/corporate-governance/board-directors"
+          ],
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "кандидат экономических наук",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://ar2024rosseti-sz.ru/ru/corporate-governance/board-directors"
+          ],
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Россети Ленэнерго\"",
+          "role": "Заместитель генерального директора по экономике и финансам; и.о. заместителя генерального директора по экономике и финансам",
+          "start_year": 2019,
+          "end_year": 2022,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://www.rosseti-sz.ru/about/controldepartments/directorsboardandcommittees/"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Ленэнерго\"",
+          "role": "Советник генерального директора по совместительству",
+          "start_year": 2022,
+          "end_year": null,
+          "sources": [
+            "https://www.rosseti-sz.ru/about/controldepartments/directorsboardandcommittees/"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Российские сети\" / ПАО \"ФСК - Россети\"",
+          "role": "Главный советник; врио заместителя генерального директора по экономике и финансам; заместитель генерального директора по экономике и финансам; главный советник и врио заместителя генерального директора по стратегии",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Периоды различаются: 2021-2023 в ПАО \"Российские сети\", 2022-2023 заместитель генерального директора ПАО \"ФСК - Россети\", с 2023 главный советник / врио заместителя генерального директора по стратегии.",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://www.rosseti-sz.ru/about/controldepartments/directorsboardandcommittees/"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Алексей Александрович Полинов for MRKZ as председатель совета директоров."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"Россети Северо-Запад\" за 2024 год",
+          "fact": "Страницы 261, 263-264: отчет включает Полинова в оба состава Совета директоров 2024 года, раскрывает образование, степень кандидата экономических наук и карьеру за последние пять лет."
+        },
+        {
+          "url": "https://www.rosseti-sz.ru/about/controldepartments/directorsboardandcommittees/",
+          "title": "Совет директоров и Комитеты Совета директоров",
+          "fact": "Текущая официальная страница подтверждает Полинова как председателя Совета директоров и повторяет образование, степень и опыт."
+        }
+      ],
+      "notes": "Диссертационные и публикационные профили с тем же ФИО не использованы без дополнительной идентификации; h-index не найден."
+    },
+    {
+      "name": "Артем Геннадьевич Алешин",
+      "current_role": "Член Совета директоров ПАО \"Россети Северо-Запад\"; председатель Комитета по стратегии, член Комитета по аудиту",
+      "company_name": "ПАО \"Россети Северо-Запад\"",
+      "education": [
+        {
+          "institution": "Нижегородский государственный технический университет имени Р.Е. Алексеева",
+          "year": 2000,
+          "field": "менеджмент",
+          "qualification": "менеджер-экономист",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://ar2024rosseti-sz.ru/ru/corporate-governance/board-directors"
+          ],
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+          "year": 2004,
+          "field": "юриспруденция",
+          "qualification": "юрист",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://www.rosseti-sz.ru/about/controldepartments/directorsboardandcommittees/"
+          ],
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Россети Центр\"",
+          "role": "Заместитель генерального директора по экономике и финансам; первый заместитель генерального директора по экономике и финансам; и.о. первого заместителя; советник генерального директора",
+          "start_year": 2019,
+          "end_year": 2023,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Центр\"",
+          "role": "Советник генерального директора по совместительству",
+          "start_year": 2023,
+          "end_year": 2024,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"ФСК - Россети\"",
+          "role": "Главный советник; врио заместителя генерального директора по экономике и финансам; заместитель Генерального директора по экономике и финансам",
+          "start_year": 2023,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://www.rosseti-sz.ru/about/controldepartments/directorsboardandcommittees/"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Артем Геннадьевич Алешин for MRKZ as член совета директоров."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"Россети Северо-Запад\" за 2024 год",
+          "fact": "Страницы 261 и 265: Алешин включен в состав Совета директоров с 18.06.2024, указаны образование и опыт в Россети Центр и ПАО \"ФСК - Россети\"."
+        },
+        {
+          "url": "https://www.rosseti-sz.ru/about/controldepartments/directorsboardandcommittees/",
+          "title": "Совет директоров и Комитеты Совета директоров",
+          "fact": "Текущая официальная страница подтверждает образование, опыт и дату первого избрания в Совет директоров 18.06.2024."
+        }
+      ],
+      "notes": "Научные степени, публикации, патенты и h-index не подтверждены."
+    },
+    {
+      "name": "Василий Васильевич Вычегжанин",
+      "current_role": "Член Совета директоров ПАО \"Россети Северо-Запад\"; председатель Комитета по надежности",
+      "company_name": "ПАО \"Россети Северо-Запад\"",
+      "education": [
+        {
+          "institution": "Вятский государственный университет",
+          "year": 2001,
+          "field": "электроэнергетические системы и сети",
+          "qualification": "инженер",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://ar2024rosseti-sz.ru/ru/corporate-governance/board-directors"
+          ],
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Вятский государственный университет",
+          "year": 2007,
+          "field": "экономика и управление на предприятии",
+          "qualification": "экономист-менеджер",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://www.rosseti-sz.ru/about/controldepartments/directorsboardandcommittees/"
+          ],
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"МОЭСК\"",
+          "role": "Директор департамента эксплуатации сетей 35-500 кВ",
+          "start_year": 2017,
+          "end_year": 2021,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Московский регион\"",
+          "role": "Первый заместитель главного инженера по эксплуатации оборудования",
+          "start_year": 2021,
+          "end_year": 2023,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"ФСК - Россети\"",
+          "role": "Заместитель главного инженера",
+          "start_year": 2023,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://www.rosseti-sz.ru/about/controldepartments/directorsboardandcommittees/"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Василий Васильевич Вычегжанин for MRKZ as член совета директоров."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"Россети Северо-Запад\" за 2024 год",
+          "fact": "Страницы 261, 266-267, 285: отчет включает Вычегжанина в состав Совета директоров, раскрывает образование, опыт и роль председателя Комитета по надежности."
+        }
+      ],
+      "notes": "Публикации, патенты и h-index не подтверждены."
+    },
+    {
+      "name": "Александр Юрьевич Корнеев",
+      "current_role": "Член Совета директоров ПАО \"Россети Северо-Запад\"; член Комитета по стратегии",
+      "company_name": "ПАО \"Россети Северо-Запад\"",
+      "education": [
+        {
+          "institution": "Национальный исследовательский университет «МЭИ»",
+          "year": 2003,
+          "field": "внутризаводское электрооборудование",
+          "qualification": "инженер",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://ar2024rosseti-sz.ru/ru/corporate-governance/board-directors"
+          ],
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Российские сети\"",
+          "role": "Директор департамента технологического присоединения и развития инфраструктуры",
+          "start_year": 2019,
+          "end_year": 2020,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"ФСК - Россети\"",
+          "role": "Начальник департамента технологического присоединения и развития инфраструктуры",
+          "start_year": 2020,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://www.rosseti-sz.ru/about/controldepartments/directorsboardandcommittees/"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"ФСК ЕЭС\"",
+          "role": "Начальник департамента технологического присоединения и развития инфраструктуры по совместительству",
+          "start_year": 2021,
+          "end_year": 2022,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Александр Юрьевич Корнеев for MRKZ as член совета директоров."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"Россети Северо-Запад\" за 2024 год",
+          "fact": "Страницы 261, 267-268 и 282: отчет включает Корнеева в совет директоров и Комитет по стратегии, раскрывает образование и опыт."
+        }
+      ],
+      "notes": "Научные данные не подтверждены."
+    },
+    {
+      "name": "Андрей Владимирович Морозов",
+      "current_role": "Член Совета директоров по CSV и текущей официальной странице; членство в Совете директоров в составе 2024 года локальным годовым отчетом не подтверждено",
+      "company_name": "ПАО \"Россети Северо-Запад\"",
+      "education": [
+        {
+          "institution": "Всероссийский государственный университет юстиции (РПА Минюста России)",
+          "year": 2000,
+          "field": "юриспруденция",
+          "qualification": "юрист",
+          "sources": [
+            "https://www.rosseti-sz.ru/about/controldepartments/directorsboardandcommittees/"
+          ],
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Harvard Law School",
+          "year": 2016,
+          "field": "law",
+          "qualification": "LLM",
+          "sources": [
+            "https://www.rosseti-sz.ru/about/controldepartments/directorsboardandcommittees/"
+          ],
+          "qualification_degree": "Master's degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Ассоциация профессиональных инвесторов",
+          "role": "Юридический директор",
+          "start_year": 2017,
+          "end_year": null,
+          "sources": [
+            "https://www.rosseti-sz.ru/about/controldepartments/directorsboardandcommittees/",
+            "https://www.mrsksevzap.ru/press/news/newsrossetisz/news91606.html"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"Россети Северо-Запад\"",
+          "role": "Член Совета директоров",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Round 2 (2026-07-19) gap-fill: официальная страница rosseti-sz.ru прямо подтверждает первое избрание Морозова в Совет директоров 14.06.2019 и заявляет непрерывное членство с 2019 года по настоящее время без перерывов или повторного избрания; на основании этого источника start_year заполнен значением 2019. Однако локальный годовой отчет 2024 (оба состава Совета директоров, стр. 261) и приложения к нему были повторно проверены программно (полнотекстовый поиск по всем 358 и 364 страницам соответственно) -- ни одного упоминания фамилии \"Морозов\" не найдено ни в одном из двух документов, что подтверждает вывод раунда 1 о его отсутствии в официально раскрытом составе на 31.12.2024. Конфликт между источниками (официальная страница заявляет непрерывность, годовой отчет 2024 не подтверждает членство на отчетную дату) не может быть разрешен доступными источниками и сохранён как есть; официальная новость о ГОСА 2026 года (news91606.html, уже в sources этой персоны) отдельно подтверждает включение Морозова в более поздний состав Совета директоров. end_year остается null, дата возможного перерыва/переизбрания не изобретается.",
+          "sources": [
+            "https://www.rosseti-sz.ru/about/controldepartments/directorsboardandcommittees/",
+            "https://www.mrsksevzap.ru/press/news/newsrossetisz/news91606.html",
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "MOEXBMI_Отчеты_2024/MRKZ/Приложения к ГО/Приложения к Годовому отчету за 2024 год.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Андрей Владимирович Морозов for MRKZ as член совета директоров."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"Россети Северо-Запад\" за 2024 год",
+          "fact": "Страница 261: отчет перечисляет составы Совета директоров 2024 года; Морозов Андрей Владимирович в этих составах отсутствует."
+        },
+        {
+          "url": "https://www.rosseti-sz.ru/about/controldepartments/directorsboardandcommittees/",
+          "title": "Совет директоров и Комитеты Совета директоров",
+          "fact": "Текущая официальная страница подтверждает личность Морозова: год рождения 1978, юридическое образование, LLM Harvard Law School и должность юридического директора Ассоциации профессиональных инвесторов."
+        },
+        {
+          "url": "https://www.mrsksevzap.ru/press/news/newsrossetisz/news91606.html",
+          "title": "Состоялось годовое заседание Общего собрания акционеров ПАО \"Россети Северо-Запад\"",
+          "fact": "Официальная новость от 08.06.2026 перечисляет Морозова Андрея Владимировича в новом составе Совета директоров; это подтверждает более поздний состав, совпадающий с CSV, но не состав 2024 года."
+        },
+        {
+          "url": "https://www.rosseti-sz.ru/about/controldepartments/directorsboardandcommittees/",
+          "title": "Совет директоров и Комитеты Совета директоров",
+          "fact": "Round 2 (2026-07-19) gap-fill re-check: страница прямо указывает дату первого избрания Морозова 14.06.2019 и непрерывное членство с 2019 года без перерывов; использовано для заполнения start_year=2019 в professional_experience."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"Россети Северо-Запад\" за 2024 год",
+          "fact": "Round 2 (2026-07-19) gap-fill re-check: программный полнотекстовый поиск (PyMuPDF) по всем 358 страницам подтвердил round-1 вывод -- фамилия \"Морозов\" не встречается ни разу."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKZ/Приложения к ГО/Приложения к Годовому отчету за 2024 год.pdf",
+          "title": "Приложения к Годовому отчету ПАО \"Россети Северо-Запад\" за 2024 год",
+          "fact": "Round 2 (2026-07-19) gap-fill re-check: программный полнотекстовый поиск (PyMuPDF) по всем 364 страницам приложений -- фамилия \"Морозов\" не встречается ни разу."
+        }
+      ],
+      "notes": "Существенная временная неопределенность: официальный годовой отчет 2024 не подтверждает членство Морозова в Совете директоров в 2024 году. Факты образования и текущей профессиональной роли взяты из текущей официальной страницы. || Round 2 (2026-07-19) gap-fill: заполнено start_year=2019 для роли \"Член Совета директоров\" на основании прямого указания официальной страницы на дату первого избрания (14.06.2019); end_year оставлен null, поскольку локальный годовой отчет 2024 и его приложения (оба повторно проверены программно целиком) по-прежнему не подтверждают членство на 31.12.2024, и источник конфликта не может быть разрешен без дополнительного недоступного раскрытия. Ни один ранее подтвержденный факт не удален и не изменен."
+    },
+    {
+      "name": "Сергей Сергеевич Пикин",
+      "current_role": "Член Совета директоров ПАО \"Россети Северо-Запад\"; независимый директор; председатель Комитета по аудиту и Комитета по кадрам и вознаграждениям",
+      "company_name": "ПАО \"Россети Северо-Запад\"",
+      "education": [
+        {
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "year": 2001,
+          "field": "экономика",
+          "qualification": "бакалавр экономики",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://ar2024rosseti-sz.ru/ru/corporate-governance/board-directors"
+          ],
+          "qualification_degree": "Bachelor's degree"
+        },
+        {
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "year": 2003,
+          "field": "экономика",
+          "qualification": "магистр экономики",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://www.rosseti-sz.ru/about/controldepartments/directorsboardandcommittees/"
+          ],
+          "qualification_degree": "Master's degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ООО \"НТЦ Энергофонд\"",
+          "role": "Директор",
+          "start_year": 2009,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://ar2024rosseti-sz.ru/ru/corporate-governance/board-directors"
+          ],
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "ПАО \"Россети Ленэнерго\"",
+          "role": "Член Совета директоров",
+          "start_year": 2017,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Центр\"",
+          "role": "Член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Сергей Сергеевич Пикин for MRKZ as член совета директоров."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"Россети Северо-Запад\" за 2024 год",
+          "fact": "Страницы 261, 268-269, 280-281: отчет включает Пикина в состав Совета директоров, раскрывает образование, карьеру и комитеты; в 2024 он признан независимым директором."
+        }
+      ],
+      "notes": "Публикации, патенты и h-index не подтверждены. || Round 2 (2026-07-19) gap-fill: веб-поиск по кандидатской диссертации 2004 года с совпадающим ФИО нашел работу по теме \"Формирование экономического механизма регулирования незавершенного строительства на муниципальном уровне\" (08.00.05, Москва, 2004, 188 стр.) в disserCat/РГБ/eLibrary/RUSNEB, но тема (муниципальное строительство) не согласуется с известной карьерой Пикина в энергетике и корпоративном управлении сетевыми компаниями; дополнительная идентификация не найдена, поэтому запись не добавлена в JSON во избежание смешения с однофамильцем, согласно правилу prefer-null-over-an-unverified-guess. h-index и публикации для нужного лица по-прежнему не подтверждены."
+    },
+    {
+      "name": "Мария Геннадьевна Тихонова",
+      "current_role": "Член Совета директоров ПАО \"Россети Северо-Запад\"",
+      "company_name": "ПАО \"Россети Северо-Запад\"",
+      "education": [
+        {
+          "institution": "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+          "year": 2002,
+          "field": "государственное и муниципальное управление",
+          "qualification": "специалитет",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://ar2024rosseti-sz.ru/ru/corporate-governance/board-directors"
+          ],
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+          "year": 2005,
+          "field": "Государственное управление экономическим развитием",
+          "qualification": "профессиональная переподготовка",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "qualification_degree": "Professional certification"
+        },
+        {
+          "institution": "Национальный исследовательский университет «Высшая школа экономики»",
+          "year": 2008,
+          "field": "финансы",
+          "qualification": "MBA",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://www.rosseti-sz.ru/about/controldepartments/directorsboardandcommittees/"
+          ],
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "кандидат экономических наук",
+          "institution": "Санкт-Петербургский государственный университет технологии и дизайна",
+          "year": 2010,
+          "description": "Round 2 (2026-07-19) gap-fill: веб-поиск нашел кандидатскую диссертацию \"Повышение эффективности электроэнергетики России\" (mydisser.com), защищена в С.-Петербургском государственном университете технологии и дизайна в 2010 году; тема прямо согласуется с известной карьерой Тихоновой в электроэнергетике (ФСК ЕЭС / Российские сети), что снижает риск смешения с однофамильцем по сравнению с чистым совпадением ФИО. Институт-организатор защиты (профильный вуз технологии и дизайна, не энергетический) не типичен для темы, поэтому добавлено с умеренной, не полной уверенностью; year и institution ранее были null.",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://ar2024rosseti-sz.ru/ru/corporate-governance/board-directors",
+            "https://www.mydisser.com/ru/catalog/view/tihonova-mariya-gennadevna-povyshenie-effektivnosti-elektroenergetiki-rossii-na-osnove-sovershenstv.html"
+          ],
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ФСК ЕЭС\"",
+          "role": "Заместитель Председателя Правления, член Правления",
+          "start_year": 2013,
+          "end_year": 2020,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Российские сети\"",
+          "role": "Заместитель генерального директора по корпоративному управлению по совместительству",
+          "start_year": 2020,
+          "end_year": 2023,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"ФСК - Россети\"",
+          "role": "Заместитель генерального директора по корпоративному управлению",
+          "start_year": 2020,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://www.rosseti-sz.ru/about/controldepartments/directorsboardandcommittees/"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Мария Геннадьевна Тихонова for MRKZ as член совета директоров."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"Россети Северо-Запад\" за 2024 год",
+          "fact": "Страницы 261, 269-270: отчет включает Тихонову в состав Совета директоров, раскрывает образование, степень кандидата экономических наук и опыт."
+        }
+      ],
+      "notes": "Потенциальные диссертационные записи с тем же ФИО не использованы для расширения фактов без дополнительной идентификации; h-index не найден. || Round 2 (2026-07-19) gap-fill: добавлены institution (С.-Петербургский государственный университет технологии и дизайна) и year (2010) для кандидатской степени на основании mydisser.com; идентификация подкреплена совпадением темы диссертации с профессиональной областью (электроэнергетика), см. degrees[0]."
+    },
+    {
+      "name": "Олег Романович Федоров",
+      "current_role": "Член Совета директоров ПАО \"Россети Северо-Запад\"",
+      "company_name": "ПАО \"Россети Северо-Запад\"",
+      "education": [
+        {
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "year": 1992,
+          "field": "прикладная математика",
+          "qualification": "математик",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://ar2024rosseti-sz.ru/ru/corporate-governance/board-directors"
+          ],
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "СРО Национальная ассоциация корпоративных директоров",
+          "role": "Член Правления",
+          "start_year": 2023,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://www.rosseti-sz.ru/about/controldepartments/directorsboardandcommittees/"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "НП \"Российский институт директоров\"",
+          "role": "Член Коллегии национального реестра профессиональных корпоративных директоров",
+          "start_year": 2015,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"Россети Центр и Приволжье\"",
+          "role": "Член Совета директоров",
+          "start_year": 2023,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Олег Романович Федоров for MRKZ as член совета директоров."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"Россети Северо-Запад\" за 2024 год",
+          "fact": "Страницы 261, 270: отчет включает Федорова в Совет директоров и раскрывает образование и профессиональный опыт."
+        }
+      ],
+      "notes": "Научные публикации, патенты и h-index не подтверждены."
+    },
+    {
+      "name": "Владимир Вячеславович Харитонов",
+      "current_role": "Член Совета директоров ПАО \"Россети Северо-Запад\"",
+      "company_name": "ПАО \"Россети Северо-Запад\"",
+      "education": [
+        {
+          "institution": "Российский университет дружбы народов имени Патриса Лумумбы",
+          "year": 2002,
+          "field": "энергомашиностроение",
+          "qualification": "магистр техники и технологии",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://ar2024rosseti-sz.ru/ru/corporate-governance/board-directors"
+          ],
+          "qualification_degree": "Master's degree"
+        },
+        {
+          "institution": "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+          "year": 2009,
+          "field": "менеджмент",
+          "qualification": "MBA \"Топ-менеджер\"",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://www.rosseti-sz.ru/about/controldepartments/directorsboardandcommittees/"
+          ],
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "кандидат технических наук",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://www.rosseti-sz.ru/about/controldepartments/directorsboardandcommittees/"
+          ],
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "АО \"ФИЦ\" и АО \"НИЦ ЕЭС\"",
+          "role": "Генеральный директор",
+          "start_year": 2018,
+          "end_year": 2021,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "АО \"НТЦ ФСК ЕЭС\"",
+          "role": "Генеральный директор",
+          "start_year": 2021,
+          "end_year": 2022,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "ПАО \"Российские сети\"",
+          "role": "Главный советник генерального директора",
+          "start_year": 2022,
+          "end_year": 2023,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"ФСК - Россети\"",
+          "role": "Заместитель генерального директора - руководитель Аппарата; член Правления",
+          "start_year": 2022,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://www.rosseti-sz.ru/about/controldepartments/directorsboardandcommittees/"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "Ассоциация \"Российский национальный комитет СИГРЭ\"",
+          "role": "Заместитель председателя",
+          "start_year": 2021,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Владимир Вячеславович Харитонов for MRKZ as член совета директоров."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"Россети Северо-Запад\" за 2024 год",
+          "fact": "Страницы 261, 271: отчет включает Харитонова в Совет директоров, раскрывает образование, степень кандидата технических наук, опыт и участие в органах управления."
+        }
+      ],
+      "notes": "Степень кандидата технических наук подтверждена официальной биографией; публикации, патенты и h-index нужного человека не подтверждены. || Round 2 (2026-07-19) gap-fill: веб-поиск по публикациям/h-index для Харитонова В.В. нашел только общие упоминания профиля (Math-Net.Ru, Google Scholar, КиберЛенинка) без конкретных подтвержденных названий работ, числа публикаций или индекса цитирования именно этого лица; h-index и публикации оставлены null."
+    },
+    {
+      "name": "Александр Викторович Шевчук",
+      "current_role": "Член Совета директоров ПАО \"Россети Северо-Запад\"; член Комитета по стратегии",
+      "company_name": "ПАО \"Россети Северо-Запад\"",
+      "education": [
+        {
+          "institution": "Финансовый университет при Правительстве Российской Федерации",
+          "year": 2005,
+          "field": "финансы и кредит",
+          "qualification": "экономист",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://ar2024rosseti-sz.ru/ru/corporate-governance/board-directors"
+          ],
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Ассоциация профессиональных инвесторов",
+          "role": "Исполнительный директор",
+          "start_year": 2014,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://www.rosseti-sz.ru/about/controldepartments/directorsboardandcommittees/"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"Россети Урал\", ПАО \"Россети Волга\", ПАО \"Россети Центр\" и другие компании",
+          "role": "Член Совета директоров",
+          "start_year": 2014,
+          "end_year": null,
+          "description": "Годовой отчет перечисляет ряд советов директоров; годы различаются по организациям.",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Александр Викторович Шевчук for MRKZ as член совета директоров."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"Россети Северо-Запад\" за 2024 год",
+          "fact": "Страницы 261, 272: отчет включает Шевчука в Совет директоров, раскрывает образование и опыт."
+        }
+      ],
+      "notes": "Научные данные не подтверждены."
+    },
+    {
+      "name": "Денис Владимирович Ягодка",
+      "current_role": "Первый заместитель генерального директора - главный инженер, член Правления; и.о. генерального директора с 30.11.2024 по 24.12.2024",
+      "company_name": "ПАО \"Россети Северо-Запад\"",
+      "education": [
+        {
+          "institution": "Ивановский государственный энергетический университет имени В.И. Ленина",
+          "year": 2001,
+          "field": "электроснабжение (промышленность)",
+          "qualification": "инженер-электрик",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://ar2024rosseti-sz.ru/pdf/ar/ru/corporate-governance_executive-bodies.pdf"
+          ],
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Россети Северо-Запад\"",
+          "role": "Первый заместитель генерального директора - главный инженер",
+          "start_year": 2017,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://www.rosseti-sz.ru/about/governance/",
+            "https://www.mrsksevzap.ru/about/controldepartments/rule/",
+            "https://ar2024rosseti-sz.ru/ru/corporate-governance/executive-bodies"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Северо-Запад\"",
+          "role": "Член Правления",
+          "start_year": 2018,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://www.mrsksevzap.ru/about/controldepartments/rule/"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "АО \"Россети Янтарь\"",
+          "role": "Советник департамента управления делами по совместительству",
+          "start_year": 2021,
+          "end_year": 2024,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Северо-Запад\"",
+          "role": "Исполняющий обязанности генерального директора, Председатель Правления",
+          "start_year": 2024,
+          "end_year": 2024,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://ar2024rosseti-sz.ru/ru/corporate-governance/executive-bodies"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Денис Владимирович Ягодка for MRKZ as первый заместитель генерального директора - главный инженер, член правления."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"Россети Северо-Запад\" за 2024 год",
+          "fact": "Страницы 290-291 и 298-299: отчет раскрывает образование, должность первого заместителя генерального директора - главного инженера, членство в Правлении и период исполнения обязанностей генерального директора."
+        },
+        {
+          "url": "https://www.mrsksevzap.ru/about/controldepartments/rule/",
+          "title": "Правление",
+          "fact": "Текущая официальная страница подтверждает Ягодку как члена Правления и первого заместителя генерального директора - главного инженера."
+        }
+      ],
+      "notes": "Сторонние биографические страницы с ранней карьерой в Белгородэнерго обнаружены, но не включены в JSON как ключевые факты, так как локальный официальный отчет уже дает проверенный пятилетний опыт и целевой 2024 контекст."
+    },
+    {
+      "name": "Светлана Валерьевна Филатова",
+      "current_role": "Член Правления; заместитель генерального директора по развитию и реализации услуг",
+      "company_name": "ПАО \"Россети Северо-Запад\"",
+      "education": [
+        {
+          "institution": "Санкт-Петербургский горный университет императрицы Екатерины II",
+          "year": 2003,
+          "field": "электроснабжение",
+          "qualification": "инженер",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://ar2024rosseti-sz.ru/pdf/ar/ru/corporate-governance_executive-bodies.pdf"
+          ],
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Московская школа управления «Сколково»",
+          "year": 2020,
+          "field": "Мастер делового администрирования",
+          "qualification": "Executive MBA",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "qualification_degree": "MBA"
+        },
+        {
+          "institution": "Московский институт психоанализа",
+          "year": 2024,
+          "field": "психология",
+          "qualification": "магистр психологии",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://ar2024rosseti-sz.ru/pdf/ar/ru/corporate-governance_executive-bodies.pdf"
+          ],
+          "qualification_degree": "Master's degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Россети Северо-Запад\"",
+          "role": "Заместитель генерального директора по развитию и реализации услуг",
+          "start_year": 2019,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://www.rosseti-sz.ru/about/governance/",
+            "https://www.mrsksevzap.ru/about/controldepartments/rule/"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Северо-Запад\"",
+          "role": "Член Правления",
+          "start_year": 2019,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://www.mrsksevzap.ru/about/controldepartments/rule/"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "АО \"Псковэнергоагент\"",
+          "role": "Председатель Совета директоров",
+          "start_year": 2019,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "АО \"Янтарьэнергосбыт\"",
+          "role": "Член Совета директоров",
+          "start_year": 2021,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Светлана Валерьевна Филатова for MRKZ as член правления, заместитель генерального директора по развитию и реализации услуг."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"Россети Северо-Запад\" за 2024 год",
+          "fact": "Страница 297: отчет раскрывает образование Филатовой, ее должность и членство в Правлении; страницы 287 и 297 указывают участие в комитетах/органах управления."
+        },
+        {
+          "url": "https://www.mrsksevzap.ru/about/controldepartments/rule/",
+          "title": "Правление",
+          "fact": "Текущая официальная страница подтверждает Филатову как члена Правления; на текущей странице указано и.о. заместителя генерального директора по развитию и реализации услуг."
+        }
+      ],
+      "notes": "Научные данные не подтверждены."
+    },
+    {
+      "name": "Карина Андреевна Аганова",
+      "current_role": "Член Правления; заместитель генерального директора по развитию дополнительных услуг",
+      "company_name": "ПАО \"Россети Северо-Запад\"",
+      "education": [
+        {
+          "institution": "Балтийский институт экологии, политики и права",
+          "year": 1999,
+          "field": "юриспруденция",
+          "qualification": "бакалавр юриспруденции",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://ar2024rosseti-sz.ru/pdf/ar/ru/corporate-governance_executive-bodies.pdf"
+          ],
+          "qualification_degree": "Bachelor's degree"
+        },
+        {
+          "institution": "Санкт-Петербургский юридический институт (филиал) Университета прокуратуры Российской Федерации",
+          "year": 2000,
+          "field": "юриспруденция",
+          "qualification": "юрист",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Санкт-Петербургский государственный университет",
+          "year": 2009,
+          "field": "экономика и управление на предприятии",
+          "qualification": "экономист-менеджер",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+          "year": 2021,
+          "field": "Евроменеджмент - Мастер делового администрирования",
+          "qualification": "MBA",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "qualification_degree": "MBA"
+        },
+        {
+          "institution": "Московская школа управления «Сколково»",
+          "year": 2023,
+          "field": "Мастер делового администрирования",
+          "qualification": "Executive MBA",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://ar2024rosseti-sz.ru/pdf/ar/ru/corporate-governance_executive-bodies.pdf"
+          ],
+          "qualification_degree": "MBA"
+        },
+        {
+          "institution": "Национальный исследовательский университет «МЭИ»",
+          "year": 2024,
+          "field": "Электроэнергетические системы и сети",
+          "qualification": "работник в сфере электроэнергетики и электротехники",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://ar2024rosseti-sz.ru/pdf/ar/ru/corporate-governance_executive-bodies.pdf"
+          ],
+          "qualification_degree": "Professional certification"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"МРСК Северо-Запада\"",
+          "role": "Начальник департамента логистики и материально-технического обеспечения; и.о. заместителя генерального директора по капитальному строительству и инвестиционной деятельности",
+          "start_year": 2018,
+          "end_year": 2020,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"МРСК Северо-Запада\"",
+          "role": "Заместитель генерального директора по капитальному строительству и инвестиционной деятельности",
+          "start_year": 2020,
+          "end_year": 2021,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Северо-Запад\"",
+          "role": "Член Правления",
+          "start_year": 2021,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://www.mrsksevzap.ru/about/controldepartments/rule/",
+            "https://www.rosseti-sz.ru/about/governance/"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Северо-Запад\"",
+          "role": "Заместитель генерального директора по операционной деятельности; с 03.12.2024 заместитель генерального директора по развитию дополнительных услуг",
+          "start_year": 2021,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://www.rosseti-sz.ru/about/governance/"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Карина Андреевна Аганова for MRKZ as заместитель генерального директора по развитию дополнительных услуг, член правления."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"Россети Северо-Запад\" за 2024 год",
+          "fact": "Страницы 293-294: отчет раскрывает образование Агановой, должность, членство в Правлении и карьеру за последние пять лет."
+        },
+        {
+          "url": "https://www.mrsksevzap.ru/about/controldepartments/rule/",
+          "title": "Правление",
+          "fact": "Текущая официальная страница подтверждает Аганову как члена Правления и заместителя генерального директора по развитию дополнительных услуг."
+        }
+      ],
+      "notes": "Научные степени, публикации, патенты и h-index не подтверждены."
+    },
+    {
+      "name": "Анна Владимировна Изотова",
+      "current_role": "Член Правления; в 2024 году заместитель генерального директора по корпоративному управлению; текущая должность включает правовое обеспечение и корпоративное управление",
+      "company_name": "ПАО \"Россети Северо-Запад\"",
+      "education": [
+        {
+          "institution": "Российский государственный университет нефти и газа (национальный исследовательский университет) имени И.М. Губкина",
+          "year": 1999,
+          "field": "юриспруденция",
+          "qualification": "юрист",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://ar2024rosseti-sz.ru/pdf/ar/ru/corporate-governance_executive-bodies.pdf"
+          ],
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ООО \"РУСЭНЕРГОСБЫТ\"",
+          "role": "Заместитель генерального директора по правовым и корпоративным вопросам",
+          "start_year": 2015,
+          "end_year": 2021,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"МРСК Северо-Запада\"",
+          "role": "Советник департамента управления делами; и.о. генерального директора по корпоративному управлению",
+          "start_year": 2021,
+          "end_year": 2021,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Северо-Запад\"",
+          "role": "Заместитель генерального директора по корпоративному управлению; с 04.02.2025 заместитель генерального директора по правовому обеспечению и корпоративному управлению",
+          "start_year": 2021,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://www.rosseti-sz.ru/about/governance/",
+            "https://www.mrsksevzap.ru/about/controldepartments/rule/"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Северо-Запад\"",
+          "role": "Член Правления",
+          "start_year": 2021,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://www.mrsksevzap.ru/about/controldepartments/rule/"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "АО \"Янтарьэнергосбыт\"",
+          "role": "Член Совета директоров",
+          "start_year": 2022,
+          "end_year": 2024,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Анна Владимировна Изотова for MRKZ as заместитель генерального директора по правовому обеспечению и корпоративному управлению, член правления."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"Россети Северо-Запад\" за 2024 год",
+          "fact": "Страница 295: отчет раскрывает образование, карьеру и членство Изотовой в Правлении; правовое обеспечение в названии должности указано с 04.02.2025."
+        },
+        {
+          "url": "https://www.mrsksevzap.ru/about/controldepartments/rule/",
+          "title": "Правление",
+          "fact": "Текущая официальная страница подтверждает Изотову как члена Правления и заместителя генерального директора по правовому обеспечению и корпоративному управлению."
+        }
+      ],
+      "notes": "CSV отражает более позднюю формулировку должности; для 2024 года локальный отчет фиксирует должность по корпоративному управлению."
+    },
+    {
+      "name": "Сергей Владимирович Климов",
+      "current_role": "Член Правления; заместитель генерального директора по капитальному строительству и инвестиционной деятельности",
+      "company_name": "ПАО \"Россети Северо-Запад\"",
+      "education": [
+        {
+          "institution": "Санкт-Петербургский государственный университет аэрокосмического приборостроения",
+          "year": 2007,
+          "field": "вычислительные машины, комплексы, системы и сети",
+          "qualification": "инженер",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://ar2024rosseti-sz.ru/pdf/ar/ru/corporate-governance_executive-bodies.pdf"
+          ],
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"МРСК Северо-Запада\"",
+          "role": "Советник; заместитель генерального директора - директор Вологодского филиала",
+          "start_year": 2020,
+          "end_year": 2021,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Северо-Запад\"",
+          "role": "Помощник генерального директора",
+          "start_year": 2021,
+          "end_year": 2021,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://www.rosseti-sz.ru/about/governance/",
+            "https://www.mrsksevzap.ru/about/controldepartments/rule/"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Северо-Запад\"",
+          "role": "Заместитель генерального директора по капитальному строительству и инвестиционной деятельности",
+          "start_year": 2021,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://www.rosseti-sz.ru/about/governance/"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Северо-Запад\"",
+          "role": "Член Правления",
+          "start_year": 2022,
+          "end_year": null,
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+            "https://www.mrsksevzap.ru/about/controldepartments/rule/"
+          ],
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "АО \"Энергосервис Северо-Запада\", АО \"Янтарьэнергосервис\", АО \"ПСК\"",
+          "role": "Член или председатель советов директоров",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Годы различаются: АО \"Энергосервис Северо-Запада\" с 2022, АО \"Янтарьэнергосервис\" с 2023, АО \"ПСК\" председатель совета директоров с 2024.",
+          "sources": [
+            "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Сергей Владимирович Климов for MRKZ as заместитель генерального директора по капитальному строительству и инвестиционной деятельности, член правления."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"Россети Северо-Запад\" за 2024 год",
+          "fact": "Страница 296: отчет раскрывает образование Климова, должность, членство в Правлении и опыт."
+        },
+        {
+          "url": "https://www.mrsksevzap.ru/about/controldepartments/rule/",
+          "title": "Правление",
+          "fact": "Текущая официальная страница подтверждает Климова как члена Правления и заместителя генерального директора по капитальному строительству и инвестиционной деятельности."
+        }
+      ],
+      "notes": "Научные данные не подтверждены."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MRKZ/Пр.1 Годовой отчет за 2024 год.pdf",
+      "title": "Годовой отчет ПАО \"Россети Северо-Запад\" за 2024 год",
+      "fact": "Страницы 261-272: отчет раскрывает два состава Совета директоров в 2024 году и биографии членов действующего на 31.12.2024 состава; страницы 290-299 раскрывают генерального директора и Правление."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MRKZ/Приложения к ГО/Приложения к Годовому отчету за 2024 год.pdf",
+      "title": "Приложения к Годовому отчету ПАО \"Россети Северо-Запад\" за 2024 год",
+      "fact": "Проверены приложения к годовому отчету; биографические карточки не дублируют основной отчет, но приложение содержит контрольные сведения по корпоративному управлению и сделкам."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MRKZ/Rosseti SZ MCFO 2024.pdf",
+      "title": "Консолидированная финансовая отчетность ПАО \"Россети Северо-Запад\" по МСФО за 2024 год",
+      "fact": "Проверена финансовая отчетность; биографических совпадений по CSV-персонам не найдено."
+    },
+    {
+      "url": "https://ar2024rosseti-sz.ru/ru/corporate-governance/board-directors",
+      "title": "Годовой отчет 2024: Совет директоров",
+      "fact": "Официальная интернет-версия годового отчета подтверждает составы Совета директоров 2024 года и отсутствие Морозова и Торсунова в составе совета на 31.12.2024."
+    },
+    {
+      "url": "https://ar2024rosseti-sz.ru/ru/corporate-governance/executive-bodies",
+      "title": "Годовой отчет 2024: Исполнительные органы Общества",
+      "fact": "Официальная интернет-версия подтверждает смену генерального директора в 2024 году: Пидник до 29.11.2024, Ягодка и.о. с 30.11.2024 по 24.12.2024, Торсунов с 25.12.2024."
+    },
+    {
+      "url": "https://www.rosseti-sz.ru/about/controldepartments/directorsboardandcommittees/",
+      "title": "Совет директоров и Комитеты Совета директоров",
+      "fact": "Текущая официальная страница подтверждает текущий состав совета, совпадающий с CSV по Морозову и Торсунову; страница имеет более поздний временной контекст и не использована для переноса их членства в 2024 год."
+    },
+    {
+      "url": "https://www.mrsksevzap.ru/about/controldepartments/rule/",
+      "title": "Правление",
+      "fact": "Текущая официальная страница подтверждает текущие роли Торсунова, Ягодки, Филатовой, Агановой, Изотовой и Климова в Правлении."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ar2024rosseti-sz.ru/ru/corporate-governance/board-directors",
+      "title": "Годовой отчет 2024: Совет директоров",
+      "fact": "Использован для проверки состава и биографий членов Совета директоров в контексте 2024 года."
+    },
+    {
+      "url": "https://ar2024rosseti-sz.ru/pdf/ar/ru/corporate-governance_executive-bodies.pdf",
+      "title": "Годовой отчет 2024: Исполнительные органы Общества (PDF)",
+      "fact": "Использован для проверки биографий генерального директора и членов Правления, включая образование и пятилетний опыт."
+    },
+    {
+      "url": "https://www.rosseti-sz.ru/about/governance/",
+      "title": "Руководство",
+      "fact": "Текущая официальная страница использована как дополнительное подтверждение текущих исполнительных ролей; более поздние формулировки не перенесены в 2024 без оговорки."
+    },
+    {
+      "url": "https://www.mrsksevzap.ru/press/news/newsrossetisz/news91606.html",
+      "title": "Состоялось годовое заседание Общего собрания акционеров ПАО \"Россети Северо-Запад\"",
+      "fact": "Официальная новость 2026 года использована только для объяснения, почему CSV включает Морозова и Торсунова в состав Совета директоров, хотя годовой отчет 2024 их там не показывает."
+    }
+  ],
+  "new_institutions_found": [
+    {
+      "raw_string": "Вятский государственный технический университет",
+      "candidate_canonical_name": "Вятский государственный университет",
+      "reasoning": "Web research (duckduckgo/html summary of vyatsu.ru \"важные даты\" page and academic.ru) confirms Вятский государственный технический университет (ВятГТУ) was renamed Вятский государственный университет (ВятГУ) in 2001, contemporaneous with this person's 2001 graduation; the renamed institution later absorbed Вятский государственный гуманитарный университет in a further 2016 merger under the same ВятГУ name. Not present under any alias in university_names.json. The 2001 education record's institution field has been normalized directly to the successor name per project convention (see analogous predecessor-institution treatment for the SZTU/Gorny University case below); this raw_string is retained here only as the historical name for the registry synthesis pass."
+    },
+    {
+      "raw_string": "Вятский государственный университет",
+      "candidate_canonical_name": "Вятский государственный университет",
+      "reasoning": "Current official name of the same institution (see ВятГТУ entry above for the 2001 rename and 2016 further merger with ВятГГУ); the bare raw string is not yet listed as an alias in university_names.json even though it is already the correct current name, so it is logged for the synthesis pass to add as an alias/canonical entry."
+    },
+    {
+      "raw_string": "Harvard Law School",
+      "candidate_canonical_name": "Harvard Law School",
+      "reasoning": "Foreign (US) institution, not a Russian university and not yet present in university_names.json; the raw string is already the correct official English name, no normalization needed beyond adding it to the registry."
+    },
+    {
+      "raw_string": "Московский государственный университет имени М. В. Ломоносова",
+      "candidate_canonical_name": "Московский государственный университет имени М.В. Ломоносова",
+      "reasoning": "Cosmetic-only difference from the canonical key: raw string has a space between the \"М.\" and \"В.\" initials (\"имени М. В. Ломоносова\") while the canonical key uses no space (\"имени М.В. Ломоносова\"); this exact spaced-initials + full \"имени\" combination is not literally present as an alias, so logged per the project's exact-string-match convention even though the identification itself is unambiguous. All three occurrences of this raw string in this ticker (Пикин x2, Федоров x1) have been normalized directly to the no-space canonical form as a cosmetic-typo correction, consistent with this exact gap's prior resolution in the git-committed baseline for this ticker."
+    },
+    {
+      "raw_string": "Северо-Западный государственный технический университет",
+      "candidate_canonical_name": "Санкт-Петербургский горный университет императрицы Екатерины II",
+      "reasoning": "Web research (Wikipedia summary) confirms Северо-Западный государственный технический университет (formerly Северо-Западный государственный заочный технический университет, СЗТУ) ceased independent existence on 16 September 2011 (Приказ Минобрнауки № 2305), when it was merged into Санкт-Петербургский государственный горный университет; that university was itself renamed Санкт-Петербургский горный университет императрицы Екатерины II by presidential decree on 24 May 2023, used as the current-successor candidate name. This person's 2003 education predates the 2011 merger by 8 years; the education record's institution field has been normalized to the successor per project convention (see analogous predecessor-institution entries already logged for MRKC), while this raw historical name and the merger history are documented here for the registry synthesis pass."
+    },
+    {
+      "raw_string": "Балтийский институт экологии, политики и права",
+      "candidate_canonical_name": "Балтийский институт экологии, политики и права",
+      "reasoning": "Web research (duckduckgo/html summary) confirms this private St. Petersburg institution (БИЭПП, founded 1993 by Е.Д. Рейфе, Vasileostrovsky Island) is still active under this same name and has not been renamed or merged; the raw string is already its correct current official short name and is logged only because it is not yet present in university_names.json."
+    },
+    {
+      "raw_string": "Санкт-Петербургский юридический институт Генеральной прокуратуры Российской Федерации",
+      "candidate_canonical_name": "Санкт-Петербургский юридический институт (филиал) Университета прокуратуры Российской Федерации",
+      "reasoning": "Web research (Wikipedia summary) confirms this institute was merged in 2007 into the Академия Генеральной прокуратуры Российской Федерации, which was itself renamed Университет прокуратуры Российской Федерации in 2018, with the St. Petersburg institute continuing as one of its branches (филиал) under the name used as the candidate here. Affects Аганова (2000, predates both reorganizations); institution field normalized to the successor per project convention."
+    },
+    {
+      "raw_string": "НИУ \"МЭИ\"",
+      "candidate_canonical_name": "Национальный исследовательский университет «МЭИ»",
+      "reasoning": "Abbreviation form combining \"НИУ\" with quoted \"МЭИ\" that is not literally listed as an alias (university_names.json lists the bare \"МЭИ\" and the full \"Национальный исследовательский университет «МЭИ»\" but not this specific \"НИУ \\\"МЭИ\\\"\" combination); unambiguous identification, same institution as the already-normalized Московский энергетический институт entry for this ticker (Корнеев). Institution field normalized directly for Аганова."
+    },
+    {
+      "raw_string": "Российский государственный университет нефти и газа имени И. М. Губкина",
+      "candidate_canonical_name": "Российский государственный университет нефти и газа (национальный исследовательский университет) имени И.М. Губкина",
+      "reasoning": "Raw string omits the \"(национальный исследовательский университет)\" middle segment present in every listed alias of the canonical key (e.g. \"РГУ нефти и газа им. И.М. Губкина\"); unambiguous single institution (Губкинский университет), logged per the project's exact-string-match convention. Institution field normalized directly for Изотова."
+    },
+    {
+      "raw_string": "Санкт-Петербургский государственный университет аэрокосмического приборостроения",
+      "candidate_canonical_name": "Санкт-Петербургский государственный университет аэрокосмического приборостроения",
+      "reasoning": "Web research (duckduckgo/html search-result summary) found no evidence of renaming or merger for this institution (ГУАП); it still operates under this same official name. Not present under any alias in university_names.json, logged as a genuinely new entry with no change to the raw string (Климов)."
+    },
+    {
+      "raw_string": "Санкт-Петербургский государственный университет технологии и дизайна",
+      "candidate_canonical_name": "Санкт-Петербургский государственный университет технологии и дизайна",
+      "reasoning": "Institution hosting Тихонова М.Г.'s кандидат экономических наук dissertation defense (2010, per mydisser.com), added to degrees[0].institution as part of the round-2 gap-fill for the previously-null degree institution/year. Not present under any alias in university_names.json; web research found no evidence of a rename or merger for this institution, so the raw string is kept as-is."
+    }
+  ],
+  "validation_notes": "Обработано 16 человек из CSV MRKZ: 1 помещен в ceo (Торсунов), 15 помещены в tmt. Проверено 3 локальных документа: годовой отчет, приложения к годовому отчету и МСФО; биографические факты найдены в годовом отчете, приложения и МСФО биографии не содержат. Выполнен 1 research round для каждого человека; дополнительные поисковые проходы не дали источников выше качества, чем официальный годовой отчет и текущие официальные страницы. Для Морозова есть существенная временная неопределенность: CSV и текущие официальные страницы подтверждают его как члена совета в более позднем составе, но годовой отчет 2024 не включает его в совет директоров на 31.12.2024. Для Торсунова подтверждено, что он генеральный директор с 25.12.2024; членство в совете директоров относится к более позднему периоду (текущая страница указывает первое избрание 19.06.2025). Для Изотовой CSV содержит более позднюю формулировку должности с правовым обеспечением; в годовом отчете 2024 указано корпоративное управление, а изменение формулировки указано с 04.02.2025. Образование не найдено только сверх уже раскрытого официальными биографиями; по всем 16 персонам минимум одно подтвержденное образование найдено. Слабые источники в фактических полях не использовались; поисковые сниппеты и страницы с однофамильцами не включены. Исключены однофамильцы без связки с ПАО \"Россети Северо-Запад\", ПАО \"Россети\", Ассоциацией профессиональных инвесторов, профильными работодателями или совпадающими ролями; особенно для Олега/Вячеслава Торсуновых и распространенных имен Морозов, Климов, Федоров. Публикации, патенты и h-index не добавлены, потому что научные профили нужных людей надежно не подтверждены. || Round 2 (2026-07-19, gap-fill + GICS/qualification/university-normalization pass): (1) Gap-fill research (local filings first, then web): Морозов А.В. -- заполнен start_year=2019 для роли \"Член Совета директоров\" ПАО \"Россети Северо-Запад\" на основании прямого указания официальной страницы rosseti-sz.ru на дату первого избрания (14.06.2019); локальный годовой отчет 2024 и приложения к нему повторно проверены программно (PyMuPDF, полнотекстовый поиск по 358 и 364 страницам) -- фамилия \"Морозов\" по-прежнему не встречается ни разу, конфликт между источниками сохранен как есть, end_year не заполнен. Тихонова М.Г. -- заполнены institution и year (Санкт-Петербургский государственный университет технологии и дизайна, 2010) для кандидатской степени на основании mydisser.com; тема диссертации согласуется с профессиональной областью. Проверены (и отклонены как недостаточно идентифицированные) диссертационные лиды с совпадающим ФИО для Полинова А.А. (тема не согласуется с карьерой) и общие упоминания публикационных профилей без конкретных данных для Харитонова В.В.; h-index и публикации для всех 16 персон остаются null -- ни для одного человека не найдено достаточно надежного и специфичного научного профиля, а подавляющее большинство являются корпоративными руководителями/директорами без академической деятельности, что делает отсутствие h-index ожидаемым, а не пробелом данных. (2) GICS-классификация: добавлены company-level sector/industry_group/industry (Utilities/Utilities/Electric Utilities, скопировано из gics_taxonomy.json) и такие же три поля для каждой записи professional_experience каждого человека. Записи с одной организацией или тем же юрлицом под разными историческими названиями (например, \"ПАО «ФСК - Россети» / ПАО «Россети»\") классифицированы по их собственному профилю деятельности, а не по материнской компании: электросетевые и энергосбытовые организации (в т.ч. АО \"Псковэнергоагент\", АО \"Янтарьэнергосбыт\", ООО \"РУСЭНЕРГОСБЫТ\") -- Utilities/Utilities/Electric Utilities, по прямому прецеденту тех же ярлыков для аналогичных \"...энергосбыт\"-организаций в других уже обработанных тикерах группы Россети (DVEC, ELFV, HYDR, MRKU); ООО \"НТЦ Энергофонд\" (консалтингово-исследовательская организация Пикина С.С. в энергетике) и АО \"НТЦ ФСК ЕЭС\" (научно-технический центр, R&D/испытания/стандарты для электросетевого комплекса) классифицированы как Industrials/Commercial & Professional Services/Professional Services, поскольку их собственная деятельность -- исследования, консалтинг и инжиниринговые услуги, а не эксплуатация сетей. Государственные органы и министерства (Правительство РФ, Департамент ЖКХ Москвы), государственный фонд (Фонд капремонта Москвы) и некоммерческие профессиональные/отраслевые ассоциации (Ассоциация профессиональных инвесторов, СРО Национальная ассоциация корпоративных директоров, НП \"Российский институт директоров\", Ассоциация \"Российский национальный комитет СИГРЭ\") оставлены null/null/null как не классифицируемые по GICS коммерческие организации. Записи, объединяющие несколько разных юрлиц в одну строку без возможности выбрать единый профиль (АО \"ФИЦ\" и АО \"НИЦ ЕЭС\" у Харитонова -- по прямому прецеденту идентичной записи в FEES_person_info.json; сводные списки советов директоров у Торсунова, Шевчука и Климова), также оставлены null/null/null с пояснением в этой записи -- ни одна другая по-настоящему неопределенная организация не классифицирована наугад. (3) qualification_degree добавлен для каждой записи education[] и degrees[] всех 16 человек, строго из разрешенного списка 10 значений: пятилетние программы с квалификациями \"инженер\", \"юрист\", \"экономист\", \"экономист-менеджер\", \"менеджер-экономист\", \"математик\", \"инженер-электрик\" (все получены до широкого перехода на бакалавриат в соответствующих специальностях) -> Specialist degree, по прямому прецеденту тех же соответствий в десятках уже обработанных тикеров (включая сестринские компании группы Россети MRKC/MRKP/MRKU и FEES); \"специалитет\" (Тихонова) -> Specialist degree, явное соответствие термину, впервые применяемое в проекте для этого точного значения qualification; \"бакалавр\"/\"бакалавр экономики\"/\"бакалавр юриспруденции\" -> Bachelor's degree; \"магистр\"/\"магистр экономики\"/\"магистр техники и технологии\"/\"магистр психологии\"/LLM -> Master's degree; \"MBA\" и \"Executive MBA\" -> MBA (не Executive education), по прямому прецеденту тех же соответствий как минимум в 6 других тикерах (AQUA, AFKS, GLTR, MAGN и др.), где Executive MBA стабильно маппится на MBA; \"профессиональная переподготовка\" -> Professional certification, по прецеденту MRKC/MRKP/MRKU (3 из 4 предыдущих случаев в проекте, MRKU также явно для этой же формулировки), кроме одного расходящегося прецедента (DVEC -> Executive education), который не использован как менее релевантный (не из группы Россети); \"кандидат экономических/технических наук\" -> Doctoral degree, по прецеденту 40+ предыдущих случаев в проекте, включая FEES. (4) Нормализация institution к канонической форме по university_names.json: сопоставление выполнено строгим посимвольным совпадением строки со списком алиасов (без нечеткой нормализации регистра/пунктуации), в соответствии с прецедентом проекта (FEES/MRKC логировали как новые даже тривиальные варианты написания уже известных институтов). 9 из 23 уникальных строк institution совпали точно и заменены на каноническую форму без дополнительного лога; 14 уникальных строк не найдены дословно в реестре и добавлены в new_institutions_found этого тикера с обоснованием и веб-исследованием истории переименований/слияний, где это было возможно (подробности в каждой записи new_institutions_found). Раздел company_ticker/company_name и все ранее подтвержденные факты (образование, карьера, источники) сохранены без удаления и без перезаписи; изменены только institution (нормализация) и добавлены новые поля (qualification_degree, sector/industry_group/industry, new_institutions_found) плюс точечные gap-fill правки, перечисленные выше. MASS DATA-LOSS REPAIR (2026-07-30): restored 4 shortened person notes, 1 shortened experience descriptions, 0 shortened education descriptions, 1 missing person-level sources, and 10 missing experience-level sources using git HEAD (commit 03bfe9f, 2026-07-20) as the reliable baseline. Nothing else in this file was touched. || QUALITY PASS ROUND 1 (2026-07-30): Step 0 check found the prior MASS DATA-LOSS REPAIR (same date) had itself missed a large, separate class of regressions relative to the git-committed 03bfe9f baseline -- not notes/descriptions/citations, but institution-normalization and two structured-fact fields: (a) 16 education/degree \"institution\" values across 13 people had silently reverted from their round-2-confirmed canonical/successor forms back to raw pre-normalization strings (e.g. CEO Торсунов's МГЮА, Алешин/Тихонова's РАНХиГС, Вычегжанин's Вятский государственный университет, Пикин/Федоров's МГУ spacing fix, and 8 others -- full list in quality_pass_round1_20260730.md); (b) Тихонова's degrees[0] (кандидат экономических наук institution=Санкт-Петербургский государственный университет технологии и дизайна, year=2010, description, mydisser.com source) had been wiped back to bare degree+2 sources with no institution/year; (c) Морозов's professional_experience[1] (\"Член Совета директоров\") start_year had reverted from the round-2-confirmed 2019 back to null, and 2 of that entry's 7 person-level sources documenting this fact had been dropped; (d) the entire top-level new_institutions_found array (present in the 03bfe9f baseline with 15 entries) was missing outright. All of (a)-(d) restored/merged this round using 03bfe9f as ground truth; where the current university_names.json registry has since been updated with new aliases (Нижегородский ГТУ bare form, Волго-Вятская академия, Высшая школа экономики bare form, Московская школа управления СКОЛКОВО all-caps form -- 4 of the original 15 new_institutions_found entries), the institution field was normalized directly instead of re-logging a now-stale gap, leaving 11 genuinely still-unmatched entries in new_institutions_found. One additional simple omission beyond the baseline diff: Тихонова's second education entry (\"Академия народного хозяйства при Правительстве Российской Федерации\", 2005) was also an exact-match RANEPA alias per round 2's own notes but had never been applied even in the 03bfe9f baseline; normalized this round. GICS labels: reviewed every professional_experience entry with a non-null triple against gics_taxonomy.json and the named organization's real business (government bodies, non-profits and heterogeneous multi-entity bundles correctly left null; Electric Utilities entries verified as genuine electric-grid/retail companies; the two Professional-Services entries -- ООО \"НТЦ Энергофонд\", АО \"НТЦ ФСК ЕЭС\" -- verified as R&D/consulting/engineering-services entities, correctly not Electric Utilities despite their sector-adjacent clients); no mislabeled GICS triple found, no changes made. Genuine inconsistency (category 1b) revisited: Морозов's board-membership timeline conflict (official page claims unbroken membership since 14.06.2019; 2024 annual report and its appendices, both re-scanned programmatically across their full page counts, contain zero mentions of his surname) was already investigated with additional targeted research in round 2 and correctly left as a documented, unresolved conflict (start_year=2019 kept per the higher-specificity dated source, end_year left null, no interruption/re-election date invented) -- this round only restored the previously-lost start_year value and its supporting source entries, no new resolution was attempted or claimed. Honest-gap follow-up (bounded, one attempt each, fresh queries not previously tried): Полинов А.А. (degree institution/year for кандидат экономических наук) and Харитонов В.В. (degree institution/year for кандидат технических наук, plus publications/h-index) -- both still unresolved, fresh search queries found nothing new (see round file for exact queries); Тихонова М.Г. (publications/h-index beyond the already-confirmed dissertation) -- found a raexpert.ru profile page confirming the same person (ФСК ЕЭС deputy chairman match) with 4 press interviews (2014-2017), assessed as media commentary rather than citable academic publications and NOT added to publications/h_index, which remain null. See research_notes/MRKZ/quality_pass_round1_20260730.md for full detail.",
+  "sector": "Utilities",
+  "industry_group": "Utilities",
+  "industry": "Electric Utilities"
+}

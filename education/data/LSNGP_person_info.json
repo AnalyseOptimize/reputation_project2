@@ -1,0 +1,1187 @@
+{
+  "company_name": "ПАО \"Россети Ленэнерго\"",
+  "company_ticker": "LSNGP",
+  "sector": "Utilities",
+  "industry_group": "Utilities",
+  "industry": "Electric Utilities",
+  "ceo": {
+    "name": "Кузьмин Игорь Анатольевич",
+    "current_role": "Генеральный директор ПАО \"Россети Ленэнерго\"; Председатель Правления; член Совета директоров в контексте 2024 года",
+    "company_name": "ПАО \"Россети Ленэнерго\"",
+    "education": [
+      {
+        "institution": "Курганский государственный университет",
+        "year": 1997,
+        "field": "автоматизация технологических процессов и производств",
+        "qualification": "инженер",
+        "qualification_degree": "Specialist degree",
+        "description": "1997, Курганский государственный университет, специальность \"автоматизация технологических процессов и производств\", квалификация \"инженер\". qualification_degree=Specialist degree: явно указана квалификация инженер, стандартное обозначение диплома специалиста в РФ/СССР (5-летняя программа)."
+      },
+      {
+        "institution": "Санкт-Петербургская академия управления и экономики",
+        "year": 2011,
+        "field": "Президентская программа подготовки управленческих кадров для организаций народного хозяйства Российской Федерации",
+        "qualification": "Менеджер высшей квалификации",
+        "qualification_degree": "Executive education",
+        "description": "2011, Санкт-Петербургская академия управления и экономики, Президентская программа подготовки управленческих кадров для организаций народного хозяйства Российской Федерации, программа \"Менеджер высшей квалификации\". qualification_degree=Executive education: президентская программа подготовки управленческих кадров -- государственная программа повышения квалификации для действующих руководителей, не программа высшего образования уровня бакалавр/магистр."
+      },
+      {
+        "institution": "Санкт-Петербургский государственный университет",
+        "year": 2015,
+        "field": "профессиональная переподготовка",
+        "qualification": "Мастер делового администрирования - Master of Business Administration",
+        "qualification_degree": "MBA",
+        "description": "2015, Санкт-Петербургский государственный университет, профессиональная переподготовка с дополнительной квалификацией \"Мастер делового администрирования - Master of Business Administration\". qualification_degree=MBA: прямое указание квалификации MBA в первоисточнике."
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "ПАО \"Россети Ленэнерго\"",
+        "role": "Первый заместитель Генерального директора - главный инженер",
+        "start_year": 2017,
+        "end_year": 2021,
+        "description": "Годовой отчет указывает участие в Правлении с 2019 года, включая исполнение обязанностей Председателя Правления.",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Electric Utilities"
+      },
+      {
+        "organization": "ПАО \"Россети Ленэнерго\"",
+        "role": "Председатель Правления; член Правления",
+        "start_year": 2019,
+        "end_year": null,
+        "description": "Годовой отчет указывает участие в Правлении с 2019 года, включая исполнение обязанностей Председателя Правления.",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Electric Utilities"
+      },
+      {
+        "organization": "ПАО \"Россети Ленэнерго\"",
+        "role": "Генеральный директор; ранее исполняющий обязанности Генерального директора",
+        "start_year": 2021,
+        "end_year": null,
+        "description": "В 2024 году избран Генеральным директором с 24.12.2024; ранее занимал должность по решениям Совета директоров 2021 года.",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Electric Utilities"
+      },
+      {
+        "organization": "ПАО \"Россети Ленэнерго\"",
+        "role": "Член Совета директоров",
+        "start_year": 2021,
+        "end_year": null,
+        "description": "Состав Совета директоров на 31.12.2024 включает Кузьмина И.А.",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Electric Utilities"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "CSV contains Кузьмин Игорь Анатольевич for ticker LSNGP as \"Генеральный директор, Член СД\"."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/LSNG/Годовой отчет ПАО Россети Ленэнерго за 2024 год.pdf",
+        "title": "Годовой отчет ПАО \"Россети Ленэнерго\" за 2024 год",
+        "fact": "Страницы 238, 269-274: документ указывает год рождения 1975, образование, опыт работы с 2017 года в ПАО \"Россети Ленэнерго\", членство в Совете директоров, Правлении и избрание Генеральным директором с 24.12.2024."
+      },
+      {
+        "url": "https://rosseti-lenenergo.ru/about/own/Klyuchevoy_menedjment/",
+        "title": "Ключевой менеджмент - Россети Ленэнерго",
+        "fact": "Официальная страница компании подтверждает роль Кузьмина И.А. как Генерального директора и профиль образования."
+      },
+      {
+        "url": "https://rosseti-lenenergo.ru/press/lenenergo/131180.html",
+        "title": "Игорь Кузьмин назначен генеральным директором ПАО \"Россети Ленэнерго\"",
+        "fact": "Сообщение компании подтверждает назначение Кузьмина И.А. на пост Генерального директора."
+      }
+    ],
+    "notes": "Научные публикации, патенты и h-index по нужному лицу не подтверждены. Поиск выявил однофамильца Игоря Анатольевича Кузьмина в рыбоводческой тематике; он не связан с ПАО \"Россети Ленэнерго\" и исключен. || Round 2 (2026-07-19) gap-fill: Added company-level GICS tags (Utilities / Utilities / Electric Utilities) and the same triple to all 4 professional_experience entries (all ПАО \"Россети Ленэнерго\", a regulated electric distribution grid operator). Added qualification_degree to all 3 education entries: Specialist degree for the 1997 Kurgan State University engineering diploma (source explicitly states kvalifikatsiya inzhener); Executive education for the 2011 Presidential managerial-training programme at the St. Petersburg Academy of Management and Economics (a continuing-education programme for practicing managers, not a bachelor's/master's programme); MBA for the 2015 SPbSU professional-retraining record (source explicitly names the MBA qualification). Institution names (Kurgan State University; St. Petersburg Academy of Management and Economics; St. Petersburg State University) already matched university_names.json exactly, no normalization change needed, no new institution logged. No new web research was needed for this person -- round 1 had already fully confirmed the education text with a solid primary source (2024 annual report), and degrees=[] reflects a round-1 confirmed absence, not a gap."
+  },
+  "tmt": [
+    {
+      "name": "Рюмин Андрей Валерьевич",
+      "current_role": "Член Совета директоров ПАО \"Россети Ленэнерго\"; Генеральный директор, Председатель Правления ПАО \"Россети\"",
+      "company_name": "ПАО \"Россети Ленэнерго\"",
+      "education": [
+        {
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "year": 2002,
+          "field": "Математика. Прикладная математика",
+          "qualification": null,
+          "qualification_degree": "Specialist degree",
+          "description": "2002, Московский государственный университет им. М.В. Ломоносова, специальность \"Математика. Прикладная математика\". Institution name normalized to canonical form per university_names.json (raw source string: \"Московский государственный университет им. М.В. Ломоносова\"; canonical: \"Московский государственный университет имени М.В. Ломоносова\"). qualification_degree=Specialist degree: механико-математическая/математическая программа МГУ образца 2002 года (до широкого распространения болонской системы в РФ) выдавала диплом специалиста; согласуется с уже установленным выводом для этого же человека в тикере FEES (round 2 gap-fill)."
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат экономических наук",
+          "institution": "Институт проблем рынка Российской академии наук",
+          "year": 2004,
+          "qualification_degree": "Doctoral degree",
+          "description": "Кандидат экономических наук; 2004, Институт проблем рынка Российской академии наук. qualification_degree=Doctoral degree: степень кандидата наук в РФ соответствует исследовательской докторской степени по принятой в проекте конвенции (отдельного значения Candidate в списке нет); согласуется с записью для этого же человека в тикере FEES."
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Россети Ленэнерго\"",
+          "role": "Генеральный директор; Председатель Правления",
+          "start_year": 2018,
+          "end_year": 2021,
+          "description": "Годовой отчет ПАО \"Россети Ленэнерго\" за 2024 год и биография ПАО \"Россети\" указывают этот опыт.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Российские сети\"",
+          "role": "Генеральный директор; Председатель Правления; ранее и.о.",
+          "start_year": 2021,
+          "end_year": 2023,
+          "description": "Опыт раскрыт в годовом отчете и официальной биографии ПАО \"Россети\".",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Федеральная сетевая компания - Россети\" / ПАО \"Россети\"",
+          "role": "Генеральный директор; Председатель Правления",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Основное место работы на 31.12.2024 в годовом отчете ПАО \"Россети Ленэнерго\".",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Ленэнерго\"",
+          "role": "Член Совета директоров",
+          "start_year": 2018,
+          "end_year": null,
+          "description": "Впервые избран в Совет директоров 05.02.2018; включен в состав на 31.12.2024.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "Институт проблем рынка Российской академии наук",
+          "role": "соискатель / автор кандидатской диссертации",
+          "start_year": null,
+          "end_year": 2004,
+          "description": "Кандидатская диссертация по экономике подтверждена официальной биографией и авторефератом Института проблем рынка РАН."
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Рюмин Андрей Валерьевич for ticker LSNGP as \"Член СД\"."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/LSNG/Годовой отчет ПАО Россети Ленэнерго за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"Россети Ленэнерго\" за 2024 год",
+          "fact": "Страницы 231-232: Рюмин А.В. включен в Совет директоров на 31.12.2024; указаны образование, степень кандидата экономических наук и опыт работы."
+        },
+        {
+          "url": "https://www.rosseti.ru/company/corporate-governance/general-manager/",
+          "title": "Рюмин Андрей Валерьевич - ПАО \"Россети\"",
+          "fact": "Официальная страница ПАО \"Россети\" подтверждает должность Генерального директора и карьеру, включая ПАО \"Россети Ленэнерго\"."
+        },
+        {
+          "url": "https://www.ipr-ras.ru/old_site/authoref/aut-ryum.pdf",
+          "title": "Автореферат диссертации Рюмина А.В.",
+          "fact": "Автореферат Института проблем рынка РАН подтверждает диссертационный контекст по кандидатской степени."
+        }
+      ],
+      "notes": "Публикационный профиль и h-index не подтверждены. || Round 2 (2026-07-19) gap-fill: Added GICS tags (Utilities / Utilities / Electric Utilities) to all 4 professional_experience entries (ПАО \"Россети Ленэнерго\", ПАО \"Российские сети\", ПАО \"Федеральная сетевая компания - Россети\" / ПАО \"Россети\") -- this person is the same individual already gap-filled in round 2 of the FEES ticker (where he is CEO), and the qualification_degree/institution-normalization conclusions here reuse that already-verified reasoning for consistency across tickers rather than re-researching from scratch: Specialist degree for the 2002 MSU mathematics/applied-mathematics education (pre-2003/Bologna 5-year programme), Doctoral degree for the 2004 kandidat ekonomicheskikh nauk from the Institute of Market Problems RAS. Normalized institution string \"МГУ им. М.В. Ломоносова\" -> canonical \"Московский государственный университет имени М.В. Ломоносова\"; the Institute of Market Problems RAS string was already an exact canonical match. No new institution logged. || Quality-pass round 1 (2026-07-30): simple-omission fix -- research_experience[0] was a plain string with organization/role/end_year not separated into fields, even though this is the same real individual already fully gap-filled in FEES round 2 (output/FEES_person_info.json), whose research_experience entry for this person already states organization=\"Институт проблем рынка Российской академии наук\", role=\"соискатель / автор кандидатской диссертации\", end_year=2004, sourced from the same autoreferat (https://www.ipr-ras.ru/old_site/authoref/aut-ryum.pdf) already cited in this person's own sources[] here. Converted to a structured object and populated with no new source invented."
+    },
+    {
+      "name": "Пикин Сергей Сергеевич",
+      "current_role": "Член Совета директоров ПАО \"Россети Ленэнерго\"; независимый директор; директор Фонда энергетического развития",
+      "company_name": "ПАО \"Россети Ленэнерго\"",
+      "education": [
+        {
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "year": 2003,
+          "field": "экономический факультет",
+          "qualification": null,
+          "qualification_degree": "Master's degree",
+          "description": "Официальный годовой отчет ПАО \"Россети Северо-Запад\" за 2024 год дополнительно раскрывает: 2001, МГУ им. М.В. Ломоносова, бакалавр экономики; 2003, магистр экономики. Institution name normalized to canonical form per university_names.json (raw source string: \"МГУ им. М.В. Ломоносова\"; canonical: \"Московский государственный университет имени М.В. Ломоносова\"). qualification_degree оставлено null на уровне этой записи: текст объединяет два разных уровня квалификации (бакалавриат 2001 года и магистратура 2003 года) в одном предложении, единое значение перечисления исказило бы один из двух фактов; магистерский уровень 2003 года уже отмечен в предыдущей записи (тот же вуз, тот же год)."
+        },
+        {
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "year": null,
+          "field": "бакалавр экономики (2001); магистр экономики (2003)",
+          "qualification": null,
+          "qualification_degree": null,
+          "description": "Официальный годовой отчет ПАО \"Россети Северо-Запад\" за 2024 год дополнительно раскрывает: 2001, МГУ им. М.В. Ломоносова, бакалавр экономики; 2003, магистр экономики. Institution name normalized to canonical form per university_names.json (raw source string: \"МГУ им. М.В. Ломоносова\"; canonical: \"Московский государственный университет имени М.В. Ломоносова\"). qualification_degree оставлено null на уровне этой записи: текст объединяет два разных уровня квалификации (бакалавриат 2001 года и магистратура 2003 года) в одном предложении, единое значение перечисления исказило бы один из двух фактов; магистерский уровень 2003 года уже отмечен в предыдущей записи (тот же вуз, тот же год)."
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Фонд энергетического развития",
+          "role": "Директор по развитию; директор",
+          "start_year": 2007,
+          "end_year": null,
+          "description": "Опыт раскрыт в годовом отчете ПАО \"Россети Ленэнерго\" за 2024 год.",
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "ПАО \"Россети Ленэнерго\"",
+          "role": "Член Совета директоров; независимый директор",
+          "start_year": 2017,
+          "end_year": null,
+          "description": "Впервые избран 14.06.2017; признан независимым директором в 2024 году.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Северо-Запад\"",
+          "role": "Член Совета директоров; независимый директор",
+          "start_year": null,
+          "end_year": null,
+          "description": "Подтвержден официальным годовым отчетом ПАО \"Россети Северо-Запад\" за 2024 год.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Пикин Сергей Сергеевич for ticker LSNGP as \"Член СД\"."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/LSNG/Годовой отчет ПАО Россети Ленэнерго за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"Россети Ленэнерго\" за 2024 год",
+          "fact": "Страница 239: Пикин С.С. включен в Совет директоров, указан как директор Фонда энергетического развития; раскрыты образование и опыт с 2007 года."
+        },
+        {
+          "url": "https://ar2024rosseti-sz.ru/ru/corporate-governance/board-directors",
+          "title": "Совет директоров - Годовой отчет ПАО \"Россети Северо-Запад\" за 2024 год",
+          "fact": "Официальный отчет подтверждает год рождения, экономическое образование МГУ и статус Пикина С.С. как независимого директора."
+        }
+      ],
+      "notes": "Научные степени, публикации, патенты и h-index не подтверждены. || Round 2 (2026-07-19) gap-fill: Targeted this round: the professional_experience organization \"Фонд энергетического развития\" had no GICS classification and was not a government body, so a quick check was performed (WebFetch, energofond.ru and corroborating snippets) confirming it is an independent expert/analytical and consulting organization for the energy sector (forecasting and engineering-adjacent studies for the electricity industry, led by Пикин С.С. since 2007) rather than an operating energy company -- classified as Industrials / Commercial & Professional Services / Professional Services, the closest supportable GICS bucket for a consulting/analytical entity. Added Electric Utilities to the ПАО \"Россети Ленэнерго\" and ПАО \"Россети Северо-Запад\" professional_experience entries. Normalized \"МГУ им. М.В. Ломоносова\" -> canonical \"Московский государственный университет имени М.В. Ломоносова\" in both education entries. Added qualification_degree: Master's degree on education[0] (2003, MSU economics faculty), cross-validated by education[1]'s explicit statement that the 2003 MSU record corresponds to a magistr ekonomiki; education[1] itself combines two distinct qualification levels (bachelor's 2001 and master's 2003) in one sentence from the Rosseti Severo-Zapad AR2024 disclosure, so its own qualification_degree is left null rather than picking one level and misrepresenting the other -- the master's-level fact for 2003 is already tagged on education[0]. No new institution logged."
+    },
+    {
+      "name": "Мольский Алексей Валерьевич",
+      "current_role": "Член Совета директоров ПАО \"Россети Ленэнерго\"; Заместитель Генерального директора по инвестициям и капитальному строительству ПАО \"Россети\"",
+      "company_name": "ПАО \"Россети Ленэнерго\"",
+      "education": [
+        {
+          "institution": "Национальный исследовательский университет «МЭИ»",
+          "year": 2004,
+          "field": "электроэнергетические системы и сети; экономика и управление на предприятии электроэнергетики (две специальности одной программы)",
+          "qualification": null,
+          "qualification_degree": "Specialist degree",
+          "description": "2004, Московский энергетический институт, специальности \"электроэнергетические системы и сети\" и \"экономика и управление на предприятии электроэнергетики\". Institution name normalized to canonical form per university_names.json (raw source string: \"Московский энергетический институт\"; canonical: \"Национальный исследовательский университет «МЭИ»\"). qualification_degree=Specialist degree (предположено с высокой степенью уверенности): выпуск 2004 года по инженерно-технической программе МЭИ с двумя специальностями в рамках одного диплома типичен для 5-летней программы специалитета, преобладавшей в технических вузах РФ до широкого распространения болонской системы в середине 2000-х; согласуется с аналогичным выводом, применённым по проекту (например, FEES/GAZP) к записям сопоставимого периода."
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ФСК ЕЭС\" / ПАО \"Федеральная сетевая компания - Россети\"",
+          "role": "Заместитель Председателя Правления; Первый заместитель Председателя Правления; Заместитель Генерального директора по инвестициям и капитальному строительству",
+          "start_year": 2012,
+          "end_year": null,
+          "description": "Официальные отчеты ПАО \"Россети\" и ПАО \"Россети Ленэнерго\" раскрывают эти роли.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Российские сети\"",
+          "role": "Заместитель Генерального директора по инвестициям, капитальному строительству и реализации услуг; член Правления",
+          "start_year": 2020,
+          "end_year": 2023,
+          "description": "Раскрыто в годовом отчете ПАО \"Россети Ленэнерго\" за 2024 год.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Ленэнерго\"",
+          "role": "Член Совета директоров",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Впервые избран 30.05.2022; включен в состав на 31.12.2024.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Мольский Алексей Валерьевич for ticker LSNGP as \"Член СД\"."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/LSNG/Годовой отчет ПАО Россети Ленэнерго за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"Россети Ленэнерго\" за 2024 год",
+          "fact": "Страницы 235-236: Мольский А.В. включен в Совет директоров; раскрыты МЭИ-образование, должность в ПАО \"Россети\" и опыт работы."
+        },
+        {
+          "url": "https://ar23.rosseti.ru/ru/corporate-governance/executive-bodies/management-board",
+          "title": "Правление - Годовой отчет ПАО \"Россети\" за 2023 год",
+          "fact": "Официальный отчет ПАО \"Россети\" подтверждает образование МЭИ и руководящие роли Мольского А.В. в ФСК/Россети."
+        }
+      ],
+      "notes": "Отдельный научный профиль, публикации и h-index не подтверждены. || Round 2 (2026-07-19) gap-fill: Added Electric Utilities GICS tags to all 3 professional_experience entries (ФСК ЕЭС / Федеральная сетевая компания - Россети; Российские сети; Россети Ленэнерго -- all electricity transmission/distribution grid entities of the same corporate group). Normalized institution \"Московский энергетический институт\" -> canonical \"Национальный исследовательский университет «МЭИ»\". Added qualification_degree=Specialist degree (high-confidence inference) for the 2004 dual-specialty MPEI education record, reasoned from the standard 5-year pre-Bologna specialist-diploma pattern that prevailed at Russian technical universities through the mid-2000s, consistent with the same heuristic already applied project-wide (e.g. FEES/GAZP) to education records of comparable vintage. No new institution logged."
+    },
+    {
+      "name": "Ляпунов Евгений Викторович",
+      "current_role": "Член Совета директоров ПАО \"Россети Ленэнерго\"; Заместитель Генерального директора - главный инженер ПАО \"Россети\"",
+      "company_name": "ПАО \"Россети Ленэнерго\"",
+      "education": [
+        {
+          "institution": "Ивановский государственный энергетический университет имени В.И. Ленина",
+          "year": 2003,
+          "field": "Электроэнергетические системы и сети",
+          "qualification": "инженер-электрик",
+          "qualification_degree": "Specialist degree",
+          "description": "2003, Ивановский государственный энергетический университет, специальность \"Электроэнергетические системы и сети\", квалификация \"инженер-электрик\". Institution name normalized to canonical form per university_names.json (raw source string: \"Ивановский государственный энергетический университет\"; canonical: \"Ивановский государственный энергетический университет имени В.И. Ленина\"). qualification_degree=Specialist degree: явно указана квалификация инженер-электрик, стандартное обозначение диплома специалиста."
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Филиал ПАО \"ФСК ЕЭС\" МЭС Западной Сибири",
+          "role": "Генеральный директор",
+          "start_year": 2019,
+          "end_year": 2020,
+          "description": "Опыт раскрыт в годовом отчете ПАО \"Россети Ленэнерго\" за 2024 год.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "Филиал ПАО \"ФСК ЕЭС\" МЭС Центра",
+          "role": "Первый заместитель генерального директора",
+          "start_year": 2020,
+          "end_year": 2022,
+          "description": "Опыт раскрыт в годовом отчете ПАО \"Россети Ленэнерго\" за 2024 год.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"ФСК ЕЭС\" / ПАО \"Федеральная сетевая компания - Россети\"",
+          "role": "Советник первого заместителя генерального директора - главного инженера; Заместитель Генерального директора - главный инженер",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Официальные отчеты раскрывают переход к роли заместителя Генерального директора - главного инженера с 2022 года.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Ленэнерго\"",
+          "role": "Член Совета директоров",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Впервые избран 23.12.2022; включен в состав на 31.12.2024.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Ляпунов Евгений Викторович for ticker LSNGP as \"Член СД\"."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/LSNG/Годовой отчет ПАО Россети Ленэнерго за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"Россети Ленэнерго\" за 2024 год",
+          "fact": "Страницы 233-234: Ляпунов Е.В. включен в Совет директоров; указаны образование, должность в ПАО \"Россети\" и опыт работы."
+        },
+        {
+          "url": "https://ar23.rosseti.ru/ru/corporate-governance/executive-bodies/management-board",
+          "title": "Правление - Годовой отчет ПАО \"Россети\" за 2023 год",
+          "fact": "Официальный отчет ПАО \"Россети\" подтверждает образование в Ивановском государственном энергетическом университете и карьерные роли Ляпунова Е.В."
+        }
+      ],
+      "notes": "Научные степени, публикации и h-index не подтверждены. || Round 2 (2026-07-19) gap-fill: Added Electric Utilities GICS tags to all 4 professional_experience entries, including the two ФСК ЕЭС branch offices (МЭС Западной Сибири, МЭС Центра), which share the parent company's classification. Normalized institution \"Ивановский государственный энергетический университет\" -> canonical \"Ивановский государственный энергетический университет имени В.И. Ленина\". Added qualification_degree=Specialist degree, based on the source's explicit statement of kvalifikatsiya inzhener-elektrik. No new institution logged."
+    },
+    {
+      "name": "Полинов Алексей Александрович",
+      "current_role": "Член Совета директоров ПАО \"Россети Ленэнерго\"; Главный советник, Врио заместителя Генерального директора по стратегии ПАО \"Россети\"",
+      "company_name": "ПАО \"Россети Ленэнерго\"",
+      "education": [
+        {
+          "institution": "Национальный исследовательский Московский государственный строительный университет",
+          "year": 2000,
+          "field": "Экономика и управление на предприятии (в строительстве)",
+          "qualification": null,
+          "qualification_degree": "Specialist degree",
+          "description": "2000, Московский государственный строительный университет, специальность \"Экономика и управление на предприятии (в строительстве)\". Institution name normalized to canonical form per university_names.json (raw source string: \"Московский государственный строительный университет\"; canonical: \"Национальный исследовательский Московский государственный строительный университет\"). qualification_degree=Specialist degree (предположено с высокой степенью уверенности): выпуск 2000 года, типичная для того периода 5-летняя программа специалитета в техническом/экономико-строительном вузе РФ до широкого распространения болонской системы."
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат экономических наук",
+          "institution": null,
+          "year": 2004,
+          "qualification_degree": "Doctoral degree",
+          "description": "Кандидат экономических наук. Год (2004) добавлен из уже подтвержденного research_experience этого же человека (библиографический след автореферата Формирование экономического механизма регулирования незавершенного строительства на муниципальном уровне, 2004). Учреждение защиты диссертации не подтверждено: повторный запрос к электронному каталогу Национальной библиотеки Беларуси в этом раунде не вернул связанной записи (не найдены соответствующие документы); институт оставлен null per prefer-null-over-guess. qualification_degree=Doctoral degree по принятой в проекте конвенции (кандидат наук -> Doctoral degree)."
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Россети Ленэнерго\"",
+          "role": "Советник Генерального директора; заместитель Генерального директора по экономике и финансам; член Правления",
+          "start_year": 2018,
+          "end_year": null,
+          "description": "Годовой отчет раскрывает роли в ПАО \"Россети Ленэнерго\" с 2018-2019 годов.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Российские сети\"",
+          "role": "Врио заместителя Генерального директора по экономике и финансам; главный советник",
+          "start_year": 2021,
+          "end_year": 2023,
+          "description": "Раскрыто в годовом отчете ПАО \"Россети Ленэнерго\" за 2024 год и отчете ПАО \"Россети\".",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Федеральная сетевая компания - Россети\" / ПАО \"Россети\"",
+          "role": "Главный советник; заместитель Генерального директора по экономике и финансам; Врио заместителя Генерального директора по стратегии",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Основное место работы на 31.12.2024 указано в годовом отчете ПАО \"Россети Ленэнерго\".",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Ленэнерго\"",
+          "role": "Член Совета директоров",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Впервые избран 18.06.2021; включен в состав на 31.12.2024.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [
+        "Библиографические каталоги указывают автореферат кандидатской диссертации А.А. Полинова по экономике 2004 года."
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Полинов Алексей Александрович for ticker LSNGP as \"Член СД\"."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/LSNG/Годовой отчет ПАО Россети Ленэнерго за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"Россети Ленэнерго\" за 2024 год",
+          "fact": "Страницы 236-237 и 271-272: Полинов А.А. включен в Совет директоров и Правление; указаны образование, кандидатская степень и опыт."
+        },
+        {
+          "url": "https://ar23.rosseti.ru/ru/corporate-governance/executive-bodies/management-board",
+          "title": "Правление - Годовой отчет ПАО \"Россети\" за 2023 год",
+          "fact": "Официальный отчет ПАО \"Россети\" подтверждает образование, кандидатскую степень и карьерные роли Полинова А.А."
+        },
+        {
+          "url": "https://e-catalog.nlb.by/catalog/Search/Results?filter%5B%5D=language%3A%22rus%22&filter%5B%5D=topic_facet%3A%22%D0%9C%D0%A3%D0%9D%D0%86%D0%A6%D0%AB%D0%9F%D0%90%D0%9B%D0%AC%D0%9D%D0%AB%D0%AF+%D0%AE%D0%A2%D0%92%D0%90%D0%A0%D0%AD%D0%9D%D0%9D%D0%86%22&type=AllFields",
+          "title": "Электронный каталог Национальной библиотеки Беларуси",
+          "fact": "Каталог содержит запись автореферата: Полинов Алексей Александрович, \"Формирование экономического механизма регулирования незавершенного строительства на муниципальном уровне\", 2004."
+        }
+      ],
+      "notes": "Список научных публикаций и h-index не подтверждены; степень подтверждена отчетами и библиографическим следом автореферата. || Round 2 (2026-07-19) gap-fill: Added Electric Utilities GICS tags to all 4 professional_experience entries. Normalized institution \"Московский государственный строительный университет\" -> canonical \"Национальный исследовательский Московский государственный строительный университет\". Added qualification_degree=Specialist degree (high-confidence inference from the standard 5-year pre-Bologna programme pattern) for the 2000 MGSU education record. Targeted this round: the degrees[] entry (\"Кандидат экономических наук.\") was vague (no year, no institution) even though research_experience already confirms a 2004 dissertation-abstract bibliographic trace for this same degree -- propagated year=2004 into the degrees entry from that already-confirmed fact (no new date invented) and re-attempted to find the defending institution via the National Library of Belarus e-catalogue link already on file; the search returned no matching documents this round, so institution remains null per prefer-null-over-guess. qualification_degree=Doctoral degree per the project-wide kandidat-nauk convention. No new institution logged. || Quality-pass round 1 (2026-07-30): ran a bounded, fresh follow-up attempt on the dissertation-defense institution gap (degrees[0].institution=null), using sources not already tried in rounds 1-2. WebFetch on rusneb.ru (National Electronic Library) search returned HTTP 403 Forbidden; WebFetch on search.rsl.ru (Russian State Library) returned only a blank search-interface template with no records; WebSearch query (\"Полинов Алексей Александрович автореферат диссертация кандидат экономических наук диссертационный совет\") could not be executed because the session's WebSearch budget (200/200) was already exhausted; the WebFetch substitute (html.duckduckgo.com/html) returned only a CAPTCHA challenge page. No new source was reachable this round. degrees[0].institution remains null -- now unconfirmed across three independent research passes; year (2004, from the research_experience bibliographic trace) and qualification_degree (Doctoral degree) remain as already established."
+    },
+    {
+      "name": "Краинский Даниил Владимирович",
+      "current_role": "Член Совета директоров и член Правления ПАО \"Россети Ленэнерго\"; Заместитель Генерального директора по правовому обеспечению ПАО \"Россети\"",
+      "company_name": "ПАО \"Россети Ленэнерго\"",
+      "education": [
+        {
+          "institution": "Московский государственный юридический университет имени О.Е. Кутафина (МГЮА)",
+          "year": 2002,
+          "field": "юриспруденция",
+          "qualification": null,
+          "qualification_degree": "Specialist degree",
+          "description": "2002, Московская государственная юридическая академия, специальность \"юриспруденция\". Institution name normalized to canonical form per university_names.json (raw source string: \"Московская государственная юридическая академия\"; canonical: \"Московский государственный юридический университет имени О.Е. Кутафина (МГЮА)\"). qualification_degree=Specialist degree (предположено с высокой степенью уверенности): юридическая специальность в РФ в 2002 году повсеместно преподавалась по 5-летней программе специалитета с квалификацией юрист, программы бакалавриата/магистратуры по праву получили широкое распространение позже."
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Российские сети\"",
+          "role": "Советник; главный советник; заместитель Генерального директора по правовому обеспечению; член Правления",
+          "start_year": 2017,
+          "end_year": 2023,
+          "description": "Опыт раскрыт в годовом отчете ПАО \"Россети Ленэнерго\" за 2024 год и официальном отчете ПАО \"Россети\".",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Ленэнерго\"",
+          "role": "Советник Генерального директора; Заместитель Генерального директора по правовому и корпоративному управлению; член Правления; член Совета директоров",
+          "start_year": 2018,
+          "end_year": null,
+          "description": "Раскрыт в локальном годовом отчете; впервые избран в Совет директоров 05.02.2018.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Федеральная сетевая компания - Россети\" / ПАО \"Россети\"",
+          "role": "Заместитель Генерального директора по правовому обеспечению",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "Основное место работы на 31.12.2024.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Краинский Даниил Владимирович for ticker LSNGP as \"Член СД\"."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/LSNG/Годовой отчет ПАО Россети Ленэнерго за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"Россети Ленэнерго\" за 2024 год",
+          "fact": "Страницы 232-233 и 270-271: Краинский Д.В. включен в Совет директоров и Правление; указаны образование и опыт работы."
+        },
+        {
+          "url": "https://ar23.rosseti.ru/ru/corporate-governance/executive-bodies/management-board",
+          "title": "Правление - Годовой отчет ПАО \"Россети\" за 2023 год",
+          "fact": "Официальный отчет ПАО \"Россети\" подтверждает образование в Московской государственной юридической академии и карьерные роли."
+        }
+      ],
+      "notes": "Научные степени, публикации, патенты и h-index не подтверждены. || Round 2 (2026-07-19) gap-fill: Added Electric Utilities GICS tags to all 3 professional_experience entries. Normalized institution \"Московская государственная юридическая академия\" -> canonical \"Московский государственный юридический университет имени О.Е. Кутафина (МГЮА)\". Added qualification_degree=Specialist degree (high-confidence inference): jurisprudence programmes in Russia in 2002 were universally taught as 5-year specialist-diploma tracks with the kvalifikatsiya yurist; bachelor's/master's law programmes became widespread only later. No new institution logged."
+    },
+    {
+      "name": "Протасов Станислав Дмитриевич",
+      "current_role": "Член Совета директоров ПАО \"Россети Ленэнерго\"; Председатель Комитета по энергетике и инженерному обеспечению Санкт-Петербурга в 2024 году",
+      "company_name": "ПАО \"Россети Ленэнерго\"",
+      "education": [
+        {
+          "institution": "Санкт-Петербургский государственный экономический университет",
+          "year": 1999,
+          "field": "менеджмент в социальной сфере",
+          "qualification": "экономист",
+          "qualification_degree": "Specialist degree",
+          "description": "1999, Санкт-Петербургский государственный университет экономики и финансов, специальность \"менеджмент в социальной сфере\", квалификация \"экономист\". Institution name normalized to canonical form per university_names.json (raw source string: \"Санкт-Петербургский государственный университет экономики и финансов\"; canonical: \"Санкт-Петербургский государственный экономический университет\"). qualification_degree=Specialist degree: явно указана квалификация экономист, стандартное обозначение диплома специалиста."
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ГУП \"Водоканал Санкт-Петербурга\"",
+          "role": "Заместитель генерального директора - директор по экономике и финансам",
+          "start_year": 2019,
+          "end_year": 2022,
+          "description": "Опыт раскрыт в годовом отчете ПАО \"Россети Ленэнерго\" за 2024 год.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Water Utilities"
+        },
+        {
+          "organization": "Комитет по энергетике и инженерному обеспечению Санкт-Петербурга",
+          "role": "Председатель",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Роль подтверждена локальным отчетом и публичными источниками 2022-2025 годов; более позднее назначение в 2025 году не переносилось в 2024 год.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"Россети Ленэнерго\"",
+          "role": "Член Совета директоров",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Впервые избран 23.12.2022; включен в состав на 31.12.2024.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Протасов Станислав Дмитриевич for ticker LSNGP as \"Член СД\"."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/LSNG/Годовой отчет ПАО Россети Ленэнерго за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"Россети Ленэнерго\" за 2024 год",
+          "fact": "Страницы 239-240: Протасов С.Д. включен в Совет директоров; указаны образование, должность Председателя Комитета и опыт в Водоканале."
+        },
+        {
+          "url": "https://www.zaks.ru/new/person/view/6893",
+          "title": "Протасов Станислав Дмитриевич: Биография - ЗАКС.РУ",
+          "fact": "Справочная биография подтверждает связь Протасова С.Д. с Комитетом по энергетике и Советом директоров ПАО \"Россети Ленэнерго\"."
+        },
+        {
+          "url": "https://spbdnevnik.ru/news/2022-09-23/stanislav-protasov-peterburg-na-100-protsentov-gotov-k-otopitelnomu-sezonu",
+          "title": "Интервью Станислава Протасова - Петербургский дневник",
+          "fact": "Интервью 2022 года подтверждает должность председателя Комитета по энергетике и инженерному обеспечению Санкт-Петербурга."
+        }
+      ],
+      "notes": "Поиском найден однофамилец-актер и отдельный IT-специалист Станислав Протасов; они исключены по несовпадению отрасли, должности и региона. || Round 2 (2026-07-19) gap-fill: Targeted this round: professional_experience organizations previously had no GICS classification. ГУП \"Водоканал Санкт-Петербурга\" classified as Utilities / Utilities / Water Utilities (regulated municipal water-supply and sanitation state unitary enterprise). Комитет по энергетике и инженерному обеспечению Санкт-Петербурга left null / null / null with explanation: it is a Saint Petersburg city government committee, not a commercial entity with a GICS-classifiable primary business. ПАО \"Россети Ленэнерго\" tagged Electric Utilities. Normalized institution \"Санкт-Петербургский государственный университет экономики и финансов\" -> canonical \"Санкт-Петербургский государственный экономический университет\". Added qualification_degree=Specialist degree, based on the source's explicit statement of kvalifikatsiya ekonomist. No new institution logged."
+    },
+    {
+      "name": "Мельникова Светлана Анатольевна",
+      "current_role": "Член Совета директоров ПАО \"Россети Ленэнерго\"; Заместитель председателя Комитета по энергетике и инженерному обеспечению Санкт-Петербурга",
+      "company_name": "ПАО \"Россети Ленэнерго\"",
+      "education": [
+        {
+          "institution": "Санкт-Петербургский государственный университет",
+          "year": 1988,
+          "field": "прикладная математика",
+          "qualification": null,
+          "qualification_degree": "Specialist degree",
+          "description": "1988, Ленинградский государственный университет им. Жданова, прикладная математика. Institution name normalized to canonical form per university_names.json (raw source string: \"Ленинградский государственный университет им. Жданова\"; canonical: \"Санкт-Петербургский государственный университет\"). qualification_degree=Specialist degree: советский вузовский диплом 1988 года по единой 5-летней программе высшего образования (уровней бакалавр/магистр в СССР не существовало)."
+        },
+        {
+          "institution": "Межотраслевой институт повышения квалификации и переподготовки руководящих кадров при Санкт-Петербургском государственном университете экономики и финансов",
+          "year": 1998,
+          "field": "бухгалтерский учет и аудит",
+          "qualification": null,
+          "qualification_degree": "Professional certification",
+          "description": "1998, Межотраслевой институт повышения квалификации и переподготовки руководящих кадров при Санкт-Петербургском государственном университете экономики и финансов, бухгалтерский учет и аудит. Институт уже полностью соответствует канонической форме в university_names.json, изменений не требуется. qualification_degree=Professional certification: из названия учреждения (институт повышения квалификации и переподготовки руководящих кадров) следует программа профессиональной переподготовки, а не диплом о высшем образовании."
+        },
+        {
+          "institution": "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+          "year": 2011,
+          "field": "государственное и муниципальное управление",
+          "qualification": null,
+          "qualification_degree": null,
+          "description": "2011, Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации, государственное и муниципальное управление. Институт уже полностью соответствует канонической форме в university_names.json, изменений не требуется. qualification_degree оставлено null: тип программы (профессиональная переподготовка, программа магистратуры или курс повышения квалификации) не указан в первоисточнике; целевая повторная проверка в этом раунде (страница руководства gov.spb.ru) дополнительных деталей не дала, per prefer-null-over-guess."
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Комитет по энергетике и инженерному обеспечению Санкт-Петербурга",
+          "role": "Заместитель председателя",
+          "start_year": 2010,
+          "end_year": null,
+          "description": "Опыт раскрыт в годовом отчете ПАО \"Россети Ленэнерго\" за 2024 год.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"Россети Ленэнерго\"",
+          "role": "Член Совета директоров",
+          "start_year": 2016,
+          "end_year": null,
+          "description": "Впервые избрана 07.06.2016; включена в состав на 31.12.2024.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "АО \"Юго-Западная ТЭЦ\"",
+          "role": "Член Совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "Участие в органах управления раскрыто в годовом отчете ПАО \"Россети Ленэнерго\" (изначально записано одной строкой с ООО \"ПетербургГаз\"; разделено в quality-pass round 1, 2026-07-30, так как раунд 2 (2026-07-19) уже независимо подтвердил разные виды деятельности этих двух организаций через ru.wikipedia.org и peterburggaz.ru, но само разделение записи не было применено к JSON). АО \"Юго-Западная ТЭЦ\" -- теплоэлектроцентраль комбинированной выработки, единственный акционер -- город Санкт-Петербург, снабжает электроэнергией и теплом Красносельский и Кировский районы.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ООО \"ПетербургГаз\"",
+          "role": "Член Совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "Участие в органах управления раскрыто в годовом отчете ПАО \"Россети Ленэнерго\" (изначально записано одной строкой с АО \"Юго-Западная ТЭЦ\"; разделено в quality-pass round 1, 2026-07-30, по тем же причинам). ООО \"ПетербургГаз\" -- оператор газораспределительных сетей (ОКВЭД 35.22), совместное предприятие Комитета имущественных отношений Санкт-Петербурга и Газпром газораспределение.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Gas Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Мельникова Светлана Анатольевна for ticker LSNGP as \"Член СД\"."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/LSNG/Годовой отчет ПАО Россети Ленэнерго за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"Россети Ленэнерго\" за 2024 год",
+          "fact": "Страницы 240-241: Мельникова С.А. включена в Совет директоров; указаны образование и работа заместителем председателя Комитета с 2010 года."
+        },
+        {
+          "url": "https://www.gov.spb.ru/gov/otrasl/ingen/svedenija-o-rukovoditeljah/",
+          "title": "Сведения о руководителях - Комитет по энергетике и инженерному обеспечению",
+          "fact": "Официальный сайт Администрации Санкт-Петербурга подтверждает Мельникову С.А. как заместителя председателя Комитета."
+        }
+      ],
+      "notes": "Научные степени, публикации, патенты и h-index не подтверждены. || Round 2 (2026-07-19) gap-fill: Targeted this round: professional_experience GICS classification and education qualification_degree gaps. Комитет по энергетике и инженерному обеспечению Санкт-Петербурга left null / null / null (city government committee, not a GICS-classifiable commercial entity). ПАО \"Россети Ленэнерго\" tagged Electric Utilities. The combined entry \"АО \\\"Юго-Западная ТЭЦ\\\" и ООО \\\"ПетербургГаз\\\"\" was checked this round via WebFetch: Юго-Западная ТЭЦ is a combined heat-and-power generation plant whose sole shareholder is the city of Saint Petersburg (closest supportable GICS bucket: Independent Power and Renewable Electricity Producers), while ООО \"ПетербургГаз\" is a regulated gas-distribution-network operator (OKVED 35.22, confirmed joint venture of the city property committee and Gazprom Gas Distribution -- GICS bucket: Gas Utilities). Because a single professional_experience record spans two organizations in two different GICS sub-industries, the triple for this record was left null / null / null rather than forcing one bucket onto both companies; both individual classifications are recorded in this note for a future record-split pass. Added qualification_degree to the 3 education entries: Specialist degree for the 1988 Leningrad State University applied-mathematics diploma (single-tier Soviet higher-education system, no bachelor's/master's distinction existed); Professional certification for the 1998 Intersectoral Institute for further training and retraining record (institution name itself signals a professional-retraining programme, not a degree); null for the 2011 RANEPA public/municipal administration record, whose programme type (degree vs. retraining vs. continuing education) is not stated in the source -- a targeted re-check of gov.spb.ru this round did not surface additional detail, so left null per prefer-null-over-guess. Normalized institution \"Ленинградский государственный университет им. Жданова\" -> canonical \"Санкт-Петербургский государственный университет\"; the other two institution strings already matched university_names.json exactly. No new institution logged. || Quality-pass round 1 (2026-07-30): applied the record-split that round 2's own notes had already fully reasoned but never wrote to the JSON -- the combined \"АО \\\"Юго-Западная ТЭЦ\\\" и ООО \\\"ПетербургГаз\\\"\" professional_experience entry was split into two separate entries, each carrying the individual GICS classification round 2 had already determined via WebFetch (Юго-Западная ТЭЦ -> Utilities/Utilities/Independent Power and Renewable Electricity Producers; ПетербургГаз -> Utilities/Utilities/Gas Utilities). This is a simple omission fix (mechanical application of an already-sourced round-2 conclusion), not new research."
+    },
+    {
+      "name": "Денисов Игорь Вадимович",
+      "current_role": "Член Совета директоров ПАО \"Россети Ленэнерго\"; Заместитель председателя Комитета по энергетике и инженерному обеспечению Санкт-Петербурга",
+      "company_name": "ПАО \"Россети Ленэнерго\"",
+      "education": [
+        {
+          "institution": "Санкт-Петербургский политехнический университет Петра Великого",
+          "year": 1991,
+          "field": "экономика и управление в отраслях топливно-энергетического комплекса",
+          "qualification": "инженер-экономист",
+          "qualification_degree": "Specialist degree",
+          "description": "1991, Ленинградский государственный технический университет, экономика и управление в отраслях топливно-энергетического комплекса, квалификация \"инженер-экономист\". Institution name normalized to canonical form per university_names.json (raw source string: \"Ленинградский государственный технический университет\"; canonical: \"Санкт-Петербургский политехнический университет Петра Великого\"). qualification_degree=Specialist degree: явно указана квалификация инженер-экономист, советский вузовский диплом 1991 года."
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Комитет по тарифам Санкт-Петербурга",
+          "role": "Начальник управления тарифного регулирования",
+          "start_year": 2019,
+          "end_year": 2021,
+          "description": "Опыт раскрыт в годовом отчете ПАО \"Россети Ленэнерго\" за 2024 год.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Комитет по энергетике и инженерному обеспечению Санкт-Петербурга",
+          "role": "Заместитель председателя",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Роль подтверждена локальным годовым отчетом и официальной страницей руководства Комитета.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"Россети Ленэнерго\"",
+          "role": "Член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Впервые избран 18.06.2024; включен в состав на 31.12.2024.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Денисов Игорь Вадимович for ticker LSNGP as \"Член СД\"."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/LSNG/Годовой отчет ПАО Россети Ленэнерго за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"Россети Ленэнерго\" за 2024 год",
+          "fact": "Страница 241: Денисов И.В. включен в Совет директоров; указаны образование и опыт работы в Комитете по тарифам и Комитете по энергетике."
+        },
+        {
+          "url": "https://www.gov.spb.ru/gov/otrasl/ingen/svedenija-o-rukovoditeljah/",
+          "title": "Сведения о руководителях - Комитет по энергетике и инженерному обеспечению",
+          "fact": "Официальный сайт Администрации Санкт-Петербурга подтверждает Денисова И.В. как заместителя председателя Комитета."
+        },
+        {
+          "url": "https://lensvet.spb.ru/news/news_post/v-aleksandrovskom-sadu-poyavilas-alleya-pokolenij/",
+          "title": "В Александровском саду появилась \"Аллея поколений\" - Ленсвет",
+          "fact": "Публикация 14.05.2024 подтверждает участие Денисова И.В. как заместителя председателя Комитета по энергетике и инженерному обеспечению."
+        }
+      ],
+      "notes": "Научные степени, публикации, патенты и h-index не подтверждены. || Round 2 (2026-07-19) gap-fill: Комитет по тарифам Санкт-Петербурга and Комитет по энергетике и инженерному обеспечению Санкт-Петербурга left null / null / null (Saint Petersburg city government committees, not commercial entities with a GICS-classifiable business). ПАО \"Россети Ленэнерго\" tagged Electric Utilities. Normalized institution \"Ленинградский государственный технический университет\" -> canonical \"Санкт-Петербургский политехнический университет Петра Великого\". Added qualification_degree=Specialist degree, based on the source's explicit statement of kvalifikatsiya inzhener-ekonomist (1991 Soviet-era diploma). No new institution logged."
+    },
+    {
+      "name": "Котвицкий Константин Валерьевич",
+      "current_role": "Член Совета директоров ПАО \"Россети Ленэнерго\"; Заместитель председателя Комитета по энергетике и инженерному обеспечению Санкт-Петербурга",
+      "company_name": "ПАО \"Россети Ленэнерго\"",
+      "education": [
+        {
+          "institution": "Санкт-Петербургский государственный университет промышленных технологий и дизайна",
+          "year": 2003,
+          "field": "промышленная электроэнергетика",
+          "qualification": null,
+          "qualification_degree": "Specialist degree",
+          "description": "2003, Санкт-Петербургский государственный технологический университет растительных полимеров, промышленная электроэнергетика. Institution name normalized to canonical form per university_names.json (raw source string: \"Санкт-Петербургский государственный технологический университет растительных полимеров\"; canonical: \"Санкт-Петербургский государственный университет промышленных технологий и дизайна\"). qualification_degree=Specialist degree (предположено с высокой степенью уверенности): выпуск 2003 года по технической специальности промышленная электроэнергетика, типичная для того периода 5-летняя программа специалитета в техническом вузе РФ."
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Комитет по энергетике и инженерному обеспечению Санкт-Петербурга",
+          "role": "Начальник технического управления",
+          "start_year": 2017,
+          "end_year": 2022,
+          "description": "Роль подтверждена локальным годовым отчетом и официальной страницей руководства Комитета.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Комитет по энергетике и инженерному обеспечению Санкт-Петербурга",
+          "role": "Заместитель председателя",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Роль подтверждена локальным годовым отчетом и официальной страницей руководства Комитета.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"Россети Ленэнерго\"",
+          "role": "Член Совета директоров",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Впервые избран 13.06.2023; включен в состав на 31.12.2024.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Котвицкий Константин Валерьевич for ticker LSNGP as \"Член СД\"."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/LSNG/Годовой отчет ПАО Россети Ленэнерго за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"Россети Ленэнерго\" за 2024 год",
+          "fact": "Страницы 242-243: Котвицкий К.В. включен в Совет директоров; указаны образование и опыт работы в Комитете."
+        },
+        {
+          "url": "https://www.gov.spb.ru/gov/otrasl/ingen/svedenija-o-rukovoditeljah/kotvickij-konstantin-valerevich/",
+          "title": "Котвицкий Константин Валерьевич - Администрация Санкт-Петербурга",
+          "fact": "Официальная страница Администрации Санкт-Петербурга подтверждает должность заместителя председателя Комитета."
+        }
+      ],
+      "notes": "Научные степени, публикации, патенты и h-index не подтверждены. || Round 2 (2026-07-19) gap-fill: Both Комитет по энергетике и инженерному обеспечению Санкт-Петербурга professional_experience entries left null / null / null (Saint Petersburg city government committee). ПАО \"Россети Ленэнерго\" tagged Electric Utilities. Normalized institution \"Санкт-Петербургский государственный технологический университет растительных полимеров\" -> canonical \"Санкт-Петербургский государственный университет промышленных технологий и дизайна\". Added qualification_degree=Specialist degree (high-confidence inference from the standard 5-year pre-Bologna technical-programme pattern for a 2003 graduate in industrial electric power engineering). No new institution logged."
+    },
+    {
+      "name": "Кутыева Екатерина Валерьевна",
+      "current_role": "CSV role: Член Совета директоров; в годовом отчете за 2024 год членство в Совете директоров на 31.12.2024 не подтверждено; подтверждена как заместитель председателя Комитета имущественных отношений Санкт-Петербурга и как кандидат/избранный член Совета директоров на собрании 2025 года",
+      "company_name": "ПАО \"Россети Ленэнерго\"",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Комитет по управлению городским имуществом Санкт-Петербурга",
+          "role": "Специалист 1-й категории; ведущий специалист; главный специалист Управления подготовки сделок с объектами недвижимости",
+          "start_year": 2002,
+          "end_year": 2010,
+          "description": "Историческая биография приведена на справочной странице account.spb.ru.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Комитет по управлению городским имуществом Санкт-Петербурга",
+          "role": "Начальник отдела земельных участков Управления недвижимого имущества Центрального района",
+          "start_year": 2010,
+          "end_year": 2015,
+          "description": "Историческая биография приведена на справочной странице account.spb.ru.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Администрация Московского района Санкт-Петербурга",
+          "role": "Заместитель главы администрации",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "Справочная страница account.spb.ru указывает эту должность с 2015 года; дата окончания не установлена.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Комитет имущественных отношений Санкт-Петербурга",
+          "role": "Заместитель председателя Комитета",
+          "start_year": null,
+          "end_year": null,
+          "description": "Официальная страница Комитета имущественных отношений подтверждает текущую должность; точная дата начала не установлена.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"Россети Ленэнерго\"",
+          "role": "Кандидат/избранный член Совета директоров по итогам годового собрания 2025 года",
+          "start_year": 2025,
+          "end_year": null,
+          "description": "Официальная новость компании от 18.06.2025 подтверждает избрание; этот факт не перенесен на 2024 год.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Кутыева Екатерина Валерьевна for ticker LSNGP as \"Член СД\"."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/LSNG/Годовой отчет ПАО Россети Ленэнерго за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"Россети Ленэнерго\" за 2024 год",
+          "fact": "Страницы 231-244: состав Совета директоров на 31.12.2024 раскрыт без Кутыевой Е.В.; вместо нее в составе указан Балуев Р.В. как представитель Комитета по энергетике."
+        },
+        {
+          "url": "https://www.gov.spb.ru/gov/otrasl/kio/",
+          "title": "Комитет имущественных отношений Санкт-Петербурга",
+          "fact": "Официальная страница Комитета имущественных отношений подтверждает Кутыеву Е.В. как заместителя председателя Комитета."
+        },
+        {
+          "url": "https://account.spb.ru/goverment/items/33460",
+          "title": "Кутыева Екатерина Валерьевна - Правительство Санкт-Петербурга",
+          "fact": "Справочная страница содержит карьерную историю: работа в КУГИ с 2002 года, начальник отдела земельных участков в 2010-2015 годах, заместитель главы администрации Московского района с 2015 года."
+        },
+        {
+          "url": "https://rosseti-lenenergo.ru/press/lenenergo/282563.html",
+          "title": "Состоялось годовое заседание Общего собрания акционеров ПАО \"Россети Ленэнерго\"",
+          "fact": "Новость 18.06.2025 указывает Кутыеву Е.В. как избранного члена Совета директоров; источник использован только для подтверждения более позднего факта и конфликта с CSV."
+        }
+      ],
+      "notes": "Существенная неопределенность: связь Кутыевой Е.В. с Советом директоров именно в 2024 году не подтверждена локальным годовым отчетом. Образование не добавлено, так как детализированный первичный источник с вузом/квалификацией не найден. || Round 2 (2026-07-19) gap-fill: Targeted this round: education[] was completely empty, flagged in round 1 as unconfirmed. Re-checked via WebFetch this round: account.spb.ru career-history page (already used in round 1) was re-read in full and contains only professional/positional history with an explicit statement that it does not include any educational background, academic degree, field of study or graduation year; the gov.spb.ru Committee page was also re-attempted and did not return additional biographical content. Education remains an empty array per prefer-null-over-guess -- this is a re-confirmed absence, not an unexamined gap. Added GICS tags to all 5 professional_experience entries: Комитет по управлению городским имуществом Санкт-Петербурга (2 entries), Администрация Московского района Санкт-Петербурга, and Комитет имущественных отношений Санкт-Петербурга all left null / null / null (Saint Petersburg city government bodies, not GICS-classifiable commercial entities); the 2025 ПАО \"Россети Ленэнерго\" board-election entry tagged Electric Utilities (GICS classification of the company itself is independent of whether the 2025 board fact is treated as a 2024 fact, which round 1 already correctly did not do). No new institution logged. || Quality-pass round 1 (2026-07-30): ran a bounded, fresh follow-up attempt on both the education gap and the 2024-board-membership conflict, using queries/URLs not already tried in rounds 1-2. Education: WebFetch on https://www.gov.spb.ru/gov/otrasl/kio/rukovodstvo/ returned no usable content; WebFetch re-check of https://account.spb.ru/goverment/items/33460 with an education-specific prompt reconfirmed the page contains only career/positional history with no education, university, degree or field-of-study information; WebSearch queries (\"Кутыева Екатерина Валерьевна образование университет диплом\", 'Кутыева Екатерина Валерьевна' декларация о доходах образование) could not be executed because the session's WebSearch budget (200/200) was already exhausted; the WebFetch substitute (html.duckduckgo.com/html) returned only a CAPTCHA challenge page with no search results. Education remains an empty array -- now a re-confirmed absence across three independent research passes. 2024-board-membership conflict (genuine inconsistency, already flagged in rounds 1-2): attempted to locate a third independent source beyond the local 2024 annual report and the 2025 election news already on file -- WebFetch on bing.com/search returned unrelated results (search/indexing mismatch, no Rosseti Lenenergo content), and WebFetch on https://rosseti-lenenergo.ru/press/lenenergo/ (looking for a June-2024 AGM press release that would independently confirm the 2024 board composition) failed with a TLS/certificate error. No third source was reachable this round. The existing conservative resolution stands unchanged: Кутыева is kept in the record per CSV, the 2025 election is not treated as a 2024 board-membership fact, and the conflict with the local annual report (which shows Балуев Р.В. instead of Кутыеву Е.В. at 31.12.2024) remains explicitly logged as unresolved rather than silently decided either way."
+    },
+    {
+      "name": "Казаев Владимир Александрович",
+      "current_role": "Член Совета директоров ПАО \"Россети Ленэнерго\"; Начальник аппарата вице-губернатора Санкт-Петербурга (Кропачева С.Н.)",
+      "company_name": "ПАО \"Россети Ленэнерго\"",
+      "education": [
+        {
+          "institution": "Санкт-Петербургский политехнический университет Петра Великого",
+          "year": 2009,
+          "field": "Юриспруденция",
+          "qualification": "юрист",
+          "qualification_degree": "Specialist degree",
+          "description": "2009, Санкт-Петербургский государственный политехнический университет, специализация \"Юриспруденция\", квалификация \"юрист\". Institution name normalized to canonical form per university_names.json (raw source string: \"Санкт-Петербургский государственный политехнический университет\"; canonical: \"Санкт-Петербургский политехнический университет Петра Великого\"). qualification_degree=Specialist degree: явно указана квалификация юрист (а не степень бакалавр юриспруденции), что в терминологии российских дипломов означает программу специалитета; юридические программы ряда вузов РФ сохраняли формат специалитета и после 2009 года, несмотря на переход большинства направлений на болонскую систему."
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Администрация Губернатора Санкт-Петербурга",
+          "role": "Советник вице-губернатора Санкт-Петербурга аппарата вице-губернатора Санкт-Петербурга (Шаскольского М.А.)",
+          "start_year": 2020,
+          "end_year": 2020,
+          "description": "Опыт раскрыт в годовом отчете ПАО \"Россети Ленэнерго\" за 2024 год.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Администрация Губернатора Санкт-Петербурга",
+          "role": "Советник вице-губернатора Санкт-Петербурга аппарата вице-губернатора Санкт-Петербурга (Дрегваля С.Г.)",
+          "start_year": 2020,
+          "end_year": 2024,
+          "description": "Опыт раскрыт в годовом отчете ПАО \"Россети Ленэнерго\" за 2024 год.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Администрация Губернатора Санкт-Петербурга",
+          "role": "Советник вице-губернатора Санкт-Петербурга аппарата вице-губернатора Санкт-Петербурга (Полякова К.В.); затем (Кропачева С.Н.)",
+          "start_year": 2024,
+          "end_year": 2024,
+          "description": "Опыт раскрыт в годовом отчете ПАО \"Россети Ленэнерго\" за 2024 год.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Администрация Губернатора Санкт-Петербурга",
+          "role": "Начальник аппарата вице-губернатора Санкт-Петербурга (Кропачева С.Н.)",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Основное место работы на 31.12.2024.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"Россети Ленэнерго\"",
+          "role": "Член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Впервые избран 18.06.2024; включен в состав на 31.12.2024.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Казаев Владимир Александрович for ticker LSNGP as \"Член СД\"."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/LSNG/Годовой отчет ПАО Россети Ленэнерго за 2024 год.pdf",
+          "title": "Годовой отчет ПАО \"Россети Ленэнерго\" за 2024 год",
+          "fact": "Страницы 243-244: Казаев В.А. включен в Совет директоров; указаны образование, должность и опыт работы в Администрации Губернатора Санкт-Петербурга."
+        },
+        {
+          "url": "https://iss.gov.spb.ru/person/48f29ea4-551a-4c72-be76-133c8323ac46/print/",
+          "title": "Казаев Владимир Александрович - Телефонный справочник",
+          "fact": "Справочник Администрации Санкт-Петербурга подтверждает должность начальника аппарата вице-губернатора Санкт-Петербурга."
+        }
+      ],
+      "notes": "Найденные ИП с ФИО Владимир Александрович Казаев в других регионах и профиль \"Казеев\" в Dissernet не использованы из-за несовпадения идентифицирующих признаков. || Round 2 (2026-07-19) gap-fill: All 4 Администрация Губернатора Санкт-Петербурга professional_experience entries left null / null / null (Saint Petersburg city government body). ПАО \"Россети Ленэнерго\" tagged Electric Utilities. Normalized institution \"Санкт-Петербургский государственный политехнический университет\" -> canonical \"Санкт-Петербургский политехнический университет Петра Великого\". Added qualification_degree=Specialist degree, reasoned from the source's explicit statement of kvalifikatsiya yurist (rather than a stated bakalavr yurisprudentsii degree), which in Russian diploma terminology denotes a specialist-track programme; noted explicitly because the 2009 graduation year postdates Russia's broad Bologna rollout for most fields, but law faculties at a number of Russian universities retained the specialist track for jurisprudence past that date. No new institution logged."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/LSNG/Годовой отчет ПАО Россети Ленэнерго за 2024 год.pdf",
+      "title": "Годовой отчет ПАО \"Россети Ленэнерго\" за 2024 год",
+      "fact": "Страницы 231-244 раскрывают состав Совета директоров на 31.12.2024; страницы 268-274 раскрывают состав Правления и Генерального директора."
+    },
+    {
+      "url": "https://www.e-disclosure.ru/portal/files.aspx?id=65&type=16",
+      "title": "Интерфакс - Центр раскрытия корпоративной информации: ПАО \"Россети Ленэнерго\"",
+      "fact": "Страница раскрытия содержит годовой отчет ПАО \"Россети Ленэнерго\" за 2024 год с приложениями."
+    },
+    {
+      "url": "https://rosseti-lenenergo.ru/shareholders/corp/control/sd/",
+      "title": "Совет директоров - Россети Ленэнерго",
+      "fact": "Официальная страница Совета директоров используется для проверки состава и ролей членов Совета."
+    },
+    {
+      "url": "https://rosseti-lenenergo.ru/press/lenenergo/282563.html",
+      "title": "Состоялось годовое заседание Общего собрания акционеров ПАО \"Россети Ленэнерго\"",
+      "fact": "Новость 18.06.2025 подтверждает более поздний состав Совета директоров и объясняет появление Кутыевой Е.В. в CSV/кандидатских списках, но не переносится на 2024 год."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "Input source for ticker LSNGP and person list."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/LSNG/Годовой отчет ПАО Россети Ленэнерго за 2024 год.pdf",
+      "title": "Годовой отчет ПАО \"Россети Ленэнерго\" за 2024 год",
+      "fact": "Primary local source for 2024 board, management, education and professional experience facts."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/LSNG/Аудиторское заключение Россети Ленэнерго_МСФО ДОП_2024_финал.pdf",
+      "title": "Аудиторское заключение Россети Ленэнерго - МСФО 2024",
+      "fact": "Checked as a local document; no personal education or biography facts for the CSV persons were found."
+    },
+    {
+      "url": "https://ar23.rosseti.ru/ru/corporate-governance/executive-bodies/management-board",
+      "title": "Правление - Годовой отчет ПАО \"Россети\" за 2023 год",
+      "fact": "Official Rosseti source used to cross-check biographies of Рюмин, Краинский, Ляпунов, Мольский and Полинов."
+    },
+    {
+      "url": "https://www.gov.spb.ru/gov/otrasl/ingen/svedenija-o-rukovoditeljah/",
+      "title": "Сведения о руководителях - Комитет по энергетике и инженерному обеспечению",
+      "fact": "Official Saint Petersburg source used to confirm city government roles for Мельникова, Денисов, Котвицкий and related officials."
+    },
+    {
+      "url": "https://www.gov.spb.ru/gov/otrasl/kio/",
+      "title": "Комитет имущественных отношений Санкт-Петербурга",
+      "fact": "Official Saint Petersburg source used to confirm Кутыева Е.В. as deputy chair of the Property Relations Committee."
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Юго-Западная_ТЭЦ",
+      "title": "Юго-Западная ТЭЦ - Википедия",
+      "fact": "Round 2 gap-fill (2026-07-19): confirms Юго-Западная ТЭЦ is a combined heat-and-power generation plant whose sole shareholder is the city of Saint Petersburg; used to classify this organization in Мельникова's professional_experience for GICS purposes."
+    },
+    {
+      "url": "https://www.peterburggaz.ru/",
+      "title": "OOO PeterburgGaz - профиль деятельности (проверено через поисковый сниппет)",
+      "fact": "Round 2 gap-fill (2026-07-19): confirms ООО ПетербургГаз is a gas-distribution-network operator (OKVED 35.22), a joint venture of the Saint Petersburg property committee and Gazprom Gas Distribution; used to classify this organization in Мельникова's professional_experience for GICS purposes."
+    },
+    {
+      "url": "http://www.energofond.ru",
+      "title": "Фонд энергетического развития - профиль деятельности (проверено через поисковый сниппет)",
+      "fact": "Round 2 gap-fill (2026-07-19): confirms Фонд энергетического развития (director Пикин С.С. since 2007) is an independent energy-sector expert/consulting and forecasting organization, not an operating energy company; used to classify this organization in Пикин's professional_experience for GICS purposes."
+    },
+    {
+      "url": "https://account.spb.ru/goverment/items/33460",
+      "title": "Кутыева Екатерина Валерьевна - Правительство Санкт-Петербурга",
+      "fact": "Round 2 gap-fill (2026-07-19) re-check: page re-read in full; explicitly contains only professional/positional career history and confirms it has no educational background, academic degree, field of study or graduation year -- re-confirms round-1's conclusion that education for Кутыева Е.В. cannot be sourced, rather than an unexamined gap."
+    },
+    {
+      "url": "https://e-catalog.nlb.by/catalog/Search/Results?filter%5B%5D=language%3A%22rus%22&filter%5B%5D=topic_facet%3A%22%D0%9C%D0%A3%D0%9D%D0%86%D0%A6%D0%AB%D0%9F%D0%90%D0%9B%D0%AC%D0%9D%D0%AB%D0%AF+%D0%AE%D0%A2%D0%92%D0%90%D0%A0%D0%AD%D0%9D%D0%9D%D0%86%22&type=AllFields",
+      "title": "Электронный каталог Национальной библиотеки Беларуси (повторный запрос)",
+      "fact": "Round 2 gap-fill (2026-07-19) re-check: repeated query returned no matching documents this round; Полинов А.А.'s dissertation-defense institution remains unconfirmed and is left null in degrees[] per prefer-null-over-guess."
+    }
+  ],
+  "new_institutions_found": [],
+  "validation_notes": "Processed 13 CSV people for ticker LSNGP. Checked 2 local documents in MOEXBMI_Отчеты_2024/LSNG: the 494-page 2024 annual report and the 78-page IFRS audit opinion. One research round was performed for each person, with additional web checks across official company/disclosure sources, Rosseti annual report pages, Saint Petersburg government pages, industry media, business media, bibliographic/dissertation sources and auxiliary databases. Education was not confirmed for Кутыева Екатерина Валерьевна and is left empty. Weak/secondary sources were used only for career-chain or identity support: account.spb.ru for Кутыева, ZAKS/Петербургский дневник for Протасов, Lensvet for Денисов, and bibliographic catalog pages for dissertation traces. Main unresolved conflict: CSV includes Кутыева Е.В. as a board member, while the 2024 local annual report's board composition at 31.12.2024 includes Балуев Р.В. instead and does not include Кутыеву Е.В.; Кутыева is confirmed only in 2025 board-election materials and as deputy chair of the Property Relations Committee. Namesakes rejected include Игорь Анатольевич Кузьмин in fishery dissertation results, actor/IT profiles for Станислав Протасов, unrelated IP profiles for Владимир Александрович Казаев, and profiles without Rosseti/Saint Petersburg government anchors. Search is considered complete because the primary local annual report provides full 2024 biographies for 12 of 13 CSV people, the missing 2024 link for Кутыева was investigated through official 2025 election and government sources, and two search passes did not produce a primary 2024 source placing Кутыеву Е.В. on the board. || Round 2 (2026-07-19) gap-fill (per task instructions): re-examined every null/vague/uncertain field flagged in round-1 notes across all 13 CSV people (ceo Кузьмин + 12 tmt), ran one additional targeted research pass (local filings re-checked first, then web) only for those gaps, and did not re-verify facts already confirmed with a solid source. (1) GICS classification: added sector/industry_group/industry at company level (Utilities / Utilities / Electric Utilities, copied verbatim from gics_taxonomy.json -- Россети Ленэнерго is a regulated regional electricity distribution grid operator) and to every professional_experience entry for every person. Electric Utilities was applied to ПАО Россети Ленэнерго, ПАО Российские сети, ПАО Федеральная сетевая компания - Россети / ПАО Россети, ПАО ФСК ЕЭС and its МЭС branches, and ПАО Россети Северо-Запад -- all electricity transmission/distribution grid entities of the same corporate group. Water Utilities was applied to ГУП Водоканал Санкт-Петербурга (Протасов), a regulated municipal water/sanitation utility. Industrials / Commercial & Professional Services / Professional Services was applied to Фонд энергетического развития (Пикин) after a quick check (energofond.ru) confirmed it is an independent energy-sector expert/consulting organization, not an operating energy company. Sector/industry_group/industry were left null with an explanation for: every Saint Petersburg city-government body (Комитет по энергетике и инженерному обеспечению, Комитет по тарифам, Администрация Губернатора, Комитет по управлению городским имуществом, Администрация Московского района, Комитет имущественных отношений -- across Протасов, Мельникова, Денисов, Котвицкий, Казаев and Кутыева), since these are not commercial entities with a GICS-classifiable primary business; and for Мельникова's combined professional_experience entry naming both АО Юго-Западная ТЭЦ and ООО ПетербургГаз, which was checked this round via WebFetch and found to span two different GICS sub-industries in one record (Юго-Западная ТЭЦ -- city-owned combined heat-and-power generation plant, closest bucket Independent Power and Renewable Electricity Producers; ООО ПетербургГаз -- regulated gas-distribution-network operator, OKVED 35.22, GICS bucket Gas Utilities) -- a single triple could not represent both without misrepresenting one, so left null with the individual classifications recorded in Мельникова's notes for a possible future record split. (2) qualification_degree: added to every education[]/degrees[] entry for every person, using only the ten allowed enum values. Explicit source wording (kvalifikatsiya inzhener / inzhener-elektrik / inzhener-ekonomist / ekonomist / yurist) was mapped to Specialist degree, matching the pre-Bologna Russian/Soviet 5-year specialist-diploma convention already used project-wide (e.g. FEES, GAZP). Kandidat ekonomicheskikh nauk degrees (Рюмин, Полинов) were mapped to Doctoral degree per the same project-wide convention. Explicit MBA and Presidential-programme wording (Кузьмин) were mapped to MBA and Executive education respectively. Пикин's МГУ education is split across two source entries that together disclose bachelor's-2001 + master's-2003; the entry naming 2003/economics-faculty was tagged Master's degree (cross-validated by the second entry), while the second, compound entry (which states both degree levels in one sentence) was left null to avoid misrepresenting either level. Мельникова's 1998 professional-retraining record was tagged Professional certification; her 2011 RANEPA public-administration record and Полинов's degrees[] institution were left null after this round's re-checks (gov.spb.ru; National Library of Belarus e-catalogue) did not surface enough detail to reach high confidence -- per prefer-null-over-guess. Every inference is reasoned in the corresponding person's notes field. (3) Institution normalization: every institution string was checked against university_names.json. Nine raw strings needed normalization to their listed canonical form (МГУ им. М.В. Ломоносова for Рюмин and Пикин; Московский энергетический институт for Мольский; Ивановский государственный энергетический университет for Ляпунов; Московская государственная юридическая академия for Краинский; Санкт-Петербургский государственный университет экономики и финансов for Протасов; Ленинградский государственный университет им. Жданова for Мельникова; Ленинградский государственный технический университет for Денисов; Санкт-Петербургский государственный технологический университет растительных полимеров for Котвицкий; Санкт-Петербургский государственный политехнический университет for Казаев); all nine were already-listed aliases, so no institution not covered by university_names.json was encountered this round -- new_institutions_found remains empty for LSNGP. (4) Targeted re-research this round (local filings first, then web) covered: Кутыева's education (re-checked account.spb.ru and gov.spb.ru via WebFetch -- still not found, re-confirmed absence rather than an unexamined gap); Полинов's dissertation-defense institution (re-checked the National Library of Belarus e-catalogue link on file -- no matching record returned this round, institution remains null; the already-confirmed 2004 year from research_experience was propagated into degrees[] since it was not a new invented date); Фонд энергетического развития's business classification; and Юго-Западная ТЭЦ / ПетербургГаз's respective businesses. No previously confirmed fact was re-verified, deleted or overwritten; the round-1 conflict regarding Кутыева's 2024 board membership and all other round-1 conclusions remain unchanged. Education/degrees list entries were converted from plain strings into structured objects (institution/year/field/qualification/qualification_degree/description) so that qualification_degree and institution normalization could be attached per entry, per the structural convention already used by other processed tickers (e.g. FEES, GAZP); every original string is preserved verbatim inside each entry's description field. || QUALITY PASS ROUND 1 (2026-07-30): second, correctness-and-depth-focused pass over the already structurally-complete round-2 record. Fixed one simple-omission GICS structural gap: Мельникова's professional_experience entry combining \"АО Юго-Западная ТЭЦ\" and \"ООО ПетербургГаз\" in one record (round 2 had already researched and reasoned individual classifications for both organizations via WebFetch but left the combined record null/null/null pending a future split) was split into two entries with the already-determined GICS triples (Independent Power and Renewable Electricity Producers; Gas Utilities). Fixed one cross-ticker simple omission: Рюмин's research_experience entry (a plain string) was converted to a structured object and populated with organization/role/end_year already established for this same real person in FEES round 2, sourced from the same autoreferat already cited in his own sources[] here. GICS sanity-check: every professional_experience triple in this file was re-checked against the named organization's real primary business and against gics_taxonomy.json's exact rows -- no genuine misclassification was found (all non-null triples were already correct from round 2: Rosseti/FSK entities as Electric Utilities, Vodokanal as Water Utilities, Фонд энергетического развития as Professional Services, and the two Melnikova split entries as described above; all Saint Petersburg city-government bodies correctly left null). Ran bounded honest-gap follow-up (fresh queries/URLs only, not repeating rounds 1-2's exhausted wording) on the two remaining open gaps: Кутыева's education (still empty after this round -- gov.spb.ru leadership subpage, account.spb.ru re-check, WebSearch [budget exhausted], and a DuckDuckGo WebFetch substitute [CAPTCHA-walled] all yielded nothing new) and Полинов's dissertation-defense institution (still null after this round -- rusneb.ru [403], search.rsl.ru [blank template], WebSearch [budget exhausted], and DuckDuckGo WebFetch [CAPTCHA-walled] all yielded nothing new). Кутыева's genuine 2024-board-membership inconsistency (CSV vs. local annual report) was also re-attempted with a fresh third-source search (Bing WebFetch -- unrelated results; rosseti-lenenergo.ru press page WebFetch -- certificate error) and remains unresolved by design: the existing conservative resolution (keep her in the record per CSV, do not treat the 2025 election as a 2024 fact) stands, explicitly logged as unresolved rather than silently decided. Full account, including every fresh query/URL tried per gap, in research_notes/LSNGP/quality_pass_round1_20260730.md. || DATA-LOSS REPAIR (2026-07-30, applied before this pass's own edits were made): an earlier automated write to this file (not by this session) had read a stale, pre-round-2 copy of the record and overwritten the file with it, silently reverting real, previously-saved round-2 (2026-07-19) content with no error or warning -- specifically: every education[] entry across all 12 education-bearing people lost its separate \"field\" and \"qualification\" keys (collapsed back into a single description string); the per-person \"notes\" field for 11 of 13 people lost its entire \"Round 2 (2026-07-19) gap-fill\" paragraph (reverted to round-1-only text); the top-level \"validation_notes\" field lost its entire round-2 paragraph; and the top-level \"sources\" array lost 5 of its 11 entries (energofond.ru, the Юго-Западная ТЭЦ Wikipedia page, peterburggaz.ru, account.spb.ru, and the NLB e-catalogue dissertation-search URL). This repair restores all of the above verbatim from the last-known-good, git-committed round-2 output (commit 03bfe9f) -- no new research, no new facts beyond what round 2 had already verified and cited. This pass's own new edits (Мельникова split, Рюмин research_experience cross-reference, and the Кутыева/Полинов gap-follow-up notes above) were then applied on top of the restored round-2 content, not on top of the regressed version."
+}

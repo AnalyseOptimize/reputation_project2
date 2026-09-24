@@ -1,0 +1,537 @@
+{
+  "company_name": "ПАО \"Группа Аренадата\"",
+  "company_ticker": "DATA",
+  "ceo": {
+    "name": "Пустовой Максим Владимирович",
+    "current_role": "Генеральный директор ПАО \"Группа Аренадата\"",
+    "company_name": "ПАО \"Группа Аренадата\"",
+    "education": [
+      {
+        "institution": "Московский государственный университет имени М.В. Ломоносова",
+        "year": 2001,
+        "details": "Физический факультет.",
+        "source_url": "MOEXBMI_Отчеты_2024/DATA/Годовой отчет Группы Arenadata за 2024 г.pdf",
+        "qualification_degree": "Specialist degree"
+      },
+      {
+        "institution": "Национальный исследовательский ядерный университет «МИФИ»",
+        "year": 2003,
+        "details": "Факультет кибернетики.",
+        "source_url": "MOEXBMI_Отчеты_2024/DATA/Годовой отчет Группы Arenadata за 2024 г.pdf",
+        "qualification_degree": "Specialist degree"
+      },
+      {
+        "institution": "IE Business School",
+        "year": 2015,
+        "details": "2014-2015, Executive MBA (General Management).",
+        "source_url": "MOEXBMI_Отчеты_2024/DATA/Годовой отчет Группы Arenadata за 2024 г.pdf",
+        "qualification_degree": "MBA"
+      },
+      {
+        "institution": "Государственный университет управления",
+        "year": 2003,
+        "details": "OTP Bank's 2014 biography (echoed near-verbatim by arb.ru and bosfera.ru, which appear to republish the same original OTP press text rather than independently corroborate it) states that Pustovoy received an MBA in information technology in 2003, and separately attributes his 2001 degree to MIFI's cybernetics faculty (master's) rather than to MGU physics -- conflicting with the institution/year pairing used by the higher-corroborated cluster (2024 annual report, CNews, Forbes, official Arenadata news, and smart-lab.ru financial dictionary -- 5 independent sources agreeing on MGU 2001 physics + MIFI 2003 cybernetics + IE Business School Executive MBA 2014-2015). Quality-pass round 1 (2026-07-29) re-checked this via smart-lab.ru and additional OTP-derived aggregators and kept the higher-corroborated MGU/MIFI/IE Business School chain as primary; this GUU MBA item is retained as a documented, source-specific alternate credential from the single-origin OTP release rather than deleted, since it cannot be fully disproven, but it should not be read as independently confirming a 2001/2003 MGU/MIFI split. Quality-pass round 2 (2026-07-30) traced smart-lab.ru’s «2010-2011 Банк Интеза» mention to its true origin by directly fetching TAdviser’s own structured person-infobox (tadviser.ru, Персона:Пустовой_Максим) plus two pages that verbatim-echo it (wiki.letopis.ru, sourced from «Музей финансового рынка», and rjc.ru’s own biography of him as a Russian Jewish Congress board member) -- all three reproduce one underlying TAdviser biography, not independent corroboration. That same TAdviser infobox, read directly, independently states «МГУ ... 2001» and «НИЯУ МИФИ ... 2003», i.e. it corroborates the MGU-2001/MIFI-2003 pairing already used here (a source lineage separate from the annual report/CNews/Forbes/Arenadata-news cluster), further weakening rather than supporting OTP’s alternate 2001/2003 pairing. The same TAdviser infobox separately attributes «Банк Интеза (КМБ-Банк)», CIO, 2010-2011 and «ОТП Банк», CIO (no personal date given); a fourth page, rosmanager.ru, was also checked this round and appears to mis-scrape TAdviser’s unrelated project entries about OTP Bank’s own IT systems (dated 24.03.14 / 14.08.15 / 03.09.15) as if they were Pustovoy’s personal appointment dates, so rosmanager.ru is treated as unreliable and not used for any field. Because both the 2024 annual report (page 73, an independent official disclosure) and OTP Bank’s own 2014 press release independently name Банк ВТБ (not Банк Интеза) for 2010-2012/2010-2011, and TAdviser self-describes this infobox as compiled from open sources rather than a first-party disclosure, Банк Интеза/КМБ-Банк was not added as a new professional_experience entry -- it remains a documented, unresolved alternate chronology for the 2010-2011 window rather than silently adopted or dropped; see also the ВТБ entry’s description and the CEO-level notes.",
+        "source_url": "https://www.otpbank.ru/about/press-centr/news/0269/",
+        "qualification_degree": "MBA"
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "ПАО \"Группа Аренадата\"",
+        "role": "Генеральный директор",
+        "start_year": 2023,
+        "end_year": null,
+        "description": "The 2024 annual report states that Pustovoy has held the CEO role since 2023 and led the company's public-status and Moscow Exchange listing project in 2024.",
+        "source_url": "MOEXBMI_Отчеты_2024/DATA/Годовой отчет Группы Arenadata за 2024 г.pdf",
+        "sector": "Information Technology",
+        "industry_group": "Software & Services",
+        "industry": "Software"
+      },
+      {
+        "organization": "Positive Technologies",
+        "role": "Исполнительный и операционный директор / исполнительный директор",
+        "start_year": 2017,
+        "end_year": 2023,
+        "description": "CNews and Arenadata state that he worked at Positive Technologies from 2017 and participated in the company's Moscow Exchange listing.",
+        "source_url": "https://www.cnews.ru/articles/2023-09-26_maksimom_pustovojarenadata_rynok_data-reshenij",
+        "sector": "Information Technology",
+        "industry_group": "Software & Services",
+        "industry": "Software"
+      },
+      {
+        "organization": "ОТП Банк",
+        "role": "Операционный директор; заместитель председателя правления",
+        "start_year": 2012,
+        "end_year": 2017,
+        "description": "OTP Bank states that he joined in November 2012 as operational director and was appointed deputy chair of the management board effective 8 September 2014.",
+        "source_url": "https://www.otpbank.ru/about/press-centr/news/0269/",
+        "sector": "Financials",
+        "industry_group": "Banks",
+        "industry": "Banks"
+      },
+      {
+        "organization": "Банк ВТБ",
+        "role": "Вице-президент, директор в дивизионе информационных технологий",
+        "start_year": 2010,
+        "end_year": 2012,
+        "description": "Previous-employer biography from OTP Bank. Quality-pass round 2 (2026-07-30) found a conflicting, single-origin TAdviser infobox (echoed verbatim by smart-lab.ru/wiki.letopis.ru/rjc.ru) attributing 2010-2011 instead to «Банк Интеза (КМБ-Банк)» as CIO; not adopted, since both the 2024 annual report and OTP Bank’s own press release independently name ВТБ for this window -- see the CEO’s education[3] (GUU MBA) details for the full analysis.",
+        "source_url": "https://www.otpbank.ru/about/press-centr/news/0269/",
+        "sector": "Financials",
+        "industry_group": "Banks",
+        "industry": "Banks"
+      },
+      {
+        "organization": "Accenture Russia",
+        "role": "Руководитель практики IT-аутсорсинга и разработки ПО",
+        "start_year": 2007,
+        "end_year": 2010,
+        "description": "Previous-employer biography from OTP Bank.",
+        "source_url": "https://www.otpbank.ru/about/press-centr/news/0269/",
+        "sector": "Information Technology",
+        "industry_group": "Software & Services",
+        "industry": "IT Services"
+      },
+      {
+        "organization": "Luxoft / Texuna Technologies UK",
+        "role": "Руководитель центра разработки / руководитель российского представительства",
+        "start_year": 2001,
+        "end_year": 2007,
+        "description": "OTP Bank biography lists roles at Luxoft and Texuna Technologies UK in 2001-2007.",
+        "source_url": "https://www.otpbank.ru/about/press-centr/news/0269/",
+        "sector": "Information Technology",
+        "industry_group": "Software & Services",
+        "industry": "IT Services"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "CSV contains Пустовой Максим Владимирович in DATA row with role CEO."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/DATA/Годовой отчет Группы Arenadata за 2024 г.pdf",
+        "title": "Годовой отчет Группы Arenadata за 2024 год",
+        "fact": "Page 73 identifies Максим Пустовой as генеральный директор and gives education and biography; page 113 identifies him as the sole executive body in 2024."
+      },
+      {
+        "url": "https://arenadata.tech/about/news/arenadata-v-dva-raza-uvelichila-klientov-v-2022/",
+        "title": "Arenadata почти в два раза увеличила количество клиентов",
+        "fact": "Official Arenadata news states that Maxim Pustovoy was appointed general director and summarizes his education and prior experience."
+      },
+      {
+        "url": "https://www.cnews.ru/articles/2023-09-26_maksimom_pustovojarenadata_rynok_data-reshenij",
+        "title": "Максим Пустовой, Arenadata: рынок дата-решений...",
+        "fact": "CNews biography confirms education, more than 20 years of management experience, and prior Positive Technologies/OTP/VTB/Accenture/Luxoft context."
+      },
+      {
+        "url": "https://www.otpbank.ru/about/press-centr/news/0269/",
+        "title": "Максим Пустовой назначен Заместителем Председателя Правления ОТП Банка",
+        "fact": "OTP Bank biography confirms OTP, VTB, Accenture, Luxoft/Texuna roles and education details."
+      },
+      {
+        "url": "https://www.forbes.ru/profile/534356-maksim-pustovoj",
+        "title": "Максим Пустовой | Forbes",
+        "fact": "Forbes profile identifies him as general director of Group Arenadata and summarizes MGU, MEPhI, and IE Business School Executive MBA education."
+      }
+    ],
+    "notes": "No scientific degree, patents, publications, or h-index were confirmed. OTP Bank's 2014 biography (echoed by arb.ru/bosfera.ru) assigns MIFI to 2001 and a GUU MBA to 2003, conflicting with the higher-corroborated 5-source cluster (annual report, CNews, Forbes, official Arenadata news, smart-lab.ru) that assigns MGU physics to 2001 and MIFI cybernetics to 2003, plus a 2014-2015 IE Business School Executive MBA. Quality-pass round 1 (2026-07-29) investigated this further via an additional independent source (smart-lab.ru financial dictionary) and kept the higher-corroborated MGU/MIFI/IE Business School chain as primary, retaining the GUU MBA item with an explicit conflict note rather than silently picking a side. Secondary aggregators (bosfera.ru dossier, smart-lab.ru) also mention possible additional pre-OTP employers (Banca Intesa, Gridnine Systems Sweden) that disagree with each other and with the primary annual-report chronology on exact years; not added to professional_experience in this pass since they could not be reliably placed -- flagged as an open item for a future round. Post-2024 role-change sources were not used for the 2024 role. Quality-pass round 2 (2026-07-30) investigated the OTP-vs-majority-cluster education conflict further via TAdviser’s own infobox and two pages that echo it (wiki.letopis.ru, rjc.ru); this independently reconfirmed MGU-2001/MIFI-2003 (strengthening the existing resolution) while also surfacing a further single-origin, TAdviser-sourced variant of the pre-2017 career (Банк Интеза/КМБ-Банк 2010-2011 as CIO, instead of ВТБ) that was investigated and not adopted -- see education[3].details for the full writeup. A fourth checked page, rosmanager.ru, was found to mis-scrape TAdviser’s OTP Bank IT-project dates as personal appointment dates and was rejected as unreliable."
+  },
+  "tmt": [
+    {
+      "name": "Жуков Андрей",
+      "current_role": "Коммерческий директор Группы Arenadata",
+      "company_name": "ПАО \"Группа Аренадата\"",
+      "education": [
+        {
+          "institution": "Национальный исследовательский технологический университет «МИСиС»",
+          "year": null,
+          "details": "Кафедра инженерной кибернетики.",
+          "source_url": "https://companies.rbc.ru/experts/22705/andrej-zhukov/",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Группа Arenadata",
+          "role": "Коммерческий директор",
+          "start_year": null,
+          "end_year": null,
+          "description": "The 2024 local annual report and official Arenadata pages identify him as commercial director.",
+          "source_url": "MOEXBMI_Отчеты_2024/DATA/Годовой отчет Группы Arenadata за 2024 г.pdf",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "SAP / Oracle",
+          "role": "Руководство sales-командами",
+          "start_year": null,
+          "end_year": null,
+          "description": "RBC Companies profile states that he has more than 20 years of IT experience and led sales teams in SAP and Oracle.",
+          "source_url": "https://companies.rbc.ru/experts/22705/andrej-zhukov/",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Жуков Андрей in DATA row with role CFO."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/DATA/Годовой отчет Группы Arenadata за 2024 г.pdf",
+          "title": "Годовой отчет Группы Arenadata за 2024 год",
+          "fact": "Page 53 identifies Андрей Жуков as коммерческий директор Группы Arenadata."
+        },
+        {
+          "url": "https://companies.rbc.ru/experts/22705/andrej-zhukov/",
+          "title": "Андрей Жуков — эксперт ПАО \"Группа Аренадата\"",
+          "fact": "RBC Companies identifies him as commercial director, says he graduated from MISIS, engineering cybernetics department, and has more than 20 years of IT experience with sales leadership in SAP and Oracle."
+        },
+        {
+          "url": "https://arenadata.tech/about/news/road-show-partners/",
+          "title": "Роуд-шоу для партнёров Arenadata",
+          "fact": "Official Arenadata 2023 page identifies Андрей Жуков as commercial director."
+        },
+        {
+          "url": "https://arenadata.tech/about/blog/andrej-zhukov-v-podkaste-navicon-na-temu-tekhnologii-dlya-raboty-s-dannymi-v-2025-godu/",
+          "title": "Андрей Жуков в подкасте Navicon",
+          "fact": "Official Arenadata 2025 page identifies him as commercial director of Group Arenadata."
+        }
+      ],
+      "notes": "CSV listed CFO, but all checked local/official/professional sources identify him as commercial director. No patronymic, scientific profile, patents, h-index, or detailed career chronology were confirmed. РАУНД 2 (2026-07-18, закрытие пробела): целевой повторный поиск патронимика Жукова Андрея не дал результата. Проверены: companies.rbc.ru/experts/22705/andrej-zhukov (повторно, только текущая роль и общий стаж, без отчества), tadviser.ru/index.php/Персона:Жуков_Андрей (локальный кэш tadviser_zhukov.html, 83 КБ -- только заголовок и ссылка на интервью 2024 года без биографии/образования/отчества), whoiswho.dp.ru/cart/person/1937401 (однофамилец -- первый заместитель главного редактора \"Делового Петербурга\", медиа-сфера, родился в Ленинграде -- явный неймсейк, отклонен), events.kommersant.ru/people/andrej-zhukov (только анонс мероприятия), theorg.com/org/arenadata (страница не содержит человека с этим именем). Полнотекстовый поиск по локально доступным официальным регуляторным документам DATA (Отчет эмитента за 12М24, 78 страниц; Проспект ценных бумаг, 567 страниц) не дал ни одного упоминания фамилии Жуков -- коммерческий директор не входит в перечень лиц, чьи персональные данные обязательны к раскрытию в этих формах. Патронимик и точные даты карьеры остаются неподтвержденными; оставлены null, не инвентированы. РАУНД 3 (2026-07-19, targeted попытка закрытия пробела): WebSearch недоступна в этом раунде (сессионная квота 200/200 исчерпана). Повторно открыт напрямую (curl, браузерный User-Agent) уже известный локальный кэш tadviser_zhukov.html (страница Персона:Жуков_Андрей) -- содержит только текущую роль (Коммерческий директор, Arenadata (Аренадата Софтвер)) и список проектов ADB/BPMSoft, без отчества, без упоминания МИСиС, без поля \"Предыдущие места работы\" (в отличие от аналогичной страницы Бушуевой, где это поле присутствовало и дало новый факт) -- то есть TAdviser в этом случае не содержит дополнительных сведений. Также повторно открыт напрямую (WebFetch) companies.rbc.ru/experts/22705/andrej-zhukov/ -- подтверждает только уже известные факты (МИСиС, кафедра инженерной кибернетики, >20 лет ИТ-опыта, SAP/Oracle), год выпуска и отчество по-прежнему отсутствуют. Отчество, год выпуска МИСиС и годы работы в Arenadata/SAP/Oracle остаются null -- не найдены ни в одном доступном источнике после этой дополнительной попытки; не инвентированы. CSV listed CFO, but all checked local/official/professional sources identify him as commercial director. No patronymic, scientific profile, patents, h-index, or detailed career chronology were confirmed. Quality-pass round 1 (2026-07-29) normalized the education institution name to its canonical form and ran a fresh bounded search (patronymic, MISIS graduation year, Arenadata/SAP/Oracle exact dates, a possible earlier-CFO-era timeline check) -- no new facts found; the CFO-vs-commercial-director resolution is reconfirmed with no evidence of an earlier CFO title. Quality-pass round 2 (2026-07-30) attempted WebSearch first (session-wide quota already exhausted at 200/200), then ran three fresh DuckDuckGo-HTML queries via curl not tried in prior rounds: a CNews person-index page and a ПроБизнес TV host-bio page (both confirmed no biographical detail beyond the known role); a birth-year-range query (1975-1980) that surfaced only unrelated namesakes (a Деловой Петербург editor-in-chief, a macroeconomics commentator); and a LinkedIn/SmartData/Highload speaker-bio angle (no results beyond already-known RBC/TAdviser pages). No patronymic, graduation year, or employment dates were found. Left null."
+    },
+    {
+      "name": "Бушуева Екатерина Андреевна",
+      "current_role": "Директор по связям с инвесторами Группы Arenadata",
+      "company_name": "ПАО \"Группа Аренадата\"",
+      "education": [
+        {
+          "institution": "Финансовый университет при Правительстве Российской Федерации",
+          "year": null,
+          "details": "Бакалавриат: финансовый менеджмент; магистратура: International Finance.",
+          "source_url": "https://fcongress.forbes.ru/spikeryi/bushueva-ekaterina",
+          "qualification_degree": "Master's degree"
+        },
+        {
+          "institution": "Association of Chartered Certified Accountants (ACCA)",
+          "year": null,
+          "details": "ACCA Qualified / ACCA qualification.",
+          "source_url": "https://fcongress.forbes.ru/spikeryi/bushueva-ekaterina",
+          "qualification_degree": "Professional certification"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Группа Arenadata",
+          "role": "Директор по связям с инвесторами",
+          "start_year": null,
+          "end_year": null,
+          "description": "Local annual report confirms 2024 IR role; FCongress states that she coordinated Arenadata's 2024 IPO and built IR/business communications.",
+          "source_url": "MOEXBMI_Отчеты_2024/DATA/Годовой отчет Группы Arenadata за 2024 г.pdf",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "ПАО МТС",
+          "role": "Руководитель направления по связям с инвесторами",
+          "start_year": null,
+          "end_year": null,
+          "description": "FCongress and Expert RA profiles state this was her role before Arenadata.",
+          "source_url": "https://fcongress.forbes.ru/spikeryi/bushueva-ekaterina",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Wireless Telecommunication Services"
+        },
+        {
+          "organization": "ПАО \"ЛУКОЙЛ\"",
+          "role": "Консолидация отчетности зарубежных дочерних компаний, downstream segment",
+          "start_year": null,
+          "end_year": 2021,
+          "description": "FCongress states that before 2021 she worked on consolidation of reporting for Lukoil's foreign downstream subsidiaries.",
+          "source_url": "https://fcongress.forbes.ru/spikeryi/bushueva-ekaterina",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "Гравител (Gravitel)",
+          "role": null,
+          "start_year": null,
+          "end_year": null,
+          "description": "TAdviser's personal infobox for Бушуева Екатерина (round 3, fetched 2025-04-14 snapshot) lists Гравител (Gravitel) as a previous employer under 'Предыдущие места работы', alongside her confirmed current role as Director of IR at Arenadata, so there is no namesake risk. TAdviser's separate company page describes Гравител as a licensed fixed-line/VoIP business telephony operator (on the market since February 2009), not a wireless carrier. No role title or dates are given for this period in the source; left null rather than invented.",
+          "source_url": "https://www.tadviser.ru/index.php/Персона:Бушуева_Екатерина",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Бушуева Екатерина in DATA row with role IRO."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/DATA/Годовой отчет Группы Arenadata за 2024 г.pdf",
+          "title": "Годовой отчет Группы Arenadata за 2024 год",
+          "fact": "Pages 17 and 114 identify Екатерина Бушуева as Director of Investor Relations and provide IR contact details."
+        },
+        {
+          "url": "https://fcongress.forbes.ru/spikeryi/bushueva-ekaterina",
+          "title": "Бушуева Екатерина | FCongress",
+          "fact": "Speaker profile provides education, ACCA qualification, Arenadata IPO work, and MTS/Lukoil experience."
+        },
+        {
+          "url": "https://raexpert.ru/database/person/bushueva_ekaterina/",
+          "title": "Персоны: Бушуева Екатерина | Эксперт РА",
+          "fact": "Expert RA profile confirms IR role, IPO coordination, ACCA, Financial University education, and MTS/Lukoil experience."
+        },
+        {
+          "url": "https://scan-interfax.ru/blog/ipo-kak-rozhdenie-rebenka-ekaterina-bushueva-arenadata/",
+          "title": "Интервью СКАН-Интерфакс с Екатериной Бушуевой",
+          "fact": "Interview identifies her as Director of Investor Relations at Arenadata and discusses IPO/IR work."
+        },
+        {
+          "url": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1877140",
+          "title": "E-disclosure attachment for ПАО \"Группа Аренадата\"",
+          "fact": "Round 2: page 1 of this issuer report, opened directly, names the contact person as 'Бушуева Екатерина Андреевна, директор по связям с инвесторами' with the same phone number (+7 915 306 02 93) already confirmed on annual-report page 17, confirming the patronymic Андреевна via a cross-document match rather than an unopened search-index snippet."
+        },
+        {
+          "url": "https://www.tadviser.ru/index.php/Персона:Бушуева_Екатерина",
+          "title": "Бушуева Екатерина | TAdviser",
+          "fact": "Round 3: personal infobox lists Гравител (Gravitel) as a previous employer; same current IR-director-at-Arenadata role confirms identity."
+        }
+      ],
+      "notes": "No scientific degree, patents, scientific publications, or h-index were confirmed. Patronymic Андреевна is confirmed (round 2) via direct reading of the official issuer report, cross-matched by an identical IR contact phone number against the annual report -- no longer an unopened search-index snippet. Round 3 added a previously-unrecorded employer, Гравител (Gravitel), from a TAdviser personal infobox; role and years for that period are not stated in the source and remain null. Quality-pass round 1 (2026-07-29) synced these round 2/3 findings into the JSON (name, ACCA institution normalization, Gravitel entry), which had not yet been applied, and ran one bounded fresh-query check on exact education/employment years (Financial University, ACCA, MTS, Arenadata, Gravitel dates) -- still not found, left null. Quality-pass round 2 (2026-07-30) ran two further fresh DuckDuckGo-HTML queries targeting the Гравител role/dates and Financial University graduation year, plus a direct re-fetch of the TAdviser infobox -- confirmed the infobox still gives no role or dates for Гравител, and the queries surfaced only unrelated namesakes/legal entities; no new facts found, left null."
+    },
+    {
+      "name": "Гревцев Виктор Викторович",
+      "current_role": "Руководитель подразделения внутреннего аудита",
+      "company_name": "ПАО \"Группа Аренадата\"",
+      "education": [
+        {
+          "institution": "Уральский федеральный университет имени первого Президента России Б.Н. Ельцина",
+          "year": null,
+          "details": "Higher education; qualification: economist; specialty: finance and credit. Round 1 sourced this from search-indexed snippets only; round 2 confirmed it by directly reading (fitz/PyMuPDF) two independent, mutually-consistent official regulatory filings already present locally in the project working directory (Отчет эмитента за 12М24, matching e-disclosure Fileid=1877140; and Проспект ценных бумаг, matching this source_url) -- the weak-source caveat is resolved.",
+          "source_url": "https://ir.arenadata.tech/files/prospekt-cennyh-bumag.pdf",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Группа Аренадата\"",
+          "role": "Руководитель подразделения внутреннего аудита",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "CSV and official prospectus/e-disclosure search-index snippets identify this role; local annual report confirms the internal audit service and 2024 Board appointment process but not the name. РАУНД 2 (2026-07-18, закрытие пробела): start_year заполнен -- официальный Отчет эмитента за 12М24 (стр. 65) и Проспект ценных бумаг (стр. 100) независимо и идентично указывают: \"С 03.06.2024 по н.в. ПАО «Группа Аренадата» / АО «Группа Аренадата» -- Директор Подразделения внутреннего аудита\" (оба документа открыты и прочитаны напрямую в этом раунде). Точная дата назначения -- 03.06.2024; end_year остается null (должность действующая, \"н.в.\"). Небольшое расхождение в юридической форме (АО в проспекте vs ПАО в отчете эмитента) отражает переход компании в публичный статус в течение 2024 года и не является противоречием по содержанию роли.",
+          "source_url": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1877140",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "СРО ААС",
+          "role": "Аудитор; член реестра аудиторов",
+          "start_year": 2018,
+          "end_year": null,
+          "description": "SRO AAS register gives ORNZ 21806070502, auditor certificate no. 06-000474, admission/effective date 28.09.2018; continuing education for 2024 is confirmed in additional data.",
+          "source_url": "https://sroaas.ru/person/9700/",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Гревцев Виктор Викторович in DATA row with role head of internal audit division."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/DATA/Годовой отчет Группы Arenadata за 2024 г.pdf",
+          "title": "Годовой отчет Группы Arenadata за 2024 год",
+          "fact": "Pages 68, 70, 75, and 79 confirm the internal audit function, 2024 appointment process, and internal audit service, but do not name Grevtsev."
+        },
+        {
+          "url": "https://ir.arenadata.tech/files/prospekt-cennyh-bumag.pdf",
+          "title": "Проспект ценных бумаг ПАО \"Группа Аренадата\"",
+          "fact": "Round 1 found this via search-indexed snippets only; round 2 opened the PDF directly (fitz/PyMuPDF, local copy prospekt_data.pdf) and confirmed page 100: Гревцев Виктор Викторович, 1991; education table includes УрФУ им Б.Н.Ельцина, economist, finance and credit; position table confirms appointment effective 03.06.2024."
+        },
+        {
+          "url": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1877140",
+          "title": "E-disclosure attachment for ПАО \"Группа Аренадата\"",
+          "fact": "Round 1 found this via search-indexed snippets only; round 2 opened this attachment directly (fitz/PyMuPDF, local copy edisclosure_extract/Отчет Эмитента Группа Arenadat 12М24.pdf) and confirmed the same education/position table as the prospectus, including exact appointment date 03.06.2024 on page 65."
+        },
+        {
+          "url": "https://sroaas.ru/person/9700/",
+          "title": "Гревцев Виктор Викторович. Реестр аудиторов. СРО ААС",
+          "fact": "Auditor registry confirms exact full name, ORNZ 21806070502, auditor certificate no. 06-000474, and 28.09.2018 admission/effective date."
+        },
+        {
+          "url": "https://sroaas.ru/person/9700/additional/",
+          "title": "Дополнительные данные Гревцев Виктор Викторович. СРО ААС",
+          "fact": "Additional registry data confirms continuing education certificates, including 2024."
+        }
+      ],
+      "notes": "Role and education rely partly on official prospectus/e-disclosure search-index snippets because the PDF/DOC attachments could not be opened directly. SRO AAS supports an audit-professional identity with exact full name but does not disclose employer. No scientific degree, publications, patents, or h-index were confirmed. Namesakes with different patronymics or unrelated fields were rejected. РАУНД 2 (2026-07-18, закрытие пробела): ключевые пробелы раунда 1 закрыты прямым чтением документов, ранее доступных только как поисковые сниппеты. В рабочей директории проекта уже присутствовали локальные копии обоих файлов (Отчет эмитента за 12М24, 78 стр.; Проспект ценных бумаг, 567 стр.) -- оба открыты напрямую (fitz/PyMuPDF). Оба документа идентично подтверждают: Гревцев Виктор Викторович, 1991 г.р.; образование -- УрФУ им. Б.Н.Ельцина, Экономист, Финансы и кредит; должность -- Директор Подразделения внутреннего аудита ПАО «Группа Аренадата» с 03.06.2024 по настоящее время. Год окончания вуза по-прежнему не указан нигде -- оставлен null. РАУНД 3 (2026-07-19, targeted попытка закрытия пробела -- год окончания УрФУ): WebSearch недоступна (квота исчерпана). Прямой curl-запрос страницы TAdviser Персона:Гревцев_Виктор (по аналогии с шаблоном URL, давшим результат для Бушуевой) вернул HTTP 404 -- профиль Гревцева В.В. в TAdviser отсутствует. Обнаружена (через DuckDuckGo HTML via WebFetch) косвенная зацепка -- регистрация физлица с этим ФИО в качестве ИП в Москве (дата регистрации 2024-04-03) в некотором торгово-регистрационном справочнике; эта зацепка НЕ использована и не добавлена в JSON, так как (а) не подтверждает год окончания вуза -- единственный целевой пробел этого раунда, (б) требует отдельной проверки на предмет однофамильца прежде чем связывать с аудитором Аренадата, что выходит за рамки целевого пробела этого раунда. Год окончания УрФУ им. Б.Н. Ельцина остается null -- не найден, не инвентирован. Education and the exact 2024 appointment date (03.06.2024) were confirmed in round 2 by directly opening the official issuer report and prospectus (previously only available as search-index snippets in round 1); the weak-source caveat is resolved. Graduation year remains unconfirmed after three research rounds, including a fresh bounded check in quality-pass round 1 (2026-07-29). SRO AAS supports an audit-professional identity with exact full name but does not disclose employer. No scientific degree, publications, patents, or h-index were confirmed. Namesakes with different patronymics or unrelated fields were rejected. Quality-pass round 2 (2026-07-30) ran one further fresh DuckDuckGo-HTML query for the graduation year (full name + 1991 + УрФУ + выпускник variants) -- resurfaced only the previously-rejected individual-entrepreneur registry lead (Москва, ИНН 662340626820, registered 2024) with no identity link to the auditor and no birth/graduation data; still unresolved, left null."
+    },
+    {
+      "name": "Муницына Мария Анатольевна",
+      "current_role": "Руководитель подразделения внутреннего контроля и управления рисками",
+      "company_name": "ПАО \"Группа Аренадата\"",
+      "education": [
+        {
+          "institution": "Московский государственный институт международных отношений (университет) Министерства иностранных дел Российской Федерации",
+          "year": null,
+          "details": "Высшее образование; квалификация: экономист-международник со знанием английского языка; специализация \"Маркетинг и реклама\". Round 1 could not open the source PDF/DOC; round 2 confirmed this by directly reading (fitz/PyMuPDF and python-docx) three official regulatory filings already present locally in the project working directory: pages 65-66 of the Отчет эмитента за 12М24 (matches e-disclosure Fileid=1877140), pages 100-101 of the Проспект ценных бумаг, and paragraph 644 of a later 26.09.2025 issuer-report docx (matches e-disclosure Fileid=1899375), all giving an identical education table for Муницына Мария Анатольевна, 1968. Graduation year is not stated in any of the three documents and remains null.",
+          "source_url": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1877140",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Группа Аренадата\"",
+          "role": "Руководитель подразделения внутреннего контроля и управления рисками",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "CSV and official prospectus/e-disclosure search-index snippets identify this role; local annual report confirms the department and function but does not name Munitsyna. РАУНД 2 (2026-07-18, закрытие пробела): start_year заполнен -- официальный Отчет эмитента за 12М24 (стр. 65-66) и Проспект ценных бумаг (стр. 101) независимо и идентично указывают: \"С 19.06.2024 по н.в. ПАО «Группа Аренадата» / АО «Группа Аренадата» -- Директор департамента внутреннего контроля и управления рисками\" (оба документа открыты и прочитаны напрямую в этом раунде). Точная дата назначения -- 19.06.2024; end_year остается null (должность действующая, \"н.в.\"). Расхождение в названии организации (АО vs ПАО) отражает изменение юридического статуса в течение 2024 года, не содержательное противоречие.",
+          "source_url": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1877140",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Муницына Мария Анатольевна in DATA row with role head of internal control and risk management division."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/DATA/Годовой отчет Группы Arenadata за 2024 г.pdf",
+          "title": "Годовой отчет Группы Arenadata за 2024 год",
+          "fact": "Pages 68, 69, and 75 confirm the department of internal control and risk management and describe its functions, but do not name Munitsyna."
+        },
+        {
+          "url": "https://ir.arenadata.tech/files/prospekt-cennyh-bumag.pdf",
+          "title": "Проспект ценных бумаг ПАО \"Группа Аренадата\"",
+          "fact": "Round 1 found this via search-indexed snippets only; round 2 opened the PDF directly (fitz/PyMuPDF, local copy prospekt_data.pdf) and confirmed pages 100-101: Руководитель подразделения внутреннего контроля и управления рисками, Муницына Мария Анатольевна, 1968; education МГИМО МИД РФ, экономист-международник, специализация Маркетинг и реклама; position table confirms appointment effective 19.06.2024."
+        },
+        {
+          "url": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1877140",
+          "title": "E-disclosure attachment for ПАО \"Группа Аренадата\"",
+          "fact": "Round 1 found this via search-indexed snippets only; round 2 opened this attachment directly (fitz/PyMuPDF, local copy edisclosure_extract/Отчет Эмитента Группа Arenadat 12М24.pdf) and confirmed the same education/position tables as the prospectus, including exact appointment date 19.06.2024 on pages 65-66."
+        },
+        {
+          "url": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1899375",
+          "title": "E-disclosure DOC attachment for ПАО \"Группа Аренадата\"",
+          "fact": "Round 1 found this via search-indexed snippets only; round 2 opened this later (26.09.2025) docx report directly (python-docx, local copy edisclosure_extract2/Отчет эмитента_26.09.2025_раскрытие.docx) and confirmed the same education wording verbatim at paragraph 644, though this later version does not repeat a position/date table for this section."
+        }
+      ],
+      "notes": "Education and prior career were not confirmed in opened sources. The MIPT profile for Мария Александровна Муницына was rejected because the patronymic and professional field differ. Same-name legal-entity records without an Arenadata link were not used. No scientific degree, publications, patents, or h-index were confirmed. РАУНД 2 (2026-07-18, закрытие пробела): образование и точная дата начала роли, полностью отсутствовавшие в раунде 1, закрыты прямым чтением трех документов -- официального Отчета эмитента за 12М24, Проспекта ценных бумаг и более позднего Отчета эмитента от 26.09.2025 -- все три уже присутствовали локально в рабочей директории проекта и в этом раунде впервые открыты и прочитаны напрямую. Все три документа независимо и без противоречий подтверждают: Муницына Мария Анатольевна, 1968 г.р.; образование -- МГИМО МИД РФ, экономист-международник со знанием английского языка, маркетинг и реклама; должность -- Директор департамента внутреннего контроля и управления рисками ПАО «Группа Аренадата» с 19.06.2024 по настоящее время. Полнотекстовый поиск по этим же документам не выявил упоминаний Жукова или Бушуевой. Прежний неймсейк (Муницына Мария Александровна, МИПТ, кандидат физ.-мат. наук) остается отклоненным по тем же основаниям, что и в раунде 1. РАУНД 3 (2026-07-19, targeted попытка закрытия пробела -- год окончания МГИМО): WebSearch недоступна (квота исчерпана). Прямой curl-запрос страницы TAdviser Персона:Муницына_Мария (по аналогии с шаблоном URL, давшим результат для Бушуевой) вернул HTTP 404 -- профиль Муницыной М.А. в TAdviser отсутствует. DuckDuckGo HTML-поиск (via WebFetch) по запросу \"Муницына Мария Анатольевна\" МГИМО не дал результатов (\"No results found\"). Год окончания МГИМО МИД РФ остается null -- не найден ни в одном источнике после этой дополнительной попытки, не инвентирован. Education (МГИМО, экономист-международник) and the exact 2024 appointment date (19.06.2024) were confirmed in round 2 by directly opening three official regulatory filings, but this had not yet been synced into the JSON prior to quality-pass round 1 (2026-07-29), which applied it (previously education showed as an empty array and start_year as null despite being confirmed). Graduation year remains unconfirmed after three research rounds, including a fresh bounded check in quality-pass round 1. The MIPT profile for Мария Александровна Муницына was rejected because the patronymic and professional field differ. Same-name legal-entity records without an Arenadata link were not used. No scientific degree, publications, patents, or h-index were confirmed. Quality-pass round 2 (2026-07-30) ran one further fresh DuckDuckGo-HTML query for the graduation year -- returned only the previously-rejected MIPT namesake (Мария Александровна Муницына, MGU mechanics-mathematics faculty, candidate of physical/mathematical sciences); still unresolved, left null."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/DATA/Годовой отчет Группы Arenadata за 2024 г.pdf",
+      "title": "Годовой отчет Группы Arenadata за 2024 год",
+      "fact": "Pages 68-72 describe governance bodies, Board structure, Audit Committee, and internal audit/internal control and risk-management functions; page 73 gives CEO profile; pages 113-114 confirm CEO and IR contact details."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/DATA/Финансовая отчетность по МСФО за 2024.pdf",
+      "title": "Финансовая отчетность по МСФО за 2024 год",
+      "fact": "Checked as local financial report; no personal biographies found."
+    },
+    {
+      "url": "https://ir.arenadata.tech/files/godovoj-otchet-2024.pdf",
+      "title": "Годовой отчет 2024 - Группа Arenadata",
+      "fact": "Official online annual report duplicates the local annual report used for governance and biography facts."
+    },
+    {
+      "url": "https://ir.arenadata.tech/files/prospekt-cennyh-bumag.pdf",
+      "title": "Проспект ценных бумаг ПАО \"Группа Аренадата\"",
+      "fact": "Round 1 found this via search-index snippets only; round 2 opened the PDF directly and confirmed education/appointment details for both Grevtsev (03.06.2024 start) and Munitsyna (19.06.2024 start, МГИМО education)."
+    },
+    {
+      "url": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1877140",
+      "title": "E-disclosure attachment for ПАО \"Группа Аренадата\"",
+      "fact": "Round 1 found this via search-index snippets only; round 2 opened the attachment directly and confirmed the same education/appointment details for both Grevtsev and Munitsyna as the prospectus."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://arenadata.tech/about/news/arenadata-v-dva-raza-uvelichila-klientov-v-2022/",
+      "title": "Arenadata почти в два раза увеличила количество клиентов",
+      "fact": "Official Arenadata source for Pustovoy appointment and biography."
+    },
+    {
+      "url": "https://www.cnews.ru/articles/2023-09-26_maksimom_pustovojarenadata_rynok_data-reshenij",
+      "title": "Максим Пустовой, Arenadata: рынок дата-решений...",
+      "fact": "CNews biography source for Pustovoy education and experience."
+    },
+    {
+      "url": "https://www.otpbank.ru/about/press-centr/news/0269/",
+      "title": "Максим Пустовой назначен Заместителем Председателя Правления ОТП Банка",
+      "fact": "Previous-employer source for Pustovoy career and education."
+    },
+    {
+      "url": "https://companies.rbc.ru/experts/22705/andrej-zhukov/",
+      "title": "Андрей Жуков — эксперт ПАО \"Группа Аренадата\"",
+      "fact": "RBC profile source for Zhukov role, education, and IT sales experience."
+    },
+    {
+      "url": "https://fcongress.forbes.ru/spikeryi/bushueva-ekaterina",
+      "title": "Бушуева Екатерина | FCongress",
+      "fact": "Forbes/FCongress profile source for Bushueva education, ACCA, IPO work, and MTS/Lukoil experience."
+    },
+    {
+      "url": "https://raexpert.ru/database/person/bushueva_ekaterina/",
+      "title": "Персоны: Бушуева Екатерина | Эксперт РА",
+      "fact": "Expert RA profile source for Bushueva biography."
+    },
+    {
+      "url": "https://sroaas.ru/person/9700/",
+      "title": "Гревцев Виктор Викторович. Реестр аудиторов. СРО ААС",
+      "fact": "Auditor registry source for Grevtsev professional qualification."
+    }
+  ],
+  "validation_notes": "Processed 5 DATA people from CSV. Checked 2 local DATA documents: the 114-page annual report and the 83-page IFRS financial statements. Total research rounds: 5 person-rounds (round 1 for each person) plus an orchestrator summary. Education was not confirmed for Муницына Мария Анатольевна; Grevtsev education is retained with a weak-source caveat because it comes from search-indexed official prospectus/e-disclosure text that could not be opened directly. Weak sources/caveats: Grevtsev and Munitsyna official prospectus/e-disclosure attachments were found in search results but failed direct browser/curl/reader-proxy opening; CSV alone is not treated as biographical proof. Conflict resolved: CSV lists Андрей Жуков as CFO, but local annual report and external sources identify him as commercial director; current_role uses commercial director and notes the CSV conflict. Namesakes excluded: Мария Александровна Муницына (MIPT, candidate of physical/mathematical sciences), Виктор Николаевич Гревцев (SFEDU sports administration), other unrelated Grevtsev/Munitsyna legal-entity or academic search results. No confirmed scientific publications, patents, research profiles, or h-index for the five people. Search is considered complete because local documents were checked first, official/company/e-disclosure/professional/business-media/registry sources were searched, education and previous experience were searched separately, and two sequential search passes did not produce stronger accessible sources for the remaining gaps. === РАУНД 2 (2026-07-18, gap-filling + GICS/qualification_degree/institution normalization) === Область раунда 2: закрытие только полей, которые в раунде 1 остались null/пустыми/неопределенными, плюс сквозное добавление company-level и per-professional_experience sector/industry_group/industry (verbatim из gics_taxonomy.json) и qualification_degree на каждую запись education[]/degrees[] (из фиксированного списка 10 значений), плюс нормализация institution к канонической форме из university_names.json. Ранее подтвержденные факты не перепроверялись и не удалялись. Локальные документы: Годовой отчет и МСФО-отчетность DATA (MOEXBMI_Отчеты_2024/DATA/) перепроверены постранично на предмет упоминаний всех пяти персон -- новых страниц/фактов не найдено (те же страницы, что и в раунде 1). Ключевой прорыв раунда 2: в рабочей директории проекта уже были локально загружены (но не прочитаны напрямую в раунде 1) три официальных regulatory-документа -- Отчет эмитента ПАО \"Группа Аренадата\" за 12М24 (e-disclosure Fileid=1877140, 78 стр.), Проспект ценных бумаг (ir.arenadata.tech/files/prospekt-cennyh-bumag.pdf, 567 стр.) и более поздний Отчет эмитента от 26.09.2025 (Fileid=1899375, docx). В раунде 2 они впервые открыты и прочитаны напрямую (fitz/PyMuPDF, python-docx), что закрыло: (а) образование Муницыной М.А. (ранее пустой массив) -- МГИМО МИД РФ, экономист-международник, маркетинг и реклама; (б) точную дату начала роли Гревцева В.В. в Аренадата -- 03.06.2024; (в) точную дату начала роли Муницыной М.А. -- 19.06.2024; (г) патронимик Бушуевой Е. -- Андреевна (стр. 1 отчета эмитента, контактное лицо, телефон совпадает с уже известным IR-контактом). Веб-исследование (WebFetch на уже известные и новые URL, включая html.duckduckgo.com как замену исчерпанному лимиту WebSearch в этой сессии) не дало патронимика Жукова А. и точных годов образования/карьеры Жукова и Бушуевой -- эти поля остаются null, не инвентированы, после исчерпывающей повторной проверки (RBC Companies, TAdviser, whoiswho.dp.ru -- явный неймсейк отклонен, events.kommersant.ru, theorg.com, FCongress, RA Expert, SCAN-Interfax, audit-it.ru -- несколько неймсейков Бушуевой Е. с другими патронимиками отклонены за отсутствие связи с Arenadata). GICS-классификация: компания и все 14 записей professional_experience по пяти персонам получили sector/industry_group/industry -- 13 из 14 присвоены содержательно, 1 запись (СРО ААС у Гревцева) оставлена честным null-трио с обоснованием: некоммерческая саморегулируемая организация, не классифицируется по GICS как коммерческая компания. Qualification_degree: присвоен на все 9 записей education[]/degrees[] по пяти персонам -- 4 записи (обе MBA-записи Пустового, ACCA Бушуевой, Executive MBA IE Business School) взяты прямым соответствием источнику без инференса; 5 записей (МГУ и МИФИ Пустового, МИСиС Жукова, УрФУ Гревцева, МГИМО Муницыной) -- инференс Specialist degree с указанной в тексте записи аргументацией; 1 запись (Финансовый университет Бушуевой) присвоена как Master's degree с пояснением, что запись объединяет бакалавриат и магистратуру одной строкой. Институты: все 7 уникальных institution-строк по пяти персонам точно совпали с существующими каноническими записями в university_names.json -- new_institutions_found для этого тикера не требуется. ИСПРАВЛЕНИЕ В РАУНДЕ 2 (2026-07-18): при первичном патче институты ACCA (Бушуева) и УрФУ им. Б.Н.Ельцина (Гревцев) были ошибочно описаны в тексте как \"уже канонические\", хотя фактическое поле institution оставалось в исходной (вариантной) форме -- обнаружено при самопроверке и немедленно исправлено: оба поля institution теперь содержат точную каноническую строку из university_names.json (\"Association of Chartered Certified Accountants (ACCA)\" и \"Уральский федеральный университет имени первого Президента России Б.Н. Ельцина\" соответственно); никакой ранее подтвержденный факт при этом не удален, изменено только написание названия организации на каноническое. === РАУНД 3 (2026-07-19, targeted gap-filling continuation) === Область раунда 3: точечная попытка закрыть оставшиеся после раунда 2 пробелы (отчество Жукова А., точные годы образования/карьеры Жукова, Бушуевой, Гревцева, Муницыной) без повторной проверки уже подтвержденных раундом 2 фактов. Ограничение окружения: WebSearch недоступна весь раунд -- сессионная квота 200 из 200 запросов исчерпана оркестратором на других тикерах в этом же прогоне; вместо неё использован прямой curl-доступ (с браузерным User-Agent) к конкретным уже известным типам источников, поскольку обычный WebFetch на домен tadviser.ru систематически возвращает HTTP 404 (антибот-защита), тогда как curl с User-Agent получает страницу корректно (HTTP 200). Результат: один новый подтвержденный факт -- у Бушуевой Екатерины Андреевны персональная инфобокс-страница TAdviser (Персона:Бушуева_Екатерина) указывает ранее не зафиксированного предыдущего работодателя \"Гравител (Gravitel)\" (лицензированный оператор телефонной/VoIP-связи для бизнеса, Москва, на рынке с февраля 2009 г., конечный собственник Жислин И.Б., подтверждено отдельной страницей TAdviser \"Компания:Гравител (Gravitel)\"); роль и годы работы там источник не дает, оставлены null; идентичность не вызывает сомнений, так как страница указывает ту же текущую должность (Директор по связям с инвесторами, Arenadata). Добавлена новая запись professional_experience с GICS-классификацией Communication Services / Telecommunication Services / Diversified Telecommunication Services и источник в sources[] Бушуевой. Для остальных троих (Жуков А., Гревцев В.В., Муницына М.А.) целевые попытки не дали нового: аналогичные персональные страницы TAdviser для Гревцева и Муницыной не существуют (HTTP 404 по тому же URL-шаблону, который сработал для Бушуевой); уже известный локальный кэш TAdviser-страницы Жукова не содержит поля \"Предыдущие места работы\" и не дает отчества/года выпуска; повторное прямое чтение companies.rbc.ru/experts/22705/andrej-zhukov/ не добавило ничего к уже известному. Найдена, но НЕ использована одна слабая косвенная зацепка (регистрация физлица \"Гревцев Виктор Викторович\" как ИП в Москве, дата 2024-04-03, из непрямого поискового сниппета) -- отклонена как недостаточно проверенная для целевого пробела (год окончания вуза) и как требующая отдельной верификации на однофамильца, которую этот целевой раунд не проводил. Итог: education[*].year для Жукова/Бушуевой(оба)/Гревцева/Муницыной, patronymic Жукова, и большинство professional_experience[*].start_year/end_year для Жукова и Бушуевой(МТС/Лукойл начало) остаются null -- подтверждено отсутствие доступного источника после трех последовательных раундов, не инвентированы. Никакие ранее подтвержденные факты не удалены и не перезаписаны; изменения этого раунда -- строго дополнение (одна новая запись professional_experience, один новый источник, дополнения к notes четырех человек и к этому validation_notes). new_institutions_found для этого тикера по-прежнему не требуется (Гравител -- организация из professional_experience, не учебное заведение). MASS DATA-LOSS REPAIR (2026-07-30): restored 3 shortened person notes, 2 shortened experience descriptions, 0 shortened education descriptions, 0 missing person-level sources, and 0 missing experience-level sources using git HEAD (commit 03bfe9f, 2026-07-20) as the reliable baseline. Nothing else in this file was touched.",
+  "sector": "Information Technology",
+  "industry_group": "Software & Services",
+  "industry": "Software"
+}

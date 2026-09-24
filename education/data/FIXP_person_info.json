@@ -1,0 +1,403 @@
+{
+  "company_name": "Fix Price Group PLC / Фикс Прайс Груп Лтд",
+  "company_ticker": "FIXP",
+  "ceo": {
+    "name": "Кирсанов Дмитрий Николаевич",
+    "current_role": "Member of the Board of Directors, CEO and Managing Director of Fix Price Group PLC in the 2024 annual-report context.",
+    "company_name": "Fix Price Group PLC / Фикс Прайс Груп Лтд",
+    "education": [
+      {
+        "institution": "The Open University",
+        "field": "Management",
+        "year": 2002,
+        "description": "Management degree received in 2002. Institution normalized to canonical form per university_names.json (\"Open University of the U.K.\" is a listed alias of \"The Open University\"). Round 2: both Kommersant profiles (2021 and 2025) and the prospectus consistently call this a management \"degree\" (степень), but none specify whether it is a Bachelor's-level award, an Open University Business School Professional Diploma, or a Professional Certificate -- a genuine ambiguity given that Russian executives of this era commonly obtained OU Business School diploma/certificate-level credentials rather than full undergraduate degrees, and media routinely renders any of these as \"degree\". No primary transcript or OU alumni record was found to disambiguate, so qualification_degree is left null rather than guessed. Quality pass round 1 (2026-07-30): a fresh web search surfaced Vedomosti's 16 December 2020 profile (vedomosti.ru/business/characters/2020/12/16/851287-fix-price-4000-kopii), which explicitly calls this credential \"степень MBA ... в Открытом университете Великобритании\" (an MBA degree). This conflicts with the official 2021 IPO prospectus and both Kommersant profiles, none of which use the word MBA for this specific credential -- the prospectus reserves that term for the separate, explicitly-named 2007 Plekhanov MBA-Synergy programme. Because the prospectus is the more rigorously fact-checked, legally-accountable primary source and itself distinguishes the two credentials, Vedomosti's \"MBA\" label is treated as a probable journalistic simplification rather than a confirmed fact; qualification_degree stays null and Vedomosti is added to ceo.sources to document this unresolved conflict rather than silently adopting either label.",
+        "qualification_degree": null
+      },
+      {
+        "institution": "International Business Academy",
+        "field": "Management",
+        "year": 2003,
+        "description": "Management degree received in 2003. Round 2: institution string already matches its own canonical entry in university_names.json (no normalization needed). A web check for \"International Business Academy\" found multiple unrelated same-named schools and no single confirmed match tied to Kirsanov's 2003 credential. Given the same unresolved degree-level ambiguity as the Open University entry above, qualification_degree is left null. Quality pass round 1 (2026-07-30): Vedomosti (16 December 2020) independently confirms he \"окончил\" (graduated/completed) this institution in the specialization \"менеджмент организации\" (organizational management) -- stronger completion wording than the prospectus's generic \"degree\", but still without specifying Bachelor's vs. diploma/certificate level, so qualification_degree stays null.",
+        "qualification_degree": null
+      },
+      {
+        "institution": "Российский экономический университет имени Г.В. Плеханова",
+        "field": "MBA-Synergy programme",
+        "year": 2007,
+        "description": "Official prospectus states that Kirsanov underwent studies under the MBA-Synergy programme in 2007; this is treated as education/training rather than a separately verified MBA degree.",
+        "qualification_degree": "MBA"
+      }
+    ],
+    "degrees": [
+      {
+        "degree": "Management degrees",
+        "institution": "The Open University",
+        "year": null,
+        "description": "Official prospectus and Kommersant identify management degrees received in 2002 and 2003 respectively. Institution normalized to canonical form per university_names.json (the combined raw string \"Open University of the U.K. and International Business Academy\" is itself a listed alias of \"The Open University\"). qualification_degree left null because this entry bundles two separate institutions/credentials whose exact academic level could not be confirmed (see education[] entries above for the underlying ambiguity, including this round's Vedomosti MBA claim, which was investigated and not adopted).",
+        "qualification_degree": null
+      }
+    ],
+    "professional_experience": [
+      {
+        "organization": "Fix Price Group PLC",
+        "role": "Member of the Board of Directors, CEO and Managing Director",
+        "start_year": 2024,
+        "end_year": null,
+        "description": "The 2024 annual report identifies Kirsanov as a member of the Board of Directors, CEO and Managing Director. Round 2: the official 2021 IPO prospectus Board of Directors table (pp. 173-174) shows Kirsanov appointed to the Board in 2021 as \"Executive Director\" (a distinct, earlier professional_experience entry below), separate from the CEO/Managing Director title bundle the 2024 Annual Report and Interfax attach to him. Interfax (2 July 2024) dates the Managing Director appointment to 1 July 2024, so start_year=2024 is set for this specific \"Member of the Board of Directors, CEO and Managing Director\" role bundle; end_year remains null because it was still current as of the most recent local filings (FY2024 Annual Report and IFRS statements, both dated early-2025).",
+        "sector": "Consumer Staples",
+        "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+        "industry": "Consumer Staples Distribution & Retail (New Name)"
+      },
+      {
+        "organization": "Fix Price Group PLC",
+        "role": "Executive Director, Board of Directors",
+        "start_year": 2021,
+        "end_year": 2024,
+        "description": "Round 2 addition (previously lost from this file, restored in quality pass round 1): the official 2021 IPO prospectus Board of Directors table (pp. 173-174) lists Kirsanov as appointed in 2021 (year of LSE Admission) to the position \"Executive Director\", distinct from and in addition to his General Director/CEO role at LLC Best Price held since 2007. end_year=2024 marks when his group-level title was expanded/renamed to \"CEO and Managing Director\" per Interfax and the 2024 Annual Report (see the preceding professional_experience entry); the underlying Board seat itself is understood to have continued without interruption.",
+        "sector": "Consumer Staples",
+        "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+        "industry": "Consumer Staples Distribution & Retail (New Name)"
+      },
+      {
+        "organization": "LLC Best Price",
+        "role": "General Director / CEO",
+        "start_year": 2007,
+        "end_year": 2024,
+        "description": "The official prospectus says Kirsanov acted as CEO of LLC Best Price since 2007; Interfax reported that after the 1 July 2024 change he was appointed Managing Director of Fix Price Group.",
+        "sector": "Consumer Staples",
+        "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+        "industry": "Consumer Staples Distribution & Retail (New Name)"
+      },
+      {
+        "organization": "Kopeika",
+        "role": "Retail management / sales executive roles",
+        "start_year": 1999,
+        "end_year": 2007,
+        "description": "Prospectus says he worked as a sales executive officer; Kommersant describes progression from shift supervisor and store manager to sales director and executive director. Round 2: the 2021 prospectus (p. 163) independently describes Kopeika as \"the Russian food and non-food retail chain\", which supports the Consumer Staples Distribution & Retail classification used here.",
+        "sector": "Consumer Staples",
+        "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+        "industry": "Consumer Staples Distribution & Retail (New Name)"
+      },
+      {
+        "organization": "Coffee Trade Company and Soft Pro",
+        "role": null,
+        "start_year": 1994,
+        "end_year": 1997,
+        "description": "Official prospectus and Kommersant state that he worked at these companies before Kopeika; exact roles were not confirmed. Round 2: a targeted web check for \"Coffee Trade Company\" and \"Soft Pro\" (Russian: Кофейная торговая компания, Софт Про) as of 1994-1997 returned no identifiable, verifiable company records; both names are too generic to disambiguate from unrelated modern namesakes. Sector/industry_group/industry are set to null rather than guessed because the primary line of business of either entity genuinely could not be determined. Quality pass round 1 (2026-07-30) -- GENUINE INCONSISTENCY FIX: a prior automated GICS/qualification_degree pass had wrongly re-filled this entry with \"Consumer Staples / Consumer Staples Distribution & Retail (New Name)\", contradicting round 2/3's explicit, reasoned null conclusion, apparently because that pass ran against a stale pre-round-2 snapshot of this file. Re-checked all previously-cited sources (2021 prospectus, both Kommersant profiles) plus three fresh search attempts this round (WebSearch: \"Дмитрий Кирсанов\" Fix Price \"Кофейная торговая компания\" ИНН компания; fetched kommersant.ru/doc/5019443 and retail.ru/persons/kirsanov/ directly): none identify Coffee Trade Company or Soft Pro as real, distinct registered entities or state what business they were in, so no source supports any GICS classification for this entry. Reverted sector/industry_group/industry to null/null/null (the round 2/3 value); role also remains null after this round's fresh check finds no new information.",
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_Отчеты_2024/FIXP/FixPrice_ar24.pdf",
+        "title": "Fix Price Group PLC Annual Report 2024",
+        "fact": "Pages 14, 69-73, 117: the report attributes the CEO statement to Dmitry Kirsanov and lists him as Member of the Board of Directors, CEO and Managing Director."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/FIXP/Fix Price IFRS Cons FS 24-e.pdf",
+        "title": "Fix Price Group PLC Consolidated Financial Statements 2024",
+        "fact": "Page 1: the financial statements for the year ended 31 December 2024 were approved by management on behalf of the Board on 26 February 2025 and signed by Dmitry Kirsanov as Chief Executive Officer."
+      },
+      {
+        "url": "https://ir.fix-price.com/upload/iblock/cfd/Fix%20Price%20Group%20Ltd%20Prospectus%205%20March%202021.pdf",
+        "title": "Fix Price Group Ltd Prospectus, 5 March 2021",
+        "fact": "Pages 173-174: prospectus states Kirsanov was CEO of LLC Best Price since 2007, had Kopeika/Coffee Trade/Soft Pro experience, and had management education from Open University of the U.K., International Business Academy, and MBA-Synergy studies at Plekhanov Russian University of Economics."
+      },
+      {
+        "url": "https://www.kommersant.ru/doc/5018576",
+        "title": "Коммерсантъ: «Для нас инфляция — это норма», 7 October 2021",
+        "fact": "The interview profile confirms Kirsanov's birth date, career path through Coffee Trade Company, Soft Pro, Kopeika and LLC Best Price, and management education."
+      },
+      {
+        "url": "https://www.interfax.ru/business/968934",
+        "title": "Интерфакс: В операционной \"дочке\" Fix Price сменился гендиректор, 2 July 2024",
+        "fact": "Interfax reports that Dmitry Kirsanov, previously head of LLC Best Price, was appointed Managing Director of Fix Price Group."
+      },
+      {
+        "url": "https://www.rbc.ru/business/29/12/2023/658ef6fe9a794718a55284f7",
+        "title": "РБК: Основатель Fix Price Хачатрян продал свою долю и покинул совет директоров, 29 December 2023",
+        "fact": "RBC reports that Fix Price CEO Dmitry Kirsanov acquired 1% of Fix Price capital from Artem Khachatryan in December 2023."
+      },
+      {
+        "url": "https://ir.fix-price.com/upload/iblock/cfd/Fix%20Price%20Group%20Ltd%20Prospectus%205%20March%202021.pdf",
+        "title": "Fix Price Group Ltd Prospectus, 5 March 2021",
+        "fact": "Pages 163, 173-174: the Board of Directors table shows Dmitry Kirsanov appointed in 2021 (year of LSE Admission) with the position \"Executive Director\"; the Senior Management table separately shows his 2007 appointment as General Director (CEO) of LLC Best Price. Kopeika is independently described as \"the Russian food and non-food retail chain Kopeika\"."
+      },
+      {
+        "url": "https://www.kommersant.ru/doc/7795108",
+        "title": "Коммерсантъ, 2025 profile of Dmitry Kirsanov",
+        "fact": "Confirms verbatim: \"С 1994 по 1997 год работал в Кофейной торговой компании и компании «Софт Про».\" -- exact role/position at either company is still not stated, consistent with round 1/2 findings."
+      },
+      {
+        "url": "https://www.vedomosti.ru/business/characters/2020/12/16/851287-fix-price-4000-kopii",
+        "title": "Ведомости: «Мы управляем одним магазином Fix Price в 4000 копий», 16 December 2020",
+        "fact": "Quality pass round 1 addition. States verbatim: \"Окончил Международную академию бизнеса по специальности «менеджмент организации», получил степень MBA по специальности «общий менеджмент» в Открытом университете Великобритании.\" -- this explicitly labels the Open University credential an MBA, conflicting with the prospectus and both Kommersant profiles (neither of which use \"MBA\" for this credential); investigated and NOT adopted into qualification_degree because the prospectus is the more authoritative, legally-accountable source and itself distinguishes this credential from the explicitly-named 2007 Plekhanov MBA-Synergy programme. Retained as a documented, unresolved conflicting lead."
+      }
+    ],
+    "notes": "CEO identification is based on local 2024 annual-report and financial-statement evidence. No confirmed scientific publications, patents, research roles or h-index were found. Round 2 (2026-07-18): filled the previously-null start_year for the Fix Price Group PLC Board/CEO/Managing Director role bundle (2024, via Interfax + prospectus board table); added a new professional_experience entry for the 2021-2024 Executive Director board seat found in the 2021 prospectus board table; normalized Open University and Plekhanov institution names to their university_names.json canonical forms; added qualification_degree to all education[] and degrees[] entries (MBA for the Plekhanov/MBA-Synergy entry with high confidence from the programme's own name; null for both Open University and International Business Academy entries and for the combined degrees[] entry, because their exact academic level could not be confirmed with high confidence); added sector/industry_group/industry to every professional_experience entry (Consumer Staples Distribution & Retail for Fix Price Group PLC, LLC Best Price and Kopeika; null/null/null for Coffee Trade Company and Soft Pro because their line of business could not be determined). Round 3 (2026-07-19): re-scanned the full text of both local filings programmatically for every Kirsanov mention -- confirmed no biography content exists beyond what rounds 1-2 already captured. Re-fetched kommersant.ru/doc/7795108 for the exact original-language sentence on Coffee Trade Company/Soft Pro: role still not stated. Additional targeted web searches (DuckDuckGo, Bing) for Coffee Trade Company/Soft Pro returned no identifiable 1994-1997 employer. No source clarified the exact academic level of the Open University or International Business Academy management degrees; qualification_degree stayed null. QUALITY PASS ROUND 1 (2026-07-30): this round found that the on-disk JSON had regressed relative to the round 2/3 research trail above -- start_year on the Fix Price Group PLC CEO/Managing Director entry had reverted to null, the 2021-2024 Executive Director board-seat entry was missing entirely, institution names had reverted to non-canonical aliases, and two ceo.sources entries (the second prospectus citation and the 2025 Kommersant profile) were missing -- apparently because an earlier bulk GICS/qualification_degree pass ran against a stale pre-round-2 snapshot of this file rather than the fully round-2/3-patched version. All of these were simple omissions of already-confirmed, already-sourced facts (documented in research_notes/FIXP/*_round_2.md and *_round_3.md) and have been restored verbatim. Separately, this round found and fixed a GENUINE INCONSISTENCY: the same stale-snapshot regression had wrongly re-filled the Coffee Trade Company/Soft Pro professional_experience entry's sector/industry_group/industry with \"Consumer Staples / Consumer Staples Distribution & Retail (New Name)\", directly contradicting round 2/3's explicit, reasoned null/null/null conclusion (that entry's employers could not be identified as real, classifiable businesses). Re-checked all cited sources plus three fresh search queries/fetches this round; found no support for any GICS classification, so reverted to null/null/null. Honest-gap follow-up (bounded, one attempt each): (1) Coffee Trade Company/Soft Pro role -- fresh WebSearch/WebFetch queries (Vedomosti, a second Kommersant profile doc/5019443, retail.ru/persons/kirsanov/) found no new role or company-identity information; remains null, now after four research passes. (2) qualification_degree for the Open University and International Business Academy entries -- a fresh search surfaced Vedomosti (16 Dec 2020) explicitly calling the Open University credential an MBA, a new but conflicting lead; investigated against the more authoritative prospectus (which does not use \"MBA\" for this credential and separately, explicitly names the 2007 Plekhanov programme \"MBA-Synergy\") and judged a probable media simplification; NOT adopted, added as a documented conflicting source instead, qualification_degree stays null on both entries and on degrees[0]. No previously confirmed fact was deleted or overwritten this round. QUALITY PASS ROUND 2 (2026-07-31): Step 0 baseline check -- compared the on-disk file against `git show HEAD:.../FIXP_person_info.json` (commit f973022) before any edits: content was byte-for-byte identical (only line-ending differences, LF vs CRLF); no regression from the prior round's committed baseline was found, so no restoration was needed this round. Desync check: re-read all of research_notes/FIXP/Kirsanov_Dmitry_Nikolaevich_round_{1,2,3}.md against the current JSON field-by-field (education, degrees, professional_experience incl. the 2021-2024 Executive Director entry, ceo.sources count of 9); found no simple omission and no new genuine inconsistency beyond the Open University/Vedomosti-MBA conflict already investigated and resolved (conservatively, as null) in quality pass round 1. GICS re-check: verified all five professional_experience GICS triples (Fix Price Group PLC x2, LLC Best Price, Kopeika, and the correctly-null Coffee Trade Company/Soft Pro) against gics_taxonomy.json -- \"Consumer Staples / Consumer Staples Distribution & Retail (New Name) / Consumer Staples Distribution & Retail (New Name)\" is an exact taxonomy row and genuinely matches Fix Price's and Kopeika's retail business; no correction needed. Honest-gap follow-up, bounded attempt (fresh queries not tried in any earlier round): for Coffee Trade Company/Soft Pro identity and role -- WebFetch of DuckDuckGo HTML for \"Кофейная торговая компания\" Москва 1994 ООО реестр история (surfaced only unrelated same-named modern companies in different cities/INNs, no 1994-1997 Kirsanov match); \"Софт Про\" компания 1990-е Москва история фирма (zero results); Bing search for forbes.ru \"Дмитрий Кирсанов\" Fix Price биография карьера (no forbes.ru article found); DuckDuckGo for \"Дмитрий Кирсанов\" Fix Price интервью \"первое место работы\" (zero results). No new information surfaced; role and sector/industry_group/industry remain null after five research passes (rounds 1-3, quality round 1, quality round 2). Also re-attempted one fresh query on the Open University/International Business Academy qualification_degree ambiguity (\"Dmitry Kirsanov\" \"Open University\" \"bachelor\" OR \"diploma\" OR \"certificate\" Fix Price via DuckDuckGo) -- blocked by a CAPTCHA wall, no content retrieved; the quality-round-1 resolution (qualification_degree stays null on both entries and on degrees[0]; Vedomosti's MBA claim documented as an unresolved, non-adopted conflicting lead) stands unchanged. No previously confirmed fact was deleted or overwritten this round; no field value was changed."
+  },
+  "tmt": [
+    {
+      "name": "Погонин Владимир Петрович",
+      "current_role": "General Director of LLC Best Price, the Russian operating subsidiary of Fix Price, from 1 July 2024. CSV labels him CEO, but local 2024 group-level documents identify Dmitry Kirsanov as Fix Price Group PLC CEO.",
+      "company_name": "LLC Best Price / Fix Price operating subsidiary",
+      "education": [
+        {
+          "institution": "Serpukhov Higher Military Engineering School of Missile Forces",
+          "field": "Cybernetic engineering",
+          "year": 1991,
+          "description": "Graduated in 1991 with a degree in cybernetic engineering.",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Degree in cybernetic engineering",
+          "institution": "Serpukhov Higher Military Engineering School of Missile Forces",
+          "year": 1991,
+          "description": "Confirmed by the official 2021 prospectus.",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "LLC Best Price",
+          "role": "General Director",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Interfax reported that Pogonin headed LLC Best Price from 1 July 2024.",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "Fix Price / LLC Best Price",
+          "role": "Head of Store Management Department",
+          "start_year": 2021,
+          "end_year": 2024,
+          "description": "Official Fix Price press release says Pogonin headed the newly created Store Management Department in November 2021; later 2024 role change was reported by Interfax.",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "Fix Price / LLC Best Price",
+          "role": "Real Estate Director and acting Sales Department Director",
+          "start_year": 2019,
+          "end_year": 2021,
+          "description": "Prospectus and 2021 press releases state that he joined Fix Price in 2019 as Real Estate Director and expanded his role in 2021.",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "Monetka",
+          "role": "Sales Director",
+          "start_year": 2011,
+          "end_year": 2018,
+          "description": "Official prospectus states that Pogonin was sales director at Monetka from 2011 until 2018.",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "Kopeika franchisee partner company",
+          "role": "General Director; franchising project participant",
+          "start_year": 2000,
+          "end_year": 2011,
+          "description": "Official prospectus states that he was involved in setting up Kopeika's franchising project and served as general director of a Kopeika franchisee partner company.",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Vladimir Petrovich Pogonin for ticker FIXP with CEO role, used as the pipeline input."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/FIXP/FixPrice_ar24.pdf",
+          "title": "Fix Price Group PLC Annual Report 2024",
+          "fact": "Page 117 identifies Dmitry Kirsanov as group CEO and Managing Director; Pogonin is not listed as group CEO in the local annual report."
+        },
+        {
+          "url": "https://www.interfax.ru/business/968934",
+          "title": "Интерфакс: В операционной \"дочке\" Fix Price сменился гендиректор, 2 July 2024",
+          "fact": "Interfax reports that LLC Best Price was headed by Vladimir Pogonin from 1 July 2024 and that Kirsanov became Managing Director of Fix Price Group."
+        },
+        {
+          "url": "https://companies.rbc.ru/id/1075047007496-fix-price-rossiya/",
+          "title": "РБК Компании: ООО «Бэст Прайс»",
+          "fact": "RBC Companies lists Vladimir Petrovich Pogonin as General Director of LLC Best Price."
+        },
+        {
+          "url": "https://ir.fix-price.com/upload/iblock/cfd/Fix%20Price%20Group%20Ltd%20Prospectus%205%20March%202021.pdf",
+          "title": "Fix Price Group Ltd Prospectus, 5 March 2021",
+          "fact": "Pages 174-175: prospectus identifies Pogonin as born in 1969, Real Estate Director since 2019, Monetka sales director from 2011-2018, Kopeika franchisee experience from 2000-2011, and a 1991 cybernetic engineering graduate."
+        },
+        {
+          "url": "https://ir.fix-price.com/upload/iblock/b2c/2021.10_Press%20release_Changes%20in%20management%20team_rus.pdf",
+          "title": "Fix Price press release: changes in management team, 1 October 2021",
+          "fact": "The release states that Pogonin joined Fix Price in 2019 as Real Estate Department Director and became acting Sales Department Director in 2021."
+        },
+        {
+          "url": "https://ir.fix-price.com/upload/iblock/888/2021.11.26_Press%20Release_Store%20Management%20Department_rus.pdf",
+          "title": "Fix Price press release: Store Management Department, 26 November 2021",
+          "fact": "The release states that Pogonin headed the newly created Store Management Department and previously worked as Sales Director at Monetka."
+        },
+        {
+          "url": "https://ru.wikipedia.org/wiki/Монетка_(сеть_магазинов)",
+          "title": "Википедия: Монетка (сеть магазинов)",
+          "fact": "Confirms Monetka is a discount-format, self-service grocery chain selling everyday necessities and food products at reduced prices, supporting the Consumer Staples Distribution & Retail classification used for Pogonin's 2011-2018 Monetka professional_experience entry."
+        },
+        {
+          "url": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%BA%D0%B0_(%D1%81%D0%B5%D1%82%D1%8C_%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%BE%D0%B2)",
+          "title": "Wikipedia: Монетка (сеть магазинов)",
+          "fact": "Describes Monetka as a discount-format, self-service grocery chain selling everyday necessities and food products, used to support GICS classification of Pogonin's Monetka professional_experience entry."
+        }
+      ],
+      "notes": "No confirmed research profile, publications, patents or h-index were found. A public-sector namesake Vladimir Vasilyevich Pogonin was rejected because of different patronymic and non-retail context. Round 2 (2026-07-18): no null/uncertain biographical fields remained for Pogonin after round 1, so this round covered only the new structured fields -- added qualification_degree='Specialist degree' to the education[] and degrees[] entries (high confidence, Soviet 5-year military engineering specialist programme) and sector/industry_group/industry to every professional_experience entry (Consumer Staples Distribution & Retail throughout, independently confirmed for Monetka and Kopeika). Round 3 (2026-07-19): no null/uncertain biographical field remained open for Pogonin after round 2. Broader web checks around Kirsanov and Mironova surfaced no new Pogonin mention, contradiction or namesake risk. No changes made. QUALITY PASS ROUND 1 (2026-07-30): this round found that the round-2 Wikipedia/Monetka source citation and the round-2/3 notes summaries above had been lost from the on-disk JSON (same stale-snapshot regression documented in Kirsanov's notes) and restored them verbatim from research_notes/FIXP/Pogonin_Vladimir_Petrovich_round_2.md and _round_3.md. All sector/industry_group/industry and qualification_degree values already on file were re-checked against gics_taxonomy.json and university_names.json and found correct; no GICS label or qualification_degree change was needed for Pogonin. No open honest gap exists for Pogonin (per round 3), so no fresh search was run this round beyond confirming that remains true. QUALITY PASS ROUND 2 (2026-07-31): re-read all three Pogonin round files against the current JSON field-by-field; found no desync (all education, degrees, and five professional_experience entries match the research-note trail, including the round-2 Wikipedia/Monetka source restored in quality round 1). Re-checked all five GICS triples (LLC Best Price, Fix Price/LLC Best Price x2, Monetka, Kopeika franchisee partner company) against gics_taxonomy.json -- \"Consumer Staples / Consumer Staples Distribution & Retail (New Name) / Consumer Staples Distribution & Retail (New Name)\" is an exact taxonomy row and correct for a discount retailer and its store-management/real-estate/sales roles; no correction needed. No open honest gap exists for Pogonin, so no gap-fill search was required this round. No field value was changed."
+    },
+    {
+      "name": "Миронова Елена",
+      "current_role": "Head of Investor Relations at Fix Price Group PLC in the 2024 annual-report context.",
+      "company_name": "Fix Price Group PLC / Фикс Прайс Груп Лтд",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Fix Price Group PLC",
+          "role": "Head of Investor Relations",
+          "start_year": null,
+          "end_year": null,
+          "description": "Annual-report and company contact blocks from 2021-2024 identify Elena Mironova as Fix Price investor relations contact or Head of Investor Relations.",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Elena Mironova for ticker FIXP as Head of investor and media relations, used as the pipeline input."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/FIXP/FixPrice_ar24.pdf",
+          "title": "Fix Price Group PLC Annual Report 2024",
+          "fact": "Page 118 contact information lists Elena Mironova as Head of Investor Relations with ir@fix-price.com."
+        },
+        {
+          "url": "https://ar2022.fix-price.com/ru/appendices/contact-information",
+          "title": "Fix Price Group PLC Annual Report 2022 contact information",
+          "fact": "The official 2022 annual report contact page lists Elena Mironova as Head of Investor Relations with ir@fix-price.com."
+        },
+        {
+          "url": "https://ir.fix-price.com/upload/iblock/b2c/2021.10_Press%20release_Changes%20in%20management%20team_rus.pdf",
+          "title": "Fix Price press release: changes in management team, 1 October 2021",
+          "fact": "The release's contact block lists Elena Mironova under investor relations with ir@fix-price.com."
+        },
+        {
+          "url": "https://www.marketscreener.com/quote/stock/FIX-PRICE-GROUP-PLC-120803252/company/",
+          "title": "MarketScreener: Fix Price Group PLC company profile",
+          "fact": "MarketScreener lists Elena Mironova as Investor Relations Contact for Fix Price Group PLC."
+        },
+        {
+          "url": "https://smart-lab.ru/blog/1289112.php",
+          "title": "Smart-Lab: интервью с IR-директором Fix Price Еленой Мироновой",
+          "fact": "Confirms her current title \"IR-директор\" discussing FY2025 results and dividend policy; no education or prior-employer facts."
+        }
+      ],
+      "notes": "Verified public sources confirm the investor-relations role but not education or prior employers. LinkedIn snippets suggested Higher School of Economics, but the page was not reliably opened and the fact was not included. Media-relations responsibility from the CSV was not confirmed in opened 2024 official sources. Round 2 (2026-07-18): repeated targeted searches for Mironova's education and prior employers (LinkedIn profile fetch, MarketScreener company page, 2022 annual-report contact page) found no new verifiable information beyond round 1; LinkedIn blocked automated access (HTTP 999) and MarketScreener blocked it (HTTP 403), so the earlier weak LinkedIn/HSE lead still cannot be confirmed independently and remains excluded. education[] stays empty and professional_experience start_year/end_year remain null per project rule (prefer null over an unverified guess). Added sector/industry_group/industry to the Fix Price Group PLC professional_experience entry (Consumer Staples Distribution & Retail, same as company-level classification). Round 3 (2026-07-19): local FixPrice_ar24.pdf full-text re-scan (page 118 contact block) yielded no new biography or join-date detail. Web search (DuckDuckGo) surfaced two aggregator profiles -- Bloomberg (www.bloomberg.com/profile/person/17944775) and a MarketScreener listing -- naming her 'Elena Aleksandrovna Mironova', but this exact same full name (with patronymic 'Aleksandrovna') also matches an unrelated MarketScreener profile for a General Counsel at En+ Management LLC (www.marketscreener.com/insider/ELENA-ALEKSANDROVNA-MIRONOVA-A17L9S/) and an unrelated plastic surgeon named in a YouTube video, while the CSV, the annual report and all other Fix Price official sources never give her a patronymic at all. Given this genuine namesake-collision risk and no way to confirm which 'Elena Aleksandrovna Mironova' the Bloomberg/MarketScreener aggregator entries actually describe, the patronymic was NOT added to the name field, per the project's never-mix-namesakes rule; name stays 'Миронова Елена' as in the CSV and official sources. Also independently confirmed via Wikipedia that a same-named 'Миронова, Елена Александровна' (1937-2017 Soviet TV journalist) is an unrelated historical namesake with no Fix Price connection. Attempts to reach the MarketScreener/Bloomberg 'Experience' sections for prior-employer history were blocked (403 Forbidden / CAPTCHA), including via a read-proxy fetch. A newly found Smart-Lab interview (smart-lab.ru/blog/1289112.php) confirms her current title 'IR-директор' but adds no education or prior-employer facts. education[] stays empty and professional_experience start_year/end_year stay null; no previously confirmed fact was changed. Verified public sources confirm the investor-relations role but not education or prior employers. LinkedIn snippets suggested Higher School of Economics, but the page was not reliably opened and the fact was not included. Media-relations responsibility from the CSV was not confirmed in opened 2024 official sources. Round 2 (2026-07-18): repeated targeted searches for Mironova's education and prior employers found no new verifiable information beyond round 1; LinkedIn blocked automated access (HTTP 999) and MarketScreener blocked it (HTTP 403). Added sector/industry_group/industry to the Fix Price Group PLC professional_experience entry. Round 3 (2026-07-19): a namesake-collision risk was identified -- aggregator sites (a Bloomberg profile, a MarketScreener listing) label her \"Elena Aleksandrovna Mironova\", but that identical full name (patronymic included) also belongs to an unrelated General Counsel at En+ Management LLC and to an unrelated plastic surgeon in a YouTube video, while every Fix Price primary source gives her no patronymic at all; a same-named 1937-2017 Soviet TV journalist was also confirmed unrelated. Per the project's never-mix-namesakes rule, the patronymic was NOT added to the name field. A Smart-Lab interview was found and added as an auxiliary source confirming only her current title, no new biographical facts. QUALITY PASS ROUND 1 (2026-07-30): the round-3 Smart-Lab source citation and the round-2/3 notes summaries above had been lost from the on-disk JSON (same stale-snapshot regression documented in Kirsanov's notes) and were restored verbatim from research_notes/FIXP/Mironova_Elena_round_2.md and _round_3.md. Honest-gap follow-up (bounded, one attempt): ran fresh queries not tried in rounds 1-3 -- WebSearch \"Елена Миронова\" Fix Price \"окончила\" образование карьера, and WebSearch \"Elena Mironova\" \"Fix Price\" investor relations career before joining; also directly re-fetched https://www.linkedin.com/in/elena-mironova/ (still HTTP 999, blocked, same as rounds 2-3) and a not-previously-tried MarketScreener biography URL, uk.marketscreener.com/business-leaders/ELENA-MIRONOVA-0R0TJ2-E/biography/ (HTTP 403, blocked). The only new content surfaced was the same unverifiable LinkedIn-snippet claim of \"Higher School of Economics\" already flagged and rejected in round 1 -- still not independently confirmable via any opened primary source. education[] stays empty and professional_experience start_year/end_year stay null; no new information found this round. No previously confirmed fact was changed. QUALITY PASS ROUND 2 (2026-07-31): re-read all three Mironova round files against the current JSON; found no desync (education[] correctly empty, professional_experience start_year/end_year correctly null, all sources including the round-3 Smart-Lab citation present). GICS re-check: the single professional_experience GICS triple (Fix Price Group PLC, Head of Investor Relations) is an exact gics_taxonomy.json row and correctly reflects the employer's retail business (an IR role is classified by the employer's industry, not the function); no correction needed. Honest-gap follow-up, bounded attempt (fresh queries not tried in any earlier round): WebFetch of DuckDuckGo HTML for \"Елена Миронова\" Fix Price до IPO ИЛИ \"до прихода\" карьера surfaced a NEW but ultimately rejected lead -- a TAdviser page (www.tadviser.ru/index.php/Персона:Миронова_Елена_Алексеевна) describing an unrelated \"Елена Алексеевна Миронова\" who heads Eaton (a power-management/industrial company) in Russia and Kazakhstan, with a Master's from the University of Limoges (France) and an MBA from IE Business School (Madrid). This is judged a further namesake collision, not the Fix Price IR executive: the patronymic (\"Алексеевна\") matches neither the \"Александровна\" patronymic seen on the previously-rejected En+/Bloomberg aggregator entries nor the no-patronymic form used by every Fix Price primary source, and Eaton's industrial/power-management business has no connection to Fix Price retail or investor relations. Per the project's never-mix-namesakes rule, this Eaton/Limoges/IE-Business-School biography was NOT added to education[] or any other field -- documented here only as a rejected lead, joining the existing list of unrelated Elena Mironova namesakes (Ulyanovsk pedagogical professor, HSE doctoral researcher, En+ Management General Counsel, 1937-2017 Soviet TV journalist). Further fresh queries this round -- site:ir.fix-price.com \"Елена Миронова\" команда (zero DuckDuckGo results); \"Елена Миронова\" Fix Price 2016 ИЛИ 2017 ИЛИ 2018 связи с инвесторами (blocked by a DuckDuckGo CAPTCHA wall); a web.archive.org lookup for early ir.fix-price.com snapshots (tool could not fetch web.archive.org at all); and a Bing search for \"Elena Mironova\" Fix Price \"Investor Relations\" образование университет (no relevant results, only unrelated Elena-named businesses) -- found no new verifiable education or prior-employer fact. education[] stays empty and professional_experience start_year/end_year stay null after four research passes (rounds 1-3, quality round 1) plus this round's five fresh queries; no previously confirmed fact was changed."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/FIXP/FixPrice_ar24.pdf",
+      "title": "Fix Price Group PLC Annual Report 2024",
+      "fact": "Pages 69-73 describe governance structure; page 117 identifies Sergey Lomakin and Dmitry Kirsanov in the Management & Directors Statement of Responsibility, with Kirsanov as Member of the Board of Directors, CEO and Managing Director."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/FIXP/Fix Price IFRS Cons FS 24-e.pdf",
+      "title": "Fix Price Group PLC Consolidated Financial Statements 2024",
+      "fact": "Page 1 states FY2024 consolidated financial statements were approved by management on behalf of the Board on 26 February 2025 and signed by Dmitry Kirsanov as CEO."
+    },
+    {
+      "url": "https://www.interfax.ru/business/968934",
+      "title": "Интерфакс: В операционной \"дочке\" Fix Price сменился гендиректор, 2 July 2024",
+      "fact": "Confirms the 2024 management change: Vladimir Pogonin became General Director of LLC Best Price from 1 July 2024 while Dmitry Kirsanov became Managing Director of Fix Price Group."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "Input rows for FIXP list Fix Price Group Ltd, Dmitry Kirsanov, Vladimir Pogonin and Elena Mironova."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/FIXP/FixPrice_ar24.pdf",
+      "title": "Fix Price Group PLC Annual Report 2024",
+      "fact": "Local annual report checked for 2024 role, governance and contact information."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/FIXP/Fix Price IFRS Cons FS 24-e.pdf",
+      "title": "Fix Price Group PLC Consolidated Financial Statements 2024",
+      "fact": "Local financial statements checked for 2024 management approval and CEO signature."
+    },
+    {
+      "url": "https://ir.fix-price.com/upload/iblock/cfd/Fix%20Price%20Group%20Ltd%20Prospectus%205%20March%202021.pdf",
+      "title": "Fix Price Group Ltd Prospectus, 5 March 2021",
+      "fact": "Official source for Kirsanov and Pogonin biographies, education and pre-IPO senior-management roles."
+    },
+    {
+      "url": "https://www.interfax.ru/business/968934",
+      "title": "Интерфакс: В операционной \"дочке\" Fix Price сменился гендиректор, 2 July 2024",
+      "fact": "Confirms 2024 role changes for Kirsanov and Pogonin."
+    },
+    {
+      "url": "https://www.kommersant.ru/doc/5018576",
+      "title": "Коммерсантъ: «Для нас инфляция — это норма», 7 October 2021",
+      "fact": "Independent business-media biography and interview for Kirsanov."
+    },
+    {
+      "url": "https://companies.rbc.ru/id/1075047007496-fix-price-rossiya/",
+      "title": "РБК Компании: ООО «Бэст Прайс»",
+      "fact": "Auxiliary company-register profile confirming Vladimir Petrovich Pogonin as General Director of LLC Best Price."
+    },
+    {
+      "url": "https://ar2022.fix-price.com/ru/appendices/contact-information",
+      "title": "Fix Price Group PLC Annual Report 2022 contact information",
+      "fact": "Official annual-report contact page confirming Elena Mironova as Head of Investor Relations."
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/stock/FIX-PRICE-GROUP-PLC-120803252/company/",
+      "title": "MarketScreener: Fix Price Group PLC company profile",
+      "fact": "Auxiliary profile confirming Elena Mironova as Investor Relations Contact and Kirsanov as CEO/board member."
+    }
+  ],
+  "validation_notes": "Processed 3 people from FIXP rows in MOEXBMI_2024.csv. Checked 2 local documents before web search: FixPrice_ar24.pdf and Fix Price IFRS Cons FS 24-e.pdf. Completed 1 research round for each person, 3 rounds total. CEO was set to Dmitry Kirsanov because the local 2024 annual report and 2024 financial statements identify him as CEO/Managing Director; the CSV role for Vladimir Pogonin was resolved as CEO/General Director of LLC Best Price, the operating subsidiary, from 1 July 2024. Education was not confirmed for Elena Mironova. Weak sources were used only as leads or auxiliary confirmation: MarketScreener for investor-relations contact and RBC Companies for current LLC Best Price register-style data; LinkedIn snippets for Mironova education were not used. Rejected namesakes include Dmitry Kirsanov the web-design author and unrelated academic/literary results, Vladimir Vasilyevich Pogonin in Moscow public-sector contexts, and academic Elena Mironova profiles without Fix Price affiliation. No confirmed scientific publications, patents or h-index were found for any processed person. Search is considered complete because local documents were checked first, official sources and business media confirmed key roles for Kirsanov and Pogonin, separate education/experience/research/namesake searches were performed, and two search passes produced no new higher-quality leads for Mironova's missing education. ROUND 2 (2026-07-18): (1) Company-level sector/industry_group/industry added: Consumer Staples / Consumer Staples Distribution & Retail (New Name) / Consumer Staples Distribution & Retail (New Name), copied verbatim from gics_taxonomy.json; Fix Price is a fixed-price variety/discount retailer (self-described as 'a leading value retailer'), the same GICS bucket already used in this project for the comparable Russian retail chain APTK and consistent with how global dollar-store/variety-store peers are classified under the post-2023 GICS structure. (2) The same triple was copied onto every professional_experience entry whose organization's primary business is documented retail (Fix Price Group PLC, LLC Best Price, Kopeika, Monetka, and the Kopeika franchisee partner company); Coffee Trade Company and Soft Pro (Kirsanov, 1994-1997) were left null/null/null because a targeted check could not determine their line of business. (3) qualification_degree was added to every education[] and degrees[] entry for all three people: 'MBA' for Kirsanov's Plekhanov/MBA-Synergy entry (high confidence, from the programme's own name) and 'Specialist degree' for Pogonin's Serpukhov military-engineering entry (high confidence, standard Soviet 5-year pre-Bologna engineering programme); Kirsanov's Open University and International Business Academy entries (education[] and the combined degrees[] entry) were left null because, despite two additional Kommersant profiles being re-checked this round, no source specified the exact academic level of these credentials and Russian executives of this era frequently held Open University Business School diploma/certificate-level (not Bachelor's-level) qualifications under the same loose 'degree' wording. (4) Institution names normalized to their university_names.json canonical forms: 'Open University of the U.K.' and the combined 'Open University of the U.K. and International Business Academy' string both map to 'The Open University'; 'Plekhanov Russian University of Economics' maps to its Russian-language canonical name; 'International Business Academy' and Pogonin's Serpukhov institution already matched their own canonical entries verbatim and needed no change. No institution encountered this round was missing from university_names.json, so new_institutions_found is an empty list. (5) Gap-fill research: the 2021 IPO prospectus Board of Directors table (previously only used for career/education facts) was re-read in full and revealed that Kirsanov was appointed to the Fix Price Group PLC board in 2021 as 'Executive Director', distinct from his 2007 LLC Best Price CEO appointment and from the 2024 'CEO and Managing Director' title bundle already in the JSON; this let the previously-null start_year of the existing 2024 role entry be filled (2024, per Interfax's 1 July 2024 date) and a new 2021-2024 Executive Director professional_experience entry to be added for Kirsanov, without deleting or contradicting any previously confirmed fact. Two further Kommersant profiles (2021 and 2025) were re-read for Kirsanov's Coffee Trade Company/Soft Pro roles and MBA-Synergy completion status; role at Coffee Trade Company/Soft Pro is still not specified anywhere and remains null. For Mironova, LinkedIn, MarketScreener and the 2022 annual-report contact page were re-checked and none yielded new, independently verifiable education or employment-start-date facts, so her education[] stays empty and her professional_experience start_year/end_year stay null, consistent with the project rule to prefer null over an unverified guess. No previously confirmed fact was deleted or overwritten in this round. ROUND 3 (2026-07-19): targeted gap-fill pass covering the residual null/uncertain fields left after round 2 -- Kirsanov's Coffee Trade Company/Soft Pro role and sector/industry_group/industry, Kirsanov's Open University/International Business Academy qualification_degree, and Mironova's education/professional_experience start_year. Local filings were re-checked first: both FixPrice_ar24.pdf (118 pages) and Fix Price IFRS Cons FS 24-e.pdf (46 pages) were programmatically scanned in full for every Kirsanov/Mironova/Pogonin mention; no biography content exists beyond what rounds 1-2 already captured, so no new local facts were found. Web research then re-fetched kommersant.ru/doc/7795108 verbatim (confirms Coffee Trade Company/Soft Pro role is genuinely never stated in any source) and ran additional DuckDuckGo/Bing searches for Coffee Trade Company/Soft Pro and for Mironova's education, surfacing no new identifiable 1994-1997 employer for Kirsanov and no education record for Mironova; both fields remain null per the prefer-null-over-guess rule. A genuine namesake-collision risk was newly identified and deliberately NOT resolved in Mironova's favor: aggregator sites (Bloomberg profile 17944775, a MarketScreener listing) label her \"Elena Aleksandrovna Mironova\", but that identical full name (patronymic included) also belongs to an unrelated MarketScreener-listed General Counsel at En+ Management LLC and to an unrelated plastic surgeon referenced in a YouTube video, while every Fix Price primary source (CSV, annual report, press releases) gives her no patronymic at all; a same-named 1937-2017 Soviet TV journalist (ru.wikipedia.org/wiki/Миронова,_Елена_Александровна) was also confirmed unrelated. Per the project's never-mix-namesakes rule, the patronymic was NOT added to the name field. A new Smart-Lab interview (smart-lab.ru/blog/1289112.php) was found and added as an auxiliary source confirming only her current \"IR-директор\" title, no new biographical facts. No qualification_degree, sector/industry_group/industry, or institution value was changed this round: all had already been resolved with maximum supportable confidence in round 2 (verified again this round against gics_taxonomy.json and university_names.json -- both match exactly, no new institutions found). No previously confirmed fact was deleted or overwritten in this round; the only JSON changes are additive notes/sources documenting this round's (unsuccessful, but genuinely attempted and reasoned) gap-fill research and the rejected Mironova patronymic lead. MASS DATA-LOSS REPAIR (2026-07-30): restored 1 shortened person notes, 0 shortened experience descriptions, 0 shortened education descriptions, 1 missing person-level sources, and 0 missing experience-level sources using git HEAD (commit 03bfe9f, 2026-07-20) as the reliable baseline. Nothing else in this file was touched. QUALITY PASS ROUND 2 (2026-07-31): Step 0 baseline check confirmed the on-disk file is byte-identical in content to `git show HEAD` (commit f973022, only LF/CRLF whitespace differs) -- no regression, nothing restored. Re-read all 9 research_notes/FIXP round files (Kirsanov, Mironova, Pogonin x3 each) field-by-field against the current JSON: found no simple omissions and no unaddressed genuine inconsistency. Re-verified all 10 GICS-labeled professional_experience entries across all three people against gics_taxonomy.json: all use the exact row \"Consumer Staples / Consumer Staples Distribution & Retail (New Name) / Consumer Staples Distribution & Retail (New Name)\", genuinely correct for Fix Price Group PLC, LLC Best Price, Kopeika and Monetka (all documented retail chains); no correction needed. Re-verified all institution strings (The Open University, International Business Academy, Российский экономический университет имени Г.В. Плеханова, Serpukhov Higher Military Engineering School of Missile Forces) are exact canonical keys in university_names.json; no normalization needed. Honest-gap follow-up, one bounded fresh-query attempt per open gap, using queries not tried in any earlier round: (1) Kirsanov's Coffee Trade Company/Soft Pro role and employer identity -- 4 fresh queries (Russian company-registry search for \"Кофейная торговая компания\", a history search for \"Софт Про\", a forbes.ru biography search, and an interview search for his \"first place of work\") found nothing new; role and sector/industry_group/industry remain null. (2) Kirsanov's Open University/International Business Academy qualification_degree level -- one fresh query blocked by a CAPTCHA wall; the quality-round-1 resolution (null, with Vedomosti's MBA claim documented as an unresolved, non-adopted conflicting lead) stands unchanged as the correct conservative outcome. (3) Mironova's education and prior employers -- 5 fresh queries surfaced one new lead (a TAdviser biography of an unrelated Eaton Russia/Kazakhstan executive also named Elena Mironova, educated at the University of Limoges and IE Business School Madrid) that was investigated and correctly rejected as a further namesake collision (mismatched patronymic, unrelated industry) rather than adopted; education[] stays empty and professional_experience dates stay null. No field value was changed this round; no previously confirmed fact was deleted or overwritten.",
+  "sector": "Consumer Staples",
+  "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+  "industry": "Consumer Staples Distribution & Retail (New Name)"
+}

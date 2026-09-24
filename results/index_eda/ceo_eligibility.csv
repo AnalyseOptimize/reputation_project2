@@ -1,0 +1,111 @@
+﻿ticker,included,available_components,missing_components
+ABIO,True,5,
+AFKS,False,1,"media_score, awards_score, face_score, communication_score"
+AFLT,False,2,"media_score, awards_score, face_score"
+AGRO,True,5,
+AKRN,False,4,face_score
+ALRS,True,5,
+APTK,False,2,"media_score, awards_score, face_score"
+AQUA,True,5,
+ASTR,False,2,"media_score, awards_score, face_score"
+BANEP,False,2,"expertise_score, face_score, communication_score"
+BELU,False,4,communication_score
+BSPB,False,3,"face_score, communication_score"
+CBOM,False,4,expertise_score
+CHMF,False,1,"media_score, awards_score, face_score, communication_score"
+CHMK,False,3,"expertise_score, communication_score"
+CIAN,False,2,"media_score, awards_score, face_score"
+DATA,True,5,
+DELI,True,5,
+DIAS,False,4,face_score
+DVEC,False,4,face_score
+ELFV,False,4,face_score
+ENPG,False,4,face_score
+ETLN,True,5,
+EUTR,True,5,
+FEES,False,4,face_score
+FESH,False,2,"media_score, awards_score, face_score"
+FIVE,True,5,
+FIXP,False,4,face_score
+FLOT,False,4,communication_score
+GAZP,True,5,
+GEMC,True,5,
+GLTR,False,2,"media_score, awards_score, face_score"
+GMKN,False,2,"media_score, awards_score, face_score"
+HEAD,True,5,
+HNFG,False,4,face_score
+HYDR,True,5,
+IRAO,True,5,
+IVAT,False,4,face_score
+KAZT,True,5,
+KZOS,False,4,face_score
+LEAS,False,4,face_score
+LENT,False,4,face_score
+LKOH,False,2,"expertise_score, face_score, communication_score"
+LSNGP,False,4,face_score
+LSRG,False,3,"face_score, communication_score"
+MAGN,False,4,face_score
+MBNK,False,4,face_score
+MDMG,False,4,face_score
+MGNT,False,2,"media_score, awards_score, face_score"
+MGTSP,True,5,
+MOEX,False,4,face_score
+MRKC,False,4,media_score
+MRKP,True,5,
+MRKU,False,4,face_score
+MRKV,True,5,
+MRKZ,False,4,face_score
+MSNG,False,2,"media_score, face_score, communication_score"
+MSRS,False,4,media_score
+MTLR,False,4,face_score
+MTSS,False,4,media_score
+MVID,False,4,face_score
+NKHP,False,3,"face_score, communication_score"
+NKNC,True,5,
+NLMK,False,4,face_score
+NMTP,False,4,face_score
+NVTK,False,4,face_score
+OGKB,False,2,"media_score, face_score, communication_score"
+OKEY,False,3,"face_score, communication_score"
+OZON,False,0,"media_score, awards_score, expertise_score, face_score, communication_score"
+OZPH,False,2,"media_score, awards_score, face_score"
+PHOR,True,5,
+PIKK,True,5,
+PLZL,False,3,"face_score, communication_score"
+POLY,False,4,communication_score
+POSI,False,4,media_score
+PRMD,True,5,
+QIWI,False,1,"media_score, awards_score, face_score, communication_score"
+RASP,False,4,communication_score
+RENI,True,5,
+RKKE,False,4,communication_score
+RNFT,False,2,"media_score, awards_score, face_score"
+ROSN,False,3,"media_score, face_score"
+RTKM,False,4,face_score
+RUAL,False,4,media_score
+SBER,False,3,"media_score, face_score"
+SELG,False,3,"media_score, face_score"
+SFIN,False,2,"media_score, awards_score, face_score"
+SGZH,False,3,"media_score, face_score"
+SMLT,True,5,
+SNGS,False,3,"face_score, communication_score"
+SOFL,True,5,
+SPBE,True,5,
+SVAV,False,2,"media_score, face_score, communication_score"
+SVCB,False,4,media_score
+T,False,1,"media_score, awards_score, face_score, communication_score"
+TATN,True,5,
+TGKA,False,1,"media_score, awards_score, face_score, communication_score"
+TGKB,False,2,"media_score, awards_score, face_score"
+TRMK,False,4,communication_score
+TRNFP,False,4,face_score
+TTLK,True,5,
+UGLD,False,2,"media_score, awards_score, face_score"
+UPRO,False,3,"face_score, communication_score"
+VKCO,False,4,communication_score
+VSEH,False,4,face_score
+VSMO,False,3,"face_score, communication_score"
+VTBR,False,4,face_score
+WUSH,False,4,face_score
+YDEX,False,4,face_score
+ZAYM,False,4,face_score

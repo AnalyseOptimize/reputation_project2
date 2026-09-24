@@ -1,0 +1,1098 @@
+{
+  "company_name": "ПАО «Магнит»",
+  "company_ticker": "MGNT",
+  "ceo": {
+    "name": "Евгений Сергеевич Случевский",
+    "current_role": "Генеральный директор ПАО «Магнит»",
+    "company_name": "ПАО «Магнит»",
+    "education": [
+      {
+        "institution": "Тюменский индустриальный университет",
+        "year": 2009,
+        "program_or_specialty": "Информационные технологии и системы управления",
+        "qualification": null,
+        "source": "https://www.rusagrogroup.ru/fileadmin/files/financial_statements/1503_3_RusAgro_AR2020.pdf",
+        "qualification_degree": "Bachelor's degree",
+        "description": "РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md). Гап-заполнение: qualification_degree не был проставлен. Институт уже соответствует канонической форме в university_names.json дословно, изменений не требуется. Год (2009) относится к постболонской эпохе; так как эта запись предшествует магистратуре МФТИ, определена как Bachelor's degree (стандартная последовательность бакалавриат -> магистратура для этого периода). Уверенность высокая, но не абсолютная - явного слова 'бакалавр' в источниках не найдено, вывод из контекста."
+      },
+      {
+        "institution": "Московский физико-технический институт (национальный исследовательский университет)",
+        "year": null,
+        "program_or_specialty": "Системный анализ",
+        "qualification": "магистр",
+        "source": "https://cyclowiki.org/wiki/Случевский,_Евгений_Сергеевич",
+        "qualification_degree": "Master's degree",
+        "description": "РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md). Гап-заполнение: название вуза нормализовано к канонической форме из university_names.json (добавлено '(национальный исследовательский университет)'). Год выпуска по-прежнему не подтверждён (дополнительный веб-поиск через DuckDuckGo HTML не дал даты); оставлено null, а не догадка. qualification_degree = Master's degree проставлен напрямую, так как в поле qualification уже указано 'магистр' (прямое указание, не вывод из контекста)."
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "McKinsey & Company",
+        "role": null,
+        "start_year": 2011,
+        "end_year": 2016,
+        "description": "Retail.ru, citing Magnit's announcement, states that Sluchevsky worked at McKinsey & Company in 2011-2016 on projects for major Russian companies in retail, food production, agriculture, energy and engineering.",
+        "source": "https://www.retail.ru/news/magnit-obyavil-o-naznachenii-evgeniya-sluchevskogo-generalnym-direktorom-kompani-15-maya-2024-240718/",
+        "sector": "Industrials",
+        "industry_group": "Commercial & Professional Services",
+        "industry": "Professional Services"
+      },
+      {
+        "organization": "Интегра",
+        "role": "Управляющий директор",
+        "start_year": 2016,
+        "end_year": 2019,
+        "description": "Managed a food production and sales business.",
+        "source": "https://www.retail.ru/news/magnit-obyavil-o-naznachenii-evgeniya-sluchevskogo-generalnym-direktorom-kompani-15-maya-2024-240718/",
+        "sector": "Consumer Staples",
+        "industry_group": "Food, Beverage & Tobacco",
+        "industry": "Food Products"
+      },
+      {
+        "organization": "Группа компаний «Русагро»",
+        "role": "Руководитель бизнес-направления по мясному производству",
+        "start_year": null,
+        "end_year": 2022,
+        "description": "Worked at Rusagro before joining Magnit.",
+        "source": "https://www.retail.ru/news/magnit-obyavil-o-naznachenii-evgeniya-sluchevskogo-generalnym-direktorom-kompani-15-maya-2024-240718/",
+        "sector": "Consumer Staples",
+        "industry_group": "Food, Beverage & Tobacco",
+        "industry": "Food Products"
+      },
+      {
+        "organization": "ПАО «Магнит»",
+        "role": "Директор по сельскохозяйственному и промышленному комплексу",
+        "start_year": 2022,
+        "end_year": 2024,
+        "description": "Retail.ru states that he joined Magnit in 2022 and held this role before becoming CEO.",
+        "source": "https://www.retail.ru/news/magnit-obyavil-o-naznachenii-evgeniya-sluchevskogo-generalnym-direktorom-kompani-15-maya-2024-240718/",
+        "sector": "Consumer Staples",
+        "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+        "industry": "Consumer Staples Distribution & Retail (New Name)"
+      },
+      {
+        "organization": "ПАО «Магнит»",
+        "role": "Генеральный директор",
+        "start_year": 2024,
+        "end_year": null,
+        "description": "Appointed CEO from 17 May 2024; local annual report CEO statement is signed by Evgeny Sluchevsky.",
+        "source": "MOEXBMI_Отчеты_2024/MGNT/Годовой отчёт ПАО «Магнит» за 2024 год.pdf",
+        "sector": "Consumer Staples",
+        "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+        "industry": "Consumer Staples Distribution & Retail (New Name)"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_Отчеты_2024/MGNT/Годовой отчёт ПАО «Магнит» за 2024 год.pdf",
+        "title": "Годовой отчет ПАО «Магнит» за 2024 год",
+        "fact": "Printed pages 10-13: CEO statement is signed by Евгений Случевский as Генеральный директор ПАО «Магнит»."
+      },
+      {
+        "url": "https://www.retail.ru/news/magnit-obyavil-o-naznachenii-evgeniya-sluchevskogo-generalnym-direktorom-kompani-15-maya-2024-240718/",
+        "title": "Retail.ru: «Магнит» объявил о назначении Евгения Случевского генеральным директором",
+        "fact": "Article dated 15 May 2024 states that PJSC Magnit appointed Evgeny Sluchevsky CEO from 17 May 2024 and summarizes his prior roles at Magnit, Rusagro, Integra and McKinsey."
+      },
+      {
+        "url": "https://www.rusagrogroup.ru/fileadmin/files/financial_statements/1503_3_RusAgro_AR2020.pdf",
+        "title": "Rusagro Annual Report 2020",
+        "fact": "Former-employer annual report biography supports the Tyumen Industrial University education and Rusagro meat-business role."
+      },
+      {
+        "url": "https://cyclowiki.org/wiki/Случевский,_Евгений_Сергеевич",
+        "title": "Cyclowiki: Случевский, Евгений Сергеевич",
+        "fact": "Auxiliary biography reports Tyumen Industrial University and MIPT education; used as a weak source for education only."
+      }
+    ],
+    "notes": "CEO role is strongly confirmed by local annual report and appointment coverage. Education is weaker than role/career because it was not repeated in the 2024 local Magnit report. РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md). Доп. раунд не изменил силу образования (независимое подтверждение от вузов по-прежнему недоступно); добавлены GICS-теги и qualification_degree по всем записям education/professional_experience. РАУНД 3 (2026-07-30, quality pass). HONEST-GAP FOLLOW-UP attempted on three remaining nulls with fresh queries not tried before: (1) McKinsey role/title - fresh query 'Евгений Случевский McKinsey партнер OR engagement manager должность' and a direct re-fetch of forbes.ru's appointment article found only 'работал в McKinsey с 2011 по 2016 год', no title - remains null. (2) MIPT graduation year and (3) Rusagro start_year - no new source found either. All three remain null per 'null over guess'; no GICS or desync issues found for this person beyond round 2's work."
+  },
+  "tmt": [
+    {
+      "name": "Дмитрий Анатольевич Иванов",
+      "current_role": "Главный финансовый директор АО «Тандер»; член Правления ПАО «Магнит»",
+      "company_name": "ПАО «Магнит»",
+      "education": [
+        {
+          "institution": "Санкт-Петербургский государственный экономический университет",
+          "year": 1999,
+          "program_or_specialty": "Финансы, кредит и международные экономические отношения / мировая экономика",
+          "qualification": "экономист",
+          "source": "https://www.magnit.com/upload/iblock/50c/r3xnxj5o6dios18gvc2lz3mfvyozwnyn/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_005%D0%A0_%D0%9F%D0%90%D0%9E%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F.pdf",
+          "qualification_degree": "Specialist degree",
+          "description": "РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md). Название вуза нормализовано к канонической форме из university_names.json (текущее название учреждения; на момент выпуска называлось 'Санкт-Петербургский государственный университет экономики и финансов', этот вариант зарегистрирован как синоним). qualification_degree = Specialist degree: 1999 год - доболонская эпоха, квалификация 'экономист' - классическая формулировка советского/российского пятилетнего специалитета (тот же паттерн, что и подтверждённый прецедент для Миллера в GAZP)."
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Лаверна",
+          "role": "Корпоративные финансы и контроллинг",
+          "start_year": null,
+          "end_year": null,
+          "description": "Official 2020 Magnit report says he worked for nine years in a similar corporate finance/controlling position.",
+          "source": "https://www.magnit.com/magnit/annual/2020/gb/Russian/pdf/governance_framework.pdf",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Specialty Retail"
+        },
+        {
+          "organization": "Лента",
+          "role": "Руководящие должности в корпоративных финансах и контроллинге",
+          "start_year": null,
+          "end_year": 2019,
+          "description": "Official and media sources report about ten years at Lenta before joining Magnit.",
+          "source": "https://www.magnit.com/magnit/annual/2020/gb/Russian/pdf/governance_framework.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "АО «Тандер»",
+          "role": "Директор по контроллингу",
+          "start_year": 2019,
+          "end_year": 2021,
+          "description": "Prospectus gives period 15.10.2019-19.05.2021.",
+          "source": "https://www.magnit.com/upload/iblock/50c/r3xnxj5o6dios18gvc2lz3mfvyozwnyn/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_005%D0%A0_%D0%9F%D0%90%D0%9E%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "АО «Тандер»",
+          "role": "Финансовый директор",
+          "start_year": 2021,
+          "end_year": 2023,
+          "description": "Prospectus gives period 20.05.2021-28.02.2023.",
+          "source": "https://www.magnit.com/upload/iblock/50c/r3xnxj5o6dios18gvc2lz3mfvyozwnyn/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_005%D0%A0_%D0%9F%D0%90%D0%9E%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "ПАО «Магнит»",
+          "role": "Член Правления",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Prospectus gives membership from 29.04.2022.",
+          "source": "https://www.magnit.com/upload/iblock/50c/r3xnxj5o6dios18gvc2lz3mfvyozwnyn/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_005%D0%A0_%D0%9F%D0%90%D0%9E%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "АО «Тандер»",
+          "role": "Главный финансовый директор",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Prospectus gives current role from 01.03.2023.",
+          "source": "https://www.magnit.com/upload/iblock/50c/r3xnxj5o6dios18gvc2lz3mfvyozwnyn/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_005%D0%A0_%D0%9F%D0%90%D0%9E%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 345 lists Dmitry Ivanov as Director of Finance/CFO for MGNT; an extra field contains 'Усанин Михаил' but no source connected it to the CFO role."
+        },
+        {
+          "url": "https://www.magnit.com/upload/iblock/50c/r3xnxj5o6dios18gvc2lz3mfvyozwnyn/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_005%D0%A0_%D0%9F%D0%90%D0%9E%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F.pdf",
+          "title": "Проспект ценных бумаг ПАО «Магнит», программа 005Р",
+          "fact": "Page 60-61: identifies Иванов Дмитрий Анатольевич, education in 1999, Management Board membership from 29.04.2022 and Chief Financial Officer role at АО «Тандер» from 01.03.2023."
+        },
+        {
+          "url": "https://www.magnit.com/magnit/annual/2020/gb/Russian/pdf/governance_framework.pdf",
+          "title": "Магнит Annual Report 2020: Corporate Governance",
+          "fact": "Page 8: gives Ivanov's 1999 education and states corporate finance/controlling experience at Lenta and Laverna before Magnit."
+        }
+      ],
+      "notes": "Official sources consistently identify the CFO as Дмитрий Анатольевич Иванов. The CSV extra field 'Усанин Михаил' remains unresolved and was excluded from facts. РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md). Доп. целевой поиск по 'Усанин Михаил' (CSV extra field) повторно не дал связи с Магнитом/CFO-ролью (найдены только шахматист и сотрудник ВШЭ, однофамильцы без релевантных якорей) - поле остаётся неразрешённым и не используется как факт, как и в раунде 1. Добавлены GICS-теги и qualification_degree. РАУНД 3 (2026-07-30, quality pass). HONEST-GAP FOLLOW-UP attempted on Laverna start/end_year and Lenta start_year with a fresh query ('Иванов Дмитрий Лаверна финансовый директор год'). Result: found a 'Дмитрий Иванов' listed as General Director of ООО «ЛАВЕРНА» (a specific legal entity, INN 7404065609) - explicitly NOT used, since nothing anchors this registry hit to the same person's Magnit/Lenta/controlling career (textbook namesake risk the project rules warn against). No new dates found; all three fields remain null. No GICS or desync issues found for this person beyond round 2's work."
+    },
+    {
+      "name": "Юрий Мисник",
+      "current_role": "Директор по цифровым технологиям; член Правления ПАО «Магнит»",
+      "company_name": "ПАО «Магнит»",
+      "education": [
+        {
+          "institution": "Санкт-Петербургский политехнический университет Петра Великого",
+          "year": null,
+          "program_or_specialty": "Прикладная математика и механика",
+          "qualification": null,
+          "source": "https://councils.forbes.com/profile/Yuri-Misnik-Chief-Technology-Officer-inDrive/2f7bd56d-8bc2-4b7e-8715-abeed169e695",
+          "qualification_degree": "Specialist degree",
+          "description": "РАУНД 3 (2026-07-30, quality pass). Notes-vs-JSON simple omission fix: round-2 research notes (Yuri_Misnik_round_2.md) explicitly state 'education[] populated with 2 entries' including this one (Applied Mathematics and Mechanics, Peter the Great St. Petersburg Polytechnic University), sourced from the Forbes Technology Council profile already cited below - but education[] was left empty in the JSON. Restored here from the same already-cited source, no new source used. Year not stated anywhere; qualification_degree = Specialist degree is an era-based inference (pre-Bologna five-year technical program), per round 2's own stated reasoning."
+        },
+        {
+          "institution": "University of Texas at Austin",
+          "year": null,
+          "program_or_specialty": "Engineering Mechanics / Applied Mathematics (незаконченная докторантура / unfinished Ph.D. studies, attended 1998-1999)",
+          "qualification": null,
+          "source": "https://rocketreach.co/yuri-misnik-email_805859",
+          "qualification_degree": "Incomplete higher education",
+          "description": "РАУНД 3 (2026-07-30, quality pass). Notes-vs-JSON simple omission fix: round-2 research notes state this entry (unfinished Ph.D. studies, University of Texas at Austin) was added, corroborated by both the Forbes Technology Council profile and RocketReach (1998-1999 attendance window) already cited below - but education[] was left empty in the JSON. Restored here from the same already-cited sources, no new source used. No completion year exists since the degree was not finished; the 1998-1999 window is an attendance period, not a graduation year, so year is left null. Institution not in university_names.json (logged in new_institutions_found by round 2)."
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Microsoft / Amazon Web Services / HSBC / National Australia Bank",
+          "role": "Senior technology roles",
+          "start_year": null,
+          "end_year": 2019,
+          "description": "Magnit 2021 annual report says Misnik had more than 20 years of technology experience in these organizations, including cloud, Agile, DevOps and product organization transformations.",
+          "source": "https://www.magnit.com/magnit/annual/2021/gb/Russian/pdf/chapter_2.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Amazon Web Services",
+          "role": "Cloud services development, UK and Europe",
+          "start_year": 2012,
+          "end_year": 2015,
+          "description": "РАУНД 3 (2026-07-30, quality pass). Notes-vs-JSON simple omission fix: GlobalCIO.ru (already cited below) gives a granular timeline that round 2's research notes (Yuri_Misnik_round_2.md) documented as added to professional_experience[], but the entry was never actually written into the JSON - restored here from the same already-cited source, no new source used. Joined AWS in 2012 developing Amazon's cloud services in the UK and Europe; end_year 2015 is inferred from the adjacent, explicitly-dated HSBC tenure (2015-2019) in the same source, not separately stated by GlobalCIO.ru.",
+          "source": "https://globalcio.ru/top100/profile/33136/",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "IT Services"
+        },
+        {
+          "organization": "HSBC",
+          "role": "Managing Director, IT",
+          "start_year": 2015,
+          "end_year": 2019,
+          "description": "РАУНД 3 (2026-07-30, quality pass). Notes-vs-JSON simple omission fix: GlobalCIO.ru (already cited below) gives Managing Director, IT at HSBC, 2015-2019; documented as added in round-2 notes but missing from professional_experience[] - restored here from the same already-cited source.",
+          "source": "https://globalcio.ru/top100/profile/33136/",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "National Australia Bank",
+          "role": "Director, IT",
+          "start_year": 2019,
+          "end_year": 2019,
+          "description": "РАУНД 3 (2026-07-30, quality pass). Notes-vs-JSON simple omission fix: GlobalCIO.ru (already cited below) states Misnik moved to a Director, IT role at National Australia Bank after leaving HSBC in 2019, immediately before the First Abu Dhabi Bank group CTO role that began late 2019 - a brief single-year tenure inferred from these adjacent explicit dates, not a separately cited exact range, as already flagged in round-2 notes. Documented as added in round-2 notes but missing from professional_experience[] - restored here.",
+          "source": "https://globalcio.ru/top100/profile/33136/",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "First Abu Dhabi Bank",
+          "role": "Group chief technology role",
+          "start_year": 2019,
+          "end_year": 2021,
+          "description": "Magnit 2021 annual report states that from late 2019 he held the group technology role at FAB and developed the group's technology strategy.",
+          "source": "https://www.magnit.com/magnit/annual/2021/gb/Russian/pdf/chapter_2.pdf",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "ПАО «Магнит»",
+          "role": "Директор по цифровым технологиям; член Правления",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Magnit 2021 annual report states he became Director for Digital Technologies and joined the Management Board from 12.11.2021.",
+          "source": "https://www.magnit.com/magnit/annual/2021/gb/Russian/pdf/chapter_2.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 346 lists Yuri Misnik as Chief Tech/Sci/R&D Officer for MGNT."
+        },
+        {
+          "url": "https://www.magnit.com/magnit/annual/2021/gb/Russian/pdf/chapter_2.pdf",
+          "title": "Магнит Annual Report 2021, chapter 2",
+          "fact": "Official report describes Yuri Misnik as Director for Digital Technologies, Management Board member from 12.11.2021, and summarizes technology experience at Microsoft, AWS, HSBC, NAB and FAB."
+        },
+        {
+          "url": "https://spark.ru/startup/spark-news/blog/225589/sovet-direktorov-kompanii-magnit-utverdil-sostav-pravleniya-vklyuchiv-v-nego-devyat-chelovek",
+          "title": "Spark: Совет директоров «Магнита» утвердил состав правления",
+          "fact": "Disclosure-based article lists Юрий Мисник as director for digital technologies in Magnit's Management Board."
+        },
+        {
+          "url": "https://councils.forbes.com/profile/Yuri-Misnik-Chief-Technology-Officer-inDrive/2f7bd56d-8bc2-4b7e-8715-abeed169e695",
+          "title": "Forbes Technology Council: Yuri Misnik profile (CTO, inDrive)",
+          "fact": "Профиль явно перечисляет всю карьерную цепочку того же человека - Magnit, Microsoft, AWS, HSBC, National Australia Bank и First Abu Dhabi Bank, что подтверждает отсутствие путаницы с однофамильцем и одновременно указывает образование: Peter the Great St. Petersburg Polytechnic University (Applied Mathematics and Mechanics) и незаконченную докторантуру в University of Texas at Austin (Engineering Mechanics)."
+        },
+        {
+          "url": "https://rocketreach.co/yuri-misnik-email_805859",
+          "title": "RocketReach: Yuri Misnik profile",
+          "fact": "Агрегатор указывает 'Started (but not finished) Ph.D studies, Engineering Mechanics, Applied Mathematics, University of Texas at Austin, 1998 - 1999' - используется только как вспомогательное подтверждение дат незаконченной докторантуры, основной факт образования подтверждён Forbes Councils."
+        },
+        {
+          "url": "https://globalcio.ru/top100/profile/33136/",
+          "title": "GlobalCIO: Юрий Мисник, Топ-100 ИТ-лидеров",
+          "fact": "Даёт более гранулярную карьерную хронологию: присоединение к Amazon Web Services в 2012 году (развитие облачных сервисов Amazon в Великобритании и Европе), Managing Director по ИТ в HSBC 2015-2019, Director по ИТ в National Australia Bank после ухода из HSBC (2019), затем позиция группового CTO в First Abu Dhabi Bank с конца 2019 года."
+        }
+      ],
+      "notes": "Education was searched separately but not confirmed in accessible sources; no scientific publication profile was used. РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md). Гап-заполнение: education был полностью пустым в раунде 1; теперь заполнен через Forbes Technology Council, который однозначно связывает то же лицо (упоминает Magnit, Microsoft, AWS, HSBC, NAB, FAB вместе) с образованием в Санкт-Петербургском политехническом университете Петра Великого и незаконченной докторантурой в University of Texas at Austin. Идентичность проверена перед использованием: без этой явной привязки к карьерной цепочке источник не был бы принят (риск однофамильца - существуют другие 'Yuri Misnik' в LinkedIn/Crunchbase, не связанные с этой карьерной цепочкой, они не использованы). Career GICS: гранулярные записи AWS/HSBC/NAB добавлены, мерджед-запись Microsoft/AWS/HSBC/NAB оставлена как есть с GICS=null и объяснением. РАУНД 3 (2026-07-30, quality pass). Notes-vs-JSON desync found and fixed: round-2 notes documented three granular entries (AWS 2012-2015, HSBC 2015-2019, NAB 2019) as added to professional_experience[], but they were never actually present in the JSON - restored from the same already-cited globalcio.ru source. GICS mislabel found and fixed: First Abu Dhabi Bank and the ПАО «Магнит» CTO entry had their GICS triples swapped (FAB was tagged Information Technology/IT Services and Magnit was tagged Financials/Banks) - corrected to FAB=Financials/Banks/Banks and Magnit=Consumer Staples/Consumer Staples Distribution & Retail, matching round-2 notes' own stated intent and every other Magnit reference in this file. Gap follow-up attempted on SPbPU graduation year (fresh DuckDuckGo query 'Мисник Юрий СПбГПУ Петра Великого год окончания') - no new source found, remains null. A DuckDuckGo search snippet (not independently confirmed by direct fetch, which 404'd) suggested Misnik left Magnit around mid-2025 for a CTO role at inDrive; this is NOT added to current_role/end_year in this round because it could not be verified against a directly-fetchable primary source - flagged here for a future round to check with a fresh, working source. Second notes-vs-JSON desync also found and fixed: round-2 notes explicitly state 'education[] populated with 2 entries' (SPbPU + University of Texas at Austin) but education[] was actually still empty in the JSON - both entries restored from the same already-cited Forbes Councils/RocketReach sources."
+    },
+    {
+      "name": "Андрей Юрьевич Бодров",
+      "current_role": "Директор по стратегии и инвестициям; член Правления ПАО «Магнит»",
+      "company_name": "ПАО «Магнит»",
+      "education": [
+        {
+          "institution": "Московский государственный институт международных отношений (университет) Министерства иностранных дел Российской Федерации",
+          "year": 2003,
+          "program_or_specialty": "Международные отношения",
+          "qualification": "бакалавр",
+          "source": "https://www.magnit.com/magnit/annual/2019/gb/Russian/pdf/composition.pdf",
+          "qualification_degree": "Bachelor's degree",
+          "description": "РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md). Название вуза нормализовано к канонической форме из university_names.json (МГИМО МИД России -> полное каноническое название). qualification_degree проставлен напрямую из явно указанной квалификации ('бакалавр'), вывод из контекста не потребовался."
+        },
+        {
+          "institution": "Московский государственный институт международных отношений (университет) Министерства иностранных дел Российской Федерации",
+          "year": 2005,
+          "program_or_specialty": "Право / юриспруденция",
+          "qualification": "магистр",
+          "source": "https://www.magnit.com/magnit/annual/2019/gb/Russian/pdf/composition.pdf",
+          "qualification_degree": "Master's degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Morgan Stanley / Deutsche Bank / ВТБ Капитал / Ренессанс Капитал",
+          "role": "Investment banker",
+          "start_year": null,
+          "end_year": null,
+          "description": "Official 2019 Magnit annual report says he worked in leading international and Russian financial organizations specializing in retail-sector transactions.",
+          "source": "https://www.magnit.com/magnit/annual/2019/gb/Russian/pdf/composition.pdf",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "Лента",
+          "role": "Директор по слияниям и поглощениям",
+          "start_year": 2016,
+          "end_year": 2019,
+          "description": "Official report gives period February 2016 to September 2019.",
+          "source": "https://www.magnit.com/magnit/annual/2019/gb/Russian/pdf/composition.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "ПАО «Магнит» / АО «Тандер»",
+          "role": "Директор по стратегии и инвестициям; член Правления",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Official report says he joined in September 2019 and became Management Board member from 13.12.2019.",
+          "source": "https://www.magnit.com/magnit/annual/2019/gb/Russian/pdf/composition.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 347 lists Andrey Bodrov as Chief Investment Officer for MGNT."
+        },
+        {
+          "url": "https://www.magnit.com/magnit/annual/2019/gb/Russian/pdf/composition.pdf",
+          "title": "Магнит Annual Report 2019: composition",
+          "fact": "Official annual report gives Bodrov's MGIMO bachelor/master education, investment-banking background, Lenta M&A role and Magnit strategy/investment role."
+        },
+        {
+          "url": "https://www.magnit.com/upload/iblock/50c/r3xnxj5o6dios18gvc2lz3mfvyozwnyn/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_005%D0%A0_%D0%9F%D0%90%D0%9E%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F.pdf",
+          "title": "Проспект ценных бумаг ПАО «Магнит», программа 005Р",
+          "fact": "Page 56 confirms Бодров Андрей Юрьевич, born 1982, and the same MGIMO education."
+        }
+      ],
+      "notes": "No research publications or patents were verified. РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md). Доп. поиск дат для инвестбанковской карьеры не дал результата (нигде не публикуются точные годы) - оставлено null. Добавлены GICS-теги и qualification_degree; название МГИМО нормализовано. РАУНД 3 (2026-07-30, quality pass). HONEST-GAP FOLLOW-UP attempted on the Morgan Stanley/Deutsche Bank/ВТБ Капитал/Ренессанс Капитал merged entry's missing dates with a fresh query ('Бодров Андрей Юрьевич Morgan Stanley годы работы'); only events.vedomosti.ru speaker-bio text repeating the same undated four-bank list was found, no dates. Remains null. No GICS or desync issues found for this person beyond round 2's work."
+    },
+    {
+      "name": "Анна Юрьевна Мелешина",
+      "current_role": "Управляющий директор; член Правления; член Совета директоров ПАО «Магнит»",
+      "company_name": "ПАО «Магнит»",
+      "education": [
+        {
+          "institution": "Санкт-Петербургский государственный университет",
+          "year": 1999,
+          "program_or_specialty": "Филология",
+          "qualification": null,
+          "source": "https://www.magnit.com/magnit/annual/2020/gb/Russian/pdf/governance_framework.pdf",
+          "qualification_degree": "Specialist degree",
+          "description": "РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md). Институт уже соответствует канонической форме в university_names.json дословно (Санкт-Петербургский государственный университет), изменений не требуется. Точная квалификация (quality title) по-прежнему не найдена после дополнительного поиска (единственная близкая находка - 'Маевская Анна Юрьевна', явный однофамилец без связи с Магнитом/Хайнекен/Ленте, отклонена во избежание смешения личностей); qualification остаётся null. qualification_degree = Specialist degree выведен из контекста: 1999 год - доболонская эпоха, классический пятилетний специалитет для гуманитарных факультетов российских университетов того периода (тот же паттерн, что и для Иванова/Буйлова в этом файле); уверенность высокая."
+        },
+        {
+          "institution": "Henley Management College",
+          "year": 2007,
+          "program_or_specialty": "MBA",
+          "qualification": "MBA",
+          "source": "https://www.magnit.com/magnit/annual/2020/gb/Russian/pdf/governance_framework.pdf",
+          "qualification_degree": "MBA",
+          "description": "РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md). qualification_degree = MBA проставлен напрямую (в поле qualification уже указано 'MBA'). Henley Management College отсутствует в university_names.json - добавлен в new_institutions_found. Институт носил это название на момент получения степени в 2007 году (до слияния с University of Reading в 2008 году, образовавшего Henley Business School) - историческое название на момент выпуска сохранено как наиболее точное для 2007 года, современный правопреемник упомянут только здесь для контекста."
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "HEINEKEN",
+          "role": "Corporate affairs leadership in Russia",
+          "start_year": 2002,
+          "end_year": 2013,
+          "description": "Official Magnit report says she worked at HEINEKEN and rose to corporate relations director in Russia and global corporate-affairs board membership.",
+          "source": "https://www.magnit.com/magnit/annual/2020/gb/Russian/pdf/governance_framework.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Food, Beverage & Tobacco",
+          "industry": "Beverages"
+        },
+        {
+          "organization": "Лента",
+          "role": "PR and government relations director; Management Board member",
+          "start_year": 2013,
+          "end_year": 2017,
+          "description": null,
+          "source": "https://www.magnit.com/magnit/annual/2020/gb/Russian/pdf/governance_framework.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "Coca-Cola",
+          "role": "External affairs and communications director, Russia and Belarus",
+          "start_year": 2017,
+          "end_year": 2019,
+          "description": null,
+          "source": "https://www.magnit.com/magnit/annual/2020/gb/Russian/pdf/governance_framework.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Food, Beverage & Tobacco",
+          "industry": "Beverages"
+        },
+        {
+          "organization": "ПАО «Магнит»",
+          "role": "Corporate relations and sustainability executive; Management Board member",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Retail.ru states she held the CEO position from the start of 2024 until Evgeny Sluchevsky's appointment, then continued as managing director and Management Board member.",
+          "source": "https://www.magnit.com/magnit/annual/2020/gb/Russian/pdf/governance_framework.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "ПАО «Магнит»",
+          "role": "Генеральный директор",
+          "start_year": 2024,
+          "end_year": 2024,
+          "description": "Retail.ru states she held the CEO position from the start of 2024 until Evgeny Sluchevsky's appointment, then continued as managing director and Management Board member.",
+          "source": "https://www.retail.ru/news/magnit-obyavil-o-naznachenii-evgeniya-sluchevskogo-generalnym-direktorom-kompani-15-maya-2024-240718/",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "ПАО «Магнит»",
+          "role": "Член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Elected to Board by 27.06.2024 AGM.",
+          "source": "https://www.magnit.com/upload/iblock/732/2rz2tsj8emymkl9fzr3g7i82m2xrh0he/Press-release-Magnit-AGM%20Results_28June2024_rus.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV rows 348 and 351 list Anna Yurievna Meleshina as Corporate Officer/Principal and Director/Board Member for MGNT."
+        },
+        {
+          "url": "https://www.magnit.com/magnit/annual/2020/gb/Russian/pdf/governance_framework.pdf",
+          "title": "Магнит Annual Report 2020: Corporate Governance",
+          "fact": "Official biography gives SPbU and Henley MBA education, HEINEKEN/Lenta/Coca-Cola background and Magnit Management Board appointment."
+        },
+        {
+          "url": "https://www.magnit.com/upload/iblock/732/2rz2tsj8emymkl9fzr3g7i82m2xrh0he/Press-release-Magnit-AGM%20Results_28June2024_rus.pdf",
+          "title": "Magnit AGM results, 28 June 2024",
+          "fact": "Official press release states the AGM elected Анна Юрьевна Мелешина to the Board of Directors."
+        },
+        {
+          "url": "https://www.retail.ru/news/magnit-obyavil-o-naznachenii-evgeniya-sluchevskogo-generalnym-direktorom-kompani-15-maya-2024-240718/",
+          "title": "Retail.ru: CEO appointment at Magnit",
+          "fact": "Article states Meleshina had been CEO from early 2024 and continued as managing director and Management Board member after Sluchevsky's appointment."
+        }
+      ],
+      "notes": "Education and career are well supported by official Magnit annual report; 2024 board role is confirmed by official AGM release. РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md). Добавлены GICS-теги по всем записям и qualification_degree; Henley Management College учтён в new_institutions_found. РАУНД 3 (2026-07-30, quality pass). HONEST-GAP FOLLOW-UP attempted on the SPbU qualification (raw title) with a fresh query ('Мелешина Анна Юрьевна СПбГУ диплом филолог'); only unrelated/ambiguous hits for other people (a different SPbU alumna, an MSU Oriental-studies profile) were found, none anchored to this Meleshina's Heineken/Lenta/Coca-Cola/Magnit career - correctly not used to avoid a namesake mix-up. Remains null. No GICS or desync issues found for this person beyond round 2's work."
+    },
+    {
+      "name": "Анна Николаевна Боброва",
+      "current_role": "Директор по персоналу АО «Тандер»; член Правления и Совета директоров ПАО «Магнит»",
+      "company_name": "ПАО «Магнит»",
+      "education": [
+        {
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "year": 2000,
+          "program_or_specialty": "Психология",
+          "qualification": "психолог; преподаватель психологии",
+          "source": "https://www.magnit.com/upload/iblock/50c/r3xnxj5o6dios18gvc2lz3mfvyozwnyn/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_005%D0%A0_%D0%9F%D0%90%D0%9E%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F.pdf",
+          "qualification_degree": "Specialist degree",
+          "description": "РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md). Название вуза нормализовано к канонической форме из university_names.json ('им.' -> 'имени'). qualification_degree = Specialist degree: двойная квалификация 'психолог; преподаватель психологии' - классическая формулировка советского/российского пятилетнего специалитета, 2000 год относится к доболонской эпохе; уверенность высокая (тот же паттерн двойной квалификации, что и у Соколова в этом файле)."
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Metro Group",
+          "role": "HR block",
+          "start_year": 2003,
+          "end_year": 2009,
+          "description": "Metro Group - международная компания мелкооптовой/розничной торговли формата cash & carry; классифицирована по основному профилю деятельности как Consumer Staples Distribution & Retail. РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md).",
+          "source": "https://www.magnit.com/magnit/annual/2020/gb/Russian/pdf/governance_framework.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "Росатом",
+          "role": "HR leadership",
+          "start_year": 2009,
+          "end_year": 2011,
+          "description": "Госкорпорация «Росатом» - диверсифицированная структура (атомная энергетика, инжиниринг, добыча урана, атомный ледокольный флот, ядерная медицина); GICS-классификация как Industrial Conglomerates выбрана для согласованности с уже присвоенной классификацией Росатома в файле IRAO этого же корпуса (2 из 3 предыдущих присвоений в проекте используют Industrial Conglomerates против 1 - Utilities в DVEC); ни одна отдельная GICS-отрасль не описывает основной профиль деятельности корпорации целиком. РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md).",
+          "source": "https://www.magnit.com/magnit/annual/2020/gb/Russian/pdf/governance_framework.pdf",
+          "sector": "Industrials",
+          "industry_group": "Capital Goods",
+          "industry": "Industrial Conglomerates"
+        },
+        {
+          "organization": "X5 Retail Group N.V.",
+          "role": "Директор по кадровой и организационной работе",
+          "start_year": 2011,
+          "end_year": 2013,
+          "description": null,
+          "source": "https://www.magnit.com/magnit/annual/2020/gb/Russian/pdf/governance_framework.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "Rimera Group",
+          "role": "HR leadership",
+          "start_year": 2013,
+          "end_year": 2015,
+          "description": "Rimera Group - производитель нефтепромыслового оборудования (входит в группу ЧТПЗ); классифицирована как Energy Equipment & Services. РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md).",
+          "source": "https://www.magnit.com/magnit/annual/2020/gb/Russian/pdf/governance_framework.pdf",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Energy Equipment & Services"
+        },
+        {
+          "organization": "АО «СИА Интернейшнл Лтд»",
+          "role": "HR leadership",
+          "start_year": 2015,
+          "end_year": 2019,
+          "description": "АО «СИА Интернейшнл Лтд» - крупный фармацевтический дистрибьютор; классифицирован как Health Care Providers & Services (фармдистрибуция), а не как розничная торговля. РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md).",
+          "source": "https://www.magnit.com/magnit/annual/2020/gb/Russian/pdf/governance_framework.pdf",
+          "sector": "Health Care",
+          "industry_group": "Health Care Equipment & Services",
+          "industry": "Health Care Providers & Services"
+        },
+        {
+          "organization": "АО «Тандер»",
+          "role": "Директор по персоналу",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Prospectus gives role from 19.08.2019.",
+          "source": "https://www.magnit.com/upload/iblock/50c/r3xnxj5o6dios18gvc2lz3mfvyozwnyn/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_005%D0%A0_%D0%9F%D0%90%D0%9E%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "ПАО «Магнит»",
+          "role": "Член Правления; член Совета директоров",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Prospectus gives Management Board from 10.09.2019 and Board from 29.12.2023; AGM 2024 re/elected her to the Board.",
+          "source": "https://www.magnit.com/upload/iblock/50c/r3xnxj5o6dios18gvc2lz3mfvyozwnyn/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_005%D0%A0_%D0%9F%D0%90%D0%9E%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV rows 349 and 350 list Anna Nikolayevna Bobrova as Human Resources Officer and Director/Board Member for MGNT."
+        },
+        {
+          "url": "https://www.magnit.com/magnit/annual/2020/gb/Russian/pdf/governance_framework.pdf",
+          "title": "Магнит Annual Report 2020: Corporate Governance",
+          "fact": "Page 6: official biography gives MSU psychology education and HR career at Metro, X5, Rosatom, Rimera and SIA International."
+        },
+        {
+          "url": "https://www.magnit.com/upload/iblock/50c/r3xnxj5o6dios18gvc2lz3mfvyozwnyn/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_005%D0%A0_%D0%9F%D0%90%D0%9E%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F.pdf",
+          "title": "Проспект ценных бумаг ПАО «Магнит», программа 005Р",
+          "fact": "Pages 51 and 55: confirms education, HR Director role from 19.08.2019, Management Board from 10.09.2019 and Board member from 29.12.2023."
+        },
+        {
+          "url": "https://www.magnit.com/upload/iblock/732/2rz2tsj8emymkl9fzr3g7i82m2xrh0he/Press-release-Magnit-AGM%20Results_28June2024_rus.pdf",
+          "title": "Magnit AGM results, 28 June 2024",
+          "fact": "Official AGM release states that Анна Николаевна Боброва was elected to the Board of Directors."
+        }
+      ],
+      "notes": "Well supported by official issuer sources. РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md). Добавлены GICS-теги по всем записям (в т.ч. описания профиля деятельности для непрофильных организаций) и qualification_degree; название МГУ нормализовано. РАУНД 3 (2026-07-30, quality pass). Round 1/2 left no material null gaps for this person (all career dates already filled), so no gap follow-up was owed here beyond a sanity check - reviewed and confirmed no fresh angle was outstanding. GICS labels re-checked against gics_taxonomy.json: all correct, including the intentionally-documented Rosatom=Industrial Conglomerates choice (kept for corpus consistency, not changed) - nothing corrected for this person."
+    },
+    {
+      "name": "Сергей Юрьевич Буйлов",
+      "current_role": "Член Совета директоров ПАО «Магнит»; генеральный директор ООО «Магнит Фарма»",
+      "company_name": "ПАО «Магнит»",
+      "education": [
+        {
+          "institution": "Российский экономический университет имени Г.В. Плеханова",
+          "year": 2001,
+          "program_or_specialty": "Мировая экономика",
+          "qualification": "экономист",
+          "source": "https://www.magnit.com/upload/iblock/50c/r3xnxj5o6dios18gvc2lz3mfvyozwnyn/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_005%D0%A0_%D0%9F%D0%90%D0%9E%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F.pdf",
+          "qualification_degree": "Specialist degree",
+          "description": "РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md). Название вуза нормализовано к канонической форме из university_names.json. qualification_degree = Specialist degree: квалификация 'экономист', 2001 год - ещё доболонская эпоха для большинства российских вузов (массовый переход на уровневую систему в РФ - ближе к 2011 году), паттерн совпадает с другими 'экономист'-записями в этом же файле. ВАЖНО - обнаружено противоречие в датах: два независимых вторичных источника этого раунда (pharmvestnik.ru, raas.ru) указывают 1995 год окончания Плехановки, тогда как официальный проспект ПАО «Магнит» (первичный источник, уже использованный в раунде 1) указывает 2001 год. Год в этой записи (2001) оставлен без изменений, так как официальный проспект эмитента - более сильный (юридически значимый) источник, чем сторонние агрегаторы биографий; расхождение зафиксировано здесь и в validation_notes, а не скрыто. РАУНД 3 (2026-07-30, quality pass). GENUINE INCONSISTENCY re-investigated, not just re-copied: re-ran a fresh DuckDuckGo query targeting exactly this year conflict ('Буйлов Сергей Юрьевич Плеханова 1995 2001 окончил университет') and separately fetched pharmvestnik.ru and raas.ru again directly - both still state 1995 verbatim ('В 1995 году окончил Российский экономический университет им. Г.В.Плеханова, факультет международных экономических отношений'), with no new independent third source located (a further query aimed at LinkedIn/Kommersant/RBC/Natura Siberica press materials for a third opinion also returned nothing on this specific point). The conflict remains genuinely unresolved by source count (2 secondary vs 1 primary) but the primary official issuer prospectus is kept as the more reliable value per source-hierarchy, unchanged from round 2 - documented explicitly rather than silently resolved."
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Danone Group (Danone-Юнимилк)",
+          "role": "От менеджера по закупкам маркетинговых услуг до управляющего директора региона «Юг»; член Совета директоров",
+          "start_year": 1997,
+          "end_year": 2014,
+          "description": "РАУНД 3 (2026-07-30, quality pass). Notes-vs-JSON simple omission fix: round-2 research notes (Sergey_Yurievich_Buylov_round_2.md) documented this entry as added, sourced from raas.ru/pharmvestnik.ru (both already cited below), but it was never actually written into professional_experience[] - restored here from the same already-cited sources, no new source used.",
+          "source": "https://raas.ru/2023/06/22/bujlov-sergej-yurevich/",
+          "sector": "Consumer Staples",
+          "industry_group": "Food, Beverage & Tobacco",
+          "industry": "Food Products"
+        },
+        {
+          "organization": "Cherkizovo Group",
+          "role": null,
+          "start_year": null,
+          "end_year": null,
+          "description": "РАУНД 3 (2026-07-30, quality pass). Notes-vs-JSON simple omission fix: pharmvestnik.ru (already cited below) places a role at Cherkizovo Group between 2014 and 2017, without a precise title or exact dates; documented as added in round-2 notes but missing from professional_experience[] - restored here with dates left null per 'null over guess', as round 2 itself specified.",
+          "source": "https://pharmvestnik.ru/persons/Builov-Sergei.html",
+          "sector": "Consumer Staples",
+          "industry_group": "Food, Beverage & Tobacco",
+          "industry": "Food Products"
+        },
+        {
+          "organization": "L'Oreal Russia",
+          "role": "Коммерческий директор",
+          "start_year": null,
+          "end_year": null,
+          "description": "РАУНД 3 (2026-07-30, quality pass). Notes-vs-JSON simple omission fix: pharmvestnik.ru (already cited below) places a Commercial Director role at L'Oreal Russia between 2014 and 2017, without exact dates; documented as added in round-2 notes but missing from professional_experience[] - restored here with dates left null per 'null over guess', as round 2 itself specified.",
+          "source": "https://pharmvestnik.ru/persons/Builov-Sergei.html",
+          "sector": "Consumer Staples",
+          "industry_group": "Household & Personal Products",
+          "industry": "Personal Care Products (New Name)"
+        },
+        {
+          "organization": "Natura Siberica",
+          "role": "Генеральный директор; Президент",
+          "start_year": 2017,
+          "end_year": 2021,
+          "description": "РАУНД 3 (2026-07-30, quality pass). Notes-vs-JSON simple omission fix: pharmvestnik.ru (already cited below) gives 2017-2021 as General Director/President of Natura Siberica, immediately before Magnit Pharma (from 1 March 2022); documented as added in round-2 notes but missing from professional_experience[] - restored here from the same already-cited source.",
+          "source": "https://pharmvestnik.ru/persons/Builov-Sergei.html",
+          "sector": "Consumer Staples",
+          "industry_group": "Household & Personal Products",
+          "industry": "Personal Care Products (New Name)"
+        },
+        {
+          "organization": "ООО «Магнит Фарма»",
+          "role": "Генеральный директор",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Issuer/candidate and industry sources connect Buylov with Magnit Pharma / Magnit Apteka leadership.",
+          "source": "https://www.magnit.com/upload/iblock/9a5/vf8clk4yigamm4j1mpd38r2da7huxu8u/%D0%93%D0%9E%D0%A1%D0%90_9_%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BE%20%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B0%D1%85%20%D0%B2%20%D0%A1%D0%94_%D0%93%D0%9E%D0%A1%D0%90%202023.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "ПАО «Магнит»",
+          "role": "Член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Elected to Board by 27.06.2024 AGM.",
+          "source": "https://www.magnit.com/upload/iblock/732/2rz2tsj8emymkl9fzr3g7i82m2xrh0he/Press-release-Magnit-AGM%20Results_28June2024_rus.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 352 lists Sergey Yurievich Buylov as Director/Board Member for MGNT."
+        },
+        {
+          "url": "https://www.magnit.com/upload/iblock/732/2rz2tsj8emymkl9fzr3g7i82m2xrh0he/Press-release-Magnit-AGM%20Results_28June2024_rus.pdf",
+          "title": "Magnit AGM results, 28 June 2024",
+          "fact": "Official AGM release states that Сергей Юрьевич Буйлов was elected to the Board of Directors."
+        },
+        {
+          "url": "https://www.magnit.com/upload/iblock/50c/r3xnxj5o6dios18gvc2lz3mfvyozwnyn/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_005%D0%A0_%D0%9F%D0%90%D0%9E%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F.pdf",
+          "title": "Проспект ценных бумаг ПАО «Магнит», программа 005Р",
+          "fact": "Official issuer disclosure identifies Буйлов Сергей Юрьевич, born 1973, and gives 2001 Plekhanov education."
+        },
+        {
+          "url": "https://raas.ru/2023/06/22/bujlov-sergej-yurevich/",
+          "title": "РААС: Буйлов Сергей Юрьевич",
+          "fact": "Указывает карьеру 1997-2014 в Danone Group (от менеджера по закупкам маркетинговых услуг до управляющего директора региона «Юг» и члена Совета директоров), упоминает L'Oreal, Cherkizovo Group и Natura Siberica (президент) без точных дат для первых двух, а также год окончания Плехановки как 1995 (расходится с 2001 в официальном проспекте эмитента - зафиксировано как противоречие, проспект использован как более сильный источник)."
+        },
+        {
+          "url": "https://pharmvestnik.ru/persons/Builov-Sergei.html",
+          "title": "Фармвестник: Буйлов Сергей",
+          "fact": "Даёт ту же карьерную цепочку с уточнением: Cherkizovo Group и L'Oreal (коммерческий директор) между 2014 и 2017 без точных дат, Natura Siberica 2017-2021 (генеральный директор, президент), Магнит Фарма с 1 марта 2022 года."
+        }
+      ],
+      "notes": "Public biography is sparse; education and board role are official. Earlier career not added where unsupported. РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md). Существенное гап-заполнение: добавлена вся карьера 1997-2021 (Danone, Cherkizovo, L'Oreal, Natura Siberica) до Магнит Фарма, ранее отмеченная как 'не поддержана источниками'. Обнаружено и зафиксировано (не скрыто) противоречие в годе окончания Плехановки: официальный проспект эмитента (первичный источник) = 2001, вторичные агрегаторы (pharmvestnik, raas) = 1995; год в файле оставлен = 2001 согласно первичному источнику. РАУНД 3 (2026-07-30, quality pass). Notes-vs-JSON desync found and fixed: round 2 documented the Danone/Cherkizovo/L'Oreal/Natura Siberica career (1997-2021) as added to professional_experience[], but these four entries were never actually present in the JSON despite already being cited in sources[] below - restored here from the same raas.ru/pharmvestnik.ru sources, no new source used. GICS mislabel found and fixed: ООО «Магнит Фарма» (a pharmacy/drugstore retail chain, not a food producer) and the ПАО «Магнит» Board entry were both wrongly tagged Consumer Staples/Food, Beverage & Tobacco/Food Products - corrected to Consumer Staples/Consumer Staples Distribution & Retail, matching every other Magnit reference in this file. Genuine inconsistency (Plekhanov 1995 vs 2001) re-investigated with a fresh targeted query - no new third source found, primary-source value (2001) kept unchanged, conflict re-documented in the education entry."
+    },
+    {
+      "name": "Маргарита Викторовна Витихович",
+      "current_role": "Член Совета директоров ПАО «Магнит»",
+      "company_name": "ПАО «Магнит»",
+      "education": [
+        {
+          "institution": "Кубанский государственный аграрный университет имени И.Т. Трубилина",
+          "year": 2002,
+          "program_or_specialty": "Юриспруденция",
+          "qualification": "юрист",
+          "source": "https://www.magnit.com/upload/iblock/50c/r3xnxj5o6dios18gvc2lz3mfvyozwnyn/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_005%D0%A0_%D0%9F%D0%90%D0%9E%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F.pdf",
+          "qualification_degree": "Specialist degree",
+          "description": "РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md). Институт отсутствует в university_names.json - добавлен в new_institutions_found. Официальное полное название найдено через поиск: «Кубанский государственный аграрный университет имени И.Т. Трубилина» (ФГБОУ ВО), используется как каноническая форма без юридического префикса, по аналогии со стилем других канонических записей в university_names.json. qualification_degree = Specialist degree: квалификация 'юрист', 2002 год - доболонская эпоха для юриспруденции в РФ, классический пятилетний специалитет."
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Магнит» / АО «Тандер»",
+          "role": "От помощника юриста по недвижимости до начальника управления по правовому сопровождению сделок с недвижимостью, земельным отношениям, M&A и строительству",
+          "start_year": 2008,
+          "end_year": 2023,
+          "description": "РАУНД 3 (2026-07-30, quality pass). Notes-vs-JSON simple omission fix: round-2 research notes (Margarita_Viktorovna_Vitikhovich_round_2.md) and this file's own person-level notes field already documented this 15-year Magnit/Tander legal career (2008-2023) as a major finding sourced from Vitikhovich's own interview on retailandlaw.pravo.ru (already cited below), but the entry was never actually written into professional_experience[] - restored here from the same already-cited source, no new source used. Per the interview: joined Magnit in 2008 as an assistant lawyer for real estate disputes, rose through deputy department head -> department head -> head of legal management for real estate transactions, land relations, M&A, and full-cycle construction legal support (including the Krasnodar industrial park), before moving to Dixy in September 2023.",
+          "source": "https://retailandlaw.pravo.ru/intervyu-s-glavoj-yuridicheskogo-departamenta-diksi-margaritoj-vitihovich/",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "АО «ДИКСИ Юг»",
+          "role": "Директор департамента / юридический блок",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "РАУНД 3 (2026-07-30, quality pass). Notes-vs-JSON simple omission fix: round-2 notes and this file's own person-level notes field already stated the exact DIXY Yug start date (September 2023, confirmed by Vitikhovich's own interview on retailandlaw.pravo.ru, already cited below), but start_year was left null in this entry - filled in here from the same already-cited source.",
+          "source": "https://retailandlaw.pravo.ru/intervyu-s-glavoj-yuridicheskogo-departamenta-diksi-margaritoj-vitihovich/",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "ПАО «Магнит»",
+          "role": "Член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Elected to Board by 27.06.2024 AGM.",
+          "source": "https://www.magnit.com/upload/iblock/732/2rz2tsj8emymkl9fzr3g7i82m2xrh0he/Press-release-Magnit-AGM%20Results_28June2024_rus.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 353 lists Vitikhovich M. Viktorovna as Director/Board Member for MGNT."
+        },
+        {
+          "url": "https://www.magnit.com/upload/iblock/732/2rz2tsj8emymkl9fzr3g7i82m2xrh0he/Press-release-Magnit-AGM%20Results_28June2024_rus.pdf",
+          "title": "Magnit AGM results, 28 June 2024",
+          "fact": "Official AGM release gives full name Маргарита Викторовна Витихович and states she was elected to the Board of Directors."
+        },
+        {
+          "url": "https://www.magnit.com/upload/iblock/50c/r3xnxj5o6dios18gvc2lz3mfvyozwnyn/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_005%D0%A0_%D0%9F%D0%90%D0%9E%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F.pdf",
+          "title": "Проспект ценных бумаг ПАО «Магнит», программа 005Р",
+          "fact": "Official issuer disclosure gives 2002 Kuban State Agrarian University legal education."
+        },
+        {
+          "url": "https://retailandlaw.pravo.ru/intervyu-s-glavoj-yuridicheskogo-departamenta-diksi-margaritoj-vitihovich/",
+          "title": "Pravo.ru (retailandlaw): интервью с главой юридического департамента «Дикси» Маргаритой Витихович",
+          "fact": "Интервью самой Витихович раскрывает её 15-летнюю карьеру в «Магните» (2008-2023: от помощника юриста по недвижимости до начальника управления по правовому сопровождению сделок с недвижимостью и земельными отношениями, M&A и строительства, включая краснодарский индустриальный парк) и точную дату перехода в «Дикси» - сентябрь 2023 года, на должность директора юридического департамента и комплаенс-контроля."
+        }
+      ],
+      "notes": "CSV used initial only; official sources resolve full first name as Маргарита. РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md). Существенное гап-заполнение: обнаружена и добавлена вся 15-летняя карьера в самом «Магните» (2008-2023) до перехода в «Дикси», ранее полностью отсутствовавшая в файле; уточнена дата перехода в «Дикси» (сентябрь 2023, ранее null). Кубанский государственный аграрный университет учтён в new_institutions_found с полным официальным названием. РАУНД 3 (2026-07-30, quality pass). Notes-vs-JSON desync found and fixed: despite this notes field (and round-2 research notes) already stating that the 2008-2023 Magnit/Tander legal career was 'discovered and added' and that the DIXY Yug start date was 'clarified' to September 2023, neither change had actually been written into professional_experience[] - the career entry was entirely missing and DIXY start_year was still null. Both restored now from the same already-cited retailandlaw.pravo.ru interview, no new source used."
+    },
+    {
+      "name": "Наталья Анатольевна Дуличенко",
+      "current_role": "Член Совета директоров ПАО «Магнит»; директор по юридической работе и корпоративному управлению АО «Тандер»",
+      "company_name": "ПАО «Магнит»",
+      "education": [
+        {
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "year": 2002,
+          "program_or_specialty": "Юриспруденция",
+          "qualification": "юрист",
+          "source": "https://www.magnit.com/upload/iblock/50c/r3xnxj5o6dios18gvc2lz3mfvyozwnyn/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_005%D0%A0_%D0%9F%D0%90%D0%9E%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F.pdf",
+          "qualification_degree": "Specialist degree",
+          "description": "РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md). Название вуза нормализовано к канонической форме из university_names.json ('им.' -> 'имени'). qualification_degree = Specialist degree: квалификация 'юрист', 2002 год - доболонская эпоха для юриспруденции в РФ (тот же паттерн, что и у Витихович в этом файле)."
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "АО «Зарубежнефть»",
+          "role": "Начальник управления / договорно-правовое управление",
+          "start_year": 2019,
+          "end_year": 2023,
+          "description": "Prospectus gives period 06.08.2019-26.04.2023.",
+          "source": "https://www.magnit.com/upload/iblock/50c/r3xnxj5o6dios18gvc2lz3mfvyozwnyn/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_005%D0%A0_%D0%9F%D0%90%D0%9E%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F.pdf",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "АО «Тандер»",
+          "role": "Директор по юридической работе и корпоративному управлению",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Prospectus gives role from 02.05.2023.",
+          "source": "https://www.magnit.com/upload/iblock/50c/r3xnxj5o6dios18gvc2lz3mfvyozwnyn/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_005%D0%A0_%D0%9F%D0%90%D0%9E%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "ПАО «Магнит»",
+          "role": "Член Совета директоров",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Prospectus gives Board membership from 29.12.2023; 2024 AGM elected her to the Board.",
+          "source": "https://www.magnit.com/upload/iblock/50c/r3xnxj5o6dios18gvc2lz3mfvyozwnyn/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_005%D0%A0_%D0%9F%D0%90%D0%9E%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 354 lists Dulichenko Natalia Anatoliyevna as Director/Board Member for MGNT."
+        },
+        {
+          "url": "https://www.magnit.com/upload/iblock/732/2rz2tsj8emymkl9fzr3g7i82m2xrh0he/Press-release-Magnit-AGM%20Results_28June2024_rus.pdf",
+          "title": "Magnit AGM results, 28 June 2024",
+          "fact": "Official AGM release states that Наталья Анатольевна Дуличенко was elected to the Board of Directors."
+        },
+        {
+          "url": "https://www.magnit.com/upload/iblock/50c/r3xnxj5o6dios18gvc2lz3mfvyozwnyn/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_005%D0%A0_%D0%9F%D0%90%D0%9E%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F.pdf",
+          "title": "Проспект ценных бумаг ПАО «Магнит», программа 005Р",
+          "fact": "Pages 46-47: confirms 2002 MSU law education, Zarubezhneft role, Tander legal/corporate governance role and Board membership from 29.12.2023."
+        }
+      ],
+      "notes": "Official prospectus provides strong source for education and recent roles. РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md). Дополнительный целевой поиск по карьере до 2019 года не дал новых результатов (только однофамильцы без релевантных якорей); оставлено как в раунде 1. Добавлены GICS-теги и qualification_degree; название МГУ нормализовано. РАУНД 3 (2026-07-30, quality pass). HONEST-GAP FOLLOW-UP attempted on pre-2019 career with a fresh query ('Дуличенко Наталья Анатольевна юрист карьера до Зарубежнефть'); found only a generic VKontakte civil-law-attorney self-description with no employer/date anchors connecting it to this specific Dulichenko - correctly not used (namesake/unanchored-claim risk). Remains unconfirmed/absent. No GICS or desync issues found for this person beyond round 2's work."
+    },
+    {
+      "name": "Илья Игоревич Соколов",
+      "current_role": "Член Совета директоров ПАО «Магнит»; советник по корпоративным вопросам",
+      "company_name": "ПАО «Магнит»",
+      "education": [
+        {
+          "institution": "Военный университет Министерства обороны Российской Федерации",
+          "year": 2003,
+          "program_or_specialty": "Лингвистика и межкультурная коммуникация",
+          "qualification": "лингвист; переводчик-референт по французскому и английскому языкам",
+          "source": "https://www.magnit.com/upload/iblock/50c/r3xnxj5o6dios18gvc2lz3mfvyozwnyn/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_005%D0%A0_%D0%9F%D0%90%D0%9E%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F.pdf",
+          "qualification_degree": "Specialist degree",
+          "description": "РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md). Институт отсутствует в university_names.json - добавлен в new_institutions_found. Официальный сайт вуза (vumo.mil.ru) и ru.wikipedia.org указывают текущее полное название «Военный университет имени князя Александра Невского Министерства обороны Российской Федерации», но это почётное имя присвоено институту только 24 сентября 2021 года - на 18 лет позже выпуска Соколова (2003 год). Кандидатское каноническое название для этой записи выбрано БЕЗ позднейшего почётного имени («Военный университет Министерства обороны Российской Федерации»), чтобы не приписывать институту задним числом название, которого не существовало на момент его обучения; это отличается от прецедента с ЛФЭИ/Миллером в GAZP, где переименование было сменой юридического названия самого учреждения, а не добавлением почётного имени монарха. qualification_degree = Specialist degree: двойная квалификация 'лингвист; переводчик-референт по французскому и английскому языкам' - классическая формулировка военно-лингвистического пятилетнего специалитета, 2003 год - доболонская эпоха для непрофильных (не Москва/СПб топ-вузов) военных вузов того периода."
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Магнит»",
+          "role": "Советник по корпоративным вопросам / дирекция по юридической работе и корпоративному управлению",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Prospectus gives Board membership from 29.12.2023; 2024 AGM elected him to the Board.",
+          "source": "https://www.magnit.com/upload/iblock/50c/r3xnxj5o6dios18gvc2lz3mfvyozwnyn/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_005%D0%A0_%D0%9F%D0%90%D0%9E%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "ПАО «Магнит»",
+          "role": "Секретарь Совета директоров",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "РАУНД 3 (2026-07-30, quality pass). HONEST-GAP FOLLOW-UP: fresh query ('Соколов Илья Игоревич Магнит комитет по аудиту дата') surfaced a previously-unfound fact, independently fetched and confirmed directly (not merely from a search snippet): milknews.ru reports, in an article dated 28 June 2021, that at a Board meeting held 22.06.2021 'Соколов Илья Игоревич избран секретарем совета директоров ПАО \"Магнит\"' (Ilya Igorevich Sokolov was elected Secretary of the Board of Directors of PJSC Magnit). This is a distinct governance role from his 2019 corporate-affairs adviser position and his later (2023) full Board membership; end_year not stated in the source, left null.",
+          "source": "https://milknews.ru/index/torgovlya/torgovlya_68490.html",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "ПАО «Магнит»",
+          "role": "Член Совета директоров",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Prospectus gives Board membership from 29.12.2023; 2024 AGM elected him to the Board.",
+          "source": "https://www.magnit.com/upload/iblock/50c/r3xnxj5o6dios18gvc2lz3mfvyozwnyn/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_005%D0%A0_%D0%9F%D0%90%D0%9E%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "Комитет Совета директоров ПАО «Магнит» по аудиту",
+          "role": "Член комитета",
+          "start_year": null,
+          "end_year": null,
+          "description": "Prospectus states participation as audit committee member.",
+          "source": "https://www.magnit.com/upload/iblock/50c/r3xnxj5o6dios18gvc2lz3mfvyozwnyn/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_005%D0%A0_%D0%9F%D0%90%D0%9E%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 355 lists Ilya Igorevich Sokolov as Director/Board Member for MGNT."
+        },
+        {
+          "url": "https://www.magnit.com/upload/iblock/732/2rz2tsj8emymkl9fzr3g7i82m2xrh0he/Press-release-Magnit-AGM%20Results_28June2024_rus.pdf",
+          "title": "Magnit AGM results, 28 June 2024",
+          "fact": "Official AGM release states that Илья Игоревич Соколов was elected to the Board of Directors."
+        },
+        {
+          "url": "https://www.magnit.com/upload/iblock/50c/r3xnxj5o6dios18gvc2lz3mfvyozwnyn/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_005%D0%A0_%D0%9F%D0%90%D0%9E%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F.pdf",
+          "title": "Проспект ценных бумаг ПАО «Магнит», программа 005Р",
+          "fact": "Page 50: confirms 2003 Military University education, adviser role from 01.08.2019, Board membership from 29.12.2023 and audit committee membership."
+        },
+        {
+          "url": "https://milknews.ru/index/torgovlya/torgovlya_68490.html",
+          "title": "Milknews: Совет директоров ПАО «Магнит» избрал Секретаря",
+          "fact": "Article dated 28.06.2021 reports that at a 22.06.2021 Board meeting, Соколов Илья Игоревич was elected Secretary of the Board of Directors of PJSC Magnit - fetched and confirmed directly in this round (2026-07-30), not from a search snippet alone."
+        }
+      ],
+      "notes": "Official issuer disclosure supports education and 2024 governance role; no earlier career details were confirmed. РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md). Дополнительный целевой поиск карьеры до 2019 года и точной даты вхождения в комитет по аудиту не дал новых результатов (только однофамильцы/несвязанные результаты); оставлено как в раунде 1. Военный университет учтён в new_institutions_found с историческим обоснованием (без позднейшего почётного имени). Добавлены GICS-теги и qualification_degree. РАУНД 3 (2026-07-30, quality pass). HONEST-GAP FOLLOW-UP succeeded: fresh queries ('Соколов Илья Игоревич Магнит комитет по аудиту дата', then a targeted follow-up quoting the exact snippet) found and directly confirmed (full-page WebFetch, not just a search snippet) a previously-unknown fact - he was elected Secretary of the Board of Directors on 22.06.2021 per milknews.ru - added as a new professional_experience entry with its own new source. Pre-2019 career and the exact audit-committee join date remain unconfirmed after this fresh attempt; no further budget spent on those two per the bounded one-attempt rule."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MGNT/Годовой отчёт ПАО «Магнит» за 2024 год.pdf",
+      "title": "Годовой отчет ПАО «Магнит» за 2024 год",
+      "fact": "Printed pages 150-157 describe governance structure, Board of Directors, Management Board and General Director/President executive bodies; printed pages 10-13 identify Евгений Случевский as General Director."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MGNT/Консолидированная финансовая отчетность ПАО «Магнит» за 2024 год.pdf",
+      "title": "Консолидированная финансовая отчетность ПАО «Магнит» за 2024 год",
+      "fact": "Page 43 discloses aggregate remuneration of Group management and Board members; no individual biographies are provided."
+    },
+    {
+      "url": "https://www.magnit.com/upload/iblock/732/2rz2tsj8emymkl9fzr3g7i82m2xrh0he/Press-release-Magnit-AGM%20Results_28June2024_rus.pdf",
+      "title": "ПАО «Магнит» объявляет итоги проведения годового общего собрания акционеров",
+      "fact": "Official 28 June 2024 press release states the 27 June 2024 AGM elected Board members including Bobrova, Buylov, Vitikhovich, Dulichenko, Meleshina and Sokolov."
+    },
+    {
+      "url": "https://www.magnit.com/upload/iblock/50c/r3xnxj5o6dios18gvc2lz3mfvyozwnyn/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_005%D0%A0_%D0%9F%D0%90%D0%9E%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F.pdf",
+      "title": "Проспект ценных бумаг ПАО «Магнит», программа 005Р",
+      "fact": "Official issuer disclosure provides education and recent role data for several 2024 Board and Management Board members."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "Rows 345-355 contain MGNT company/person input records; exact duplicate rows are absent, while Bobrova and Meleshina each appear with two different roles."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MGNT/Годовой отчёт ПАО «Магнит» за 2024 год.pdf",
+      "title": "Годовой отчет ПАО «Магнит» за 2024 год",
+      "fact": "Local annual report checked before web search; contains CEO statement and governance structure but minimal individual biographies."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MGNT/Консолидированная финансовая отчетность ПАО «Магнит» за 2024 год.pdf",
+      "title": "Консолидированная финансовая отчетность ПАО «Магнит» за 2024 год",
+      "fact": "Local financial statements checked before web search; no individual biographies were found."
+    },
+    {
+      "url": "https://www.magnit.com/upload/iblock/732/2rz2tsj8emymkl9fzr3g7i82m2xrh0he/Press-release-Magnit-AGM%20Results_28June2024_rus.pdf",
+      "title": "Magnit AGM results, 28 June 2024",
+      "fact": "Official source for Board election at the 27 June 2024 AGM."
+    },
+    {
+      "url": "https://www.magnit.com/upload/iblock/50c/r3xnxj5o6dios18gvc2lz3mfvyozwnyn/%D0%9F%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_005%D0%A0_%D0%9F%D0%90%D0%9E%20%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82_%D0%A4%D0%98%D0%9D%D0%90%D0%9B_%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D1%81%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F.pdf",
+      "title": "Проспект ценных бумаг ПАО «Магнит», программа 005Р",
+      "fact": "Official issuer source for education and recent roles of several MGNT executives/directors."
+    }
+  ],
+  "validation_notes": "Processed 10 people: 9 unique people from MGNT CSV rows plus confirmed CEO Евгений Случевский for the ceo field. Checked 2 local MGNT documents before web research. Total research rounds: 10 person-rounds (one per processed person). Local annual report gives CEO and governance structure but minimizes biographical disclosure; local financial statements contain no individual biographies. Education not confirmed for Yuri Misnik; Sergey Buylov, Margarita Vitikhovich, Natalia Dulichenko and Ilya Sokolov have education from issuer/candidate disclosures but limited earlier career history. Evgeny Sluchevsky education uses weaker former-employer/auxiliary biography sources because Magnit 2024 local report does not provide it. Weak sources used: Cyclowiki for Sluchevsky's MIPT detail, Zdrav.Expert only as auxiliary context for Buylov. Major namesakes excluded by requiring company/role anchors: Magnit, Tander, Board/Management Board, previous employers and education. CSV extra field 'Усанин Михаил' near Dmitry Ivanov is unresolved and was not used as a fact. No verified academic publications, patents or h-index were found for the processed people. Search considered complete because local documents, official AGM disclosure, official prospectus, prior official Magnit annual reports and targeted biographical/education/career/science searches produced no unresolved high-quality leads. || РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md). Раунд 2 (2026-07-19): для каждого человека проведён точечный доп.раунд исследования по полям, отмеченным как null/неуверенные в notes раунда 1, через локальные документы MOEXBMI_Отчеты_2024/MGNT (перепроверены, новых деталей о персоналиях не найдено сверх уже использованного) и веб (WebSearch был исчерпан на уровне сессии - 200/200 - до начала этого раунда; использован WebFetch напрямую по известным URL и DuckDuckGo HTML/lite html.duckduckgo.com как альтернативный поисковик). Ключевые новые факты: (1) Юрий Мисник - образование было полностью пустым, теперь заполнено (СПбПУ Петра Великого + незаконченная докторантура UT Austin) через Forbes Technology Council, идентичность подтверждена явным упоминанием всей карьерной цепочки Magnit/Microsoft/AWS/HSBC/NAB/FAB в одном источнике - без этой явной привязки источник был бы отклонён как вероятный однофамилец (в вебе существуют другие 'Yuri Misnik' с другой карьерой); добавлены гранулярные записи AWS (2012-)/HSBC (2015-2019)/NAB (2019) вместо одной объединённой записи со смешанными отраслями. (2) Маргарита Витихович - обнаружена ранее отсутствовавшая 15-летняя карьера в самом «Магните» (2008-2023) до перехода в «Дикси» в сентябре 2023 года (точная дата перехода тоже была null, теперь подтверждена); источник - её собственное интервью на retailandlaw.pravo.ru. (3) Сергей Буйлов - добавлена вся карьера 1997-2021 (Danone 1997-2014, Cherkizovo, L'Oreal, Natura Siberica 2017-2021) до Магнит Фарма, ранее отмеченная как не поддержанная источниками; ОБНАРУЖЕНО и явно зафиксировано (не скрыто) противоречие в дате выпуска из Плехановки - официальный проспект эмитента (первичный источник) даёт 2001 год, два независимых вторичных агрегатора (pharmvestnik.ru, raas.ru) дают 1995 год; год в файле оставлен неизменным (2001) согласно приоритету первичного источника, противоречие задокументировано, а не проигнорировано. (4) Дмитрий Иванов, Андрей Бодров, Илья Соколов - дополнительный целевой поиск не дал новых точных дат (Лаверна/Лента/инвестбанковская карьера/дата вступления в аудиткомитет остаются null по принципу 'null лучше, чем догадка'), а также по CSV-полю 'Усанин Михаил' у Иванова (по-прежнему не разрешено). GICS: добавлены sector/industry_group/industry на уровне компании (Consumer Staples / Consumer Staples Distribution & Retail (New Name) / Consumer Staples Distribution & Retail (New Name), согласовано с уже обработанными ритейлерами FIVE и LENT в этом же корпусе) и на уровне каждой записи professional_experience по всем 9 обработанным персоналиям (ceo + 8 tmt); там, где объединённая запись агрегирует организации из разных отраслей (мерджед-запись Мисника Microsoft/AWS/HSBC/NAB), GICS оставлен null с явным объяснением вместо форсированной классификации, а гранулярные записи добавлены отдельно. Rosatom классифицирован как Industrials/Capital Goods/Industrial Conglomerates для согласованности с большинством присвоений в этом же корпусе (IRAO, 2 из 3 случаев), а не как Utilities (DVEC, 1 случай). qualification_degree добавлен во все записи education[] (degrees[] пуст у всех 9 персоналий данного файла - добавлять было не к чему); везде, где степень не была явно указана в источнике, использован обоснованный вывод по эпохе получения диплома (доболонская система РФ до ~2011 года = преимущественно Specialist degree для 'экономист'/'юрист'/двойных квалификационных формулировок), обоснование приведено в description соответствующей записи; при отсутствии обоснованной уверенности оставлен null (ни одного случая в этом файле). Институты нормализованы к university_names.json (Тюменский индустриальный университет - уже канонический, без изменений; МФТИ, СПбГЭУ/СПбГУЭФ, МГИМО, МГУ им. Ломоносова x2, Плеханова, СПбПУ Петра Великого - обновлены до канонической формы); 4 новых института, отсутствующих в university_names.json, зафиксированы в new_institutions_found (Кубанский государственный аграрный университет имени И.Т. Трубилина, Военный университет Министерства обороны Российской Федерации, Henley Management College, University of Texas at Austin) без прямого редактирования university_names.json, как предписано ТЗ - реконциляция оставлена для последующего сводного прохода. MASS DATA-LOSS REPAIR (2026-07-30): restored 10 shortened person notes, 6 shortened experience descriptions, 11 shortened education descriptions, 6 missing person-level sources, and 0 missing experience-level sources using git HEAD (commit 03bfe9f, 2026-07-20) as the reliable baseline. Nothing else in this file was touched. || РАУНД 3 / QUALITY PASS (2026-07-30, see research_notes/MGNT/quality_pass_round1_20260730.md for full detail). Step 0 check: current on-disk file was byte-for-byte identical to git HEAD (commit 03bfe9f) before this round began - no restoration was needed for this ticker. This round found and fixed three categories of issues, all sourced from content already cited in round-1/round-2 research notes (no fabricated facts): (1) NOTES-VS-JSON DESYNC (round-2 notes/this file's own prior notes described work as done that was never actually written into professional_experience[]): Yuri Misnik - 3 granular entries (AWS 2012-2015, HSBC 2015-2019, National Australia Bank 2019) restored; Sergey Buylov - 4 career entries (Danone 1997-2014, Cherkizovo, L'Oreal Russia, Natura Siberica 2017-2021) restored; Margarita Vitikhovich - the 2008-2023 Magnit/Tander legal-career entry restored and АО «ДИКСИ Юг» start_year filled with 2023 - all four restorations cite sources already present in each person's sources[] array (globalcio.ru, raas.ru, pharmvestnik.ru, retailandlaw.pravo.ru), none newly invented. (2) GICS MISLABELS corrected against gics_taxonomy.json: Yuri Misnik's First Abu Dhabi Bank and ПАО «Магнит» CTO entries had their sector/industry_group/industry triples swapped (a bank tagged as IT Services, Magnit tagged as Banks) - corrected to Financials/Banks/Banks and Consumer Staples/Consumer Staples Distribution & Retail respectively; Sergey Buylov's ООО «Магнит Фарма» (pharmacy retail) and 2024 Board entries were wrongly tagged Food, Beverage & Tobacco/Food Products - corrected to Consumer Staples Distribution & Retail. All other previously-assigned GICS labels in this file (including the deliberately-documented Rosatom=Industrial Conglomerates choice for Bobrova) were re-checked against each organization's real primary business and left unchanged as already correct. (3) HONEST-GAP FOLLOW-UP: one bounded fresh-query attempt per remaining null across all 9 people (Sluchevsky: McKinsey title/MIPT year/Rusagro start_year; Ivanov: Laverna dates/Lenta start_year; Misnik: SPbPU year; Bodrov: investment-banking dates; Meleshina: SPbU qualification title; Dulichenko: pre-2019 career; Sokolov: pre-2019 career/audit-committee date) - all remained unresolved except one success: Ilya Sokolov was found, via a fresh query and a directly-fetched primary source (milknews.ru, dated 28.06.2021), to have been elected Secretary of the Board of Directors of PJSC Magnit on 22.06.2021 - added as a new professional_experience entry with a new source citation. GENUINE INCONSISTENCY re-investigated (not merely re-copied): Sergey Buylov's Plekhanov graduation year (2001 per the official issuer prospectus vs 1995 per two independent secondary aggregators, pharmvestnik.ru and raas.ru) was re-checked with a fresh targeted query and direct source re-fetch this round; no third independent source was found either way, so the primary-source value (2001) was kept unchanged per source-hierarchy, with the conflict re-documented rather than silently resolved or re-picked without new work. No previously-confirmed fact was deleted or shortened; no correctly-non-classifiable null (e.g. audit-committee internal body inheriting parent GICS) was disturbed; no standalone patch script was used - all edits applied directly to this file in place.",
+  "sector": "Consumer Staples",
+  "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+  "industry": "Consumer Staples Distribution & Retail (New Name)"
+}

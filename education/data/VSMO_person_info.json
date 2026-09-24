@@ -1,0 +1,1669 @@
+{
+  "company_name": "ПАО «Корпорация ВСМПО-АВИСМА»",
+  "company_ticker": "VSMO",
+  "ceo": {
+    "name": "Трифонов Дмитрий Валериевич",
+    "current_role": "генеральный директор ПАО «Корпорация ВСМПО-АВИСМА»; член Совета директоров",
+    "company_name": "ПАО «Корпорация ВСМПО-АВИСМА»",
+    "education": [
+      {
+        "institution": "Московский институт стали и сплавов",
+        "year": null,
+        "qualification": "высшее образование",
+        "description": null,
+        "sources": [
+          "https://tass.ru/ekonomika/18288953",
+          "https://www.interfax.ru/business/911846"
+        ],
+        "qualification_degree": "Unknown"
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "ПАО «Корпорация ВСМПО-АВИСМА»",
+        "role": "генеральный директор",
+        "start_year": 2023,
+        "end_year": null,
+        "description": "Совет директоров избрал Трифонова генеральным директором с 17.07.2023 по 16.07.2026; в 2024 году роль подтверждается отраслевыми публикациями.",
+        "sources": [
+          "https://tass.ru/ekonomika/18288953",
+          "https://www.rudmet.ru/news/13903/",
+          "https://evrofinance.ru/files/rus/dep/news/news_6924.pdf"
+        ],
+        "sector": "Materials",
+        "industry_group": "Materials",
+        "industry": "Metals & Mining"
+      },
+      {
+        "organization": "ПАО «Корпорация ВСМПО-АВИСМА»",
+        "role": "член Совета директоров",
+        "start_year": 2024,
+        "end_year": null,
+        "description": "ГОСА 23.05.2024 избрало Трифонова Д.В. в Совет директоров.",
+        "sources": [
+          "https://evrofinance.ru/files/rus/dep/news/news_6924.pdf"
+        ],
+        "sector": "Materials",
+        "industry_group": "Materials",
+        "industry": "Metals & Mining"
+      },
+      {
+        "organization": "Филиал «Ависма» ПАО «Корпорация ВСМПО-АВИСМА»",
+        "role": "исполнительный директор",
+        "start_year": 2012,
+        "end_year": 2023,
+        "description": "До назначения гендиректором возглавлял пермский филиал «Ависма».",
+        "sources": [
+          "https://www.kommersant.ru/doc/6109781"
+        ],
+        "sector": "Materials",
+        "industry_group": "Materials",
+        "industry": "Metals & Mining"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "https://tass.ru/ekonomika/18288953",
+        "title": "ТАСС — Гендиректором «ВСМПО-Ависма» избрали Дмитрия Трифонова",
+        "fact": "Назначение генеральным директором и образование."
+      },
+      {
+        "url": "https://evrofinance.ru/files/rus/dep/news/news_6924.pdf",
+        "title": "Корпоративное действие ГОСА VSMO, 23.05.2024",
+        "fact": "Избрание в Совет директоров."
+      },
+      {
+        "url": "https://tass.ru/ekonomika/18288953",
+        "title": "ТАСС — Гендиректором «ВСМПО-Ависма» избрали Дмитрия Трифонова",
+        "fact": "ТАСС сообщает, что Дмитрий Трифонов окончил МИСиС."
+      },
+      {
+        "url": "https://www.interfax.ru/business/911846",
+        "title": "Интерфакс — «ВСМПО-Ависма» возглавил исполнительный директор пермской площадки",
+        "fact": "Интерфакс со ссылкой на пресс-службу также указывает МИСиС."
+      },
+      {
+        "url": "https://tass.ru/ekonomika/18288953",
+        "title": "ТАСС — Гендиректором «ВСМПО-Ависма» избрали Дмитрия Трифонова",
+        "fact": "ТАСС сообщает о назначении гендиректором на срок 17.07.2023–16.07.2026."
+      },
+      {
+        "url": "https://www.rudmet.ru/news/13903/",
+        "title": "Rudmet — ВСМПО-АВИСМА подписала соглашение о сотрудничестве в сфере кадрового обеспечения",
+        "fact": "23.05.2024 Трифонов указан как генеральный директор Корпорации."
+      },
+      {
+        "url": "https://evrofinance.ru/files/rus/dep/news/news_6924.pdf",
+        "title": "Корпоративное действие ГОСА VSMO, 23.05.2024",
+        "fact": "Трифонов Дмитрий Валериевич указан среди избранных членов Совета директоров."
+      },
+      {
+        "url": "https://www.kommersant.ru/doc/6109781",
+        "title": "Коммерсантъ — Гендиректором «ВСМПО-Ависма» избран Дмитрий Трифонов",
+        "fact": "Коммерсантъ сообщает, что должность исполнительного директора пермского филиала Трифонов получил в 2012 году."
+      }
+    ],
+    "notes": "Сохраняется написание отчества из CSV и корпоративных материалов: «Валериевич». Некоторые вторичные источники пишут «Валерьевич». Ученые степени, публикации, патенты и h-index не подтверждены. Роль из CSV: Член Совета директоров ПАО «Корпорация ВСМПО-АВИСМА»; генеральный директор || Quality pass round 1 (2026-08-02): гэп по году окончания МИСиС проверен заново — уже процитированный tass.ru/ekonomika/18288953 вернул 403 при повторном обращении; interfax.ru/business/911846 прочитан целиком, дает только «окончил Московский институт стали и сплавов (МИСиС)» без года и специальности. Гэп остается null."
+  },
+  "tmt": [
+    {
+      "name": "Чемезов Сергей Викторович",
+      "current_role": "председатель Совета директоров ПАО «Корпорация ВСМПО-АВИСМА»; генеральный директор ГК «Ростех»",
+      "company_name": "ПАО «Корпорация ВСМПО-АВИСМА»",
+      "education": [
+        {
+          "institution": "Иркутский институт народного хозяйства",
+          "year": 1975,
+          "qualification": "высшее образование",
+          "description": null,
+          "sources": [
+            "https://tass.ru/encyclopedia/person/chemezov-sergey-viktorovich",
+            "https://soyuzmash.ru/people/chemezov-sergey-viktorovich/"
+          ],
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Военная академия Генерального штаба Вооруженных Сил РФ",
+          "year": null,
+          "qualification": "высшие курсы",
+          "description": null,
+          "sources": [
+            "https://tass.ru/encyclopedia/person/chemezov-sergey-viktorovich"
+          ],
+          "qualification_degree": "Executive education"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "доктор экономических наук; профессор",
+          "university": null,
+          "year": null,
+          "sources": [
+            "https://soyuzmash.ru/people/chemezov-sergey-viktorovich/"
+          ],
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Корпорация ВСМПО-АВИСМА»",
+          "role": "член Совета директоров; председатель Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "ГОСА 23.05.2024 избрало Чемезова в Совет директоров; активные официальные/профессиональные биографии указывают его как председателя Совета директоров ВСМПО-АВИСМА.",
+          "sources": [
+            "https://evrofinance.ru/files/rus/dep/news/news_6924.pdf",
+            "https://soyuzmash.ru/people/chemezov-sergey-viktorovich/"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ГК «Ростех»",
+          "role": "генеральный директор",
+          "start_year": 2007,
+          "end_year": null,
+          "description": "Публичная основная должность Чемезова.",
+          "sources": [
+            "https://tass.ru/encyclopedia/person/chemezov-sergey-viktorovich"
+          ],
+          "sector": "Industrials",
+          "industry_group": "Capital Goods",
+          "industry": "Industrial Conglomerates"
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "МГИМО",
+          "role": "руководитель кафедры, связанной с военно-техническим сотрудничеством и высокими технологиями",
+          "start_year": null,
+          "end_year": null,
+          "description": "Биографии указывают академическую/экспертную роль; точный текущий статус в 2024 году дополнительно не проверен.",
+          "sources": [
+            "https://tass.ru/encyclopedia/person/chemezov-sergey-viktorovich"
+          ]
+        }
+      ],
+      "publications": [
+        {
+          "title": "Военно-техническое сотрудничество России с иностранными государствами: опыт организационного проектирования",
+          "year": 2001,
+          "citations": null,
+          "sources": [
+            "https://tass.ru/encyclopedia/person/chemezov-sergey-viktorovich"
+          ]
+        }
+      ],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://evrofinance.ru/files/rus/dep/news/news_6924.pdf",
+          "title": "Корпоративное действие ГОСА VSMO, 23.05.2024",
+          "fact": "Подтверждение членства в Совете директоров VSMO в 2024 году."
+        },
+        {
+          "url": "https://soyuzmash.ru/people/chemezov-sergey-viktorovich/",
+          "title": "Союз машиностроителей России — Чемезов Сергей Викторович",
+          "fact": "Профессиональная биография, образование, степень и председательство в советах директоров."
+        },
+        {
+          "url": "https://tass.ru/encyclopedia/person/chemezov-sergey-viktorovich",
+          "title": "ТАСС — Чемезов, Сергей Викторович",
+          "fact": "Биография указывает окончание Иркутского института народного хозяйства в 1975 году."
+        },
+        {
+          "url": "https://soyuzmash.ru/people/chemezov-sergey-viktorovich/",
+          "title": "Союз машиностроителей России — Чемезов Сергей Викторович",
+          "fact": "Профиль подтверждает образование Сергея Чемезова и его публичные должности."
+        },
+        {
+          "url": "https://tass.ru/encyclopedia/person/chemezov-sergey-viktorovich",
+          "title": "ТАСС — Чемезов, Сергей Викторович",
+          "fact": "Биография сообщает о завершении высших курсов при Военной академии Генерального штаба."
+        },
+        {
+          "url": "https://soyuzmash.ru/people/chemezov-sergey-viktorovich/",
+          "title": "Союз машиностроителей России — Чемезов Сергей Викторович",
+          "fact": "Профиль указывает ученую степень доктора экономических наук и звание профессора."
+        },
+        {
+          "url": "https://evrofinance.ru/files/rus/dep/news/news_6924.pdf",
+          "title": "Корпоративное действие ГОСА VSMO, 23.05.2024",
+          "fact": "В материалах ГОСА 23.05.2024 Чемезов Сергей Викторович указан среди избранных членов Совета директоров."
+        },
+        {
+          "url": "https://soyuzmash.ru/people/chemezov-sergey-viktorovich/",
+          "title": "Союз машиностроителей России — Чемезов Сергей Викторович",
+          "fact": "Профиль указывает Чемезова председателем советов директоров, включая ПАО «Корпорация ВСМПО-АВИСМА»."
+        },
+        {
+          "url": "https://tass.ru/encyclopedia/person/chemezov-sergey-viktorovich",
+          "title": "ТАСС — Чемезов, Сергей Викторович",
+          "fact": "Биография указывает, что с 2007 года Чемезов возглавляет Ростех/Ростехнологии."
+        },
+        {
+          "url": "https://tass.ru/encyclopedia/person/chemezov-sergey-viktorovich",
+          "title": "ТАСС — Чемезов, Сергей Викторович",
+          "fact": "Биография сообщает об академической роли Чемезова."
+        },
+        {
+          "url": "https://tass.ru/encyclopedia/person/chemezov-sergey-viktorovich",
+          "title": "ТАСС — Чемезов, Сергей Викторович",
+          "fact": "ТАСС указывает эту книгу среди авторских работ Чемезова."
+        }
+      ],
+      "notes": "Идентичность надежно подтверждена. Членство в Совете директоров VSMO в 2024 году подтверждено ГОСА. Председательство подтверждено активными биографиями, но открытое решение Совета директоров от июня 2024 об избрании председателя не найдено. h-index и патенты не подтверждены; найденные научные профили однофамильцев исключены. Роль из CSV: Председатель Совета директоров ПАО «Корпорация ВСМПО-АВИСМА»"
+    },
+    {
+      "name": "Шелков Михаил Евгеньевич",
+      "current_role": "заместитель председателя Совета директоров ПАО «Корпорация ВСМПО-АВИСМА»",
+      "company_name": "ПАО «Корпорация ВСМПО-АВИСМА»",
+      "education": [
+        {
+          "institution": "Московский физико-технический институт",
+          "year": 1991,
+          "qualification": "высшее образование",
+          "description": "Original education details: field: физика и химия плазмы.",
+          "sources": [
+            "https://reportcollection.inion.ru/reports/download/?reportId=2080",
+            "https://phystech-union.org/shelkov-mixail/"
+          ],
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Международный университет бизнеса и управления",
+          "year": 1997,
+          "qualification": "высшее образование",
+          "description": "Original education details: field: экономист.",
+          "sources": [
+            "https://reportcollection.inion.ru/reports/download/?reportId=2080"
+          ],
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Корпорация ВСМПО-АВИСМА»",
+          "role": "заместитель председателя Совета директоров; член Совета директоров",
+          "start_year": 2007,
+          "end_year": null,
+          "description": "Отчет РусГидро подтверждает роль с 2007 года на дату отчета; ГОСА 2024 подтверждает избрание в Совет директоров.",
+          "sources": [
+            "https://reportcollection.inion.ru/reports/download/?reportId=2080",
+            "https://evrofinance.ru/files/rus/dep/news/news_6924.pdf"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ООО «ПРОМИНВЕСТ»",
+          "role": "генеральный директор",
+          "start_year": 2001,
+          "end_year": 2010,
+          "description": "Полный текст отчета РусГидро за IV квартал 2012 г. (уже цитировавшийся источник, перечитан целиком в этом раунде) дает точную хронологию по «ПРОМИНВЕСТ»: 2001–2010 — генеральный директор, 2010–настоящее время (на дату отчета) — председатель Совета директоров; ранее в JSON обе роли были ошибочно объединены в одну запись с open-ended end_year.",
+          "sources": [
+            "https://reportcollection.inion.ru/reports/download/?reportId=2080"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ООО «ПРОМИНВЕСТ»",
+          "role": "председатель Совета директоров",
+          "start_year": 2010,
+          "end_year": null,
+          "description": "Отчет РусГидро за IV квартал 2012 г. указывает Шелкова председателем Совета директоров «ПРОМИНВЕСТ» с 2010 года (на дату отчета); статус после 2012 года отдельно не проверялся.",
+          "sources": [
+            "https://reportcollection.inion.ru/reports/download/?reportId=2080"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://phystech-union.org/shelkov-mixail/",
+          "title": "Физтех-Союз — Шелков Михаил",
+          "fact": "Профиль связывает Шелкова с МФТИ и ВСМПО-АВИСМА."
+        },
+        {
+          "url": "https://boeing.mediaroom.com/2021-11-15-Boeing-and-VSMPO-AVISMA-Agree-on-Titanium-Supplies-and-Technology-Collaboration-for-Years-to-Come",
+          "title": "Boeing and VSMPO-AVISMA Agree on Titanium Supplies and Technology Collaboration",
+          "fact": "Официальный релиз Boeing 2021 года называет Mikhail Shelkov заместителем председателя Совета директоров VSMPO-AVISMA и мажоритарным акционером."
+        },
+        {
+          "url": "https://reportcollection.inion.ru/reports/download/?reportId=2080",
+          "title": "Ежеквартальный отчет ОАО РусГидро за IV квартал 2012 г.",
+          "fact": "Биографическая карточка Шелкова М.Е. указывает МФТИ, специальность «Физика и химия плазмы», год окончания 1991."
+        },
+        {
+          "url": "https://phystech-union.org/shelkov-mixail/",
+          "title": "Физтех-Союз — Шелков Михаил",
+          "fact": "Профиль выпускника МФТИ 1991 года связывает Михаила Шелкова с ВСМПО-АВИСМА."
+        },
+        {
+          "url": "https://reportcollection.inion.ru/reports/download/?reportId=2080",
+          "title": "Ежеквартальный отчет ОАО РусГидро за IV квартал 2012 г.",
+          "fact": "Биографическая карточка Шелкова М.Е. указывает Международный университет бизнеса и управления, специальность «Экономист», год окончания 1997."
+        },
+        {
+          "url": "https://reportcollection.inion.ru/reports/download/?reportId=2080",
+          "title": "Ежеквартальный отчет ОАО РусГидро за IV квартал 2012 г.",
+          "fact": "В карточке Шелкова М.Е. указана роль заместителя председателя и члена Совета директоров ВСМПО-АВИСМА."
+        },
+        {
+          "url": "https://evrofinance.ru/files/rus/dep/news/news_6924.pdf",
+          "title": "Корпоративное действие ГОСА VSMO, 23.05.2024",
+          "fact": "Шелков Михаил Евгеньевич указан среди избранных членов Совета директоров."
+        },
+        {
+          "url": "https://reportcollection.inion.ru/reports/download/?reportId=2080",
+          "title": "Ежеквартальный отчет ОАО РусГидро за IV квартал 2012 г.",
+          "fact": "Биография перечисляет работу в ООО «ПРОМИНВЕСТ» с 2001 года."
+        }
+      ],
+      "notes": "Идентичность подтверждена. Точный статус заместителя председателя в 2024 году подтвержден косвенно через устойчивые биографии и корпоративные источники прошлых лет; ГОСА 2024 напрямую подтверждает членство в Совете директоров. Академическая степень, публикации, патенты и h-index не подтверждены. Роль из CSV: Заместитель председателя Совета директоров ПАО «Корпорация ВСМПО-АВИСМА» || Quality pass round 1 (2026-08-02): GICS-метка «ООО «ПРОМИНВЕСТ»» (ранее Financials/Financial Services (New Name)/Capital Markets) снята до null/null/null. Основание: Шелков независимо подтвержден как мажоритарный акционер ВСМПО-АВИСМА (пресс-релиз Boeing, уже процитирован в sources), а «ПРОМИНВЕСТ» — структура, которую он непрерывно возглавляет с 2001 года (сначала ГД, затем председатель СД) параллельно с публичными постами в ВСМПО-АВИСМА/Ростехе; это типичный профиль личной/семейной холдинговой структуры для владения пакетом акций, а не действующего бизнеса рынков капитала. Прямого раскрытия ОКВЭД «ПРОМИНВЕСТ» найти не удалось (по названию в реестрах — тысячи однофамильных юрлиц без уникального идентификатора в уже процитированных источниках), поэтому null выбран как более консервативный вариант, а не императивно доказанный факт — задокументировано как открытый вопрос. Также из того же уже процитированного отчета РусГидро (перечитан целиком) уточнена хронология: 2001–2010 генеральный директор, 2010–наст. время (на дату отчета) председатель Совета директоров «ПРОМИНВЕСТ» — ранее в JSON обе роли были объединены в одну запись."
+    },
+    {
+      "name": "Белясова Анна Владимировна",
+      "current_role": "член Совета директоров ПАО «Корпорация ВСМПО-АВИСМА»",
+      "company_name": "ПАО «Корпорация ВСМПО-АВИСМА»",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Корпорация ВСМПО-АВИСМА»",
+          "role": "член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "ГОСА 23.05.2024 избрало Белясову А.В. в Совет директоров.",
+          "sources": [
+            "https://evrofinance.ru/files/rus/dep/news/news_6924.pdf"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ООО «Промышленные инвестиции»",
+          "role": "руководитель",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Реестровый агрегатор указывает Белясову руководителем ООО «Промышленные инвестиции», связанного с крупным пакетом ВСМПО-АВИСМА.",
+          "sources": [
+            "https://checko.ru/person/belyasova-anna-773774635391"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://evrofinance.ru/files/rus/dep/news/news_6924.pdf",
+          "title": "Корпоративное действие ГОСА VSMO, 23.05.2024",
+          "fact": "Подтверждение избрания в Совет директоров."
+        },
+        {
+          "url": "https://evrofinance.ru/files/rus/dep/news/news_6924.pdf",
+          "title": "Корпоративное действие ГОСА VSMO, 23.05.2024",
+          "fact": "Белясова Анна Владимировна указана среди избранных членов Совета директоров."
+        },
+        {
+          "url": "https://checko.ru/person/belyasova-anna-773774635391",
+          "title": "Checko — Белясова Анна Владимировна",
+          "fact": "Карточка указывает руководство ООО «Промышленные инвестиции»; даты полномочий в агрегаторах конфликтуют и требуют ЕГРЮЛ."
+        }
+      ],
+      "notes": "Образование, ученые степени, публикации, патенты и h-index не подтверждены. Упоминание обучения в университете найдено только в журналистском источнике без названия вуза и факта окончания, поэтому в education не перенесено. Даты руководства ООО «Промышленные инвестиции» в агрегаторах противоречивы. Роль из CSV: Член Совета директоров ПАО «Корпорация ВСМПО-АВИСМА» || Quality pass round 1 (2026-08-02): (1) GICS-метка «ООО «Промышленные инвестиции»» (ранее Financials/Financial Services (New Name)/Capital Markets) снята до null/null/null — по уже имевшейся в этой же заметке информации компания связана с крупным пакетом акций ВСМПО-АВИСМА, то есть является личной/семейной холдинговой структурой без собственного операционного бизнеса, а не действующей организацией рынков капитала; годовой отчет ВСМПО-АВИСМА за 2024 год (см. запись Болотниковой Ю.В.) независимо подтверждает, что у компании есть юридический директор (Болотникова, с 04.2022), то есть штат есть, но это не отменяет вывод о холдинговом характере. (2) Повторная попытка снять противоречие по датам руководства: checko.ru — 429 (повторный запрос), rusprofile.ru — 404, list-org.com — нашелся один свердловский ООО «Промышленные инвестиции» (ИНН 6670367887, г. Екатеринбург) со статусом «недействующее», что плохо согласуется с активной ролью в 2024–2025 годах по годовому отчету ВСМПО-АВИСМА; без уникального ОГРН/ИНН из основного источника невозможно достоверно подтвердить, что это та же организация. Конфликт дат остается неразрешенным; сохранено консервативное значение (start_year 2023, end_year null)."
+    },
+    {
+      "name": "Вишневский Илья Игоревич",
+      "current_role": "член Совета директоров ПАО «Корпорация ВСМПО-АВИСМА»",
+      "company_name": "ПАО «Корпорация ВСМПО-АВИСМА»",
+      "education": [
+        {
+          "institution": "Российский государственный геологоразведочный университет им. Серго Орджоникидзе",
+          "year": 2003,
+          "qualification": "высшее образование",
+          "description": "Original education details: field: экономический факультет.",
+          "sources": [
+            "https://runetbook.ru/catalog/vishnevskiy-ilya-igorevich"
+          ],
+          "qualification_degree": "Unknown"
+        },
+        {
+          "institution": "American Institute of Business and Economics",
+          "year": 2005,
+          "qualification": "MBA",
+          "description": null,
+          "sources": [
+            "https://viperson.ru/people/vishnevskiy-ilya-igorevich"
+          ],
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Корпорация ВСМПО-АВИСМА»",
+          "role": "член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "ГОСА 23.05.2024 избрало Вишневского И.И. в Совет директоров.",
+          "sources": [
+            "https://evrofinance.ru/files/rus/dep/news/news_6924.pdf"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "Alcoa Russia",
+          "role": "acting commercial director; commercial director",
+          "start_year": 2011,
+          "end_year": 2014,
+          "description": "Официальный пресс-релиз Alcoa и отраслевые источники подтверждают коммерческую роль Вишневского в Alcoa Russia.",
+          "sources": [
+            "https://www.howmet.com/press-release/2011-09-22/alcoa-and-becema-introduce-new-aluminum-solution-for-commercial-transportation-market-in-russia/",
+            "https://www.metalinfo.ru/ru/conference/archive?id=165&year=2012"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "Арконик Россия",
+          "role": "коммерческий директор",
+          "start_year": 2016,
+          "end_year": null,
+          "description": "Коммерсантъ в 2016 году представляет Вишневского как коммерческого директора «Арконик Россия».",
+          "sources": [
+            "https://www.kommersant.ru/doc/3155706"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://evrofinance.ru/files/rus/dep/news/news_6924.pdf",
+          "title": "Корпоративное действие ГОСА VSMO, 23.05.2024",
+          "fact": "Подтверждение избрания в Совет директоров."
+        },
+        {
+          "url": "https://runetbook.ru/catalog/vishnevskiy-ilya-igorevich",
+          "title": "Runet Book — Вишневский Илья Игоревич",
+          "fact": "Биографический агрегатор сообщает об окончании экономического факультета РГГРУ в 2003 году; источник вторичный."
+        },
+        {
+          "url": "https://viperson.ru/people/vishnevskiy-ilya-igorevich",
+          "title": "VIPERSON — Вишневский Илья Игоревич",
+          "fact": "Биографический агрегатор сообщает о завершении MBA в AIBEc в 2005 году; источник вторичный."
+        },
+        {
+          "url": "https://evrofinance.ru/files/rus/dep/news/news_6924.pdf",
+          "title": "Корпоративное действие ГОСА VSMO, 23.05.2024",
+          "fact": "Вишневский Илья Игоревич указан среди избранных членов Совета директоров."
+        },
+        {
+          "url": "https://www.howmet.com/press-release/2011-09-22/alcoa-and-becema-introduce-new-aluminum-solution-for-commercial-transportation-market-in-russia/",
+          "title": "Alcoa and Becema Introduce New Aluminum Solution for Commercial Transportation Market in Russia",
+          "fact": "Пресс-релиз цитирует Ilya Vishnevskiy как Acting Commercial Director Alcoa Russia."
+        },
+        {
+          "url": "https://www.metalinfo.ru/ru/conference/archive?id=165&year=2012",
+          "title": "Metalinfo — конференция «Алюминий: сплавы, прокат и профили», 2012",
+          "fact": "Вишневский указан как коммерческий директор Алкоа Россия."
+        },
+        {
+          "url": "https://www.kommersant.ru/doc/3155706",
+          "title": "Коммерсантъ — «Профиль роста»",
+          "fact": "Материал представляет Илью Вишневского как коммерческого директора «Арконик Россия»."
+        }
+      ],
+      "notes": "Образование подтверждено только вторичными биографическими агрегаторами; официальный источник вуза или работодательская биография не найдены. Научные публикации, патенты, h-index и ученые степени не подтверждены. Роль из CSV: Член Совета директоров ПАО «Корпорация ВСМПО-АВИСМА» || Quality pass round 1 (2026-08-02): гэп по официальному подтверждению образования проверен заново — уже процитированный runetbook.ru перечитан целиком, дает лишь чуть более полную формулировку («в 2003 году с отличием окончил экономический факультет Российского Государственного Геологоразведочного Университета им. Серго Орджоникидзе»), без новых полей и без официального источника. Ничего структурно не меняется; гэп остается как есть."
+    },
+    {
+      "name": "Вищаненко Антон Владимирович",
+      "current_role": "член Совета директоров ПАО «Корпорация ВСМПО-АВИСМА»",
+      "company_name": "ПАО «Корпорация ВСМПО-АВИСМА»",
+      "education": [
+        {
+          "institution": "Московский авиационный институт",
+          "year": 2001,
+          "qualification": "высшее образование",
+          "description": "Original education details: field: инженер-экономист.",
+          "sources": [
+            "https://history.mai.ru/personalities/item.php?id=113297",
+            "https://rid.ru/reestr/chleny-nacionalnogo-reestra?fs=%D0%92"
+          ],
+          "qualification_degree": "Unknown"
+        },
+        {
+          "institution": "INSEAD",
+          "year": null,
+          "qualification": "Executive MBA",
+          "description": null,
+          "sources": [
+            "https://www.cfo-russia.ru/meropriyatiya/speakers/6233/"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "кандидат экономических наук",
+          "university": "Санкт-Петербургский университет экономики и финансов",
+          "year": 2006,
+          "sources": [
+            "https://search.rsl.ru/ru/record/01003263636",
+            "https://history.mai.ru/personalities/item.php?id=113297"
+          ],
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Корпорация ВСМПО-АВИСМА»",
+          "role": "член Совета директоров",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Официальная страница истории МАИ (карьерный профиль) указывает непрерывное членство в Совете директоров ВСМПО-АВИСМА с 2021 года; ГОСА 23.05.2024 отдельно подтверждает избрание/переизбрание в Совет директоров — что не противоречит непрерывному членству с 2021 года, так как советы директоров российских АО переизбираются ежегодно на годовом общем собрании. start_year скорректирован с 2024 на 2021 по более полному источнику.",
+          "sources": [
+            "https://evrofinance.ru/files/rus/dep/news/news_6924.pdf",
+            "https://history.mai.ru/personalities/item.php?id=113297"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ПАО «Уралкалий»",
+          "role": "директор по экономике и финансам",
+          "start_year": 2014,
+          "end_year": 2021,
+          "description": "Карьерный профиль МАИ указывает работу в Уралкалии в 2014–2021.",
+          "sources": [
+            "https://history.mai.ru/personalities/item.php?id=113297"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Chemicals"
+        },
+        {
+          "organization": "НМТП",
+          "role": "заместитель генерального директора по финансам и экономике",
+          "start_year": 2012,
+          "end_year": 2013,
+          "description": "Профиль CFO Russia подтверждает назначение 1 июня 2012 года (без даты ухода). Карьерный профиль МАИ независимо и точно подтверждает период 2012–2013 — расхождение, которое отмечали предыдущие раунды, снято: оба уже процитированных источника согласуются по годам, просто ни один не дает месяц/день ухода.",
+          "sources": [
+            "https://www.cfo-russia.ru/meropriyatiya/speakers/6233/",
+            "https://history.mai.ru/personalities/item.php?id=113297"
+          ],
+          "sector": "Industrials",
+          "industry_group": "Transportation",
+          "industry": "Transportation Infrastructure"
+        },
+        {
+          "organization": "ОАО «ОХК «Уралхим»",
+          "role": "финансовый директор",
+          "start_year": 2007,
+          "end_year": 2010,
+          "description": "Карьерный профиль МАИ указывает работу финансовым директором Уралхима в 2007–2010, между работой в ОАО «Мечел» и назначением в НМТП. Новая запись, добавленная в этом раунде из уже процитированного источника при разрешении расхождения по датам НМТП.",
+          "sources": [
+            "https://history.mai.ru/personalities/item.php?id=113297"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Chemicals"
+        },
+        {
+          "organization": "ОАО «Мечел»",
+          "role": "старший вице-президент по финансам",
+          "start_year": 2006,
+          "end_year": 2007,
+          "description": "Карьерный профиль МАИ указывает работу старшим вице-президентом по финансам ОАО «Мечел» в 2006–2007. Новая запись, добавленная в этом раунде из уже процитированного источника.",
+          "sources": [
+            "https://history.mai.ru/personalities/item.php?id=113297"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "«Вимм-Билль-Данн»",
+          "role": "работа в финансовом управлении; директор департамента международной отчетности",
+          "start_year": 2000,
+          "end_year": 2006,
+          "description": "Карьерный профиль МАИ указывает работу в финансовом управлении компании «Вимм-Билль-Данн» в 2000–2003, затем директором департамента международной отчетности в 2003–2006. Новая запись, добавленная в этом раунде из уже процитированного источника.",
+          "sources": [
+            "https://history.mai.ru/personalities/item.php?id=113297"
+          ],
+          "sector": "Consumer Staples",
+          "industry_group": "Food, Beverage & Tobacco",
+          "industry": "Food Products"
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "Санкт-Петербургский университет экономики и финансов",
+          "role": "соискатель кандидатской диссертации",
+          "start_year": null,
+          "end_year": 2006,
+          "description": "Подтвержден автореферат кандидатской диссертации по специальности 08.00.05.",
+          "sources": [
+            "https://search.rsl.ru/ru/record/01003263636"
+          ]
+        }
+      ],
+      "publications": [
+        {
+          "title": "Диагностика и совершенствование организационных структур",
+          "year": 2006,
+          "citations": null,
+          "sources": [
+            "https://search.rsl.ru/ru/record/01003263636"
+          ]
+        }
+      ],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://evrofinance.ru/files/rus/dep/news/news_6924.pdf",
+          "title": "Корпоративное действие ГОСА VSMO, 23.05.2024",
+          "fact": "Подтверждение избрания в Совет директоров."
+        },
+        {
+          "url": "https://history.mai.ru/personalities/item.php?id=113297",
+          "title": "История МАИ — Вищаненко Антон Владимирович",
+          "fact": "Официальный ресурс МАИ указывает выпуск 2001 года."
+        },
+        {
+          "url": "https://rid.ru/reestr/chleny-nacionalnogo-reestra?fs=%D0%92",
+          "title": "Российский институт директоров — Национальный реестр директоров",
+          "fact": "Запись указывает МАИ, 1996–2001, специальность инженер-экономист."
+        },
+        {
+          "url": "https://www.cfo-russia.ru/meropriyatiya/speakers/6233/",
+          "title": "CFO Russia — Антон Вищаненко",
+          "fact": "Профиль сообщает о получении Executive MBA в INSEAD."
+        },
+        {
+          "url": "https://search.rsl.ru/ru/record/01003263636",
+          "title": "РГБ — Вищаненко Антон Владимирович. Диагностика и совершенствование организационных структур",
+          "fact": "Каталог РГБ содержит автореферат диссертации на соискание степени кандидата экономических наук, Санкт-Петербург, 2006."
+        },
+        {
+          "url": "https://history.mai.ru/personalities/item.php?id=113297",
+          "title": "История МАИ — Вищаненко Антон Владимирович",
+          "fact": "Официальный ресурс МАИ указывает степень кандидата экономических наук."
+        },
+        {
+          "url": "https://evrofinance.ru/files/rus/dep/news/news_6924.pdf",
+          "title": "Корпоративное действие ГОСА VSMO, 23.05.2024",
+          "fact": "Вищаненко Антон Владимирович указан среди избранных членов Совета директоров."
+        },
+        {
+          "url": "https://history.mai.ru/personalities/item.php?id=113297",
+          "title": "История МАИ — Вищаненко Антон Владимирович",
+          "fact": "Профиль МАИ указывает должность директора по экономике и финансам ПАО «Уралкалий» в 2014–2021."
+        },
+        {
+          "url": "https://www.cfo-russia.ru/meropriyatiya/speakers/6233/",
+          "title": "CFO Russia — Антон Вищаненко",
+          "fact": "Профиль указывает назначение в НМТП с 1 июня 2012 года."
+        },
+        {
+          "url": "https://search.rsl.ru/ru/record/01003263636",
+          "title": "РГБ — Вищаненко Антон Владимирович. Диагностика и совершенствование организационных структур",
+          "fact": "РГБ фиксирует автореферат диссертации 2006 года."
+        },
+        {
+          "url": "https://search.rsl.ru/ru/record/01003263636",
+          "title": "РГБ — автореферат диссертации Вищаненко А.В.",
+          "fact": "Каталог РГБ содержит автореферат диссертации."
+        }
+      ],
+      "notes": "Идентичность надежно подтверждена через МАИ/RID/корпоративные материалы. h-index не найден. Патенты не подтверждены. По НМТП есть расхождения в точной дате ухода; годы оставлены укрупненно. Роль из CSV: Член Совета директоров ПАО «Корпорация ВСМПО-АВИСМА» || Quality pass round 1 (2026-08-02): полностью перечитан уже процитированный history.mai.ru — дал точную дословную биографию: «Родился 2 июня 1979 в Москве. В 2001 окончил МАИ. В 2000–2003 работал в финансовом управлении компании «Вимм-Билль-Данн», в 2003–2006 — директор департамента международной отчётности, в 2006–2007 — старший вице-президент по финансам ОАО «Мечел». В 2007–2010 — финансовый директор ОАО «ОХК «Уралхим». В 2012–2013 — заместитель генерального директора — директор по экономике и финансам Новороссийского морского торгового порта. В 2014–2021 — директор по экономике и финансам ПАО «Уралкалий». С 2021 — член совета директоров ПАО «Корпорация ВСМПО-АВИСМА». Кандидат экономических наук.» Из этого: (1) добавлены 3 новые записи professional_experience (Вимм-Билль-Данн, Мечел, Уралхим) — ранее в JSON отсутствовали; (2) расхождение по точной дате ухода из НМТП снято — МАИ независимо подтверждает 2012–2013, совпадает с уже имевшимся значением, просто без месяца/дня; (3) генуинное расхождение по старту членства в Совете директоров ВСМПО-АВИСМА: МАИ говорит «с 2021», в то время как в JSON ранее стояло 2024 (от ГОСА 23.05.2024). Разрешено в пользу 2021: избрание на ГОСА 2024 года — это стандартное ежегодное переизбрание совета директоров (годовой цикл по закону об АО), а не обязательно первое назначение; источник МАИ дает непрерывную хронологию без противоречия по годам между записями, поэтому расхождение не тождественно взаимоисключающим фактам. start_year изменен на 2021, оба источника сохранены. (4) degrees[0].qualification_degree исправлен с null на «Doctoral degree» для внутренней согласованности с тем, как «кандидат экономических наук» классифицируется у Леликова в этом же файле."
+    },
+    {
+      "name": "Леликов Дмитрий Юрьевич",
+      "current_role": "член Совета директоров ПАО «Корпорация ВСМПО-АВИСМА»; заместитель генерального директора ГК «Ростех» по инвестиционной деятельности",
+      "company_name": "ПАО «Корпорация ВСМПО-АВИСМА»",
+      "education": [
+        {
+          "institution": "Государственная финансовая академия при Правительстве РФ",
+          "year": 1992,
+          "qualification": "высшее образование",
+          "description": "Original education details: field: финансы и кредит.",
+          "sources": [
+            "https://rostec.ru/content/files/press-rel/press-release_Oboronprom_smena_rukovodstva.pdf",
+            "https://disclosure.1prime.ru/Portal/GetDocument.aspx?docId=edd56471eb824ca9b866b45d61f02584&emId=6623029538"
+          ],
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Российская академия государственной службы при Президенте РФ",
+          "year": null,
+          "qualification": "высшее образование",
+          "description": null,
+          "sources": [
+            "https://soyuzmash.ru/people/lelikov-dmitriy-yurevich/"
+          ],
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "кандидат экономических наук",
+          "university": null,
+          "year": null,
+          "sources": [
+            "https://rostec.ru/content/files/press-rel/press-release_Oboronprom_smena_rukovodstva.pdf",
+            "https://soyuzmash.ru/people/lelikov-dmitriy-yurevich/"
+          ],
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Корпорация ВСМПО-АВИСМА»",
+          "role": "член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "ГОСА 23.05.2024 избрало Леликова Д.Ю. в Совет директоров.",
+          "sources": [
+            "https://evrofinance.ru/files/rus/dep/news/news_6924.pdf"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ГК «Ростех»",
+          "role": "заместитель генерального директора по инвестиционной деятельности",
+          "start_year": 2016,
+          "end_year": null,
+          "description": "Официальный Ростех и СоюзМаш подтверждают должность.",
+          "sources": [
+            "https://rostec.ru/media/news/140-mln-rubley-vydelit-rostekh-na-realizatsiyu-peredovykh-razrabotok-/",
+            "https://soyuzmash.ru/people/lelikov-dmitriy-yurevich/"
+          ],
+          "sector": "Industrials",
+          "industry_group": "Capital Goods",
+          "industry": "Industrial Conglomerates"
+        },
+        {
+          "organization": "ОПК «Оборонпром»",
+          "role": "первый заместитель генерального директора; генеральный директор",
+          "start_year": 2004,
+          "end_year": 2016,
+          "description": "Ростеховский пресс-релиз подтверждает переход от первого заместителя к генеральному директору Оборонпрома.",
+          "sources": [
+            "https://rostec.ru/content/files/press-rel/press-release_Oboronprom_smena_rukovodstva.pdf"
+          ],
+          "sector": "Industrials",
+          "industry_group": "Capital Goods",
+          "industry": "Aerospace & Defense"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://evrofinance.ru/files/rus/dep/news/news_6924.pdf",
+          "title": "Корпоративное действие ГОСА VSMO, 23.05.2024",
+          "fact": "Подтверждение избрания в Совет директоров."
+        },
+        {
+          "url": "https://rostec.ru/content/files/press-rel/press-release_Oboronprom_smena_rukovodstva.pdf",
+          "title": "Ростех/Оборонпром — пресс-релиз о назначении Дмитрия Леликова",
+          "fact": "Биографическая справка указывает окончание Финансовой академии по специальности «Финансы и кредит»."
+        },
+        {
+          "url": "https://disclosure.1prime.ru/Portal/GetDocument.aspx?docId=edd56471eb824ca9b866b45d61f02584&emId=6623029538",
+          "title": "Годовой отчет АО «НПК “Уралвагонзавод”» за 2017 год",
+          "fact": "Биографическая карточка указывает Государственную финансовую академию, 1992 год."
+        },
+        {
+          "url": "https://soyuzmash.ru/people/lelikov-dmitriy-yurevich/",
+          "title": "Союз машиностроителей России — Леликов Дмитрий Юрьевич",
+          "fact": "Профиль указывает окончание Российской академии государственной службы при Президенте РФ."
+        },
+        {
+          "url": "https://rostec.ru/content/files/press-rel/press-release_Oboronprom_smena_rukovodstva.pdf",
+          "title": "Ростех/Оборонпром — пресс-релиз о назначении Дмитрия Леликова",
+          "fact": "Биографическая справка называет Леликова кандидатом экономических наук."
+        },
+        {
+          "url": "https://soyuzmash.ru/people/lelikov-dmitriy-yurevich/",
+          "title": "Союз машиностроителей России — Леликов Дмитрий Юрьевич",
+          "fact": "Профиль указывает степень кандидата экономических наук."
+        },
+        {
+          "url": "https://evrofinance.ru/files/rus/dep/news/news_6924.pdf",
+          "title": "Корпоративное действие ГОСА VSMO, 23.05.2024",
+          "fact": "Леликов Дмитрий Юрьевич указан среди избранных членов Совета директоров."
+        },
+        {
+          "url": "https://rostec.ru/media/news/140-mln-rubley-vydelit-rostekh-na-realizatsiyu-peredovykh-razrabotok-/",
+          "title": "Ростех — «140 млн рублей выделит Ростех…»",
+          "fact": "Новость от 19.09.2024 называет Леликова заместителем гендиректора Ростеха по инвестиционной деятельности."
+        },
+        {
+          "url": "https://soyuzmash.ru/people/lelikov-dmitriy-yurevich/",
+          "title": "Союз машиностроителей России — Леликов Дмитрий Юрьевич",
+          "fact": "Профиль указывает работу заместителем генерального директора Ростеха с августа 2016 года."
+        },
+        {
+          "url": "https://rostec.ru/content/files/press-rel/press-release_Oboronprom_smena_rukovodstva.pdf",
+          "title": "Ростех/Оборонпром — пресс-релиз о назначении Дмитрия Леликова",
+          "fact": "Биография указывает работу первым заместителем гендиректора в 2004–2012 и назначение гендиректором в 2012 году."
+        }
+      ],
+      "notes": "Вероятное название кандидатской диссертации найдено только во вторичной библиографии, поэтому не перенесено в publications. Патенты и h-index не подтверждены. Дата рождения в GlobalMSK конфликтует с более надежными источниками и не используется. Роль из CSV: Член Совета директоров ПАО «Корпорация ВСМПО-АВИСМА»"
+    },
+    {
+      "name": "Мельников Николай Константинович",
+      "current_role": "первый заместитель генерального директора — исполнительный директор ВСМПО",
+      "company_name": "ПАО «Корпорация ВСМПО-АВИСМА»",
+      "education": [
+        {
+          "institution": null,
+          "year": null,
+          "qualification": "высшее профессиональное образование",
+          "description": null,
+          "sources": [
+            "https://www.rustocks.com/put.phtml/vsmo_1Q2005_FSFM.pdf"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Корпорация ВСМПО-АВИСМА»",
+          "role": "первый заместитель генерального директора — исполнительный директор ВСМПО",
+          "start_year": 2013,
+          "end_year": null,
+          "description": "Роль подтверждается правительственным распоряжением 2013 года и вторичными профилями; официальные страницы VSMPO 2024 индексируются, но не открывались из-за 403.",
+          "sources": [
+            "https://rulaws.ru/goverment/Rasporyazhenie-Pravitelstva-RF-ot-27.02.2013-N-254-r/",
+            "https://www.globalmsk.ru/person/id/11203",
+            "https://fomag.ru/news-streem/gendirektorom-vsmpo-avisma-izbran-dmitriy-trifonov-korporatsiya/"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ПАО «Корпорация ВСМПО-АВИСМА»",
+          "role": "исполняющий обязанности генерального директора",
+          "start_year": 2023,
+          "end_year": 2023,
+          "description": "В 2023 году исполнял обязанности гендиректора до избрания Дмитрия Трифонова.",
+          "sources": [
+            "https://fomag.ru/news-streem/gendirektorom-vsmpo-avisma-izbran-dmitriy-trifonov-korporatsiya/"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "ПАО «Корпорация ВСМПО-АВИСМА»",
+          "role": "руководитель промышленно-технологической работы, отмеченной премией Правительства РФ",
+          "start_year": null,
+          "end_year": 2012,
+          "description": "Премия присуждена за технологию и промышленное производство комплексных лигатур для титановых сплавов.",
+          "sources": [
+            "https://rulaws.ru/goverment/Rasporyazhenie-Pravitelstva-RF-ot-27.02.2013-N-254-r/"
+          ]
+        }
+      ],
+      "publications": [],
+      "patents": [
+        {
+          "title": "Способ получения неорганического материала на основе оксинитридов титана",
+          "year": 2014,
+          "sources": [
+            "https://onlinepatent.ru/patents/c/0002518363/"
+          ]
+        }
+      ],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://rulaws.ru/goverment/Rasporyazhenie-Pravitelstva-RF-ot-27.02.2013-N-254-r/",
+          "title": "Распоряжение Правительства РФ от 27.02.2013 N 254-р",
+          "fact": "Подтверждение роли и промышленно-технологической работы."
+        },
+        {
+          "url": "https://www.rustocks.com/put.phtml/vsmo_1Q2005_FSFM.pdf",
+          "title": "VSMPO quarterly report, 1Q 2005",
+          "fact": "Отчет указывает у Мельникова Н.К. высшее профессиональное образование, без вуза и специальности."
+        },
+        {
+          "url": "https://rulaws.ru/goverment/Rasporyazhenie-Pravitelstva-RF-ot-27.02.2013-N-254-r/",
+          "title": "Распоряжение Правительства РФ от 27.02.2013 N 254-р",
+          "fact": "В составе лауреатов премии указан Мельников Н.К. как первый заместитель генерального директора — исполнительный директор ВСМПО."
+        },
+        {
+          "url": "https://www.globalmsk.ru/person/id/11203",
+          "title": "GlobalMSK — Мельников Николай Константинович",
+          "fact": "Профиль указывает текущую должность в ВСМПО-АВИСМА; источник вторичный."
+        },
+        {
+          "url": "https://fomag.ru/news-streem/gendirektorom-vsmpo-avisma-izbran-dmitriy-trifonov-korporatsiya/",
+          "title": "Fomag — Гендиректором «ВСМПО-Ависма» избран Дмитрий Трифонов",
+          "fact": "Материал сообщает о прекращении полномочий Мельникова как и.о. гендиректора 16.07.2023."
+        },
+        {
+          "url": "https://rulaws.ru/goverment/Rasporyazhenie-Pravitelstva-RF-ot-27.02.2013-N-254-r/",
+          "title": "Распоряжение Правительства РФ от 27.02.2013 N 254-р",
+          "fact": "Мельников Н.К. указан руководителем работы по комплексным лигатурам для титановых сплавов."
+        },
+        {
+          "url": "https://onlinepatent.ru/patents/c/0002518363/",
+          "title": "OnlinePatent — RU2518363",
+          "fact": "Патентный агрегатор указывает Мельникова Н.К. среди авторов; правообладатель — ОАО «Корпорация ВСМПО-АВИСМА». Требуется сверка с ФИПС."
+        }
+      ],
+      "notes": "Точный вуз, специальность и год образования не подтверждены открытым надежным источником. Патентный факт основан на агрегаторе, но имеет сильный identity anchor через правообладателя ВСМПО-АВИСМА. h-index и научные публикации не подтверждены. Роль из CSV: Первый заместитель генерального директора — исполнительный директор ВСМПО || Quality pass round 1 (2026-08-02): гэп по образованию проверен заново. globalmsk.ru — прочитан полностью, образования не содержит вовсе. www.rustocks.com/put.phtml/vsmo_1Q2005_FSFM.pdf (уже процитированный источник) — прежде не открывался (TLS-ошибка у WebFetch); в этом раунде скачан напрямую через curl и прочитан целиком: подтверждает «Melnikov, Nikolay Konstantinovich, b. 1955. Education: higher vocational» — то есть даже ближайший к первоисточнику документ называет только уровень образования («высшее профессиональное»), без вуза. Это не сбой поиска, а фактическое отсутствие данных в раскрытии. Гэп остается null, теперь с высокой уверенностью, что более точного ответа в открытых корпоративных раскрытиях нет."
+    },
+    {
+      "name": "Бабин Владимир Семенович",
+      "current_role": "исполняющий обязанности исполнительного директора АВИСМА в 2023–2026; с апреля 2026, по найденным источникам, первый заместитель исполнительного директора",
+      "company_name": "ПАО «Корпорация ВСМПО-АВИСМА»",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Филиал «Ависма» ПАО «Корпорация ВСМПО-АВИСМА»",
+          "role": "исполняющий обязанности исполнительного директора",
+          "start_year": 2023,
+          "end_year": 2026,
+          "description": "После назначения Дмитрия Трифонова гендиректором Владимир Бабин стал и.о. исполнительного директора филиала «Ависма».",
+          "sources": [
+            "https://www.kommersant.ru/doc/6109754",
+            "https://www.vedomosti.ru/business/news/2023/07/17/985667-sovet-direktorov-vsmpo-avisma-utverdil-gendirektora"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "Филиал «Ависма» ПАО «Корпорация ВСМПО-АВИСМА»",
+          "role": "заместитель директора по технологии",
+          "start_year": null,
+          "end_year": 2023,
+          "description": "Предыдущая должность до назначения и.о. исполнительного директора.",
+          "sources": [
+            "https://www.kommersant.ru/doc/6109754"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [
+        {
+          "title": "Способ получения флюса для плавки и рафинирования магния или его сплавов",
+          "year": 2010,
+          "sources": [
+            "https://patents.google.com/patent/RU2378397C1/ru"
+          ]
+        },
+        {
+          "title": "Способ получения магния и хлора и технологическая линия для его осуществления",
+          "year": 2010,
+          "sources": [
+            "https://patents.google.com/patent/RU2389813C1/ru"
+          ]
+        }
+      ],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.kommersant.ru/doc/6109754",
+          "title": "Коммерсантъ — Гендиректором «ВСМПО-Ависма» назначен исполнительный директор пермского филиала",
+          "fact": "Подтверждение должности и предыдущей роли Бабина."
+        },
+        {
+          "url": "https://www.kommersant.ru/doc/6109754",
+          "title": "Коммерсантъ — Гендиректором «ВСМПО-Ависма» назначен исполнительный директор пермского филиала",
+          "fact": "Коммерсантъ со ссылкой на пресс-службу сообщает, что исполнять обязанности исполнительного директора «Ависмы» будет Владимир Бабин, ранее заместитель директора по технологии."
+        },
+        {
+          "url": "https://www.vedomosti.ru/business/news/2023/07/17/985667-sovet-direktorov-vsmpo-avisma-utverdil-gendirektora",
+          "title": "Ведомости — Совет директоров «ВСМПО-Ависма» утвердил нового гендиректора",
+          "fact": "Материал подтверждает назначение Бабина и.о. исполнительного директора филиала «Ависма»."
+        },
+        {
+          "url": "https://www.kommersant.ru/doc/6109754",
+          "title": "Коммерсантъ — Гендиректором «ВСМПО-Ависма» назначен исполнительный директор пермского филиала",
+          "fact": "Коммерсантъ сообщает, что ранее Бабин занимал должность заместителя директора по технологии «Ависмы»."
+        },
+        {
+          "url": "https://patents.google.com/patent/RU2378397C1/ru",
+          "title": "Google Patents — RU2378397C1",
+          "fact": "Патент указывает Владимира Семеновича Бабина среди изобретателей; правообладатель — ОАО «Корпорация ВСМПО-АВИСМА»."
+        },
+        {
+          "url": "https://patents.google.com/patent/RU2389813C1/ru",
+          "title": "Google Patents — RU2389813C1",
+          "fact": "Патентный источник указывает Владимира Семеновича Бабина среди изобретателей, с производственным контекстом АВИСМА/ВСМПО-АВИСМА."
+        }
+      ],
+      "notes": "Образование и ученые степени не найдены. Патенты подтверждены по Google Patents с сильным identity anchor через точное ФИО и правообладателя ВСМПО-АВИСМА; для максимальной строгости желательно дополнительно сверить ФИПС. Роль из CSV: Исполняющий обязанности исполнительного директора АВИСМА || Quality pass round 1 (2026-08-02): гэп по образованию проверен заново — уже процитированная статья kommersant.ru/doc/6109754 перечитана целиком, биографических данных сверх должности не содержит («Исполнять обязанности исполнительного директора «Ависмы» ... будет Владимир Бабин, ранее занимавший должность заместителя директора по технологии «Ависмы»»). Фреш-попытка найти иной источник образования (без WebSearch, который исчерпан по квоте сессии) не дала новых кандидатных URL. Гэп остается null."
+    },
+    {
+      "name": "Варфоломеев Владислав Игоревич",
+      "current_role": null,
+      "company_name": "ПАО «Корпорация ВСМПО-АВИСМА»",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ООО «АВИТРАНС»",
+          "role": "руководитель",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Реестровый агрегатор связывает Варфоломеева В.И. с ООО «АВИТРАНС», учредителем которого указано ПАО «Корпорация ВСМПО-АВИСМА».",
+          "sources": [
+            "https://xfirm.ru/person/732608529520",
+            "https://companies.rbc.ru/id/1025901706698-ooo-avitrans/"
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Financial Services (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://vsmpo.ru/media-center/valeriy-borisov-slozhil-polnomochiya-zamestitelya-generalnogo-direktora-vsmpo-avisma/",
+          "title": "ВСМПО-АВИСМА — «Валерий Борисов сложил полномочия заместителя генерального директора ВСМПО-АВИСМА»",
+          "fact": "Официальная страница найдена как релевантная к назначению/исполнению обязанностей по экономике и финансам, но прямое открытие возвращало 403; точный фрагмент не извлечен."
+        },
+        {
+          "url": "https://xfirm.ru/person/732608529520",
+          "title": "XFIRM — Варфоломеев Владислав Игоревич",
+          "fact": "Карточка указывает Варфоломеева руководителем ООО «АВИТРАНС»; учредитель — ПАО «Корпорация ВСМПО-АВИСМА»."
+        }
+      ],
+      "notes": "Текущая роль из CSV не подтверждена прочитанным внешним источником: официальный материал VSMPO найден, но недоступен для чтения (403), а поисковый сниппет не использовался как факт. Поэтому current_role оставлен null. Образование, степени, публикации, патенты и h-index не подтверждены. Роль из CSV: Исполняющий обязанности заместителя генерального директора по экономике и финансам; директор по экономике и корпоративным финансам || Quality pass round 1 (2026-08-02): страница vsmpo.ru про уход Валерия Борисова, ранее возвращавшая 403, в этом раунде успешно прочитана целиком. Она НЕ называет Варфоломеева и не называет никакого конкретного преемника по имени — единственная релевантная фраза: «Направление экономики и финансов, за которое он отвечал, продолжит вести его команда, недавно усиленная новыми сотрудниками». Таким образом причина null изменилась: не «источник недоступен», а «источник доступен и прочитан, но не подтверждает роль Варфоломеева на 2024 год». current_role остается null; также сверена GICS-метка ООО «АВИТРАНС» (см. professional_experience) — по данным профиля компании на companies.rbc.ru её ОКВЭД 64.91 «Деятельность по финансовой аренде (лизингу/сублизингу)», поэтому метка исправлена с Capital Markets на Financial Services (New Name)/Financial Services (New Name) — лизинговая компания, а не участник рынков капитала."
+    },
+    {
+      "name": "Ледер Олег Оттович",
+      "current_role": null,
+      "company_name": "ПАО «Корпорация ВСМПО-АВИСМА»",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Корпорация ВСМПО-АВИСМА»",
+          "role": "заместитель генерального директора / VP по маркетингу и сбыту",
+          "start_year": null,
+          "end_year": 2022,
+          "description": "Открытая публикация сообщает, что Олег Ледер покинул VSMPO-AVISMA с 17 января 2022 года; это конфликтует с CSV как актуальным списком 2024.",
+          "sources": [
+            "https://6ix.com/news/public-stock-vsmpo-avisma-vladimir-medvedev-is-appointed-as-acting-vp-marketing-and-sales"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://6ix.com/news/public-stock-vsmpo-avisma-vladimir-medvedev-is-appointed-as-acting-vp-marketing-and-sales",
+          "title": "6ix — VSMPO-AVISMA: Vladimir Medvedev appointed as acting VP, Marketing and Sales",
+          "fact": "Источник указывает уход Олега Ледера из компании в январе 2022 года."
+        },
+        {
+          "url": "https://6ix.com/news/public-stock-vsmpo-avisma-vladimir-medvedev-is-appointed-as-acting-vp-marketing-and-sales",
+          "title": "6ix — VSMPO-AVISMA: Vladimir Medvedev appointed as acting VP, Marketing and Sales",
+          "fact": "Публикация от 18.01.2022 сообщает, что Владимир Медведев назначен и.о. руководителя маркетинга и сбыта, а Олег Ледер покинул VSMPO-AVISMA с 17 января."
+        }
+      ],
+      "notes": "Текущая роль в 2024 году не подтверждена; наоборот, найден источник об уходе из VSMPO-AVISMA в январе 2022 года. Поэтому current_role оставлен null, а role_from_csv сохранен только как исходная строка CSV. Образование, степени, публикации, патенты и h-index не подтверждены. Роль из CSV: Заместитель генерального директора по маркетингу и сбыту || Quality pass round 1 (2026-08-02): гэп по статусу после ухода проверен заново — уже процитированная статья 6ix.com перечитана целиком: не содержит никакой информации о дальнейшей судьбе Олега Ледера после ухода (ни новое место работы, ни причина ухода). Фреш-попытка (без WebSearch, который исчерпан по квоте сессии) не дала новых кандидатных URL. Вывод раунда 1 (current_role=null, конфликт CSV vs факт ухода в 2022 году) остается в силе и не пересматривается."
+    },
+    {
+      "name": "Ледер Михаил Оттович",
+      "current_role": "директор по науке и технологии ПАО «Корпорация ВСМПО-АВИСМА»",
+      "company_name": "ПАО «Корпорация ВСМПО-АВИСМА»",
+      "education": [
+        {
+          "institution": "Уральский политехнический институт им. С.М. Кирова",
+          "year": 1990,
+          "qualification": "высшее образование",
+          "description": "Original education details: field: литейное производство черных и цветных металлов.",
+          "sources": [
+            "https://dissovet2.urfu.ru/pluginfile.php/132/mod_data/content/78744/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%94%D0%B8%D1%81%D1%81%D0%B5%D1%80%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%B0%20%2816.02.2022%29.pdf"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "кандидат технических наук",
+          "university": "Уральский федеральный университет",
+          "year": 2022,
+          "sources": [
+            "https://dissovet2.urfu.ru/mod/data/view.php?d=12&rid=3325",
+            "https://dissovet2.urfu.ru/pluginfile.php/132/mod_data/content/78744/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%94%D0%B8%D1%81%D1%81%D0%B5%D1%80%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%B0%20%2816.02.2022%29.pdf"
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Корпорация ВСМПО-АВИСМА»",
+          "role": "директор по науке и технологии",
+          "start_year": null,
+          "end_year": null,
+          "description": "Решение диссертационного совета 2022 года указывает штатную должность Ледера в ВСМПО-АВИСМА; прямое независимое подтверждение на 2024 год не найдено.",
+          "sources": [
+            "https://dissovet2.urfu.ru/pluginfile.php/132/mod_data/content/78744/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%94%D0%B8%D1%81%D1%81%D0%B5%D1%80%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%B0%20%2816.02.2022%29.pdf"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "Уральский федеральный университет",
+          "role": "заведующий базовой кафедрой металлургии титана",
+          "start_year": null,
+          "end_year": null,
+          "description": "Решение диссертационного совета указывает совместительство в УрФУ.",
+          "sources": [
+            "https://dissovet2.urfu.ru/pluginfile.php/132/mod_data/content/78744/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%94%D0%B8%D1%81%D1%81%D0%B5%D1%80%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%B0%20%2816.02.2022%29.pdf"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "ПАО «Корпорация ВСМПО-АВИСМА»; Уральский федеральный университет",
+          "role": "исследователь/соискатель кандидатской диссертации по титановым сплавам",
+          "start_year": 2020,
+          "end_year": 2022,
+          "description": "Диссертация «Оптимизация состава сплава ВТ18у с целью повышения комплекса служебных свойств» выполнена в ВСМПО-АВИСМА и УрФУ.",
+          "sources": [
+            "https://dissovet2.urfu.ru/mod/data/view.php?d=12&rid=3325"
+          ]
+        }
+      ],
+      "publications": [
+        {
+          "title": "Effect of alloying on precipitation of intermetallic phases in heat-resistant titanium alloys",
+          "year": 2015,
+          "citations": null,
+          "sources": [
+            "https://dissovet2.urfu.ru/pluginfile.php/132/mod_data/content/78744/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%94%D0%B8%D1%81%D1%81%D0%B5%D1%80%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%B0%20%2816.02.2022%29.pdf"
+          ]
+        },
+        {
+          "title": "Влияние примесей Fe, Ni и Cr на комплекс механических свойств сплава ВТ18у",
+          "year": 2021,
+          "citations": null,
+          "sources": [
+            "https://dissovet2.urfu.ru/pluginfile.php/132/mod_data/content/78744/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%94%D0%B8%D1%81%D1%81%D0%B5%D1%80%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%B0%20%2816.02.2022%29.pdf"
+          ]
+        }
+      ],
+      "patents": [
+        {
+          "title": "Способ термической обработки листового проката из псевдо-альфа титанового сплава марки ВТ18у",
+          "year": 2019,
+          "sources": [
+            "https://patents.google.com/patent/RU2681236C1/ru"
+          ]
+        }
+      ],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://dissovet2.urfu.ru/mod/data/view.php?d=12&rid=3325",
+          "title": "УрФУ — информация о диссертации Ледера М.О.",
+          "fact": "Основной источник по степени, теме диссертации и специальности."
+        },
+        {
+          "url": "https://patents.google.com/patent/RU2681236C1/ru",
+          "title": "Google Patents — RU2681236C1",
+          "fact": "Патентный источник по изобретению и правообладателю."
+        },
+        {
+          "url": "https://dissovet2.urfu.ru/pluginfile.php/132/mod_data/content/78744/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%94%D0%B8%D1%81%D1%81%D0%B5%D1%80%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%B0%20%2816.02.2022%29.pdf",
+          "title": "УрФУ — решение диссертационного совета по диссертации Ледера М.О.",
+          "fact": "Решение диссовета сообщает, что Ледер М.О. в 1990 году окончил Уральский политехнический институт по специальности «Литейное производство черных и цветных металлов»."
+        },
+        {
+          "url": "https://dissovet2.urfu.ru/mod/data/view.php?d=12&rid=3325",
+          "title": "УрФУ — информация о принятой к рассмотрению диссертации Ледера М.О.",
+          "fact": "Страница диссертационного совета указывает статус «Совет присудил ученую степень», степень кандидата технических наук, специальность 2.6.1."
+        },
+        {
+          "url": "https://dissovet2.urfu.ru/pluginfile.php/132/mod_data/content/78744/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%94%D0%B8%D1%81%D1%81%D0%B5%D1%80%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%B0%20%2816.02.2022%29.pdf",
+          "title": "УрФУ — решение диссертационного совета по диссертации Ледера М.О.",
+          "fact": "Решение от 07.02.2022 присуждает Ледеру Михаилу Оттовичу ученую степень кандидата технических наук."
+        },
+        {
+          "url": "https://dissovet2.urfu.ru/pluginfile.php/132/mod_data/content/78744/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%94%D0%B8%D1%81%D1%81%D0%B5%D1%80%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%B0%20%2816.02.2022%29.pdf",
+          "title": "УрФУ — решение диссертационного совета по диссертации Ледера М.О.",
+          "fact": "Решение указывает, что Ледер работает в ПАО «Корпорация ВСМПО-АВИСМА» в штатной должности директора по науке и технологии."
+        },
+        {
+          "url": "https://dissovet2.urfu.ru/pluginfile.php/132/mod_data/content/78744/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%94%D0%B8%D1%81%D1%81%D0%B5%D1%80%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%B0%20%2816.02.2022%29.pdf",
+          "title": "УрФУ — решение диссертационного совета по диссертации Ледера М.О.",
+          "fact": "Документ указывает совместительство в УрФУ в должности заведующего базовой кафедрой металлургии титана."
+        },
+        {
+          "url": "https://dissovet2.urfu.ru/mod/data/view.php?d=12&rid=3325",
+          "title": "УрФУ — информация о диссертации Ледера М.О.",
+          "fact": "Страница указывает тему диссертации, специальность, дату защиты и присуждение степени."
+        },
+        {
+          "url": "https://dissovet2.urfu.ru/pluginfile.php/132/mod_data/content/78744/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%94%D0%B8%D1%81%D1%81%D0%B5%D1%80%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%B0%20%2816.02.2022%29.pdf",
+          "title": "УрФУ — решение диссертационного совета по диссертации Ледера М.О.",
+          "fact": "Решение диссовета перечисляет публикацию в The Physics of Metals and Metallography, 2015, с М.О. Ледером в составе авторов."
+        },
+        {
+          "url": "https://dissovet2.urfu.ru/pluginfile.php/132/mod_data/content/78744/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%94%D0%B8%D1%81%D1%81%D0%B5%D1%80%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%B0%20%2816.02.2022%29.pdf",
+          "title": "УрФУ — решение диссертационного совета по диссертации Ледера М.О.",
+          "fact": "Решение диссовета перечисляет статью М.О. Ледера и соавторов в журнале «Титан», 2021."
+        },
+        {
+          "url": "https://patents.google.com/patent/RU2681236C1/ru",
+          "title": "Google Patents — RU2681236C1",
+          "fact": "Патент указывает Михаила Оттовича Ледера среди изобретателей; правообладатель — ПАО «Корпорация ВСМПО-АВИСМА»."
+        }
+      ],
+      "notes": "Сильный identity anchor: полное ФИО, должность в ВСМПО-АВИСМА, тема титановых сплавов и патент с правообладателем ВСМПО-АВИСМА. Прямой источник именно за 2024 год по должности не найден, но роль подтверждена решением диссовета 2022 года. h-index не найден. Роль из CSV: Директор по науке и технологии — начальник НТЦ ВСМПО"
+    },
+    {
+      "name": "Сбытов Максим Александрович",
+      "current_role": "директор по управлению персоналом ПАО «Корпорация ВСМПО-АВИСМА»",
+      "company_name": "ПАО «Корпорация ВСМПО-АВИСМА»",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Корпорация ВСМПО-АВИСМА»",
+          "role": "директор по управлению персоналом",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Роль подтверждается публикациями 2023–2024 годов, включая материал АиФ-Урал от 30.05.2024.",
+          "sources": [
+            "https://ural.aif.ru/society/korporaciya-vsmpo-avisma-trudoustroit-letom-bolee-180-saldinskih-shkolnikov?erid=LjN8KXww6",
+            "https://www.kommersant.ru/doc/6563997",
+            "https://vsalde.ru/salda-news/vsmpo/21084-sbytov-vmesto-furtatovoy-na-vsmpo-smenili-direktora-po-upravleniyu-personalom.html"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://ural.aif.ru/society/korporaciya-vsmpo-avisma-trudoustroit-letom-bolee-180-saldinskih-shkolnikov?erid=LjN8KXww6",
+          "title": "АиФ-Урал — ВСМПО-АВИСМА трудоустроит летом более 180 школьников",
+          "fact": "Подтверждение должности в 2024 году."
+        },
+        {
+          "url": "https://ural.aif.ru/society/korporaciya-vsmpo-avisma-trudoustroit-letom-bolee-180-saldinskih-shkolnikov?erid=LjN8KXww6",
+          "title": "АиФ-Урал — ВСМПО-АВИСМА трудоустроит летом более 180 школьников",
+          "fact": "Материал от 30.05.2024 цитирует Максима Сбытова как директора по управлению персоналом ПАО «Корпорация ВСМПО-АВИСМА»."
+        },
+        {
+          "url": "https://www.kommersant.ru/doc/6563997",
+          "title": "Коммерсантъ — «ВСМПО-Ависма» с 1 апреля повысит зарплату сотрудников на 7,5%",
+          "fact": "Коммерсантъ в 2024 году цитирует Максима Сбытова как директора по управлению персоналом."
+        },
+        {
+          "url": "https://vsalde.ru/salda-news/vsmpo/21084-sbytov-vmesto-furtatovoy-na-vsmpo-smenili-direktora-po-upravleniyu-personalom.html",
+          "title": "вСалде — Сбытов вместо Фуртатовой",
+          "fact": "Локальный источник сообщает о назначении Максима Сбытова директором по управлению персоналом вместо Ольги Фуртатовой."
+        }
+      ],
+      "notes": "Полное ФИО в открытых источниках встречается реже, чем краткая форма «Максим Сбытов»; роль привязана к компании и HR-контексту. Образование, предыдущий опыт, ученые степени, публикации, патенты и h-index не подтверждены. Роль из CSV: Директор по управлению персоналом || Quality pass round 1 (2026-08-02): гэп по образованию/предыдущему опыту проверен заново — уже процитированная статья vsalde.ru перечитана целиком, биографических данных сверх факта назначения не содержит. Фреш-попытка найти иной источник (без WebSearch, который исчерпан по квоте сессии) не дала новых кандидатных URL. Гэп остается null."
+    },
+    {
+      "name": "Мельников Александр Константинович",
+      "current_role": "заместитель директора по техническому обеспечению и ремонтам оборудования ПАО «Корпорация ВСМПО-АВИСМА»",
+      "company_name": "ПАО «Корпорация ВСМПО-АВИСМА»",
+      "education": [
+        {
+          "institution": null,
+          "year": null,
+          "qualification": "высшее профессиональное образование",
+          "description": null,
+          "sources": [
+            "https://elections.istra-da.ru/election/67224/"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Корпорация ВСМПО-АВИСМА»",
+          "role": "заместитель директора по техническому обеспечению и ремонтам оборудования",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Подтверждено программой заседания Комитета по энергетике СОСПП 28.11.2024 на площадке ВСМПО-АВИСМА.",
+          "sources": [
+            "https://www.elecom-ural.ru/novosti/priglashaem-na-otkrytoe-zasedanie-komiteta-po-energetike-sospp-28-noyabrya-2024-g.-na-pao-korporatsiya-vsmpo-avisma.html",
+            "https://www.elecom-ural.ru/media/content/sbornik-materialov-komiteta-po-energetike-sospp-2024.pdf"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ОАО «Корпорация ВСМПО-АВИСМА»",
+          "role": "начальник цеха №6",
+          "start_year": null,
+          "end_year": 2012,
+          "description": "Кандидатская карточка 2012 года указывает работу начальником цеха №6.",
+          "sources": [
+            "https://elections.istra-da.ru/election/67224/"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.elecom-ural.ru/novosti/priglashaem-na-otkrytoe-zasedanie-komiteta-po-energetike-sospp-28-noyabrya-2024-g.-na-pao-korporatsiya-vsmpo-avisma.html",
+          "title": "ГК ЭЛЕКОМ — приглашение на заседание Комитета по энергетике СОСПП 28.11.2024",
+          "fact": "Подтверждение должности в 2024 году."
+        },
+        {
+          "url": "https://elections.istra-da.ru/election/67224/",
+          "title": "Выборы депутатов Думы Верхнесалдинского городского округа, 2012",
+          "fact": "Кандидатская карточка указывает у Мельникова Александра Константиновича высшее профессиональное образование; вуз не указан."
+        },
+        {
+          "url": "https://www.elecom-ural.ru/novosti/priglashaem-na-otkrytoe-zasedanie-komiteta-po-energetike-sospp-28-noyabrya-2024-g.-na-pao-korporatsiya-vsmpo-avisma.html",
+          "title": "ГК ЭЛЕКОМ — приглашение на заседание Комитета по энергетике СОСПП 28.11.2024",
+          "fact": "Материал указывает Мельникова Александра Константиновича как заместителя директора по техническому обеспечению и ремонтам оборудования ПАО «Корпорация ВСМПО-АВИСМА»."
+        },
+        {
+          "url": "https://www.elecom-ural.ru/media/content/sbornik-materialov-komiteta-po-energetike-sospp-2024.pdf",
+          "title": "Сборник материалов Комитета по энергетике СОСПП, 2024",
+          "fact": "PDF также указывает Мельникова А.К. в этой должности."
+        },
+        {
+          "url": "https://elections.istra-da.ru/election/67224/",
+          "title": "Выборы депутатов Думы Верхнесалдинского городского округа, 2012",
+          "fact": "Карточка кандидата указывает место работы ОАО «Корпорация ВСМПО-АВИСМА» и должность начальника цеха 6."
+        }
+      ],
+      "notes": "Образование подтверждено только на уровне «высшее профессиональное» в электоральных данных 2012 года. Вуз, специальность, степени, публикации, патенты и h-index не подтверждены. Роль из CSV: Заместитель директора по техническому обеспечению и ремонтам ВСМПО || Quality pass round 1 (2026-08-02): гэп по вузу проверен заново — уже процитированная кандидатская карточка (elections.istra-da.ru/election/67224/) перечитана целиком: подтверждает, что графа образования там дословно ограничена словами «высшее профессиональное» без названия вуза. Это первоисточник, из которого факт вообще взят, и он сам не содержит более точных данных — гэп остается null."
+    },
+    {
+      "name": "Болотникова Юлия Владимировна",
+      "current_role": "корпоративный секретарь; секретарь Совета директоров",
+      "company_name": "ПАО «Корпорация ВСМПО-АВИСМА»",
+      "education": [
+        {
+          "institution": "Российский университет дружбы народов",
+          "year": null,
+          "qualification": "высшее образование",
+          "description": null,
+          "sources": [
+            "https://data.cbonds.info/organisations_reports/3653/2008_4.pdf"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Корпорация ВСМПО-АВИСМА»",
+          "role": "корпоративный секретарь; секретарь Совета директоров",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Официальный годовой отчет за 2024 год (локальная копия, раздел 5.1 «Совет директоров, Генеральный директор, Корпоративный секретарь») прочитан полностью в этом раунде и напрямую подтверждает: «Корпоративный секретарь с 30.03.2022 – по настоящее время. Болотникова Юлия Владимировна, 1978 г.р.» — ранее чтение PDF было нестабильным, теперь факт подтвержден прямой цитатой. Отчет об итогах ГОСА 2024 также подтверждает выполнение функций секретаря собрания.",
+          "sources": [
+            "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1890929",
+            "https://vsmpo.ru/upload/sprint.editor/c19/ylkrzktdjgewtjg39acgoupjuymadp3a.pdf"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ООО «Промышленные Инвестиции»",
+          "role": "директор по правовым вопросам",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Годовой отчет ВСМПО-АВИСМА за 2024 год (раздел 5.1, биографическая карточка корпоративного секретаря) указывает: «04.2022 – настоящее время – директор по правовым вопросам ООО «Промышленные Инвестиции»» — по совместительству с постом корпоративного секретаря. Новая запись, добавленная в этом раунде из уже процитированного источника (локальный файл MOEXBMI_Отчеты_2024/VSMO/, прочитан полностью впервые).",
+          "sources": [
+            "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1890929"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО «Корпорация ВСМПО-АВИСМА»",
+          "role": "директор по правовым вопросам",
+          "start_year": 2022,
+          "end_year": 2023,
+          "description": "Годовой отчет ВСМПО-АВИСМА за 2024 год указывает: «01.2022 – 06.2023 – директор по правовым вопросам ПАО «Корпорация ВСМПО-АВИСМА»» — отдельная роль до и частично параллельно с постом корпоративного секретаря. Новая запись, добавленная в этом раунде из уже процитированного источника.",
+          "sources": [
+            "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1890929"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ПАО «Уралкалий»",
+          "role": "заместитель директора по правовым вопросам по корпоративным вопросам",
+          "start_year": 2021,
+          "end_year": 2021,
+          "description": "Годовой отчет ВСМПО-АВИСМА за 2024 год указывает: «07.2021 – 12.2021 – заместитель директора по правовым вопросам по корпоративным вопросам ПАО «Уралкалий»» — переходная позиция между УРАЛХИМом и ВСМПО-АВИСМА. Новая запись, добавленная в этом раунде из уже процитированного источника.",
+          "sources": [
+            "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1890929"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Chemicals"
+        },
+        {
+          "organization": "ООО УК «УРАЛХИМ»",
+          "role": "начальник отдела договорной работы; директор департамента договорной работы юридической дирекции",
+          "start_year": 2007,
+          "end_year": 2021,
+          "description": "Карьерная карточка 2008 года указывает работу в юридической дирекции УРАЛХИМа с 2007 года. Годовой отчет ВСМПО-АВИСМА за 2024 год уточняет конец периода: «10.2008 – 07.2021 – директор департамента договорной работы юридической дирекции АО «ОХК «УРАЛХИМ»» (та же группа компаний/группа Уралхим, роль по существу та же, что и в карточке 2008 года). end_year добавлен в этом раунде — ранее было null.",
+          "sources": [
+            "https://data.cbonds.info/organisations_reports/3653/2008_4.pdf",
+            "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1890929"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Chemicals"
+        },
+        {
+          "organization": "ЗАО «Новая Аграрная Система»",
+          "role": "начальник юридического отдела; заместитель начальника юридического управления",
+          "start_year": 2003,
+          "end_year": 2005,
+          "description": "Карьерная карточка 2008 года раскрывает ранний юридический опыт.",
+          "sources": [
+            "https://data.cbonds.info/organisations_reports/3653/2008_4.pdf"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ООО «ЛегалИнвестГруп»",
+          "role": "главный юрисконсульт; начальник отдела договорной работы",
+          "start_year": 2005,
+          "end_year": 2007,
+          "description": "Карьерная карточка 2008 года раскрывает юридический опыт в «ЛегалИнвестГруп».",
+          "sources": [
+            "https://data.cbonds.info/organisations_reports/3653/2008_4.pdf"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://data.cbonds.info/organisations_reports/3653/2008_4.pdf",
+          "title": "Ежеквартальный отчет ОАО Кирово-Чепецкий химический комбинат за IV квартал 2008 г.",
+          "fact": "Источник по образованию и ранней юридической карьере."
+        },
+        {
+          "url": "https://data.cbonds.info/organisations_reports/3653/2008_4.pdf",
+          "title": "Ежеквартальный отчет ОАО Кирово-Чепецкий химический комбинат за IV квартал 2008 г.",
+          "fact": "Биографическая карточка Болотниковой Ю.В. указывает высшее образование, Российский университет дружбы народов."
+        },
+        {
+          "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1890929",
+          "title": "Годовой отчет ПАО «Корпорация ВСМПО-АВИСМА» за 2024 год",
+          "fact": "Индексированный текст годового отчета указывает корпоративного секретаря с 30.03.2022; прямое чтение PDF было недоступно, поэтому факт зафиксирован с оговоркой."
+        },
+        {
+          "url": "https://vsmpo.ru/upload/sprint.editor/c19/ylkrzktdjgewtjg39acgoupjuymadp3a.pdf",
+          "title": "Отчет об итогах голосования на ГОСА ПАО «Корпорация ВСМПО-АВИСМА»",
+          "fact": "Отчет об итогах ГОСА 2024 указывает, что функции секретаря собрания осуществляла Болотникова Юлия Владимировна."
+        },
+        {
+          "url": "https://data.cbonds.info/organisations_reports/3653/2008_4.pdf",
+          "title": "Ежеквартальный отчет ОАО Кирово-Чепецкий химический комбинат за IV квартал 2008 г.",
+          "fact": "Отчет указывает должности Болотниковой Ю.В. в ООО УК «УРАЛХИМ» с 2007 года."
+        },
+        {
+          "url": "https://data.cbonds.info/organisations_reports/3653/2008_4.pdf",
+          "title": "Ежеквартальный отчет ОАО Кирово-Чепецкий химический комбинат за IV квартал 2008 г.",
+          "fact": "Отчет указывает работу Болотниковой Ю.В. в ЗАО «Новая Аграрная Система» в 2003–2005."
+        },
+        {
+          "url": "https://data.cbonds.info/organisations_reports/3653/2008_4.pdf",
+          "title": "Ежеквартальный отчет ОАО Кирово-Чепецкий химический комбинат за IV квартал 2008 г.",
+          "fact": "Отчет указывает работу Болотниковой Ю.В. в ООО «ЛегалИнвестГруп» в 2005–2007."
+        },
+        {
+          "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1890929",
+          "title": "Годовой отчет ПАО «Корпорация ВСМПО-АВИСМА» за 2024 год",
+          "fact": "Локальная копия отчета (MOEXBMI_Отчеты_2024/VSMO/) прочитана полностью в этом раунде. Раздел 5.1 дает полную биографическую карточку: «Корпоративный секретарь с 30.03.2022 – по настоящее время. Болотникова Юлия Владимировна, 1978 г.р. Места работы и должности, занимаемые за последние пять лет: 10.2008 – 07.2021 – директор департамента договорной работы юридической дирекции АО «ОХК «УРАЛХИМ»; 07.2021 – 12.2021 – заместитель директора по правовым вопросам по корпоративным вопросам ПАО «Уралкалий»; 01.2022 – 06.2023 – директор по правовым вопросам ПАО «Корпорация ВСМПО-АВИСМА»; 03.2022 – настоящее время – Секретарь Совета директоров ПАО «Корпорация ВСМПО-АВИСМА»; 04.2022 – настоящее время – директор по правовым вопросам ООО «Промышленные Инвестиции». Доля в уставном капитале ПАО «Корпорация ВСМПО-АВИСМА»: доли не имеет.»"
+        }
+      ],
+      "notes": "Связь с VSMO в 2024 году частично подтверждается отчетом ГОСА как выполнение функций секретаря собрания; годовой отчет 2024 найден, но прямое чтение PDF нестабильно, поэтому роль корпоративного секретаря дана с оговоркой. Ученые степени, публикации, патенты и h-index не подтверждены. Однофамильцы с другими отчествами/профилями исключены. Роль из CSV: Корпоративный секретарь; секретарь Совета директоров || Quality pass round 1 (2026-08-02): локальный файл MOEXBMI_Отчеты_2024/VSMO/Годовой отчет 2024 ВСМПО-АВИСМА.pdf (уже был процитирован по URL, но чтение ранее было нестабильным) прочитан полностью через локальную копию. Дал точную биографическую карточку с 5 периодами занятости за последние 5 лет — из них: (1) подтвержден точный старт корпоративного секретаря (30.03.2022, без оговорки о нестабильности); (2) добавлен end_year=2021 к записи УРАЛХИМ (ранее null); (3) добавлены 3 новые записи professional_experience: ПАО «Уралкалий» (07.2021–12.2021), ПАО «Корпорация ВСМПО-АВИСМА» — директор по правовым вопросам (01.2022–06.2023), ООО «Промышленные Инвестиции» — директор по правовым вопросам (04.2022–настоящее время). GICS для ООО «Промышленные Инвестиции» оставлен null/null/null по тем же основаниям, что и у записи Белясовой А.В. в этом же файле (личная/семейная холдинговая структура, связанная с крупным пакетом акций ВСМПО-АВИСМА, а не операционный бизнес рынков капитала) — наличие юридического директора не отменяет этот вывод. Попытка снять неопределенность по ЗАО «Новая Аграрная Система» и ООО «ЛегалИнвестГруп» (GICS null из-за «недостаточно надежного источника» по округлению предыдущего раунда): (a) тот же уже процитированный cbonds-отчет 2008 года перечитан полностью — бизнес этих двух компаний не описан, только должности и даты; (b) list-org.com по обоим названиям вернул экран CAPTCHA вместо результатов. Гэп остается неразрешенным, GICS для обеих записей оставлен null/null/null."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "https://www.e-disclosure.ru/portal/company.aspx?id=1641",
+      "title": "Интерфакс — сервер раскрытия информации: ПАО «Корпорация ВСМПО-АВИСМА»",
+      "fact": "Официальная карточка эмитента на e-disclosure для раскрытий ПАО «Корпорация ВСМПО-АВИСМА»."
+    },
+    {
+      "url": "https://evrofinance.ru/files/rus/dep/news/news_6924.pdf",
+      "title": "НРД/Еврофинанс — корпоративное действие ГОСА ПАО «Корпорация ВСМПО-АВИСМА», 23.05.2024",
+      "fact": "Материалы ГОСА 23.05.2024 используются как основной открытый источник для избрания Совета директоров в составе: Чемезов, Шелков, Белясова, Вишневский, Вищаненко, Леликов, Трифонов."
+    },
+    {
+      "url": "https://mkb-broker.ru/lists/depository-news/obshchee_sobranie_o_korporativnom_deystvii_godovoe_zasedanie_obshchego_sobraniya_aktsionerov_s_tsennymi_bumagami_emitenta_pao_korporatsiya_vsmpo_avisma_inn_6607000556_aktsiya_1_01_30202_d_isin_ru0009100291_20250606165308873/",
+      "title": "Московский Кредитный Банк — корпоративное действие ГОСА VSMO 2025",
+      "fact": "Материалы 2025 года указывают период вознаграждения Совета директоров 23.05.2024–27.06.2025 и помогают проверить непрерывность состава, но не используются для ретроспективного присвоения новых ролей."
+    },
+    {
+      "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1890929",
+      "title": "Годовой отчет ПАО «Корпорация ВСМПО-АВИСМА» за 2024 год",
+      "fact": "Официальный годовой отчет найден в раскрытии как релевантный источник по органам управления, но прямое чтение PDF в доступных инструментах было нестабильным/недоступным; факты из него не переносились без дополнительного подтверждения."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.e-disclosure.ru/portal/company.aspx?id=1641",
+      "title": "Интерфакс — сервер раскрытия информации: ПАО «Корпорация ВСМПО-АВИСМА»",
+      "fact": "Официальная карточка эмитента на e-disclosure для раскрытий ПАО «Корпорация ВСМПО-АВИСМА»."
+    },
+    {
+      "url": "https://evrofinance.ru/files/rus/dep/news/news_6924.pdf",
+      "title": "НРД/Еврофинанс — корпоративное действие ГОСА ПАО «Корпорация ВСМПО-АВИСМА», 23.05.2024",
+      "fact": "Материалы ГОСА 23.05.2024 используются как основной открытый источник для избрания Совета директоров в составе: Чемезов, Шелков, Белясова, Вишневский, Вищаненко, Леликов, Трифонов."
+    },
+    {
+      "url": "https://mkb-broker.ru/lists/depository-news/obshchee_sobranie_o_korporativnom_deystvii_godovoe_zasedanie_obshchego_sobraniya_aktsionerov_s_tsennymi_bumagami_emitenta_pao_korporatsiya_vsmpo_avisma_inn_6607000556_aktsiya_1_01_30202_d_isin_ru0009100291_20250606165308873/",
+      "title": "Московский Кредитный Банк — корпоративное действие ГОСА VSMO 2025",
+      "fact": "Материалы 2025 года указывают период вознаграждения Совета директоров 23.05.2024–27.06.2025 и помогают проверить непрерывность состава, но не используются для ретроспективного присвоения новых ролей."
+    },
+    {
+      "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1890929",
+      "title": "Годовой отчет ПАО «Корпорация ВСМПО-АВИСМА» за 2024 год",
+      "fact": "Официальный годовой отчет найден в раскрытии как релевантный источник по органам управления, но прямое чтение PDF в доступных инструментах было нестабильным/недоступным; факты из него не переносились без дополнительного подтверждения."
+    }
+  ],
+  "validation_notes": "Normalized to T_person_info.json schema on 2026-07-14. Original people count: 15; unresolved count: 0; normalized ceo: Трифонов Дмитрий Валериевич; normalized tmt count: 14.\n\nOriginal top-level metadata preserved as JSON: {\"company_aliases\": [\"ПАО \\\"Корпорация ВСМПО-АВИСМА\\\"\", \"VSMPO-AVISMA Corporation\", \"ВСМПО-АВИСМА\"], \"csv_rows\": [{\"name\": \"Чемезов Сергей Викторович\", \"position\": \"Председатель Совета директоров ПАО «Корпорация ВСМПО-АВИСМА»\"}, {\"name\": \"Шелков Михаил Евгеньевич\", \"position\": \"Заместитель председателя Совета директоров ПАО «Корпорация ВСМПО-АВИСМА»\"}, {\"name\": \"Белясова Анна Владимировна\", \"position\": \"Член Совета директоров ПАО «Корпорация ВСМПО-АВИСМА»\"}, {\"name\": \"Вишневский Илья Игоревич\", \"position\": \"Член Совета директоров ПАО «Корпорация ВСМПО-АВИСМА»\"}, {\"name\": \"Вищаненко Антон Владимирович\", \"position\": \"Член Совета директоров ПАО «Корпорация ВСМПО-АВИСМА»\"}, {\"name\": \"Леликов Дмитрий Юрьевич\", \"position\": \"Член Совета директоров ПАО «Корпорация ВСМПО-АВИСМА»\"}, {\"name\": \"Трифонов Дмитрий Валериевич\", \"position\": \"Член Совета директоров ПАО «Корпорация ВСМПО-АВИСМА»; генеральный директор\"}, {\"name\": \"Мельников Николай Константинович\", \"position\": \"Первый заместитель генерального директора — исполнительный директор ВСМПО\"}, {\"name\": \"Бабин Владимир Семенович\", \"position\": \"Исполняющий обязанности исполнительного директора АВИСМА\"}, {\"name\": \"Варфоломеев Владислав Игоревич\", \"position\": \"Исполняющий обязанности заместителя генерального директора по экономике и финансам; директор по экономике и корпоративным финансам\"}, {\"name\": \"Ледер Олег Оттович\", \"position\": \"Заместитель генерального директора по маркетингу и сбыту\"}, {\"name\": \"Ледер Михаил Оттович\", \"position\": \"Директор по науке и технологии — начальник НТЦ ВСМПО\"}, {\"name\": \"Сбытов Максим Александрович\", \"position\": \"Директор по управлению персоналом\"}, {\"name\": \"Мельников Александр Константинович\", \"position\": \"Заместитель директора по техническому обеспечению и ремонтам ВСМПО\"}, {\"name\": \"Болотникова Юлия Владимировна\", \"position\": \"Корпоративный секретарь; секретарь Совета директоров\"}], \"target_year\": 2024, \"ticker\": \"VSMO\"}\n\nQuality pass round 1 (2026-08-02): Step 0 baseline check — git HEAD (f973022) vs on-disk file compared via diff after normalizing line endings (CRLF vs LF was the only difference); content structurally identical, no regression to restore. Fixes applied this round: (1) internal-consistency fix — Вищаненко degrees[0].qualification_degree null -> 'Doctoral degree' (matches how this file already classifies 'кандидат экономических наук' elsewhere, e.g. Леликов). (2) 3 GICS relabels — ООО «ПРОМИНВЕСТ» (Шелков) and ООО «Промышленные инвестиции» (Белясова) corrected from Financials/Financial Services (New Name)/Capital Markets to null/null/null (both are personal/family VSMPO-shareholding holding vehicles, not operating capital-markets businesses; documented as a reasoned-but-not-fully-provable conclusion in each person's notes); ООО «АВИТРАНС» (Варфоломеев) corrected from Capital Markets to Financial Services (New Name)/Financial Services (New Name) (confirmed OKVED 64.91, financial leasing, via companies.rbc.ru). (3) One genuine inconsistency investigated and resolved with reasoning — Вищаненко's VSMPO board-membership start_year: history.mai.ru states continuous membership since 2021 vs the file's prior 2024 (from the GOSA 23.05.2024 election record); resolved in favor of 2021 since annual board re-election at Russian JSCs is standard and the two facts are not mutually exclusive, both sources kept. (4) Depth additions from already-cited primary sources newly read in full via local filings/direct fetch: Bolotnikova — 3 new professional_experience entries (Уралкалий 2021, VSMPO legal director 2022-2023, Промышленные Инвестиции legal director 2022-present) plus end_year=2021 added to the Уралхим entry, all from the local annual report PDF (MOEXBMI_Отчеты_2024/VSMO/), previously flagged as unstable to read; Вищаненко — 3 new professional_experience entries (Вимм-Билль-Данн, Мечел, Уралхим) from history.mai.ru, read in full while investigating the NMTP-dates inconsistency (which turned out to already agree between both cited sources, 2012-2013). (5) Honest-gap follow-ups attempted (bounded, one fresh check per gap, using WebFetch on already-cited or newly-found URLs since WebSearch was at 200/200 session quota exhausted by earlier tickers): Трифонов (МИСиС year), Мельников Н.К. (institution — confirmed via a newly-fetched primary 1Q2005 FSFM disclosure that even that source only says 'higher vocational'), Мельников А.К. (institution), Бабин (education), Сбытов (education/prior experience), Ледер О.О. (post-2022 status) — all still unresolved, all documented in each person's notes and in research_notes/VSMO/quality_pass_round1_20260802.md with the specific sources rechecked. ЗАО «Новая Аграрная Система» / ООО «ЛегалИнвестГруп» (Bolotnikova employers) GICS gap — re-read the same cited cbonds source in full (no business description found) plus list-org.com (blocked by CAPTCHA) — still unresolved, left null. No previously confirmed fact was shortened or deleted; all changes are additive or corrective-with-reasoning, verified by diffing this session's edits against the git HEAD baseline.",
+  "sector": "Materials",
+  "industry_group": "Materials",
+  "industry": "Metals & Mining"
+}

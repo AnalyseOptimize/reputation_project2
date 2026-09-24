@@ -1,0 +1,1197 @@
+{
+  "company_name": "ПАО \"НОВАТЭК\"",
+  "company_ticker": "NVTK",
+  "ceo": {
+    "name": "Михельсон Леонид Викторович",
+    "current_role": "Председатель Правления ПАО \"НОВАТЭК\"; член Совета директоров ПАО \"НОВАТЭК\". CSV также указывает роль \"Генеральный директор\".",
+    "company_name": "ПАО \"НОВАТЭК\"",
+    "education": [
+      {
+        "institution": "Куйбышевский инженерно-строительный институт",
+        "year": 1977,
+        "specialization": "Инженер-строитель",
+        "sources": [
+          "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+          "https://tass.ru/encyclopedia/person/mihelson-leonid-viktorovich",
+          "https://www.forbes.ru/profile/leonid-mihelson"
+        ],
+        "qualification_degree": "Specialist degree"
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "ПАО \"НОВАТЭК\"",
+        "role": "Председатель Правления",
+        "start_year": 2021,
+        "end_year": null,
+        "description": "Официальные сведения NOVATEK указывают эту должность за период с 2021 года по настоящее время; период включает 2024 год.",
+        "sources": [
+          "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+          "MOEXBMI_Отчеты_2024/NVTK/NOVATEK_AR24_RU.pdf",
+          "MOEXBMI_2024.csv"
+        ],
+        "sector": "Energy",
+        "industry_group": "Energy",
+        "industry": "Oil, Gas & Consumable Fuels"
+      },
+      {
+        "organization": "ПАО \"НОВАТЭК\"",
+        "role": "Член Совета директоров",
+        "start_year": 2021,
+        "end_year": null,
+        "description": "CSV содержит отдельную строку \"Леонид Михельсон, Член СД\"; official NOVATEK candidate information confirms board membership.",
+        "sources": [
+          "MOEXBMI_2024.csv",
+          "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf"
+        ],
+        "sector": "Energy",
+        "industry_group": "Energy",
+        "industry": "Oil, Gas & Consumable Fuels"
+      },
+      {
+        "organization": "ПАО \"СИБУР Холдинг\"",
+        "role": "Председатель Совета директоров",
+        "start_year": 2021,
+        "end_year": null,
+        "description": "Внешняя управленческая роль, указанная в официальных сведениях NOVATEK о кандидате. Round 2 (2026-07-31): SIBUR's official site confirms it is one of Russia's largest integrated petrochemical companies (olefins, polyolefins, plastics, organic synthesis).",
+        "sources": [
+          "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+          "https://www.sibur.ru"
+        ],
+        "sector": "Materials",
+        "industry_group": "Materials",
+        "industry": "Chemicals"
+      },
+      {
+        "organization": "ООО \"ГЭС-2\"",
+        "role": "Председатель Совета директоров",
+        "start_year": 2021,
+        "end_year": null,
+        "description": "Внешняя управленческая роль, указанная в официальных сведениях NOVATEK о кандидате.",
+        "sources": [
+          "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf"
+        ],
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "Rows 544 and 551 identify Михельсон Леонид Викторович / Леонид Михельсон for NVTK as CEO/general director and member of the board."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/NVTK/NOVATEK_AR24_RU.pdf",
+        "title": "ПАО \"НОВАТЭК\". Годовой отчет 2024",
+        "fact": "PDF pages 44 and 46, printed pages 86-87 and 93: corporate governance includes the Board of Directors and Management Board; the Chairman of the Management Board leads the Management Board."
+      },
+      {
+        "url": "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+        "title": "Сведения о кандидатах в Совет директоров ПАО \"НОВАТЭК\"",
+        "fact": "The document states that Леонид Викторович Михельсон was born in 1955, graduated from Kuibyshev Civil Engineering Institute in 1977 as an engineer-builder, and has been Chairman of NOVATEK's Management Board and board member since 2021."
+      },
+      {
+        "url": "https://tass.ru/encyclopedia/person/mihelson-leonid-viktorovich",
+        "title": "ТАСС: Михельсон Леонид Викторович",
+        "fact": "Confirms education and chairman of NOVATEK's Management Board profile."
+      },
+      {
+        "url": "https://www.forbes.ru/profile/leonid-mihelson",
+        "title": "Forbes: Леонид Михельсон",
+        "fact": "Confirms education and NOVATEK chairmanship profile."
+      }
+    ],
+    "notes": "The CSV role \"Генеральный директор\" was aligned with the official NOVATEK governance term \"Председатель Правления\" for the 2024 context. The two non-identical CSV name variants were merged as one identity."
+  },
+  "tmt": [
+    {
+      "name": "Феодосьев Лев Владимирович",
+      "current_role": "Первый заместитель Председателя Правления ПАО \"НОВАТЭК\"; член Совета директоров ПАО \"НОВАТЭК\"",
+      "company_name": "ПАО \"НОВАТЭК\"",
+      "education": [
+        {
+          "institution": "МГТУ им. Н.Э. Баумана",
+          "year": 2002,
+          "specialization": "Машины и технология литейного производства",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+            "https://www.akm.ru/upload/akmrating/Novatek_annual_report_2019.pdf"
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Министерство энергетики РФ",
+          "role": "Ведущий специалист",
+          "start_year": 2002,
+          "end_year": null,
+          "description": "Older NOVATEK annual report states that he was hired as a leading specialist at the Ministry of Energy in 2002.",
+          "sources": [
+            "https://www.akm.ru/upload/akmrating/Novatek_annual_report_2019.pdf"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"НОВАТЭК\"",
+          "role": "Заместитель Председателя Правления - коммерческий директор",
+          "start_year": 2015,
+          "end_year": 2018,
+          "description": "NOVATEK annual report 2019 states that he was appointed Deputy Chairman of the Management Board - Commercial Director in 2015.",
+          "sources": [
+            "https://www.akm.ru/upload/akmrating/Novatek_annual_report_2019.pdf",
+            "https://www.kremlin.ru/acts/bank/50448",
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf"
+          ],
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ПАО \"НОВАТЭК\"",
+          "role": "Первый заместитель Председателя Правления",
+          "start_year": 2018,
+          "end_year": null,
+          "description": "NOVATEK annual report 2019 and a 2024 Kremlin decree confirm this role.",
+          "sources": [
+            "https://www.akm.ru/upload/akmrating/Novatek_annual_report_2019.pdf",
+            "https://www.kremlin.ru/acts/bank/50448"
+          ],
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ПАО \"НОВАТЭК\"",
+          "role": "Член Совета директоров",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Official NOVATEK candidate information states board membership from 2023; this includes 2024.",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf"
+          ],
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 545 identifies Лев Феодосьев for NVTK as a board member."
+        },
+        {
+          "url": "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+          "title": "Сведения о кандидатах в Совет директоров ПАО \"НОВАТЭК\"",
+          "fact": "Confirms education at Bauman Moscow State Technical University in 2002, First Deputy Chairman of the Management Board since 2021, and board member since 2023."
+        },
+        {
+          "url": "https://www.akm.ru/upload/akmrating/Novatek_annual_report_2019.pdf",
+          "title": "NOVATEK Annual Report 2019",
+          "fact": "Confirms education and earlier career appointments at NOVATEK."
+        },
+        {
+          "url": "https://www.kremlin.ru/acts/bank/50448",
+          "title": "Указ Президента РФ от 03.04.2024",
+          "fact": "Lists Л.В. Феодосьев as First Deputy Chairman of NOVATEK's Management Board in 2024."
+        }
+      ],
+      "notes": "No academic degree, publications, patents, or h-index were confirmed."
+    },
+    {
+      "name": "Крюков Валерий Анатольевич",
+      "current_role": "Член Совета директоров ПАО \"НОВАТЭК\"; директор, главный научный сотрудник и научный руководитель ИЭОПП СО РАН",
+      "company_name": "ПАО \"НОВАТЭК\"",
+      "education": [
+        {
+          "institution": "Новосибирский государственный университет",
+          "year": null,
+          "specialization": "Экономическая кибернетика",
+          "qualification": "экономист-математик",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf"
+          ],
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Доктор экономических наук",
+          "field": "Экономика",
+          "year": null,
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+            "https://www.sbras.ru/ru/person/4175"
+          ],
+          "qualification_degree": "Doctoral degree"
+        },
+        {
+          "degree": "Профессор",
+          "field": "Экономика",
+          "year": null,
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+            "https://www.sbras.ru/ru/person/4175"
+          ],
+          "qualification_degree": null
+        },
+        {
+          "degree": "Академик РАН",
+          "field": "Экономика",
+          "year": 2019,
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+            "https://www.sbras.ru/ru/person/4175"
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "Институт экономики и организации промышленного производства СО РАН",
+          "role": "Директор; главный научный сотрудник; научный руководитель института",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Official NOVATEK candidate information lists these roles for the last five years.",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+            "https://www.sbras.ru/ru/person/4175"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"Татнефть\"",
+          "role": "Член Совета директоров",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "External board role listed by NOVATEK candidate information. Round 2 (2026-07-31): Tatneft's official site confirms it is a vertically integrated Russian oil company (extraction, refining, petrochemicals).",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+            "https://www.tatneft.ru/"
+          ],
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ПАО \"НОВАТЭК\"",
+          "role": "Член Совета директоров",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Official NOVATEK candidate information states board membership from 2023; this includes 2024.",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf"
+          ],
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "Сибирское отделение РАН",
+          "description": "Research areas include institutional issues of the mineral-resource sector and socio-economic development of resource territories; SB RAS states he has more than 650 publications and 54 monographs.",
+          "sources": [
+            "https://www.sbras.ru/ru/person/4175"
+          ]
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 546 identifies Валерий Крюков for NVTK as a board member."
+        },
+        {
+          "url": "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+          "title": "Сведения о кандидатах в Совет директоров ПАО \"НОВАТЭК\"",
+          "fact": "Confirms education, degrees/titles, IEIE SB RAS roles, Tatneft board role, and NOVATEK board membership from 2023."
+        },
+        {
+          "url": "https://www.sbras.ru/ru/person/4175",
+          "title": "СО РАН: Крюков Валерий Анатольевич",
+          "fact": "Confirms Doctor of Economics, professor, academician of RAS, research areas, and publication volume."
+        }
+      ],
+      "notes": "A reliable current h-index for the confirmed profile was not found, so h_index is null. Individual publication records were not selected without a full bibliographic source."
+    },
+    {
+      "name": "Нестеренко Виктор Геннадьевич",
+      "current_role": "Член Совета директоров ПАО \"НОВАТЭК\"; президент НОУ ДПО \"Институт ПравоТЭК\"",
+      "company_name": "ПАО \"НОВАТЭК\"",
+      "education": [
+        {
+          "institution": "Московский государственный институт международных отношений (университет) Министерства иностранных дел Российской Федерации",
+          "year": 1993,
+          "specialization": "Международное право",
+          "sources": [
+            "https://rosnedra.gov.ru/about/kollegialnye-i-soveshchatelnye-organy/obshchestvennyy-sovet/nesterenko-viktor-gennadevich/",
+            "https://www.lawtek.ru/person/129/nesterenko_viktor_gennadyevich"
+          ],
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Юридические фирмы и компании ТЭК",
+          "role": null,
+          "start_year": 1993,
+          "end_year": 1998,
+          "description": "РСМД states that he worked in law firms and Russian fuel-and-energy companies from 1993 to 1998.",
+          "sources": [
+            "https://russiancouncil.ru/viktor-nesternko/"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Издательство \"Нестор Академик\"",
+          "role": "Основатель и главный редактор",
+          "start_year": 1995,
+          "end_year": null,
+          "description": "РСМД profile identifies him as founder and editor-in-chief.",
+          "sources": [
+            "https://russiancouncil.ru/viktor-nesternko/"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "НОУ ДПО \"Институт ПравоТЭК\"",
+          "role": "Основатель; президент",
+          "start_year": 2007,
+          "end_year": null,
+          "description": "РСМД profile states he founded and has headed the Institute PravoTEK since 2007; NOVATEK candidate information lists president role from 2021 onward.",
+          "sources": [
+            "https://russiancouncil.ru/viktor-nesternko/",
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ООО \"ПравоТЭК\"",
+          "role": "Генеральный директор",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Listed in official NOVATEK candidate information. Round 2 (2026-07-31): business registries (RusProfile, RBC) confirm the primary registered activity (ОКВЭД) is publishing, alongside secondary legal/consulting codes.",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+            "https://www.rusprofile.ru/id/1741512",
+            "https://companies.rbc.ru/id/1077746367445-ooo-pravotek"
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Media"
+        },
+        {
+          "organization": "ООО \"СПРИНТ\"",
+          "role": "Директор",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Listed in official NOVATEK candidate information.",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"НОВАТЭК\"",
+          "role": "Член Совета директоров",
+          "start_year": 2023,
+          "end_year": 2025,
+          "description": "Official NOVATEK candidate information lists board membership for 2023-2025, which includes 2024.",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf"
+          ],
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 547 identifies Виктор Нестеренко for NVTK as a board member."
+        },
+        {
+          "url": "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+          "title": "Сведения о кандидатах в Совет директоров ПАО \"НОВАТЭК\"",
+          "fact": "Confirms year of birth, board membership 2023-2025, and recent roles in Institute PravoTEK, PravoTEK LLC, and SPRINT LLC."
+        },
+        {
+          "url": "https://russiancouncil.ru/viktor-nesternko/",
+          "title": "РСМД: Виктор Нестеренко",
+          "fact": "Confirms broader professional biography around PravoTEK, Nestor Academic, and fuel-and-energy legal work."
+        },
+        {
+          "url": "https://sngs.info/ru/article/x-vserossiiskii-forum-nedropolzovatelei/",
+          "title": "X Всероссийский форум недропользователей",
+          "fact": "Confirms public professional role as president of Institute PravoTEK and links to RosGeo/Rosnedra professional community."
+        },
+        {
+          "url": "https://rosnedra.gov.ru/about/kollegialnye-i-soveshchatelnye-organy/obshchestvennyy-sovet/nesterenko-viktor-gennadevich/",
+          "title": "Роснедра: Общественный совет — Нестеренко Виктор Геннадьевич",
+          "fact": "Official government page confirms 1993 graduation from the International Law Faculty of MGIMO (Moscow State Institute of International Relations, MFA Russia), plus later professional-development courses (2018 ANP, 2020 HSE, 2022 IFC institute, 2023 MGIMO)."
+        },
+        {
+          "url": "https://www.lawtek.ru/person/129/nesterenko_viktor_gennadyevich",
+          "title": "ПравоТЭК: Досье персоналий — Нестеренко Виктор Геннадьевич",
+          "fact": "Independently confirms the same 1993 MGIMO International Law Faculty graduation and later professional-development courses."
+        }
+      ],
+      "notes": "Round 2 (2026-07-31) resolved the education gap: fresh queries found two independent sources (Rosnedra official page and lawtek.ru professional dossier) confirming 1993 graduation from MGIMO, International Law Faculty. Education field updated accordingly; qualification_degree set to Specialist degree per corpus convention for pre-2000s Russian 5-year diplomas."
+    },
+    {
+      "name": "Орел Алексей Владимирович",
+      "current_role": "Член Совета директоров ПАО \"НОВАТЭК\"; советник генерального директора ФГБУ \"ВНИГНИ\"",
+      "company_name": "ПАО \"НОВАТЭК\"",
+      "education": [
+        {
+          "institution": "Московский институт нефтехимической и газовой промышленности им. И.М. Губкина",
+          "year": 1975,
+          "specialization": "Геология, поиски и разведка нефтяных и газовых месторождений",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf"
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат геолого-минералогических наук",
+          "field": "Геология и минералогия",
+          "year": 1982,
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+            "https://agrarian.council.gov.ru/structure/advisory_council/"
+          ],
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "Российское газовое общество",
+          "role": "Член Наблюдательного совета",
+          "start_year": 2021,
+          "end_year": 2022,
+          "description": "Listed in official NOVATEK candidate information.",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Министерство природных ресурсов и экологии Российской Федерации",
+          "role": "Директор / заместитель директора департамента государственной политики и регулирования в области геологии и недропользования",
+          "start_year": 2021,
+          "end_year": 2022,
+          "description": "Listed in official NOVATEK candidate information.",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ФГБУ \"ВНИГНИ\"",
+          "role": "Советник генерального директора",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Listed by NOVATEK and confirmed by the Federation Council advisory council page.",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+            "https://agrarian.council.gov.ru/structure/advisory_council/"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"НОВАТЭК\"",
+          "role": "Член Совета директоров",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Official NOVATEK candidate information lists board membership from 2022; this includes 2024.",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf"
+          ],
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "ФГБУ \"ВНИГНИ\"",
+          "description": "Scientific degree and advisor role at a geological research institute are confirmed, but specific research projects/publications were not separately verified.",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+            "https://agrarian.council.gov.ru/structure/advisory_council/"
+          ]
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 548 identifies Алексей Орел for NVTK as a board member."
+        },
+        {
+          "url": "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+          "title": "Сведения о кандидатах в Совет директоров ПАО \"НОВАТЭК\"",
+          "fact": "Confirms full name as Алексей Владимирович Орел, education, candidate degree, and roles in RGO, Minprirody, VNIGNI, and NOVATEK."
+        },
+        {
+          "url": "https://agrarian.council.gov.ru/structure/advisory_council/",
+          "title": "Совет Федерации: Экспертный совет",
+          "fact": "Confirms advisor role at VNIGNI and candidate of geological-mineralogical sciences degree."
+        },
+        {
+          "url": "https://www.novatek.ru/ru/investors/events/?id_4=4972",
+          "title": "NOVATEK press release 21.04.2022",
+          "fact": "Confirms his election to NOVATEK's Board of Directors and describes him as a Russian Gas Society supervisory board member."
+        }
+      ],
+      "notes": "A 2024 news/sanctions source used the patronymic \"Витальевич\" for a NOVATEK board member named Алексей Орел; the official NOVATEK PDF confirms \"Владимирович\", so the conflicting patronymic was rejected."
+    },
+    {
+      "name": "Гайда Ирина Вернеровна",
+      "current_role": "Член Совета директоров ПАО \"НОВАТЭК\"; эксперт по энергетике и низкоуглеродному развитию",
+      "company_name": "ПАО \"НОВАТЭК\"",
+      "education": [
+        {
+          "institution": "Санкт-Петербургский государственный университет",
+          "year": null,
+          "specialization": "Экономика",
+          "qualification": "магистр экономики",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+            "https://events.vedomosti.ru/speakers/gaida-irina-11136"
+          ],
+          "qualification_degree": "Master's degree"
+        },
+        {
+          "institution": "Harvard Business School",
+          "year": null,
+          "specialization": "MBA",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+            "https://events.vedomosti.ru/speakers/gaida-irina-11136",
+            "https://profedu.skoltech.ru/russian_greenhouse_gas_reporting"
+          ],
+          "qualification_degree": "MBA"
+        },
+        {
+          "institution": "ACCA",
+          "year": null,
+          "specialization": "Бухгалтерский учет и аудит",
+          "qualification": "диплом ACCA",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+            "https://profedu.skoltech.ru/russian_greenhouse_gas_reporting"
+          ],
+          "qualification_degree": "Professional certification"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "MBA",
+          "field": "Business Administration",
+          "year": null,
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+            "https://events.vedomosti.ru/speakers/gaida-irina-11136"
+          ],
+          "qualification_degree": "MBA"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "The Boston Consulting Group; PwC Strategy& Russia; Bain & Co; UTC",
+          "role": "Консалтинг и менеджмент в энергетике/стратегии",
+          "start_year": null,
+          "end_year": 2020,
+          "description": "Vedomosti profiles describe previous experience in energy consulting and strategy roles.",
+          "sources": [
+            "https://events.vedomosti.ru/speakers/gaida-irina-11136",
+            "https://events.vedomosti.ru/speakers/gaida-irina-6405"
+          ],
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "Московская школа управления \"Сколково\"",
+          "role": "Директор Центра энергетики",
+          "start_year": 2021,
+          "end_year": 2022,
+          "description": "Listed in official NOVATEK candidate information.",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Ассоциация \"Женщины в энергетике\"",
+          "role": "Председатель наблюдательного совета",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Listed in official NOVATEK candidate information.",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ООО \"Центр Низкоуглеродного Развития\"",
+          "role": "Генеральный директор",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Listed in official NOVATEK candidate information.",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Сколковский институт науки и технологий",
+          "role": "Заместитель директора Центра по энергопереходу",
+          "start_year": 2022,
+          "end_year": 2024,
+          "description": "Listed in official NOVATEK candidate information and supported by Skoltech profile context.",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+            "https://profedu.skoltech.ru/russian_greenhouse_gas_reporting"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"НОВАТЭК\"",
+          "role": "Член Совета директоров",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Official NOVATEK candidate information lists board membership from 2022; this includes 2024.",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf"
+          ],
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ПАО \"СИБУР Холдинг\"",
+          "role": "Независимый член Совета директоров",
+          "start_year": 2023,
+          "end_year": 2026,
+          "description": "Listed in official NOVATEK candidate information; included as external board role covering 2024. Round 2 (2026-07-31): SIBUR's official site confirms it is one of Russia's largest integrated petrochemical companies.",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+            "https://www.sibur.ru"
+          ],
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Chemicals"
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "Сколтех / Центр по энергопереходу",
+          "description": "Skoltech page associates her with climate policy, decarbonization of the oil and gas industry, and greenhouse gas reporting topics.",
+          "sources": [
+            "https://profedu.skoltech.ru/russian_greenhouse_gas_reporting"
+          ]
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 549 identifies Ирина Гайда for NVTK as a board member."
+        },
+        {
+          "url": "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+          "title": "Сведения о кандидатах в Совет директоров ПАО \"НОВАТЭК\"",
+          "fact": "Confirms education, MBA, ACCA, auditor qualification, and roles from 2021 onward including NOVATEK board membership."
+        },
+        {
+          "url": "https://events.vedomosti.ru/speakers/gaida-irina-11136",
+          "title": "Ведомости: Ирина Гайда",
+          "fact": "Confirms SPbU, Harvard Business School MBA, and energy consulting profile as of 2024."
+        },
+        {
+          "url": "https://profedu.skoltech.ru/russian_greenhouse_gas_reporting",
+          "title": "Сколтех: Ирина Гайда",
+          "fact": "Confirms SPbU, ACCA/auditor qualification, Harvard MBA, and decarbonization/climate policy profile."
+        }
+      ],
+      "notes": "ACCA and Russian auditor status are treated as professional qualifications, not academic degrees. No peer-reviewed publication list or h-index was confirmed."
+    },
+    {
+      "name": "Эммануэль Киде",
+      "current_role": "Член Совета директоров ПАО \"НОВАТЭК\"",
+      "company_name": "ПАО \"НОВАТЭК\"",
+      "education": [
+        {
+          "institution": "European Business School, Paris",
+          "year": 1985,
+          "specialization": null,
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+            "https://www.novatek.ru/common/upload/doc/10_Information_on_the_Candidates_%28BoD%29.pdf",
+            "https://gsb.hse.ru/en/announcements/816362047.html"
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "EY France",
+          "role": null,
+          "start_year": 1985,
+          "end_year": null,
+          "description": "HSE profile states that he started his career with EY France in 1985. Round 2 (2026-07-31): EY's official site confirms EY is a global professional services firm (audit, tax, consulting).",
+          "sources": [
+            "https://gsb.hse.ru/en/announcements/816362047.html",
+            "https://www.ey.com/fr_fr"
+          ],
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "EY CIS",
+          "role": null,
+          "start_year": 1994,
+          "end_year": null,
+          "description": "HSE profile states that he joined EY CIS in 1994.",
+          "sources": [
+            "https://gsb.hse.ru/en/announcements/816362047.html"
+          ],
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "Franco-Russian Chamber of Commerce and Industry",
+          "role": "Сооснователь; председатель",
+          "start_year": 1997,
+          "end_year": null,
+          "description": "HSE profile states that he co-founded the chamber in 1997 and has chaired it since 2007.",
+          "sources": [
+            "https://gsb.hse.ru/en/announcements/816362047.html",
+            "https://roscongress.ru/speakers/kide-emmanuel/"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ООО \"Эрнст энд Янг\"",
+          "role": "Консультант",
+          "start_year": 2021,
+          "end_year": 2022,
+          "description": "Listed in official NOVATEK candidate information.",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf"
+          ],
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "Фонд \"Сколково\"",
+          "role": "Председатель комитета по аудиту",
+          "start_year": 2021,
+          "end_year": 2022,
+          "description": "Listed in official NOVATEK candidate information.",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"НОВАТЭК\"",
+          "role": "Член Совета директоров",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Official NOVATEK candidate information lists board membership from 2021; this includes 2024.",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf"
+          ],
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 550 identifies Эммануэль Кид for NVTK as a board member."
+        },
+        {
+          "url": "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+          "title": "Сведения о кандидатах в Совет директоров ПАО \"НОВАТЭК\"",
+          "fact": "Confirms Russian spelling, year of birth, education, recent professional roles, and NOVATEK board membership."
+        },
+        {
+          "url": "https://www.novatek.ru/common/upload/doc/10_Information_on_the_Candidates_%28BoD%29.pdf",
+          "title": "Information on candidates to NOVATEK Board of Directors",
+          "fact": "Confirms English transliteration Emmanuel Quidet."
+        },
+        {
+          "url": "https://gsb.hse.ru/en/announcements/816362047.html",
+          "title": "HSE Graduate School of Business: Emmanuel Quidet",
+          "fact": "Confirms European Business School Paris graduation and EY/Franco-Russian Chamber of Commerce experience."
+        },
+        {
+          "url": "https://roscongress.ru/speakers/kide-emmanuel/",
+          "title": "Roscongress: Эммануэль Киде",
+          "fact": "Confirms education and professional biography."
+        }
+      ],
+      "notes": "CSV spelling \"Кид\" was normalized to \"Киде\" based on NOVATEK official materials and English transliteration Emmanuel Quidet. No academic degree, publications, patents, or h-index were confirmed."
+    },
+    {
+      "name": "Акимов Андрей Игоревич",
+      "current_role": "Член Совета директоров ПАО \"НОВАТЭК\"; председатель Правления и заместитель председателя Совета директоров Газпромбанка",
+      "company_name": "ПАО \"НОВАТЭК\"",
+      "education": [
+        {
+          "institution": "Московский финансовый институт",
+          "year": 1975,
+          "specialization": "Международные экономические отношения",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+            "https://www.rosneft.ru/upload/site1/document_file/doc9_15062016_1.pdf",
+            "https://www.gazprom.ru/f/posts/21/499896/annual-report-2012-rus.pdf"
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Газпромбанк (АО)",
+          "role": "Председатель Правления; заместитель Председателя Совета директоров",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Official NOVATEK candidate information lists these roles for 2021 onward. Round 2 (2026-07-31): Gazprombank's official site confirms it is a universal commercial bank (lending, deposits, accounts, investments).",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+            "https://www.gazprombank.ru"
+          ],
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "ПАО \"НОВАТЭК\"",
+          "role": "Член Совета директоров",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Official NOVATEK candidate information lists board membership from 2021; this includes 2024.",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf"
+          ],
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ПАО \"Газпром\"",
+          "role": "Член Совета директоров",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "External board role listed in official NOVATEK candidate information. Round 2 (2026-07-31): Gazprom's official site describes it as a global energy company focused on gas/oil exploration, production, transport and sales, classified under Oil, Gas & Consumable Fuels consistent with standard GICS practice.",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+            "https://www.gazprom.ru"
+          ],
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "АО \"РОСНЕФТЕГАЗ\"",
+          "role": "Член Совета директоров",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "External board role listed in official NOVATEK candidate information. Round 2 (2026-07-31): left GICS null on purpose -- ROSNEFTEGAZ is a 100%-state-owned pure holding company whose sole function is holding shares in Rosneft and Gazprom; it has no operating business of its own, so it is correctly non-classifiable.",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"НК \"Роснефть\"",
+          "role": "Член Совета директоров",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "External board role listed in official NOVATEK candidate information. Round 2 (2026-07-31): Rosneft's official site confirms it is one of the world's largest public oil companies (exploration to refining/petrochemicals/retail).",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+            "https://www.rosneft.ru"
+          ],
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 552 identifies Андрей Акимов for NVTK as a board member."
+        },
+        {
+          "url": "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+          "title": "Сведения о кандидатах в Совет директоров ПАО \"НОВАТЭК\"",
+          "fact": "Confirms education and 2021-present roles in Gazprombank, NOVATEK, Gazprom, ROSNEFTEGAZ, Rosneft and other organizations."
+        },
+        {
+          "url": "https://www.rosneft.ru/upload/site1/document_file/doc9_15062016_1.pdf",
+          "title": "Роснефть: сведения о кандидате А.И. Акимове",
+          "fact": "Confirms Moscow Financial Institute education and Gazprombank chairmanship."
+        },
+        {
+          "url": "https://www.gazprom.ru/f/posts/21/499896/annual-report-2012-rus.pdf",
+          "title": "Газпром Annual Report 2012",
+          "fact": "Confirms education and chairman of Gazprombank's Management Board role."
+        }
+      ],
+      "notes": "No academic degree, publications, patents, or h-index were confirmed."
+    },
+    {
+      "name": "Наталенко Александр Егорович",
+      "current_role": "Председатель Совета директоров ПАО \"НОВАТЭК\"",
+      "company_name": "ПАО \"НОВАТЭК\"",
+      "education": [
+        {
+          "institution": "Иркутский государственный университет",
+          "year": 1969,
+          "specialization": "инженер-геолог",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+            "https://neftegaz.ru/persons/333088-natalenko-aleksandr/",
+            "https://www.marketscreener.com/insider/ALEXANDER-NATALENKO-A0NB6I/"
+          ],
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Геологоразведочные экспедиции",
+          "role": "Геолог / руководящие геологические роли",
+          "start_year": null,
+          "end_year": null,
+          "description": "Neftegaz.RU describes work in the Yagodninskaya, Bagdarinskaya, Berelekhskaya, Anadyrskaya, and East-Chukotka expeditions.",
+          "sources": [
+            "https://neftegaz.ru/persons/333088-natalenko-aleksandr/"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Министерство природных ресурсов Российской Федерации",
+          "role": "Заместитель Министра",
+          "start_year": 1996,
+          "end_year": 2001,
+          "description": "Neftegaz.RU states that he served as Deputy Minister of Natural Resources of the Russian Federation in 1996-2001.",
+          "sources": [
+            "https://neftegaz.ru/persons/333088-natalenko-aleksandr/"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"НОВАТЭК\"",
+          "role": "Председатель Совета директоров",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Official NOVATEK candidate information lists the role from 2021 onward; local annual report 2024 directly names him as Board Chairman.",
+          "sources": [
+            "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+            "MOEXBMI_Отчеты_2024/NVTK/NOVATEK_AR24_RU.pdf"
+          ],
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "Геологоразведочный сектор",
+          "description": "Professional geological experience is confirmed by Neftegaz.RU; no academic research profile was confirmed.",
+          "sources": [
+            "https://neftegaz.ru/persons/333088-natalenko-aleksandr/"
+          ]
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 553 identifies Александр Наталенко as Chairman of the Board of Directors for NVTK."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/NVTK/NOVATEK_AR24_RU.pdf",
+          "title": "ПАО \"НОВАТЭК\". Годовой отчет 2024",
+          "fact": "PDF page 44, printed pages 86-87: names Наталенко Александр Егорович as Chairman of the Board of Directors; states the Board was elected on 21 April 2023 until the third annual general meeting."
+        },
+        {
+          "url": "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+          "title": "Сведения о кандидатах в Совет директоров ПАО \"НОВАТЭК\"",
+          "fact": "Confirms education and Chairman of the Board role from 2021 onward."
+        },
+        {
+          "url": "https://neftegaz.ru/persons/333088-natalenko-aleksandr/",
+          "title": "Neftegaz.RU: Наталенко Александр",
+          "fact": "Confirms education and earlier geological/government experience."
+        },
+        {
+          "url": "https://www.marketscreener.com/insider/ALEXANDER-NATALENKO-A0NB6I/",
+          "title": "MarketScreener: Alexander Natalenko",
+          "fact": "Confirms Irkutsk State University education and NOVATEK chairmanship profile."
+        }
+      ],
+      "notes": "Earlier career details rely on industry/market biography sources rather than primary employment documents; the 2024 NOVATEK board chair role is confirmed locally and officially."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/NVTK/NOVATEK_AR24_RU.pdf",
+      "title": "ПАО \"НОВАТЭК\". Годовой отчет 2024",
+      "fact": "PDF page 44, printed pages 86-87: the company governance system includes the Board of Directors and Management Board; the Board was elected on 21 April 2023 until the third annual general meeting; Наталенко Александр Егорович is named Chairman of the Board."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/NVTK/NOVATEK_AR24_RU.pdf",
+      "title": "ПАО \"НОВАТЭК\". Годовой отчет 2024",
+      "fact": "PDF page 45, printed pages 88-89: describes Board activity during the 2024 corporate year, including eight Board meetings."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/NVTK/NOVATEK_AR24_RU.pdf",
+      "title": "ПАО \"НОВАТЭК\". Годовой отчет 2024",
+      "fact": "PDF page 46, printed page 93: states that the Management Board is the collegial executive body and that the Chairman of the Management Board leads its work."
+    },
+    {
+      "url": "https://www.novatek.ru/common/upload/doc/PROTOKOL_GOSA_140_21.04.2023.pdf",
+      "title": "Протокол № 140 годового общего собрания акционеров ПАО \"НОВАТЭК\" от 21.04.2023",
+      "fact": "The meeting agenda included election of the Board of Directors and adopted the decision to elect the Board for a term until the third annual general meeting."
+    },
+    {
+      "url": "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+      "title": "Сведения о кандидатах в Совет директоров ПАО \"НОВАТЭК\"",
+      "fact": "Official candidate information lists the relevant people and their NOVATEK board or executive roles with periods covering 2024, including Михельсон, Феодосьев, Крюков, Нестеренко, Орел, Гайда, Киде, Акимов and Наталенко."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "Input CSV rows 544-553 were used to define the NVTK people list."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/NVTK/NOVATEK_AR24_RU.pdf",
+      "title": "ПАО \"НОВАТЭК\". Годовой отчет 2024",
+      "fact": "Local annual report checked for board, management board, corporate governance, and 2024 context."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/NVTK/Novatek FS 12m2024 RUS (disclosable).pdf",
+      "title": "ПАО \"НОВАТЭК\". Раскрываемая консолидированная финансовая отчетность за 2024 год",
+      "fact": "Local financial statements checked; no person biographies or education facts found."
+    },
+    {
+      "url": "https://www.novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf",
+      "title": "Сведения о кандидатах в Совет директоров ПАО \"НОВАТЭК\"",
+      "fact": "Main official source for education and recent professional roles of board candidates."
+    },
+    {
+      "url": "https://www.novatek.ru/common/upload/doc/10_Information_on_the_Candidates_%28BoD%29.pdf",
+      "title": "Information on candidates to NOVATEK Board of Directors",
+      "fact": "English official candidate source used for transliteration of Emmanuel Quidet."
+    },
+    {
+      "url": "https://www.novatek.ru/common/upload/doc/PROTOKOL_GOSA_140_21.04.2023.pdf",
+      "title": "Протокол № 140 ГОСА ПАО \"НОВАТЭК\"",
+      "fact": "Confirms the 21 April 2023 decision on Board election term."
+    }
+  ],
+  "validation_notes": "Processed 10 CSV rows and 9 unique identities; Леонид Михельсон appeared in two non-identical CSV forms and was merged into the CEO record with both executive and board roles. Checked 2 local documents in MOEXBMI_Отчеты_2024/NVTK: the 2024 annual report and 2024 disclosable consolidated financial statements. Completed 1 research round for each unique person. Weak or auxiliary sources were used only where primary sources lacked earlier career detail: Neftegaz.RU and MarketScreener for Наталенко's earlier career, Runetbook only as auxiliary for Орел, Vedomosti/Roscongress/HSE for public professional biographies. A conflict was found for Алексей Орел: some 2024 news sources used patronymic \"Витальевич\"; official NOVATEK candidate information confirms \"Владимирович\", so the conflicting patronymic was rejected. No verified h-index values were included. Search is considered complete because local documents were checked first, official NOVATEK documents were reviewed, education and prior experience were searched separately for each person, obvious namesake risks were checked, and subsequent search passes did not produce higher-quality contradictory or additional facts for 2024. ROUND 2 (quality pass, 2026-07-31): verified on-disk file against git HEAD baseline -- byte-identical, no regression to restore. No genuine notes-vs-JSON inconsistencies found (round 1 notes for every person matched the JSON exactly; all identity conflicts, e.g. Орел's patronymic and Киде/Кид spelling, had already been resolved within round 1 itself). Fixed 7 internally-inconsistent qualification_degree nulls by applying the exact same classification convention already used for identical Russian degree titles (Кандидат/Доктор X наук, экономист-математик, магистр экономики, MBA, инженер-X) across dozens of other tickers in this corpus: Михельсон (Инженер-строитель), Наталенко (инженер-геолог), Крюков (экономист-математик; Доктор экономических наук), Орел (Кандидат геолого-минералогических наук), Гайда (магистр экономики; MBA). Resolved the honest gap on Нестеренко's education: fresh queries (via direct page fetch, not the exhausted WebSearch budget) found Rosnedra's official page and lawtek.ru independently confirming 1993 MGIMO International Law Faculty graduation; added with Specialist degree. GICS professional_experience: added Energy/Energy/Oil, Gas & Consumable Fuels to all ПАО \"НОВАТЭК\" entries (the profiled company itself, already known at top level), Materials/Materials/Chemicals to both ПАО \"СИБУР Холдинг\" entries, Financials/Banks/Banks to Газпромбанк, Energy/Energy/Oil, Gas & Consumable Fuels to Газпром/Роснефть/Татнефть, Industrials/Commercial & Professional Services/Professional Services to Киде's three EY entries, and Communication Services/Media & Entertainment/Media to Нестеренко's ООО \"ПравоТЭК\" (confirmed via RusProfile/RBC registry lookup: primary ОКВЭД is publishing). Left АО \"РОСНЕФТЕГАЗ\" (pure state holding, no operating business), all ministries, ГЭС-2 (nonprofit cultural center), research institutes (ИЭОПП СО РАН, ВНИГНИ), and associations/foundations (Российское газовое общество, Ассоциация \"Женщины в энергетике\", Franco-Russian CCI, Фонд/Школа управления \"Сколково\", Сколтех) correctly null/non-classifiable. IMPORTANT CONSTRAINT THIS ROUND: the session's shared WebSearch budget (200/200) was already exhausted by earlier tickers in this batch before NVTK was reached; honest-gap follow-up used WebFetch against direct URLs (official sites, DuckDuckGo HTML results, business registries) instead. Крюков's h_index and the education-qualification wording for Феодосьев/Орел/Акимов, and the GICS classification of Издательство \"Нестор Академик\" / ООО \"СПРИНТ\" / ООО \"Центр Низкоуглеродного Развития\", were attempted with fresh queries but remain unresolved -- see research_notes/NVTK/quality_pass_round1_20260731.md for the exact queries tried and why each was inconclusive (mainly: no indexed Scopus/eLibrary profile for Крюков; ambiguous or unconfirmed identity match for the two LLCs; rate-limiting on the SPRINT registry lookup).",
+  "sector": "Energy",
+  "industry_group": "Energy",
+  "industry": "Oil, Gas & Consumable Fuels"
+}

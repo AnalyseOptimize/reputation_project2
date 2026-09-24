@@ -1,0 +1,370 @@
+{
+    "company_name":  "QIWI plc (from February 6, 2025 NanduQ plc; CSV name: КИВИ ПиЭлСи)",
+    "company_ticker":  "QIWI",
+    "ceo":  {
+                "name":  "Alexey Sergeevich Mashchenkov / Алексей Мащенков",
+                "current_role":  "Chief Executive Officer (CEO) and Executive Director in the 2024 QIWI plc/NanduQ plc context",
+                "company_name":  "QIWI plc / NanduQ plc",
+                "education":  [
+                                  {
+                                      "institution":  "St. Petersburg State University",
+                                      "program":  null,
+                                      "qualification":  null,
+                                      "status":  "graduated",
+                                      "year":  null,
+                                      "description":  "Official company sources state that Alexey Mashchenkov graduated from St. Petersburg State University; field and year were not confirmed.",
+                                      "sources":  [
+                                                      {
+                                                          "url":  "https://nanduq.com/wp-content/uploads/2025/05/NanduQ-plc-Annual-Report-for-the-Full-Year-2024.pdf",
+                                                          "title":  "NanduQ plc Annual Report for the Full Year 2024",
+                                                          "fact":  "Page 30: the board biography states that Alexey Mashchenkov graduated from St. Petersburg State University."
+                                                      },
+                                                      {
+                                                          "url":  "https://www.sec.gov/Archives/edgar/data/1561566/000110465924008071/tm244529d1_ex99-1.htm",
+                                                          "title":  "QIWI Appoints Chief Executive Officer and Chief Financial Officer",
+                                                          "fact":  "SEC-hosted QIWI press release dated January 30, 2024 states that Alexey Mashchenkov graduated from St. Petersburg State University."
+                                                      }
+                                                  ],
+                                      "qualification_degree":  null
+                                  },
+                                  {
+                                      "institution":  "INSEAD",
+                                      "program":  "MBA",
+                                      "qualification":  "MBA",
+                                      "status":  "completed",
+                                      "year":  null,
+                                      "description":  "Official company sources state that Alexey Mashchenkov holds an MBA from INSEAD.",
+                                      "sources":  [
+                                                      {
+                                                          "url":  "https://nanduq.com/wp-content/uploads/2025/05/NanduQ-plc-Annual-Report-for-the-Full-Year-2024.pdf",
+                                                          "title":  "NanduQ plc Annual Report for the Full Year 2024",
+                                                          "fact":  "Page 30: the board biography states that Alexey Mashchenkov holds an MBA from INSEAD."
+                                                      },
+                                                      {
+                                                          "url":  "https://www.sec.gov/Archives/edgar/data/1561566/000110465924008071/tm244529d1_ex99-1.htm",
+                                                          "title":  "QIWI Appoints Chief Executive Officer and Chief Financial Officer",
+                                                          "fact":  "SEC-hosted QIWI press release dated January 30, 2024 states that Alexey Mashchenkov holds an MBA from INSEAD."
+                                                      }
+                                                  ],
+                                      "qualification_degree":  "MBA"
+                                  },
+                                  {
+                                      "institution":  "Harvard Business School",
+                                      "program":  "Advanced Management Program (AMP)",
+                                      "qualification":  null,
+                                      "status":  "completed",
+                                      "year":  null,
+                                      "description":  "Treated as executive education, not as an academic degree.",
+                                      "sources":  [
+                                                      {
+                                                          "url":  "https://nanduq.com/wp-content/uploads/2025/05/NanduQ-plc-Annual-Report-for-the-Full-Year-2024.pdf",
+                                                          "title":  "NanduQ plc Annual Report for the Full Year 2024",
+                                                          "fact":  "Page 30: the board biography states that Alexey Mashchenkov completed AMP at Harvard Business School."
+                                                      }
+                                                  ],
+                                      "qualification_degree":  "Executive education"
+                                  }
+                              ],
+                "degrees":  [
+                                {
+                                    "degree":  "MBA",
+                                    "field":  null,
+                                    "institution":  "INSEAD",
+                                    "year":  null,
+                                    "sources":  [
+                                                    {
+                                                        "url":  "https://nanduq.com/wp-content/uploads/2025/05/NanduQ-plc-Annual-Report-for-the-Full-Year-2024.pdf",
+                                                        "title":  "NanduQ plc Annual Report for the Full Year 2024",
+                                                        "fact":  "Page 30: the board biography states that Alexey Mashchenkov holds an MBA from INSEAD."
+                                                    },
+                                                    {
+                                                        "url":  "https://www.sec.gov/Archives/edgar/data/1561566/000110465924008071/tm244529d1_ex99-1.htm",
+                                                        "title":  "QIWI Appoints Chief Executive Officer and Chief Financial Officer",
+                                                        "fact":  "SEC-hosted QIWI press release dated January 30, 2024 states that Alexey Mashchenkov holds an MBA from INSEAD."
+                                                    }
+                                                ],
+                                    "qualification_degree":  "MBA"
+                                }
+                            ],
+                "professional_experience":  [
+                                                {
+                                                    "organization":  "QIWI plc / NanduQ plc",
+                                                    "role":  "Chief Executive Officer (CEO) and Director / Executive Director",
+                                                    "start_year":  2024,
+                                                    "end_year":  null,
+                                                    "description":  "Appointed Director and CEO effective January 29, 2024 after the sale of Russia-based assets and Andrey Protopopov\u0027s resignation.",
+                                                    "sources":  [
+                                                                    {
+                                                                        "url":  "https://nanduq.com/wp-content/uploads/2025/05/NanduQ-plc-Annual-Report-for-the-Full-Year-2024.pdf",
+                                                                        "title":  "NanduQ plc Annual Report for the Full Year 2024",
+                                                                        "fact":  "Pages 24, 28 and 34: the annual report states that after the January 2024 divestiture Andrey Protopopov resigned as CEO and Director and Alexey Mashchenkov was appointed CEO and Director effective January 29, 2024."
+                                                                    },
+                                                                    {
+                                                                        "url":  "https://www.sec.gov/Archives/edgar/data/1561566/000110465924008071/tm244529d1_ex99-1.htm",
+                                                                        "title":  "QIWI Appoints Chief Executive Officer and Chief Financial Officer",
+                                                                        "fact":  "SEC-hosted QIWI press release dated January 30, 2024 states that Alexey Mashchenkov was appointed Director and CEO effective January 29, 2024."
+                                                                    },
+                                                                    {
+                                                                        "url":  "https://en.wikipedia.org/wiki/QIWI",
+                                                                        "title":  "QIWI - Wikipedia",
+                                                                        "fact":  "Quality-pass GICS check (2026-07-31): Wikipedia describes QIWI plc's industry as 'Payment service provider', stating the group provided payment and financial services (QIWI payment system, QIWI Bank, CONTACT money transfer, Factoring PLUS) rather than consumer lending; the entry-level industry was corrected from Consumer Finance to the generic Financial Services (New Name) row to match this and to match the company-level GICS already recorded in this same file, since the taxonomy has no dedicated payment-processing row."
+                                                                    }
+                                                                ],
+                                                    "sector":  "Financials",
+                                                    "industry_group":  "Financial Services (New Name)",
+                                                    "industry":  "Financial Services (New Name)"
+                                                },
+                                                {
+                                                    "organization":  "QIWI plc",
+                                                    "role":  "Chief Financial Officer (CFO)",
+                                                    "start_year":  2021,
+                                                    "end_year":  2024,
+                                                    "description":  "Served as CFO from November 2021 before appointment as CEO in January 2024.",
+                                                    "sources":  [
+                                                                    {
+                                                                        "url":  "https://nanduq.com/wp-content/uploads/2025/05/NanduQ-plc-Annual-Report-for-the-Full-Year-2024.pdf",
+                                                                        "title":  "NanduQ plc Annual Report for the Full Year 2024",
+                                                                        "fact":  "Page 34: the executive management biography states that Alexey Mashchenkov served as CFO since November 2021 before being appointed CEO in January 2024."
+                                                                    },
+                                                                    {
+                                                                        "url":  "https://www.interfax.ru/business/800935",
+                                                                        "title":  "Финдиректором Qiwi станет экс-топ-менеджер Русской рыбопромышленной компании",
+                                                                        "fact":  "Interfax reported on November 2, 2021 that Alexey Mashchenkov would become QIWI CFO from November 8, 2021."
+                                                                    },
+                                                                    {
+                                                                        "url":  "https://en.wikipedia.org/wiki/QIWI",
+                                                                        "title":  "QIWI - Wikipedia",
+                                                                        "fact":  "Quality-pass GICS check (2026-07-31): Wikipedia describes QIWI plc's industry as 'Payment service provider', stating the group provided payment and financial services (QIWI payment system, QIWI Bank, CONTACT money transfer, Factoring PLUS) rather than consumer lending; the entry-level industry was corrected from Consumer Finance to the generic Financial Services (New Name) row to match this and to match the company-level GICS already recorded in this same file, since the taxonomy has no dedicated payment-processing row."
+                                                                    }
+                                                                ],
+                                                    "sector":  "Financials",
+                                                    "industry_group":  "Financial Services (New Name)",
+                                                    "industry":  "Financial Services (New Name)"
+                                                },
+                                                {
+                                                    "organization":  "Russian Fishery / Русская Рыбопромышленная компания",
+                                                    "role":  "Deputy CEO / deputy general director for economics and finance",
+                                                    "start_year":  null,
+                                                    "end_year":  null,
+                                                    "description":  "Previous senior finance role before joining QIWI; exact dates were not confirmed.",
+                                                    "sources":  [
+                                                                    {
+                                                                        "url":  "https://www.sec.gov/Archives/edgar/data/1561566/000110465924008071/tm244529d1_ex99-1.htm",
+                                                                        "title":  "QIWI Appoints Chief Executive Officer and Chief Financial Officer",
+                                                                        "fact":  "SEC-hosted QIWI press release states that before joining QIWI, Alexey Mashchenkov most recently served as Deputy CEO of Russian Fishery."
+                                                                    },
+                                                                    {
+                                                                        "url":  "https://www.cfo-russia.ru/meropriyatiya/speakers/50446/",
+                                                                        "title":  "Алексей Мащенков / Русская Рыбопромышленная компания",
+                                                                        "fact":  "CFO Russia speaker profile lists Алексей Мащенков as deputy general director for economics and finance at Russian Fishery."
+                                                                    },
+                                                                    {
+                                                                        "url":  "https://ru.wikipedia.org/wiki/Русская_рыбопромышленная_компания",
+                                                                        "title":  "Русская рыбопромышленная компания - Wikipedia",
+                                                                        "fact":  "Quality-pass gap follow-up (2026-07-31): описывает компанию как 'крупную российскую промысловую компанию, занимающуюся добычей рыбы на Дальнем Востоке' (pollock and Pacific herring, processed into fillets, minced fish, surimi, fishmeal and fish oil), confirming a seafood harvesting/processing business used to fill the previously null GICS triple with the closest available taxonomy row (Food Products; the taxonomy has no dedicated agricultural/seafood-products row)."
+                                                                    }
+                                                                ],
+                                                    "sector":  "Consumer Staples",
+                                                    "industry_group":  "Food, Beverage & Tobacco",
+                                                    "industry":  "Food Products"
+                                                },
+                                                {
+                                                    "organization":  "Russian Standard / Русский Стандарт",
+                                                    "role":  "Group Chief Financial Officer",
+                                                    "start_year":  null,
+                                                    "end_year":  null,
+                                                    "description":  "Previous group CFO role; exact dates were not confirmed. Quality-pass gap follow-up (2026-07-31): re-fetched Interfax (already-cited source), which explicitly names the role as 'финдиректором группы компаний Русский стандарт' (CFO of the Russian Standard group of companies); Russian Standard is confirmed (Russian Wikipedia disambiguation) to span at least two unrelated operating businesses under one brand -- Russian Standard Bank and Russian Standard Vodka -- so no single GICS industry can be confidently assigned to a group-level CFO role without a source specifying which operating entity he actually served; left null and documented rather than guessing.",
+                                                    "sources":  [
+                                                                    {
+                                                                        "url":  "https://nanduq.com/wp-content/uploads/2025/05/NanduQ-plc-Annual-Report-for-the-Full-Year-2024.pdf",
+                                                                        "title":  "NanduQ plc Annual Report for the Full Year 2024",
+                                                                        "fact":  "Page 30: the board biography states that Alexey Mashchenkov previously served as Group CFO of Russian Standard."
+                                                                    },
+                                                                    {
+                                                                        "url":  "https://www.finam.ru/publications/item/gendirektorom-qiwi-stal-aleksey-mashchenkov-20240130-2103/",
+                                                                        "title":  "Гендиректором Qiwi стал Алексей Мащенков",
+                                                                        "fact":  "Finam reported that before QIWI, Alexey Mashchenkov worked as deputy general director of Russian Fishery and CFO of Russian Standard Group."
+                                                                    }
+                                                                ],
+                                                    "sector":  null,
+                                                    "industry_group":  null,
+                                                    "industry":  null
+                                                },
+                                                {
+                                                    "organization":  "Alpcot Capital Management / Agrokultura / Alpcot Agro",
+                                                    "role":  "Regional manager; CFO of Agrokultura / Alpcot Agro",
+                                                    "start_year":  2008,
+                                                    "end_year":  null,
+                                                    "description":  "Finam reports 2008-2012 Alpcot Capital Management and Agrokultura roles; an Alpcot Agro prospectus states he left the Alpcot Agro CFO role on October 31, 2010, so the exact role boundaries remain partially uncertain.",
+                                                    "sources":  [
+                                                                    {
+                                                                        "url":  "https://www.finam.ru/publications/item/findirektorom-qiwi-naznachen-alekseiy-mashenkov-20211102-130553/",
+                                                                        "title":  "Финдиректором QIWI назначен Алексей Мащенков",
+                                                                        "fact":  "Finam reported that from 2008 to 2012 Alexey Mashchenkov was a regional manager at Alpcot Capital Management and worked as CFO of Agrokultura in the Alpcot group."
+                                                                    },
+                                                                    {
+                                                                        "url":  "https://nyemissioner.se/wp-content/uploads/rights-issues/1123/prospekt.pdf",
+                                                                        "title":  "Inbjudan till teckning av aktier i Alpcot Agro AB (publ)",
+                                                                        "fact":  "Page 73: the prospectus states that Alexey Mashchenkov left the position of CFO in the company on October 31, 2010 and records related compensation through 2011."
+                                                                    }
+                                                                ],
+                                                    "sector":  "Consumer Staples",
+                                                    "industry_group":  "Food, Beverage & Tobacco",
+                                                    "industry":  "Food Products"
+                                                },
+                                                {
+                                                    "organization":  "PwC and Bain \u0026 Company",
+                                                    "role":  "Early-career finance/consulting roles",
+                                                    "start_year":  null,
+                                                    "end_year":  null,
+                                                    "description":  "Official company biography states that Alexey Mashchenkov started his career with PwC and Bain \u0026 Company; exact dates and titles were not confirmed.",
+                                                    "sources":  [
+                                                                    {
+                                                                        "url":  "https://nanduq.com/wp-content/uploads/2025/05/NanduQ-plc-Annual-Report-for-the-Full-Year-2024.pdf",
+                                                                        "title":  "NanduQ plc Annual Report for the Full Year 2024",
+                                                                        "fact":  "Page 30: the board biography states that Alexey Mashchenkov started his career with PwC and Bain \u0026 Company."
+                                                                    },
+                                                                    {
+                                                                        "url":  "https://www.interfax.ru/business/800935",
+                                                                        "title":  "Финдиректором Qiwi станет экс-топ-менеджер Русской рыбопромышленной компании",
+                                                                        "fact":  "Interfax reported that Alexey Mashchenkov began his career as a consultant at PricewaterhouseCoopers and Bain \u0026 Co."
+                                                                    },
+                                                                    {
+                                                                        "url":  "https://en.wikipedia.org/wiki/PricewaterhouseCoopers",
+                                                                        "title":  "PricewaterhouseCoopers - Wikipedia",
+                                                                        "fact":  "Quality-pass gap follow-up (2026-07-31): infobox lists PwC industry as Professional services, one of the Big Four accounting firms (Assurance, Advisory, Tax service lines)."
+                                                                    },
+                                                                    {
+                                                                        "url":  "https://en.wikipedia.org/wiki/Bain_%26_Company",
+                                                                        "title":  "Bain & Company - Wikipedia",
+                                                                        "fact":  "Quality-pass gap follow-up (2026-07-31): infobox lists Bain & Company industry as Management consulting, a global management consulting firm. PwC and Bain share the same GICS row (Professional Services), so this two-employer entry could be filled with a single confident industry despite bundling two firm names."
+                                                                    }
+                                                                ],
+                                                    "sector":  "Industrials",
+                                                    "industry_group":  "Commercial & Professional Services",
+                                                    "industry":  "Professional Services"
+                                                },
+                                                {
+                                                    "organization":  "OAO MegaFon",
+                                                    "role":  "Regional controller",
+                                                    "start_year":  null,
+                                                    "end_year":  null,
+                                                    "description":  "Older prospectus source identifies a regional controller role; dates were not confirmed.",
+                                                    "sources":  [
+                                                                    {
+                                                                        "url":  "https://nyemissioner.se/wp-content/uploads/rights-issues/1123/prospekt.pdf",
+                                                                        "title":  "Inbjudan till teckning av aktier i Alpcot Agro AB (publ)",
+                                                                        "fact":  "Page 67: the prospectus lists Alexey Mashchenkov\u0027s previous assignments as regional controller at OAO MegaFon in Russia and finance chief/CFO at Alpcot Agro in Russia."
+                                                                    },
+                                                                    {
+                                                                        "url":  "https://ru.wikipedia.org/wiki/МегаФон",
+                                                                        "title":  "МегаФон - Wikipedia",
+                                                                        "fact":  "Quality-pass gap follow-up (2026-07-31): describes MegaFon as a Russian telecommunications company and one of the largest cellular operators, confirming a wireless telecom operator business used to fill the previously null GICS triple."
+                                                                    }
+                                                                ],
+                                                    "sector":  "Communication Services",
+                                                    "industry_group":  "Telecommunication Services",
+                                                    "industry":  "Wireless Telecommunication Services"
+                                                }
+                                            ],
+                "research_experience":  [
+
+                                        ],
+                "publications":  [
+
+                                 ],
+                "patents":  [
+
+                            ],
+                "h_index":  null,
+                "sources":  [
+                                {
+                                    "url":  "https://nanduq.com/wp-content/uploads/2025/05/NanduQ-plc-Annual-Report-for-the-Full-Year-2024.pdf",
+                                    "title":  "NanduQ plc Annual Report for the Full Year 2024",
+                                    "fact":  "Pages 24, 28, 30 and 34 provide the primary 2024 CEO/director appointment, board composition, executive management biography, education, and career facts for Alexey Mashchenkov."
+                                },
+                                {
+                                    "url":  "https://www.sec.gov/Archives/edgar/data/1561566/000110465924008071/tm244529d1_ex99-1.htm",
+                                    "title":  "QIWI Appoints Chief Executive Officer and Chief Financial Officer",
+                                    "fact":  "SEC-hosted QIWI press release dated January 30, 2024 confirms Alexey Mashchenkov\u0027s CEO and Director appointment effective January 29, 2024 and summarizes education and previous experience."
+                                },
+                                {
+                                    "url":  "https://companiesregistry.cy/company-details/nanduq-plc-193010/",
+                                    "title":  "NANDUQ PLC - CompaniesRegistry.cy",
+                                    "fact":  "Registry-derived company page lists ALEXEY SERGEEVICH MASHCHENKOV as a Director of NanduQ PLC."
+                                }
+                            ],
+                "notes":  "CSV for QIWI contains no person name or position. Alexey Mashchenkov is included in ceo because official company sources identify him as CEO in the 2024 context. Other board members and executives identified in official sources were not added to tmt because they were absent from the CSV. No confirmed publications, patents, research roles, ORCID/Scopus/eLIBRARY/Google Scholar profile, or h-index were found. St. Petersburg State University field and graduation year were not confirmed. Harvard AMP is treated as executive education, not a degree. QUALITY PASS (2026-07-31): desync check found no simple omissions and no genuine notes-vs-JSON inconsistencies (single research round, already internally consistent). GICS correctness audit corrected 3 mislabeled professional_experience entries: QIWI CEO and CFO roles were Consumer Finance, changed to the generic Financial Services (New Name) row to match QIWI's confirmed payment-service-provider business (not consumer lending) and the company-level GICS already recorded in this file; the Alpcot Capital Management / Agrokultura / Alpcot Agro entry was Capital Markets, changed to Food Products because the specifically documented, dual-sourced CFO title was at Agrokultura/Alpcot Agro, an agricultural producer (the entry's own name and already-cited prospectus confirm this), not at the asset-manager side of the bundled organization name. Gap follow-up filled 3 of 4 previously all-null professional_experience GICS triples with fresh sources (Russian Fishery -> Food Products via ru.wikipedia.org; PwC and Bain & Company -> Professional Services via en.wikipedia.org for both firms; OAO MegaFon -> Wireless Telecommunication Services via ru.wikipedia.org). Russian Standard / Русский Стандарт remains null after a fresh Interfax re-check confirmed the role was CFO of the diversified 'Русский Стандарт' group of companies (spanning an unrelated bank and vodka business), so no single GICS industry could be confidently assigned; documented rather than guessed."
+            },
+    "tmt":  [
+
+            ],
+    "board_sources":  [
+                          {
+                              "url":  "MOEXBMI_2024.csv",
+                              "title":  "MOEXBMI_2024.csv",
+                              "fact":  "CSV contains predefined company people and positions used as pipeline input. For QIWI, line 655 contains company КИВИ ПиЭлСи but no person name or position; the comment says no reports and notes that it is now called NanduQ."
+                          },
+                          {
+                              "url":  "https://nanduq.com/wp-content/uploads/2025/05/NanduQ-plc-Annual-Report-for-the-Full-Year-2024.pdf",
+                              "title":  "NanduQ plc Annual Report for the Full Year 2024",
+                              "fact":  "Page 1: the annual report covers January 1 to December 31, 2024, states that NanduQ plc was formerly QIWI plc, and says ADSs traded on MOEX under ticker QIWI."
+                          },
+                          {
+                              "url":  "https://nanduq.com/wp-content/uploads/2025/05/NanduQ-plc-Annual-Report-for-the-Full-Year-2024.pdf",
+                              "title":  "NanduQ plc Annual Report for the Full Year 2024",
+                              "fact":  "Pages 24 and 28: the report states that Andrey Protopopov resigned as CEO and Director after the January 2024 divestiture, Alexey Mashchenkov was appointed CEO and Director effective January 29, 2024, and the post-AGM board comprised Alexey Ivanov, Alexey Solovyev, Lev Kroll, Oxana Sirotinina, and Alexey Mashchenkov."
+                          },
+                          {
+                              "url":  "https://nanduq.com/wp-content/uploads/2025/05/NanduQ-plc-Annual-Report-for-the-Full-Year-2024.pdf",
+                              "title":  "NanduQ plc Annual Report for the Full Year 2024",
+                              "fact":  "Page 34: the executive management section lists Alexey Mashchenkov as CEO and Elena Nikonova as CFO, both initially appointed January 29, 2024."
+                          },
+                          {
+                              "url":  "https://www.sec.gov/Archives/edgar/data/1561566/000110465924008071/tm244529d1_ex99-1.htm",
+                              "title":  "QIWI Appoints Chief Executive Officer and Chief Financial Officer",
+                              "fact":  "SEC-hosted QIWI press release dated January 30, 2024 confirms Alexey Mashchenkov was appointed Director and CEO and Elena Nikonova CFO effective January 29, 2024."
+                          },
+                          {
+                              "url":  "https://companiesregistry.cy/company-details/nanduq-plc-193010/",
+                              "title":  "NANDUQ PLC - CompaniesRegistry.cy",
+                              "fact":  "Registry-derived page lists NanduQ PLC as active and identifies officers including ALEXEY SERGEEVICH MASHCHENKOV, OXANA VALERIEVNA SIROTININA, ALEXEY SERGEEVICH IVANOV, ALEXEY SERGEEVICH SOLOVYEV, LEV KROLL, and DIAGORAS (SECRETARIAL) LIMITED."
+                          }
+                      ],
+    "sources":  [
+                    {
+                        "url":  "MOEXBMI_2024.csv",
+                        "title":  "MOEXBMI_2024.csv",
+                        "fact":  "Line 655 provides the QIWI input row: company КИВИ ПиЭлСи; no person name or position; comment indicates no reports and notes the NanduQ name."
+                    },
+                    {
+                        "url":  "MOEXBMI_Отчеты_2024/",
+                        "title":  "Local reports archive",
+                        "fact":  "The local archive contained 286 files, but no QIWI/NanduQ folder or filename candidate was found, and local text search found no QIWI/NanduQ aliases in readable files."
+                    },
+                    {
+                        "url":  "https://nanduq.com/wp-content/uploads/2025/05/NanduQ-plc-Annual-Report-for-the-Full-Year-2024.pdf",
+                        "title":  "NanduQ plc Annual Report for the Full Year 2024",
+                        "fact":  "Official annual report used as primary 2024 source for company identity, name-change context, board composition, CEO, executive management, education, and career facts."
+                    },
+                    {
+                        "url":  "https://www.sec.gov/Archives/edgar/data/1561566/000110465924008071/tm244529d1_ex99-1.htm",
+                        "title":  "QIWI Appoints Chief Executive Officer and Chief Financial Officer",
+                        "fact":  "Primary company disclosure hosted by SEC confirming the January 29, 2024 CEO/CFO appointments and Mashchenkov\u0027s education and previous experience."
+                    },
+                    {
+                        "url":  "https://www.interfax.ru/business/800935",
+                        "title":  "Финдиректором Qiwi станет экс-топ-менеджер Русской рыбопромышленной компании",
+                        "fact":  "Independent business media source confirming the 2021 CFO appointment and older career/education details."
+                    },
+                    {
+                        "url":  "https://www.cfo-russia.ru/meropriyatiya/speakers/50446/",
+                        "title":  "Алексей Мащенков / Русская Рыбопромышленная компания",
+                        "fact":  "Professional conference source confirming a Russian Fishery deputy general director for economics and finance role."
+                    }
+                ],
+    "validation_notes":  "Processed people: 1 confirmed CEO. CSV people for QIWI: 0 named person rows, so tmt is intentionally empty and non-CSV board members were not added. Local documents checked: 286 files in MOEXBMI_Отчеты_2024 at directory/name/readable-text level; no QIWI/NanduQ candidate local report was found. Research rounds completed: 1. People without confirmed education: 0, but St. Petersburg State University field/year remain unconfirmed. Weak or auxiliary sources used: MarketScreener, CompaniesRegistry.cy, OpenSanctions, Bosfera, and old Alpcot prospectus were used only for cross-checks or older career details; core CEO facts rely on official NanduQ annual report and SEC-hosted QIWI disclosure. Conflicts remaining: CSV has no person row while official 2024 sources identify Alexey Mashchenkov as CEO; final ceo is filled because the schema asks for confirmed CEO, while tmt remains empty due the CSV restriction. Namesakes excluded: unrelated Мащенко academic and publication search results, unrelated ORCID/Scopus/eLIBRARY results, and unconfirmed DXS/event profile facts. Search considered complete because local archive contained no QIWI/NanduQ reports, official 2024 sources establish CEO/board context, education and previous employers were separately searched and cross-checked, each discovered employer lead was followed, and two follow-up passes did not produce higher-quality new facts. QUALITY PASS ROUND 1 (2026-07-31): verified current file matches git HEAD baseline exactly (no pre-existing regression to restore). Desync check: no simple omissions, no genuine notes-vs-JSON inconsistencies found (single research round, already consistent). GICS correctness audit: corrected 3 mislabeled professional_experience triples (QIWI CEO/CFO roles Consumer Finance -> Financial Services (New Name); Alpcot Capital Management/Agrokultura/Alpcot Agro Capital Markets -> Food Products) -- see person notes field and research_notes/QIWI/quality_pass_round1_20260731.md for full reasoning. Honest-gap follow-up: filled 3 of 4 previously all-null professional_experience GICS triples with fresh sources (Russian Fishery -> Food Products; PwC and Bain & Company -> Professional Services; OAO MegaFon -> Wireless Telecommunication Services); Russian Standard remains null and documented as a genuinely diversified group (bank + vodka) after a fresh source re-check. No prior confirmed fact, description, or source citation was shortened or deleted; all edits were additive or corrective GICS-taxonomy fixes.",
+    "sector":  "Financials",
+    "industry_group":  "Financial Services (New Name)",
+    "industry":  "Financial Services (New Name)"
+}

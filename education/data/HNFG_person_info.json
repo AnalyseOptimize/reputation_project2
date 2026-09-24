@@ -1,0 +1,896 @@
+{
+  "company_name": "ПАО \"ЭЙЧ ЭФ ДЖИ\" / ПАО ХЭНДЕРСОН ФЭШН ГРУПП",
+  "company_ticker": "HNFG",
+  "ceo": {
+    "name": "Мелконян Гагик Аршавирович",
+    "current_role": "Генеральный директор ПАО \"ЭЙЧ ЭФ ДЖИ\" с 15.07.2022; исполнительный директор и член Совета директоров на 31.12.2024",
+    "company_name": "ПАО \"ЭЙЧ ЭФ ДЖИ\" / ПАО ХЭНДЕРСОН ФЭШН ГРУПП",
+    "education": [
+      {
+        "institution": "Национальный политехнический университет Армении",
+        "year": null,
+        "program_or_specialty": "Приборы точной механики",
+        "qualification": "Инженер-механик",
+        "source": "https://data.cbonds.info/stock_documents/176457/1192-efae80eef01cab9132a4239edecdccce.pdf",
+        "qualification_degree": "Specialist degree"
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "ООО ТАМИ И КО",
+        "role": "Советник Генерального директора",
+        "start_year": 2020,
+        "end_year": null,
+        "description": "Проспект ценных бумаг указывает эту должность с 2020 года.",
+        "source": "https://data.cbonds.info/stock_documents/176457/1192-efae80eef01cab9132a4239edecdccce.pdf",
+        "sector": "Consumer Discretionary",
+        "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+        "industry": "Specialty Retail"
+      },
+      {
+        "organization": "ПАО \"ЭЙЧ ЭФ ДЖИ\"",
+        "role": "Член Совета директоров",
+        "start_year": 2022,
+        "end_year": null,
+        "description": "Проспект указывает членство с 2022 года; годовой отчет 2024 подтверждает статус исполнительного директора на 31.12.2024.",
+        "source": "MOEXBMI_Отчеты_2024/HNFG/Годовой отчет 2024.pdf",
+        "sector": "Consumer Discretionary",
+        "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+        "industry": "Specialty Retail"
+      },
+      {
+        "organization": "ПАО \"ЭЙЧ ЭФ ДЖИ\"",
+        "role": "Генеральный директор",
+        "start_year": 2022,
+        "end_year": null,
+        "description": "Годовой отчет 2024 указывает, что Гагик Мелконян является Генеральным директором с 15.07.2022.",
+        "source": "MOEXBMI_Отчеты_2024/HNFG/Годовой отчет 2024.pdf",
+        "sector": "Consumer Discretionary",
+        "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+        "industry": "Specialty Retail"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "CSV row 258 lists HNFG / ПАО \"ЭЙЧ ЭФ ДЖИ\" / Мелконян Гагик Аршавирович / \"Член СД, Генеральный директор\"."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/HNFG/Годовой отчет 2024.pdf",
+        "title": "HENDERSON. Годовой отчет 2024",
+        "fact": "Pages 88 and 90 list Гагик Мелконян as executive director and state that he has been General Director since 15.07.2022."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/HNFG/Годовая отчетность ПАО ЭЙЧ ЭФ ДЖИ за 2024 год.pdf",
+        "title": "ПАО ХЭНДЕРСОН ФЭШН ГРУПП. Консолидированная финансовая отчетность 2024",
+        "fact": "Page 13 lists Гагик Мелконян as board member and General Director; the statements were approved by the General Director on 23.04.2025."
+      },
+      {
+        "url": "https://data.cbonds.info/stock_documents/176457/1192-efae80eef01cab9132a4239edecdccce.pdf",
+        "title": "ПАО ЭЙЧ ЭФ ДЖИ. Проспект ценных бумаг",
+        "fact": "Pages 65 and 72 provide the same CEO/board identity, education qualification and recent roles."
+      }
+    ],
+    "notes": "Armenian political/military namesakes were rejected. Quality pass round 1 (2026-07-30): education[0].institution was found and confirmed in round 2's research (same cbonds prospectus, board-member listing on p. 65 gives the institution name, versus the CEO-heading entry on p. 72 that round 1 relied on and that omits it) but had not been written into this file; filled in as 'Национальный политехнический университет Армении' (canonical name per university_names.json; source text says 'Ереванский политехнический институт', a listed synonym of the same institution). Graduation year remains null -- structural absence in the source, which gives no year for any director in this document."
+  },
+  "tmt": [
+    {
+      "name": "Арутюнян Рубен Альбертович",
+      "current_role": "Председатель Совета директоров ПАО \"ЭЙЧ ЭФ ДЖИ\"; неисполнительный директор на 31.12.2024; основатель и президент Дома моды HENDERSON",
+      "company_name": "ПАО \"ЭЙЧ ЭФ ДЖИ\" / ПАО ХЭНДЕРСОН ФЭШН ГРУПП",
+      "education": [
+        {
+          "institution": "Национальный политехнический университет Армении",
+          "year": 1989,
+          "program_or_specialty": null,
+          "qualification": "Высшее техническое образование",
+          "source": "https://deloros.ru/litsa/arutyunyan-ruben-albertovich/",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Высшая коммерческая школа Министерства внешних экономических связей и торговли Российской Федерации",
+          "year": 1999,
+          "program_or_specialty": "MBA",
+          "qualification": "MBA",
+          "source": "https://deloros.ru/litsa/arutyunyan-ruben-albertovich/",
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "СКБ \"Гранит\"",
+          "role": "Инженер",
+          "start_year": 1989,
+          "end_year": 1990,
+          "description": "Профессиональная биография указывает работу инженером в 1989-1990 годах.",
+          "source": "https://deloros.ru/litsa/arutyunyan-ruben-albertovich/",
+          "sector": "Industrials",
+          "industry_group": "Capital Goods",
+          "industry": "Aerospace & Defense"
+        },
+        {
+          "organization": "Брокерская фирма ORION на Армянской товарно-сырьевой бирже",
+          "role": "Директор",
+          "start_year": 1991,
+          "end_year": 1992,
+          "description": "Профессиональная биография указывает должность директора в 1991-1992 годах.",
+          "source": "https://deloros.ru/litsa/arutyunyan-ruben-albertovich/",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "Дом моды HENDERSON",
+          "role": "Основатель и руководитель / президент",
+          "start_year": 1993,
+          "end_year": null,
+          "description": "Профиль Деловой России указывает переезд в Москву, основание и управление HENDERSON в 1993 году.",
+          "source": "https://deloros.ru/litsa/arutyunyan-ruben-albertovich/",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Specialty Retail"
+        },
+        {
+          "organization": "ПАО \"ЭЙЧ ЭФ ДЖИ\"",
+          "role": "Председатель Совета директоров; неисполнительный директор",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Годовой отчет 2024 подтверждает статус на 31.12.2024.",
+          "source": "MOEXBMI_Отчеты_2024/HNFG/Годовой отчет 2024.pdf",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Specialty Retail"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 252 lists Арутюнян Рубен Альбертович as HNFG board member."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/HNFG/Годовой отчет 2024.pdf",
+          "title": "HENDERSON. Годовой отчет 2024",
+          "fact": "Page 88 lists Рубен Арутюнян as Chairman and non-executive director."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/HNFG/Годовая отчетность ПАО ЭЙЧ ЭФ ДЖИ за 2024 год.pdf",
+          "title": "ПАО ХЭНДЕРСОН ФЭШН ГРУПП. Консолидированная финансовая отчетность 2024",
+          "fact": "Page 12 states Рубен Арутюнян held 78.31% and was the ultimate controlling party in 2023-2024; page 13 lists him as chairman of the board."
+        },
+        {
+          "url": "https://deloros.ru/litsa/arutyunyan-ruben-albertovich/",
+          "title": "Деловая Россия: Арутюнян Рубен Альбертович",
+          "fact": "Profile confirms founder/president role, birth year, education and early career."
+        },
+        {
+          "url": "https://russia-armenia.info/node/1374",
+          "title": "russia-armenia.info: Как \"разгрызали\" \"Гранит\" армянской науки",
+          "fact": "Used only as auxiliary evidence for GICS classification of СКБ \"Гранит\" (Yerevan) as a Soviet defense-industry space-instrument design bureau (Aerospace & Defense); not used for any biographical fact about Арутюнян himself, which remains sourced to deloros.ru."
+        }
+      ],
+      "notes": "No confirmed scholarly publications, patents or h-index. Round 2 added GICS classification for all professional_experience entries and normalized institution names to university_names.json; no biographical facts were changed."
+    },
+    {
+      "name": "Адамян Амаяк Степаевич",
+      "current_role": "Неисполнительный директор ПАО \"ЭЙЧ ЭФ ДЖИ\" на 31.12.2024",
+      "company_name": "ПАО \"ЭЙЧ ЭФ ДЖИ\" / ПАО ХЭНДЕРСОН ФЭШН ГРУПП",
+      "education": [
+        {
+          "institution": "Национальный политехнический университет Армении",
+          "year": null,
+          "program_or_specialty": "Вычислительные машины, комплексы, системы и сети",
+          "qualification": "Инженер-системотехник",
+          "source": "https://data.cbonds.info/stock_documents/176457/1192-efae80eef01cab9132a4239edecdccce.pdf",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ООО ТАМИ И КО",
+          "role": "Коммерческий директор",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "Проспект ценных бумаг указывает должность с 2020 года.",
+          "source": "https://data.cbonds.info/stock_documents/176457/1192-efae80eef01cab9132a4239edecdccce.pdf",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Specialty Retail"
+        },
+        {
+          "organization": "ПАО \"ЭЙЧ ЭФ ДЖИ\"",
+          "role": "Член Совета директоров",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Проспект указывает членство с 2023 года; годовой отчет 2024 подтверждает статус неисполнительного директора на 31.12.2024.",
+          "source": "MOEXBMI_Отчеты_2024/HNFG/Годовой отчет 2024.pdf",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Specialty Retail"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 253 lists Адамян Амаяк Степаевич as HNFG board member."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/HNFG/Годовой отчет 2024.pdf",
+          "title": "HENDERSON. Годовой отчет 2024",
+          "fact": "Page 88 lists Амаяк Адамян as non-executive director."
+        },
+        {
+          "url": "https://data.cbonds.info/stock_documents/176457/1192-efae80eef01cab9132a4239edecdccce.pdf",
+          "title": "ПАО ЭЙЧ ЭФ ДЖИ. Проспект ценных бумаг",
+          "fact": "Page 68 gives birth year, education and roles at ООО ТАМИ И КО and ПАО ЭЙЧ ЭФ ДЖИ."
+        }
+      ],
+      "notes": "No confirmed scholarly publications, patents or h-index. Round 2 added GICS classification and qualification_degree (\"Specialist degree\"), and normalized the education institution name; no new biographical facts were found or needed beyond the structurally-absent graduation year."
+    },
+    {
+      "name": "Глазов Василий Владимирович",
+      "current_role": "Неисполнительный директор ПАО \"ЭЙЧ ЭФ ДЖИ\" на 31.12.2024",
+      "company_name": "ПАО \"ЭЙЧ ЭФ ДЖИ\" / ПАО ХЭНДЕРСОН ФЭШН ГРУПП",
+      "education": [
+        {
+          "institution": "Финансовый университет при Правительстве Российской Федерации",
+          "year": null,
+          "program_or_specialty": "Юриспруденция",
+          "qualification": "Юрист",
+          "source": "https://data.cbonds.info/stock_documents/176457/1192-efae80eef01cab9132a4239edecdccce.pdf",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ООО ТАМИ И КО",
+          "role": "Директор юридического департамента",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "Проспект ценных бумаг указывает должность с 2020 года.",
+          "source": "https://data.cbonds.info/stock_documents/176457/1192-efae80eef01cab9132a4239edecdccce.pdf",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Specialty Retail"
+        },
+        {
+          "organization": "ООО ГВД",
+          "role": "Генеральный директор; ликвидатор",
+          "start_year": 2022,
+          "end_year": 2022,
+          "description": "Проспект указывает эту роль в 2022 году.",
+          "source": "https://data.cbonds.info/stock_documents/176457/1192-efae80eef01cab9132a4239edecdccce.pdf",
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "ПАО \"ЭЙЧ ЭФ ДЖИ\"",
+          "role": "Член Совета директоров",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Проспект указывает членство с 2022 года; годовой отчет 2024 подтверждает статус неисполнительного директора.",
+          "source": "MOEXBMI_Отчеты_2024/HNFG/Годовой отчет 2024.pdf",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Specialty Retail"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 254 lists Глазов Василий Владимирович as HNFG board member."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/HNFG/Годовой отчет 2024.pdf",
+          "title": "HENDERSON. Годовой отчет 2024",
+          "fact": "Page 88 lists Василий Глазов as non-executive director."
+        },
+        {
+          "url": "https://data.cbonds.info/stock_documents/176457/1192-efae80eef01cab9132a4239edecdccce.pdf",
+          "title": "ПАО ЭЙЧ ЭФ ДЖИ. Проспект ценных бумаг",
+          "fact": "Page 66 gives education and recent roles."
+        },
+        {
+          "url": "https://companies.rbc.ru/id/1037739204128-ooo-grif-vityaz-d/",
+          "title": "companies.rbc.ru: ООО \"Гриф-Витязь Д\" (ООО \"ГВД\"), ИНН 7743005160",
+          "fact": "Confirms the specific legal entity where Глазов served as liquidator in 2022 (full name ООО \"Гриф-Витязь Д\", Khimki-registered, OKVED 69.10 legal activities, liquidated 13.12.2024); used to classify this professional_experience entry by GICS without mixing it up with unrelated same-named \"ООО ГВД\" entities."
+        }
+      ],
+      "notes": "Older prospectus committee information was not used as 2024 committee status because the 2024 annual report does not list him in committees. Round 2 confirmed the specific \"ООО ГВД\" legal entity (ООО \"Гриф-Витязь Д\", legal services, Khimki) to classify that professional_experience entry by GICS, added qualification_degree and GICS to all entries, and normalized the education institution name; no biographical facts were changed."
+    },
+    {
+      "name": "Золотарева Светлана Сергеевна",
+      "current_role": "Независимый директор ПАО \"ЭЙЧ ЭФ ДЖИ\"; член Комитета по аудиту и рискам; член Комитета по вознаграждениям и номинациям на 31.12.2024",
+      "company_name": "ПАО \"ЭЙЧ ЭФ ДЖИ\" / ПАО ХЭНДЕРСОН ФЭШН ГРУПП",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ЭЙЧ ЭФ ДЖИ\"",
+          "role": "Независимый директор; член Комитета по аудиту и рискам; член Комитета по вознаграждениям и номинациям",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Годовой отчет 2024 подтверждает статус в составе Совета директоров на 31.12.2024.",
+          "source": "MOEXBMI_Отчеты_2024/HNFG/Годовой отчет 2024.pdf",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Specialty Retail"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 255 lists Золотарева Светлана Сергеевна as HNFG board member."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/HNFG/Годовой отчет 2024.pdf",
+          "title": "HENDERSON. Годовой отчет 2024",
+          "fact": "Page 88 lists Светлана Золотарева as independent director and member of both Board committees."
+        }
+      ],
+      "notes": "Education and prior professional experience were not included because possible banking, academic, agricultural and psychology profiles did not provide a direct HNFG-linked identity match. Financial report p. 13 omits her from directors, while annual report p. 88 includes her in the Board at 31.12.2024; annual report was used for target-year role. Round 2 ran a second, differently-angled search pass (EGM election materials, IR site sitemap, fresh namesake sweep) and still found no HNFG-linked biography; education and pre-2024 career remain null. GICS added to the one confirmed professional_experience entry (HNFG board seat)."
+    },
+    {
+      "name": "Киреев Михаил Сергеевич",
+      "current_role": "Независимый директор ПАО \"ЭЙЧ ЭФ ДЖИ\"; член Комитета по аудиту и рискам; член Комитета по вознаграждениям и номинациям на 31.12.2024",
+      "company_name": "ПАО \"ЭЙЧ ЭФ ДЖИ\" / ПАО ХЭНДЕРСОН ФЭШН ГРУПП",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ЭЙЧ ЭФ ДЖИ\"",
+          "role": "Независимый директор; член Комитета по аудиту и рискам; член Комитета по вознаграждениям и номинациям",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Годовой отчет 2024 подтверждает статус в составе Совета директоров на 31.12.2024.",
+          "source": "MOEXBMI_Отчеты_2024/HNFG/Годовой отчет 2024.pdf",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Specialty Retail"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 256 lists Киреев Михаил Сергеевич as HNFG board member."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/HNFG/Годовой отчет 2024.pdf",
+          "title": "HENDERSON. Годовой отчет 2024",
+          "fact": "Page 88 lists Михаил Киреев as independent director and member of both Board committees."
+        }
+      ],
+      "notes": "Education and prior professional experience were not included because a possible Moscow Exchange/RDIF profile with the same full name lacked a direct HNFG linkage; unrelated service-provider namesakes were rejected. Financial report p. 13 omits him from directors, while annual report p. 88 includes him in the Board at 31.12.2024. Round 2 found a new lead: a Bloomberg entity profile explicitly tags \"Mikhail S Kireev\" as \"Board Member at Henderson Fashion Group PJSC\", plausibly the same RFPI/HSE-profile person already found (and rejected for lack of linkage) in round 1. The full Bloomberg profile page could not be read (HTTP 403) and no second corroborating source was found, so this was not carried into education/professional_experience as a confirmed fact - logged in research_notes as an open lead for a future round. GICS added to the one confirmed professional_experience entry (HNFG board seat)."
+    },
+    {
+      "name": "Коршунова Анна Сергеевна",
+      "current_role": "Неисполнительный директор ПАО \"ЭЙЧ ЭФ ДЖИ\" на 31.12.2024",
+      "company_name": "ПАО \"ЭЙЧ ЭФ ДЖИ\" / ПАО ХЭНДЕРСОН ФЭШН ГРУПП",
+      "education": [
+        {
+          "institution": "Международный институт экономики и права",
+          "year": null,
+          "program_or_specialty": "Финансы и кредит",
+          "qualification": "Экономист",
+          "source": "https://data.cbonds.info/stock_documents/176457/1192-efae80eef01cab9132a4239edecdccce.pdf",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ООО ТАМИ И КО",
+          "role": "Главный бухгалтер",
+          "start_year": 2020,
+          "end_year": 2021,
+          "description": "Проспект ценных бумаг указывает эту должность за 2020-2021 годы.",
+          "source": "https://data.cbonds.info/stock_documents/176457/1192-efae80eef01cab9132a4239edecdccce.pdf",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Specialty Retail"
+        },
+        {
+          "organization": "ООО ТАМИ И КО",
+          "role": "Заместитель финансового директора по учету и отчетности",
+          "start_year": 2020,
+          "end_year": 2021,
+          "description": "Проспект ценных бумаг указывает эту должность за 2020-2021 годы.",
+          "source": "https://data.cbonds.info/stock_documents/176457/1192-efae80eef01cab9132a4239edecdccce.pdf",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Specialty Retail"
+        },
+        {
+          "organization": "ООО ТАМИ И КО",
+          "role": "Финансовый директор",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Проспект ценных бумаг указывает должность с 2021 года.",
+          "source": "https://data.cbonds.info/stock_documents/176457/1192-efae80eef01cab9132a4239edecdccce.pdf",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Specialty Retail"
+        },
+        {
+          "organization": "ПАО \"ЭЙЧ ЭФ ДЖИ\"",
+          "role": "Член Совета директоров",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Проспект указывает членство с 2022 года; годовой отчет 2024 подтверждает статус неисполнительного директора.",
+          "source": "MOEXBMI_Отчеты_2024/HNFG/Годовой отчет 2024.pdf",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Specialty Retail"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 257 lists Коршунова Анна Сергеевна as HNFG board member."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/HNFG/Годовой отчет 2024.pdf",
+          "title": "HENDERSON. Годовой отчет 2024",
+          "fact": "Page 88 lists Анна Коршунова as non-executive director."
+        },
+        {
+          "url": "https://data.cbonds.info/stock_documents/176457/1192-efae80eef01cab9132a4239edecdccce.pdf",
+          "title": "ПАО ЭЙЧ ЭФ ДЖИ. Проспект ценных бумаг",
+          "fact": "Pages 66-67 give education and TAMI/HNFG roles."
+        }
+      ],
+      "notes": "Financial report p. 13 omits her from the directors list, while annual report p. 88 includes her in the Board at 31.12.2024; annual report was used for target-year role. Round 2 added GICS classification and qualification_degree (\"Specialist degree\") to all entries; institution was already canonical."
+    },
+    {
+      "name": "Мороз Александр Евгеньевич",
+      "current_role": "Неисполнительный директор ПАО \"ЭЙЧ ЭФ ДЖИ\" на 31.12.2024",
+      "company_name": "ПАО \"ЭЙЧ ЭФ ДЖИ\" / ПАО ХЭНДЕРСОН ФЭШН ГРУПП",
+      "education": [
+        {
+          "institution": "Uniwersytet Gdański",
+          "year": null,
+          "program_or_specialty": "Внешняя торговля",
+          "qualification": "Экономист",
+          "source": "https://data.cbonds.info/stock_documents/176457/1192-efae80eef01cab9132a4239edecdccce.pdf",
+          "qualification_degree": "Master's degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ЭЙЧ ЭФ ДЖИ\"",
+          "role": "Член Совета директоров",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Проспект указывает членство с 2023 года; годовой отчет 2024 подтверждает статус неисполнительного директора.",
+          "source": "MOEXBMI_Отчеты_2024/HNFG/Годовой отчет 2024.pdf",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Specialty Retail"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 259 lists Мороз Александр Евгеньевич as HNFG board member."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/HNFG/Годовой отчет 2024.pdf",
+          "title": "HENDERSON. Годовой отчет 2024",
+          "fact": "Page 88 lists Александр Мороз as non-executive director."
+        },
+        {
+          "url": "https://data.cbonds.info/stock_documents/176457/1192-efae80eef01cab9132a4239edecdccce.pdf",
+          "title": "ПАО ЭЙЧ ЭФ ДЖИ. Проспект ценных бумаг",
+          "fact": "Page 69 gives education and HNFG board role."
+        }
+      ],
+      "notes": "Prior career before HNFG board membership was not confirmed in reliable opened sources. Round 2 ran a Poland/foreign-trade-angled search pass; found only unrelated namesakes (small-business directors/entrepreneurs), none linked to Gdansk University or Henderson. Gap remains open. GICS and qualification_degree (\"Master's degree\", Polish pre-Bologna magister-equivalent) added; institution normalized to \"Uniwersytet Gdański\"."
+    },
+    {
+      "name": "Нахапетян Гор Борисович",
+      "current_role": "Независимый директор ПАО \"ЭЙЧ ЭФ ДЖИ\"; председатель Комитета по вознаграждениям и номинациям; член Комитета по аудиту и рискам на 31.12.2024",
+      "company_name": "ПАО \"ЭЙЧ ЭФ ДЖИ\" / ПАО ХЭНДЕРСОН ФЭШН ГРУПП",
+      "education": [
+        {
+          "institution": "Ереванский государственный университет",
+          "year": 1991,
+          "program_or_specialty": "Прикладная математика",
+          "qualification": "Математик",
+          "source": "https://www.skolkovo.ru/professors/gor-nakhapetyan/",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "American University of Armenia",
+          "year": 1992,
+          "program_or_specialty": "Полуторагодичные курсы делового менеджмента",
+          "qualification": null,
+          "source": "https://www.skolkovo.ru/professors/gor-nakhapetyan/",
+          "qualification_degree": "Executive education"
+        },
+        {
+          "institution": "INSEAD",
+          "year": 2008,
+          "program_or_specialty": "Курс обучения в бизнес-школе",
+          "qualification": null,
+          "source": "https://www.skolkovo.ru/professors/gor-nakhapetyan/",
+          "qualification_degree": "Executive education"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Диалог Банк",
+          "role": "Сотрудник финансового рынка",
+          "start_year": 1992,
+          "end_year": 1993,
+          "description": "Skolkovo biography states he began his career at Dialog Bank in 1992 and participated in first trades on the newly opened MICEX.",
+          "source": "https://www.skolkovo.ru/professors/gor-nakhapetyan/",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "Тройка Диалог",
+          "role": "Участник создания компании; руководитель back-office and special projects; head of asset-management project",
+          "start_year": 1993,
+          "end_year": null,
+          "description": "Skolkovo and FAST profiles state he joined Troika Dialog in 1993 and created/led projects including Troika Dialog Asset Management in 1996.",
+          "source": "https://fast.foundation/en/staff/491",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "ОАО \"Росгосстрах\"",
+          "role": "Участник проекта приобретения и реструктуризации; vice-president role noted by FAST",
+          "start_year": 2001,
+          "end_year": 2003,
+          "description": "Skolkovo and FAST profiles describe participation in Rosgosstrakh acquisition/restructuring.",
+          "source": "https://www.skolkovo.ru/professors/gor-nakhapetyan/",
+          "sector": "Financials",
+          "industry_group": "Insurance",
+          "industry": "Insurance"
+        },
+        {
+          "organization": "Сбербанк",
+          "role": "Вице-президент",
+          "start_year": 2013,
+          "end_year": 2013,
+          "description": "Skolkovo biography states he was Sberbank Vice President from February to September 2013.",
+          "source": "https://www.skolkovo.ru/professors/gor-nakhapetyan/",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "Московская школа управления СКОЛКОВО",
+          "role": "Сооснователь; почетный профессор бизнес-практики; советник ректора",
+          "start_year": 2006,
+          "end_year": null,
+          "description": "Skolkovo biography and prospectus confirm long-term Skolkovo roles; prospectus lists adviser to rector from 2020.",
+          "source": "https://www.skolkovo.ru/professors/gor-nakhapetyan/",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Services",
+          "industry": "Diversified Consumer Services"
+        },
+        {
+          "organization": "ПАО \"ЭЙЧ ЭФ ДЖИ\"",
+          "role": "Член Совета директоров; независимый директор",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Prospectus lists HNFG board membership from 2023; annual report 2024 confirms independent director and committee roles.",
+          "source": "MOEXBMI_Отчеты_2024/HNFG/Годовой отчет 2024.pdf",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Specialty Retail"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 260 lists Нахапетян Гор Борисович as HNFG board member."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/HNFG/Годовой отчет 2024.pdf",
+          "title": "HENDERSON. Годовой отчет 2024",
+          "fact": "Page 88 lists Гор Нахапетян as independent director, chair of the remuneration/nomination committee and audit/risk committee member."
+        },
+        {
+          "url": "https://data.cbonds.info/stock_documents/176457/1192-efae80eef01cab9132a4239edecdccce.pdf",
+          "title": "ПАО ЭЙЧ ЭФ ДЖИ. Проспект ценных бумаг",
+          "fact": "Page 71 gives education and recent roles including Skolkovo, funds and HNFG board."
+        },
+        {
+          "url": "https://www.skolkovo.ru/professors/gor-nakhapetyan/",
+          "title": "Московская школа управления СКОЛКОВО: Гор Нахапетян",
+          "fact": "Official biography confirms education, Skolkovo role and career in Dialog Bank, Troika Dialog, Rosgosstrakh and Sberbank."
+        },
+        {
+          "url": "https://fast.foundation/en/staff/491",
+          "title": "Foundation for Armenian Science and Technology: Gor Nakhapetyan",
+          "fact": "Profile confirms Troika Dialog, Rosgosstrakh, Sberbank CIB and Skolkovo career anchors."
+        }
+      ],
+      "notes": "Skolkovo honorary professor/business-practice role was treated as professional/educational experience, not as academic research output. No scholarly publications, patents or h-index confirmed. Round 2 added GICS classification to all six professional_experience entries and qualification_degree to all three education entries (\"Specialist degree\" for the 1991 ЕрГУ diploma, \"Executive education\" for the two non-degree short business-management courses); normalized the Американский университет Армении institution name."
+    },
+    {
+      "name": "Рихтер Пауль",
+      "current_role": "Неисполнительный директор ПАО \"ЭЙЧ ЭФ ДЖИ\" на 31.12.2024",
+      "company_name": "ПАО \"ЭЙЧ ЭФ ДЖИ\" / ПАО ХЭНДЕРСОН ФЭШН ГРУПП",
+      "education": [
+        {
+          "institution": "Sales Management Academy, Vienna, Austria",
+          "year": null,
+          "program_or_specialty": "MBA",
+          "qualification": "Магистр делового администрирования (MBA)",
+          "source": "https://data.cbonds.info/stock_documents/176457/1192-efae80eef01cab9132a4239edecdccce.pdf",
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ООО ТАМИ И КО",
+          "role": "Руководитель / директор департамента продаж",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "Проспект ценных бумаг указывает должность с 2020 года.",
+          "source": "https://data.cbonds.info/stock_documents/176457/1192-efae80eef01cab9132a4239edecdccce.pdf",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Specialty Retail"
+        },
+        {
+          "organization": "ПАО \"ЭЙЧ ЭФ ДЖИ\"",
+          "role": "Член Совета директоров",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Проспект указывает членство с 2023 года; годовой отчет 2024 подтверждает статус неисполнительного директора.",
+          "source": "MOEXBMI_Отчеты_2024/HNFG/Годовой отчет 2024.pdf",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Specialty Retail"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 261 lists Рихтер Пауль as HNFG board member."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/HNFG/Годовой отчет 2024.pdf",
+          "title": "HENDERSON. Годовой отчет 2024",
+          "fact": "Page 88 lists Пауль Рихтер as non-executive director."
+        },
+        {
+          "url": "https://data.cbonds.info/stock_documents/176457/1192-efae80eef01cab9132a4239edecdccce.pdf",
+          "title": "ПАО ЭЙЧ ЭФ ДЖИ. Проспект ценных бумаг",
+          "fact": "Pages 67-68 give education and TAMI/HNFG roles."
+        }
+      ],
+      "notes": "Actor Paul Richter and other foreign namesakes were rejected. No scholarly publications, patents or h-index confirmed. Round 2 added GICS classification and qualification_degree (\"MBA\", direct match), and normalized the education institution name."
+    },
+    {
+      "name": "Саркисян Акоп Гургенович",
+      "current_role": "Независимый директор ПАО \"ЭЙЧ ЭФ ДЖИ\"; председатель Комитета по аудиту и рискам; член Комитета по вознаграждениям и номинациям на 31.12.2024",
+      "company_name": "ПАО \"ЭЙЧ ЭФ ДЖИ\" / ПАО ХЭНДЕРСОН ФЭШН ГРУПП",
+      "education": [
+        {
+          "institution": "Национальный политехнический университет Армении",
+          "year": null,
+          "program_or_specialty": "Промышленное и гражданское строительство",
+          "qualification": "Инженер-строитель",
+          "source": "https://data.cbonds.info/stock_documents/176457/1192-efae80eef01cab9132a4239edecdccce.pdf",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ООО \"Эрнст энд Янг\"",
+          "role": "Партнер и руководитель отдела консультационных услуг по сделкам в СНГ",
+          "start_year": null,
+          "end_year": 2008,
+          "description": "Статья РИА Новости от 29.07.2008 называет Акопа Саркисяна партнером и руководителем отдела консультационных услуг по сделкам в СНГ компании \"Эрнст энд Янг\" и сообщает о присвоении ему квалификации ASA (American Society of Appraisers) по направлению 'Appraisal Review and Management'; точный год начала этой роли источник не называет, поэтому start_year не указан, а 2008 зафиксирован как end_year/подтвержденная дата на момент публикации.",
+          "source": "https://ria.ru/20080729/115142739.html",
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "ООО \"Эрнст энд Янг\"",
+          "role": "Старший советник управляющего партнера по странам СНГ",
+          "start_year": 2020,
+          "end_year": 2022,
+          "description": "Проспект ценных бумаг указывает эту должность за 2020-2022 годы.",
+          "source": "https://data.cbonds.info/stock_documents/176457/1192-efae80eef01cab9132a4239edecdccce.pdf",
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "АО \"Южуралзолото Группа Компаний\"",
+          "role": "Член Совета директоров",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Проспект ценных бумаг указывает эту должность с 2023 года.",
+          "source": "https://data.cbonds.info/stock_documents/176457/1192-efae80eef01cab9132a4239edecdccce.pdf",
+          "sector": "Materials",
+          "industry_group": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "organization": "ПАО \"ЭЙЧ ЭФ ДЖИ\"",
+          "role": "Член Совета директоров; независимый директор",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Проспект указывает членство с 2023 года; годовой отчет 2024 подтверждает независимый статус and committee roles.",
+          "source": "MOEXBMI_Отчеты_2024/HNFG/Годовой отчет 2024.pdf",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Specialty Retail"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 262 lists Саркисян Акоп Гургенович as HNFG board member."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/HNFG/Годовой отчет 2024.pdf",
+          "title": "HENDERSON. Годовой отчет 2024",
+          "fact": "Page 88 lists Акоп Саркисян as independent director, audit/risk committee chair and remuneration/nomination committee member."
+        },
+        {
+          "url": "https://data.cbonds.info/stock_documents/176457/1192-efae80eef01cab9132a4239edecdccce.pdf",
+          "title": "ПАО ЭЙЧ ЭФ ДЖИ. Проспект ценных бумаг",
+          "fact": "Pages 70-71 give education, EY role, UGC board role and HNFG board role."
+        },
+        {
+          "url": "https://ria.ru/20080729/115142739.html",
+          "title": "РИА Новости, 29.07.2008",
+          "fact": "Confirms he was Partner and Head of Transaction Advisory Services for the CIS at Ernst & Young as of 29.07.2008, quoted alongside EY CIS managing partner Karl Johansson."
+        }
+      ],
+      "notes": "Potential academic-history claims from weaker biographical pages were not used. Historical/military and S8 Capital namesakes were rejected. Quality pass round 1 (2026-07-30): added a pre-2020 EY partner role (2008, RIA Novosti) that round 2's notes had confirmed and sourced but which was missing from this file; corrected a GICS-label swap between the ЮГК and HNFG entries (ЮГК was mislabeled Professional Services and HNFG was mislabeled Metals & Mining -- values were swapped back to the correct organization). A further lead -- that raexpert.ru/registry aggregation suggests he may also have served as general director of the EY valuation-consulting subsidiary ООО \"Эрнст энд Янг - Стоимостное консультирование\" (INN 7709357821, now inactive) -- could not be corroborated with dates or a second source this round and was not added; logged for a future round."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/HNFG/Годовой отчет 2024.pdf",
+      "title": "HENDERSON. Годовой отчет 2024",
+      "fact": "Pages 86-89 state that the current Board elected 27.09.2024 had 11 members at 31.12.2024 and list Арутюнян, Адамян, Глазов, Золотарева, Киреев, Коршунова, Мелконян, Мороз, Нахапетян, Рихтер and Саркисян with director statuses."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/HNFG/Годовой отчет 2024.pdf",
+      "title": "HENDERSON. Годовой отчет 2024",
+      "fact": "Page 90 states that Генеральным директором Компании с 15.07.2022 является Мелконян Гагик Аршавирович."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/HNFG/Годовая отчетность ПАО ЭЙЧ ЭФ ДЖИ за 2024 год.pdf",
+      "title": "ПАО ХЭНДЕРСОН ФЭШН ГРУПП. Консолидированная финансовая отчетность 2024",
+      "fact": "Page 13 lists directors and management at approval date; it confirms many CSV people but omits Коршунова, Золотарева and Киреев, which is noted as a discrepancy against the annual report's 31.12.2024 board list."
+    },
+    {
+      "url": "https://ir.henderson.ru/governance-structure",
+      "title": "HENDERSON IR: Система управления",
+      "fact": "Official IR page states the Board consists of eleven directors, four of whom are independent."
+    },
+    {
+      "url": "https://ir.henderson.ru/committees",
+      "title": "HENDERSON IR: Комитеты",
+      "fact": "Official IR page states the audit/risk committee and remuneration/nomination committee each consist of four independent Board members."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "Rows 252-262 provide the HNFG input people list."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/HNFG/Годовой отчет 2024.pdf",
+      "title": "HENDERSON. Годовой отчет 2024",
+      "fact": "Primary local source for 2024 Board composition, director status, committees and CEO status."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/HNFG/Годовая отчетность ПАО ЭЙЧ ЭФ ДЖИ за 2024 год.pdf",
+      "title": "ПАО ХЭНДЕРСОН ФЭШН ГРУПП. Консолидированная финансовая отчетность 2024",
+      "fact": "Local financial reporting source used for shareholder, control and management confirmations and for noting a directors-list discrepancy."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/HNFG/Приложения к ГО/Henderson ГО 2024 отчет ККУ 2024.docx",
+      "title": "Отчет о соблюдении принципов и рекомендаций Кодекса корпоративного управления",
+      "fact": "Local DOCX checked; no personal biographies found, but it states that biographical data of board candidates were provided for shareholder meetings."
+    },
+    {
+      "url": "https://data.cbonds.info/stock_documents/176457/1192-efae80eef01cab9132a4239edecdccce.pdf",
+      "title": "ПАО ЭЙЧ ЭФ ДЖИ. Проспект ценных бумаг",
+      "fact": "Disclosure source used for education and recent roles for Adamyan, Glazov, Korshunova, Melkonyan, Moroz, Nakhapetyan, Richter and Sarkisyan."
+    },
+    {
+      "url": "https://deloros.ru/litsa/arutyunyan-ruben-albertovich/",
+      "title": "Деловая Россия: Арутюнян Рубен Альбертович",
+      "fact": "Professional association profile used for Ruben Arutyunyan education and career."
+    },
+    {
+      "url": "https://www.skolkovo.ru/professors/gor-nakhapetyan/",
+      "title": "Московская школа управления СКОЛКОВО: Гор Нахапетян",
+      "fact": "Official Skolkovo biography used for Gor Nakhapetyan education and career."
+    },
+    {
+      "url": "https://fast.foundation/en/staff/491",
+      "title": "Foundation for Armenian Science and Technology: Gor Nakhapetyan",
+      "fact": "Auxiliary source for Gor Nakhapetyan career chain."
+    }
+  ],
+  "validation_notes": "Processed 11 people from HNFG CSV rows 252-262. Checked 3 local HNFG documents: annual report PDF, annual financial statements PDF, and corporate-governance-code DOCX. Research rounds completed: 11 person-rounds, with two web-search passes for people whose official/local biography was incomplete. Education was not confirmed for Золотарева Светлана Сергеевна and Киреев Михаил Сергеевич; their possible external finance-sector profiles were treated as weak/unlinked and excluded from PersonInfo facts. Weak but identity-linked source used: Cbonds-hosted securities prospectus mirror for older formal disclosure data. Main local conflict: the financial statements directors list omits Коршунова, Золотарева and Киреев, while the annual report explicitly lists all three in the Board at 31.12.2024; annual report was used for target-year board composition. Excluded namesakes: Armenian political/military Гагик Мелконян, actor Paul Richter, service-provider Киреев Михаил Сергеевич, several non-HNFG Svetlana Zolotareva profiles, historical Akop Sarkisyan and S8 Capital Armen Sarkisyan. Search is considered complete because all local HNFG files were checked, official IR and disclosure sources were reviewed, education/career searches and namesake checks were performed, and unsupported facts were left empty rather than inferred. ROUND 2 (2026-07-19, targeted gap-filling pass + GICS + qualification_degree + institution normalization, per the four-part task for this ticker): (1) GICS classification added: sector/industry_group/industry added at company level (Consumer Discretionary / Consumer Discretionary Distribution & Retail (New Name) / Specialty Retail - Henderson is a men's-fashion specialty retail chain, classified by its own retail business rather than any manufacturing/luxury-brand angle) and to every professional_experience entry for all 11 people (CEO + 10 TMT), copied verbatim from gics_taxonomy.json and programmatically verified as exact matches against that file (no invented categories). Two entries required identity-first research before classification could be assigned rather than defaulting to null: Арутюнян's 1989-1990 \"СКБ 'Гранит'\" role (confirmed via russia-armenia.info as a Soviet defense-industry space-instrument design bureau -> Industrials / Capital Goods / Aerospace & Defense) and Глазов's 2022 \"ООО ГВД\" role (confirmed via companies.rbc.ru, matching the specific Khimki-registered entity ООО \"Гриф-Витязь Д\", INN 7743005160, OKVED 69.10 legal activities -> Industrials / Commercial & Professional Services / Professional Services - this generic 3-letter company name required the extra identity-confirmation step to avoid classifying the wrong \"ООО ГВД\"). (2) qualification_degree added to every education[] entry across all 11 people, using only the 10 allowed values; reasoning documented per person in research_notes/HNFG/*_round_2.md - mainly \"Specialist degree\" for Soviet/Russian pre-Bologna 5-year \"инженер-\"/\"экономист-\"/\"юрист\"-type engineering, economics and law diplomas (Мелконян, Адамян, Арутюнян education[0], Глазов, Коршунова, Саркисян, Нахапетян education[0]), \"MBA\" for direct MBA matches (Арутюнян education[1], Рихтер), \"Master's degree\" for Мороз's pre-Bologna Polish \"magister\" from Uniwersytet Gdanski (structurally different from the Soviet specialist-diploma system, so reasoned separately), and \"Executive education\" for Нахапетян's two short non-degree business courses (Американский университет Армении 1992, INSEAD 2008). No degrees[] entries exist in this file for any person (all empty), so nothing to add there. Золотарева and Киреев have no education[] entries (see below), so nothing to classify for them either. (3) institution normalization: every non-null institution string in this file already matched an existing synonym or canonical key in university_names.json - normalized to the canonical key in each case: \"ЕрПИ\"/\"Ереванский политехнический институт\"/\"Ереванский политехнический институт им. К. Маркса\" (Арутюнян, Адамян, Саркисян) all -> \"Национальный политехнический университет Армении\"; Глазов's long \"ГОУ ВПО...\" name -> \"Финансовый университет при Правительстве Российской Федерации\"; Мороз's \"Гданьский университет\" -> \"Uniwersytet Gdanski\"; Рихтер's \"Академия управления продажами, Вена, Австрия\" -> \"Sales Management Academy, Vienna, Austria\"; Нахапетян's \"Американский университет Армении\" -> \"American University of Armenia\"; \"Международный институт экономики и права\" (Коршунова), \"Ереванский государственный университет\" and \"INSEAD\" (Нахапетян) were already exact canonical keys. No institution not yet listed in university_names.json was encountered this round, so new_institutions_found remains an empty list for this ticker. (4) Targeted gap-filling results: Мелконян's CEO education institution (previously null) is now confirmed as \"Ереванский политехнический институт\" (-> canonical \"Национальный политехнический университет Армении\") by re-reading the same cbonds prospectus already used in round 1 in full - round 1 had only captured the incomplete duplicate listing under the \"Генеральный директор\" heading (p. 72, institution omitted) and missed the fuller \"Совет директоров\" listing for the same person a few pages earlier (p. 65, institution present). Саркисян's flagged pre-2020 career gap is partially closed with a dated 2008 RIA Novosti confirmation of an earlier partner-level Ernst & Young role, added as a new professional_experience entry (start_year left null since the source does not give it, per \"do not silently invent dates\"). Золотарева and Киреев's education/pre-2024-career gaps remain open after a second, differently-angled search pass each (EGM election-materials documents, HNFG IR-site sitemap, fresh namesake sweeps); for Киреев a new Bloomberg entity-profile lead directly tags a \"Mikhail S Kireev\" as \"Board Member at Henderson Fashion Group PJSC\", plausibly the same RFPI/HSE-profile person already found and rejected in round 1 for lacking linkage, but the full Bloomberg page could not be read (HTTP 403) and no second corroborating source was found, so per \"prefer null over an unverified guess\" this was not committed to the JSON - it is logged in research_notes/HNFG/Киреев Михаил Сергеевич_round_2.md as an open lead for a future round instead. Мороз's pre-2023 career gap also remains open after a Poland/foreign-trade-angled search pass that surfaced only unrelated namesakes. Education \"year\" gaps for Адамян, Глазов, Коршунова, Мороз, Рихтер and Саркисян were reconfirmed as a structural absence in the only available source (the securities prospectus gives birth year but never graduation year for any director) rather than an under-search - left as null. (5) Tooling note: the general WebSearch tool had exhausted its session-level quota (200/200) before this round began; all web research this round used direct WebFetch calls against Yandex search-result pages (Bing and DuckDuckGo either served irrelevant/localized cached content or a bot-detection CAPTCHA), plus direct pdfplumber parsing of PDFs that WebFetch's own text extraction could not read (WebFetch caches downloaded binary PDFs locally; those cached files were located and parsed with pdfplumber directly instead of relying on WebFetch's built-in text summarization, which fails on compressed PDF streams). No previously confirmed fact was deleted or overwritten this round; all changes are additive (new fields) or explicitly documented corrections of an incomplete round-1 extraction (Мелконян's institution). MASS DATA-LOSS REPAIR (2026-07-30): restored 9 shortened person notes, 1 shortened experience descriptions, 0 shortened education descriptions, 2 missing person-level sources, and 0 missing experience-level sources using git HEAD (commit 03bfe9f, 2026-07-20) as the reliable baseline. Nothing else in this file was touched.",
+  "sector": "Consumer Discretionary",
+  "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+  "industry": "Specialty Retail"
+}

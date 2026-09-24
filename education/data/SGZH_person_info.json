@@ -1,0 +1,1846 @@
+{
+    "company_name":  "ПАО ГК \"Сегежа\"",
+    "company_ticker":  "SGZH",
+    "ceo":  {
+                "name":  "Александр Михайлович Крещенко",
+                "current_role":  "Президент, Председатель Правления ПАО \"Сегежа Групп\"; назначен Президентом Segezha Group 25 июня 2024 года",
+                "company_name":  "ПАО ГК \"Сегежа\"",
+                "education":  [
+                                  {
+                                      "program":  "высшее образование",
+                                      "university":  "Московский государственный технический университет имени Н.Э. Баумана",
+                                      "field":  null,
+                                      "year":  1994,
+                                      "sources":  [
+                                                      {
+                                                          "url":  "https://neftegaz.ru/persons/333479-kreshchenko-aleksandr/",
+                                                          "title":  "Нефтегаз.РУ: Крещенко Александр Михайлович",
+                                                          "fact":  "ЗАПОЛНЕНО в раунде quality_pass_round1_20260801 (honest-gap follow-up, свежий запрос не пересекается с ранее исчерпанными в research_notes): найдено через поисковый сниппет DuckDuckGo HTML по странице neftegaz.ru — «родился в 1971 году. В 1994 году окончил Московский государственный технический университет им. Н.Э. Баумана». ПРЯМОЙ фетч самой страницы neftegaz.ru не удался в этой сессии (ошибка SSL-сертификата, \"unable to verify the first certificate\"); факт взят из текста поискового сниппета, а не из напрямую открытой страницы — помечено как источник среднего доверия, требующий независимой перепроверки в будущем раунде."
+                                                      }
+                                                  ],
+                                      "qualification_degree":  null
+                                  },
+                                  {
+                                      "program":  "высшее образование",
+                                      "university":  "Московский университет потребительской кооперации",
+                                      "field":  null,
+                                      "year":  1997,
+                                      "sources":  [
+                                                      {
+                                                          "url":  "https://neftegaz.ru/persons/333479-kreshchenko-aleksandr/",
+                                                          "title":  "Нефтегаз.РУ: Крещенко Александр Михайлович",
+                                                          "fact":  "Тот же поисковый сниппет: «в 1997 году - Московский университет потребительской кооперации». Тот же caveat: прямой фетч страницы не удался (SSL), факт из сниппета поиска."
+                                                      }
+                                                  ],
+                                      "qualification_degree":  null
+                                  }
+                              ],
+                "degrees":  [
+
+                            ],
+                "professional_experience":  [
+                                                {
+                                                    "organization":  "ПАО \"Сегежа Групп\"",
+                                                    "role":  "Президент, Председатель Правления",
+                                                    "start_year":  2024,
+                                                    "end_year":  null,
+                                                    "description":  "Годовой отчет 2024 указывает назначение Александра Михайловича Крещенко Президентом Segezha Group 25 июня 2024 года; раздел о Президенте указывает, что Президент возглавляет Правление.",
+                                                    "sources":  [
+                                                                    {
+                                                                        "url":  "MOEXBMI_Отчеты_2024/SGZH/Segezha Group Годовой отчет 2024_disclosure.pdf",
+                                                                        "title":  "Segezha Group Годовой отчет 2024",
+                                                                        "fact":  "Страница 190: 25 июня 2024 года Президентом Segezha Group назначен Александр Михайлович Крещенко; страница 214: Президент возглавляет Правление."
+                                                                    },
+                                                                    {
+                                                                        "url":  "MOEXBMI_Отчеты_2024/SGZH/Segezha_IFRS_Cons_SP_FS_24-rus_signed.pdf",
+                                                                        "title":  "Консолидированная финансовая отчетность специального назначения за 2024 год",
+                                                                        "fact":  "Страницы 6-7: отчетность подписана Крещенко Александром Михайловичем как Президентом."
+                                                                    }
+                                                                ],
+                                                    "sector":  "Materials",
+                                                    "industry_group":  "Materials",
+                                                    "industry":  "Paper & Forest Products"
+                                                }
+                                            ],
+                "research_experience":  [
+
+                                        ],
+                "publications":  [
+
+                                 ],
+                "patents":  [
+
+                            ],
+                "h_index":  null,
+                "sources":  [
+                                {
+                                    "url":  "MOEXBMI_Отчеты_2024/SGZH/Segezha Group Годовой отчет 2024_disclosure.pdf",
+                                    "title":  "Segezha Group Годовой отчет 2024",
+                                    "fact":  "Страницы 190 и 214 подтверждают назначение Крещенко Президентом и связь должности Президента с руководством Правлением."
+                                },
+                                {
+                                    "url":  "https://fomag.ru/news-streem/shamolin-pereydet-s-dolzhnosti-glavy-segezha-group-na-post-predsedatelya-soveta-direktorov/",
+                                    "title":  "Fomag / ТАСС: Шамолин перейдет с должности главы Segezha Group на пост председателя совета директоров",
+                                    "fact":  "Новость сообщает, что Александр Крещенко назначен на пост главы компании вместо Михаила Шамолина; источник использован как независимое подтверждение кадрового перехода."
+                                }
+                            ],
+                "notes":  "Крещенко отсутствует в CSV SGZH, но включен в поле ceo, потому что локальные документы 2024 года первично подтверждают его как CEO-equivalent. HONEST-GAP FOLLOW-UP (раунд quality_pass_round1_20260801): свежий запрос через DuckDuckGo HTML (\"Крещенко Александр Михайлович\" Сегежа образование, ранее не пробовался в research_notes) нашел сниппет neftegaz.ru с образованием (МГТУ им. Баумана 1994, Московский университет потребительской кооперации 1997) — добавлено с caveat о среднем доверии (прямой фетч страницы не удался из-за SSL-ошибки; см. sources у полей education). Ранняя карьера (до 2024 назначения) по-прежнему не подтверждена надежным источником."
+            },
+    "tmt":  [
+                {
+                    "name":  "Mikhail Shamolin",
+                    "current_role":  "В 2024 году перестал быть главой Segezha Group; с 1 июля 2024 года должен был возглавить Совет директоров. CSV также содержит историческую роль Chief Executive Officer и Director/Board Member.",
+                    "company_name":  "ПАО ГК \"Сегежа\"",
+                    "education":  [
+                                      {
+                                          "program":  "высшее образование",
+                                          "university":  "Московский автомобильно-дорожный институт",
+                                          "field":  "автомобильные дороги и аэродромы",
+                                          "year":  1992,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.tadviser.ru/index.php/%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%3A%D0%A8%D0%B0%D0%BC%D0%BE%D0%BB%D0%B8%D0%BD_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87",
+                                                              "title":  "TAdviser: Шамолин Михаил Валерьевич",
+                                                              "fact":  "Профиль указывает образование в Московском автомобильно-дорожном институте; год в разных источниках требует дополнительной проверки. ИСПРАВЛЕНО в раунде quality_pass_round1_20260801: специальность «прикладная математика», ранее записанная в JSON со ссылкой на этот источник, не подтверждается ни этим источником, ни официальной биографией Совета директоров Segezha Group — правильная специальность «автомобильные дороги и аэродромы» (см. источник Segezha Group Annual Report 2020 ниже)."
+                                                          },
+                                                          {
+                                                              "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                              "title":  "Segezha Group Annual Report 2020 (Приложение 4. Биографии членов Правления Segezha Group, стр. 157, состав на 31.12.2020)",
+                                                              "fact":  "PDF успешно открыт и прочитан в этом раунде (ранее таймаут). Официальная биография Шамолина М.В. в разделе «Образование»: «Московский автомобильно-дорожный институт / Специальность – автомобильные дороги и аэродромы / Российская академия государственной службы при Президенте Российской Федерации / Wharton Business School (США), программа подготовки для высших руководителей в области финансов и управления». Специальность «прикладная математика», ранее записанная в этом поле JSON, не подтверждается этим первичным источником и отклонена как недостоверная (вероятно, ошибка индексирования / агрегатора). Годы окончания в этой таблице не указаны."
+                                                          },
+                                                          {
+                                                              "url":  "https://ru.wikipedia.org/wiki/Шамолин,_Михаил_Валерьевич",
+                                                              "title":  "Википедия: Шамолин, Михаил Валерьевич",
+                                                              "fact":  "Указывает год окончания МАДИ (Московского автомобильно-дорожного государственного технического университета) — 1992, и Российской академии государственной службы — 1993; согласуется по составу образования с официальной биографией Segezha Group Annual Report 2020."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "program":  "высшее образование",
+                                          "university":  "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+                                          "field":  null,
+                                          "year":  1993,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                              "title":  "Segezha Group Annual Report 2020 (Приложение 4. Биографии членов Правления Segezha Group, стр. 157, состав на 31.12.2020)",
+                                                              "fact":  "Официальная биография Шамолина М.В. в разделе «Образование» перечисляет «Российская академия государственной службы при Президенте Российской Федерации» отдельной строкой после МАДИ и перед Wharton Business School. ДОБАВЛЕНО в раунде quality_pass_round1_20260801: этот факт упоминался в research_notes/SGZH/Mikhail_Shamolin_round_1.md как ожидаемый («Российская академия государственного управления»), но отсутствовал в JSON; теперь подтвержден прямым чтением первичного источника."
+                                                          },
+                                                          {
+                                                              "url":  "https://ru.wikipedia.org/wiki/Шамолин,_Михаил_Валерьевич",
+                                                              "title":  "Википедия: Шамолин, Михаил Валерьевич",
+                                                              "fact":  "Указывает год окончания Российской академии государственной службы — 1993."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "program":  "finance and management program",
+                                          "university":  "Wharton Business School",
+                                          "field":  "finance and management",
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                              "title":  "Segezha Group Annual Report 2020",
+                                                              "fact":  "Индексированный текст старого годового отчета указывает обучение Finance and Management в Wharton Business School. ПОДТВЕРЖДЕНО в раунде quality_pass_round1_20260801 прямым чтением того же PDF (Приложение 4, стр. 157): «Wharton Business School (США), программа подготовки для высших руководителей в области финансов и управления»."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Сегежа Групп\"",
+                                                        "role":  "Президент / глава компании до 2024 кадрового перехода; член или председатель Совета директоров после перехода",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Локальный годовой отчет 2024 подтверждает, что 25 июня 2024 Президентом назначен Крещенко; новость ТАСС/Fomag сообщает, что Шамолин с 1 июля 2024 должен был перейти с должности главы компании на пост председателя совета директоров.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "MOEXBMI_Отчеты_2024/SGZH/Segezha Group Годовой отчет 2024_disclosure.pdf",
+                                                                            "title":  "Segezha Group Годовой отчет 2024",
+                                                                            "fact":  "Страница 190: 25 июня 2024 года Президентом Segezha Group назначен Александр Крещенко."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://fomag.ru/news-streem/shamolin-pereydet-s-dolzhnosti-glavy-segezha-group-na-post-predsedatelya-soveta-direktorov/",
+                                                                            "title":  "Fomag / ТАСС: Шамолин перейдет с должности главы Segezha Group на пост председателя совета директоров",
+                                                                            "fact":  "Новость сообщает, что Шамолин с 1 июля 2024 года должен был возглавить Совет директоров, а Александр Крещенко назначен главой компании."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Paper & Forest Products"
+                                                    },
+                                                    {
+                                                        "organization":  "АФК \"Система\", МТС, McKinsey и другие организации",
+                                                        "role":  "руководящие и консалтинговые роли до Segezha",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Публичные биографии связывают Шамолина с МТС, АФК \"Система\" и McKinsey; детализация требует прямой проверки старого первичного отчета. ДОПОЛНЕНО в раунде quality_pass_round1_20260801: полная погодовая детализация этих ролей теперь подтверждена прямым чтением Segezha Group Annual Report 2020 и добавлена отдельными записями ниже (McKinsey & Company, корпорация \"Интерпайп\", ОАО \"МТС\", ПАО АФК \"Система\"); эта сводная запись сохранена без изменений как есть.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.tadviser.ru/index.php/%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%3A%D0%A8%D0%B0%D0%BC%D0%BE%D0%BB%D0%B8%D0%BD_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87",
+                                                                            "title":  "TAdviser: Шамолин Михаил Валерьевич",
+                                                                            "fact":  "Профиль содержит карьерную биографию Шамолина."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "McKinsey & Company",
+                                                        "role":  "сотрудник международной консалтинговой компании",
+                                                        "start_year":  1998,
+                                                        "end_year":  2004,
+                                                        "description":  "Официальная биография Шамолина М.В. в Segezha Group Annual Report 2020 (Приложение 4, стр. 157) перечисляет 1998-2004 как период работы в McKinsey & Company.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                                            "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 157)",
+                                                                            "fact":  "«1998-2004 Международная консалтинговая компания McKinsey & Company»."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Industrials",
+                                                        "industry_group":  "Commercial & Professional Services",
+                                                        "industry":  "Professional Services"
+                                                    },
+                                                    {
+                                                        "organization":  "Корпорация \"Интерпайп\" (Украина)",
+                                                        "role":  "управляющий директор ферросплавного бизнеса",
+                                                        "start_year":  2004,
+                                                        "end_year":  2005,
+                                                        "description":  "Официальная биография Шамолина М.В. в Segezha Group Annual Report 2020 (Приложение 4, стр. 157-158) указывает 2004-2005 как период работы управляющим директором ферросплавного бизнеса корпорации \"Интерпайп\" (Украина).",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                                            "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 157-158)",
+                                                                            "fact":  "«2004-2005 Управляющий директор ферросплавного бизнеса корпорации «Интерпайп» (Украина)»."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Metals & Mining"
+                                                    },
+                                                    {
+                                                        "organization":  "ОАО \"МТС\"",
+                                                        "role":  "Президент ОАО \"МТС\"; вице-президент – директор бизнес-единицы \"МТС Россия\"; вице-президент по продажам и абонентскому обслуживанию",
+                                                        "start_year":  2005,
+                                                        "end_year":  2011,
+                                                        "description":  "Официальная биография Шамолина М.В. в Segezha Group Annual Report 2020 (Приложение 4, стр. 158) указывает 2005-2011 как период работы президентом ОАО \"МТС\" (ранее вице-президентом).",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                                            "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 158)",
+                                                                            "fact":  "«2005-2011 Президент ОАО «МТС»; вице-президент – директор бизнес-единицы «МТС Россия»; вице-президент по продажам и абонентскому обслуживанию»."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Telecommunication Services",
+                                                        "industry":  "Wireless Telecommunication Services"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО АФК \"Система\"",
+                                                        "role":  "Президент ПАО АФК \"Система\"",
+                                                        "start_year":  2011,
+                                                        "end_year":  2018,
+                                                        "description":  "Официальная биография Шамолина М.В. в Segezha Group Annual Report 2020 (Приложение 4, стр. 158) указывает 2011-2018 как период работы Президентом ПАО АФК \"Система\"; сектор GICS взят из top-level классификации тикера AFKS в этом же корпусе (output/AFKS_person_info.json), так как АФК \"Система\" сама является публичной компанией с определенной классификацией.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                                            "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 158)",
+                                                                            "fact":  "«2011-2018 Президент ПАО АФК «Система»»."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Financial Services (New Name)"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV содержит строки SGZH для Mikhail Shamolin: Chief Executive Officer и Director/Board Member."
+                                    },
+                                    {
+                                        "url":  "https://fomag.ru/news-streem/shamolin-pereydet-s-dolzhnosti-glavy-segezha-group-na-post-predsedatelya-soveta-direktorov/",
+                                        "title":  "Fomag / ТАСС",
+                                        "fact":  "Подтверждает кадровый переход 2024 года: Крещенко становится главой компании, Шамолин переходит к Совету директоров."
+                                    }
+                                ],
+                    "notes":  "Роль CEO из CSV является устаревшей для конца 2024 года. ОБНОВЛЕНО в раунде quality_pass_round1_20260801: образование и полная погодовая карьера (McKinsey, Интерпайп, МТС, АФК Система) подтверждены прямым чтением ранее недоступного Segezha Group Annual Report 2020 (Приложение 4, официальная биография Совета директоров, стр. 157-158) — PDF успешно открыт в этом раунде через Read-инструмент после скачивания. ГЕНУИННОЕ РАСХОЖДЕНИЕ разрешено: поле specialty образования МАДИ было ошибочно записано как «прикладная математика» (источник TAdviser/индексированный текст) — этот факт отклонен, так как не подтверждается ни TAdviser, ни официальной биографией; верная специальность — «автомобильные дороги и аэродромы». Также добавлена ранее отсутствовавшая запись об образовании в Российской академии государственной службы при Президенте РФ (упоминалась в research_notes как ожидаемая, но не была перенесена в JSON)."
+                },
+                {
+                    "name":  "Oksana Tikhonova",
+                    "current_role":  "Human Resources Officer по CSV; внешние профили связывают ее с ролью вице-президента по управлению персоналом Segezha Group",
+                    "company_name":  "ПАО ГК \"Сегежа\"",
+                    "education":  [
+                                      {
+                                          "program":  "высшее образование",
+                                          "university":  "Казанский (Приволжский) федеральный университет",
+                                          "field":  "юриспруденция",
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                              "title":  "Segezha Group Annual Report 2020 (Приложение 4. Биографии членов Правления Segezha Group, стр. 265-266, состав на 31.12.2020)",
+                                                              "fact":  "ЗАПОЛНЕНО в раунде quality_pass_round1_20260801 (honest-gap follow-up): официальная биография Тихоновой О.П. в разделе «Образование»: «Казанский государственный университет им. В.И. Ульянова-Ленина, специальность «юриспруденция»». PDF ранее был недоступен (таймаут скачивания); в этом раунде успешно открыт и прочитан через Read-инструмент."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "program":  "переквалификация",
+                                          "university":  "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+                                          "field":  "управление персоналом",
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                              "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 266)",
+                                                              "fact":  "«Российская академия государственной службы при Президенте РФ, специальность «управление персоналом» (переквалификация)»."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  "Professional certification"
+                                      },
+                                      {
+                                          "program":  "Executive-коучинг для развития руководителей, топ-команд и организаций",
+                                          "university":  "Московская школа управления «Сколково»",
+                                          "field":  null,
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                              "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 266)",
+                                                              "fact":  "«Московская школа управления Сколково. Executive-коучинг для развития руководителей, топ-команд и организаций»."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  "Executive education"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Сегежа Групп\"",
+                                                        "role":  "вице-президент по управлению персоналом / HR officer",
+                                                        "start_year":  2020,
+                                                        "end_year":  null,
+                                                        "description":  "Роль подтверждается CSV и вторичными профильными источниками; локальный годовой отчет 2024 не раскрывает ее имя. ДОПОЛНЕНО в раунде quality_pass_round1_20260801: официальная биография в Segezha Group Annual Report 2020 подтверждает «2020 — н.вр. Член Правления, Вице-президент по управлению персоналом ООО «УК «Сегежа групп»» и «2020 — н.вр. Член Правления АО «Сегежа Групп»»; start_year 2020 добавлен на основании этого источника.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "MOEXBMI_2024.csv",
+                                                                            "title":  "MOEXBMI_2024.csv",
+                                                                            "fact":  "CSV содержит строку SGZH для Oksana Tikhonova с позицией Human Resources Officer."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://globalmsk.ru/person/id/10657",
+                                                                            "title":  "GlobalMSK: Оксана Тихонова",
+                                                                            "fact":  "Профиль связывает Оксану Тихонову с Segezha Group и управлением персоналом."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                                            "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 266-267)",
+                                                                            "fact":  "«2020 — н.вр. Член Правления, Вице-президент по управлению персоналом ООО «УК «Сегежа Групп»»; «2020 — н.вр. Член Правления АО «Сегежа Групп»»."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Paper & Forest Products"
+                                                    },
+                                                    {
+                                                        "organization":  "ОАО \"Территориальная генерирующая компания № 6\"",
+                                                        "role":  "начальник управления",
+                                                        "start_year":  2005,
+                                                        "end_year":  2008,
+                                                        "description":  "Официальная биография Тихоновой О.П. в Segezha Group Annual Report 2020 (Приложение 4, стр. 266) указывает 2005-2008 как период работы начальником управления в ОАО «Территориальная генерирующая компания № 6» — российская электрогенерирующая компания.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                                            "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 266)",
+                                                                            "fact":  "«2005-2008 Начальник управления ОАО «Территориальная генерирующая компания № 6»»."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Utilities",
+                                                        "industry_group":  "Utilities",
+                                                        "industry":  "Electric Utilities"
+                                                    },
+                                                    {
+                                                        "organization":  "ООО \"ЕвроСибЭнерго\"",
+                                                        "role":  "директор по персоналу",
+                                                        "start_year":  2011,
+                                                        "end_year":  2017,
+                                                        "description":  "Официальная биография Тихоновой О.П. в Segezha Group Annual Report 2020 (Приложение 4, стр. 267) указывает 2011-2017 как период работы директором по персоналу в ООО «ЕвроСибЭнерго» — российская энергетическая компания.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                                            "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 267)",
+                                                                            "fact":  "«2011-2017 Директор по персоналу ООО «ЕвроСибЭнерго»»."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Utilities",
+                                                        "industry_group":  "Utilities",
+                                                        "industry":  "Electric Utilities"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Челябинский трубопрокатный завод\"",
+                                                        "role":  "директор по организационному развитию и персоналу",
+                                                        "start_year":  2018,
+                                                        "end_year":  2019,
+                                                        "description":  "Официальная биография Тихоновой О.П. в Segezha Group Annual Report 2020 (Приложение 4, стр. 267) указывает 2018-2019 как период работы директором по организационному развитию и персоналу в ПАО «Челябинский трубопрокатный завод» — крупный российский производитель труб (металлопрокат).",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                                            "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 267)",
+                                                                            "fact":  "«2018-2019 Директор по организационному развитию и персоналу ПАО «Челябинский трубопрокатный завод»»."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Metals & Mining"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV содержит Oksana Tikhonova как Human Resources Officer."
+                                    },
+                                    {
+                                        "url":  "https://globalmsk.ru/person/id/10657",
+                                        "title":  "GlobalMSK: Оксана Тихонова",
+                                        "fact":  "Вторичный профиль указывает связь с Segezha Group и HR-функцией."
+                                    },
+                                    {
+                                        "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                        "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 265-267)",
+                                        "fact":  "Официальная биография члена Правления Segezha Group Тихоновой Оксаны Петровны (год рождения 1976): образование, полная погодовая карьера 2003-2020."
+                                    }
+                                ],
+                    "notes":  "Текущий 2024 статус не назван в локальном годовом отчете 2024 года (анонимизирован). ОБНОВЛЕНО в раунде quality_pass_round1_20260801 (honest-gap follow-up): образование и полная карьера 2003-2020 найдены прямым чтением ранее недоступного Segezha Group Annual Report 2020 (Приложение 4, стр. 265-267) — PDF успешно открыт в этом раунде после скачивания через WebFetch и прочитан через Read-инструмент; ранее фиксировалось «подтвержденной информации об образовании не найдено», это больше не так."
+                },
+                {
+                    "name":  "Anastasia Anatolyevna Poletaeva",
+                    "current_role":  "Investor Relations Contact; Public Communications Contact по CSV",
+                    "company_name":  "ПАО ГК \"Сегежа\"",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Сегежа Групп\"",
+                                                        "role":  "контакт по связям с инвесторами и публичным коммуникациям",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Роль взята из CSV и вторичных контактных профилей; биография не обнаружена.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "MOEXBMI_2024.csv",
+                                                                            "title":  "MOEXBMI_2024.csv",
+                                                                            "fact":  "CSV содержит две строки для Anastasia Anatolyevna Poletaeva: Investor Relations Contact и Public Communications Contact."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.marketscreener.com/quote/stock/SEGEZHA-GROUP-123103127/company-governance/",
+                                                                            "title":  "MarketScreener: Segezha Group PJSC company governance",
+                                                                            "fact":  "Агрегатор указывает контакты руководства и IR/communications; источник слабый и используется только для дополнительного подтверждения контактной роли."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Paper & Forest Products"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV содержит Anastasia Anatolyevna Poletaeva как Investor Relations Contact и Public Communications Contact."
+                                    }
+                                ],
+                    "notes":  "Биографические сведения, образование и предыдущий опыт не подтверждены. Однофамильцы без Segezha/IR-контекста исключены. HONEST-GAP FOLLOW-UP (раунд quality_pass_round1_20260801): она не входит в Совет директоров/Правление, поэтому не фигурирует в официальной биографической части Segezha Group Annual Report 2020 (Приложение 4/Совет директоров), которая помогла заполнить пробелы по другим лицам этого тикера. Свежий запрос через DuckDuckGo HTML: \"Полетаева Анастасия\" Сегежа инвесторские отношения — результат: только Instagram-аккаунт однофамилицы и запись бизнес-реестра о другой Полетаевой Анастасии Олеговне (не Анатольевне), обе без Segezha-контекста и отклонены как однофамильцы. Новых читаемых источников с биографией не найдено; пробел остается нерешенным. GICS-запись компании Segezha (Materials/Materials/Paper & Forest Products) добавлена отдельно как простое соответствие top-level классификации тикера, не как результат этого gap-attempt."
+                },
+                {
+                    "name":  "Mikhail Mileshin",
+                    "current_role":  "Sales \u0026 Marketing по CSV; внешние профили связывают его с маркетингом и инновациями Segezha Group",
+                    "company_name":  "ПАО ГК \"Сегежа\"",
+                    "education":  [
+                                      {
+                                          "program":  "высшее образование",
+                                          "university":  "Национальный исследовательский университет «Высшая школа экономики»",
+                                          "field":  "менеджмент",
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                              "title":  "Segezha Group Annual Report 2020 (Приложение 4. Биографии членов Правления Segezha Group, стр. 265, состав на 31.12.2020)",
+                                                              "fact":  "GENUINE INCONSISTENCY resolved in round quality_pass_round1_20260801: PDF was previously unreachable (download timeout); in this round it was successfully downloaded and read via the Read tool. The official biography of Mileshin M.A. (born 1988) lists education as: GOU VPO Gosudarstvenny universitet - Vysshaya shkola ekonomiki, specialty menedzhment, and GOU VPO Gosudarstvenny universitet - Vysshaya shkola upravleniya, specialty Biznes informatika. Nizhny Novgorod State Technical University and specialty avtomobili i avtomobilnoe khozyaystvo (year 2007) are NOT supported by this primary source and are rejected as unreliable (likely an indexing error referring to a different person); birth year 1988 also makes a 2007 graduation implausible (age 19)."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "program":  "высшее образование",
+                                          "university":  "Государственный университет – Высшая школа управления",
+                                          "field":  "Бизнес информатика",
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                              "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 265)",
+                                                              "fact":  "Second education entry in the official biography of Mileshin M.A.: GOU VPO Gosudarstvenny universitet - Vysshaya shkola upravleniya, specialty Biznes informatika."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Сегежа Групп\"",
+                                                        "role":  "Член Правления, Вице-президент по маркетингу и инновациям (руководитель направления продаж, маркетинга и/или инноваций по CSV)",
+                                                        "start_year":  2018,
+                                                        "end_year":  null,
+                                                        "description":  "CSV фиксирует Sales \u0026 Marketing; профиль мероприятия Ведомостей и агрегаторы связывают Милешина с Segezha.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "MOEXBMI_2024.csv",
+                                                                            "title":  "MOEXBMI_2024.csv",
+                                                                            "fact":  "CSV содержит Mikhail Mileshin с позицией Sales \u0026 Marketing."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://events.vedomosti.ru/speakers/mileshin-mihail-7253",
+                                                                            "title":  "Ведомости.Конференции: Михаил Милешин",
+                                                                            "fact":  "Страница спикера связывает Михаила Милешина с Segezha Group."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Paper & Forest Products"
+                                                    },
+                                                    {
+                                                        "organization":  "ООО \"СИБУР\"",
+                                                        "role":  "руководитель направления",
+                                                        "start_year":  2016,
+                                                        "end_year":  2018,
+                                                        "description":  "Официальная биография Милешина М.А. в Segezha Group Annual Report 2020 (Приложение 4, стр. 265) указывает 2016-2018 как период работы руководителем направления в ООО СИБУР непосредственно перед переходом в Segezha. ДОБАВЛЕНО в раунде quality_pass_round1_20260801 (honest-gap follow-up / глубина), первичный источник ранее не открывался (таймаут скачивания).",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                                            "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 265)",
+                                                                            "fact":  "2016-2018 Head of direction, OOO SIBUR."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Chemicals"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV содержит Mikhail Mileshin как Sales \u0026 Marketing."
+                                    },
+                                    {
+                                        "url":  "https://events.vedomosti.ru/speakers/mileshin-mihail-7253",
+                                        "title":  "Ведомости.Конференции: Михаил Милешин",
+                                        "fact":  "Вторичный профессиональный источник подтверждает Segezha-контекст."
+                                    }
+                                ],
+                    "notes":  "ОБНОВЛЕНО в раунде quality_pass_round1_20260801: PDF Segezha Group Annual Report 2020 успешно открыт (ранее таймаут). ГЕНУИННОЕ РАСХОЖДЕНИЕ разрешено — прежний факт образования (Нижегородский государственный технический университет, автомобили и автомобильное хозяйство, 2007) не подтвердился при прямом чтении первичного источника и отклонен как недостоверный; верное образование — ГОУ ВПО ГУ-ВШЭ (менеджмент) и ГОУ ВПО ГУ Высшая школа управления (Бизнес информатика). Текущий 2024 статус локальным отчетом за 2024 год не назван (правление анонимизировано), но должность вице-президента по маркетингу и инновациям и карьера 2016-2020 (СИБУР, Сегежа) подтверждены официальной биографией из отчета 2020 года."
+                },
+                {
+                    "name":  "Rovshan Aliyev",
+                    "current_role":  "Chief Investment Officer; Director of Finance/CFO; Director/Board Member по CSV, но финансовая роль на конец 2024 конфликтует с локальной отчетностью",
+                    "company_name":  "ПАО ГК \"Сегежа\"",
+                    "education":  [
+                                      {
+                                          "program":  "высшее образование",
+                                          "university":  "Азербайджанский государственный экономический университет",
+                                          "field":  "международные экономические отношения",
+                                          "year":  2004,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                              "title":  "Segezha Group Annual Report 2020 (Приложение 4. Биографии членов Правления Segezha Group, стр. 262, состав на 31.12.2020)",
+                                                              "fact":  "ЗАПОЛНЕНО в раунде quality_pass_round1_20260801 (honest-gap follow-up): официальная биография Алиева Ровшана Бейляр оглы (год рождения 1984) в разделе «Образование»: «Азербайджанский государственный экономический университет (2004), Международные экономические отношения». PDF ранее был недоступен (таймаут скачивания); в этом раунде успешно открыт и прочитан через Read-инструмент."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "program":  "высшее образование",
+                                          "university":  "Российский государственный социальный университет",
+                                          "field":  "юриспруденция",
+                                          "year":  2005,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                              "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 262)",
+                                                              "fact":  "«Российский государственный социальный университет, Москва, Россия (2005), специальность «юриспруденция»»."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "program":  "MBA по финансам",
+                                          "university":  "Университет Св. Томаса, Хьюстон, США",
+                                          "field":  "финансы",
+                                          "year":  2007,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                              "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 262)",
+                                                              "fact":  "«Университет Св. Томаса, Хьюстон, США (2007), MBA по финансам»."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  "MBA"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Сегежа Групп\"",
+                                                        "role":  "финансово-инвестиционный руководитель и член Совета директоров по CSV/историческим источникам; в 2019-2020 — Член Правления, Вице-президент по финансам и инвестициям",
+                                                        "start_year":  2019,
+                                                        "end_year":  null,
+                                                        "description":  "CSV содержит CFO/CIO/board roles; локальная финансовая отчетность за 2024 год подписана Антоном Рожковым как вице-президентом по финансам и инвестициям, поэтому CFO/CIO-роль Алиева для конца 2024 года не подтверждена. ДОПОЛНЕНО в раунде quality_pass_round1_20260801: официальная биография в Segezha Group Annual Report 2020 подтверждает «2019 — н.вр. Член Правления, Вице-президент по финансам и инвестициям ООО «УК «Сегежа групп»» и «2020 — н.вр. Член Правления, АО «Сегежа Групп»»; это согласуется с более поздним переходом роли к Антону Рожкову и переходом Алиева в Совет директоров в апреле 2023 года (см. Интерфакс) — расхождение объясняется сменой во времени, а не ошибкой данных.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "MOEXBMI_2024.csv",
+                                                                            "title":  "MOEXBMI_2024.csv",
+                                                                            "fact":  "CSV содержит Rovshan Aliyev с позициями Chief Investment Officer, Director of Finance/CFO и Director/Board Member."
+                                                                        },
+                                                                        {
+                                                                            "url":  "MOEXBMI_Отчеты_2024/SGZH/Segezha_IFRS_Cons_SP_FS_24-rus_signed.pdf",
+                                                                            "title":  "Консолидированная финансовая отчетность специального назначения за 2024 год",
+                                                                            "fact":  "Страницы 6-7: отчетность подписана Антоном Рожковым как Вице-президентом по финансам и инвестициям, что создает конфликт с CSV-ролью Aliyev как CFO/CIO."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.interfax.ru/business/895479",
+                                                                            "title":  "Интерфакс: Segezha досрочно обновила совет директоров из-за выхода из него некоторых участников",
+                                                                            "fact":  "Статья 11.04.2023 указывает Ровшана Алиева среди новых членов Совета директоров и описывает его как вице-президента по финансам АФК \"Система\"."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                                            "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 262)",
+                                                                            "fact":  "«2019 — н.вр. Член Правления, Вице-президент по финансам и инвестициям ООО «УК «Сегежа групп»»; «2020 — н.вр. Член Правления, АО «Сегежа Групп»»."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Paper & Forest Products"
+                                                    },
+                                                    {
+                                                        "organization":  "Schlumberger Limited",
+                                                        "role":  "контролер по производству; финансовый директор производственно-технологического центра; финансовый директор нескольких региональных бизнес-подразделений; корпоративный внутренний аудитор; корпоративный казначей",
+                                                        "start_year":  2008,
+                                                        "end_year":  2019,
+                                                        "description":  "Официальная биография Алиева Р.Б. в Segezha Group Annual Report 2020 (Приложение 4, стр. 262) указывает 2008-2019 как период работы в Schlumberger Limited (международная нефтесервисная компания) на последовательности финансовых должностей.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                                            "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 262)",
+                                                                            "fact":  "«2008-2019 Контролер по производству на заводе, финансовый директор производственно-технологического центра, корпоративный внутренний аудитор, финансовый директор нескольких региональных бизнес-подразделений, корпоративный казначей Schlumberger Limited (Шлюмберже Лимитед)»."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Energy",
+                                                        "industry_group":  "Energy",
+                                                        "industry":  "Energy Equipment & Services"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV содержит три строки для Rovshan Aliyev."
+                                    },
+                                    {
+                                        "url":  "https://www.interfax.ru/business/895479",
+                                        "title":  "Интерфакс: Segezha досрочно обновила совет директоров",
+                                        "fact":  "Подтверждает вхождение Ровшана Алиева в Совет директоров в 2023 году."
+                                    },
+                                    {
+                                        "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                        "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 262)",
+                                        "fact":  "Официальная биография члена Правления Segezha Group Алиева Ровшана Бейляр оглы (год рождения 1984): образование (Азербайджан/Россия/США) и карьера в Schlumberger Limited 2008-2019 до перехода в Segezha в 2019 году."
+                                    }
+                                ],
+                    "notes":  "ОБНОВЛЕНО в раунде quality_pass_round1_20260801 (honest-gap follow-up): образование (3 записи) и карьера в Schlumberger Limited 2008-2019 найдены прямым чтением ранее недоступного Segezha Group Annual Report 2020 (Приложение 4, стр. 262) — PDF успешно открыт в этом раунде. Это также объясняет ГЕНУИННОЕ РАСХОЖДЕНИЕ CFO/CIO-роли: Алиев занимал должность Вице-президента по финансам и инвестициям с 2019 года, но к концу 2024 года эта функция по локальной IFRS-отчетности закреплена за Антоном Рожковым — расхождение является сменой во времени (Алиев перешел в Совет директоров в апреле 2023 года по данным Интерфакс), а не ошибкой данных; обе стороны сохранены с пояснением."
+                },
+                {
+                    "name":  "Salavat Asgatovich Mirsaev",
+                    "current_role":  "General Counsel по CSV",
+                    "company_name":  "ПАО ГК \"Сегежа\"",
+                    "education":  [
+                                      {
+                                          "program":  "высшее образование",
+                                          "university":  "Башкирский государственный аграрный университет",
+                                          "field":  "экономика и управление аграрным производством",
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                              "title":  "Segezha Group Annual Report 2020 (Приложение 4. Биографии членов Правления Segezha Group, стр. 265, состав на 31.12.2020)",
+                                                              "fact":  "GENUINE INCONSISTENCY resolved in round quality_pass_round1_20260801: PDF was previously unreachable (download timeout); in this round it was successfully downloaded and read via the Read tool. The official biography of Mirsaev S.A. (born 1976) lists education as: Bashkirskiy gosudarstvenny agrarny universitet, specialty ekonomika i upravlenie agrarnym proizvodstvom, and Bashkirskaya akademiya gosudarstvennoy sluzhby i upravleniya pri Glave Respubliki Bashkortostan, specialty yurisprudentsiya. The prior claim (Bashkirskiy selskokhozyaystvenny institut, specialty ekonomist, year 1988) is rejected as unreliable and chronologically impossible: birth year 1976 would make a 1988 graduation happen at age 12."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "program":  "высшее образование",
+                                          "university":  "Башкирская академия государственной службы и управления при Главе Республики Башкортостан",
+                                          "field":  "юриспруденция",
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                              "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 265)",
+                                                              "fact":  "Second education entry in the official biography of Mirsaev S.A.: Bashkirskaya akademiya gosudarstvennoy sluzhby i upravleniya pri Glave Respubliki Bashkortostan, specialty yurisprudentsiya."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Сегежа Групп\"",
+                                                        "role":  "Член Правления, Вице-президент по правовым вопросам и корпоративному управлению (General Counsel по CSV)",
+                                                        "start_year":  2017,
+                                                        "end_year":  null,
+                                                        "description":  "CSV и агрегаторы связывают Мирсаева с юридической функцией Segezha; локальный 2024 отчет имя не раскрывает. ДОПОЛНЕНО в раунде quality_pass_round1_20260801: официальная биография подтверждает «2017 — н.вр. Член Правления, Вице-президент по правовым вопросам и корпоративному управлению ООО «УК «Сегежа групп»»» и «2020 — н.вр. Член Правления АО «Сегежа Групп»».",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "MOEXBMI_2024.csv",
+                                                                            "title":  "MOEXBMI_2024.csv",
+                                                                            "fact":  "CSV содержит Salavat Asgatovich Mirsaev с позицией General Counsel."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.marketscreener.com/quote/stock/SEGEZHA-GROUP-123103127/company-governance/",
+                                                                            "title":  "MarketScreener: Segezha Group PJSC company governance",
+                                                                            "fact":  "Агрегатор содержит профиль руководства Segezha; источник используется как вторичный."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                                            "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 266)",
+                                                                            "fact":  "«2017 — н.вр. Член Правления, Вице-президент по правовым вопросам и корпоративному управлению ООО «УК «Сегежа групп»»; «2020 — н.вр. Член Правления АО «Сегежа Групп»»."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Paper & Forest Products"
+                                                    },
+                                                    {
+                                                        "organization":  "ОАО \"Уфанефтехим\"",
+                                                        "role":  "начальник отдела",
+                                                        "start_year":  2007,
+                                                        "end_year":  2009,
+                                                        "description":  "Официальная биография Мирсаева С.А. в Segezha Group Annual Report 2020 (Приложение 4, стр. 265) указывает 2007-2009 как период работы начальником отдела в ОАО «Уфанефтехим» — нефтеперерабатывающий завод.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                                            "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 265)",
+                                                                            "fact":  "«2007-2009 Начальник отдела ОАО «Уфанефтехим»»."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Energy",
+                                                        "industry_group":  "Energy",
+                                                        "industry":  "Oil, Gas & Consumable Fuels"
+                                                    },
+                                                    {
+                                                        "organization":  "ОАО АНК \"Башнефть\" (\"Башнефть-Сервисные Активы\" / \"Таргин\")",
+                                                        "role":  "руководитель проекта; директор департамента; заместитель генерального директора по правовым вопросам и управлению имуществом; генеральный директор АО «Таргин»",
+                                                        "start_year":  2010,
+                                                        "end_year":  2017,
+                                                        "description":  "Официальная биография Мирсаева С.А. в Segezha Group Annual Report 2020 (Приложение 4, стр. 265) указывает 2010-2017 как период работы на последовательности должностей в структуре ОАО АНК «Башнефть» (включая ООО «Башнефть-Геосторой», ООО «Башнефть-Сервисные Активы» / АО «Таргин»), завершившийся должностью генерального директора АО «Таргин» в 2016-2017.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                                            "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 265)",
+                                                                            "fact":  "«2010 Руководитель проекта отдела сопровождения крупных сделок и судебных проектов ОАО АНК «Башнефть»; 2010-2012 Директор департамента ООО «Башнефть-Геосторой»; 2012-2016 Заместитель генерального директора по правовым вопросам и управлению имуществом ООО «Башнефть-Сервисные Активы» (ООО «Таргин», АО «Таргин»); 2016-2017 Генеральный директор АО «Таргин»»."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Energy",
+                                                        "industry_group":  "Energy",
+                                                        "industry":  "Oil, Gas & Consumable Fuels"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV содержит Mirsaev как General Counsel."
+                                    },
+                                    {
+                                        "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                        "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 265-266)",
+                                        "fact":  "Официальная биография члена Правления Segezha Group Мирсаева Салавата Асгатовича (год рождения 1976): образование и полная погодовая карьера 2001-2020 (Бюро правовой экспертизы, Уфанефтехим, Система-Инвест, Башнефть/Таргин, Сегежа)."
+                                    }
+                                ],
+                    "notes":  "ОБНОВЛЕНО в раунде quality_pass_round1_20260801: PDF Segezha Group Annual Report 2020 успешно открыт (ранее таймаут). ГЕНУИННОЕ РАСХОЖДЕНИЕ разрешено — прежний факт образования (Башкирский сельскохозяйственный институт, экономист, 1988) не подтвердился при прямом чтении первичного источника и отклонен как хронологически невозможный (при годе рождения 1976 выпуск в 1988 году означал бы возраст 12 лет); верное образование — Башкирский государственный аграрный университет (экономика и управление аграрным производством) и Башкирская академия государственной службы и управления при Главе Республики Башкортостан (юриспруденция), годы не указаны в источнике. Текущий 2024 статус не назван локальным отчетом за 2024 год (правление анонимизировано), но должность вице-президента по правовым вопросам подтверждена структурно отчетом 2020 года."
+                },
+                {
+                    "name":  "Pavel Vakhnin",
+                    "current_role":  "Chief Tech/Sci/R\u0026D Officer по CSV",
+                    "company_name":  "ПАО ГК \"Сегежа\"",
+                    "education":  [
+                                      {
+                                          "program":  "высшее образование",
+                                          "university":  "Московский технический университет связи и информатики",
+                                          "field":  "информационные системы в экономике",
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                              "title":  "Segezha Group Annual Report 2020 (Приложение 4. Биографии членов Правления Segezha Group, стр. 263, состав на 31.12.2020)",
+                                                              "fact":  "FILLED in round quality_pass_round1_20260801 (honest-gap follow-up): official biography of Vakhnin P.A. (born 1974) lists education as Moskovskiy tekhnicheskiy universitet svyazi i informatiki, specialty informatsionnye sistemy v ekonomike. PDF was previously unreachable (download timeout); in this round it was successfully downloaded and read via the Read tool."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Сегежа Групп\"",
+                                                        "role":  "Член Правления, Вице-президент по информационным технологиям и автоматизации процессов (технологии, ИТ, цифровизация и/или R\u0026D по CSV и вторичным профилям)",
+                                                        "start_year":  2018,
+                                                        "end_year":  null,
+                                                        "description":  "CSV указывает функцию Chief Tech/Sci/R\u0026D Officer. Вторичные источники связывают Павла Вахнина с технологической/ИТ-функцией Segezha, но локальный 2024 отчет имя не раскрывает. ДОПОЛНЕНО в раунде quality_pass_round1_20260801: официальная биография подтверждает «2018 — н.вр. Член Правления, Вице-президент по информационным технологиям и автоматизации процессов ООО «УК «Сегежа групп»» и «2020 — н.вр. Член Правления АО «Сегежа Групп»».",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "MOEXBMI_2024.csv",
+                                                                            "title":  "MOEXBMI_2024.csv",
+                                                                            "fact":  "CSV содержит Pavel Vakhnin с позицией Chief Tech/Sci/R\u0026D Officer."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.tadviser.ru/index.php/%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0:%D0%92%D0%B0%D1%85%D0%BD%D0%B8%D0%BD_%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87",
+                                                                            "title":  "TAdviser: Вахнин Павел Анатольевич",
+                                                                            "fact":  "Профиль TAdviser найден как вторичный источник по технологической роли; страница не дала стабильного читаемого вывода в web tool."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                                            "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 263-264)",
+                                                                            "fact":  "«2018 — н.вр. Член Правления, Вице-президент по информационным технологиям и автоматизации процессов ООО «УК «Сегежа групп»»; «2020 — н.вр. Член Правления АО «Сегежа Групп»»."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Paper & Forest Products"
+                                                    },
+                                                    {
+                                                        "organization":  "ОАО \"Уралкалий\"",
+                                                        "role":  "член правления, директор по информационным технологиям",
+                                                        "start_year":  2012,
+                                                        "end_year":  2014,
+                                                        "description":  "Официальная биография Вахнина П.А. в Segezha Group Annual Report 2020 (Приложение 4, стр. 263) указывает 2012-2014 как период работы членом правления, директором по информационным технологиям в ОАО «Уралкалий» — крупнейший российский производитель калийных удобрений.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                                            "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 263)",
+                                                                            "fact":  "«2012-2014 Член правления, директор по информационным технологиям ОАО «Уралкалий»»."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Chemicals"
+                                                    },
+                                                    {
+                                                        "organization":  "ОАО \"Ямал СПГ\"",
+                                                        "role":  "директор департамента информационных технологий и управления информацией",
+                                                        "start_year":  2016,
+                                                        "end_year":  2018,
+                                                        "description":  "Официальная биография Вахнина П.А. в Segezha Group Annual Report 2020 (Приложение 4, стр. 263) указывает 2016-2018 как период работы директором департамента информационных технологий и управления информацией в ОАО «Ямал СПГ» — проект по производству сжиженного природного газа.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                                            "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 263)",
+                                                                            "fact":  "«2016-2018 Директор департамента информационных технологий и управления информацией ОАО «Ямал СПГ»»."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Energy",
+                                                        "industry_group":  "Energy",
+                                                        "industry":  "Oil, Gas & Consumable Fuels"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                        "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 263-264)",
+                                        "fact":  "Официальная биография члена Правления Segezha Group Вахнина Павла Анатольевича (год рождения 1974): образование и полная погодовая карьера 2006-2020 (ФосАгро, Уралкалий, Тесκон, Ямал СПГ, Сегежа)."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV содержит Pavel Vakhnin как Chief Tech/Sci/R\u0026D Officer."
+                                    }
+                                ],
+                    "notes":  "ОБНОВЛЕНО в раунде quality_pass_round1_20260801 (honest-gap follow-up): образование и полная карьера 2006-2020 найдены прямым чтением ранее недоступного Segezha Group Annual Report 2020 (Приложение 4, стр. 263-264) — PDF успешно открыт в этом раунде. Публикации, патенты и h-index по-прежнему не подтверждены; корпоративная R\u0026D-функция не переносилась в научный опыт."
+                },
+                {
+                    "name":  "Ali Uzdenov",
+                    "current_role":  "Compensation Committee; Nominating Committee по CSV; член Совета директоров Segezha в исторических/вторичных источниках",
+                    "company_name":  "ПАО ГК \"Сегежа\"",
+                    "education":  [
+                                      {
+                                          "program":  "высшее образование",
+                                          "university":  "Ростовский институт инженеров железнодорожного транспорта",
+                                          "field":  "автоматика, телемеханика и связь на железнодорожном транспорте",
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                              "title":  "Segezha Group Annual Report 2020 (Приложение 4. Биографии членов Совета директоров Segezha Group, стр. 155, состав на 31.12.2020)",
+                                                              "fact":  "ЗАПОЛНЕНО в раунде quality_pass_round1_20260801 (honest-gap follow-up): официальная биография Узденова Али Муссаевича (год рождения 1962) в разделе «Образование»: «Ростовский институт инженеров железнодорожного транспорта, специальность «автоматика, телемеханика и связь на железнодорожном транспорте»». PDF ранее был недоступен (таймаут скачивания); в этом раунде успешно открыт и прочитан через Read-инструмент."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "program":  "дополнительное образование",
+                                          "university":  "Международная школа выживания (Италия)",
+                                          "field":  null,
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                              "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 155)",
+                                                              "fact":  "«Международная школа выживания (Италия), дополнительное образование» — вторая запись в разделе «Образование» официальной биографии Узденова А.М."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Сегежа Групп\"",
+                                                        "role":  "член Совета директоров и комитетов по CSV/историческим источникам; Председатель Совета директоров с 2020 года",
+                                                        "start_year":  2020,
+                                                        "end_year":  null,
+                                                        "description":  "Interfax 2023 указывает Али Узденова среди директоров, сохранивших место в Совете директоров; локальный 2024 отчет имена директоров и комитетов не раскрывает. ДОПОЛНЕНО в раунде quality_pass_round1_20260801: официальная биография в Segezha Group Annual Report 2020 подтверждает «Председателем Совета директоров в период с 1 января по 31 декабря 2020 года являлся Узденов А. М.» и «2020 — н.вр. Председатель Совета директоров АО «Сегежа Групп»».",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "MOEXBMI_2024.csv",
+                                                                            "title":  "MOEXBMI_2024.csv",
+                                                                            "fact":  "CSV содержит Ali Uzdenov с ролями Compensation Committee и Nominating Committee."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.interfax.ru/business/895479",
+                                                                            "title":  "Интерфакс: Segezha досрочно обновила совет директоров",
+                                                                            "fact":  "Статья 11.04.2023 указывает старшего управляющего партнера АФК \"Система\" Али Узденова среди директоров, сохранивших место в Совете директоров Segezha."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                                            "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 155-156)",
+                                                                            "fact":  "«Председателем Совета директоров в период с 1 января по 31 декабря 2020 года являлся Узденов А. М.»; «2020 — н.вр. Председатель Совета директоров АО «Сегежа Групп»»."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Paper & Forest Products"
+                                                    },
+                                                    {
+                                                        "organization":  "АФК \"Система\"",
+                                                        "role":  "старший управляющий партнер (2013-2018); управляющий партнер (2018 — н.вр.)",
+                                                        "start_year":  2012,
+                                                        "end_year":  null,
+                                                        "description":  "Interfax 2023 описывает Узденова как старшего управляющего партнера АФК \"Система\". GICS-классификация взята из top-level классификации тикера AFKS в этом же корпусе (output/AFKS_person_info.json), так как АФК \"Система\" сама является публичной компанией с определенной классификацией.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.interfax.ru/business/895479",
+                                                                            "title":  "Интерфакс: Segezha досрочно обновила совет директоров",
+                                                                            "fact":  "Статья называет Узденова старшим управляющим партнером АФК \"Система\"."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                                            "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 155-156)",
+                                                                            "fact":  "«2012-2013 Вице-президент ОАО АФК «Система»; 2013-2018 Старший вице-президент, руководитель инвестиционного портфеля ПАО АФК «Система»; 2015 — н.вр. Член Правления ПАО АФК «Система»; 2018 — н.вр. Управляющий партнер ПАО АФК «Система»»."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Financial Services (New Name)"
+                                                    },
+                                                    {
+                                                        "organization":  "ОАО АНК \"Башнефть\"",
+                                                        "role":  "директор Ростовского филиала; первый вице-президент по переработке и коммерции",
+                                                        "start_year":  1998,
+                                                        "end_year":  2012,
+                                                        "description":  "Официальная биография Узденова А.М. в Segezha Group Annual Report 2020 (Приложение 4, стр. 155) указывает 1998-2012 (с перерывом на другие должности 2001-2007) как период карьеры в структуре ОАО АНК «Башнефть», включая пост первого вице-президента по переработке и коммерции.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                                            "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 155)",
+                                                                            "fact":  "«1998-2001 Директор Ростовского филиала ОАО АНК «Башнефть»; 2009-2012 Первый вице-президент по переработке и коммерции ОАО АНК «Башнефть»»."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Energy",
+                                                        "industry_group":  "Energy",
+                                                        "industry":  "Oil, Gas & Consumable Fuels"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV содержит Ali Uzdenov с комитетскими ролями."
+                                    },
+                                    {
+                                        "url":  "https://www.interfax.ru/business/895479",
+                                        "title":  "Интерфакс: Segezha досрочно обновила совет директоров",
+                                        "fact":  "Подтверждает board-context Али Узденова в 2023 году."
+                                    },
+                                    {
+                                        "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                        "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 155-156)",
+                                        "fact":  "Официальная биография Председателя Совета директоров Segezha Group Узденова Али Муссаевича (год рождения 1962): образование и полная погодовая карьера 1998-2020 (Башнефть, АФК Система, Сегежа)."
+                                    }
+                                ],
+                    "notes":  "ОБНОВЛЕНО в раунде quality_pass_round1_20260801 (honest-gap follow-up): образование и полная карьера найдены прямым чтением ранее недоступного Segezha Group Annual Report 2020 (Приложение 4, стр. 155-156) — PDF успешно открыт в этом раунде. Комитеты Совета директоров в локальном отчете за 2024 год раскрыты без имен, поэтому детальная роль по комитетам на конец 2024 остается на уровне CSV/исторических источников; при этом статус Председателя Совета директоров с 2020 года подтвержден официальной биографией из отчета 2020 года."
+                },
+                {
+                    "name":  "Vladimir Tuzov",
+                    "current_role":  "Audit Committee; Compensation Committee; Nominating Committee по CSV, но 2024 статус не подтвержден",
+                    "company_name":  "ПАО ГК \"Сегежа\"",
+                    "education":  [
+                                      {
+                                          "program":  "высшее образование",
+                                          "university":  "Московский государственный технический университет имени Н.Э. Баумана",
+                                          "field":  "разработка медицинских систем",
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                              "title":  "Segezha Group Annual Report 2020 (Приложение 4. Биографии членов Совета директоров Segezha Group, стр. 160-161, состав на 31.12.2020)",
+                                                              "fact":  "ЗАПОЛНЕНО в раунде quality_pass_round1_20260801 (honest-gap follow-up): официальная биография Тузова Владимира Олеговича (год рождения 1976) в разделе «Образование»: «МГТУ им. Н.Э. Баумана, специальность «разработка медицинских систем»». PDF ранее был недоступен (таймаут скачивания); в этом раунде успешно открыт и прочитан через Read-инструмент."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "program":  "магистратура",
+                                          "university":  "Ecole Centrale Paris (Франция)",
+                                          "field":  "управление промышленным производством",
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                              "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 161)",
+                                                              "fact":  "«Ecole Centrale Paris (Франция), магистратура по специальности «управление промышленным производством»»."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  "Master's degree"
+                                      },
+                                      {
+                                          "program":  "MBA",
+                                          "university":  "Wharton Business School",
+                                          "field":  null,
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                              "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 161)",
+                                                              "fact":  "«Wharton School, University of Pennsylvania (США), MBA»."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  "MBA"
+                                      },
+                                      {
+                                          "program":  "диплом по корпоративному управлению",
+                                          "university":  "Institute of Directors (IoD)",
+                                          "field":  "корпоративное управление",
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                              "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 161)",
+                                                              "fact":  "«Institute of Directors (Великобритания), диплом по корпоративному управлению»."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  "Professional certification"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Сегежа Групп\"",
+                                                        "role":  "исторический член комитетов Совета директоров по CSV; независимый член Совета директоров, член комитетов по стратегии, аудиту, назначениям и вознаграждениям (по состоянию на 31.12.2020)",
+                                                        "start_year":  2020,
+                                                        "end_year":  null,
+                                                        "description":  "CSV содержит комитетские роли. Interfax 2023 сообщает, что Владимир Тузов не сохранил место при обновлении Совета директоров, поэтому CSV-роль выглядит исторической и не подтверждает статус на конец 2024 года. ДОПОЛНЕНО в раунде quality_pass_round1_20260801: официальная биография в Segezha Group Annual Report 2020 подтверждает независимое членство в Совете директоров и трех комитетах по состоянию на 31.12.2020, что согласуется с CSV-ролями по трем комитетам, но статус на конец 2024 года остается неподтвержденным (см. Interfax 2023).",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "MOEXBMI_2024.csv",
+                                                                            "title":  "MOEXBMI_2024.csv",
+                                                                            "fact":  "CSV содержит Vladimir Tuzov с ролями Audit Committee, Compensation Committee, Nominating Committee."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.interfax.ru/business/895479",
+                                                                            "title":  "Интерфакс: Segezha досрочно обновила совет директоров",
+                                                                            "fact":  "Статья 11.04.2023 сообщает, что из прежних директоров Владимир Тузов не сохранил место в Совете директоров Segezha."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                                            "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 160-161)",
+                                                                            "fact":  "«Независимый член Совета директоров, член Комитета по стратегии, член Комитета по аудиту, член Комитета по назначениям и вознаграждениям»; «2020 — н.вр. Член Совета директоров АО «Сегежа Групп»»."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Paper & Forest Products"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Русский Алюминий\"",
+                                                        "role":  "директор департамента логистики; начальник отдела контроллинга производства; руководитель специальных проектов",
+                                                        "start_year":  2002,
+                                                        "end_year":  2004,
+                                                        "description":  "Официальная биография Тузова В.О. в Segezha Group Annual Report 2020 (Приложение 4, стр. 161) указывает 2002-2004 как период работы в ПАО «Русский Алюминий» (РУСАЛ).",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                                            "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 161)",
+                                                                            "fact":  "«2002-2004 Директор департамента логистики, начальник отдела контроллинга производства (прокатный дивизион) ПАО «Русский Алюминий»; 2004 Руководитель специальных проектов Глиноземный комбинат Гвинеи (глиноземный дивизион), ПАО «Русский Алюминий»»."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Metals & Mining"
+                                                    },
+                                                    {
+                                                        "organization":  "АО \"СУЭК\"",
+                                                        "role":  "директор по стратегии",
+                                                        "start_year":  2015,
+                                                        "end_year":  2021,
+                                                        "description":  "Официальная биография Тузова В.О. в Segezha Group Annual Report 2020 (Приложение 4, стр. 161) указывает 2015-2021 как период работы директором по стратегии в АО «СУЭК» — крупнейшая российская угольная компания; классифицировано как Energy, а не Metals & Mining, так как угольная генерация топлива относится к категории Oil, Gas & Consumable Fuels по методологии GICS.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                                            "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 161)",
+                                                                            "fact":  "«2015-2021 Директор по стратегии ОАО «СУЭК»»."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Energy",
+                                                        "industry_group":  "Energy",
+                                                        "industry":  "Oil, Gas & Consumable Fuels"
+                                                    },
+                                                    {
+                                                        "organization":  "АО \"МХК \"ЕвроХим\"",
+                                                        "role":  "глава управления глобальными цепочками поставок",
+                                                        "start_year":  2021,
+                                                        "end_year":  null,
+                                                        "description":  "Интерфакс (11.04.2023) указывает, что на момент избрания в Совет директоров Segezha Владимир Тузов возглавлял управление глобальными цепочками поставок в АО «МХК «ЕвроХим»; Segezha Group Annual Report 2020 (Приложение 4, стр. 161) отдельно подтверждает начало этой роли в 2021 году.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.interfax.ru/business/895479",
+                                                                            "title":  "Интерфакс: Segezha досрочно обновила совет директоров",
+                                                                            "fact":  "«Владимир Тузов (на момент избрания в совет директоров Segezha - глава управления глобальными цепочками поставок АО «МХК «Еврохим»)»."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                                            "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 161)",
+                                                                            "fact":  "«2021 — н.вр. Глава управления глобальными цепочками поставок АО «МХК «ЕВРОХИМ»»."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Chemicals"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV содержит Vladimir Tuzov с тремя комитетскими ролями."
+                                    },
+                                    {
+                                        "url":  "https://www.interfax.ru/business/895479",
+                                        "title":  "Интерфакс: Segezha досрочно обновила совет директоров",
+                                        "fact":  "Используется для проверки исторического статуса и противоречия CSV."
+                                    },
+                                    {
+                                        "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                        "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 160-161)",
+                                        "fact":  "Официальная биография независимого члена Совета директоров Segezha Group Тузова Владимира Олеговича (год рождения 1976): образование и полная погодовая карьера 2002-2021 (РУСАЛ, IBM Business Consulting, Boston Consulting Group, СУЭК, ЕвроХим, Сегежа)."
+                                    }
+                                ],
+                    "notes":  "ОБНОВЛЕНО в раунде quality_pass_round1_20260801 (honest-gap follow-up): образование и полная карьера найдены прямым чтением ранее недоступного Segezha Group Annual Report 2020 (Приложение 4, стр. 160-161) — PDF успешно открыт в этом раунде. Существенная неопределенность сохраняется по статусу на конец 2024 года: CSV указывает комитетские роли, но Interfax (11.04.2023) сообщает, что Тузов не сохранил место в Совете директоров при обновлении 2023 года; обе стороны сохранены с пояснением (расхождение по времени, а не по данным)."
+                },
+                {
+                    "name":  "Artem I. Zassoursky",
+                    "current_role":  "Governance Committee; Director/Board Member по объединенным CSV-строкам Artem I. Zassoursky / Artem Zasursky",
+                    "company_name":  "ПАО ГК \"Сегежа\"",
+                    "education":  [
+                                      {
+                                          "program":  "бакалавриат",
+                                          "university":  "Московский государственный университет имени М.В. Ломоносова",
+                                          "field":  "социальная и экономическая география зарубежных стран",
+                                          "year":  2001,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://events.vedomosti.ru/speakers/zasurskii-artem-30871",
+                                                              "title":  "Ведомости.Конференции: Артем Засурский",
+                                                              "fact":  "ИСПРАВЛЕНО (простое упущение) в раунде quality_pass_round1_20260801: research_notes/SGZH/Artem_Zasursky_round_1.md указывал на 'MSU journalism/media background', но факт не был перенесен в JSON. Прямое чтение уже цитируемой страницы Ведомостей подтверждает: окончил МГУ в 2001 году по специальности «социальная и экономическая география зарубежных стран»."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  "Bachelor's degree"
+                                      },
+                                      {
+                                          "program":  "аспирантура (журналистика)",
+                                          "university":  "Московский государственный университет имени М.В. Ломоносова",
+                                          "field":  "журналистика",
+                                          "year":  2005,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://events.vedomosti.ru/speakers/zasurskii-artem-30871",
+                                                              "title":  "Ведомости.Конференции: Артем Засурский",
+                                                              "fact":  "Страница спикера указывает, что в 2005 году получил аспирантскую степень на факультете журналистики МГУ."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Сегежа Групп\"",
+                                                        "role":  "член Совета директоров / Governance Committee по CSV и историческим источникам",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "CSV содержит две латинские формы имени. Interfax 2023 указывает Артема Засурского среди директоров, сохранивших место в Совете директоров. Локальный 2024 отчет имена директоров не раскрывает.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "MOEXBMI_2024.csv",
+                                                                            "title":  "MOEXBMI_2024.csv",
+                                                                            "fact":  "CSV содержит Artem I. Zassoursky как Governance Committee и Artem Zasursky как Director/Board Member; записи объединены как один человек."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.interfax.ru/business/895479",
+                                                                            "title":  "Интерфакс: Segezha досрочно обновила совет директоров",
+                                                                            "fact":  "Статья 11.04.2023 указывает Артема Засурского среди директоров, сохранивших место в Совете директоров Segezha."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://events.vedomosti.ru/speakers/zasurskii-artem-30871",
+                                                                            "title":  "Ведомости.Конференции: Артем Засурский",
+                                                                            "fact":  "Профессиональная страница спикера использована для сверки личности и варианта написания имени."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Paper & Forest Products"
+                                                    },
+                                                    {
+                                                        "organization":  "АФК \"Система\"",
+                                                        "role":  "вице-президент по стратегии и развитию; ранее генеральный директор Stream, вице-президент по развитию СММ",
+                                                        "start_year":  2011,
+                                                        "end_year":  null,
+                                                        "description":  "Interfax 2023 описывает Артема Засурского как вице-президента по стратегии и развитию АФК \"Система\". ДОПОЛНЕНО в раунде quality_pass_round1_20260801: страница Ведомостей (уже цитируемый источник) уточняет полную карьеру в АФК Система с 2011 года.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.interfax.ru/business/895479",
+                                                                            "title":  "Интерфакс: Segezha досрочно обновила совет директоров",
+                                                                            "fact":  "Статья называет Артема Засурского вице-президентом по стратегии и развитию АФК \"Система\"."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://events.vedomosti.ru/speakers/zasurskii-artem-30871",
+                                                                            "title":  "Ведомости.Конференции: Артем Засурский",
+                                                                            "fact":  "Присоединился к АФК Система в 2011 году как директор по развитию Stream; 2012-2013 вице-президент по развитию СММ; февраль 2013 - май 2016 генеральный директор Stream; с апреля 2018 вице-президент по стратегии. GICS-классификация взята из top-level классификации тикера AFKS в этом же корпусе (output/AFKS_person_info.json)."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Financial Services (New Name)"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV содержит два варианта имени, объединенных в один профиль."
+                                    },
+                                    {
+                                        "url":  "https://events.vedomosti.ru/speakers/zasurskii-artem-30871",
+                                        "title":  "Ведомости.Конференции: Артем Засурский",
+                                        "fact":  "Использовано для disambiguation имени Artem Zasursky / Артем Засурский, а также для образования и полной карьеры."
+                                    }
+                                ],
+                    "notes":  "Публикации и научные показатели не добавлены из-за риска смешения с медиа/академическими однофамильцами или родственными профилями. ИСПРАВЛЕНО (простой десинк) в раунде quality_pass_round1_20260801: research_notes упоминали образование МГУ (журналистика/медиа), но JSON education был пуст; заполнено с прямой перепроверкой уже цитируемого источника (Ведомости.Конференции)."
+                },
+                {
+                    "name":  "Vladimir Sergeyevich Travkov",
+                    "current_role":  "Audit Committee по CSV; 2024 статус в Segezha не подтвержден",
+                    "company_name":  "ПАО ГК \"Сегежа\"",
+                    "education":  [
+                                      {
+                                          "program":  "высшее образование",
+                                          "university":  "Московский государственный университет имени М.В. Ломоносова",
+                                          "field":  "экономика и менеджмент",
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                              "title":  "Segezha Group Annual Report 2020 (Приложение 4. Биографии членов Совета директоров Segezha Group, стр. 162, состав на 31.12.2020)",
+                                                              "fact":  "ЗАПОЛНЕНО в раунде quality_pass_round1_20260801 (honest-gap follow-up): официальная биография Травкова Владимира Сергеевича (год рождения 1979) в разделе «Образование»: «Московский государственный университет им. М. В. Ломоносова, специальность «экономика» и «менеджмент»». PDF ранее был недоступен (таймаут скачивания); в этом раунде успешно открыт и прочитан через Read-инструмент."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Сегежа Групп\"",
+                                                        "role":  "исторический член комитета/финансовый руководитель по внешним источникам; неисполнительный директор, член комитетов по аудиту, стратегии, назначениям и вознаграждениям (по состоянию на 31.12.2020)",
+                                                        "start_year":  2020,
+                                                        "end_year":  null,
+                                                        "description":  "CSV указывает Audit Committee. Interfax 2023 сообщает, что Владимир Травков перешел на позицию финансового директора Segezha в октябре 2022; локальная 2024 отчетность подписана уже Антоном Рожковым как VP Finance and Investments. ДОПОЛНЕНО в раунде quality_pass_round1_20260801: официальная биография в Segezha Group Annual Report 2020 подтверждает членство в Совете директоров и трех комитетах на 31.12.2020, что согласуется с CSV-ролью Audit Committee.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "MOEXBMI_2024.csv",
+                                                                            "title":  "MOEXBMI_2024.csv",
+                                                                            "fact":  "CSV содержит Vladimir Sergeyevich Travkov с ролью Audit Committee."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.interfax.ru/business/895479",
+                                                                            "title":  "Интерфакс: Segezha досрочно обновила совет директоров",
+                                                                            "fact":  "Статья 11.04.2023 описывает переход Владимира Травкова на позицию финдиректора Segezha в 2022 году и его замену в Совете директоров."
+                                                                        },
+                                                                        {
+                                                                            "url":  "MOEXBMI_Отчеты_2024/SGZH/Segezha_IFRS_Cons_SP_FS_24-rus_signed.pdf",
+                                                                            "title":  "Консолидированная финансовая отчетность специального назначения за 2024 год",
+                                                                            "fact":  "Страницы 6-7: отчетность подписана Антоном Рожковым как Вице-президентом по финансам и инвестициям."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                                            "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 162-163)",
+                                                                            "fact":  "«Неисполнительный директор, член Комитета по аудиту, член Комитета по стратегии, член Комитета по назначениям и вознаграждениям»; «2020 — н.вр. Член Совета директоров АО «Сегежа Групп»»."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Paper & Forest Products"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"МТС\"",
+                                                        "role":  "директор департамента планирования, управленческой отчетности и анализа; директор департамента функционального контроллинга",
+                                                        "start_year":  2011,
+                                                        "end_year":  2018,
+                                                        "description":  "Официальная биография Травкова В.С. в Segezha Group Annual Report 2020 (Приложение 4, стр. 162-163) указывает 2011-2018 как период работы в ПАО «МТС» на должностях планирования и контроллинга.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                                            "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 162-163)",
+                                                                            "fact":  "«2011-2016 Директор департамента планирования, управленческой отчетности и анализа ПАО «МТС»; 2016-2018 Директор департамента функционального контроллинга ПАО «МТС»»."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Communication Services",
+                                                        "industry_group":  "Telecommunication Services",
+                                                        "industry":  "Wireless Telecommunication Services"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО АФК \"Система\"",
+                                                        "role":  "вице-президент по финансам и инвестициям",
+                                                        "start_year":  2018,
+                                                        "end_year":  null,
+                                                        "description":  "Официальная биография Травкова В.С. в Segezha Group Annual Report 2020 (Приложение 4, стр. 163) указывает 2018-н.вр. как период работы вице-президентом по финансам и инвестициям в ПАО АФК «Система» — эта роль согласуется с ролью, которую он принял после перехода Ровшана Алиева на пост в Совете директоров Segezha в 2023 году (см. Интерфакс).",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                                                            "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 163)",
+                                                                            "fact":  "«2018 — н.вр. Вице-президент по финансам и инвестициям Департамента финансов и инвестиций ПАО АФК «Система»; 2018 — н.вр. Член Правления ПАО АФК «Система»»."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Financial Services (New Name)"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV содержит Vladimir Sergeyevich Travkov как Audit Committee."
+                                    },
+                                    {
+                                        "url":  "https://www.interfax.ru/business/895479",
+                                        "title":  "Интерфакс: Segezha досрочно обновила совет директоров",
+                                        "fact":  "Использовано для проверки исторического статуса Travkov."
+                                    },
+                                    {
+                                        "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                                        "title":  "Segezha Group Annual Report 2020 (Приложение 4, стр. 162-163)",
+                                        "fact":  "Официальная биография неисполнительного директора Segezha Group Травкова Владимира Сергеевича (год рождения 1979): образование и полная погодовая карьера 2011-2020 (МТС, АФК Система, Сегежа)."
+                                    }
+                                ],
+                    "notes":  "ОБНОВЛЕНО в раунде quality_pass_round1_20260801 (honest-gap follow-up): образование и полная карьера найдены прямым чтением ранее недоступного Segezha Group Annual Report 2020 (Приложение 4, стр. 162-163) — PDF успешно открыт в этом раунде. Роль из CSV (Audit Committee) подтверждается по состоянию на 31.12.2020; статус на конец 2024 года не подтвержден локальной отчетностью 2024 года (VP Finance and Investments закреплена за Антоном Рожковым, что согласуется с переходом Травкова обратно на пост в АФК Система после 2023 года)."
+                },
+                {
+                    "name":  "Andrey Frolov",
+                    "current_role":  "Director/Board Member по CSV; член Совета директоров Segezha в 2023 источнике",
+                    "company_name":  "ПАО ГК \"Сегежа\"",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Сегежа Групп\"",
+                                                        "role":  "член Совета директоров",
+                                                        "start_year":  2023,
+                                                        "end_year":  null,
+                                                        "description":  "Interfax 2023 сообщает, что Андрей Фролов вошел в Совет директоров Segezha; локальный 2024 отчет имена директоров не раскрывает.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "MOEXBMI_2024.csv",
+                                                                            "title":  "MOEXBMI_2024.csv",
+                                                                            "fact":  "CSV содержит Andrey Frolov с позицией Director/Board Member."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.interfax.ru/business/895479",
+                                                                            "title":  "Интерфакс: Segezha досрочно обновила совет директоров",
+                                                                            "fact":  "Статья 11.04.2023 указывает Андрея Фролова среди новых членов Совета директоров и описывает его как вице-президента Союза лесопромышленников и лесоэкспортеров России."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Paper & Forest Products"
+                                                    },
+                                                    {
+                                                        "organization":  "Союз лесопромышленников и лесоэкспортеров России",
+                                                        "role":  "вице-президент",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Interfax 2023 использует эту должность при описании нового члена Совета директоров Segezha.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.interfax.ru/business/895479",
+                                                                            "title":  "Интерфакс: Segezha досрочно обновила совет директоров",
+                                                                            "fact":  "Статья называет Андрея Фролова вице-президентом Союза лесопромышленников и лесоэкспортеров России."
+                                                                        }
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV содержит Andrey Frolov как Director/Board Member."
+                                    },
+                                    {
+                                        "url":  "https://www.interfax.ru/business/895479",
+                                        "title":  "Интерфакс: Segezha досрочно обновила совет директоров",
+                                        "fact":  "Подтверждает включение Андрея Фролова в Совет директоров в 2023 году."
+                                    }
+                                ],
+                    "notes":  "Отчество и образование не подтверждены. 2024 локальный отчет не раскрывает имена директоров. HONEST-GAP FOLLOW-UP (раунд quality_pass_round1_20260801): он не входит в состав Совета директоров по состоянию на 31.12.2020 (проверено по таблице членов Совета директоров в Segezha Group Annual Report 2020, стр. 154 — Фролова там нет; вошел в Совет только в 2023 по данным Interfax), поэтому официальной биографии по этому первичному источнику нет. Свежий запрос через DuckDuckGo HTML: \"Фролов Андрей\" Союз лесопромышленников вице-президент — результат: единственная находка (БД \"Лабиринт\") относится к однофамильцу Андрею Владимировичу Фролову из группы СОК (автопром), не связанному с лесопромышленностью или Segezha; отклонена как однофамилец. Новых источников с отчеством/образованием нашего Фролова не найдено; пробел остается нерешенным."
+                },
+                {
+                    "name":  "Sergey Shishkin",
+                    "current_role":  "Director/Board Member по CSV; член Совета директоров Segezha в 2023 источнике",
+                    "company_name":  "ПАО ГК \"Сегежа\"",
+                    "education":  [
+                                      {
+                                          "program":  "высшее образование",
+                                          "university":  "Московский государственный университет",
+                                          "field":  null,
+                                          "year":  null,
+                                          "sources":  [
+                                                          {
+                                                              "url":  "https://www.marketscreener.com/quote/stock/SEGEZHA-GROUP-123103127/company-governance/",
+                                                              "title":  "MarketScreener: Segezha Group PJSC company governance",
+                                                              "fact":  "Профиль руководства/директоров указывает образование Sergey Shishkin в Moscow State University; источник вторичный."
+                                                          }
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Сегежа Групп\"",
+                                                        "role":  "член Совета директоров",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "CSV и Interfax 2023 связывают Сергея Шишкина с Советом директоров Segezha.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "MOEXBMI_2024.csv",
+                                                                            "title":  "MOEXBMI_2024.csv",
+                                                                            "fact":  "CSV содержит Sergey Shishkin с позицией Director/Board Member."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.interfax.ru/business/895479",
+                                                                            "title":  "Интерфакс: Segezha досрочно обновила совет директоров",
+                                                                            "fact":  "Статья 11.04.2023 указывает Сергея Шишкина среди директоров, сохранивших место в Совете директоров Segezha."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Paper & Forest Products"
+                                                    },
+                                                    {
+                                                        "organization":  "АФК \"Система\"",
+                                                        "role":  "вице-президент по корпоративному управлению и правовым вопросам",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Interfax 2023 использует эту должность при идентификации Сергея Шишкина. GICS-классификация взята из top-level классификации тикера AFKS в этом же корпусе (output/AFKS_person_info.json), так как АФК \"Система\" сама является публичной компанией с определенной классификацией.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.interfax.ru/business/895479",
+                                                                            "title":  "Интерфакс: Segezha досрочно обновила совет директоров",
+                                                                            "fact":  "Статья называет Сергея Шишкина вице-президентом АФК по корпоративному управлению и правовым вопросам."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Financial Services (New Name)"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV содержит Sergey Shishkin как Director/Board Member."
+                                    },
+                                    {
+                                        "url":  "https://www.interfax.ru/business/895479",
+                                        "title":  "Интерфакс: Segezha досрочно обновила совет директоров",
+                                        "fact":  "Подтверждает board-context Сергея Шишкина."
+                                    }
+                                ],
+                    "notes":  "Возможные диссертационные и публикационные совпадения по имени не включены: не удалось надежно связать их с тем же корпоративным лицом. Образование основано на вторичном агрегаторе."
+                },
+                {
+                    "name":  "Denis Martyanov",
+                    "current_role":  "Director/Board Member по CSV, но 2024 статус не подтвержден",
+                    "company_name":  "ПАО ГК \"Сегежа\"",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Сегежа Групп\"",
+                                                        "role":  "исторический член Совета директоров по CSV/старым источникам",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "CSV содержит board role. Interfax 2023 сообщает, что экс-гендиректор \"Интер Форес Групп\" Денис Мартьянов не сохранил место в Совете директоров при обновлении 2023 года, поэтому CSV-роль выглядит исторической.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "MOEXBMI_2024.csv",
+                                                                            "title":  "MOEXBMI_2024.csv",
+                                                                            "fact":  "CSV содержит Denis Martyanov с позицией Director/Board Member."
+                                                                        },
+                                                                        {
+                                                                            "url":  "https://www.interfax.ru/business/895479",
+                                                                            "title":  "Интерфакс: Segezha досрочно обновила совет директоров",
+                                                                            "fact":  "Статья 11.04.2023 сообщает, что экс-гендиректор \"Интер Форес Групп\" Денис Мартьянов не сохранил место в Совете директоров Segezha."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Paper & Forest Products"
+                                                    },
+                                                    {
+                                                        "organization":  "Интер Форес Групп",
+                                                        "role":  "экс-генеральный директор",
+                                                        "start_year":  null,
+                                                        "end_year":  2021,
+                                                        "description":  "Interfax 2023 использует эту должность для идентификации Дениса Мартьянова. GICS-классификация уточнена в раунде quality_pass_round1_20260801: та же статья Интерфакса (уже цитируемый источник) уточняет, что \"Интер Форес Групп\" была куплена Segezha в конце 2021 года — то есть это лесопромышленный/лесозаготовительный актив, приобретенный материнской компанией, что оправдывает классификацию Paper & Forest Products по аналогии с профилем Segezha.",
+                                                        "sources":  [
+                                                                        {
+                                                                            "url":  "https://www.interfax.ru/business/895479",
+                                                                            "title":  "Интерфакс: Segezha досрочно обновила совет директоров",
+                                                                            "fact":  "Статья называет Дениса Мартьянова экс-гендиректором \"Интер Форес Групп\"; уточняет: «экс-гендиректор «Интер Форес Групп» (куплена Segezha в конце 2021 года) Денис Мартьянов»."
+                                                                        }
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Paper & Forest Products"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV содержит Denis Martyanov как Director/Board Member."
+                                    },
+                                    {
+                                        "url":  "https://www.interfax.ru/business/895479",
+                                        "title":  "Интерфакс: Segezha досрочно обновила совет директоров",
+                                        "fact":  "Используется для проверки исторического board status и одноименной связки с Inter Forest Group."
+                                    }
+                                ],
+                    "notes":  "Существенная неопределенность: CSV не дает отчества, а Interfax 2023 указывает выбытие из Совета директоров. Другие биографические факты не добавлены из-за риска смешения однофамильцев. HONEST-GAP FOLLOW-UP (раунд quality_pass_round1_20260801): он не входит в состав Совета директоров/Правления по состоянию на 31.12.2020 (проверено по Segezha Group Annual Report 2020, приложения 3-4 — Мартьянова там нет), поэтому официальная биография из этого первичного источника недоступна. Свежий запрос через WebFetch на уже цитируемую статью Интерфакса уточнил только факт покупки \"Интер Форес Групп\" Segezha в конце 2021 года (использовано для уточнения GICS выше); отчества и образования Мартьянова по-прежнему не найдено, пробел остается нерешенным."
+                }
+            ],
+    "board_sources":  [
+                          {
+                              "url":  "MOEXBMI_2024.csv",
+                              "title":  "MOEXBMI_2024.csv",
+                              "fact":  "CSV contains predefined company people and positions used as pipeline input."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/SGZH/Segezha Group Годовой отчет 2024_disclosure.pdf",
+                              "title":  "Segezha Group Годовой отчет 2024",
+                              "fact":  "Страницы 190, 196-200, 206-215: отчет подтверждает обновления Совета директоров 27 мая и 9 сентября 2024 года, девять членов Совета директоров на 31 декабря 2024 года, работу комитетов, назначение Президента и структуру Правления; имена директоров в отчете не раскрыты."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/SGZH/Segezha_IFRS_Cons_SP_FS_24-rus_signed.pdf",
+                              "title":  "Консолидированная финансовая отчетность специального назначения за 2024 год",
+                              "fact":  "Страницы 6-7: отчетность подписана Президентом Александром Крещенко и Вице-президентом по финансам и инвестициям Антоном Рожковым; страница 14: функции руководства, отвечающего за операционные решения, выполняет Правление во главе с Президентом Группы."
+                          },
+                          {
+                              "url":  "https://www.interfax.ru/business/895479",
+                              "title":  "Интерфакс: Segezha досрочно обновила совет директоров из-за выхода из него некоторых участников",
+                              "fact":  "Статья 11.04.2023 перечисляет состав обновленного Совета директоров: Артем Засурский, Али Узденов, Михаил Шамолин, Сергей Шишкин, Мухадин Эскиндаров, Ровшан Алиев, Светлана Матвеева, Максим Сарманов и Андрей Фролов; также указывает, что Владимир Тузов, Денис Мартьянов и ряд других не сохранили места."
+                          },
+                          {
+                              "url":  "https://fomag.ru/news-streem/shamolin-pereydet-s-dolzhnosti-glavy-segezha-group-na-post-predsedatelya-soveta-direktorov/",
+                              "title":  "Fomag / ТАСС: Шамолин перейдет с должности главы Segezha Group на пост председателя совета директоров",
+                              "fact":  "Новость 26.06.2024 сообщает о переходе Михаила Шамолина к председательству в Совете директоров и назначении Александра Крещенко главой компании."
+                          },
+                          {
+                              "url":  "https://abn.agency/2024/09/12/segezha-raspustila-sovet-direktorov-cherez-4-mesyacza-posle-naznacheniya/",
+                              "title":  "ABN: Segezha распустила совет директоров через 4 месяца после назначения",
+                              "fact":  "Источник сообщает, что после сентябрьского обновления 2024 года новый состав управленцев Segezha не раскрывался, а орган управления состоит из девяти человек."
+                          }
+                      ],
+    "sources":  [
+                    {
+                        "url":  "MOEXBMI_2024.csv",
+                        "title":  "MOEXBMI_2024.csv",
+                        "fact":  "Входной CSV содержит 22 строки SGZH и 14 уникальных персон после объединения вариантов имени Artem Zasursky."
+                    },
+                    {
+                        "url":  "MOEXBMI_Отчеты_2024/SGZH/Segezha Group Годовой отчет 2024_disclosure.pdf",
+                        "title":  "Segezha Group Годовой отчет 2024",
+                        "fact":  "Первичный локальный источник по корпоративному управлению за 2024 год; проверены страницы 1-8, 190-220, 241-246 и контакты."
+                    },
+                    {
+                        "url":  "MOEXBMI_Отчеты_2024/SGZH/Segezha_IFRS_Cons_SP_FS_24-rus_signed.pdf",
+                        "title":  "Консолидированная финансовая отчетность специального назначения за 2024 год",
+                        "fact":  "Первичный локальный источник по подписантам отчетности и структуре руководства."
+                    },
+                    {
+                        "url":  "https://www.interfax.ru/business/895479",
+                        "title":  "Интерфакс: Segezha досрочно обновила совет директоров",
+                        "fact":  "Проверка состава Совета директоров 2023 года и исторических конфликтов CSV."
+                    },
+                    {
+                        "url":  "https://fomag.ru/news-streem/shamolin-pereydet-s-dolzhnosti-glavy-segezha-group-na-post-predsedatelya-soveta-direktorov/",
+                        "title":  "Fomag / ТАСС: Шамолин перейдет с должности главы Segezha Group на пост председателя совета директоров",
+                        "fact":  "Проверка кадрового перехода CEO/President в 2024 году."
+                    },
+                    {
+                        "url":  "https://www.marketscreener.com/quote/stock/SEGEZHA-GROUP-123103127/company-governance/",
+                        "title":  "MarketScreener: Segezha Group PJSC company governance",
+                        "fact":  "Вторичный агрегатор по лицам; использовался только с оговоркой, особенно там, где он конфликтует с локальным 2024 контекстом."
+                    },
+                    {
+                        "url":  "https://events.vedomosti.ru/speakers/mileshin-mihail-7253",
+                        "title":  "Ведомости.Конференции: Михаил Милешин",
+                        "fact":  "Профессиональная страница использована для подтверждения личности Михаила Милешина в Segezha-контексте."
+                    },
+                    {
+                        "url":  "https://events.vedomosti.ru/speakers/zasurskii-artem-30871",
+                        "title":  "Ведомости.Конференции: Артем Засурский",
+                        "fact":  "Профессиональная страница использована для проверки варианта имени Artem Zasursky / Артем Засурский."
+                    },
+                    {
+                        "url":  "https://globalmsk.ru/person/id/10657",
+                        "title":  "GlobalMSK: Оксана Тихонова",
+                        "fact":  "Вторичный источник по HR-роли Оксаны Тихоновой."
+                    },
+                    {
+                        "url":  "https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf",
+                        "title":  "Segezha Group Annual Report 2020",
+                        "fact":  "Старый отчет найден как источник биографических фрагментов через индексированный текст; прямое скачивание PDF в текущей сессии завершалось таймаутом, поэтому связанные факты помечены как слабые."
+                    },
+                    {
+                        "url":  "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1682180",
+                        "title":  "e-disclosure FileLoad 1682180",
+                        "fact":  "Источник был скачан как архив со старым бинарным Word-документом, но в окружении отсутствуют инструменты для надежного чтения .doc; факты из него не переносились."
+                    }
+                ],
+    "validation_notes":  "Обработано 14 уникальных персон из CSV SGZH; дополнительно в ceo включен Александр Михайлович Крещенко, потому что локальные источники 2024 года подтверждают его как Президент/CEO-equivalent, хотя его нет в CSV. Проверено 2 локальных документа SGZH за 2024 год: годовой отчет и консолидированная финансовая отчетность специального назначения. Выполнен 1 research round по каждой CSV-персоне и отдельный round по Крещенко; всего 15 person notes плюс overview. Локальный годовой отчет 2024 подтверждает девять членов Совета директоров на 31.12.2024, но не раскрывает их имена; поэтому board/person роли из CSV и агрегаторов проверялись через Interfax и помечались как исторические или слабые, если конфликтовали с 2024 локальными документами. Существенные неопределенности: Vladimir Tuzov, Vladimir Travkov, Denis Martyanov и часть board roles не имеют named local 2024 confirmation (но подтверждены по состоянию на 31.12.2020 официальной биографией из отчета 2020 года — расхождение с CSV объясняется сменой во времени, а не ошибкой); Rovshan Aliyev конфликтует с локальной IFRS-подписью Антона Рожкова как VP Finance and Investments (также объяснено сменой во времени: Алиев был VP Finance and Investments 2019-2023, затем перешел в Совет директоров); Mikhail Shamolin в CSV указан CEO, но локальный отчет и новости подтверждают переход CEO/President к Александру Крещенко.\n\nОБНОВЛЕНИЕ (раунд quality_pass_round1_20260801, quality/depth pass): STEP 0 сверка с git HEAD (f973022) не выявила регрессий для этого тикера — 0 расхождений по notes/professional_experience/education/sources до начала правок. Ключевая находка раунда: ранее \"недоступный\" (таймаут скачивания) первичный источник https://www.akm.ru/upload/akmrating/SEGEZHA_annual_report_2020.pdf успешно открыт и прочитан через Read-инструмент (274 страницы, включая полные официальные биографии Совета директоров и Правления Segezha Group по состоянию на 31.12.2020) — это закрыло honest-gaps по образованию для Ali Uzdenov, Rovshan Aliyev, Oksana Tikhonova, Pavel Vakhnin, Vladimir Tuzov, Vladimir Sergeyevich Travkov и разрешило 2 ГЕНУИННЫХ РАСХОЖДЕНИЯ по образованию Mikhail Mileshin (неверная запись \"Нижегородский технический университет, 2007\" отклонена как недостоверная/хронологически подозрительная, заменена на верное ГУ-ВШЭ/ГУУ) и Salavat Mirsaev (неверная запись \"Башкирский сельскохозяйственный институт, 1988\" отклонена как хронологически невозможная при годе рождения 1976, заменена на верные Башкирский государственный аграрный университет + Башкирская академия государственной службы). Образование Mikhail Shamolin дополнено недостающей записью (Российская академия государственной службы), которая упоминалась в research_notes, но отсутствовала в JSON; специальность МАДИ исправлена с \"прикладная математика\" на верную \"автомобильные дороги и аэродромы\" по тому же первичному источнику. Образование Artem Zasursky (МГУ, география/журналистика) восстановлено из уже цитируемого источника Ведомости.Конференции — упоминалось в research_notes, но отсутствовало в JSON (простое упущение). Образование Alexander Kreshchenko частично заполнено через поисковый сниппет neftegaz.ru (МГТУ им. Баумана 1994, Московский университет потребительской кооперации 1997) с caveat среднего доверия — прямой фетч страницы не удался (SSL). GICS-исправления: заполнены все professional_experience-записи, где организация — сама ПАО \"Сегежа Групп\" (была null, хотя top-level GICS тикера уже известен — Materials/Materials/Paper & Forest Products), и все записи АФК \"Система\" (Financials/Financial Services (New Name)/Financial Services (New Name), по top-level классификации тикера AFKS в этом же корпусе); также добавлены GICS для новых записей (Schlumberger — Energy/Energy Equipment & Services; ЕвроХим — Materials/Chemicals; СУЭК — Energy/Oil, Gas & Consumable Fuels, так как угольная компания классифицируется как Energy, а не Metals & Mining; МТС — Communication Services/Wireless Telecommunication Services; Интер Форес Групп — Materials/Paper & Forest Products, так как это лесопромышленный актив, купленный Segezha в конце 2021 года). Оставлены null (корректно non-classifiable): комбинированная запись \"АФК Система, МТС, McKinsey и другие организации\" у Shamolin (несколько организаций в одном поле, невозможно дать одну чистую классификацию) и \"Союз лесопромышленников и лесоэкспортеров России\" у Frolov (отраслевая некоммерческая ассоциация). Honest-gap follow-up с новыми запросами выполнен и не разрешен (пробел документирован в notes каждого лица) для: Anastasia Poletaeva (образование/карьера), Andrey Frolov (отчество/образование), Denis Martyanov (отчество/образование) — во всех трех случаях свежие запросы дали только однофамильцев без Segezha-контекста. Подробности всех решений — в research_notes/SGZH/quality_pass_round1_20260801.md.",
+    "sector":  "Materials",
+    "industry_group":  "Materials",
+    "industry":  "Paper \u0026 Forest Products"
+}

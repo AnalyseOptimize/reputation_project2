@@ -1,0 +1,1353 @@
+{
+    "company_name":  "ПАО \"Татнефть\" им. В.Д. Шашина",
+    "company_ticker":  "TATN",
+    "ceo":  {
+                "name":  "Маганов Наиль Ульфатович",
+                "current_role":  "Генеральный директор ПАО \"Татнефть\" им. В.Д. Шашина; член Совета директоров, избранного 27.06.2024",
+                "company_name":  "ПАО \"Татнефть\" им. В.Д. Шашина",
+                "education":  [
+                                  {
+                                      "year":  1983,
+                                      "institution":  "Московский институт нефтехимической и газовой промышленности им. И.М. Губкина",
+                                      "field":  "технология и комплексная механизация разработки нефтяных и газовых месторождений",
+                                      "qualification":  null,
+                                      "qualification_degree":  null
+                                  }
+                              ],
+                "degrees":  [
+
+                            ],
+                "professional_experience":  [
+                                                {
+                                                    "organization":  "НГДУ \"Заинскнефть\" / система \"Татнефти\"",
+                                                    "role":  "оператор, мастер, начальник цеха, главный инженер, начальник НГДУ",
+                                                    "start_year":  1976,
+                                                    "end_year":  1994,
+                                                    "description":  "Корпоративная биография описывает карьерный рост в производственных подразделениях \"Татнефти\".",
+                                                    "sector":  null,
+                                                    "industry_group":  null,
+                                                    "industry":  null
+                                                },
+                                                {
+                                                    "organization":  "ОАО/ПАО \"Татнефть\"",
+                                                    "role":  "заместитель генерального директора, первый заместитель генерального директора по добыче нефти и газа",
+                                                    "start_year":  1994,
+                                                    "end_year":  2013,
+                                                    "description":  "До назначения генеральным директором занимал руководящие производственные должности.",
+                                                    "sector":  null,
+                                                    "industry_group":  null,
+                                                    "industry":  null
+                                                },
+                                                {
+                                                    "organization":  "ПАО \"Татнефть\"",
+                                                    "role":  "генеральный директор",
+                                                    "start_year":  2013,
+                                                    "end_year":  null,
+                                                    "description":  "Указан корпоративными источниками как генеральный директор.",
+                                                    "sector":  null,
+                                                    "industry_group":  null,
+                                                    "industry":  null
+                                                }
+                                            ],
+                "research_experience":  [
+
+                                        ],
+                "publications":  [
+
+                                 ],
+                "patents":  [
+
+                            ],
+                "h_index":  null,
+                "sources":  [
+                                {
+                                    "url":  "https://old.tatneft.ru/for-shareholders/control-and-management-system/board-of-directors?lang=en",
+                                    "title":  "Tatneft official archive: Board of Directors",
+                                    "fact":  "Official archived board biography states Maganov\u0027s education, long Tatneft production career, and appointment as General Director in 2013."
+                                },
+                                {
+                                    "url":  "https://www.tadviser.ru/index.php/Персона:Маганов_Наиль_Ульфатович",
+                                    "title":  "TAdviser: Маганов Наиль Ульфатович",
+                                    "fact":  "Business profile corroborates his Gubkin education and career progression in Tatneft."
+                                },
+                                {
+                                    "url":  "https://www.efbank.ru/files/rus/dep/news/news_7063.pdf",
+                                    "title":  "Efbank / corporate action notice for Tatneft AGM 27.06.2024",
+                                    "fact":  "The 27.06.2024 AGM voting item includes Maganov Nail Ulfatovich among elected Tatneft board directors."
+                                },
+                                {
+                                    "url":  "MOEXBMI_Отчеты_2024/TATN/Годовой отчет 2024 _ПАО Татнефть.pdf",
+                                    "title":  "Годовой отчет ПАО \"Татнефть\" за 2024 год",
+                                    "fact":  "Страница 37: annual report describes the single executive body as the General Director and states that the Management Board includes three executives including the General Director."
+                                }
+                            ],
+                "notes":  "CEO identity is strong: same full name, Tatneft role, board election in 2024, and official archived biography. No verified academic publications or h-index were found."
+            },
+    "tmt":  [
+                {
+                    "name":  "Минниханов Рустам Нургалиевич",
+                    "current_role":  "Председатель Совета директоров ПАО \"Татнефть\" им. В.Д. Шашина; представитель Республики Татарстан по специальному праву",
+                    "company_name":  "ПАО \"Татнефть\" им. В.Д. Шашина",
+                    "education":  [
+                                      {
+                                          "year":  1978,
+                                          "institution":  "Казанский сельскохозяйственный институт",
+                                          "field":  null,
+                                          "qualification":  null,
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "year":  1986,
+                                          "institution":  "Московский институт советской торговли",
+                                          "field":  null,
+                                          "qualification":  null,
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "degree":  "доктор экономических наук",
+                                        "year":  null,
+                                        "field":  "экономика",
+                                        "qualification_degree":  null
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Республика Татарстан",
+                                                        "role":  "министр финансов; премьер-министр; президент/Раис Республики Татарстан",
+                                                        "start_year":  1996,
+                                                        "end_year":  null,
+                                                        "description":  "Официальная корпоративная биография фиксирует государственную карьеру с 1996 года и должность главы Татарстана с 2010 года.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Татнефть\"",
+                                                        "role":  "председатель Совета директоров",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "В корпоративных источниках указан председателем Совета директоров.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://old.tatneft.ru/for-shareholders/control-and-management-system/board-of-directors?lang=en",
+                                        "title":  "Tatneft official archive: Board of Directors",
+                                        "fact":  "Archived official biography identifies Minnikhanov as Chairman of the Board, lists two higher-education institutions, Doctor of Economics degree, and government career."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/TATN/Годовой отчет 2024 _ПАО Татнефть.pdf",
+                                        "title":  "Годовой отчет ПАО \"Татнефть\" за 2024 год",
+                                        "fact":  "Страница 26: annual report states the board has 15 directors, including one representative appointed by the Government of the Republic of Tatarstan under the golden share."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/TATN/МСФО Татнефть 2024.pdf",
+                                        "title":  "Консолидированная финансовая отчетность Татнефти за 2024 год",
+                                        "fact":  "Страница 29: IFRS notes confirm the Republic of Tatarstan golden share gives the Government power to appoint one board representative."
+                                    },
+                                    {
+                                        "url":  "https://old.tatneft.ru/press-tsentr/press-relizi/more/8883?lang=ru",
+                                        "title":  "Tatneft official archive: press release on Board Chairman",
+                                        "fact":  "Official archive press release identifies Rustam Minnikhanov as Chairman of Tatneft\u0027s Board of Directors."
+                                    }
+                                ],
+                    "notes":  "He is not in the 14-person elected list because the 2024 board model includes a government-appointed representative under the golden share. No verified publications or h-index were added."
+                },
+                {
+                    "name":  "Сюбаев Нурислам Зинатулович",
+                    "current_role":  "Член Совета директоров ПАО \"Татнефть\", избран 27.06.2024",
+                    "company_name":  "ПАО \"Татнефть\" им. В.Д. Шашина",
+                    "education":  [
+                                      {
+                                          "year":  1982,
+                                          "institution":  "Московский институт народного хозяйства им. Г.В. Плеханова",
+                                          "field":  null,
+                                          "qualification":  null,
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Татнефть\"",
+                                                        "role":  "заместитель генерального директора, директор по стратегическому развитию",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Corporate biography links him to Tatneft senior management and the board.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://old.tatneft.ru/for-shareholders/control-and-management-system/board-of-directors?lang=en",
+                                        "title":  "Tatneft official archive: Board of Directors",
+                                        "fact":  "Official archived biography identifies Suybaev and gives his Plekhanov Institute education and Tatneft senior-management role."
+                                    },
+                                    {
+                                        "url":  "https://www.efbank.ru/files/rus/dep/news/news_7063.pdf",
+                                        "title":  "Efbank / corporate action notice for Tatneft AGM 27.06.2024",
+                                        "fact":  "The AGM decision list for 27.06.2024 includes Suybaev Nurislam Zinatullovich among elected Tatneft directors."
+                                    }
+                                ],
+                    "notes":  "Identity confirmed by exact full name, Tatneft role, and 2024 AGM source. No verified scientific profile found."
+                },
+                {
+                    "name":  "Халимов Рустам Хамисович",
+                    "current_role":  "Член Совета директоров ПАО \"Татнефть\", избран 27.06.2024",
+                    "company_name":  "ПАО \"Татнефть\" им. В.Д. Шашина",
+                    "education":  [
+                                      {
+                                          "year":  1986,
+                                          "institution":  "Уфимский нефтяной институт",
+                                          "field":  null,
+                                          "qualification":  null,
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "degree":  "кандидат технических наук",
+                                        "year":  null,
+                                        "field":  "технические науки",
+                                        "qualification_degree":  null
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Татнефть\"",
+                                                        "role":  "заместитель генерального директора - главный инженер",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Corporate biography links him to Tatneft technical management.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://old.tatneft.ru/for-shareholders/control-and-management-system/board-of-directors?lang=en",
+                                        "title":  "Tatneft official archive: Board of Directors",
+                                        "fact":  "Official archived biography identifies Khalimov, his Ufa Oil Institute education, Candidate of Technical Sciences degree, and chief engineer role."
+                                    },
+                                    {
+                                        "url":  "https://www.efbank.ru/files/rus/dep/news/news_7063.pdf",
+                                        "title":  "Efbank / corporate action notice for Tatneft AGM 27.06.2024",
+                                        "fact":  "The AGM decision list for 27.06.2024 includes Khalimov Rustam Khamisovich among elected Tatneft directors."
+                                    }
+                                ],
+                    "notes":  "No separate publication or patent profile was confirmed; academic degree is retained from the official corporate biography."
+                },
+                {
+                    "name":  "Хисамов Раис Салихович",
+                    "current_role":  "Член Совета директоров ПАО \"Татнефть\", избран 27.06.2024",
+                    "company_name":  "ПАО \"Татнефть\" им. В.Д. Шашина",
+                    "education":  [
+                                      {
+                                          "year":  1972,
+                                          "institution":  "Казанский государственный университет",
+                                          "field":  "геология/геофизика",
+                                          "qualification":  null,
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "degree":  "доктор геолого-минералогических наук",
+                                        "year":  null,
+                                        "field":  "геолого-минералогические науки",
+                                        "qualification_degree":  null
+                                    },
+                                    {
+                                        "degree":  "профессор",
+                                        "year":  2005,
+                                        "field":  "разработка и эксплуатация нефтяных и газовых месторождений",
+                                        "qualification_degree":  null
+                                    },
+                                    {
+                                        "degree":  "академик Академии наук Республики Татарстан",
+                                        "year":  null,
+                                        "field":  null,
+                                        "qualification_degree":  null
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Татнефть\"",
+                                                        "role":  "главный геолог / заместитель генерального директора; советник генерального директора",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Sources link him to Tatneft geological leadership and board work.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Академия наук Республики Татарстан",
+                                                        "role":  "академик, нефтегазовая геология",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Academic profile describes research in petroleum geology.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+                                                {
+                                                    "organization":  "Академия наук Республики Татарстан / нефтегазовая геология",
+                                                    "role":  "исследователь и автор работ по геологии нефтяных месторождений",
+                                                    "description":  "ANTAT profile attributes hundreds of scientific works and inventions to him."
+                                                }
+                                            ],
+                    "publications":  [
+                                         {
+                                             "description":  "ANTAT profile states 502 scientific publications, including 29 monographs; 484 of the 502 works were published after his doctoral defense (QUALITY PASS 2026-08-01: monograph/post-doctoral breakdown confirmed via a fresh direct re-fetch of the same antat.ru profile already cited)."
+                                         }
+                                     ],
+                    "patents":  [
+                                    {
+                                        "description":  "ANTAT profile states 417 inventions, of which 408 were granted after his doctoral defense (QUALITY PASS 2026-08-01: breakdown confirmed via a fresh direct re-fetch of the same antat.ru profile already cited)."
+                                    }
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://www.antat.ru/ru/staff/3356/",
+                                        "title":  "Академия наук Республики Татарстан: Хисамов Раис Салихович",
+                                        "fact":  "ANTAT profile gives education, Doctor of Geological and Mineralogical Sciences, professor/academician status, scientific output and inventions."
+                                    },
+                                    {
+                                        "url":  "https://old.tatneft.ru/for-shareholders/control-and-management-system/board-of-directors?lang=en",
+                                        "title":  "Tatneft official archive: Board of Directors",
+                                        "fact":  "Official archived board biography links Khisamov to Tatneft and lists his academic degree and geological leadership."
+                                    },
+                                    {
+                                        "url":  "https://www.efbank.ru/files/rus/dep/news/news_7063.pdf",
+                                        "title":  "Efbank / corporate action notice for Tatneft AGM 27.06.2024",
+                                        "fact":  "The AGM decision list for 27.06.2024 includes Khisamov Rais Salikhovich among elected Tatneft directors."
+                                    }
+                                ],
+                    "notes":  "Post-2024 information about death was treated only as identity corroboration and not used to alter 2024 role. QUALITY PASS (2026-08-01): honest-gap follow-up for the flagged 'h-index not confirmed' gap -- re-fetched the same antat.ru profile already cited, directly and in full this round. It confirmed the professorship award year (2005, in oil-and-gas field development and exploitation -- added to degrees) and a monograph/post-doctoral publication breakdown (added to publications/patents descriptions), plus awards (USSR Ministry of Oil and Gas Industry Prize, Tatarstan State Prize, Gubkin Prize, 2012 Russian Government Prize in Science and Technology) not previously captured, but it still does not mention any h-index, Scopus/RSCI identifier, or citation-metric figure. h_index remains null; treated as a genuine absence in this source rather than an unopened page, consistent with round 1's assessment."
+                },
+                {
+                    "name":  "Нурмухаметов Рафаиль Саитович",
+                    "current_role":  "Член Совета директоров ПАО \"Татнефть\", избран 27.06.2024",
+                    "company_name":  "ПАО \"Татнефть\" им. В.Д. Шашина",
+                    "education":  [
+                                      {
+                                          "year":  1971,
+                                          "institution":  "Уфимский нефтяной институт",
+                                          "field":  null,
+                                          "qualification":  null,
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "degree":  "кандидат технических наук",
+                                        "year":  null,
+                                        "field":  "технические науки",
+                                        "qualification_degree":  null
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Татнефть\" / НГДУ \"Азнакаевскнефть\"",
+                                                        "role":  "руководитель нефтегазодобывающего управления; член Совета директоров",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Corporate biography links him to Tatneft production management.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://old.tatneft.ru/for-shareholders/control-and-management-system/board-of-directors?lang=en",
+                                        "title":  "Tatneft official archive: Board of Directors",
+                                        "fact":  "Official archived biography identifies Nurmukhametov, his Ufa Oil Institute education, Candidate of Technical Sciences degree, and Tatneft production-management background."
+                                    },
+                                    {
+                                        "url":  "https://www.efbank.ru/files/rus/dep/news/news_7063.pdf",
+                                        "title":  "Efbank / corporate action notice for Tatneft AGM 27.06.2024",
+                                        "fact":  "The AGM decision list for 27.06.2024 includes Nurmukhametov Rafail Saitovich among elected Tatneft directors."
+                                    }
+                                ],
+                    "notes":  "No separate research profile, publications, patents, or h-index were confirmed."
+                },
+                {
+                    "name":  "Гайзатуллин Радик Рауфович",
+                    "current_role":  "Член Совета директоров ПАО \"Татнефть\", избран 27.06.2024",
+                    "company_name":  "ПАО \"Татнефть\" им. В.Д. Шашина",
+                    "education":  [
+                                      {
+                                          "year":  1985,
+                                          "institution":  "Казанский сельскохозяйственный институт",
+                                          "field":  null,
+                                          "qualification":  null,
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "degree":  "доктор экономических наук",
+                                        "year":  null,
+                                        "field":  "экономика",
+                                        "qualification_degree":  null
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Министерство финансов Республики Татарстан",
+                                                        "role":  "министр финансов Республики Татарстан",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Corporate and government-related profiles identify him as the finance minister.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Татнефть\"",
+                                                        "role":  "член Совета директоров",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Included in the 2024 AGM elected board list.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://old.tatneft.ru/for-shareholders/control-and-management-system/board-of-directors?lang=en",
+                                        "title":  "Tatneft official archive: Board of Directors",
+                                        "fact":  "Official archived biography identifies Gayzatullin, his education, Doctor of Economics degree, and ministerial role."
+                                    },
+                                    {
+                                        "url":  "https://www.efbank.ru/files/rus/dep/news/news_7063.pdf",
+                                        "title":  "Efbank / corporate action notice for Tatneft AGM 27.06.2024",
+                                        "fact":  "The AGM decision list for 27.06.2024 includes Gayzatullin Radik Raufovich among elected Tatneft directors."
+                                    }
+                                ],
+                    "notes":  "No verified publication or h-index profile was added."
+                },
+                {
+                    "name":  "Галиев Ренат Маратович",
+                    "current_role":  "Член Совета директоров ПАО \"Татнефть\", избран 27.06.2024",
+                    "company_name":  "ПАО \"Татнефть\" им. В.Д. Шашина",
+                    "education":  [
+                                      {
+                                          "year":  2011,
+                                          "institution":  "Российский государственный университет нефти и газа им. И.М. Губкина",
+                                          "field":  "разработка и эксплуатация нефтяных и газовых месторождений",
+                                          "qualification":  null,
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Татнефть\"",
+                                                        "role":  "помощник генерального директора",
+                                                        "start_year":  2014,
+                                                        "end_year":  2017,
+                                                        "description":  "TatCenter profile links him to Tatneft before government service.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Аппарат Раиса Республики Татарстан",
+                                                        "role":  "помощник Раиса Республики Татарстан",
+                                                        "start_year":  2023,
+                                                        "end_year":  null,
+                                                        "description":  "TatCenter profile identifies the current government role.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Татнефть\"",
+                                                        "role":  "член Совета директоров",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Included in the 2024 AGM elected board list.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://tatcenter.ru/person/galiev-renat-maratovich/",
+                                        "title":  "TatCenter: Галиев Ренат Маратович",
+                                        "fact":  "Profile states Galiev\u0027s 2011 Gubkin education, Tatneft assistant role in 2014-2017, and appointment as assistant to the Rais of Tatarstan in 2023."
+                                    },
+                                    {
+                                        "url":  "https://www.efbank.ru/files/rus/dep/news/news_7063.pdf",
+                                        "title":  "Efbank / corporate action notice for Tatneft AGM 27.06.2024",
+                                        "fact":  "The AGM decision list for 27.06.2024 includes Galiev Renat Maratovich among elected Tatneft directors."
+                                    }
+                                ],
+                    "notes":  "Namesake risk was checked because older search results can refer to other regional executives; the Tatcenter profile and Tatneft board list align by full name and Tatneft/government context."
+                },
+                {
+                    "name":  "Сорокин Валерий Юрьевич",
+                    "current_role":  "Член Совета директоров ПАО \"Татнефть\", избран 27.06.2024",
+                    "company_name":  "ПАО \"Татнефть\" им. В.Д. Шашина",
+                    "education":  [
+                                      {
+                                          "year":  1985,
+                                          "institution":  "Казанский государственный университет",
+                                          "field":  null,
+                                          "qualification":  null,
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "АО \"Связьинвестнефтехим\"",
+                                                        "role":  "генеральный директор",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Corporate biography links him to the Tatarstan holding company Svyazinvestneftekhim.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Татнефть\"",
+                                                        "role":  "член Совета директоров",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Included in the 2024 AGM elected board list.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://old.tatneft.ru/for-shareholders/control-and-management-system/board-of-directors?lang=en",
+                                        "title":  "Tatneft official archive: Board of Directors",
+                                        "fact":  "Official archived biography identifies Sorokin, his Kazan State University education, and Svyazinvestneftekhim executive role."
+                                    },
+                                    {
+                                        "url":  "https://www.efbank.ru/files/rus/dep/news/news_7063.pdf",
+                                        "title":  "Efbank / corporate action notice for Tatneft AGM 27.06.2024",
+                                        "fact":  "The AGM decision list for 27.06.2024 includes Sorokin Valery Yuryevich among elected Tatneft directors."
+                                    }
+                                ],
+                    "notes":  "No verified research profile was found."
+                },
+                {
+                    "name":  "Тахаутдинов Шафагат Фахразович",
+                    "current_role":  "Член Совета директоров ПАО \"Татнефть\", избран 27.06.2024",
+                    "company_name":  "ПАО \"Татнефть\" им. В.Д. Шашина",
+                    "education":  [
+                                      {
+                                          "year":  1971,
+                                          "institution":  "Московский институт нефтехимической и газовой промышленности им. И.М. Губкина",
+                                          "field":  null,
+                                          "qualification":  null,
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "degree":  "доктор экономических наук",
+                                        "year":  null,
+                                        "field":  "экономика",
+                                        "qualification_degree":  null
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Татнефть\"",
+                                                        "role":  "генеральный директор / руководящие должности",
+                                                        "start_year":  1965,
+                                                        "end_year":  2013,
+                                                        "description":  "Corporate biography describes long Tatneft executive career including chief executive leadership. QUALITY PASS (2026-08-01): Russian Wikipedia biography (freshly fetched this round) gives a precise career chronology within the Tatneft/Almetyevsk system: 1965-1978 assistant driller, oil-production operator, underground-well-repair master, then shop chief at Almetyevsk Drilling Management; 1978-1990 head of the \"Dzhalilneft\" division and later of \"Almetyevneft\" oil-and-gas production management; from 1990 chief engineer and first deputy general director of the Tatneft joint-stock company; General Director of OAO Tatneft from 21 June 1999 to November 2013. start_year/end_year set to the outer bounds of this documented span (1965-2013); no earlier confirmed value existed to overwrite.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Республика Татарстан",
+                                                        "role":  "советник руководства Республики Татарстан",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Corporate biography links him to advisory/government-related roles after Tatneft executive work.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://old.tatneft.ru/for-shareholders/control-and-management-system/board-of-directors?lang=en",
+                                        "title":  "Tatneft official archive: Board of Directors",
+                                        "fact":  "Official archived biography identifies Takhautdinov, his Gubkin education, Doctor of Economics degree, and Tatneft leadership career."
+                                    },
+                                    {
+                                        "url":  "https://www.efbank.ru/files/rus/dep/news/news_7063.pdf",
+                                        "title":  "Efbank / corporate action notice for Tatneft AGM 27.06.2024",
+                                        "fact":  "The AGM decision list for 27.06.2024 includes Takhautdinov Shafagat Fakhrazovich among elected Tatneft directors."
+                                    },
+                                    {
+                                        "url":  "https://ru.wikipedia.org/wiki/Тахаутдинов,_Шафагат_Фахразович",
+                                        "title":  "Wikipedia: Тахаутдинов, Шафагат Фахразович",
+                                        "fact":  "Fetched 2026-08-01: confirms Oktyabrsky Oil Technical School (drilling specialization) before the Gubkin institute, and gives a detailed career chronology (1965-1978 production roles at Almetyevsk Drilling Management, 1978-1990 head of Dzhalilneft/Almetyevneft, from 1990 chief engineer/first deputy general director, General Director of OAO Tatneft from 21 June 1999 to November 2013). Lists state awards but documents no publications, patents, or scientific works."
+                                    }
+                                ],
+                    "notes":  "No verified publication list or h-index was added. QUALITY PASS (2026-08-01): honest-gap follow-up attempted for the flagged 'publications and h-index not confirmed' gap -- fetched ru.wikipedia.org/wiki/Тахаутдинов,_Шафагат_Фахразович (fresh source, not in round-1 query list). It gave a precise career chronology (added to professional_experience start_year/end_year) and a full awards list, but explicitly documents no publications, patents, or scientific works and no h-index. Treated as confirmation that the absence is real rather than an unopened source, not as an unresolved gap; publications/h_index remain null."
+                },
+                {
+                    "name":  "Глухова Лариса Юрьевна",
+                    "current_role":  "Член Совета директоров ПАО \"Татнефть\", избрана 27.06.2024",
+                    "company_name":  "ПАО \"Татнефть\" им. В.Д. Шашина",
+                    "education":  [
+                                      {
+                                          "year":  1987,
+                                          "institution":  "Казанский государственный университет",
+                                          "field":  null,
+                                          "qualification":  null,
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "АО \"Связьинвестнефтехим\"",
+                                                        "role":  "заместитель генерального директора / правовое сопровождение",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Corporate biography links her to Svyazinvestneftekhim legal and executive work.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Татнефть\"",
+                                                        "role":  "член Совета директоров",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Included in the 2024 AGM elected board list.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://old.tatneft.ru/for-shareholders/control-and-management-system/board-of-directors?lang=en",
+                                        "title":  "Tatneft official archive: Board of Directors",
+                                        "fact":  "Official archived biography identifies Glukhova, her Kazan State University education, and Svyazinvestneftekhim executive/legal role."
+                                    },
+                                    {
+                                        "url":  "https://www.efbank.ru/files/rus/dep/news/news_7063.pdf",
+                                        "title":  "Efbank / corporate action notice for Tatneft AGM 27.06.2024",
+                                        "fact":  "The AGM decision list for 27.06.2024 includes Glukhova Larisa Yuryevna among elected Tatneft directors."
+                                    }
+                                ],
+                    "notes":  "No verified research or publication record was found."
+                },
+                {
+                    "name":  "Аглиуллин Фаниль Анварович",
+                    "current_role":  "Член Совета директоров ПАО \"Татнефть\", избран 27.06.2024",
+                    "company_name":  "ПАО \"Татнефть\" им. В.Д. Шашина",
+                    "education":  [
+                                      {
+                                          "year":  1994,
+                                          "institution":  "Казанский юридический институт МВД России",
+                                          "field":  "юриспруденция",
+                                          "qualification":  null,
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Государственные органы Республики Татарстан",
+                                                        "role":  "правовые и административные должности",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Corporate biography links him to senior legal/government administration roles.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Татнефть\"",
+                                                        "role":  "член Совета директоров",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Included in the 2024 AGM elected board list.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://old.tatneft.ru/for-shareholders/control-and-management-system/board-of-directors?lang=en",
+                                        "title":  "Tatneft official archive: Board of Directors",
+                                        "fact":  "Official archived biography identifies Agliullin, his Kazan Law Institute education, and legal/government career."
+                                    },
+                                    {
+                                        "url":  "https://www.efbank.ru/files/rus/dep/news/news_7063.pdf",
+                                        "title":  "Efbank / corporate action notice for Tatneft AGM 27.06.2024",
+                                        "fact":  "The AGM decision list for 27.06.2024 includes Agliullin Fanil Anvarovich among elected Tatneft directors."
+                                    }
+                                ],
+                    "notes":  "No verified research profile was found."
+                },
+                {
+                    "name":  "Гереч Ласло",
+                    "current_role":  "Независимый член Совета директоров ПАО \"Татнефть\", избран 27.06.2024",
+                    "company_name":  "ПАО \"Татнефть\" им. В.Д. Шашина",
+                    "education":  [
+                                      {
+                                          "year":  1974,
+                                          "institution":  "Московский институт нефтехимической и газовой промышленности им. И.М. Губкина",
+                                          "field":  null,
+                                          "qualification":  null,
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "year":  1991,
+                                          "institution":  "Oxford Business University",
+                                          "field":  "business administration",
+                                          "qualification":  null,
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "MOL / G Petroconsulting Kft.",
+                                                        "role":  "нефтегазовый руководитель и консультант",
+                                                        "start_year":  2012,
+                                                        "end_year":  null,
+                                                        "description":  "Corporate biography links him to international oil and gas management/consulting. QUALITY PASS (2026-08-01), verbatim from the official Tatneft board biography (already cited): \"From January 2012 to December 2016 – Managing Director for MOL Oman – a representation office of MOL Group in Muscat, Oman.\" / \"Since January 2017 – Managing Director for 'G Petroconsulting LTD'.\" / \"Since July 2017, Independent Adviser (Reserves Estimate Committee member) for MOL Group.\" start_year set to 2012 (earliest confirmed date); end_year left null as both the MOL advisory role and G Petroconsulting are described as ongoing.",
+                                                        "sector":  "Energy",
+                                                        "industry_group":  "Energy",
+                                                        "industry":  "Oil, Gas \u0026 Consumable Fuels"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Татнефть\"",
+                                                        "role":  "независимый член Совета директоров",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Included in the 2024 AGM elected board list as an independent director.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://old.tatneft.ru/for-shareholders/control-and-management-system/board-of-directors?lang=en",
+                                        "title":  "Tatneft official archive: Board of Directors",
+                                        "fact":  "Official archived biography identifies Laslo Gerecs, his Gubkin and business-administration education, and oil-and-gas consulting career."
+                                    },
+                                    {
+                                        "url":  "https://www.efbank.ru/files/rus/dep/news/news_7063.pdf",
+                                        "title":  "Efbank / corporate action notice for Tatneft AGM 27.06.2024",
+                                        "fact":  "The AGM decision list for 27.06.2024 includes Laslo Gerecs among elected Tatneft directors."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/TATN/Годовой отчет 2024 _ПАО Татнефть.pdf",
+                                        "title":  "Годовой отчет ПАО \"Татнефть\" за 2024 год",
+                                        "fact":  "Страница 28: annual report states the Board\u0027s geographic composition includes one director from Hungary."
+                                    }
+                                ],
+                    "notes":  "Name transliteration checked as Гереч Ласло / Laslo Gerecs. No publications, patents, or h-index were verified."
+                },
+                {
+                    "name":  "Неклюдов Сергей Вячеславович",
+                    "current_role":  "Независимый член Совета директоров ПАО \"Татнефть\", избран 27.06.2024",
+                    "company_name":  "ПАО \"Татнефть\" им. В.Д. Шашина",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "PwC",
+                                                        "role":  "аудит и консалтинг",
+                                                        "start_year":  1992,
+                                                        "end_year":  1994,
+                                                        "description":  "Beterra profile describes early professional experience at PwC.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Deloitte",
+                                                        "role":  "партнер",
+                                                        "start_year":  1994,
+                                                        "end_year":  2021,
+                                                        "description":  "Beterra profile describes a long Deloitte partner career.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Группа БФКО \"Открытие\"",
+                                                        "role":  "старший вице-президент, главный аудитор",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "QUALITY PASS (2026-08-01), new professional_experience entry found this round: Beterra's own biography of Neklyudov, re-fetched in full, states verbatim (translated): \"I also have experience as Senior Vice President and Chief Auditor of Group BFKO 'Otkritie', where I was responsible for restructuring and the internal audit and control systems of the Group after its 2018 sanation (bank rescue).\" No specific start/end years are given by the source, so both are left null rather than estimated.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    },
+                                                    {
+                                                        "organization":  "Б1 / Beterra",
+                                                        "role":  "партнер",
+                                                        "start_year":  2021,
+                                                        "end_year":  null,
+                                                        "description":  "Beterra identifies him as a partner and describes work in audit/advisory.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Татнефть\"",
+                                                        "role":  "независимый член Совета директоров",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Included in the 2024 AGM elected board list as an independent director.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://beterra.ru/team/partners/nekludov/",
+                                        "title":  "Beterra: Сергей Неклюдов",
+                                        "fact":  "Professional profile describes his PwC, Deloitte, and Beterra partner experience. QUALITY PASS (2026-08-01): re-fetched in full this round -- also states verbatim his role as Senior Vice President and Chief Auditor of \"Группа БФКО 'Открытие'\" after its 2018 bank-rescue restructuring (added as a new professional_experience entry); confirms the page still contains no education institution, graduation year, degree, or professional certification for him."
+                                    },
+                                    {
+                                        "url":  "https://www.efbank.ru/files/rus/dep/news/news_7063.pdf",
+                                        "title":  "Efbank / corporate action notice for Tatneft AGM 27.06.2024",
+                                        "fact":  "The AGM decision list for 27.06.2024 includes Neklyudov Sergey Vyacheslavovich among elected Tatneft directors."
+                                    }
+                                ],
+                    "notes":  "Separate education searches did not produce a sufficiently opened, high-confidence education source, so education is left empty. Main namesake risk was auditor/consultant profiles with same name; Beterra and board source align by audit expertise and independent-director context. QUALITY PASS (2026-08-01): honest-gap follow-up for the flagged 'confirmed education' gap -- re-fetched beterra.ru/team/partners/nekludov/ directly and in full this round with a targeted prompt for education/university/degree wording. It still names no education institution, year, or degree -- education remains genuinely unresolved, not an unopened-source oversight. The same re-fetch did surface one previously-uncaptured employer (Group BFKO \"Otkritie\", Senior VP/Chief Auditor after the bank's 2018 sanation), added as a new professional_experience entry; this does not conflict with the existing PwC (1992-1994) / Deloitte (1994-2021) / Beterra (2021-present) entries since no dates are given for the Otkritie role, so nothing existing was altered."
+                },
+                {
+                    "name":  "Крюков Валерий Анатольевич",
+                    "current_role":  "Независимый член Совета директоров ПАО \"Татнефть\", избран 27.06.2024",
+                    "company_name":  "ПАО \"Татнефть\" им. В.Д. Шашина",
+                    "education":  [
+                                      {
+                                          "year":  null,
+                                          "institution":  "Новосибирский государственный университет",
+                                          "field":  "экономика",
+                                          "qualification":  null,
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "degree":  "доктор экономических наук",
+                                        "year":  null,
+                                        "field":  "экономика",
+                                        "qualification_degree":  null
+                                    },
+                                    {
+                                        "degree":  "академик РАН",
+                                        "year":  2019,
+                                        "field":  null,
+                                        "qualification_degree":  null
+                                    },
+                                    {
+                                        "degree":  "член-корреспондент РАН",
+                                        "year":  2011,
+                                        "field":  null,
+                                        "qualification_degree":  null
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Институт экономики и организации промышленного производства СО РАН",
+                                                        "role":  "директор / научный руководитель",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "HSE profile links him to senior academic economics roles.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "НИУ ВШЭ",
+                                                        "role":  "профессор",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "HSE profile identifies him as HSE academic staff.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Татнефть\"",
+                                                        "role":  "независимый член Совета директоров",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Included in the 2024 AGM elected board list as an independent director.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+                                                {
+                                                    "organization":  "РАН / НИУ ВШЭ / ИЭОПП СО РАН",
+                                                    "role":  "экономист-исследователь",
+                                                    "description":  "HSE profile lists academic appointments, research identifiers, and publications section."
+                                                }
+                                            ],
+                    "publications":  [
+                                         {
+                                             "description":  "SB RAS (Institute of Economics and Industrial Engineering Organization, Siberian Branch of RAS) official staff profile states Kryukov has authored more than 650 publications, including 54 monographs (3 sole-authored, 15 edited collections), with approximately 70 works published internationally."
+                                         }
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://www.hse.ru/staff/kryukov/",
+                                        "title":  "НИУ ВШЭ: Крюков Валерий Анатольевич",
+                                        "fact":  "HSE profile identifies Kryukov as Doctor of Economics, Academician of RAS, professor, and researcher with listed publications/research identifiers."
+                                    },
+                                    {
+                                        "url":  "https://www.efbank.ru/files/rus/dep/news/news_7063.pdf",
+                                        "title":  "Efbank / corporate action notice for Tatneft AGM 27.06.2024",
+                                        "fact":  "The AGM decision list for 27.06.2024 includes Kryukov Valery Anatolyevich among elected Tatneft directors."
+                                    },
+                                    {
+                                        "url":  "https://www.sbras.ru/ru/person/4175",
+                                        "title":  "СО РАН: Крюков Валерий Анатольевич",
+                                        "fact":  "QUALITY PASS (2026-08-01), fetched fresh this round: confirms Doctor of Economic Sciences, Professor, elected Academician of RAS 15 November 2019 (Department of Social Sciences, Siberian Branch, regional economics), and Corresponding Member of RAS since 22 December 2011; states more than 650 publications and 54 monographs (3 sole-authored, 15 edited); director of IEIE SB RAS, chief editor of journal EKO, faculty at Novosibirsk State University and HSE. Does not state an h-index or any citation-metric figure."
+                                    }
+                                ],
+                    "notes":  "Research identity is strong; h-index was not added because no reliable h-index value was confirmed in opened sources. QUALITY PASS (2026-08-01): honest-gap follow-up for the flagged 'education year and h-index not confirmed' gap -- fetched sbras.ru/ru/person/4175 directly this round (fresh source). It confirmed and dated his RAS academician election (15 Nov 2019, added to degrees) and RAS corresponding-membership (22 Dec 2011, added as a new degrees entry) and gave a publications count (added). It did not give his Novosibirsk State University graduation year or any h-index/citation-metric value, so both remain null. Separately, NVTK's own output file (output/NVTK_person_info.json) carries a richer education entry for this same person (specialization \"Экономическая кибернетика\", qualification \"экономист-математик\", qualification_degree \"Specialist degree\") sourced to a Novatek official candidate-information PDF (novatek.ru/common/upload/doc/10_Svedeniya_o_kandidatakh_SD.pdf) -- this round tried to fetch that PDF directly to verify it independently, but the fetch returned only corrupted/binary content that could not be read, so per the no-fabrication rule those specific NVTK-sourced details were NOT copied into this file on the strength of another ticker's JSON alone. Left for a future pass with a PDF-capable fetch or an alternate copy of the same disclosure document."
+                },
+                {
+                    "name":  "Гамиров Дамир Маратович",
+                    "current_role":  "Корпоративный секретарь - руководитель аппарата корпоративного секретаря ПАО \"Татнефть\"",
+                    "company_name":  "ПАО \"Татнефть\" им. В.Д. Шашина",
+                    "education":  [
+                                      {
+                                          "year":  2003,
+                                          "institution":  "Уфимский государственный нефтяной технический университет",
+                                          "field":  "экономика и управление на предприятиях нефтяной и газовой промышленности",
+                                          "qualification":  "экономист-менеджер",
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "year":  2023,
+                                          "institution":  "Корпоративный университет ПАО \"Татнефть\" им. В.Д. Шашина",
+                                          "field":  "MBA, профессиональная переподготовка",
+                                          "qualification":  null,
+                                          "qualification_degree":  "MBA"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Татнефть\"",
+                                                        "role":  "экономист отдела ценных бумаг управления собственности",
+                                                        "start_year":  2003,
+                                                        "end_year":  2017,
+                                                        "description":  "Annual report page 36 gives this career period.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Татнефть\"",
+                                                        "role":  "заместитель руководителя аппарата корпоративного секретаря",
+                                                        "start_year":  2017,
+                                                        "end_year":  2021,
+                                                        "description":  "Annual report page 36 gives this career period.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"Татнефть\"",
+                                                        "role":  "корпоративный секретарь - руководитель аппарата корпоративного секретаря",
+                                                        "start_year":  2021,
+                                                        "end_year":  null,
+                                                        "description":  "Annual report page 36 states the current role.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/TATN/Годовой отчет 2024 _ПАО Татнефть.pdf",
+                                        "title":  "Годовой отчет ПАО \"Татнефть\" за 2024 год",
+                                        "fact":  "Страница 36: annual report gives Gamirov\u0027s role, education in 2003 and 2023, and work history from 2003 to present."
+                                    }
+                                ],
+                    "notes":  "High-confidence local source. No research profile was found or needed for the corporate secretary role."
+                },
+                {
+                    "name":  "Тихтуров Евгений Александрович",
+                    "current_role":  "Директор по финансам / CFO ПАО \"Татнефть\"",
+                    "company_name":  "ПАО \"Татнефть\" им. В.Д. Шашина",
+                    "education":  [
+                                      {
+                                          "year":  null,
+                                          "institution":  "Moscow Management Institute",
+                                          "field":  null,
+                                          "qualification":  "undergraduate degree",
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Татнефть\"",
+                                                        "role":  "директор по финансам / Chief Financial Officer",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "MarketScreener profile identifies him as CFO/Director of Finance at Tatneft.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://www.marketscreener.com/insider/EVGENY-TIKHTUROV-A0CTUG/",
+                                        "title":  "MarketScreener: Evgeny Tikhturov",
+                                        "fact":  "Profile identifies him as Tatneft finance director/CFO and lists an undergraduate degree from Moscow Management Institute."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/TATN/Годовой отчет 2024 _ПАО Татнефть.pdf",
+                                        "title":  "Годовой отчет ПАО \"Татнефть\" за 2024 год",
+                                        "fact":  "Страница 37: annual report states the Management Board includes three executives including the General Director; CSV/MarketScreener were used to identify the finance executive among CSV people."
+                                    }
+                                ],
+                    "notes":  "Education and role are based on a weaker market-data source; no stronger opened official biography was found. No research profile was verified."
+                },
+                {
+                    "name":  "Мухамадеев Рустам Набиуллович",
+                    "current_role":  "Директор по персоналу / заместитель генерального директора по персоналу и социальному развитию ПАО \"Татнефть\"",
+                    "company_name":  "ПАО \"Татнефть\" им. В.Д. Шашина",
+                    "education":  [
+                                      {
+                                          "year":  1979,
+                                          "institution":  "Казанский авиационный институт им. А.Н. Туполева",
+                                          "field":  null,
+                                          "qualification":  "специалист",
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"Татнефть\"",
+                                                        "role":  "заместитель генерального директора по персоналу и социальному развитию",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Official archived Tatneft management board page identifies this role.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://old.tatneft.ru/for-shareholders/control-and-management-system/management-board?lang=en",
+                                        "title":  "Tatneft official archive: Management Board",
+                                        "fact":  "Official archived management-board page identifies Rustam Mukhamadeev as Deputy General Director for Personnel and Social Development."
+                                    },
+                                    {
+                                        "url":  "https://global-kazan.ru/person/id/213",
+                                        "title":  "Global-Kazan: Мухамадеев Рустам Набиуллович",
+                                        "fact":  "Profile gives education from Kazan Aviation Institute and biographical career context."
+                                    }
+                                ],
+                    "notes":  "Education source is weaker than official Tatneft pages, but identity is supported by exact full name and Tatneft HR/social-development role."
+                }
+            ],
+    "board_sources":  [
+                          {
+                              "url":  "MOEXBMI_2024.csv",
+                              "title":  "MOEXBMI_2024.csv",
+                              "fact":  "CSV contains predefined company people and positions used as pipeline input."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/TATN/Годовой отчет 2024 _ПАО Татнефть.pdf",
+                              "title":  "Годовой отчет ПАО \"Татнефть\" за 2024 год",
+                              "fact":  "Страница 26: annual report states that the AGM on 27.06.2024 elected the Board of Directors; it also states the board has 15 directors, with 14 elected and one appointed by the Government of Tatarstan under the golden share."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/TATN/Годовой отчет 2024 _ПАО Татнефть.pdf",
+                              "title":  "Годовой отчет ПАО \"Татнефть\" за 2024 год",
+                              "fact":  "Страницы 27-28: annual report describes board balance as three independent, seven non-executive and five executive directors; one director is from Hungary."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/TATN/Годовой отчет 2024 _ПАО Татнефть.pdf",
+                              "title":  "Годовой отчет ПАО \"Татнефть\" за 2024 год",
+                              "fact":  "Страница 36: annual report identifies Gamirov Damir Maratovich as Corporate Secretary and gives his education/career."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/TATN/Годовой отчет 2024 _ПАО Татнефть.pdf",
+                              "title":  "Годовой отчет ПАО \"Татнефть\" за 2024 год",
+                              "fact":  "Страница 37: annual report describes the General Director and Management Board as executive bodies and says the Management Board had three executives in 2024."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/TATN/МСФО Татнефть 2024.pdf",
+                              "title":  "Консолидированная финансовая отчетность Татнефти за 2024 год",
+                              "fact":  "Страница 29: IFRS notes describe the Republic of Tatarstan golden share and the right to appoint one board representative; page 28 and page 30 discuss key employee remuneration programs."
+                          },
+                          {
+                              "url":  "https://www.efbank.ru/files/rus/dep/news/news_7063.pdf",
+                              "title":  "Efbank / corporate action notice for Tatneft AGM 27.06.2024",
+                              "fact":  "Corporate action document for the 27.06.2024 AGM lists the elected 14 Tatneft board directors: Maganov, Suybaev, Khalimov, Khisamov, Nurmukhametov, Gayzatullin, Galiev, Sorokin, Takhautdinov, Glukhova, Agliullin, Gerecs, Neklyudov, and Kryukov."
+                          },
+                          {
+                              "url":  "https://old.tatneft.ru/for-shareholders/control-and-management-system/board-of-directors?lang=en",
+                              "title":  "Tatneft official archive: Board of Directors",
+                              "fact":  "Archived official board biographies provide education and professional background for many long-serving Tatneft directors."
+                          }
+                      ],
+    "sources":  [
+                    {
+                        "url":  "https://old.tatneft.ru/for-shareholders/control-and-management-system/board-of-directors?lang=en",
+                        "title":  "Tatneft official archive: Board of Directors",
+                        "fact":  "Official archived Tatneft board biographies used for education and career facts."
+                    },
+                    {
+                        "url":  "https://old.tatneft.ru/for-shareholders/control-and-management-system/management-board?lang=en",
+                        "title":  "Tatneft official archive: Management Board",
+                        "fact":  "Official archived Tatneft management biographies used for executive-role corroboration."
+                    },
+                    {
+                        "url":  "https://www.antat.ru/ru/staff/3356/",
+                        "title":  "Academy of Sciences of the Republic of Tatarstan: Rais Khisamov",
+                        "fact":  "Academic profile used for Khisamov\u0027s degree, research output, and patents/inventions."
+                    },
+                    {
+                        "url":  "https://www.hse.ru/staff/kryukov/",
+                        "title":  "HSE: Valery Kryukov",
+                        "fact":  "Academic staff profile used for Kryukov\u0027s degrees and research affiliation."
+                    },
+                    {
+                        "url":  "https://beterra.ru/team/partners/nekludov/",
+                        "title":  "Beterra: Sergey Neklyudov",
+                        "fact":  "Professional profile used for Neklyudov\u0027s audit/advisory career."
+                    },
+                    {
+                        "url":  "https://tatcenter.ru/person/galiev-renat-maratovich/",
+                        "title":  "TatCenter: Renat Galiev",
+                        "fact":  "Business profile used for Galiev\u0027s education and government/Tatneft career."
+                    },
+                    {
+                        "url":  "https://www.marketscreener.com/insider/EVGENY-TIKHTUROV-A0CTUG/",
+                        "title":  "MarketScreener: Evgeny Tikhturov",
+                        "fact":  "Market-data profile used for Tikhturov\u0027s CFO role and education; treated as a weaker source."
+                    },
+                    {
+                        "url":  "https://global-kazan.ru/person/id/213",
+                        "title":  "Global-Kazan: Rustam Mukhamadeev",
+                        "fact":  "Regional profile used for Mukhamadeev\u0027s education; treated as a weaker source."
+                    }
+                ],
+    "validation_notes":  "Processed 18 people from TATN CSV: 1 CEO and 17 other TMT/board/management people. Checked 2 local documents in MOEXBMI_Отчеты_2024/TATN: the 101-page 2024 annual report and the 70-page 2024 IFRS report. Total research rounds: 18 person-rounds, one per person. Local annual report contains no detailed biographies for most directors, but confirms board structure, election date, corporate secretary, and executive-body structure; detailed biographies came from official Tatneft archived pages, e-disclosure/corporate-action documents, academic sources, and selected business profiles. Substantial uncertainty remains for 2 people: Neklyudov has no confirmed education in opened sources; Tikhturov and Mukhamadeev use weaker secondary sources for education/role details. Weak sources used: MarketScreener for Tikhturov and Global-Kazan for Mukhamadeev. Namesakes checked and rejected: Galiev search results were checked against Tatneft/government context; Neklyudov audit/advisory profiles were matched to independent-director audit expertise; post-2024 Khisamov death notices were not used to change 2024 status. No unresolved source conflict materially affects 2024 board membership. Search considered complete because local PDFs were checked, board membership was confirmed by AGM/annual-report sources, education and previous professional experience were separately searched, previous employers/academic institutions were checked where identified, and two additional passes produced no stronger opened sources for the remaining weak education gaps. QUALITY PASS ROUND 1 (2026-08-01): Step 0 git-baseline check found the on-disk file already matched git HEAD (commit f973022, the post-mass-restoration checkpoint) byte-for-byte apart from CRLF line endings -- no prior regression for this ticker, nothing needed restoring. Desync check (notes vs JSON) across all 18 people found no simple omissions and no genuine unresolved inconsistencies (every 'Contradictions' section in the round-1 notes already read 'None material'). GICS label correctness: only one professional_experience entry in the whole file carried a non-null GICS triple before this round (Гереч Ласло / MOL / G Petroconsulting Kft., filed as Industrials/Commercial & Professional Services/Professional Services) -- corrected to Energy/Energy/Oil, Gas & Consumable Fuels after re-fetching the official Tatneft board biography and confirming his MOL Oman role (2012-2016) was an internal MOL Group management position, not third-party consulting; MOL Group is a major integrated oil and gas company, the dominant classifiable entity in that combined entry. Verified (research, no change) that АО \"Связьинвестнефтехим\" (Сорокин, Глухова) is correctly non-classifiable -- confirmed via direct fetch as a pure Tatarstan state holding company with no operating business of its own. Honest-gap follow-up (bounded, one attempt per flagged gap): resolved/enriched Хисамов (professorship year 2005, monograph/patent breakdown -- h-index still not found, confirmed absent not unopened), Крюков (RAS academician year 2019, added RAS corresponding-member 2011, added a publications entry -- education year and h-index still not found; a promising cross-ticker lead in output/NVTK_person_info.json for his education could not be independently verified this session because the underlying novatek.ru PDF fetch returned unreadable binary content, so it was not copied in), Тахаутдинов (career chronology with precise 1965-2013 span from Wikipedia -- publications/h-index confirmed genuinely absent, not an unopened source), Неклюдов (education still not found after a targeted re-fetch -- but surfaced one new, previously-uncaptured employer, Группа БФКО \"Открытие\", Senior VP/Chief Auditor after its 2018 bank rescue). Attempted but found nothing new for Гайзатуллин (publications -- guessed Wikipedia URL 404'd, a Tatarstan government portal guess was unreachable), Тихтуров and Мухамадеев (both re-checked against the official Tatneft management-board archive page directly -- it lists no biography for either, confirming the existing weaker MarketScreener/Global-Kazan sourcing is still the best available, not an oversight). WebSearch was unavailable for fresh discovery queries this session (shared session budget already at 200/200 from other work); all fresh research this round was done via direct WebFetch of official/already-known-pattern URLs (Tatneft archive, ANTAT, SB RAS, Beterra, ru.wikipedia.org) with verbatim quotes drawn only from content actually fetched this session -- see research_notes/TATN/quality_pass_round1_20260801.md for full detail.",
+    "sector":  "Energy",
+    "industry_group":  "Energy",
+    "industry":  "Oil, Gas \u0026 Consumable Fuels"
+}

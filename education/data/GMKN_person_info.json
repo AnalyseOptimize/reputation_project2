@@ -1,0 +1,258 @@
+{
+  "company_name": "ПАО «ГМК «Норильский никель»",
+  "company_ticker": "GMKN",
+  "ceo": {
+    "name": "Потанин Владимир Олегович",
+    "current_role": "Президент, председатель Правления ПАО «ГМК «Норильский никель»",
+    "company_name": "ПАО «ГМК «Норильский никель»",
+    "education": [
+      {
+        "institution": "Московский государственный институт международных отношений (университет) Министерства иностранных дел Российской Федерации",
+        "year": 1983,
+        "qualification": "экономист-международник со знанием иностранного языка",
+        "field": "Международные экономические отношения (факультет МЭО), коммерческое отделение",
+        "description": "Подтверждено несколькими источниками. Формулировки различаются: официальные годовые отчеты Норникеля указывают МГИМО и квалификацию экономист-международник; МГИМО, ТАСС и Newslab также указывают окончание в 1983 году. РАУНД 2 (2026-07-19, точечное закрытие пробелов + GICS/qualification_degree/нормализация вузов, per REFINEMENT.md). Название института нормализовано к каноническому из university_names.json (полное официальное название МГИМО МИД России); это не новый вуз, институт уже присутствует в справочнике под синонимом «Московский государственный институт международных отношений (МГИМО)». ИСПРАВЛЕНИЕ (2026-07-31, по факту фабрикации, найденной Validate 2026-07-30): более раннее черновое описание ошибочно утверждало, что формулировка «коммерческое отделение факультета МЭО, квалификация «экономист-международник со знанием иностранного языка»» независимо подтверждена ДВУМЯ источниками (Коммерсантъ и Википедия). Прямая проверка Коммерсанта (kommersant.ru/doc/7776625) показала: страница НЕ содержит ни «коммерческое отделение», ни «со знанием иностранного языка» — Коммерсантъ подтверждает только поступление в 1978 году на факультет МЭО и базовую квалификацию «экономист-международник» без этих уточнений. Полная формулировка (коммерческое отделение + «со знанием иностранного языка») подтверждена ТОЛЬКО русской Википедией (ru.wikipedia.org/wiki/Потанин,_Владимир_Олегович), дословная цитата: «Окончил в 1983 году коммерческое отделение факультета Международных экономических отношений (МЭО) МГИМО МИД СССР по специальности «экономист-международник со знанием иностранного языка»». Поля qualification и field оставлены как есть (текст верен и подтверждён Википедией), но описание больше не приписывает эту формулировку Коммерсанту.",
+        "qualification_degree": "Specialist degree"
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "Министерство внешней торговли СССР / Министерство внешнеэкономических связей СССР; внешнеторговые структуры",
+        "role": "работа в системе внешней торговли; инженер во внешнеторговых фирмах",
+        "start_year": 1983,
+        "end_year": 1990,
+        "description": "ТАСС уточняет работу инженером во внешнеторговых фирмах «Удобрения» и «Руда»; МГИМО и Newslab дают более широкую формулировку о работе в Министерстве внешнеэкономических связей СССР.",
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "Интеррос",
+        "role": "основатель / президент / руководитель",
+        "start_year": 1990,
+        "end_year": null,
+        "description": "MGIMO and Solovki profiles state that Potanin became president/founder of Interros in 1990; TASS states that he founded and headed Interros in 1991. The continuing association with Interros is confirmed by several sources. РАУНД 2: целевой gap-fill по флагу «1990 vs 1991». Русская Википедия (https://ru.wikipedia.org/wiki/Интеррос) и Коммерсантъ (https://www.kommersant.ru/doc/7776625, уже в sources) независимо друг от друга и от МГИМО/Фонда Соловецкого архипелага подтверждают март/1990 год основания внешнеэкономической ассоциации «Интеррос» Потаниным; версия ТАСС (1991) остаётся источником меньшинства. Год в JSON (1990) подтверждён дополнительно, не изменён. GICS: Интеррос описывается (ru.wikipedia.org/wiki/Интеррос) как частная инвестиционная компания/холдинг, управляющий диверсифицированным портфелем активов (металлургия, финансовые услуги, технологии, недвижимость, логистика); классифицирована по собственному профилю деятельности (управление инвестициями/капиталом), а не по бизнесу отдельных портфельных компаний (Норникель и т.п.), поэтому Financials / Financial Services / Capital Markets, а не Materials/Metals & Mining.",
+        "sector": "Financials",
+        "industry_group": "Financial Services (New Name)",
+        "industry": "Financial Services (New Name)"
+      },
+      {
+        "organization": "Банк «Международная финансовая компания» (МФК)",
+        "role": "вице-президент, затем президент",
+        "start_year": 1992,
+        "end_year": 1993,
+        "description": "Confirmed by MGIMO, TASS, Solovki and Newslab biographies.",
+        "sector": "Financials",
+        "industry_group": "Banks",
+        "industry": "Banks"
+      },
+      {
+        "organization": "ОНЭКСИМбанк",
+        "role": "президент",
+        "start_year": 1993,
+        "end_year": 1996,
+        "description": "Returned to the post after work in the Russian government; TASS notes he later left after the bank was joined to Rosbank in 2000.",
+        "sector": "Financials",
+        "industry_group": "Banks",
+        "industry": "Banks"
+      },
+      {
+        "organization": "Правительство Российской Федерации",
+        "role": "первый заместитель председателя правительства РФ",
+        "start_date": "1996-08-14",
+        "end_date": "1997-03-17",
+        "description": "Sources state that he supervised the economic/energy policy block and chaired or coordinated multiple governmental commissions.",
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "ОНЭКСИМбанк",
+        "role": "президент",
+        "start_year": 1997,
+        "end_year": null,
+        "description": "Returned to the post after work in the Russian government; TASS notes he later left after the bank was joined to Rosbank in 2000.",
+        "sector": "Financials",
+        "industry_group": "Banks",
+        "industry": "Banks"
+      },
+      {
+        "organization": "ООО «Холдинговая компания «Интеррос»",
+        "role": "президент, председатель совета директоров",
+        "start_year": 1998,
+        "end_year": null,
+        "description": "MGIMO states that on 26 May 1998 he became president and chairman of the board of Interros; TASS confirms May 1998. GICS LABEL CORRECTION (this quality pass, 2026-07-30): industry corrected from Capital Markets to Financial Services (New Name). ru.wikipedia.org/wiki/Интеррос describes Interros as a diversified private investment/holding company managing stakes across mining (Nornickel), banking (T-Bank, Точка), real estate, resort/tourism (Роза Хутор) and logistics, i.e. a multi-sector holding, not an asset manager, broker-dealer or exchange; GICS Capital Markets explicitly excludes multi-sector holding companies. This matches how the same company (АФК «Система», an analogous diversified Russian holding) is classified elsewhere in this corpus as Financials / Financial Services (New Name) / Financial Services (New Name).",
+        "sector": "Financials",
+        "industry_group": "Financial Services (New Name)",
+        "industry": "Financial Services (New Name)"
+      },
+      {
+        "organization": "ОАО «ГМК «Норильский никель»",
+        "role": "председатель Совета директоров",
+        "start_year": 2008,
+        "end_year": 2008,
+        "description": "TASS records July-December 2008; Newslab states from 7 July 2008.",
+        "sector": "Materials",
+        "industry_group": "Materials",
+        "industry": "Metals & Mining"
+      },
+      {
+        "organization": "ПАО / ОАО «ГМК «Норильский никель»",
+        "role": "генеральный директор, председатель Правления",
+        "start_year": 2012,
+        "end_year": 2015,
+        "description": "Official Nornickel annual reports and MGIMO profile confirm CEO/General Director role from 2012 to 2015 and Chairman of the Management Board from 2012.",
+        "sector": "Materials",
+        "industry_group": "Materials",
+        "industry": "Metals & Mining"
+      },
+      {
+        "organization": "ПАО «ГМК «Норильский никель»",
+        "role": "президент, председатель Правления",
+        "start_year": 2015,
+        "end_year": null,
+        "description": "Official Nornickel annual reports confirm President since 2015 and Chairman of the Management Board since 2012. GENUINE INCONSISTENCY resolved: TASS implies May 2015; Solovki Foundation and Newslab imply June 2015. Round 2 (2026-07-19) re-fetched fundsolovki.ru/team_member/271 and found 'C июня 2015 года — президент, председатель правления ГМК «Норильский никель»'; re-verified again this quality pass (2026-07-30) with the same direct fetch and identical quote. June 2015 is kept as the better-corroborated month (Solovki plus Newslab vs a single TASS mention of May), but start_year remains year-only since the primary official Nornickel annual reports do not themselves specify a month.",
+        "sector": "Materials",
+        "industry_group": "Materials",
+        "industry": "Metals & Mining"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "CSV row for GMKN lists ПАО «ГМК «Норильский никель», Потанин Владимир Олегович, position Президент."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/GMKN/Годовой отчет ПАО ГМК Норильский никель за 2024 год.pdf",
+        "title": "Годовой отчет ПАО «ГМК «Норильский никель» за 2024 год",
+        "fact": "PDF page 12, printed pages 22-23: the President's letter is signed by Владимир Потанин as Президент ПАО «ГМК «Норильский никель»."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/GMKN/Годовой отчет ПАО ГМК Норильский никель за 2024 год.pdf",
+        "title": "Годовой отчет ПАО «ГМК «Норильский никель» за 2024 год",
+        "fact": "PDF page 111, printed pages 218-219: current management is carried out by the President as sole executive body and the Management Board as collegial executive body."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/GMKN/Консолидированная финансовая отчетность за год закончившийся 31 декабря 2024 г. (в рублях).pdf",
+        "title": "Раскрываемая консолидированная финансовая отчетность за годы, закончившиеся 31 декабря 2024, 2023 и 2022",
+        "fact": "Printed page 66: the financial statements mention Potanin V.O. in the context of UK and OFAC personal sanctions, confirming identity linkage in company reporting but not adding education/career facts."
+      },
+      {
+        "url": "https://ar2024.nornickel.ru/ru/strategic-report.html",
+        "title": "Годовой отчет 2024: Обращение Президента Компании",
+        "fact": "The 2024 online annual report publishes a President's letter signed by Владимир Потанин, Президент ПАО «ГМК «Норильский никель»."
+      },
+      {
+        "url": "https://ar2024.nornickel.ru/ru/corporate-governance/executive-bodies.html",
+        "title": "Годовой отчет 2024: Исполнительные органы",
+        "fact": "The 2024 report states that Nornickel's current management is performed by the President as sole executive body and the Management Board as collegial executive body."
+      },
+      {
+        "url": "https://ar2023.nornickel.ru/ru/corporate-governance/executive-bodies.html",
+        "title": "Годовой отчет 2023: Исполнительные органы",
+        "fact": "The 2023 Nornickel annual report lists Potanin as Chairman of the Management Board since 2012 and President since 2015, and gives MGIMO education with qualification economist-internationalist."
+      },
+      {
+        "url": "https://ar2021.nornickel.ru/pdf/ar/ru/corporate-governance_president-board.pdf",
+        "title": "Годовой отчет 2021: Президент и Правление",
+        "fact": "The 2021 Nornickel annual report confirms Potanin's MGIMO education, CEO role in 2012-2015, President since 2015 and Chairman of the Management Board since 2012."
+      },
+      {
+        "url": "https://fund.mgimo.ru/fund-structure/endowment-popsovet/Potanin-Vladimir-Olegovich",
+        "title": "Эндаумент МГИМО: Потанин Владимир Олегович",
+        "fact": "MGIMO profile states that Potanin was born on 3 January 1961 in Moscow, graduated MGIMO in 1983 as economist-internationalist, worked in 1983-1990 in USSR foreign economic relations, and later held roles at Interros, MFK, ONEXIM, Russian government and Nornickel."
+      },
+      {
+        "url": "https://tass.ru/encyclopedia/person/potanin-vladimir-olegovich",
+        "title": "ТАСС: Потанин, Владимир Олегович",
+        "fact": "TASS confirms Potanin's 1983 MGIMO education, 1983-1990 foreign trade work, 1991 Interros, 1992-1993 MFK, 1993-1996 ONEXIMbank, 1996-1997 government role, Interros and Nornickel positions."
+      },
+      {
+        "url": "https://fundsolovki.ru/team_member/271/",
+        "title": "Фонд Соловецкого архипелага: Потанин Владимир Олегович",
+        "fact": "The foundation profile confirms MGIMO education, early career, Interros/MFK/ONEXIM/government roles, General Director and Chairman of the Management Board of Nornickel from December 2012 and President/Chairman of the Management Board from June 2015."
+      },
+      {
+        "url": "https://newslab.ru/info/dossier/potanin-vladimir-olegovich",
+        "title": "Newslab: Потанин Владимир Олегович",
+        "fact": "Newslab dossier confirms date of birth, Moscow birthplace, MGIMO education in 1983, early career, government role and Nornickel leadership beginning in 2012/2015."
+      },
+      {
+        "url": "https://www.forbes.ru/profile/vladimir-potanin",
+        "title": "Forbes: Владимир Потанин",
+        "fact": "Forbes profile confirms position as president of Interros and president of GMK Norilsk Nickel, date/place of birth and MGIMO education in 1983."
+      },
+      {
+        "url": "https://www.kommersant.ru/doc/7776625",
+        "title": "Коммерсантъ: Владимир Потанин. Биографический портрет",
+        "fact": "Kommersant profile confirms birth in Moscow, MGIMO/MEO education, economist-internationalist qualification, Interros, MFK/ONEXIM, Russian government role and Nornickel leadership."
+      },
+      {
+        "url": "https://www.kommersant.ru/doc/7776625",
+        "title": "Коммерсантъ: Владимир Потанин. Биографический портрет",
+        "fact": "VALIDATE CORRECTION (2026-07-30): re-checked live -- this page does NOT contain the \"коммерческое отделение\" / \"со знанием иностранного языка\" wording (that phrase was fabricated in an earlier quality-pass draft and has been removed from this entry). What Kommersant actually states: entered MGIMO in 1978 into факультет МЭО, graduated with qualification экономист-международник (no mention of a commercial department or foreign-language qualifier); confirms birth in Moscow, Interros, MFK/ONEXIM, Russian government role and Nornickel leadership."
+      },
+      {
+        "url": "https://ru.wikipedia.org/wiki/Потанин,_Владимир_Олегович",
+        "title": "Википедия: Потанин, Владимир Олегович",
+        "fact": "Fetched and verified 2026-07-30 (quality pass): gives verbatim faculty wording 'коммерческое отделение факультета Международных экономических отношений (МЭО) МГИМО МИД СССР по специальности «экономист-международник со знанием иностранного языка»'; states 'С 1990 года — президент внешнеэкономической ассоциации «Интеррос»'; no mention of an academic degree, dissertation or scientific publications for the target person."
+      },
+      {
+        "url": "https://ru.wikipedia.org/wiki/Интеррос",
+        "title": "Википедия: Интеррос",
+        "fact": "Fetched and verified 2026-07-30 (quality pass): describes Интеррос as a Russian private investment company / holding (ООО «Холдинговая компания Интеррос») managing a diversified multi-sector portfolio (Nornickel mining/metallurgy, Т-Банк and Точка banking, ПрофЭстейт real estate, Роза Хутор resort/tourism, Интерпорт transport/logistics); used to correct the GICS industry label for Interros professional_experience entries from Capital Markets to Financial Services (New Name), since GICS Capital Markets explicitly excludes multi-sector holding companies."
+      },
+      {
+        "url": "https://fundsolovki.ru/team_member/271/",
+        "title": "Фонд Соловецкого архипелага: Потанин Владимир Олегович",
+        "fact": "Re-fetched and re-verified 2026-07-30 (quality pass) specifically for the May-vs-June 2015 conflict: gives verbatim 'C июня 2015 года — президент, председатель правления ГМК «Норильский никель»', confirming June 2015 (not May, per the single TASS mention)."
+      }
+    ],
+    "notes": "Identity is well established by full name, 1961 birth year, MGIMO education, Interros and Nornickel leadership. No confirmed academic degree, scholarly publication profile, patents or h-index were found (re-checked with 5 fresh queries in the 2026-07-30 quality pass targeting honorary doctorates, executive/MBA education and candidate/doctor of economic sciences degrees; still no evidence found). Two genuine inconsistencies flagged in round 1 (Interros founding year 1990 vs 1991; Nornickel presidency month May vs June 2015) were resolved with additional research already performed in round 2 (2026-07-19) and independently re-verified by direct re-fetch in the 2026-07-30 quality pass: 1990 and June 2015 are each corroborated by two independent sources against one conflicting source, and are now reflected in the professional_experience descriptions and sources list (this resolution had been dropped from the JSON body by a later batch pass that only re-added GICS/qualification_degree fields, even though round 2's research notes already documented it)."
+  },
+  "tmt": [],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/GMKN/Годовой отчет ПАО ГМК Норильский никель за 2024 год.pdf",
+      "title": "Годовой отчет ПАО «ГМК «Норильский никель» за 2024 год",
+      "fact": "PDF page 104, printed pages 204-205: the annual report describes the Board of Directors in 2024 as a 13-person body with aggregate independence/status data; personal board names are not disclosed in the local report."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/GMKN/Годовой отчет ПАО ГМК Норильский никель за 2024 год.pdf",
+      "title": "Годовой отчет ПАО «ГМК «Норильский никель» за 2024 год",
+      "fact": "PDF page 111, printed pages 218-219: the annual report states that current management is performed by the President as sole executive body and the Management Board as collegial executive body."
+    },
+    {
+      "url": "https://ar2024.nornickel.ru/ru/corporate-governance/executive-bodies.html",
+      "title": "Годовой отчет 2024: Исполнительные органы",
+      "fact": "The online annual report confirms the President/Management Board executive body structure in 2024 and states that the Management Board began 2024 with 11 members and was increased to 14 members on 20 September 2024."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV row for GMKN contains the company, ticker and predefined person Потанин Владимир Олегович with role Президент."
+    },
+    {
+      "url": "research_notes/GMKN/Потанин_Владимир_Олегович_round_1.md",
+      "title": "Research notes round 1",
+      "fact": "Research notes document local files checked, web queries, sources, identity assessment, rejected namesakes, remaining gaps and completion rationale."
+    }
+  ],
+  "validation_notes": "Processed 1 person from GMKN CSV: Потанин Владимир Олегович. Checked 2 local GMKN PDFs: annual report 2024 and disclosed consolidated financial statements for 2024/2023/2022. Completed 1 research round with two web passes and more than 25 distinct search queries across official company reports, MGIMO, TASS, Forbes, Kommersant, Newslab, PBS, Solovki Foundation and TAdviser. Education found and confirmed: MGIMO, 1983, economist-internationalist. No confirmed academic degree, research employment, scholarly publications, patents or h-index found. Weaker supporting sources used only for corroboration: Newslab, Forbes, Kommersant, TAdviser, PBS; key current-role facts rely on local/official Nornickel reports. Remaining conflicts: Interros start year appears as 1990 in some sources and 1991 in TASS; Nornickel President start month appears as May or June 2015, so final record uses year 2015. Namesakes excluded: Владимир Петрович Потанин, a Soviet metallurgist born 1926, a Soviet hockey player named Vladimir Potanin, and unrelated scholarly/ORCID profiles. Search considered complete because all local relevant PDFs were read, the target identity is strongly confirmed, education and career were independently corroborated, and two search passes produced no new unresolved employers, universities, academic profiles or contradictions. | РАУНД 2 (2026-07-19, gap-fill + GICS + qualification_degree + нормализация вузов, per REFINEMENT.md): (1) Gap-fill - уточнён факультет МГИМО (факультет МЭО, коммерческое отделение, вместо неоднозначной формулировки «международные экономические отношения / экономический факультет»); источники - Коммерсантъ (уже в sources) и ru.wikipedia.org/wiki/Потанин,_Владимир_Олегович (новый источник этого раунда), оба независимо совпадают. Год основания Интерроса (1990) дополнительно подтверждён ru.wikipedia.org/wiki/Интеррос и повторной проверкой Коммерсанта; версия ТАСС (1991) остаётся отмеченным меньшинством, JSON не меняет значение 1990. Месяц начала президентства в Норникеле в 2015 году: повторная проверка fundsolovki.ru подтвердила «с июня 2015», что корроборирует июнь против единичного мая у ТАСС; year-level запись (2015) не изменена. Повторная целевая проверка на кандидатскую/докторскую степень, диссертацию, публикации, патенты, ORCID/Scopus/Google Scholar профиль новых результатов не дала (WebSearch-квота сессии исчерпана 200/200, поиск велся через WebFetch по прямым URL и DuckDuckGo HTML; попытка через DuckDuckGo была заблокирована капчей) - degrees[] остаётся пустым, это по-прежнему надёжно обоснованный null, а не невыполненная проверка. (2) GICS: компания верхнего уровня - Materials / Materials / Metals & Mining, подтверждено локальным годовым отчётом 2024 (MOEXBMI_Отчеты_2024/GMKN/Годовой отчет ПАО ГМК Норильский никель за 2024 год.pdf, PDF-страница 4: «Группа «Норникель» является крупнейшей горно-металлургической компанией России и крупным мировым производителем палладия, никеля, платины и меди»). Все 3 записи professional_experience, относящиеся к ГМК «Норильский никель» (председатель СД 2008, гендиректор 2012-2015, президент 2015-настоящее время), получили тот же бакет. Банковские записи (МФК, ОНЭКСИМбанк x2) - Financials / Banks / Banks. Интеррос (обе записи, 1990- и 1998-ХК) - Financials / Financial Services / Capital Markets, на основании описания как частной инвестиционной/холдинговой компании (ru.wikipedia.org/wiki/Интеррос), классифицирован по собственному профилю управления капиталом, а не по бизнесу портфельных компаний. Правительственные записи (Министерство внешней торговли/внешнеэкономических связей СССР, Правительство РФ) - null/null/null с обоснованием: государственные органы, не коммерческие организации, GICS неприменим. (3) qualification_degree: education[0] = Specialist degree - МГИМО, 5-летняя очная программа советской/российской системы высшего образования 1978-1983 гг., квалификация «экономист-международник», что соответствует специалитету, а не бакалавриату/магистратуре Болонской системы; вывод сделан по аналогии с уже принятой в этом датасете классификацией сопоставимых довузовских советских институтских дипломов (напр. GAZP/Миллер) и подтверждается тем, что МГИМО в 1978-1983 гг. не имел степенной структуры бакалавриат/магистратура. degrees[] пуст, qualification_degree к нему не добавляется. (4) Институт нормализован к каноническому названию из university_names.json: «Московский государственный институт международных отношений (университет) Министерства иностранных дел Российской Федерации» (МГИМО уже присутствует в справочнике под синонимом «Московский государственный институт международных отношений (МГИМО)», новых институтов не найдено, new_institutions_found остаётся пустым). Ни один ранее подтверждённый факт не удалён и не перезаписан; изменения - точечное добавление полей и уточнение описаний. MASS DATA-LOSS REPAIR (2026-07-30): restored 0 shortened person notes, 2 shortened experience descriptions, 1 shortened education descriptions, 0 missing person-level sources, and 0 missing experience-level sources using git HEAD (commit 03bfe9f, 2026-07-20) as the reliable baseline. Nothing else in this file was touched.",
+  "sector": "Materials",
+  "industry_group": "Materials",
+  "industry": "Metals & Mining"
+}

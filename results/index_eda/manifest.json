@@ -1,0 +1,46 @@
+{
+  "inputs": {
+    "all_managers": {
+      "path": "index_data.csv",
+      "sha256": "4bb3b0753546515998aad353eea1ed993edc6559fccce1461bd3bcbfbb4cc8d5"
+    },
+    "ceo": {
+      "path": "index_data_ceo.csv",
+      "sha256": "541bf91030f6ad300a423a6e7fc5297ec2f363f0b740399ee7e283004270f293"
+    }
+  },
+  "seed": 20260921,
+  "random_draws_per_alpha": 1000,
+  "dirichlet_alphas": [
+    10,
+    1,
+    0.2
+  ],
+  "bootstrap_repetitions": 2000,
+  "bootstrap_seeds": {
+    "all_managers": 20261021,
+    "ceo": 20261022
+  },
+  "bootstrap_sample_sizes": {
+    "all_managers": 64,
+    "ceo": 28
+  },
+  "components": [
+    "media_score",
+    "awards_score",
+    "expertise_score",
+    "face_score",
+    "communication_score"
+  ],
+  "top_k": 10,
+  "missing_policy": "complete case for index; pairwise for EDA",
+  "normalization": "existing fixed 0–100 scales / 100; no sample min-max",
+  "bootstrap_scope": "company rows; outer weights only; scores and inner education weights fixed",
+  "versions": {
+    "python": "3.14.7",
+    "numpy": "2.4.6",
+    "pandas": "3.0.5",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.1"
+  }
+}

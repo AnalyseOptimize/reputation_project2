@@ -1,0 +1,2156 @@
+{
+  "company_name": "ПАО \"ПИК-специализированный застройщик\"",
+  "company_ticker": "PIKK",
+  "ceo": {
+    "name": "Ерванд Оникович Карапетян",
+    "current_role": "Генеральный директор ПАО \"ПИК СЗ\" в контексте 2024 года; член нового совета директоров после смены состава 25.04.2024.",
+    "company_name": "ПАО \"ПИК-специализированный застройщик\"",
+    "education": [
+      {
+        "institution": "Ленинаканский строительный техникум им. С.А. Сафаряна",
+        "program_or_field": null,
+        "degree_or_qualification": null,
+        "year": null,
+        "sources": [
+          {
+            "url": "https://pikproblem.ru/pik-o/novyj-sovet-direktorov-pao-pik-sz/",
+            "title": "Новый совет директоров ПАО \"ПИК СЗ\"",
+            "fact": "Вторичный источник, ссылающийся на раскрытие, указывает Ленинаканский строительный техникум им. С.А. Сафаряна в образовании Ерванда Карапетяна."
+          }
+        ],
+        "qualification_degree": null
+      },
+      {
+        "institution": "Московский государственный строительный университет",
+        "program_or_field": null,
+        "degree_or_qualification": null,
+        "year": null,
+        "sources": [
+          {
+            "url": "https://pikproblem.ru/pik-o/novyj-sovet-direktorov-pao-pik-sz/",
+            "title": "Новый совет директоров ПАО \"ПИК СЗ\"",
+            "fact": "Вторичный источник указывает Московский государственный строительный университет в образовании Ерванда Карапетяна."
+          }
+        ],
+        "qualification_degree": null
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "ПАО \"ПИК СЗ\"",
+        "role": "генеральный директор",
+        "start_year": 2024,
+        "end_year": null,
+        "description": "Годовой отчет ПИК за 2024 год подписан Е.О. Карапетяном как генеральным директором; точная дата назначения в источниках формулируется как март/апрель 2024 года.",
+        "sources": [
+          {
+            "url": "MOEXBMI_Отчеты_2024/PIKK/Годовой отчет ГК ПИК_2024_финал с ККУ.pdf",
+            "title": "Годовой отчет ПАО \"ПИК СЗ\" за 2024 год",
+            "fact": "Страница 1: отчет подписан \"Генеральный директор Е.О. Карапетян\"; страницы 62-66 описывают генерального директора как единоличный исполнительный орган."
+          },
+          {
+            "url": "https://www.tadviser.ru/index.php/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%3A%D0%9F%D0%98%D0%9A_%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9",
+            "title": "ПИК (Группа компаний) - TAdviser",
+            "fact": "TAdviser указывает смену генерального директора ПИК в 2024 году: Ерванд Карапетян сменил Ивана Поландова."
+          },
+          {
+            "url": "https://dvizhenie.ru/media/231/aktsionery-gk-pik-polnostiu-pomeniali-sovet-direktorov",
+            "title": "Акционеры ГК ПИК полностью поменяли совет директоров",
+            "fact": "25.04.2024 источник сообщает, что в новый совет директоров вошел Ерванд Карапетян."
+          }
+        ],
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "ПАО \"ПИК СЗ\"",
+        "role": "член совета директоров",
+        "start_year": 2024,
+        "end_year": null,
+        "description": "Вошел в новый совет директоров после полной смены состава 25.04.2024.",
+        "sources": [
+          {
+            "url": "https://dvizhenie.ru/media/231/aktsionery-gk-pik-polnostiu-pomeniali-sovet-direktorov",
+            "title": "Акционеры ГК ПИК полностью поменяли совет директоров",
+            "fact": "25.04.2024 источник сообщает, что в новый совет директоров вошел Ерванд Карапетян."
+          }
+        ],
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "ГП-МФС",
+        "role": "генеральный директор",
+        "start_year": 2018,
+        "end_year": 2024,
+        "description": "Период указан как 03.2018-03.2024 во вторичном источнике.",
+        "sources": [
+          {
+            "url": "https://pikproblem.ru/pik-o/novyj-sovet-direktorov-pao-pik-sz/",
+            "title": "Новый совет директоров ПАО \"ПИК СЗ\"",
+            "fact": "Источник указывает работу Карапетяна генеральным директором ГП-МФС с марта 2018 года по март 2024 года."
+          }
+        ],
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "ПИК-Индустрия",
+        "role": "генеральный директор",
+        "start_year": 2013,
+        "end_year": 2018,
+        "description": "Период указан как 11.2013-02.2018 во вторичном источнике.",
+        "sources": [
+          {
+            "url": "https://pikproblem.ru/pik-o/novyj-sovet-direktorov-pao-pik-sz/",
+            "title": "Новый совет директоров ПАО \"ПИК СЗ\"",
+            "fact": "Источник указывает работу Карапетяна генеральным директором ПИК-Индустрия с ноября 2013 года по февраль 2018 года."
+          }
+        ],
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "CSV содержит Ерванда Карапетяна как члена совета директоров и генерального директора по тикеру PIKK."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/PIKK/Годовой отчет ГК ПИК_2024_финал с ККУ.pdf",
+        "title": "Годовой отчет ПАО \"ПИК СЗ\" за 2024 год",
+        "fact": "Страница 1: отчет подписан генеральным директором Е.О. Карапетяном."
+      },
+      {
+        "url": "https://dvizhenie.ru/media/231/aktsionery-gk-pik-polnostiu-pomeniali-sovet-direktorov",
+        "title": "Акционеры ГК ПИК полностью поменяли совет директоров",
+        "fact": "Источник подтверждает включение Ерванда Карапетяна в новый совет директоров 25.04.2024."
+      },
+      {
+        "url": "https://pikproblem.ru/pik-o/novyj-sovet-direktorov-pao-pik-sz/",
+        "title": "Новый совет директоров ПАО \"ПИК СЗ\"",
+        "fact": "Источник использован для образования и предыдущего опыта; качество источника отмечено как слабое."
+      }
+    ],
+    "notes": "Связь с ПИК и должность CEO подтверждены локальным официальным отчетом. Образование и ранняя карьера найдены только во вторичном источнике, ссылающемся на раскрытие; эти сведения сохранены с оговоркой."
+  },
+  "tmt": [
+    {
+      "name": "Сергей Владимирович Мруз",
+      "current_role": "Председатель совета директоров ПАО \"ПИК СЗ\" после смены состава 25.04.2024; CSV также указывает роли заместителя генерального директора и управляющего директора по цифровизации.",
+      "company_name": "ПАО \"ПИК-специализированный застройщик\"",
+      "education": [
+        {
+          "institution": "Российский государственный гуманитарный университет",
+          "program_or_field": null,
+          "degree_or_qualification": null,
+          "year": null,
+          "sources": [
+            {
+              "url": "https://pikproblem.ru/pik-o/novyj-sovet-direktorov-pao-pik-sz/",
+              "title": "Новый совет директоров ПАО \"ПИК СЗ\"",
+              "fact": "Вторичный источник указывает РГГУ в образовании Сергея Мруза."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "кандидат политических наук",
+          "field": null,
+          "year": null,
+          "sources": [
+            {
+              "url": "https://pikproblem.ru/pik-o/novyj-sovet-direktorov-pao-pik-sz/",
+              "title": "Новый совет директоров ПАО \"ПИК СЗ\"",
+              "fact": "Вторичный источник называет Сергея Мруза кандидатом политических наук."
+            }
+          ],
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ПИК СЗ\"",
+          "role": "председатель совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Избран в новый совет директоров и указан как его председатель после 25.04.2024.",
+          "sources": [
+            {
+              "url": "https://dvizhenie.ru/media/231/aktsionery-gk-pik-polnostiu-pomeniali-sovet-direktorov",
+              "title": "Акционеры ГК ПИК полностью поменяли совет директоров",
+              "fact": "25.04.2024 источник сообщает, что в новый совет директоров вошел Сергей Мруз и был избран председателем."
+            },
+            {
+              "url": "https://www.tadviser.ru/index.php/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%3A%D0%9F%D0%98%D0%9A_%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9",
+              "title": "ПИК (Группа компаний) - TAdviser",
+              "fact": "TAdviser указывает Сергея Мруза среди нового состава совета директоров ПИК и в роли председателя."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ООО \"Лоция\" / АО ГК \"Современные транспортные технологии\"",
+          "role": "управляющий директор по цифровой трансформации / заместитель генерального директора",
+          "start_year": 2022,
+          "end_year": 2024,
+          "description": "Карьерный переход и связь с цифровизацией подтверждены вторичным источником.",
+          "sources": [
+            {
+              "url": "https://pikproblem.ru/pik-o/novyj-sovet-direktorov-pao-pik-sz/",
+              "title": "Новый совет директоров ПАО \"ПИК СЗ\"",
+              "fact": "Источник указывает работу Сергея Мруза в ООО \"Лоция\" и АО ГК \"Современные транспортные технологии\" в 2022-2024 годах."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "СПАО \"Ингосстрах\"",
+          "role": "член правления, директор департамента онлайн-бизнеса и развития отношений с клиентами",
+          "start_year": 2020,
+          "end_year": 2022,
+          "description": "Период указан как 04.2020-08.2022.",
+          "sources": [
+            {
+              "url": "https://pikproblem.ru/pik-o/novyj-sovet-direktorov-pao-pik-sz/",
+              "title": "Новый совет директоров ПАО \"ПИК СЗ\"",
+              "fact": "Источник указывает должность Сергея Мруза в Ингосстрахе с апреля 2020 года по август 2022 года."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО Сбербанк",
+          "role": "управляющий директор",
+          "start_year": 2016,
+          "end_year": 2020,
+          "description": "Период указан как 12.2016-04.2020.",
+          "sources": [
+            {
+              "url": "https://pikproblem.ru/pik-o/novyj-sovet-direktorov-pao-pik-sz/",
+              "title": "Новый совет директоров ПАО \"ПИК СЗ\"",
+              "fact": "Источник указывает работу Сергея Мруза управляющим директором Сбербанка с декабря 2016 года по апрель 2020 года."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Сергея Мруза по тикеру PIKK."
+        },
+        {
+          "url": "https://dvizhenie.ru/media/231/aktsionery-gk-pik-polnostiu-pomeniali-sovet-direktorov",
+          "title": "Акционеры ГК ПИК полностью поменяли совет директоров",
+          "fact": "Источник подтверждает участие Сергея Мруза в новом совете директоров ПИК."
+        },
+        {
+          "url": "https://pikproblem.ru/pik-o/novyj-sovet-direktorov-pao-pik-sz/",
+          "title": "Новый совет директоров ПАО \"ПИК СЗ\"",
+          "fact": "Источник использован для образования, степени и предыдущей карьеры; качество источника отмечено как слабое."
+        }
+      ],
+      "notes": "Новые члены совета не раскрыты поименно в локальном годовом отчете; состав подтвержден внешними источниками. Образование, степень и часть карьерной истории основаны на слабом вторичном источнике. qualification_degree для \"кандидат политических наук\" заполнена как \"Doctoral degree\" — стандартное сопоставление российской ученой степени \"кандидат наук\" с ближайшим значением из фиксированного перечня (нет отдельного значения \"Candidate of Sciences\")."
+    },
+    {
+      "name": "Кирилл Викторович Таченников",
+      "current_role": "Член совета директоров ПАО \"ПИК СЗ\" и член комитета по аудиту; CSV также указывает роль главы исследований.",
+      "company_name": "ПАО \"ПИК-специализированный застройщик\"",
+      "education": [
+        {
+          "institution": "Финансовая академия при Правительстве РФ",
+          "program_or_field": null,
+          "degree_or_qualification": null,
+          "year": null,
+          "sources": [
+            {
+              "url": "https://pikproblem.ru/pik-o/novyj-sovet-direktorov-pao-pik-sz/",
+              "title": "Новый совет директоров ПАО \"ПИК СЗ\"",
+              "fact": "Вторичный источник указывает Финансовую академию при Правительстве РФ в образовании Кирилла Таченникова."
+            }
+          ],
+          "qualification_degree": null
+        },
+        {
+          "institution": "МГУ им. М.В. Ломоносова",
+          "program_or_field": null,
+          "degree_or_qualification": null,
+          "year": null,
+          "sources": [
+            {
+              "url": "https://pikproblem.ru/pik-o/novyj-sovet-direktorov-pao-pik-sz/",
+              "title": "Новый совет директоров ПАО \"ПИК СЗ\"",
+              "fact": "Вторичный источник указывает МГУ им. М.В. Ломоносова в образовании Кирилла Таченникова."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ПИК СЗ\"",
+          "role": "член совета директоров, член комитета по аудиту",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Официальный документ раскрытия указывает его членом комитета по аудиту совета директоров.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1863756",
+              "title": "Изменения в отчет эмитента за 6 месяцев 2024 года",
+              "fact": "Страница 7: Таченников Кирилл Викторович указан членом комитета по аудиту совета директоров."
+            },
+            {
+              "url": "https://dvizhenie.ru/media/231/aktsionery-gk-pik-polnostiu-pomeniali-sovet-direktorov",
+              "title": "Акционеры ГК ПИК полностью поменяли совет директоров",
+              "fact": "25.04.2024 источник указывает Кирилла Таченникова среди нового состава совета директоров."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Банк Синара / Sinara Finance",
+          "role": "директор аналитического департамента",
+          "start_year": null,
+          "end_year": null,
+          "description": "Профессиональная аналитическая, не академическая, исследовательская роль.",
+          "sources": [
+            {
+              "url": "https://sinara-finance.ru/upload/iblock/d97/0ifr93o3fafzkhfafdt7docu9hwgzjdj.pdf",
+              "title": "Sinara Finance analytical material",
+              "fact": "PDF Sinara Finance указывает Кирилла Таченникова как директора аналитического департамента."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "НПФ \"Благосостояние\"",
+          "role": "старший портфельный управляющий по акциям",
+          "start_year": null,
+          "end_year": null,
+          "description": "Предыдущий опыт указан во вторичном источнике.",
+          "sources": [
+            {
+              "url": "https://pikproblem.ru/pik-o/novyj-sovet-direktorov-pao-pik-sz/",
+              "title": "Новый совет директоров ПАО \"ПИК СЗ\"",
+              "fact": "Источник указывает опыт Кирилла Таченникова в НПФ \"Благосостояние\"."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "BCS Global Markets",
+          "role": "руководитель направления / директор",
+          "start_year": null,
+          "end_year": null,
+          "description": "Предыдущий опыт указан во вторичном источнике.",
+          "sources": [
+            {
+              "url": "https://pikproblem.ru/pik-o/novyj-sovet-direktorov-pao-pik-sz/",
+              "title": "Новый совет директоров ПАО \"ПИК СЗ\"",
+              "fact": "Источник указывает предыдущий опыт Кирилла Таченникова в BCS Global Markets."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Кирилла Таченникова по тикеру PIKK."
+        },
+        {
+          "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1863756",
+          "title": "Изменения в отчет эмитента за 6 месяцев 2024 года",
+          "fact": "Страница 7: Таченников указан в комитете по аудиту совета директоров."
+        },
+        {
+          "url": "https://sinara-finance.ru/upload/iblock/d97/0ifr93o3fafzkhfafdt7docu9hwgzjdj.pdf",
+          "title": "Sinara Finance analytical material",
+          "fact": "Источник подтверждает профессиональную роль Кирилла Таченникова в аналитическом департаменте."
+        },
+        {
+          "url": "https://pikproblem.ru/pik-o/novyj-sovet-direktorov-pao-pik-sz/",
+          "title": "Новый совет директоров ПАО \"ПИК СЗ\"",
+          "fact": "Источник использован для образования и прежней карьеры; качество источника отмечено как слабое."
+        }
+      ],
+      "notes": "Инвестиционная аналитика не занесена как научный research experience. Образование подтверждено только слабым вторичным источником. GICS для BCS Global Markets исправлена: BCS Global Markets — инвестиционно-брокерское/инвестбанковское подразделение группы БКС (торговля ценными бумагами, инвестбанкинг), а не розничная торговля; исходная метка Broadline Retail была ошибочной, вероятно из-за слова \"markets\"/\"retail\" вне контекста. Исправлено на Capital Markets по аналогии с уже верно классифицированным Sinara Finance в этой же записи."
+    },
+    {
+      "name": "Владимир Валерьевич Заболотский",
+      "current_role": "Член совета директоров и председатель комитета по аудиту ПАО \"ПИК СЗ\"; в CSV имя записано как \"Владимир Заболоцкий\".",
+      "company_name": "ПАО \"ПИК-специализированный застройщик\"",
+      "education": [
+        {
+          "institution": "Магнитогорский государственный технический университет им. Г.И. Носова",
+          "program_or_field": null,
+          "degree_or_qualification": null,
+          "year": null,
+          "sources": [
+            {
+              "url": "https://pikproblem.ru/pik-o/novyj-sovet-direktorov-pao-pik-sz/",
+              "title": "Новый совет директоров ПАО \"ПИК СЗ\"",
+              "fact": "Вторичный источник указывает Магнитогорский государственный технический университет им. Г.И. Носова в образовании Владимира Заболотского."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ПИК СЗ\"",
+          "role": "член совета директоров, председатель комитета по аудиту",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Официальный документ раскрытия использует написание \"Заболотский Владимир Валерьевич\".",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1863756",
+              "title": "Изменения в отчет эмитента за 6 месяцев 2024 года",
+              "fact": "Страница 7: Заболотский Владимир Валерьевич указан председателем комитета по аудиту совета директоров."
+            },
+            {
+              "url": "https://dvizhenie.ru/media/231/aktsionery-gk-pik-polnostiu-pomeniali-sovet-direktorov",
+              "title": "Акционеры ГК ПИК полностью поменяли совет директоров",
+              "fact": "25.04.2024 источник указывает Владимира Заболотского среди нового состава совета директоров."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ММК Металуржи / MMK Turkey",
+          "role": "директор по финансам и экономике",
+          "start_year": null,
+          "end_year": null,
+          "description": "Должность указана в материалах о новом совете ПИК.",
+          "sources": [
+            {
+              "url": "https://dvizhenie.ru/media/231/aktsionery-gk-pik-polnostiu-pomeniali-sovet-direktorov",
+              "title": "Акционеры ГК ПИК полностью поменяли совет директоров",
+              "fact": "Источник связывает Владимира Заболотского с финансовой ролью в MMK Turkey."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"ММК\"",
+          "role": "старший менеджер группы экономики энергетических и вспомогательных цехов дирекции по экономике",
+          "start_year": null,
+          "end_year": null,
+          "description": "Предыдущий опыт указан во вторичном источнике.",
+          "sources": [
+            {
+              "url": "https://pikproblem.ru/pik-o/novyj-sovet-direktorov-pao-pik-sz/",
+              "title": "Новый совет директоров ПАО \"ПИК СЗ\"",
+              "fact": "Источник указывает предыдущий опыт Владимира Заболотского в ПАО \"ММК\"."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит запись \"Владимир Заболоцкий\" по тикеру PIKK."
+        },
+        {
+          "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1863756",
+          "title": "Изменения в отчет эмитента за 6 месяцев 2024 года",
+          "fact": "Официальный документ использует написание \"Заболотский Владимир Валерьевич\" и указывает его председателем комитета по аудиту."
+        },
+        {
+          "url": "https://pikproblem.ru/pik-o/novyj-sovet-direktorov-pao-pik-sz/",
+          "title": "Новый совет директоров ПАО \"ПИК СЗ\"",
+          "fact": "Источник использован для образования и предыдущего опыта; качество источника отмечено как слабое."
+        }
+      ],
+      "notes": "В JSON использовано официальное написание из e-disclosure. Написание в CSV, вероятно, содержит орфографическое расхождение: \"Заболоцкий\" вместо \"Заболотский\"."
+    },
+    {
+      "name": "Илья Владиславович Юферев",
+      "current_role": "Член совета директоров и член комитета по аудиту ПАО \"ПИК СЗ\"; CSV также указывает роль председателя наблюдательного совета.",
+      "company_name": "ПАО \"ПИК-специализированный застройщик\"",
+      "education": [
+        {
+          "institution": "Ленинградский государственный университет",
+          "program_or_field": "восточный факультет",
+          "degree_or_qualification": null,
+          "year": null,
+          "sources": [
+            {
+              "url": "https://pikproblem.ru/pik-o/novyj-sovet-direktorov-pao-pik-sz/",
+              "title": "Новый совет директоров ПАО \"ПИК СЗ\"",
+              "fact": "Вторичный источник указывает восточный факультет Ленинградского государственного университета в образовании Ильи Юферева."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ПИК СЗ\"",
+          "role": "член совета директоров, член комитета по аудиту",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Официальный документ раскрытия указывает его членом комитета по аудиту совета директоров.",
+          "sources": [
+            {
+              "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1863756",
+              "title": "Изменения в отчет эмитента за 6 месяцев 2024 года",
+              "fact": "Страница 7: Юферев Илья Владиславович указан членом комитета по аудиту совета директоров."
+            },
+            {
+              "url": "https://dvizhenie.ru/media/231/aktsionery-gk-pik-polnostiu-pomeniali-sovet-direktorov",
+              "title": "Акционеры ГК ПИК полностью поменяли совет директоров",
+              "fact": "25.04.2024 источник указывает Илью Юферева среди нового состава совета директоров."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Институт международной отчетности / Институт ДипИФР",
+          "role": "создатель и председатель наблюдательного совета",
+          "start_year": null,
+          "end_year": null,
+          "description": "Профессиональная деятельность в области МСФО подтверждена вторичным источником.",
+          "sources": [
+            {
+              "url": "https://pikproblem.ru/pik-o/novyj-sovet-direktorov-pao-pik-sz/",
+              "title": "Новый совет директоров ПАО \"ПИК СЗ\"",
+              "fact": "Источник указывает Илью Юферева как создателя и председателя наблюдательного совета Института международной отчетности / Института ДипИФР."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Институт ДипИФР",
+          "role": "генеральный директор экзаменационной сети",
+          "start_year": 2013,
+          "end_year": 2020,
+          "description": "Период указан во вторичном источнике.",
+          "sources": [
+            {
+              "url": "https://pikproblem.ru/pik-o/novyj-sovet-direktorov-pao-pik-sz/",
+              "title": "Новый совет директоров ПАО \"ПИК СЗ\"",
+              "fact": "Источник указывает, что Илья Юферев был генеральным директором экзаменационной сети Института ДипИФР в 2013-2020 годах."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Илью Юферева по тикеру PIKK."
+        },
+        {
+          "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1863756",
+          "title": "Изменения в отчет эмитента за 6 месяцев 2024 года",
+          "fact": "Страница 7: Юферев указан в комитете по аудиту совета директоров."
+        },
+        {
+          "url": "https://pikproblem.ru/pik-o/novyj-sovet-direktorov-pao-pik-sz/",
+          "title": "Новый совет директоров ПАО \"ПИК СЗ\"",
+          "fact": "Источник использован для образования и опыта в Институте ДипИФР; качество источника отмечено как слабое."
+        }
+      ],
+      "notes": "Связь с ПИК официально подтверждена e-disclosure. Биографические сведения о высшем образовании и Институте ДипИФР основаны на слабом вторичном источнике."
+    },
+    {
+      "name": "Иван Николаевич Поландов",
+      "current_role": "Бывший генеральный директор ПАО \"ПИК СЗ\" в 2024 году; CSV указывает его генеральным директором, но на дату годового отчета 2024 CEO подтвержден как Ерванд Карапетян.",
+      "company_name": "ПАО \"ПИК-специализированный застройщик\"",
+      "education": [
+        {
+          "institution": "Московский государственный строительный университет",
+          "program_or_field": "Промышленное и гражданское строительство",
+          "degree_or_qualification": null,
+          "year": null,
+          "sources": [
+            {
+              "url": "https://predprinimatelirossii.ru/tpost/pzmlalz7p1-polandov-ivan-nikolaevich",
+              "title": "Поландов Иван Николаевич - Предприниматели России",
+              "fact": "Вспомогательный биографический источник указывает МГСУ и специальность \"Промышленное и гражданское строительство\"."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ПИК СЗ\"",
+          "role": "генеральный директор",
+          "start_year": 2022,
+          "end_year": 2024,
+          "description": "Назначен генеральным директором в сентябре 2022 года; в 2024 году был сменен Ервандом Карапетяном.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/PIKK/Годовой отчет ГК ПИК_2024_финал с ККУ.pdf",
+              "title": "Годовой отчет ПАО \"ПИК СЗ\" за 2024 год",
+              "fact": "Страница 16: в сентябре 2022 года на должность генерального директора ПИК назначен Иван Поландов; страница 1: годовой отчет подписан уже Е.О. Карапетяном."
+            },
+            {
+              "url": "https://www.pik.ru/news/72929",
+              "title": "Иван Поландов назначен генеральным директором ПИК",
+              "fact": "Официальная новость ПИК от 20.09.2022 сообщает о назначении Ивана Поландова генеральным директором."
+            },
+            {
+              "url": "https://www.tadviser.ru/index.php/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%3A%D0%9F%D0%98%D0%9A_%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9",
+              "title": "ПИК (Группа компаний) - TAdviser",
+              "fact": "TAdviser указывает прекращение полномочий Ивана Поландова и назначение Ерванда Карапетяна в 2024 году."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"ПИК СЗ\"",
+          "role": "первый заместитель генерального директора",
+          "start_year": null,
+          "end_year": 2022,
+          "description": "Должность до назначения генеральным директором.",
+          "sources": [
+            {
+              "url": "https://www.pik.ru/news/72929",
+              "title": "Иван Поландов назначен генеральным директором ПИК",
+              "fact": "Официальная новость ПИК сообщает, что до назначения CEO Иван Поландов занимал должность первого заместителя генерального директора."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПИК",
+          "role": "руководитель проекта, начальник территориального управления по Москве, вице-президент - директор дирекции по Москве",
+          "start_year": 2014,
+          "end_year": null,
+          "description": "Вспомогательный источник описывает карьерную историю внутри ПИК, включая должность вице-президента с 2018 года.",
+          "sources": [
+            {
+              "url": "https://predprinimatelirossii.ru/tpost/pzmlalz7p1-polandov-ivan-nikolaevich",
+              "title": "Поландов Иван Николаевич - Предприниматели России",
+              "fact": "Источник указывает, что Иван Поландов работает в ПИК с 2014 года, занимал должности руководителя проекта, начальника территориального управления по Москве и с 2018 года вице-президента - директора дирекции по Москве."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Ивана Поландова как генерального директора по тикеру PIKK."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/PIKK/Годовой отчет ГК ПИК_2024_финал с ККУ.pdf",
+          "title": "Годовой отчет ПАО \"ПИК СЗ\" за 2024 год",
+          "fact": "Страница 16 подтверждает назначение Ивана Поландова CEO в 2022 году; страница 1 показывает, что отчет за 2024 год подписан Ервандом Карапетяном."
+        },
+        {
+          "url": "https://www.pik.ru/news/72929",
+          "title": "Иван Поландов назначен генеральным директором ПИК",
+          "fact": "Официальная новость ПИК подтверждает назначение Ивана Поландова 20.09.2022."
+        }
+      ],
+      "notes": "CSV конфликтует с более поздним контекстом 2024 года: в итоговом JSON CEO указан Ерванд Карапетян, а Иван Поландов сохранен как бывший CEO, присутствующий в CSV."
+    },
+    {
+      "name": "Сергей Эдуардович Гордеев",
+      "current_role": "Роль из CSV: член совета директоров; президент. По найденным источникам относится к прежнему составу и не подтвержден в новом совете после 25.04.2024.",
+      "company_name": "ПАО \"ПИК-специализированный застройщик\"",
+      "education": [
+        {
+          "institution": "Тольяттинская академия управления",
+          "program_or_field": null,
+          "degree_or_qualification": null,
+          "year": 2003,
+          "sources": [
+            {
+              "url": "https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51802",
+              "title": "Гордеев Сергей Эдуардович - Российская академия художеств",
+              "fact": "Страница РАХ указывает, что Сергей Гордеев окончил Тольяттинскую академию управления в 2003 году."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПИК",
+          "role": "президент / генеральный директор группы компаний ПИК",
+          "start_year": 2014,
+          "end_year": 2022,
+          "description": "Локальный годовой отчет фиксирует, что в 2014 году президентом ГК ПИК стал Сергей Гордеев; внешние источники указывают уход с должности CEO в 2022 году.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/PIKK/Годовой отчет ГК ПИК_2024_финал с ККУ.pdf",
+              "title": "Годовой отчет ПАО \"ПИК СЗ\" за 2024 год",
+              "fact": "Страницы 15-16: в 2014 году президентом ГК ПИК стал Сергей Гордеев; в сентябре 2022 года CEO назначен Иван Поландов."
+            },
+            {
+              "url": "https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51802",
+              "title": "Гордеев Сергей Эдуардович - Российская академия художеств",
+              "fact": "Страница РАХ указывает период работы Сергея Гордеева генеральным директором ПИК в 2014-2022 годах."
+            },
+            {
+              "url": "https://ekb.rbc.ru/business/20/09/2022/6329bfce9a794742bb50b591",
+              "title": "Основатель ПИК Сергей Гордеев покинул пост гендиректора",
+              "fact": "РБК сообщает, что Сергей Гордеев покинул пост гендиректора ПИК в 2022 году."
+            },
+            {
+              "url": "MOEXBMI_2024.csv",
+              "title": "MOEXBMI_2024.csv",
+              "fact": "CSV содержит Сергея Гордеева как члена совета директоров и президента по тикеру PIKK."
+            },
+            {
+              "url": "https://www.tadviser.ru/index.php/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%3A%D0%9F%D0%98%D0%9A_%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9",
+              "title": "ПИК (Группа компаний) - TAdviser",
+              "fact": "TAdviser используется для разграничения прежнего и нового состава совета директоров ПИК."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПИК",
+          "role": "член прежнего совета директоров",
+          "start_year": null,
+          "end_year": 2024,
+          "description": "CSV и TAdviser относят его к прежнему составу; новый состав после 25.04.2024 его не включает.",
+          "sources": [
+            {
+              "url": "MOEXBMI_2024.csv",
+              "title": "MOEXBMI_2024.csv",
+              "fact": "CSV содержит Сергея Гордеева как члена совета директоров и президента по тикеру PIKK."
+            },
+            {
+              "url": "https://www.tadviser.ru/index.php/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%3A%D0%9F%D0%98%D0%9A_%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9",
+              "title": "ПИК (Группа компаний) - TAdviser",
+              "fact": "TAdviser используется для разграничения прежнего и нового состава совета директоров ПИК."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Совет Федерации",
+          "role": "сенатор от Усть-Ордынского Бурятского АО и Пермского края",
+          "start_year": 2005,
+          "end_year": 2010,
+          "description": "Периоды указаны в биографическом источнике РАХ.",
+          "sources": [
+            {
+              "url": "https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51802",
+              "title": "Гордеев Сергей Эдуардович - Российская академия художеств",
+              "fact": "Страница РАХ указывает работу Сергея Гордеева в Совете Федерации в 2005-2007 и 2007-2010 годах."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Росбилдинг и другие предпринимательские проекты",
+          "role": "предприниматель / основатель",
+          "start_year": 1995,
+          "end_year": null,
+          "description": "Ранний предпринимательский опыт подтвержден биографическими источниками.",
+          "sources": [
+            {
+              "url": "https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51802",
+              "title": "Гордеев Сергей Эдуардович - Российская академия художеств",
+              "fact": "Страница РАХ указывает предпринимательскую деятельность Сергея Гордеева с 1995 года."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Сергея Гордеева по тикеру PIKK."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/PIKK/Годовой отчет ГК ПИК_2024_финал с ККУ.pdf",
+          "title": "Годовой отчет ПАО \"ПИК СЗ\" за 2024 год",
+          "fact": "Страницы 15-16 фиксируют историческую роль Гордеева в ПИК и назначение Ивана Поландова CEO в 2022 году."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/PIKK/АЗ и Отчетность ПИК СЗ 2024.pdf",
+          "title": "Консолидированная финансовая отчетность ПАО \"ПИК СЗ\" за 2024 год",
+          "fact": "Страница 12: в 2024 году аффилированные с С.Э. Гордеевым компании продали 17,34% акций; на 31.12.2024 отсутствуют акционеры, оказывающие существенное влияние."
+        },
+        {
+          "url": "https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51802",
+          "title": "Гордеев Сергей Эдуардович - Российская академия художеств",
+          "fact": "Источник подтверждает образование и карьерные вехи Сергея Гордеева."
+        }
+      ],
+      "notes": "CSV отражает прежнюю роль. После полной смены совета 25.04.2024 Гордеев не найден в новом составе; точный первичный документ о прекращении полномочий не открыт."
+    },
+    {
+      "name": "Илья Михайлович Баландин",
+      "current_role": "Роль из CSV: член совета директоров; директор департамента венчурных инвестиций. По найденным источникам относится к прежнему составу совета; сохранение в новом совете после 25.04.2024 не подтверждено.",
+      "company_name": "ПАО \"ПИК-специализированный застройщик\"",
+      "education": [
+        {
+          "institution": "МГУ им. М.В. Ломоносова",
+          "program_or_field": "механико-математический факультет",
+          "degree_or_qualification": null,
+          "year": null,
+          "sources": [
+            {
+              "url": "https://rb.ru/data/ilya-balandin-87013/",
+              "title": "Илья Баландин - RB.RU Data",
+              "fact": "RB.RU Data указывает, что Илья Баландин окончил механико-математический факультет МГУ им. М.В. Ломоносова."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПИК",
+          "role": "директор департамента венчурных инвестиций; член прежнего совета директоров",
+          "start_year": null,
+          "end_year": 2024,
+          "description": "Роль в ПИК подтверждается CSV, TAdviser и деловым СМИ; новый совет после 25.04.2024 его не включает.",
+          "sources": [
+            {
+              "url": "MOEXBMI_2024.csv",
+              "title": "MOEXBMI_2024.csv",
+              "fact": "CSV содержит Илью Баландина как члена совета директоров и директора департамента венчурных инвестиций."
+            },
+            {
+              "url": "https://www.rbc.ru/business/02/07/2022/62b98c429a79471fccb4a420",
+              "title": "РБК: Zeronix возглавил Илья Баландин",
+              "fact": "РБК описывает Илью Баландина как руководителя департамента венчурных инвестиций и члена совета директоров ПИК."
+            },
+            {
+              "url": "https://www.tadviser.ru/index.php/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%3A%D0%9F%D0%98%D0%9A_%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9",
+              "title": "ПИК (Группа компаний) - TAdviser",
+              "fact": "TAdviser используется для разграничения прежнего и нового состава совета директоров ПИК."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Zeronix",
+          "role": "генеральный директор",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Назначение в Zeronix подтверждено деловым СМИ.",
+          "sources": [
+            {
+              "url": "https://www.rbc.ru/business/02/07/2022/62b98c429a79471fccb4a420",
+              "title": "РБК: Zeronix возглавил Илья Баландин",
+              "fact": "РБК сообщает, что Илья Баландин возглавил Zeronix в 2022 году."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "iTech Capital",
+          "role": "инвестиционный менеджер",
+          "start_year": 2010,
+          "end_year": null,
+          "description": "RB.RU Data указывает начало работы весной 2010 года.",
+          "sources": [
+            {
+              "url": "https://rb.ru/data/ilya-balandin-87013/",
+              "title": "Илья Баландин - RB.RU Data",
+              "fact": "Источник указывает, что Илья Баландин присоединился к iTech Capital весной 2010 года как инвестиционный менеджер."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "ValueTech Advisers",
+          "role": "vice president",
+          "start_year": null,
+          "end_year": 2010,
+          "description": "Опыт до iTech Capital.",
+          "sources": [
+            {
+              "url": "https://rb.ru/data/ilya-balandin-87013/",
+              "title": "Илья Баландин - RB.RU Data",
+              "fact": "Источник указывает должность vice president в ValueTech Advisers до перехода в iTech Capital."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Илью Баландина по тикеру PIKK."
+        },
+        {
+          "url": "https://rb.ru/data/ilya-balandin-87013/",
+          "title": "Илья Баландин - RB.RU Data",
+          "fact": "Источник подтверждает образование и опыт в iTech Capital / ValueTech Advisers."
+        },
+        {
+          "url": "https://www.rbc.ru/business/02/07/2022/62b98c429a79471fccb4a420",
+          "title": "РБК: Zeronix возглавил Илья Баландин",
+          "fact": "Источник подтверждает связь с ПИК и Zeronix."
+        }
+      ],
+      "notes": "Новый совет ПИК после 25.04.2024 Илью Баландина не включает; текущий статус в ПИК на 31.12.2024 первичным документом не подтвержден."
+    },
+    {
+      "name": "Юрий Ильин",
+      "current_role": "Роль из CSV: член совета директоров; вице-президент по рынкам капитала и корпоративным финансам. По найденным источникам роль относится к прежнему составу совета; сохранение в новом совете после 25.04.2024 не подтверждено.",
+      "company_name": "ПАО \"ПИК-специализированный застройщик\"",
+      "education": [
+        {
+          "institution": "Санкт-Петербургский государственный университет",
+          "program_or_field": null,
+          "degree_or_qualification": null,
+          "year": 2000,
+          "sources": [
+            {
+              "url": "https://events.vedomosti.ru/speakers/ilin-urii-10001",
+              "title": "Юрий Ильин - Ведомости Events",
+              "fact": "Профиль Ведомости Events: \"В 2000 году окончил Санкт-Петербургский государственный университет и Стокгольмский университет, МВА.\" (verbatim, проверено повторно 2026-07-31)."
+            }
+          ],
+          "qualification_degree": "MBA"
+        },
+        {
+          "institution": "Stockholm University",
+          "program_or_field": null,
+          "degree_or_qualification": null,
+          "year": 2000,
+          "sources": [
+            {
+              "url": "https://events.vedomosti.ru/speakers/ilin-urii-10001",
+              "title": "Юрий Ильин - Ведомости Events",
+              "fact": "Профиль Ведомости Events: \"В 2000 году окончил Санкт-Петербургский государственный университет и Стокгольмский университет, МВА.\" (verbatim, проверено повторно 2026-07-31)."
+            }
+          ],
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "MBA",
+          "field": null,
+          "year": 2000,
+          "sources": [
+            {
+              "url": "https://events.vedomosti.ru/speakers/ilin-urii-10001",
+              "title": "Юрий Ильин - Ведомости Events",
+              "fact": "Профиль Ведомости Events: \"В 2000 году окончил Санкт-Петербургский государственный университет и Стокгольмский университет, МВА.\" (verbatim, проверено повторно 2026-07-31)."
+            }
+          ],
+          "qualification_degree": "MBA"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПИК",
+          "role": "вице-президент по рынкам капитала и корпоративным финансам; член правления / совета директоров в прежнем контексте",
+          "start_year": 2018,
+          "end_year": null,
+          "description": "Профиль конференции указывает переход в ПИК в 2018 году; после упразднения правления 22.02.2024 и смены совета 25.04.2024 текущий статус требует осторожности.",
+          "sources": [
+            {
+              "url": "https://events.vedomosti.ru/speakers/ilin-urii-10001",
+              "title": "Юрий Ильин - Ведомости Events",
+              "fact": "Профиль указывает, что с 2018 года Юрий Ильин занимает должность вице-президента по рынкам капитала и корпоративным финансам ПИК, а также был членом совета директоров и правления."
+            },
+            {
+              "url": "MOEXBMI_Отчеты_2024/PIKK/Годовой отчет ГК ПИК_2024_финал с ККУ.pdf",
+              "title": "Годовой отчет ПАО \"ПИК СЗ\" за 2024 год",
+              "fact": "Страницы 62-66: правление ПИК упразднено 22.02.2024, что ограничивает перенос прежних данных о членстве в правлении на конец 2024 года."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Группа ЛСР",
+          "role": "директор по связям с инвесторами / управляющий директор",
+          "start_year": null,
+          "end_year": 2018,
+          "description": "Предыдущий работодатель и роли указаны в профиле Ведомости Events.",
+          "sources": [
+            {
+              "url": "https://events.vedomosti.ru/speakers/ilin-urii-10001",
+              "title": "Юрий Ильин - Ведомости Events",
+              "fact": "Профиль указывает предыдущие роли Юрия Ильина в Группе ЛСР, включая связи с инвесторами и управляющую должность."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Ассоциация независимых директоров",
+          "role": "член",
+          "start_year": null,
+          "end_year": null,
+          "description": "Профессиональная ассоциация указана в профиле.",
+          "sources": [
+            {
+              "url": "https://events.vedomosti.ru/speakers/ilin-urii-10001",
+              "title": "Юрий Ильин - Ведомости Events",
+              "fact": "Профиль указывает членство Юрия Ильина в Ассоциации независимых директоров."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Юрия Ильина по тикеру PIKK."
+        },
+        {
+          "url": "https://events.vedomosti.ru/speakers/ilin-urii-10001",
+          "title": "Юрий Ильин - Ведомости Events",
+          "fact": "Источник подтверждает образование, MBA, опыт в ЛСР и роль в ПИК."
+        },
+        {
+          "url": "https://www.tadviser.ru/index.php/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%3A%D0%9F%D0%98%D0%9A_%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9",
+          "title": "ПИК (Группа компаний) - TAdviser",
+          "fact": "Источник использован для разграничения прежнего и нового состава совета ПИК."
+        }
+      ],
+      "notes": "Статус члена правления нельзя переносить на конец 2024 года: годовой отчет указывает упразднение правления 22.02.2024. Статус в новом совете после 25.04.2024 не подтвержден. Год образования (2000) и qualification_degree (MBA) для СПбГУ/Stockholm University добавлены по повторно проверенной точной цитате профиля Ведомости Events: \"В 2000 году окончил Санкт-Петербургский государственный университет и Стокгольмский университет, МВА.\""
+    },
+    {
+      "name": "Дмитрий Тимофеев",
+      "current_role": "Роль из CSV: член совета директоров; вице-президент по работе с органами государственной власти и корпоративным отношениям. По найденным источникам членство в новом совете после 25.04.2024 не подтверждено.",
+      "company_name": "ПАО \"ПИК-специализированный застройщик\"",
+      "education": [
+        {
+          "institution": "МГУ им. М.В. Ломоносова",
+          "program_or_field": "юридический факультет; земельное право",
+          "degree_or_qualification": null,
+          "year": 2000,
+          "sources": [
+            {
+              "url": "https://events.vedomosti.ru/speakers/timofeev-dmitrii-6275",
+              "title": "Дмитрий Тимофеев - Ведомости Events",
+              "fact": "Профиль Ведомости Events указывает окончание юридического факультета МГУ в 2000 году со специализацией по земельному праву."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ПИК СЗ\"",
+          "role": "вице-президент по работе с органами государственной власти и корпоративным отношениям",
+          "start_year": null,
+          "end_year": null,
+          "description": "Роль в ПИК подтверждается профилем конференции и юридическим СМИ; точная дата перехода в ПИК не подтверждена.",
+          "sources": [
+            {
+              "url": "https://events.vedomosti.ru/speakers/timofeev-dmitrii-6275",
+              "title": "Дмитрий Тимофеев - Ведомости Events",
+              "fact": "Профиль указывает текущую роль Дмитрия Тимофеева в ПИК как вице-президента по работе с органами государственной власти и корпоративным отношениям."
+            },
+            {
+              "url": "https://pravo.ru/",
+              "title": "Pravo.ru",
+              "fact": "Профильное юридическое СМИ подтверждало роль Дмитрия Тимофеева в ПАО \"ПИК СЗ\" в 2022 году; точная страница зафиксирована в research notes как проверенный источник."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ГК \"Росводоканал\"",
+          "role": "корпоративно-правовая / управленческая роль",
+          "start_year": 2014,
+          "end_year": null,
+          "description": "Профиль указывает работу с июля 2014 года; непрерывность до перехода в ПИК не выводится.",
+          "sources": [
+            {
+              "url": "https://events.vedomosti.ru/speakers/timofeev-dmitrii-6275",
+              "title": "Дмитрий Тимофеев - Ведомости Events",
+              "fact": "Профиль указывает работу Дмитрия Тимофеева в ГК \"Росводоканал\" с июля 2014 года."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ГК \"Кортрос\"",
+          "role": "директор департамента корпоративного управления",
+          "start_year": 2013,
+          "end_year": 2014,
+          "description": "Период указан как 03.2013-07.2014.",
+          "sources": [
+            {
+              "url": "https://events.vedomosti.ru/speakers/timofeev-dmitrii-6275",
+              "title": "Дмитрий Тимофеев - Ведомости Events",
+              "fact": "Профиль указывает работу директором департамента корпоративного управления ГК \"Кортрос\" в 03.2013-07.2014."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ГК \"О'кей\"",
+          "role": "директор по правовым и корпоративным вопросам",
+          "start_year": 2012,
+          "end_year": 2013,
+          "description": "Период указан как 08.2012-03.2013.",
+          "sources": [
+            {
+              "url": "https://events.vedomosti.ru/speakers/timofeev-dmitrii-6275",
+              "title": "Дмитрий Тимофеев - Ведомости Events",
+              "fact": "Профиль указывает работу директором по правовым и корпоративным вопросам ГК \"О'кей\" в 08.2012-03.2013."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "GIP GROUP",
+          "role": "директор по корпоративному управлению и правовому обеспечению",
+          "start_year": null,
+          "end_year": null,
+          "description": "Предыдущий опыт указан в профиле конференции.",
+          "sources": [
+            {
+              "url": "https://events.vedomosti.ru/speakers/timofeev-dmitrii-6275",
+              "title": "Дмитрий Тимофеев - Ведомости Events",
+              "fact": "Профиль указывает опыт Дмитрия Тимофеева в GIP GROUP."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Росинтер Ресторантс",
+          "role": "руководитель юридического отдела и исполняющий обязанности корпоративного секретаря",
+          "start_year": 2007,
+          "end_year": 2010,
+          "description": "Период указан в профиле конференции.",
+          "sources": [
+            {
+              "url": "https://events.vedomosti.ru/speakers/timofeev-dmitrii-6275",
+              "title": "Дмитрий Тимофеев - Ведомости Events",
+              "fact": "Профиль указывает работу в Росинтер Ресторантс в 2007-2010 годах."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Дикси групп",
+          "role": "руководитель юридического отдела / директор корпоративных отношений",
+          "start_year": 2004,
+          "end_year": 2007,
+          "description": "Период указан в профиле конференции.",
+          "sources": [
+            {
+              "url": "https://events.vedomosti.ru/speakers/timofeev-dmitrii-6275",
+              "title": "Дмитрий Тимофеев - Ведомости Events",
+              "fact": "Профиль указывает работу Дмитрия Тимофеева в Дикси групп в 2004-2007 годах."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Дмитрия Тимофеева по тикеру PIKK."
+        },
+        {
+          "url": "https://events.vedomosti.ru/speakers/timofeev-dmitrii-6275",
+          "title": "Дмитрий Тимофеев - Ведомости Events",
+          "fact": "Источник подтверждает образование, карьерную историю и роль в ПИК."
+        },
+        {
+          "url": "https://www.tadviser.ru/index.php/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%3A%D0%9F%D0%98%D0%9A_%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9",
+          "title": "ПИК (Группа компаний) - TAdviser",
+          "fact": "Источник использован для разграничения прежнего и нового состава совета ПИК."
+        }
+      ],
+      "notes": "Старый профиль Ведомости Events содержит одновременно прошлую карьеру и текущую карточку ПИК; факты сохранены без вывода о непрерывности. Членство в новом совете после 25.04.2024 не подтверждено."
+    },
+    {
+      "name": "Алексей Александрович Карпенко",
+      "current_role": "Роль из CSV: член совета директоров. По найденным источникам относится к прежнему составу совета; после 25.04.2024 в новом совете не подтвержден.",
+      "company_name": "ПАО \"ПИК-специализированный застройщик\"",
+      "education": [
+        {
+          "institution": "МГУ им. М.В. Ломоносова",
+          "program_or_field": "юридический факультет",
+          "degree_or_qualification": "диплом с отличием",
+          "year": 1998,
+          "sources": [
+            {
+              "url": "https://forwardlegal.com/people/aleksey-karpenko/",
+              "title": "Алексей Карпенко - Forward Legal",
+              "fact": "Официальный профиль Forward Legal указывает юридический факультет МГУ, диплом с отличием, 1998 год."
+            }
+          ],
+          "qualification_degree": null
+        },
+        {
+          "institution": "Московская школа управления \"Сколково\"",
+          "program_or_field": "Executive MBA",
+          "degree_or_qualification": "диплом с отличием",
+          "year": 2013,
+          "sources": [
+            {
+              "url": "https://forwardlegal.com/people/aleksey-karpenko/",
+              "title": "Алексей Карпенко - Forward Legal",
+              "fact": "Официальный профиль Forward Legal указывает Executive MBA Московской школы управления \"Сколково\", диплом с отличием, 2013 год."
+            }
+          ],
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Executive MBA",
+          "field": null,
+          "year": 2013,
+          "sources": [
+            {
+              "url": "https://forwardlegal.com/people/aleksey-karpenko/",
+              "title": "Алексей Карпенко - Forward Legal",
+              "fact": "Профиль Forward Legal подтверждает Executive MBA в 2013 году."
+            }
+          ],
+          "qualification_degree": "MBA"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "Forward Legal",
+          "role": "адвокат / старший партнер",
+          "start_year": 2014,
+          "end_year": null,
+          "description": "Текущий профессиональный профиль подтвержден официальным сайтом фирмы.",
+          "sources": [
+            {
+              "url": "https://forwardlegal.com/people/aleksey-karpenko/",
+              "title": "Алексей Карпенко - Forward Legal",
+              "fact": "Официальный профиль указывает Алексея Карпенко как адвоката и старшего партнера Forward Legal с 2014 года."
+            }
+          ],
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "Коллегия адвокатов \"Делькредере\"",
+          "role": "старший партнер",
+          "start_year": 2008,
+          "end_year": 2014,
+          "description": "Период в источниках встречается как 2008/2009-2014.",
+          "sources": [
+            {
+              "url": "https://forwardlegal.com/people/aleksey-karpenko/",
+              "title": "Алексей Карпенко - Forward Legal",
+              "fact": "Официальный профиль указывает предыдущий опыт в коллегии адвокатов \"Делькредере\" до 2014 года."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "АБ \"Карпенко и партнеры\"",
+          "role": "управляющий партнер",
+          "start_year": 2002,
+          "end_year": 2008,
+          "description": "Период в источниках встречается как 2002/2003-2008.",
+          "sources": [
+            {
+              "url": "https://forwardlegal.com/people/aleksey-karpenko/",
+              "title": "Алексей Карпенко - Forward Legal",
+              "fact": "Официальный профиль указывает опыт управляющего партнера АБ \"Карпенко и партнеры\"."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Инвестиционная компания \"Росбилдинг\"",
+          "role": "руководитель юридической службы",
+          "start_year": 2000,
+          "end_year": 2002,
+          "description": "Предыдущий опыт в инвестиционной компании.",
+          "sources": [
+            {
+              "url": "https://forwardlegal.com/people/aleksey-karpenko/",
+              "title": "Алексей Карпенко - Forward Legal",
+              "fact": "Официальный профиль указывает работу руководителем юридической службы \"Росбилдинга\" в 2000-2002 годах."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Инюрколлегия",
+          "role": "адвокат",
+          "start_year": 1997,
+          "end_year": 1999,
+          "description": "Ранний юридический опыт.",
+          "sources": [
+            {
+              "url": "https://forwardlegal.com/people/aleksey-karpenko/",
+              "title": "Алексей Карпенко - Forward Legal",
+              "fact": "Официальный профиль указывает работу адвокатом в Инюрколлегии в 1997-1999 годах."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПИК",
+          "role": "член / председатель прежнего совета директоров",
+          "start_year": 2017,
+          "end_year": 2024,
+          "description": "Роль в прежнем совете подтверждена деловыми источниками; в новом составе после 25.04.2024 не найден.",
+          "sources": [
+            {
+              "url": "MOEXBMI_2024.csv",
+              "title": "MOEXBMI_2024.csv",
+              "fact": "CSV содержит Алексея Карпенко как члена совета директоров ПИК."
+            },
+            {
+              "url": "https://www.tadviser.ru/index.php/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%3A%D0%9F%D0%98%D0%9A_%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9",
+              "title": "ПИК (Группа компаний) - TAdviser",
+              "fact": "TAdviser используется для разграничения прежнего и нового состава совета ПИК."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Алексея Карпенко по тикеру PIKK."
+        },
+        {
+          "url": "https://forwardlegal.com/people/aleksey-karpenko/",
+          "title": "Алексей Карпенко - Forward Legal",
+          "fact": "Официальный профиль подтверждает образование и профессиональную карьеру Алексея Карпенко."
+        },
+        {
+          "url": "https://www.tadviser.ru/index.php/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%3A%D0%9F%D0%98%D0%9A_%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9",
+          "title": "ПИК (Группа компаний) - TAdviser",
+          "fact": "Источник подтверждает старый board context ПИК."
+        }
+      ],
+      "notes": "Биография хорошо подтверждена официальным профилем Forward Legal. Статус в ПИК ограничен прежним советом; после 25.04.2024 в новом совете не подтвержден. qualification_degree для Сколково Executive MBA (2013) заполнена как \"MBA\" в education[] для согласованности с уже существующей записью degrees[] по тому же диплому (program_or_field уже указывал \"Executive MBA\")."
+    },
+    {
+      "name": "Алексей Бланин",
+      "current_role": "Роль из CSV: независимый член совета директоров. По найденным источникам относится к прежнему составу совета; после 25.04.2024 в новом совете не подтвержден.",
+      "company_name": "ПАО \"ПИК-специализированный застройщик\"",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "AB Development",
+          "role": "руководитель / основатель",
+          "start_year": null,
+          "end_year": null,
+          "description": "Forbes связывает Алексея Бланина с AB Development и указывает владение долей в компании. Собственный сайт компании описывает её как девелоперскую компанию в сфере офисной и жилой недвижимости.",
+          "sources": [
+            {
+              "url": "https://www.forbes.ru/reytingi/514259-rejting-rossijskih-rante-2024",
+              "title": "Рейтинг российских рантье 2024 - Forbes",
+              "fact": "Forbes указывает главу AB Development Алексея Бланина и его связь с компанией."
+            },
+            {
+              "url": "https://blanin.ru/?page_id=40",
+              "title": "AB Development - официальная страница на персональном сайте Алексея Бланина",
+              "fact": "Страница описывает AB Development как \"профессиональная девелоперская компания\", специализирующуюся на офисной и премиальной жилой недвижимости в Москве и Санкт-Петербурге (проверено повторно 2026-07-31)."
+            }
+          ],
+          "sector": "Real Estate",
+          "industry_group": "Real Estate Management & Development (New)",
+          "industry": "Real Estate Management & Development (New Code)"
+        },
+        {
+          "organization": "Horus Capital",
+          "role": "бывший генеральный директор",
+          "start_year": null,
+          "end_year": null,
+          "description": "Forbes называет Алексея Бланина бывшим генеральным директором Horus. Собственный сайт компании описывает её деятельность как поиск, приобретение и девелопмент крупных объектов коммерческой недвижимости, а не как финансовую/инвестиционно-банковскую деятельность.",
+          "sources": [
+            {
+              "url": "https://www.forbes.ru/reytingi/514259-rejting-rossijskih-rante-2024",
+              "title": "Рейтинг российских рантье 2024 - Forbes",
+              "fact": "Forbes указывает, что Алексей Бланин является бывшим гендиректором Horus."
+            },
+            {
+              "url": "https://blanin.ru/?page_id=35",
+              "title": "Horus Capital - официальная страница на персональном сайте Алексея Бланина",
+              "fact": "Страница описывает деятельность Horus Capital: \"поиск, приобретение и девелопмент крупных объектов коммерческой недвижимости\" (офисные центры и редевелопмент промышленных зон, портфель 15 объектов, 550 000 кв.м); проверено повторно 2026-07-31."
+            }
+          ],
+          "sector": "Real Estate",
+          "industry_group": "Real Estate Management & Development (New)",
+          "industry": "Real Estate Management & Development (New Code)"
+        },
+        {
+          "organization": "ПИК",
+          "role": "независимый член прежнего совета директоров",
+          "start_year": null,
+          "end_year": 2024,
+          "description": "CSV и TAdviser относят его к прежнему совету; новый состав после 25.04.2024 не подтверждает его участие.",
+          "sources": [
+            {
+              "url": "MOEXBMI_2024.csv",
+              "title": "MOEXBMI_2024.csv",
+              "fact": "CSV содержит Алексея Бланина как независимого члена совета директоров ПИК."
+            },
+            {
+              "url": "https://www.tadviser.ru/index.php/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%3A%D0%9F%D0%98%D0%9A_%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9",
+              "title": "ПИК (Группа компаний) - TAdviser",
+              "fact": "TAdviser используется для старого board context ПИК."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Алексея Бланина по тикеру PIKK."
+        },
+        {
+          "url": "https://www.forbes.ru/reytingi/514259-rejting-rossijskih-rante-2024",
+          "title": "Рейтинг российских рантье 2024 - Forbes",
+          "fact": "Источник подтверждает связь Алексея Бланина с AB Development и Horus."
+        },
+        {
+          "url": "https://blanin.ru/",
+          "title": "Персональный сайт Алексея Бланина",
+          "fact": "Персональный сайт был проверен как навигационный источник, но не дал подтвержденного образования на открытой странице."
+        },
+        {
+          "url": "https://blanin.ru/?page_id=117",
+          "title": "Биография - персональный сайт Алексея Бланина",
+          "fact": "Страница \"Биография\" повторно проверена 2026-07-31: указывает более 25 лет опыта в коммерческой и жилой недвижимости, свыше 1,5 млн кв.м построенной недвижимости; подтвержденного образования на странице по-прежнему нет."
+        },
+        {
+          "url": "https://blanin.ru/?page_id=35",
+          "title": "Horus Capital - официальная страница на персональном сайте Алексея Бланина",
+          "fact": "Источник для уточнения GICS-классификации Horus Capital как компании коммерческой недвижимости (Real Estate), а не финансовой компании."
+        },
+        {
+          "url": "https://blanin.ru/?page_id=40",
+          "title": "AB Development - официальная страница на персональном сайте Алексея Бланина",
+          "fact": "Источник для заполнения GICS-классификации AB Development как девелоперской компании (Real Estate)."
+        }
+      ],
+      "notes": "Подтвержденное образование не найдено (повторная попытка 2026-07-31 новыми запросами также не дала результата, см. research_notes/PIKK/quality_pass_round1_20260731.md). Профессиональная связь подтверждена Forbes/TAdviser; GICS для AB Development и Horus Capital уточнена/исправлена на Real Estate по прямому описанию бизнеса на официальном сайте компаний. Статус в новом совете после 25.04.2024 не подтвержден."
+    },
+    {
+      "name": "Зумруд Хандадашевна Рустамова",
+      "current_role": "Роль из CSV: независимый член совета директоров. По найденным источникам относится к прежнему составу совета; после 25.04.2024 в новом совете не подтверждена.",
+      "company_name": "ПАО \"ПИК-специализированный застройщик\"",
+      "education": [
+        {
+          "institution": "Московский экономико-статистический институт",
+          "program_or_field": null,
+          "degree_or_qualification": null,
+          "year": 1992,
+          "sources": [
+            {
+              "url": "https://magmetall.ru/news/19650.htm",
+              "title": "Магнитогорский металл: Зумруд Рустамова",
+              "fact": "Источник указывает, что Зумруд Рустамова окончила Московский экономико-статистический институт в 1992 году."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПИК",
+          "role": "независимый член прежнего совета директоров",
+          "start_year": null,
+          "end_year": 2024,
+          "description": "CSV и TAdviser относят ее к прежнему совету; новый состав после 25.04.2024 не подтверждает ее участие.",
+          "sources": [
+            {
+              "url": "MOEXBMI_2024.csv",
+              "title": "MOEXBMI_2024.csv",
+              "fact": "CSV содержит Зумруд Рустамову как независимого члена совета директоров ПИК."
+            },
+            {
+              "url": "https://www.tadviser.ru/index.php/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%3A%D0%9F%D0%98%D0%9A_%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9",
+              "title": "ПИК (Группа компаний) - TAdviser",
+              "fact": "TAdviser используется для старого board context ПИК."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Государственный комитет РФ по управлению госимуществом",
+          "role": "государственная служба",
+          "start_year": 1995,
+          "end_year": 1999,
+          "description": "Карьерный этап указан в биографическом источнике.",
+          "sources": [
+            {
+              "url": "https://magmetall.ru/news/19650.htm",
+              "title": "Магнитогорский металл: Зумруд Рустамова",
+              "fact": "Источник указывает работу Зумруд Рустамовой в Госкомимуществе в 1995-1999 годах."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Российский фонд федерального имущества",
+          "role": "заместитель председателя",
+          "start_year": 1999,
+          "end_year": 2000,
+          "description": "Должность и период указаны в биографическом источнике.",
+          "sources": [
+            {
+              "url": "https://magmetall.ru/news/19650.htm",
+              "title": "Магнитогорский металл: Зумруд Рустамова",
+              "fact": "Источник указывает работу заместителем председателя РФФИ в 1999-2000 годах."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Министерство имущественных отношений РФ",
+          "role": "заместитель министра",
+          "start_year": 2000,
+          "end_year": 2004,
+          "description": "Должность и период указаны в биографическом источнике.",
+          "sources": [
+            {
+              "url": "https://magmetall.ru/news/19650.htm",
+              "title": "Магнитогорский металл: Зумруд Рустамова",
+              "fact": "Источник указывает работу заместителем министра имущественных отношений РФ в 2000-2004 годах."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "СУЭК",
+          "role": "вице-президент",
+          "start_year": 2004,
+          "end_year": 2006,
+          "description": "Должность и период указаны в биографическом источнике.",
+          "sources": [
+            {
+              "url": "https://magmetall.ru/news/19650.htm",
+              "title": "Магнитогорский металл: Зумруд Рустамова",
+              "fact": "Источник указывает работу вице-президентом СУЭК в 2004-2006 годах."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Российский банк развития",
+          "role": "член совета директоров",
+          "start_year": 2006,
+          "end_year": null,
+          "description": "Назначение указано с мая 2006 года.",
+          "sources": [
+            {
+              "url": "https://magmetall.ru/news/19650.htm",
+              "title": "Магнитогорский металл: Зумруд Рустамова",
+              "fact": "Источник указывает членство Зумруд Рустамовой в совете директоров Российского банка развития с мая 2006 года."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ММК",
+          "role": "независимый член совета директоров",
+          "start_year": 2006,
+          "end_year": null,
+          "description": "Биографический источник связывает Рустамову с советом директоров ММК.",
+          "sources": [
+            {
+              "url": "https://magmetall.ru/news/19650.htm",
+              "title": "Магнитогорский металл: Зумруд Рустамова",
+              "fact": "Источник указывает Зумруд Рустамову как независимого члена совета директоров ММК."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Зумруд Рустамову по тикеру PIKK."
+        },
+        {
+          "url": "https://magmetall.ru/news/19650.htm",
+          "title": "Магнитогорский металл: Зумруд Рустамова",
+          "fact": "Источник подтверждает образование и карьерные вехи Зумруд Рустамовой."
+        },
+        {
+          "url": "https://www.tadviser.ru/index.php/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%3A%D0%9F%D0%98%D0%9A_%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9",
+          "title": "ПИК (Группа компаний) - TAdviser",
+          "fact": "Источник использован для старого board context ПИК."
+        }
+      ],
+      "notes": "Образование и карьера хорошо подтверждены деловым источником; статус в новом совете ПИК после 25.04.2024 не подтвержден."
+    },
+    {
+      "name": "Джулиан Майкл Симмондс",
+      "current_role": "Роль из CSV: независимый член совета директоров. По найденным источникам относится к прежнему составу совета; после 25.04.2024 в новом совете не подтвержден.",
+      "company_name": "ПАО \"ПИК-специализированный застройщик\"",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Citibank / Citigroup",
+          "role": "руководитель корпоративных финансовых направлений; executive vice president",
+          "start_year": 1972,
+          "end_year": 2001,
+          "description": "LPO указывает карьеру в Citibank/Citigroup с 1972 по 2001 год и должность EVP при уходе.",
+          "sources": [
+            {
+              "url": "https://lpo.org.uk/people/julian-simmonds/",
+              "title": "Julian Simmonds - London Philharmonic Orchestra",
+              "fact": "Профиль LPO указывает работу Julian Simmonds в Citibank с 1972 по 2001 год и уход в должности executive vice president."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "VTB Capital",
+          "role": "non-executive director",
+          "start_year": null,
+          "end_year": null,
+          "description": "Профиль LPO подтверждает неисполнительную директорскую роль. VTB Capital — инвестиционно-банковское/брокерское подразделение группы ВТБ (капитальные рынки, M&A, торговля ценными бумагами), не занимается розничным депозитно-кредитным банкингом, поэтому классифицируется как Capital Markets, а не как Banks (аналогично уже принятой в этом файле классификации Sinara Finance/BCS Global Markets).",
+          "sources": [
+            {
+              "url": "https://lpo.org.uk/people/julian-simmonds/",
+              "title": "Julian Simmonds - London Philharmonic Orchestra",
+              "fact": "Профиль LPO указывает роль non-executive director в VTB Capital."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "Chelsea Academy / Notting Hill and Ealing High School",
+          "role": "trustee / governance roles",
+          "start_year": null,
+          "end_year": null,
+          "description": "Школьные governance-роли указаны в профиле LPO. Обе организации — некоммерческие образовательные учреждения Великобритании (academy trust / independent girls' school), поэтому не подлежат коммерческой GICS-классификации, как и государственные органы или ассоциации.",
+          "sources": [
+            {
+              "url": "https://lpo.org.uk/people/julian-simmonds/",
+              "title": "Julian Simmonds - London Philharmonic Orchestra",
+              "fact": "Профиль LPO указывает governance-роли Julian Simmonds в Chelsea Academy и Notting Hill and Ealing High School."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПИК",
+          "role": "независимый член прежнего совета директоров",
+          "start_year": null,
+          "end_year": 2024,
+          "description": "CSV и TAdviser относят его к прежнему совету; новый состав после 25.04.2024 не подтверждает его участие.",
+          "sources": [
+            {
+              "url": "MOEXBMI_2024.csv",
+              "title": "MOEXBMI_2024.csv",
+              "fact": "CSV содержит Джулиана М. Симмондса как независимого члена совета директоров ПИК."
+            },
+            {
+              "url": "https://www.tadviser.ru/index.php/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%3A%D0%9F%D0%98%D0%9A_%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9",
+              "title": "ПИК (Группа компаний) - TAdviser",
+              "fact": "TAdviser используется для старого board context ПИК."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Джулиана М. Симмондса по тикеру PIKK."
+        },
+        {
+          "url": "https://lpo.org.uk/people/julian-simmonds/",
+          "title": "Julian Simmonds - London Philharmonic Orchestra",
+          "fact": "Источник подтверждает идентичность Julian Michael Simmonds и профессиональный опыт в Citibank/Citigroup и VTB Capital."
+        },
+        {
+          "url": "https://www.tadviser.ru/index.php/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%3A%D0%9F%D0%98%D0%9A_%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9",
+          "title": "ПИК (Группа компаний) - TAdviser",
+          "fact": "Источник использован для старого board context ПИК."
+        }
+      ],
+      "notes": "Подтвержденное образование не найдено (повторная попытка 2026-07-31 новыми запросами также не дала результата, см. research_notes/PIKK/quality_pass_round1_20260731.md). Однофамилец из Queensland / Australia отклонен как другой человек. GICS для VTB Capital исправлена с Banks на Capital Markets (инвестбанковское подразделение, не розничный банк); GICS для Chelsea Academy / Notting Hill and Ealing High School обнулена — некоммерческие образовательные учреждения не подлежат коммерческой классификации. Статус в новом совете ПИК после 25.04.2024 не подтвержден."
+    },
+    {
+      "name": "Грегор Уильям Моват",
+      "current_role": "Роль из CSV: независимый член совета директоров. По найденным источникам относится к прежнему составу совета; после 25.04.2024 в новом совете не подтвержден.",
+      "company_name": "ПАО \"ПИК-специализированный застройщик\"",
+      "education": [
+        {
+          "institution": "Durham University",
+          "program_or_field": "English Language and Literature",
+          "degree_or_qualification": "Bachelor",
+          "year": 1994,
+          "sources": [
+            {
+              "url": "https://www.magnit.com/en/disclosure/annual-reports/",
+              "title": "Magnit Annual Reports",
+              "fact": "Годовой отчет Магнита за 2018 год указывает Durham University, Bachelor of English Language and Literature, 1994, для Gregor Mowat."
+            }
+          ],
+          "qualification_degree": "Bachelor's degree"
+        },
+        {
+          "institution": "Institute of Chartered Accountants of Scotland",
+          "program_or_field": null,
+          "degree_or_qualification": "member",
+          "year": 1998,
+          "sources": [
+            {
+              "url": "https://www.magnit.com/en/disclosure/annual-reports/",
+              "title": "Magnit Annual Reports",
+              "fact": "Годовой отчет Магнита за 2018 год указывает членство Gregor Mowat в Institute of Chartered Accountants of Scotland с 1998 года."
+            }
+          ],
+          "qualification_degree": "Professional certification"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Bachelor",
+          "field": "English Language and Literature",
+          "year": 1994,
+          "sources": [
+            {
+              "url": "https://www.magnit.com/en/disclosure/annual-reports/",
+              "title": "Magnit Annual Reports",
+              "fact": "Годовой отчет Магнита за 2018 год указывает бакалаврскую степень Gregor Mowat в Durham University."
+            }
+          ],
+          "qualification_degree": "Bachelor's degree"
+        },
+        {
+          "degree": "ICAS professional membership",
+          "field": "accounting",
+          "year": 1998,
+          "sources": [
+            {
+              "url": "https://www.magnit.com/en/disclosure/annual-reports/",
+              "title": "Magnit Annual Reports",
+              "fact": "Годовой отчет Магнита за 2018 год указывает членство Gregor Mowat в ICAS с 1998 года."
+            }
+          ],
+          "qualification_degree": "Professional certification"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "KPMG Russia and CIS",
+          "role": "CFO",
+          "start_year": 2011,
+          "end_year": 2016,
+          "description": "Роль и период подтверждены корпоративным сообщением Fix Price/EQS.",
+          "sources": [
+            {
+              "url": "https://www.eqs-news.com/news/ipo/fix-price-announces-appointments-to-its-board-of-directors/1182043",
+              "title": "Fix Price announces appointments to its Board of Directors",
+              "fact": "Fix Price/EQS указывает Gregor Mowat как CFO KPMG Russia and CIS в 2011-2016 годах."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "KPMG Kazakhstan",
+          "role": "managing partner",
+          "start_year": 2013,
+          "end_year": null,
+          "description": "Роль подтверждена корпоративным сообщением Fix Price/EQS.",
+          "sources": [
+            {
+              "url": "https://www.eqs-news.com/news/ipo/fix-price-announces-appointments-to-its-board-of-directors/1182043",
+              "title": "Fix Price announces appointments to its Board of Directors",
+              "fact": "Fix Price/EQS указывает Gregor Mowat как managing partner KPMG Kazakhstan from 2013."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "LOQBOX",
+          "role": "co-founder",
+          "start_year": null,
+          "end_year": null,
+          "description": "Создание LOQBOX указано после возвращения в Великобританию.",
+          "sources": [
+            {
+              "url": "https://www.eqs-news.com/news/ipo/fix-price-announces-appointments-to-its-board-of-directors/1182043",
+              "title": "Fix Price announces appointments to its Board of Directors",
+              "fact": "Fix Price/EQS указывает Gregor Mowat как co-founder LOQBOX."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Magnit, PIK Group, Ak Bars Bank",
+          "role": "board roles",
+          "start_year": null,
+          "end_year": null,
+          "description": "Набор директорских ролей подтвержден корпоративным сообщением Fix Price/EQS. GICS обнулена: запись объединяет три компании из разных секторов (Magnit — розничная торговля, PIK Group — недвижимость, Ak Bars Bank — банки), поэтому единая метка была бы некорректна для минимум двух из трех организаций; единого правильного значения для этой составной записи нет.",
+          "sources": [
+            {
+              "url": "https://www.eqs-news.com/news/ipo/fix-price-announces-appointments-to-its-board-of-directors/1182043",
+              "title": "Fix Price announces appointments to its Board of Directors",
+              "fact": "Fix Price/EQS указывает board roles Gregor Mowat в Magnit, PIK Group и Ak Bars Bank."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПИК",
+          "role": "независимый член прежнего совета директоров",
+          "start_year": null,
+          "end_year": 2024,
+          "description": "CSV и TAdviser относят его к прежнему совету; новый состав после 25.04.2024 не подтверждает его участие.",
+          "sources": [
+            {
+              "url": "MOEXBMI_2024.csv",
+              "title": "MOEXBMI_2024.csv",
+              "fact": "CSV содержит Грегора Уильяма Мовата как независимого члена совета директоров ПИК."
+            },
+            {
+              "url": "https://www.tadviser.ru/index.php/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%3A%D0%9F%D0%98%D0%9A_%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9",
+              "title": "ПИК (Группа компаний) - TAdviser",
+              "fact": "TAdviser используется для старого board context ПИК."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Грегора Уильяма Мовата по тикеру PIKK."
+        },
+        {
+          "url": "https://www.magnit.com/en/disclosure/annual-reports/",
+          "title": "Magnit Annual Reports",
+          "fact": "Годовой отчет Магнита за 2018 год подтверждает образование и ICAS-профиль Gregor Mowat."
+        },
+        {
+          "url": "https://www.eqs-news.com/news/ipo/fix-price-announces-appointments-to-its-board-of-directors/1182043",
+          "title": "Fix Price announces appointments to its Board of Directors",
+          "fact": "Источник подтверждает опыт Gregor Mowat в KPMG, LOQBOX и board roles."
+        }
+      ],
+      "notes": "Образование и профессиональная история подтверждены корпоративными источниками. qualification_degree заполнена для Durham University (Bachelor's degree) и ICAS (Professional certification) по явно указанному degree_or_qualification, для согласованности с параллельными записями degrees[]. GICS для составной записи \"Magnit, PIK Group, Ak Bars Bank\" обнулена, т.к. одна метка не может корректно описать три компании из разных секторов. Статус в новом совете ПИК после 25.04.2024 не подтвержден."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/PIKK/Годовой отчет ГК ПИК_2024_финал с ККУ.pdf",
+      "title": "Годовой отчет ПАО \"ПИК СЗ\" за 2024 год",
+      "fact": "Страница 1: отчет подписан генеральным директором Е.О. Карапетяном; страницы 62-66: совет директоров, генеральный директор и упразднение правления 22.02.2024; совет директоров в 2024 году состоял из 9 человек."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/PIKK/АЗ и Отчетность ПИК СЗ 2024.pdf",
+      "title": "Консолидированная финансовая отчетность ПАО \"ПИК СЗ\" за 2024 год",
+      "fact": "Страница 12: в 2024 году аффилированные с С.Э. Гордеевым компании продали 17,34% акций; на 31.12.2024 отсутствуют акционеры, оказывающие существенное влияние."
+    },
+    {
+      "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1863756",
+      "title": "Изменения в отчет эмитента за 6 месяцев 2024 года",
+      "fact": "Страница 7: состав комитета по аудиту совета директоров: Заболотский Владимир Валерьевич, Таченников Кирилл Викторович, Юферев Илья Владиславович."
+    },
+    {
+      "url": "https://dvizhenie.ru/media/231/aktsionery-gk-pik-polnostiu-pomeniali-sovet-direktorov",
+      "title": "Акционеры ГК ПИК полностью поменяли совет директоров",
+      "fact": "25.04.2024 источник сообщает о полной смене совета директоров ПИК: Сергей Мруз, Ерванд Карапетян, Кирилл Таченников, Владимир Заболотский, Илья Юферев."
+    },
+    {
+      "url": "https://www.tadviser.ru/index.php/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%3A%D0%9F%D0%98%D0%9A_%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9",
+      "title": "ПИК (Группа компаний) - TAdviser",
+      "fact": "Источник использован для сопоставления нового состава совета директоров 2024 года с прежним составом, присутствующим в CSV."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "Исходный список 15 людей по тикеру PIKK."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/PIKK/Годовой отчет ГК ПИК_2024_финал с ККУ.pdf",
+      "title": "Годовой отчет ПАО \"ПИК СЗ\" за 2024 год",
+      "fact": "Локальный официальный источник по структуре управления, истории компании, назначению Ивана Поландова в 2022 году и подписи Е.О. Карапетяна как генерального директора."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/PIKK/АЗ и Отчетность ПИК СЗ 2024.pdf",
+      "title": "Консолидированная финансовая отчетность ПАО \"ПИК СЗ\" за 2024 год",
+      "fact": "Локальный официальный источник по акционерному контексту С.Э. Гордеева на 31.12.2024."
+    },
+    {
+      "url": "https://www.e-disclosure.ru/portal/FileLoad.ashx?Fileid=1863756",
+      "title": "Изменения в отчет эмитента за 6 месяцев 2024 года",
+      "fact": "Официальный источник по комитету по аудиту совета директоров."
+    },
+    {
+      "url": "https://dvizhenie.ru/media/231/aktsionery-gk-pik-polnostiu-pomeniali-sovet-direktorov",
+      "title": "Акционеры ГК ПИК полностью поменяли совет директоров",
+      "fact": "Источник по полной смене совета директоров 25.04.2024 и новому составу."
+    },
+    {
+      "url": "https://pikproblem.ru/pik-o/novyj-sovet-direktorov-pao-pik-sz/",
+      "title": "Новый совет директоров ПАО \"ПИК СЗ\"",
+      "fact": "Вторичный источник по биографиям пяти новых директоров; использован с оговоркой качества."
+    },
+    {
+      "url": "https://www.pik.ru/news/72929",
+      "title": "Иван Поландов назначен генеральным директором ПИК",
+      "fact": "Официальная новость ПИК о назначении Ивана Поландова генеральным директором 20.09.2022."
+    },
+    {
+      "url": "https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=51802",
+      "title": "Гордеев Сергей Эдуардович - Российская академия художеств",
+      "fact": "Источник по образованию и биографии Сергея Гордеева."
+    },
+    {
+      "url": "https://events.vedomosti.ru/speakers/ilin-urii-10001",
+      "title": "Юрий Ильин - Ведомости Events",
+      "fact": "Источник по образованию и профессиональному опыту Юрия Ильина."
+    },
+    {
+      "url": "https://events.vedomosti.ru/speakers/timofeev-dmitrii-6275",
+      "title": "Дмитрий Тимофеев - Ведомости Events",
+      "fact": "Источник по образованию и профессиональному опыту Дмитрия Тимофеева."
+    },
+    {
+      "url": "https://forwardlegal.com/people/aleksey-karpenko/",
+      "title": "Алексей Карпенко - Forward Legal",
+      "fact": "Официальный источник по образованию и юридической карьере Алексея Карпенко."
+    },
+    {
+      "url": "https://www.forbes.ru/reytingi/514259-rejting-rossijskih-rante-2024",
+      "title": "Рейтинг российских рантье 2024 - Forbes",
+      "fact": "Источник по AB Development / Horus context Алексея Бланина."
+    },
+    {
+      "url": "https://magmetall.ru/news/19650.htm",
+      "title": "Магнитогорский металл: Зумруд Рустамова",
+      "fact": "Источник по образованию и профессиональной биографии Зумруд Рустамовой."
+    },
+    {
+      "url": "https://lpo.org.uk/people/julian-simmonds/",
+      "title": "Julian Simmonds - London Philharmonic Orchestra",
+      "fact": "Источник по профессиональной биографии Julian Michael Simmonds."
+    },
+    {
+      "url": "https://www.eqs-news.com/news/ipo/fix-price-announces-appointments-to-its-board-of-directors/1182043",
+      "title": "Fix Price announces appointments to its Board of Directors",
+      "fact": "Источник по профессиональной биографии Gregor Mowat."
+    }
+  ],
+  "validation_notes": "Обработано 15 людей из CSV по тикеру PIKK. Проверено 2 локальных документа в MOEXBMI_Отчеты_2024/PIKK: годовой отчет и консолидированная финансовая отчетность; дополнительно проверен официальный e-disclosure PDF по отчету эмитента за 6 месяцев 2024 года. Выполнено 15 research rounds, по одному на человека. CEO в контексте 2024 года определен как Ерванд Карапетян: годовой отчет за 2024 год подписан им как генеральным директором, а Иван Поландов сохранен как бывший CEO, присутствующий в CSV. CSV содержит смешение нового состава совета 2024 года и прежних директоров; новый совет после 25.04.2024 подтвержден для Сергея Мруза, Ерванда Карапетяна, Кирилла Таченникова, Владимира Заболотского и Ильи Юферева. Для Владимира в CSV указано написание \"Заболоцкий\", тогда как official e-disclosure и web-источники используют \"Заболотский Владимир Валерьевич\". Образование не подтверждено для Алексея Бланина и Джулиана М. Симмондса. Слабые источники использованы для образования и части карьеры пяти новых директоров: Сергея Мруза, Ерванда Карапетяна, Кирилла Таченникова, Владимира Заболотского и Ильи Юферева. Существенная неопределенность отмечена у 11 человек: у пяти новых директоров из-за слабых биографических источников, у Ивана Поландова из-за отсутствия первичного документа о прекращении полномочий, у Алексея Бланина и Джулиана Симмондса из-за отсутствия образования, а также у части прежнего совета из-за отсутствия отдельного первичного документа о прекращении полномочий после 25.04.2024. Подтвержденных научных публикаций, патентов и h-index для нужных лиц не найдено; однофамильцы без связки ПИК/соответствующая отрасль/предыдущие работодатели отклонены в research notes. Поиск считается завершенным, потому что локальные документы проверены, текущий состав совета и CEO разделены от прежнего состава, найденные работодатели и образовательные зацепки проверены, а оставшиеся пробелы явно зафиксированы в notes.\n\nQUALITY PASS (round: quality_pass_round1, 2026-07-31): Проверен baseline git HEAD против диска — расхождений не найдено (файл идентичен, только различие в CRLF/LF), регрессии предыдущего запуска для PIKK не было. Desync-проверка всех 15 записей (notes vs JSON): найден 1 simple omission — Юрий Ильин, год окончания СПбГУ/Stockholm University (2000) и MBA отсутствовал в JSON при наличии в notes/источнике; исправлено с повторной проверкой точной цитаты источника. Genuine inconsistencies уровня 1.b не обнаружены (нет конфликтующих раундов, все \"Contradictions\"-секции в notes уже отражены в JSON корректно). GICS-корректность проверена по всем 9 непустым триплетам professional_experience: исправлено 4 неверных ярлыка — (1) Кирилл Таченников/BCS Global Markets: Consumer Discretionary/Broadline Retail → Financials/Capital Markets (BCS Global Markets — инвестбанковское/брокерское подразделение, не ритейл); (2) Алексей Бланин/Horus Capital: Financials/Capital Markets → Real Estate/Real Estate Management & Development (по прямому описанию бизнеса на официальном сайте компании — девелопмент коммерческой недвижимости); (3) Джулиан Симмондс/VTB Capital: Financials/Banks → Financials/Capital Markets (инвестбанковское подразделение группы ВТБ, не розничный банк); (4) Джулиан Симмондс/Chelsea Academy и Notting Hill and Ealing High School: Consumer Discretionary/Diversified Consumer Services → null (некоммерческие образовательные учреждения, governance-роль, не подлежит коммерческой GICS-классификации); (5) Грегор Моват/\"Magnit, PIK Group, Ak Bars Bank\": Financials/Banks → null (составная запись из трех компаний разных секторов, единая метка некорректна). Один пробел закрыт новым источником: Алексей Бланин/AB Development — GICS заполнена как Real Estate по официальному описанию компании (была null). Honest-gap follow-up (bounded, один заход на пробел): для Алексея Бланина и Джулиана Симмондса (единственные два человека с полностью пустым education[] из-за \"insufficient reliable source\" в round_1) выполнены дополнительные попытки через WebFetch по новым URL (WebSearch quota исчерпана в этой сессии, см. research_notes/PIKK/quality_pass_round1_20260731.md за полным списком проверенных страниц) — новое образование не найдено, гэп остается документированным и открытым. Остальные \"Remaining gaps\" в round_1 (официальные документы о прекращении полномочий членов совета) не являются null-полями (даты end_year уже заполнены оценочно с источником) и не подпадали под bounded gap-follow-up в этом раунде. Дополнительно исправлена внутренняя рассинхронизация qualification_degree между education[] и degrees[] для одного и того же диплома (Грегор Моват: Durham University Bachelor's degree, ICAS Professional certification; Алексей Карпенко: Сколково Executive MBA → MBA) и заполнено определяемое из контекста значение для явно названной степени (Сергей Мруз: \"кандидат политических наук\" → Doctoral degree). Ни один факт, note или source citation не был удален или сокращен; неклассифицируемые null (госорганы, некоммерческие структуры) не тронуты, кроме случаев, где по ошибке была присвоена коммерческая GICS-метка.",
+  "sector": "Real Estate",
+  "industry_group": "Real Estate Management & Development (New)",
+  "industry": "Real Estate Management & Development (New Code)"
+}

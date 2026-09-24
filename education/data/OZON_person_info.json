@@ -1,0 +1,245 @@
+{
+    "company_name":  "Озон Холдингс ПиЭлСи / Ozon Holdings PLC",
+    "company_ticker":  "OZON",
+    "ceo":  null,
+    "tmt":  [
+                {
+                    "name":  "Герасимов Игорь Владиславович",
+                    "current_role":  "Исполнительный директор / Director of Ozon Holdings PLC in the 2024 context; earlier official Ozon filings identify him as Chief Financial Officer and Executive Director.",
+                    "company_name":  "Озон Холдингс ПиЭлСи / Ozon Holdings PLC",
+                    "education":  [
+                                      {
+                                          "institution":  "Graduate School of Management, Saint Petersburg State University",
+                                          "description":  "Graduated with honors in 2014.",
+                                          "year":  2014,
+                                          "sources":  [
+                                                          "https://www.sec.gov/Archives/edgar/data/1822829/000119312523115002/d445088d20f.htm",
+                                                          "https://bosfera.ru/dossier/igorgerasimov19703",
+                                                          "https://vklader.com/persons/igor-gerasimov/"
+                                                      ],
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "Rotterdam School of Management, Erasmus University",
+                                          "description":  "Completed exchange studies in 2012.",
+                                          "year":  2012,
+                                          "sources":  [
+                                                          "https://www.sec.gov/Archives/edgar/data/1822829/000119312523115002/d445088d20f.htm",
+                                                          "https://bosfera.ru/dossier/igorgerasimov19703",
+                                                          "https://vklader.com/persons/igor-gerasimov/"
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Ozon / Internet Solutions LLC / Ozon Holdings PLC",
+                                                        "role":  "Head of Corporate Development; Corporate Finance Director; Chief Financial Officer; Executive Director",
+                                                        "start_year":  2019,
+                                                        "end_year":  null,
+                                                        "description":  "Joined Ozon in December 2019 as Head of Corporate Development, was promoted to Corporate Finance Director in January 2021, became Chief Financial Officer in March 2021, and replaced Alexander Shulgin as Executive Director in April 2022. In the 2024 annual report context Ozon disclosed one executive director in the Board structure and Igor Gerasimov signed the directors\u0027 responsibility statement as Director.",
+                                                        "sources":  [
+                                                                        "MOEXBMI_Отчеты_2024/OZON/Ozon_Годовой_отчет_2024.pdf",
+                                                                        "https://www.sec.gov/Archives/edgar/data/1822829/000119312521099171/d71343dex991.htm",
+                                                                        "https://www.sec.gov/Archives/edgar/data/1822829/000119312522102589/d341622dex991.htm",
+                                                                        "https://www.sec.gov/Archives/edgar/data/1822829/000119312523115002/d445088d20f.htm",
+                                                                        "https://www.sec.gov/Archives/edgar/data/1822829/000119312522136419/d676447d6k.htm"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+                                                        "industry":  "Broadline Retail (New Name)"
+                                                    },
+                                                    {
+                                                        "organization":  "Baring Vostok Capital Partners Group Limited",
+                                                        "role":  "Investment Manager",
+                                                        "start_year":  2016,
+                                                        "end_year":  2019,
+                                                        "description":  "Worked as an investment manager focused on fintech, e-commerce, mobility and food tech investments.",
+                                                        "sources":  [
+                                                                        "https://www.sec.gov/Archives/edgar/data/1822829/000119312523115002/d445088d20f.htm",
+                                                                        "https://www.sec.gov/Archives/edgar/data/1822829/000119312523166816/d508084dex991.htm",
+                                                                        "https://bosfera.ru/dossier/igorgerasimov19703",
+                                                                        "https://vklader.com/persons/igor-gerasimov/"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "Goldman Sachs",
+                                                        "role":  "Equity Research; Primary Analyst for CEEMEA Banks",
+                                                        "start_year":  2014,
+                                                        "end_year":  2016,
+                                                        "description":  "Worked in equity research and became Primary Analyst for CEEMEA Banks.",
+                                                        "sources":  [
+                                                                        "https://www.sec.gov/Archives/edgar/data/1822829/000119312523115002/d445088d20f.htm",
+                                                                        "https://bosfera.ru/dossier/igorgerasimov19703",
+                                                                        "https://vklader.com/persons/igor-gerasimov/"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "PricewaterhouseCoopers / PwC",
+                                                        "role":  "Infrastructure and project finance department",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Worked in PwC\u0027s infrastructure and project finance department before Goldman Sachs; precise dates were not confirmed.",
+                                                        "sources":  [
+                                                                        "https://www.sec.gov/Archives/edgar/data/1822829/000119312523115002/d445088d20f.htm",
+                                                                        "https://bosfera.ru/dossier/igorgerasimov19703",
+                                                                        "https://vklader.com/persons/igor-gerasimov/"
+                                                                    ],
+                                                        "sector":  "Industrials",
+                                                        "industry_group":  "Commercial & Professional Services",
+                                                        "industry":  "Professional Services"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV row for exact ticker OZON contains company \u0027Озон Холдингс ПиЭлСи\u0027, person \u0027Герасимов Игорь Владиславович\u0027, and position \u0027Исполнительный директор\u0027."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/OZON/Ozon_Годовой_отчет_2024.pdf",
+                                        "title":  "Годовой отчет Ozon Holdings PLC 2024",
+                                        "fact":  "Page 32: the Board of Directors consisted of nine members, including one executive director, and the company decided not to disclose the personal composition of the Board. Page 103: the directors\u0027 responsibility statement is signed by \u0027Игорь Герасимов\u0027 as \u0027Директор\u0027."
+                                    },
+                                    {
+                                        "url":  "https://www.sec.gov/Archives/edgar/data/1822829/000119312523115002/d445088d20f.htm",
+                                        "title":  "Ozon Holdings PLC 2022 Form 20-F",
+                                        "fact":  "The filing identifies Igor Gerasimov as Chief Financial Officer and Executive Director and states that he joined Ozon in December 2019, became Corporate Finance Director in January 2021, CFO in March 2021, and an executive member of the Board in April 2022."
+                                    },
+                                    {
+                                        "url":  "https://www.sec.gov/Archives/edgar/data/1822829/000119312523115002/d445088d20f.htm",
+                                        "title":  "Ozon Holdings PLC 2022 Form 20-F",
+                                        "fact":  "The filing states that before Ozon he worked at Baring Vostok from 2016 to 2019, at Goldman Sachs from 2014 to 2016, and before that at PricewaterhouseCoopers."
+                                    },
+                                    {
+                                        "url":  "https://www.sec.gov/Archives/edgar/data/1822829/000119312523115002/d445088d20f.htm",
+                                        "title":  "Ozon Holdings PLC 2022 Form 20-F",
+                                        "fact":  "The filing states that Igor Gerasimov graduated with honors from the Graduate School of Management at Saint Petersburg State University in 2014 and completed exchange studies at Rotterdam School of Management, Erasmus University in 2012."
+                                    },
+                                    {
+                                        "url":  "https://www.sec.gov/Archives/edgar/data/1822829/000119312521099171/d71343dex991.htm",
+                                        "title":  "Ozon Announces New Chief Financial Officer",
+                                        "fact":  "Ozon announced Igor Gerasimov\u0027s appointment as Chief Financial Officer; he was Ozon\u0027s Corporate Finance Director at the time and the transition was planned for Q2 2021."
+                                    },
+                                    {
+                                        "url":  "https://www.sec.gov/Archives/edgar/data/1822829/000119312522102589/d341622dex991.htm",
+                                        "title":  "Ozon Announces Changes to its Board of Directors and Top Management",
+                                        "fact":  "On 12 April 2022 Ozon announced that Alexander Shulgin stepped down as CEO and from the Board, and that CFO Igor Gerasimov would replace him as Executive Director."
+                                    },
+                                    {
+                                        "url":  "https://www.sec.gov/Archives/edgar/data/1822829/000119312523166816/d508084dex991.htm",
+                                        "title":  "Ozon Provides Clarifications to Recent Press Speculation",
+                                        "fact":  "Ozon stated that since April 2022 Ozon Group has not had a CEO and day-to-day management is undertaken by a Management Board; it separately noted that Igor Gerasimov worked at Baring from 2016 to 2019."
+                                    },
+                                    {
+                                        "url":  "https://www.sec.gov/Archives/edgar/data/1822829/000119312522136419/d676447d6k.htm",
+                                        "title":  "Ozon Holdings PLC Form 6-K, May 2022",
+                                        "fact":  "The filing is signed by Igor Gerasimov as Chief Financial Officer, Executive Director."
+                                    },
+                                    {
+                                        "url":  "https://bosfera.ru/dossier/igorgerasimov19703",
+                                        "title":  "Банковское обозрение: Игорь Герасимов",
+                                        "fact":  "Secondary dossier cross-checks GSOM SPbU education, RSM Erasmus course, PwC, Goldman Sachs, Baring Vostok, Ozon 2019 entry, and CFO appointment in March 2021."
+                                    },
+                                    {
+                                        "url":  "https://vklader.com/persons/igor-gerasimov/",
+                                        "title":  "Вкладер: Игорь Герасимов",
+                                        "fact":  "Secondary biography cross-checks that Igor Gerasimov joined Ozon in 2019, led corporate development and fundraising, became CFO in March 2021, and previously worked at Baring Vostok, Goldman Sachs and PwC."
+                                    }
+                                ],
+                    "notes":  "No verified academic publications, patents, h-index, PhD, candidate-of-sciences degree, MBA or precise PwC dates were found. Academic profiles and publication pages for similarly named people were rejected because they used different patronymics, fields or affiliations. Later post-2024 sources about a 2026 move to T-Technologies were checked only for identity continuity and were not used to change the 2024 Ozon role. QUALITY PASS ROUND 1 (2026-07-31): PwC classified as Industrials / Commercial \\u0026 Professional Services / Professional Services based on PwC\\u0027s own description of its business (Assurance/Advisory/Tax professional services firm). GSOM SPbU exact degree level (bachelor\\u0027s vs master\\u0027s) and exact PwC start/end years remain unresolved after a fresh bounded re-check; both stay null pending a future source."
+                }
+            ],
+    "board_sources":  [
+                          {
+                              "url":  "MOEXBMI_2024.csv",
+                              "title":  "MOEXBMI_2024.csv",
+                              "fact":  "CSV contains predefined company people and positions used as pipeline input."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/OZON/Ozon_Годовой_отчет_2024.pdf",
+                              "title":  "Годовой отчет Ozon Holdings PLC 2024",
+                              "fact":  "Page 32: Ozon reports a nine-member Board with four independent directors, four non-executive directors and one executive director, while not disclosing the personal Board composition. Page 103: Igor Gerasimov signs the directors\u0027 responsibility statement as Director."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/OZON/Ozon_Консолидированная финансовая отчетность 2024.pdf",
+                              "title":  "Консолидированная финансовая отчетность Ozon Holdings PLC 2024",
+                              "fact":  "Page 1 identifies the 2024 consolidated financial statements of Ozon Holdings PLC; note 1 states they were approved by Board decision on 12 March 2025. The document does not disclose Igor Gerasimov\u0027s biography."
+                          },
+                          {
+                              "url":  "https://www.sec.gov/Archives/edgar/data/1822829/000119312522102589/d341622dex991.htm",
+                              "title":  "Ozon Announces Changes to its Board of Directors and Top Management",
+                              "fact":  "Ozon announced on 12 April 2022 that CFO Igor Gerasimov would replace Alexander Shulgin as Executive Director."
+                          },
+                          {
+                              "url":  "https://www.sec.gov/Archives/edgar/data/1822829/000119312523166816/d508084dex991.htm",
+                              "title":  "Ozon Provides Clarifications to Recent Press Speculation",
+                              "fact":  "Ozon clarified that since April 2022 the group has not had a CEO and is managed day-to-day by a Management Board."
+                          }
+                      ],
+    "sources":  [
+                    {
+                        "url":  "MOEXBMI_2024.csv",
+                        "title":  "MOEXBMI_2024.csv",
+                        "fact":  "Exact ticker OZON has one person row: Igor Vladislavovich Gerasimov, executive director."
+                    },
+                    {
+                        "url":  "MOEXBMI_Отчеты_2024/OZON/Ozon_Годовой_отчет_2024.pdf",
+                        "title":  "Годовой отчет Ozon Holdings PLC 2024",
+                        "fact":  "Local 2024 annual report checked for board, management and biography pages; it confirms Board structure and Gerasimov\u0027s director signature but withholds personal Board composition."
+                    },
+                    {
+                        "url":  "MOEXBMI_Отчеты_2024/OZON/Ozon_Консолидированная финансовая отчетность 2024.pdf",
+                        "title":  "Консолидированная финансовая отчетность Ozon Holdings PLC 2024",
+                        "fact":  "Local 2024 financial statements checked; they confirm Ozon Holdings PLC document context and Board approval but do not contain biography."
+                    },
+                    {
+                        "url":  "https://www.sec.gov/Archives/edgar/data/1822829/000119312523115002/d445088d20f.htm",
+                        "title":  "Ozon Holdings PLC 2022 Form 20-F",
+                        "fact":  "Primary official biography source for Igor Gerasimov\u0027s Ozon roles, previous employers and education."
+                    },
+                    {
+                        "url":  "https://www.sec.gov/Archives/edgar/data/1822829/000119312522102589/d341622dex991.htm",
+                        "title":  "Ozon Announces Changes to its Board of Directors and Top Management",
+                        "fact":  "Primary official source for the April 2022 executive director appointment and no-CEO transition."
+                    },
+                    {
+                        "url":  "https://www.sec.gov/Archives/edgar/data/1822829/000119312523166816/d508084dex991.htm",
+                        "title":  "Ozon Provides Clarifications to Recent Press Speculation",
+                        "fact":  "Primary official source for the statement that Ozon Group has had no CEO since April 2022 and is managed by a Management Board."
+                    },
+                    {
+                        "url":  "https://bosfera.ru/dossier/igorgerasimov19703",
+                        "title":  "Банковское обозрение: Игорь Герасимов",
+                        "fact":  "Secondary cross-check for education and career chronology."
+                    },
+                    {
+                        "url":  "https://vklader.com/persons/igor-gerasimov/",
+                        "title":  "Вкладер: Игорь Герасимов",
+                        "fact":  "Secondary cross-check for Ozon, Baring Vostok, Goldman Sachs, PwC and education facts."
+                    }
+                ],
+    "validation_notes":  "Processed 1 exact OZON person from CSV. Checked 2 local Ozon documents before web search. Completed 1 research round with two web search passes and more than 30 substantive queries. Education was found for Igor Gerasimov; no processed person lacks confirmed education. Weak sources were used only as cross-checks, while primary facts rely on local Ozon documents and SEC-hosted Ozon filings. No CEO was placed in the ceo field because Ozon officially stated that since April 2022 the group has had no CEO and is managed by a Management Board; local 2024 documents did not identify a CEO. Main remaining gaps: no local full biography, no precise PwC dates, no confirmed academic degree title beyond graduation, and no verified publications, patents or h-index. Excluded namesakes include Igor Vyacheslavovich Gerasimov the orientalist/historian, Igor S. Gerasimov the computational chemistry researcher, and Igor Vyacheslavovich Gerasimov the psychology author. Search is considered complete because all local documents were checked, prior employers and education leads were followed, obvious namesakes were excluded, and the second search pass produced no higher-quality new facts or unresolved leads. QUALITY PASS ROUND 1 (2026-07-31): confirmed on-disk file matches git HEAD baseline, no regression to restore. No notes/JSON desyncs found (all confirmed facts already applied). No genuine unresolved inconsistencies found; the Contradictions already logged in round 1 (MarketScreener Baring Vostok title, disclosure-limitation, post-2024 T-Technologies moves) were already resolved with reasoning matching the current JSON, re-confirmed consistent. Checked all three non-null professional_experience GICS labels (Ozon, Baring Vostok, Goldman Sachs) against the organizations' real primary business; all three were already correct, none changed. Filled the one honest GICS gap: PricewaterhouseCoopers/PwC classified as Industrials / Commercial & Professional Services / Professional Services, sourced from PwC's own Wikipedia page fetched this round ('PwC operates in the \\u0027Professional services\\u0027 industry'). Bounded fresh-angle follow-up attempted on two remaining gaps (GSOM SPbU qualification_degree Bachelor/Master, and precise PwC start/end years) via WebFetch re-reads of bosfera.ru/vklader.com/equilar/nokc.org.ru and Bing searches (WebSearch tool was session-exhausted); both remain unresolved and still null, see research_notes/OZON/quality_pass_round1_20260731.md for the exact queries tried.",
+    "sector":  "Consumer Discretionary",
+    "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+    "industry":  "Broadline Retail (New Name)"
+}

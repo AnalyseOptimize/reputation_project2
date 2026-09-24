@@ -1,0 +1,1527 @@
+{
+  "company_name": "ПАО \"МТС\"",
+  "company_ticker": "MTSS",
+  "ceo": {
+    "name": "Вячеслав Константинович Николаев / Vyacheslav Konstantinovich Nikolayev",
+    "current_role": "Президент и генеральный директор ПАО \"МТС\" в контексте 2024 года; также указан в CSV как член Совета директоров.",
+    "company_name": "ПАО \"МТС\"",
+    "education": [
+      {
+        "program": "высшее образование",
+        "university": "Московский государственный университет им. М. В. Ломоносова",
+        "field": "факультет вычислительной математики и кибернетики (ВМК)",
+        "year": 1992,
+        "description": "Round-2 desync fix (quality pass, 2026-08-01): факультет и год ранее не были подтверждены (MarketScreener указывал только undergraduate degree без деталей); ComNews (05.03.2021, независимая деловая пресса на момент назначения президентом) и Cyclowiki независимо указывают окончание ВМК МГУ в 1992 году. Отдельно встречается указание 1993 года (Roscongress), но эта страница не открылась напрямую (401/404 при попытке) и потому 1992 принят как первичное значение по двум независимо открытым источникам, а расхождение зафиксировано, а не скрыто.",
+        "sources": [
+          {
+            "url": "https://www.marketscreener.com/insider/VYACHESLAV-NIKOLAYEV-A10BXB/",
+            "title": "MarketScreener: Vyacheslav Nikolayev",
+            "fact": "Профиль связывает Вячеслава Константиновича Николаева с ПАО \"МТС\" и указывает получение undergraduate degree в Moscow State University Lomonosov."
+          },
+          {
+            "url": "https://www.comnews.ru/content/213416/2021-03-05/2021-w09/novym-prezidentom-mts-naznachen-vyacheslav-nikolaev",
+            "title": "ComNews: Новым президентом МТС назначен Вячеслав Николаев",
+            "fact": "Статья от 05.03.2021 указывает, что Николаев в 1992 году окончил факультет вычислительной математики и кибернетики (ВМК) МГУ им. М. В. Ломоносова."
+          },
+          {
+            "url": "https://cyclowiki.org/wiki/Вячеслав_Константинович_Николаев",
+            "title": "Cyclowiki: Вячеслав Константинович Николаев",
+            "fact": "Биографическая справка указывает окончание ВМК МГУ в 1992 году (с оговоркой, что официальный сайт Roscongress отдельно называет 1993 год)."
+          }
+        ],
+        "qualification_degree": "Specialist degree"
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "ПАО \"МТС\"",
+        "role": "Президент и CEO",
+        "start_year": 2021,
+        "end_year": null,
+        "description": "Назначен президентом и CEO в марте 2021 года; в 2024 году CSV и MarketScreener продолжают указывать его CEO.",
+        "sources": [
+          {
+            "url": "https://storage.ir.mts.ru/mts-ir/images/2022_20-F.pdf",
+            "title": "MTS Form 20-F 2022",
+            "fact": "Стр. 121-122: компания указывает, что Вячеслав Николаев занимает должность President and CEO с марта 2021 года."
+          },
+          {
+            "url": "https://www.marketscreener.com/quote/stock/MOBILE-TELESYSTEMS-119075639/company-governance/",
+            "title": "MarketScreener: Mobile TeleSystems Governance",
+            "fact": "Страница governance указывает Vyacheslav Nikolayev как Chief Executive Officer с 2021-03-12 и как Director/Board Member."
+          }
+        ],
+        "sector": "Communication Services",
+        "industry_group": "Telecommunication Services",
+        "industry": "Wireless Telecommunication Services"
+      },
+      {
+        "organization": "ПАО \"МТС\"",
+        "role": "Первый вице-президент по клиентскому опыту, маркетингу и развитию экосистемы",
+        "start_year": 2020,
+        "end_year": 2021,
+        "description": "До назначения CEO занимал должность First Vice President for Customer Experience, Marketing and Ecosystem Development.",
+        "sources": [
+          {
+            "url": "https://storage.ir.mts.ru/mts-ir/images/2022_20-F.pdf",
+            "title": "MTS Form 20-F 2022",
+            "fact": "Стр. 122: документ описывает его предыдущую роль First Vice President for Customer Experience, Marketing and Ecosystem Development from March 2020."
+          }
+        ],
+        "sector": "Communication Services",
+        "industry_group": "Telecommunication Services",
+        "industry": "Wireless Telecommunication Services"
+      },
+      {
+        "organization": "ПАО \"МТС\"",
+        "role": "Вице-президент по клиентскому опыту и маркетингу; ранее вице-президент по маркетингу",
+        "start_year": 2017,
+        "end_year": 2020,
+        "description": "В 2017-2020 годах занимал маркетинговые и клиентские руководящие роли в МТС.",
+        "sources": [
+          {
+            "url": "https://storage.ir.mts.ru/mts-ir/images/2022_20-F.pdf",
+            "title": "MTS Form 20-F 2022",
+            "fact": "Стр. 122: документ указывает роли Vice President for Marketing from July 2017 и Vice President for Customer Experience and Marketing from August 2019."
+          }
+        ],
+        "sector": "Communication Services",
+        "industry_group": "Telecommunication Services",
+        "industry": "Wireless Telecommunication Services"
+      },
+      {
+        "organization": "Группа МТС",
+        "role": "различные должности в группе",
+        "start_year": 2004,
+        "end_year": null,
+        "description": "Работает в МТС с октября 2004 года; детали ранних должностей не раскрыты в использованном источнике.",
+        "sources": [
+          {
+            "url": "https://storage.ir.mts.ru/mts-ir/images/2022_20-F.pdf",
+            "title": "MTS Form 20-F 2022",
+            "fact": "Стр. 122: документ сообщает, что Николаев работает в МТС с октября 2004 года и занимал различные позиции в группе."
+          }
+        ],
+        "sector": "Communication Services",
+        "industry_group": "Telecommunication Services",
+        "industry": "Wireless Telecommunication Services"
+      },
+      {
+        "organization": "ПАО \"МТС\"",
+        "role": "директор по маркетингу массового сегмента",
+        "start_year": 2013,
+        "end_year": 2017,
+        "description": "Round-2 desync fix (quality pass, 2026-08-01): роль частично уточняет расплывчатую запись \"различные должности в группе, 2004-...\" (та запись оставлена без изменений) непосредственно перед подтвержденным назначением вице-президентом по маркетингу в 2017 году.",
+        "sources": [
+          {
+            "url": "https://www.comnews.ru/content/213416/2021-03-05/2021-w09/novym-prezidentom-mts-naznachen-vyacheslav-nikolaev",
+            "title": "ComNews: Новым президентом МТС назначен Вячеслав Николаев",
+            "fact": "Статья указывает, что в 2013-2017 годах Николаев занимал должность директора по маркетингу массового сегмента МТС."
+          }
+        ],
+        "sector": "Communication Services",
+        "industry_group": "Telecommunication Services",
+        "industry": "Wireless Telecommunication Services"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "CSV содержит Vyacheslav Nikolayev для MTSS как Chief Executive Officer и отдельной строкой как Director/Board Member."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/MTSS/Годовой+отчет+за+2024г..pdf",
+        "title": "Годовой отчет ПАО \"МТС\" за 2024 год",
+        "fact": "Стр. 115: отчет описывает Генерального директора и Правление как исполнительные органы; сноска фиксирует, что запись о Генеральном директоре Инесе Галактионовой внесена только 26.02.2025."
+      },
+      {
+        "url": "https://www.comnews.ru/content/213416/2021-03-05/2021-w09/novym-prezidentom-mts-naznachen-vyacheslav-nikolaev",
+        "title": "ComNews: Новым президентом МТС назначен Вячеслав Николаев",
+        "fact": "Дает полную карьерную хронологию и образование Николаева (ВМК МГУ, 1992)."
+      },
+      {
+        "url": "https://cyclowiki.org/wiki/Вячеслав_Константинович_Николаев",
+        "title": "Cyclowiki: Вячеслав Константинович Николаев",
+        "fact": "Биографическая справка, независимо подтверждающая образование и карьеру."
+      }
+    ],
+    "notes": "Личность подтверждена связкой редкого полного имени, роли CEO и компании МТС. 2025 назначение Инесы Галактионовой не перенесено в 2024 год. Публикации, патенты и h-index не добавлялись: научный профиль нужного лица не подтвержден. Round-2 desync fix (quality pass, 2026-08-01): закрыт разрыв между round-2 research notes (Vyacheslav_Nikolayev_round_2.md) и JSON — факультет/год образования и роль 2013-2017 годов из round-2 исследования ранее не были перенесены в запись; перенесены сейчас с теми же источниками, ничего не удалено."
+  },
+  "tmt": [
+    {
+      "name": "Алексей Андреевич Катунин / Alexey Katunin",
+      "current_role": "Вице-президент по финансам, член Правления ПАО \"МТС\"; CFO / Director of Finance в контексте 2024 года.",
+      "company_name": "ПАО \"МТС\"",
+      "education": [
+        {
+          "program": "магистратура",
+          "university": "НИУ ВШЭ",
+          "field": "Экономика",
+          "year": 2012,
+          "description": "Официальный пресс-релиз МТС указывает окончание магистратуры ВШЭ по экономике.",
+          "sources": [
+            {
+              "url": "https://moskva.mts.ru/about/media-centr/soobshheniya-kompanii/novosti-mts-v-rossii-i-mire/2023-11-24/aleksej-katunin-naznachen-na-dolzhnost-vice-prezidenta-mts-po-finansam",
+              "title": "МТС: Алексей Катунин назначен на должность вице-президента МТС по финансам",
+              "fact": "Пресс-релиз от 24.11.2023 указывает, что в 2012 году Катунин окончил магистратуру ВШЭ по специальности \"Экономика\"."
+            }
+          ],
+          "qualification_degree": "Master's degree"
+        },
+        {
+          "program": "программа развития лидерского потенциала",
+          "university": "Московская школа управления Сколково",
+          "field": "лидерский потенциал",
+          "year": 2019,
+          "description": "Executive education; не интерпретировано как академическая степень.",
+          "sources": [
+            {
+              "url": "https://moskva.mts.ru/about/media-centr/soobshheniya-kompanii/novosti-mts-v-rossii-i-mire/2023-11-24/aleksej-katunin-naznachen-na-dolzhnost-vice-prezidenta-mts-po-finansam",
+              "title": "МТС: Алексей Катунин назначен на должность вице-президента МТС по финансам",
+              "fact": "Пресс-релиз сообщает, что в 2019 году Катунин прошел обучение в бизнес-школе Сколково по программе развития лидерского потенциала."
+            }
+          ],
+          "qualification_degree": "Executive education"
+        },
+        {
+          "program": "Strategic Management and Leadership",
+          "university": "Harvard Summer School",
+          "field": "стратегический менеджмент и лидерство",
+          "year": 2022,
+          "description": "Краткая программа обучения; не интерпретировано как степень Harvard University.",
+          "sources": [
+            {
+              "url": "https://moskva.mts.ru/about/media-centr/soobshheniya-kompanii/novosti-mts-v-rossii-i-mire/2023-11-24/aleksej-katunin-naznachen-na-dolzhnost-vice-prezidenta-mts-po-finansam",
+              "title": "МТС: Алексей Катунин назначен на должность вице-президента МТС по финансам",
+              "fact": "Пресс-релиз сообщает, что в 2022 году Катунин окончил Летнюю школу Гарвардского университета по программе \"Стратегический менеджмент и лидерство\"."
+            }
+          ],
+          "qualification_degree": "Executive education"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"МТС\"",
+          "role": "Вице-президент по финансам, член Правления",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Прошел карьерный путь в финансовом контроллинге МТС; с 2022 года занимал должность директора по контроллингу.",
+          "sources": [
+            {
+              "url": "https://moskva.mts.ru/about/media-centr/soobshheniya-kompanii/novosti-mts-v-rossii-i-mire/2023-11-24/aleksej-katunin-naznachen-na-dolzhnost-vice-prezidenta-mts-po-finansam",
+              "title": "МТС: Алексей Катунин назначен на должность вице-президента МТС по финансам",
+              "fact": "МТС объявила о назначении Катунина членом Правления и вице-президентом по финансам с 04.12.2023."
+            },
+            {
+              "url": "https://www.marketscreener.com/insider/ALEXEY-KATUNIN-A3W94E/",
+              "title": "MarketScreener: Alexey Katunin",
+              "fact": "Профиль указывает Alexey Katunin как Vice President-Finance from 2023 и Director of Finance/CFO с 2023-12-03."
+            }
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Wireless Telecommunication Services"
+        },
+        {
+          "organization": "ПАО \"МТС\"",
+          "role": "Директор по контроллингу; директор департамента функционального контроллинга; ведущий экономист",
+          "start_year": 2011,
+          "end_year": 2023,
+          "description": "Прошел карьерный путь в финансовом контроллинге МТС; с 2022 года занимал должность директора по контроллингу.",
+          "sources": [
+            {
+              "url": "https://moskva.mts.ru/about/media-centr/soobshheniya-kompanii/novosti-mts-v-rossii-i-mire/2023-11-24/aleksej-katunin-naznachen-na-dolzhnost-vice-prezidenta-mts-po-finansam",
+              "title": "МТС: Алексей Катунин назначен на должность вице-президента МТС по финансам",
+              "fact": "Пресс-релиз описывает карьеру от ведущего экономиста отдела коммерческого контроллинга до директора по контроллингу МТС."
+            }
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Wireless Telecommunication Services"
+        },
+        {
+          "organization": "ПАО \"МТС\"",
+          "role": "стажер отдела финансового контроллинга",
+          "start_year": 2009,
+          "end_year": 2011,
+          "description": "Начал работу в МТС со стажировки, будучи студентом третьего курса МГУ.",
+          "sources": [
+            {
+              "url": "https://moskva.mts.ru/about/media-centr/soobshheniya-kompanii/novosti-mts-v-rossii-i-mire/2023-11-24/aleksej-katunin-naznachen-na-dolzhnost-vice-prezidenta-mts-po-finansam",
+              "title": "МТС: Алексей Катунин назначен на должность вице-президента МТС по финансам",
+              "fact": "Пресс-релиз указывает старт работы в МТС в 2009 году со стажировки в финансовом контроллинге."
+            }
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Wireless Telecommunication Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Alexey Katunin для MTSS как Director of Finance/CFO."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MTSS/mts_ifrs_cons_fs_23-24-r_05.03_final_processed.pdf",
+          "title": "Консолидированная финансовая отчетность ПАО \"МТС\" за 2024 год",
+          "fact": "Стр. 9-10: финансовая отчетность подписана 05.03.2025 вице-президентом по финансам А. А. Катуниным."
+        }
+      ],
+      "notes": "Официальная биография не подтверждает окончание МГУ, а только учебу на третьем курсе МГУ в момент стажировки; поэтому МГУ не внесен как завершенное образование. Публикации, патенты и h-index не найдены."
+    },
+    {
+      "name": "Павел Алексеевич Воронин / Pavel Voronin",
+      "current_role": "Первый вице-президент по технологиям ПАО \"МТС\"; Chief Tech/Sci/R&D Officer в данных CSV/MarketScreener.",
+      "company_name": "ПАО \"МТС\"",
+      "education": [
+        {
+          "program": "высшее образование",
+          "university": "Московский государственный университет им. М. В. Ломоносова",
+          "field": "механико-математический факультет",
+          "year": 2012,
+          "description": "Профиль спикера и интервью указывают окончание мехмата МГУ в 2012 году.",
+          "sources": [
+            {
+              "url": "https://events.vedomosti.ru/speakers/voronin-pavel-412",
+              "title": "Ведомости: Воронин Павел",
+              "fact": "Профиль спикера указывает, что Павел Воронин в 2012 году окончил механико-математический факультет МГУ им. М. В. Ломоносова."
+            },
+            {
+              "url": "https://www.forbes.ru/spetsproekt/promo/557474-pavel-voronin-mts-web-services-v-blizajsie-gody-budet-tri-novyh-volny-razvitia-ii",
+              "title": "Forbes: Павел Воронин, МТС Web Services",
+              "fact": "Forbes указывает Воронина как выпускника мехмата МГУ 2012 года."
+            }
+          ],
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"МТС\" / MTS Web Services",
+          "role": "первый вице-президент по технологиям; с 2025 года генеральный директор MTS Web Services",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "В 2024 году соответствующая роль - первый вице-президент по технологиям МТС; роль CEO MTS Web Services относится к 2025 году и не перенесена в 2024.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/PAVEL-VORONIN-A39O65/",
+              "title": "MarketScreener: Pavel Voronin",
+              "fact": "Профиль указывает Pavel Voronin как Vice President-Technology at Mobile TeleSystems PJSC и Chief Tech/Sci/R&D Officer с 2021-06-16."
+            },
+            {
+              "url": "https://events.vedomosti.ru/speakers/voronin-pavel-412",
+              "title": "Ведомости: Воронин Павел",
+              "fact": "Профиль указывает работу с 2021 года в МТС как первого вице-президента по технологиям и отдельно отмечает назначение CEO MTS Web Services с 2025 года."
+            }
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Wireless Telecommunication Services"
+        },
+        {
+          "organization": "Сбербанк",
+          "role": "вице-президент по технологическому развитию дочерних и зависимых обществ",
+          "start_year": 2020,
+          "end_year": 2021,
+          "description": "До прихода в МТС работал в Сбербанке на технологической роли.",
+          "sources": [
+            {
+              "url": "https://events.vedomosti.ru/speakers/voronin-pavel-412",
+              "title": "Ведомости: Воронин Павел",
+              "fact": "Профиль указывает работу в 2020-2021 годах вице-президентом по технологическому развитию дочерних и зависимых обществ Сбербанка."
+            },
+            {
+              "url": "https://www.forbes.ru/spetsproekt/promo/557474-pavel-voronin-mts-web-services-v-blizajsie-gody-budet-tri-novyh-volny-razvitia-ii",
+              "title": "Forbes: Павел Воронин, МТС Web Services",
+              "fact": "Forbes подтверждает роль в 2020-2021 годах в экосистеме Сбербанка."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "S7 Group",
+          "role": "заместитель, затем первый заместитель генерального директора по ИТ; основатель и руководитель S7 TechLab",
+          "start_year": 2016,
+          "end_year": 2020,
+          "description": "Работал в авиахолдинге S7, руководил ИТ-инновациями.",
+          "sources": [
+            {
+              "url": "https://events.vedomosti.ru/speakers/voronin-pavel-412",
+              "title": "Ведомости: Воронин Павел",
+              "fact": "Профиль указывает 2016-2020 годы в S7 Group и основание/руководство S7 TechLab."
+            }
+          ],
+          "sector": "Industrials",
+          "industry_group": "Transportation",
+          "industry": "Passenger Airlines (New name)"
+        },
+        {
+          "organization": "технологические стартапы",
+          "role": "СТО",
+          "start_year": 2012,
+          "end_year": 2016,
+          "description": "После окончания МГУ работал CTO в технологических стартапах.",
+          "sources": [
+            {
+              "url": "https://events.vedomosti.ru/speakers/voronin-pavel-412",
+              "title": "Ведомости: Воронин Павел",
+              "fact": "Профиль указывает работу CTO технологических стартапов в 2012-2016 годах."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "НИУ ВШЭ, факультет компьютерных наук",
+          "role": "заведующий базовой кафедрой глубинного машинного обучения",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Академико-прикладная позиция; научные публикации по ней не добавлялись без отдельной проверки авторства.",
+          "sources": [
+            {
+              "url": "https://events.vedomosti.ru/speakers/voronin-pavel-412",
+              "title": "Ведомости: Воронин Павел",
+              "fact": "Профиль указывает, что с 2023 года Воронин заведует базовой кафедрой глубинного машинного обучения на ФКН ВШЭ."
+            }
+          ]
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Pavel Voronin для MTSS как Chief Tech/Sci/R&D Officer."
+        }
+      ],
+      "notes": "В 2025-2026 источниках есть более поздняя роль CEO MTS Web Services; она оставлена только как последующий факт и не использована для роли 2024 года. Публикации, патенты и h-index не добавлялись. Honest-gap follow-up (quality pass, 2026-08-01): одна ограниченная попытка со свежим запросом (\"Павел Воронин\" ВШЭ публикации глубинное обучение) не нашла списка публикаций - результаты описывают только административную роль заведующего кафедрой, без ссылок на конкретные научные статьи. Гэп остается открытым, публикации не добавлены без прямой цитаты."
+    },
+    {
+      "name": "Полина Угрюмова / Polina Ugryumova",
+      "current_role": "Директор департамента по связям с инвесторами ПАО \"МТС\"; Investor Relations Contact.",
+      "company_name": "ПАО \"МТС\"",
+      "education": [
+        {
+          "program": "высшее образование",
+          "university": "Санкт-Петербургский государственный экономический университет",
+          "field": "Финансы и кредит",
+          "year": 2001,
+          "description": "Round-2 desync fix (quality pass, 2026-08-01): round-2 research (Polina_Ugryumova_round_2.md) нашел это как \"MAJOR gap closed\", но факт не был перенесен в JSON. ComNews (02.10.2018) и Finam.ru (01.10.2018) - две независимые современные деловые статьи о ее назначении - независимо указывают окончание с отличием Санкт-Петербургского государственного университета экономики и финансов (на момент выпуска так называвшегося; сейчас объединен в Санкт-Петербургский государственный экономический университет, каноническое название по university_names.json) по специальности \"Финансы и кредит\" в 2001 году.",
+          "sources": [
+            {
+              "url": "https://www.comnews.ru/content/115172/2018-10-02/polina-ugryumova-pomozhet-mts-s-ir",
+              "title": "ComNews: Полина Угрюмова поможет МТС с IR",
+              "fact": "Статья от 02.10.2018 указывает, что Угрюмова окончила с отличием Санкт-Петербургский государственный университет экономики и финансов по специальности \"Финансы и кредит\" в 2001 году."
+            },
+            {
+              "url": "https://www.finam.ru/publications/item/ir-direktorom-mts-stala-polina-ugryumova-20181001-12050/",
+              "title": "Finam.ru: IR-директором МТС стала Полина Угрюмова",
+              "fact": "Независимо подтверждает назначение и образование, описанное в статье ComNews."
+            }
+          ],
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "program": "международная профессиональная сертификация",
+          "university": "CFA Institute",
+          "field": "Chartered Financial Analyst",
+          "year": 2007,
+          "description": "Round-2 desync fix (quality pass, 2026-08-01): CFA-сертификация 2007 года, найденная round-2 research, но не перенесенная в JSON.",
+          "sources": [
+            {
+              "url": "https://www.comnews.ru/content/115172/2018-10-02/polina-ugryumova-pomozhet-mts-s-ir",
+              "title": "ComNews: Полина Угрюмова поможет МТС с IR",
+              "fact": "Статья указывает получение международной профессиональной сертификации CFA Institute в 2007 году."
+            },
+            {
+              "url": "https://www.finam.ru/publications/item/ir-direktorom-mts-stala-polina-ugryumova-20181001-12050/",
+              "title": "Finam.ru: IR-директором МТС стала Полина Угрюмова",
+              "fact": "Независимо подтверждает CFA-сертификацию."
+            }
+          ],
+          "qualification_degree": "Professional certification"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"МТС\"",
+          "role": "директор департамента по связям с инвесторами / Investor Relations Contact",
+          "start_year": 2018,
+          "end_year": null,
+          "description": "Роль Investor Relations Contact подтверждена MarketScreener; старый годовой отчет МТС за 2020 год указывает ее как директора департамента по связям с инвесторами.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/quote/stock/MOBILE-TELESYSTEMS-119075639/company-governance/",
+              "title": "MarketScreener: Mobile TeleSystems Governance",
+              "fact": "Страница governance указывает Polina Ugryumova как Investor Relations Contact с 2018-08-31."
+            },
+            {
+              "url": "https://ar2020.mts.ru/ru/corporate-governance/interaction-shareholders-investors",
+              "title": "Годовой отчет ПАО \"МТС\" за 2020 год: взаимодействие с акционерами и инвесторами",
+              "fact": "Раздел контактной информации для инвесторов указывает Полину Угрюмову как директора департамента по связям с инвесторами."
+            }
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Wireless Telecommunication Services"
+        },
+        {
+          "organization": "Morgan Stanley",
+          "role": "sell-side аналитик по сектору Telecom/Media/Technology (Россия, СНГ, Турция, Центральная и Восточная Европа)",
+          "start_year": 2008,
+          "end_year": 2018,
+          "description": "Round-2 desync fix (quality pass, 2026-08-01): найдено round-2 research, но не перенесено в JSON. ComNews и Finam.ru (обе от 01-02.10.2018) сообщают о переходе Угрюмовой из Morgan Stanley в МТС в 2018 году; ее команда входила в топ-3 рейтингов Institutional Investor и Extel. Точный год начала (2008) выведен из контекста (вскоре после CFA-сертификации 2007 года), а не назван явной датой в источниках; отмечено как умеренная, а не полная уверенность.",
+          "sources": [
+            {
+              "url": "https://www.comnews.ru/content/115172/2018-10-02/polina-ugryumova-pomozhet-mts-s-ir",
+              "title": "ComNews: Полина Угрюмова поможет МТС с IR",
+              "fact": "Статья описывает предыдущую карьеру Угрюмовой как sell-side аналитика Morgan Stanley по TMT-сектору (Россия, СНГ, Турция, ЦВЕ) до перехода в МТС в 2018 году, с упоминанием топ-3 позиций в рейтингах Institutional Investor и Extel."
+            },
+            {
+              "url": "https://www.finam.ru/publications/item/ir-direktorom-mts-stala-polina-ugryumova-20181001-12050/",
+              "title": "Finam.ru: IR-директором МТС стала Полина Угрюмова",
+              "fact": "Независимо подтверждает работу в Morgan Stanley и переход в МТС в 2018 году, сменив Joshua Tulgan."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Polina Ugryumova для MTSS как Investor Relations Contact."
+        },
+        {
+          "url": "https://www.comnews.ru/content/115172/2018-10-02/polina-ugryumova-pomozhet-mts-s-ir",
+          "title": "ComNews: Полина Угрюмова поможет МТС с IR",
+          "fact": "Основной источник образования, CFA-сертификации и карьеры в Morgan Stanley до МТС."
+        },
+        {
+          "url": "https://www.finam.ru/publications/item/ir-direktorom-mts-stala-polina-ugryumova-20181001-12050/",
+          "title": "Finam.ru: IR-директором МТС стала Полина Угрюмова",
+          "fact": "Независимое подтверждение образования и карьеры в Morgan Stanley."
+        }
+      ],
+      "notes": "Round-2 desync fix (quality pass, 2026-08-01): round-1 записал образование и предыдущий опыт как \"не найдено\"; round-2 (Polina_Ugryumova_round_2.md) фактически нашел и задокументировал оба (СПбГУЭФ 2001, CFA 2007, Morgan Stanley 2008-2018 гг.) как \"MAJOR gap closed\", но эти находки не попали в JSON до этого прохода - классический разрыв notes-vs-JSON. Перенесены сейчас с теми же источниками (ComNews, Finam.ru), ничего не выдумано. GICS-фикс: запись professional_experience с organization=\"ПАО МТС\" ошибочно носила ярлык Financials/Capital Markets (видимо, по функции роли IR, а не по бизнесу работодателя); исправлено на Communication Services/Telecommunication Services/Wireless Telecommunication Services, как и во всех остальных записях МТС в этом файле. Точная дата начала в Morgan Stanley (2008) - контекстный вывод, а не явная дата; детали карьеры до Morgan Stanley (сразу после выпуска 2001 года) остаются неизвестными после этого прохода."
+    },
+    {
+      "name": "Руслан Султанович Ибрагимов / Ruslan Sultanovich Ibragimov",
+      "current_role": "Активная роль в ПАО \"МТС\" на 2024 год не подтверждена: по данным Интерфакса, CNews и ComNews (29-31.07.2022) Ибрагимов покинул компанию 1 августа 2022 года (ранее — вице-президент по взаимодействию с органами государственной власти); CSV и MarketScreener для этого человека признаны устаревшими (см. notes).",
+      "company_name": "ПАО \"МТС\"",
+      "education": [
+        {
+          "program": "graduate degree",
+          "university": "Московский государственный университет им. М. В. Ломоносова",
+          "field": "юридический факультет",
+          "year": 1986,
+          "description": "Round-2 desync fix (quality pass, 2026-08-01): поле field было null, round-2 research (Ruslan_Ibragimov_round_2.md) независимо нашло и задокументировало \"юридический факультет\" по двум напрямую открытым источникам (rus.team, global55.ru), но перенос в JSON не состоялся до этого прохода.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/RUSLAN-SULTANOVICH-IBRAGIMOV-A0SRK3/",
+              "title": "MarketScreener: Ruslan Sultanovich Ibragimov",
+              "fact": "Профиль указывает graduate degree from Moscow State University Lomonosov in 1986."
+            },
+            {
+              "url": "https://rus.team/people/ibragimov-ruslan-sultanovich",
+              "title": "rus.team: Ибрагимов Руслан Султанович",
+              "fact": "Указывает окончание юридического факультета МГУ в 1986 году."
+            },
+            {
+              "url": "https://global55.ru/person/id/762",
+              "title": "global55.ru: Ибрагимов Руслан Султанович",
+              "fact": "Независимо подтверждает юридический факультет МГУ, 1986 год."
+            }
+          ],
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "program": "undergraduate degree",
+          "university": "Российский университет дружбы народов",
+          "field": null,
+          "year": 1999,
+          "description": "MarketScreener указывает undergraduate degree from Peoples' Friendship University of Russia in 1999. Round-2 research (rus.team, global55.ru) независимо описывает связь с РУДН иначе - как аспирантуру, завершенную в 1992 году со степенью кандидата юридических наук (см. новую запись в degrees[] ниже). Эта запись MarketScreener сохранена без изменений (не удалена), но отмечена как вероятно неточная интерпретация того же факта: два напрямую открытых источника расходятся с одним агрегатором по типу программы (аспирантура vs undergraduate) и году (1992 vs 1999).",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/RUSLAN-SULTANOVICH-IBRAGIMOV-A0SRK3/",
+              "title": "MarketScreener: Ruslan Sultanovich Ibragimov",
+              "fact": "Профиль указывает undergraduate degree from Peoples' Friendship University of Russia in 1999."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат юридических наук",
+          "field": "юридические науки",
+          "institution": "Российский университет дружбы народов",
+          "year": 1992,
+          "sources": [
+            {
+              "url": "https://rus.team/people/ibragimov-ruslan-sultanovich",
+              "title": "rus.team: Ибрагимов Руслан Султанович",
+              "fact": "Указывает аспирантуру в РУДН, завершенную в 1992 году со степенью кандидата юридических наук."
+            },
+            {
+              "url": "https://global55.ru/person/id/762",
+              "title": "global55.ru: Ибрагимов Руслан Султанович",
+              "fact": "Независимо подтверждает аспирантуру РУДН 1992 года и степень кандидата юридических наук."
+            }
+          ],
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"МТС\"",
+          "role": "Вице-президент по корпоративным и правовым вопросам (2008-2019), затем вице-президент по взаимодействию с органами государственной власти (2019-2022); покинул компанию 1 августа 2022 года (истечение трудового договора).",
+          "start_year": 2007,
+          "end_year": 2022,
+          "description": "MarketScreener связывает его с МТС с 2007 года; страница governance также содержит General Counsel с 2007-12-31 и Public Communications Contact с 2019-07-31. Round-2 desync fix (quality pass, 2026-08-01): end_year был null, но три независимые современные публикации (Интерфакс, CNews, ComNews, 29-31.07.2022) подтверждают уход 1 августа 2022 года в связи с истечением трудового договора (замена - Андрей Рего). Прямая проверка цитаты в этом раунде: Интерфакс дословно - \"Прежний вице-президент по взаимодействию с органами государственной власти, член правления МТС Руслан Ибрагимов покидает компанию в связи с истечением трудового договора\". CSV/MarketScreener признаны устаревшими для этого человека на 2024 год, а не ошибкой идентификации.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/quote/stock/MOBILE-TELESYSTEMS-119075639/company-governance/",
+              "title": "MarketScreener: Mobile TeleSystems Governance",
+              "fact": "Страница governance указывает Ruslan Sultanovich Ibragimov как Public Communications Contact с 2019-07-31 и General Counsel с 2007-12-31."
+            },
+            {
+              "url": "https://www.marketscreener.com/insider/RUSLAN-SULTANOVICH-IBRAGIMOV-A0SRK3/",
+              "title": "MarketScreener: Ruslan Sultanovich Ibragimov",
+              "fact": "Профиль указывает Vice President-Government & Public Relations at Mobile TeleSystems PJSC since 2007."
+            },
+            {
+              "url": "https://www.interfax.ru/business/854385",
+              "title": "Интерфакс: МТС объявила о новых назначениях",
+              "fact": "Статья от июля 2022 года подтверждает, что Руслан Ибрагимов покидает МТС 1 августа 2022 года в связи с истечением трудового договора; его заменяет Андрей Рего. Дословная цитата проверена прямым чтением страницы в этом раунде."
+            },
+            {
+              "url": "https://www.cnews.ru/news/line/2022-07-29_mts_obyavlyaet_o_novyh_naznacheniyah",
+              "title": "CNews: МТС объявляет о новых назначениях",
+              "fact": "Независимо подтверждает уход Ибрагимова и назначение Андрея Рего, 29.07.2022."
+            },
+            {
+              "url": "https://www.comnews.ru/content/221428/2022-07-31/2022-w30/mts-novyy-top-menedzhment",
+              "title": "ComNews: МТС - новый топ-менеджмент",
+              "fact": "Независимо подтверждает уход Ибрагимова 1 августа 2022 года и назначение Андрея Рего; дословная цитата проверена прямым чтением страницы в этом раунде."
+            }
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Wireless Telecommunication Services"
+        },
+        {
+          "organization": "Ibragimov Kagan & Partners",
+          "role": "участник / партнер",
+          "start_year": 2002,
+          "end_year": 2006,
+          "description": "Предыдущая юридическая практика до МТС.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/RUSLAN-SULTANOVICH-IBRAGIMOV-A0SRK3/",
+              "title": "MarketScreener: Ruslan Sultanovich Ibragimov",
+              "fact": "Профиль указывает работу в Ibragimov Kagan & Partners from 2002 to 2006."
+            }
+          ],
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "Rsm Top Audit",
+          "role": "заместитель генерального директора и старший партнер",
+          "start_year": 1996,
+          "end_year": 2002,
+          "description": "Предыдущий аудиторско-консультационный опыт.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/RUSLAN-SULTANOVICH-IBRAGIMOV-A0SRK3/",
+              "title": "MarketScreener: Ruslan Sultanovich Ibragimov",
+              "fact": "Профиль указывает Deputy General Director & Senior Partner at Rsm Top Audit from 1996 to 2002."
+            }
+          ],
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "COMSTAR-United TeleSystems",
+          "role": "директор",
+          "start_year": 2010,
+          "end_year": 2011,
+          "description": "Совмещенная/связанная телеком-роль в группе.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/RUSLAN-SULTANOVICH-IBRAGIMOV-A0SRK3/",
+              "title": "MarketScreener: Ruslan Sultanovich Ibragimov",
+              "fact": "Профиль указывает Director at COMSTAR-United TeleSystems OAO from 2010 to 2011."
+            }
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Ruslan Sultanovich Ibragimov для MTSS как General Counsel."
+        },
+        {
+          "url": "https://rus.team/people/ibragimov-ruslan-sultanovich",
+          "title": "rus.team: Ибрагимов Руслан Султанович",
+          "fact": "Источник образования (юрфак МГУ, аспирантура РУДН) и полной карьерной хронологии."
+        },
+        {
+          "url": "https://global55.ru/person/id/762",
+          "title": "global55.ru: Ибрагимов Руслан Султанович",
+          "fact": "Независимое подтверждение образования и карьеры."
+        },
+        {
+          "url": "https://www.interfax.ru/business/854385",
+          "title": "Интерфакс: МТС объявила о новых назначениях",
+          "fact": "Источник факта об уходе из МТС 1 августа 2022 года."
+        }
+      ],
+      "notes": "GENUINE INCONSISTENCY, resolved this round (quality pass, 2026-08-01): CSV/MarketScreener сохраняют General Counsel/VP Government Relations как активную роль для 2024 года; round-2 research (Ruslan_Ibragimov_round_2.md) уже нашел и задокументировал, что три независимые деловые публикации (Интерфакс, CNews, ComNews, 29-31.07.2022) подтверждают уход из МТС 1 августа 2022 года. Это была реальная находка round-2, но end_year/current_role не были обновлены в JSON до этого прохода - разрыв notes-vs-JSON, а не намеренное решение. В этом раунде: (1) дословная цитата Интерфакса проверена прямым чтением страницы (не выдумана), (2) end_year установлен в 2022, current_role переписан, чтобы явно отражать отсутствие подтвержденной роли в 2024 году, а не тихо сохранять устаревший титул как подтвержденный. CSV/MarketScreener трактуются как устаревшие данные для этого конкретного человека, а не как ошибка идентификации (полное отчество и вся карьерная цепочка совпадают). Также перенесены round-2 находки: юридический факультет МГУ (1986) и степень кандидата юридических наук РУДН (1992, аспирантура) - последнее добавлено как новая запись в degrees[], а исходная запись MarketScreener (\"undergraduate degree\" РУДН, 1999) сохранена без удаления с пометкой о вероятной неточности. Научные публикации, патенты и h-index не подтверждены (это не связано с уходом из компании - профиль публикаций не проверен отдельно)."
+    },
+    {
+      "name": "Регина Дагмар Бенедикта фон Флемминг / Regina von Flemming",
+      "current_role": "Независимый директор / заместитель председателя Совета директоров ПАО \"МТС\".",
+      "company_name": "ПАО \"МТС\"",
+      "education": [
+        {
+          "program": "graduate degree",
+          "university": "Freie Universität Berlin",
+          "field": "политические науки",
+          "year": 1992,
+          "description": "Round-2 desync fix (quality pass, 2026-08-01): поле/год были null; round-2 research нашел 1992/политические науки через поисковый синтез (не перепроверено этим раундом впрямую по указанному тогда AKM.ru), но этот раунд независимо перепроверил факт напрямую через два новых источника (wiki.letopis.ru, whoiswho.dp.ru), обе страницы дословно прочитаны. Небольшое, не до конца разрешенное расхождение в формулировке: letopis.ru называет степень \"бакалавр политических наук\", whoiswho.dp.ru - \"диплом политических наук\". Германия не имела степеней уровня \"бакалавр\" до Болонской реформы (2000-е), поэтому формулировка letopis.ru, скорее всего, - вольный анахроничный перевод немецкого интегрированного Diplom-программы (обычно 4-5 лет, международно приравнивается к уровню магистратуры); qualification_degree оставлен как \"Master's degree\" (консервативный, академически более обоснованный выбор), а расхождение зафиксировано, а не скрыто.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/REGINA-VON-FLEMMING-A1TS3A/",
+              "title": "MarketScreener: Regina von Flemming",
+              "fact": "Профиль указывает graduate degree from Freie Universität Berlin."
+            },
+            {
+              "url": "https://wiki.letopis.ru/index.php?title=Фон_Флемминг_Регина_Дагмар_Бенедикта",
+              "title": "Letopis.ru: Фон Флемминг Регина Дагмар Бенедикта",
+              "fact": "Дословно: \"В 1992 году окончила Свободный университет Берлина (бакалавр политических наук)\"."
+            },
+            {
+              "url": "https://whoiswho.dp.ru/cart/person/329139",
+              "title": "whoiswho.dp.ru: Регина фон Флемминг",
+              "fact": "Дословно: \"В 1992 году - окончила Свободный университет Берлина (диплом политических наук)\"."
+            }
+          ],
+          "qualification_degree": "Master's degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"МТС\"",
+          "role": "член Совета директоров; заместитель председателя; независимый директор",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "В совете директоров МТС с июня 2015 года; в MarketScreener также указана как Deputy Chairman from 2021.",
+          "sources": [
+            {
+              "url": "https://storage.ir.mts.ru/mts-ir/images/2022_20-F.pdf",
+              "title": "MTS Form 20-F 2022",
+              "fact": "Стр. 121: MTS указывает Regina von Flemming как Deputy Chairperson of the Board of Directors, Independent Director."
+            },
+            {
+              "url": "https://www.marketscreener.com/insider/REGINA-VON-FLEMMING-A1TS3A/",
+              "title": "MarketScreener: Regina von Flemming",
+              "fact": "Профиль указывает работу в Mobile TeleSystems PJSC как Deputy Chairman from 2021 и Director/Board Member since 2015-06-23."
+            }
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Wireless Telecommunication Services"
+        },
+        {
+          "organization": "AS Rus Media JSC / Axel Springer Russia",
+          "role": "CEO и директор",
+          "start_year": 2005,
+          "end_year": 2015,
+          "description": "Руководила AS Rus Media / Axel Springer Russia.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/REGINA-VON-FLEMMING-A1TS3A/",
+              "title": "MarketScreener: Regina von Flemming",
+              "fact": "Профиль указывает Chief Executive Officer & Director at AS Rus Media JSC from 2005 to 2015."
+            }
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Media"
+        },
+        {
+          "organization": "Delta Capital (American-Russian Investment Fund)",
+          "role": "вице-президент",
+          "start_year": 2000,
+          "end_year": 2003,
+          "description": "Round-2 desync fix (quality pass, 2026-08-01): найдено round-2 research (Vedomosti speaker profile), но не перенесено в JSON. Прямая проверка в этом раунде: Vedomosti дословно - \"С 2000 по 2003 год - вице-президент, американо-российский инвестиционный фонд Delta Capital\". Годы совпадают с уже имеющейся записью \"Flemming & Partner GmbH\" (тоже 2000-2003, источник MarketScreener); последовательность/пересечение этих двух ролей установить не удалось, поэтому обе записи сохранены как отдельные, не сведенные в одну хронологию. Дополнительно (не проверено этим раундом впрямую, только из round-2 заметок): два независимых агрегатора (wiki.letopis.ru, whoiswho.dp.ru), прочитанные в этом раунде для другой цели (образование), независимо дают несколько иную хронологию для всего периода 1993-2009 (junior consultant в Treuhand Osteuropa Beratung 1993-1996, генеральный директор Krone Russia 1996-1999 без упоминания Ehrmann AG, вице-президент Delta Capital 1999-2003, основание Flemming & Partner GmbH 2003-2009) - на 1 год отличается от Vedomosti по стартовому году Delta Capital (1999 vs 2000). Это расхождение зафиксировано, но не решено; Vedomosti (2000-2003) сохранен как основное значение, так как это единственный источник, дословно и напрямую процитированный в этом раунде именно для роли в Delta Capital.",
+          "sources": [
+            {
+              "url": "https://events.vedomosti.ru/speakers/fon-flemming-regina-8796",
+              "title": "Vedomosti: Регина фон Флемминг (профиль спикера)",
+              "fact": "Дословно: \"С 2000 по 2003 год - вице-президент, американо-российский инвестиционный фонд Delta Capital\"."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "Treuhand Osteuropa Beratung",
+          "role": "junior consultant",
+          "start_year": 1993,
+          "end_year": 1996,
+          "description": "Round-2 desync fix (quality pass, 2026-08-01): новая запись, ранее полностью отсутствовавшая в JSON и не упомянутая ни в одном round-1/round-2 файле заметок для этого человека. Найдена в этом раунде при проверке образования (два независимых, дословно прочитанных агрегатора: wiki.letopis.ru, whoiswho.dp.ru), описывающих ее работу junior-консультантом в консалтинговой компании Treuhand Osteuropa Beratung по региону Россия/СНГ (и, по одному из источников, также Венгрия/Польша) непосредственно перед ролью в Krone Russia. Чисто дополняющая находка, не конфликтует ни с одной существующей записью.",
+          "sources": [
+            {
+              "url": "https://wiki.letopis.ru/index.php?title=Фон_Флемминг_Регина_Дагмар_Бенедикта",
+              "title": "Letopis.ru: Фон Флемминг Регина Дагмар Бенедикта",
+              "fact": "Указывает работу junior-консультантом в Treuhand Osteuropa Beratung, 1993-1996, регион Россия/СНГ."
+            },
+            {
+              "url": "https://whoiswho.dp.ru/cart/person/329139",
+              "title": "whoiswho.dp.ru: Регина фон Флемминг",
+              "fact": "Независимо подтверждает ту же роль и годы, с добавлением Венгрии и Польши к охватываемому региону."
+            }
+          ],
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "Flemming & Partner GmbH",
+          "role": "основатель и владелец",
+          "start_year": 2000,
+          "end_year": 2003,
+          "description": "Основала консалтинговую компанию Flemming & Partner GmbH. GENUINE INCONSISTENCY, обнаружена в этом раунде (не была отмечена ни в одном round-1/round-2 файле заметок): два независимых, дословно прочитанных агрегатора (wiki.letopis.ru, whoiswho.dp.ru) вместо этого датируют основание Flemming & Partner 2003 годом (с работой до 2009 года, когда компания была продана), т.е. на 3 года позже, чем единственный источник этой записи (MarketScreener). Это не решено дополнительным исследованием сверх уже выполненного (третий независимый источник не найден), поэтому существующее значение (MarketScreener, 2000-2003) сохранено без изменений как более ранее подтвержденный факт, а расхождение зафиксировано здесь, а не скрыто и не переписано без достаточных оснований.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/REGINA-VON-FLEMMING-A1TS3A/",
+              "title": "MarketScreener: Regina von Flemming",
+              "fact": "Профиль указывает основание Flemming & Partner GmbH in 2000 и роль Owner from 2000 to 2003."
+            }
+          ],
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "Ehrmann AG / Krone Russia",
+          "role": "генеральный директор",
+          "start_year": 1996,
+          "end_year": 2000,
+          "description": "Ранний управленческий опыт в России. GENUINE INCONSISTENCY, обнаружена в этом раунде: два независимых, дословно прочитанных агрегатора (wiki.letopis.ru, whoiswho.dp.ru) описывают этот период иначе - только Krone Russia (без упоминания Ehrmann AG вообще), генеральный директор 1996-1999 (не 1996-2000). Honest-gap follow-up для бизнеса \"Krone Russia\" (нужен для GICS) выполнен в этом раунде: несколько свежих запросов (\"Krone Russia\" company business; \"Krone Russia\" кабель телефон деятельность) уперлись в CAPTCHA/недоступность поисковых движков и не дали результата - бизнес-профиль Krone Russia по-прежнему не установлен. Ни дата, ни состав организаций (Ehrmann AG/Krone Russia единой строкой vs Krone Russia отдельно) не изменены без третьего независимого подтверждения; GICS остается null, как и было решено в round-2.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/REGINA-VON-FLEMMING-A1TS3A/",
+              "title": "MarketScreener: Regina von Flemming",
+              "fact": "Профиль указывает General Director roles at Ehrmann AG and Krone Russia from 1996 to 2000."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Regina von Flemming для MTSS как Director/Board Member."
+        },
+        {
+          "url": "https://events.vedomosti.ru/speakers/fon-flemming-regina-8796",
+          "title": "Vedomosti: Регина фон Флемминг (профиль спикера)",
+          "fact": "Источник роли VP в Delta Capital, 2000-2003."
+        },
+        {
+          "url": "https://wiki.letopis.ru/index.php?title=Фон_Флемминг_Регина_Дагмар_Бенедикта",
+          "title": "Letopis.ru: Фон Флемминг Регина Дагмар Бенедикта",
+          "fact": "Источник образования (Freie Universität Berlin, 1992) и роли в Treuhand Osteuropa Beratung; независимая (иная) хронология 1993-2009, отмеченная как расхождение."
+        },
+        {
+          "url": "https://whoiswho.dp.ru/cart/person/329139",
+          "title": "whoiswho.dp.ru: Регина фон Флемминг",
+          "fact": "Независимо подтверждает образование и роль в Treuhand Osteuropa Beratung."
+        }
+      ],
+      "notes": "Личность подтверждена редким полным именем, МТС-источником и карьерой в российских советах директоров. Научные публикации, патенты и h-index не найдены. Round-2 desync fix (quality pass, 2026-08-01): поле/год образования (Freie Universität Berlin) и роль в Delta Capital (2000-2003) были найдены round-2 research, но не перенесены в JSON - перенесены сейчас с новой прямой проверкой (letopis.ru, whoiswho.dp.ru, Vedomosti - все дословно прочитаны в этом раунде). Новая запись Treuhand Osteuropa Beratung (1993-1996) добавлена как чисто дополняющая находка. GENUINE INCONSISTENCY, обнаружена этим раундом (не была отмечена ранее): letopis.ru и whoiswho.dp.ru независимо дают другую хронологию 1996-2009 (Krone Russia 1996-1999 без Ehrmann AG; Delta Capital 1999-2003; Flemming & Partner 2003-2009) вместо существующей MarketScreener-хронологии (Ehrmann/Krone 1996-2000; Flemming & Partner 2000-2003). Ни один существующий год не переписан без третьего независимого подтверждения; расхождение задокументировано в описаниях обеих затронутых записей, а не скрыто. Honest-gap follow-up для бизнес-профиля \"Krone Russia\" (нужен для GICS) выполнен - свежие запросы не дали результата (см. описание записи Ehrmann AG/Krone Russia)."
+    },
+    {
+      "name": "Артем Иванович Засурский / Artem I. Zassoursky",
+      "current_role": "Неисполнительный член Совета директоров ПАО \"МТС\".",
+      "company_name": "ПАО \"МТС\"",
+      "education": [
+        {
+          "program": "undergraduate degree",
+          "university": "Московский государственный университет им. М. В. Ломоносова",
+          "field": "социальная и экономическая география зарубежных стран (специализация переводчик)",
+          "year": 2001,
+          "description": "MarketScreener указывает undergraduate degree from Moscow State University Lomonosov in 2001. Round-2 desync fix (quality pass, 2026-08-01): поле field было null; round-2 research независимо нашло факультет (география) по двум напрямую открытым источникам (globalmsk.ru, Vedomosti), но перенос в JSON не состоялся до этого прохода.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/ARTEM-I-ZASSOURSKY-A21YT7/",
+              "title": "MarketScreener: Artem I. Zassoursky",
+              "fact": "Профиль указывает undergraduate degree from Moscow State University Lomonosov in 2001."
+            },
+            {
+              "url": "https://www.globalmsk.ru/person/id/4822",
+              "title": "globalmsk.ru: Засурский Артем Иванович",
+              "fact": "Указывает факультет географии МГУ, специализация \"социальная и экономическая география зарубежных стран, переводчик\", окончен в 2001 году."
+            },
+            {
+              "url": "https://events.vedomosti.ru/speakers/zasurskii-artem-30871",
+              "title": "Vedomosti: Артем Засурский (профиль спикера)",
+              "fact": "Независимо подтверждает факультет географии МГУ и специализацию 2001 года."
+            }
+          ],
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "program": "graduate degree",
+          "university": "Московский государственный университет им. М. В. Ломоносова",
+          "field": "аспирантура факультета журналистики",
+          "year": 2005,
+          "description": "MarketScreener указывает graduate degree from Moscow State University Lomonosov in 2005. Round-2 desync fix (quality pass, 2026-08-01): поле field было null; round-2 research независимо нашло факультет (журналистика, аспирантура) по двум напрямую открытым источникам (globalmsk.ru, Vedomosti), но перенос в JSON не состоялся до этого прохода. Ни один источник явно не подтверждает защиту диссертации/степень кандидата наук - только завершение аспирантуры, поэтому классификация \"Doctoral degree\" отмечена как менее надежная, чем аналогичная запись Ибрагимова (где кандидатская степень подтверждена явно).",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/ARTEM-I-ZASSOURSKY-A21YT7/",
+              "title": "MarketScreener: Artem I. Zassoursky",
+              "fact": "Профиль указывает graduate degree from Moscow State University Lomonosov in 2005."
+            },
+            {
+              "url": "https://www.globalmsk.ru/person/id/4822",
+              "title": "globalmsk.ru: Засурский Артем Иванович",
+              "fact": "Указывает аспирантуру факультета журналистики МГУ, завершенную в 2005 году."
+            },
+            {
+              "url": "https://events.vedomosti.ru/speakers/zasurskii-artem-30871",
+              "title": "Vedomosti: Артем Засурский (профиль спикера)",
+              "fact": "Независимо подтверждает аспирантуру факультета журналистики МГУ, 2005 год."
+            }
+          ],
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"МТС\"",
+          "role": "неисполнительный директор",
+          "start_year": 2017,
+          "end_year": null,
+          "description": "В совете директоров МТС с июня 2017 года.",
+          "sources": [
+            {
+              "url": "https://storage.ir.mts.ru/mts-ir/images/2022_20-F.pdf",
+              "title": "MTS Form 20-F 2022",
+              "fact": "Стр. 121: MTS указывает Artem I. Zassoursky как Non-Executive Director и сообщает, что он служит директором с июня 2017 года."
+            },
+            {
+              "url": "https://www.marketscreener.com/insider/ARTEM-I-ZASSOURSKY-A21YT7/",
+              "title": "MarketScreener: Artem I. Zassoursky",
+              "fact": "Профиль указывает Director/Board Member at Mobile TeleSystems с 2017-06-28."
+            }
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Wireless Telecommunication Services"
+        },
+        {
+          "organization": "АФК \"Система\"",
+          "role": "руководитель департамента стратегии и вице-президент",
+          "start_year": 2018,
+          "end_year": null,
+          "description": "Текущая управленческая роль в группе Система. Round-2 desync fix (quality pass, 2026-08-01): start_year был null; round-2 research независимо нашел апрель 2018 года по прямой цитате Vedomosti, но перенос в JSON не состоялся до этого прохода.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/ARTEM-I-ZASSOURSKY-A21YT7/",
+              "title": "MarketScreener: Artem I. Zassoursky",
+              "fact": "Профиль указывает Chief-Strategy Department & Vice President at Sistema PJSFC."
+            },
+            {
+              "url": "https://events.vedomosti.ru/speakers/zasurskii-artem-30871",
+              "title": "Vedomosti: Артем Засурский (профиль спикера)",
+              "fact": "Указывает, что с апреля 2018 года Засурский - вице-президент по стратегии АФК \"Система\"."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Financial Services (New Name)"
+        },
+        {
+          "organization": "Stream LLC",
+          "role": "директор по развитию (авг.-дек. 2011), затем генеральный директор (февр. 2013 - май 2016)",
+          "start_year": 2011,
+          "end_year": 2016,
+          "description": "Работал в Stream LLC на роли развития, затем CEO. Round-2 desync fix (quality pass, 2026-08-01): end_year был 2013 (по MarketScreener); round-2 research независимо нашел, что два источника (globalmsk.ru, Vedomosti) продлевают роль генерального директора до мая 2016 года (после промежуточной роли VP Development в Sistema Mass Media, янв. 2012 - янв. 2013), но перенос в JSON не состоялся до этого прохода.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/ARTEM-I-ZASSOURSKY-A21YT7/",
+              "title": "MarketScreener: Artem I. Zassoursky",
+              "fact": "Профиль указывает Development Director at Stream LLC in 2011 и Chief Executive Officer at Stream LLC in 2013."
+            },
+            {
+              "url": "https://www.globalmsk.ru/person/id/4822",
+              "title": "globalmsk.ru: Засурский Артем Иванович",
+              "fact": "Указывает: авг.-дек. 2011 директор по развитию LLC \"Stream\"; февр. 2013 - май 2016 генеральный директор LLC \"Stream\"."
+            },
+            {
+              "url": "https://events.vedomosti.ru/speakers/zasurskii-artem-30871",
+              "title": "Vedomosti: Артем Засурский (профиль спикера)",
+              "fact": "Независимо подтверждает ту же хронологию Stream LLC (2011-2016 с перерывом на SMM)."
+            }
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Entertainment"
+        },
+        {
+          "organization": "Sistema Mass Media JSC",
+          "role": "вице-президент по развитию",
+          "start_year": 2012,
+          "end_year": 2013,
+          "description": "Управленческая роль в медиаактиве Системы.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/ARTEM-I-ZASSOURSKY-A21YT7/",
+              "title": "MarketScreener: Artem I. Zassoursky",
+              "fact": "Профиль указывает Vice President-Development at Sistema Mass Media JSC from 2012 to 2013."
+            }
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Media"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Artem I. Zassoursky для MTSS как Director/Board Member."
+        },
+        {
+          "url": "https://www.globalmsk.ru/person/id/4822",
+          "title": "globalmsk.ru: Засурский Артем Иванович",
+          "fact": "Источник факультетов МГУ и уточненной хронологии Sistema/Stream/SMM."
+        },
+        {
+          "url": "https://events.vedomosti.ru/speakers/zasurskii-artem-30871",
+          "title": "Vedomosti: Артем Засурский (профиль спикера)",
+          "fact": "Независимое подтверждение образования и карьерной хронологии."
+        }
+      ],
+      "notes": "Возможные академические однофамильцы/профили по фамилии Засурский не смешивались: в JSON добавлены только факты, связанные с МТС/Системой и подтвержденные профилями нужного лица. Round-2 desync fix (quality pass, 2026-08-01): факультеты МГУ (география 2001, аспирантура журфака 2005), стартовый год VP по стратегии в АФК \"Система\" (2018) и продление роли в Stream LLC до мая 2016 года были найдены round-2 research, но не перенесены в JSON до этого прохода - перенесены сейчас с теми же источниками (globalmsk.ru, Vedomosti), ничего не удалено."
+    },
+    {
+      "name": "Валентин Борисович Юмашев / Valentin Borisovich Yumashev",
+      "current_role": "Независимый неисполнительный член Совета директоров ПАО \"МТС\".",
+      "company_name": "ПАО \"МТС\"",
+      "education": [
+        {
+          "program": "высшее образование",
+          "university": "Московский государственный университет им. М. В. Ломоносова",
+          "field": "журналистика",
+          "year": null,
+          "description": "MTS 20-F указывает degree in journalism, MarketScreener связывает образование с МГУ; год окончания не подтвержден. GENUINE INCONSISTENCY, уже найдена и оставлена нерешенной round-2 research (Valentin_Yumashev_round_2.md), но не была полностью отражена в этом описании до этого прохода: RIA Novosti и Kommersant (два независимых, датированных новостных источника) утверждают, что Юмашев окончил факультет журналистики МГУ в 1979 году; rus.team и Свободная Пресса (два независимых биографических источника) вместо этого утверждают, что он поступил на факультет журналистики МГУ, но был отчислен и не завершил образование. Прямая проверка обеих версий выполнена в этом раунде: rus.team дословно - \"Затем поступил на факультет журналистики Московского государственного Университета, но отчислен\"; RIA Novosti дословно - \"В 1979 году окончил факультет журналистики Московского государственного университета имени М.В. Ломоносова\". Обе цитаты подтверждены прямым чтением страниц, расхождение реальное и не решено дополнительным исследованием (заявление МТС 20-F совпадает с версией завершения, но это собственное описание компании, а не независимая проверка). qualification_degree и year намеренно оставлены null, как и было решено round-2, а не выбрано произвольно одно из двух значений.",
+          "sources": [
+            {
+              "url": "https://storage.ir.mts.ru/mts-ir/images/2022_20-F.pdf",
+              "title": "MTS Form 20-F 2022",
+              "fact": "Стр. 122: MTS указывает, что Valentin B. Yumashev holds a degree in journalism."
+            },
+            {
+              "url": "https://www.marketscreener.com/insider/VALENTIN-YUMASHEV-A2YAS4/",
+              "title": "MarketScreener: Valentin Yumashev",
+              "fact": "Профиль указывает undergraduate degree from Moscow State University Lomonosov."
+            },
+            {
+              "url": "https://ria.ru/20180622/1523216163.html",
+              "title": "РИА Новости: биографическая справка Валентина Юмашева",
+              "fact": "Дословно: \"В 1979 году окончил факультет журналистики Московского государственного университета имени М.В. Ломоносова\". Цитата проверена прямым чтением страницы в этом раунде."
+            },
+            {
+              "url": "https://www.kommersant.ru/doc/3667320",
+              "title": "Коммерсантъ: биографическая справка Валентина Юмашева",
+              "fact": "Независимо указывает окончание факультета журналистики МГУ в 1979 году."
+            },
+            {
+              "url": "https://rus.team/people/yumashev-valentin-borisovich",
+              "title": "rus.team: Юмашев Валентин Борисович",
+              "fact": "Дословно: \"Затем поступил на факультет журналистики Московского государственного Университета, но отчислен\". Цитата проверена прямым чтением страницы в этом раунде."
+            },
+            {
+              "url": "https://svpressa.ru/persons/valentin-yumashev/",
+              "title": "Свободная Пресса: биографическая справка Валентина Юмашева",
+              "fact": "Независимо указывает, что он стал заочником факультета журналистики, но не смог его окончить."
+            }
+          ],
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"МТС\"",
+          "role": "независимый неисполнительный директор",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "В совете директоров МТС с мая/июня 2019 года.",
+          "sources": [
+            {
+              "url": "https://storage.ir.mts.ru/mts-ir/images/2022_20-F.pdf",
+              "title": "MTS Form 20-F 2022",
+              "fact": "Стр. 122: MTS указывает, что Valentin B. Yumashev служит директором с июня 2019 года."
+            },
+            {
+              "url": "https://www.marketscreener.com/insider/VALENTIN-YUMASHEV-A2YAS4/",
+              "title": "MarketScreener: Valentin Yumashev",
+              "fact": "Профиль указывает Independent Non-Executive Director at Mobile TeleSystems PJSC from 2019 и Director/Board Member с 2019-05-31."
+            }
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Wireless Telecommunication Services"
+        },
+        {
+          "organization": "Фонд \"Президентский центр Б. Н. Ельцина\"",
+          "role": "директор / член органов управления",
+          "start_year": null,
+          "end_year": null,
+          "description": "Связанная некоммерческая руководящая роль; годы не указаны в источнике.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/VALENTIN-YUMASHEV-A2YAS4/",
+              "title": "MarketScreener: Valentin Yumashev",
+              "fact": "Профиль указывает Boris Yeltsin Presidential Center Foundation как связанную организацию, где Юмашев является Director."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Valentin Yumashev для MTSS как Director/Board Member."
+        },
+        {
+          "url": "https://ria.ru/20180622/1523216163.html",
+          "title": "РИА Новости: биографическая справка Валентина Юмашева",
+          "fact": "Источник версии \"образование завершено, 1979\"."
+        },
+        {
+          "url": "https://rus.team/people/yumashev-valentin-borisovich",
+          "title": "rus.team: Юмашев Валентин Борисович",
+          "fact": "Источник версии \"отчислен, не завершил\" и подробной довузовской/послевузовской карьерной хронологии (не добавленной в JSON, см. notes)."
+        }
+      ],
+      "notes": "Более детальная политическая/медийная карьера (Комсомольская правда, Огонек, глава Администрации Президента 1997-1998, основание Фонда Ельцина в 2000 году - все по rus.team) намеренно не добавлена в professional_experience: это некорпоративная/государственная карьера, выходящая за рамки бизнес-ориентированного охвата этого датасета (решение зафиксировано уже в Valentin_Yumashev_round_2.md, подтверждено в этом раунде). Научные публикации, патенты и h-index не подтверждены. Round-2 desync fix (quality pass, 2026-08-01): GENUINE INCONSISTENCY об образовании (завершил в 1979 vs отчислен) была найдена и правильно оставлена нерешенной round-2 research, но описание в JSON не отражало обе стороны спора в деталях до этого прохода; в этом раунде обе ключевые цитаты (RIA Novosti, rus.team) проверены прямым чтением страниц и добавлены в sources/description. qualification_degree и year остаются null - решение не изменено, только полнее задокументировано."
+    },
+    {
+      "name": "Надя Шурабура / Nadia Shouraboura",
+      "current_role": "Независимый директор ПАО \"МТС\".",
+      "company_name": "ПАО \"МТС\"",
+      "education": [
+        {
+          "program": "undergraduate degree",
+          "university": "Московский государственный университет им. М. В. Ломоносова",
+          "field": null,
+          "year": 1989,
+          "description": "MarketScreener указывает undergraduate degree from Moscow State University Lomonosov conferred in 1989.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/NADIA-SHOURABOURA-A02CFL/",
+              "title": "MarketScreener: Nadia Shouraboura",
+              "fact": "Профиль указывает undergraduate degree from Moscow State University Lomonosov conferred in 1989."
+            }
+          ],
+          "qualification_degree": "Bachelor's degree"
+        },
+        {
+          "program": "undergraduate degree",
+          "university": "Tel Aviv University",
+          "field": null,
+          "year": 1991,
+          "description": "MarketScreener указывает undergraduate degree from Tel-Aviv University conferred in 1991.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/NADIA-SHOURABOURA-A02CFL/",
+              "title": "MarketScreener: Nadia Shouraboura",
+              "fact": "Профиль указывает undergraduate degree from Tel-Aviv University conferred in 1991."
+            }
+          ],
+          "qualification_degree": "Bachelor's degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "PhD",
+          "field": "Mathematics",
+          "institution": "Princeton University",
+          "year": 1994,
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/NADIA-SHOURABOURA-A02CFL/",
+              "title": "MarketScreener: Nadia Shouraboura",
+              "fact": "Профиль указывает doctorate from Princeton University conferred in 1994."
+            },
+            {
+              "url": "https://storage.ir.mts.ru/mts-ir/images/2022_20-F.pdf",
+              "title": "MTS Form 20-F 2022",
+              "fact": "Стр. 121: MTS указывает, что Nadia Shouraboura имеет bachelor's degree, master's degree and PhD in Mathematics."
+            }
+          ],
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"МТС\"",
+          "role": "независимый директор",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "В совете директоров МТС с июня 2020 года.",
+          "sources": [
+            {
+              "url": "https://storage.ir.mts.ru/mts-ir/images/2022_20-F.pdf",
+              "title": "MTS Form 20-F 2022",
+              "fact": "Стр. 121: MTS указывает, что Nadia Shouraboura служит директором с июня 2020 года."
+            },
+            {
+              "url": "https://www.marketscreener.com/insider/NADIA-SHOURABOURA-A02CFL/",
+              "title": "MarketScreener: Nadia Shouraboura",
+              "fact": "Профиль указывает Independent Non-Executive Director at Mobile TeleSystems PJSC since 2020 и Director/Board Member с 2020-06-23."
+            }
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Wireless Telecommunication Services"
+        },
+        {
+          "organization": "Hointer, Inc.",
+          "role": "основатель и CEO",
+          "start_year": 2012,
+          "end_year": 2018,
+          "description": "Основала Hointer и руководила компанией.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/NADIA-SHOURABOURA-A02CFL/",
+              "title": "MarketScreener: Nadia Shouraboura",
+              "fact": "Профиль указывает founded Hointer, Inc. in 2012 and was Chief Executive Officer from 2012 to 2018."
+            }
+          ],
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Specialty Retail"
+        },
+        {
+          "organization": "Amazon.com, Inc.",
+          "role": "Vice President, Global Supply Chain & Fulfillment",
+          "start_year": 2008,
+          "end_year": 2012,
+          "description": "Руководящая технологическая/операционная роль в Amazon.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/NADIA-SHOURABOURA-A02CFL/",
+              "title": "MarketScreener: Nadia Shouraboura",
+              "fact": "Профиль указывает Vice President-Global Supply Chain & Fulfillment at Amazon.com, Inc. from 2008 to 2012."
+            }
+          ],
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Broadline Retail (New Name)"
+        },
+        {
+          "organization": "New Mountain Capital LLC",
+          "role": "Senior Advisor",
+          "start_year": 2018,
+          "end_year": null,
+          "description": "Консультационная/советническая роль после Hointer.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/NADIA-SHOURABOURA-A02CFL/",
+              "title": "MarketScreener: Nadia Shouraboura",
+              "fact": "Профиль указывает Senior Advisor at New Mountain Capital LLC since 2018."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Nadia Shouraboura для MTSS как Director/Board Member."
+        }
+      ],
+      "notes": "Несмотря на подтвержденный PhD, научные публикации и h-index не добавлены: отдельный проверенный профиль публикаций нужного человека не подтвержден. Honest-gap follow-up (quality pass, 2026-08-01): выполнена одна ограниченная попытка со свежими запросами (\"Nadia Shouraboura\" patent; \"Nadia Shouraboura\" publications OR \"Google Scholar\" OR dblp) - поисковый синтез указал на существование патентных записей (упоминание Justia Patents/Patents Encyclopedia), но прямая проверка конкретных номеров патентов не удалась (patents.justia.com вернул 403, patents.google.com не отдал статические данные, patentsencyclopedia.com вернул 429 дважды) - ни один патент не подтвержден дословной цитатой, поэтому patents[] оставлен пустым, а не заполнен по неподтвержденному упоминанию. Публикаций/DBLP/Google Scholar профиля не найдено вовсе (\"No results found\"). Гэп остается открытым для будущего раунда с указанием, что конкретные patent-агрегаторы отдают rate-limit/403 и нужен другой инструмент доступа."
+    },
+    {
+      "name": "Пол Берриман / Paul Berriman",
+      "current_role": "Независимый член Совета директоров ПАО \"МТС\".",
+      "company_name": "ПАО \"МТС\"",
+      "education": [
+        {
+          "program": "Bachelor's degree",
+          "university": "University of Salford",
+          "field": "Electroacoustics",
+          "year": null,
+          "description": "MTS 20-F указывает bachelor's degree in Electroacoustics; MarketScreener связывает undergraduate degree with University of Salford.",
+          "sources": [
+            {
+              "url": "https://storage.ir.mts.ru/mts-ir/images/2022_20-F.pdf",
+              "title": "MTS Form 20-F 2022",
+              "fact": "Стр. 121: MTS указывает, что Paul Berriman has a Bachelor's degree in Electroacoustics and an MBA."
+            },
+            {
+              "url": "https://www.marketscreener.com/insider/PAUL-BERRIMAN-A0WJRX/",
+              "title": "MarketScreener: Paul Berriman",
+              "fact": "Профиль указывает undergraduate degree from the University of Salford."
+            }
+          ],
+          "qualification_degree": "Bachelor's degree"
+        },
+        {
+          "program": "MBA",
+          "university": "University of Hong Kong",
+          "field": null,
+          "year": null,
+          "description": "MBA подтвержден MTS 20-F; MarketScreener указывает University of Hong Kong.",
+          "sources": [
+            {
+              "url": "https://storage.ir.mts.ru/mts-ir/images/2022_20-F.pdf",
+              "title": "MTS Form 20-F 2022",
+              "fact": "Стр. 121: MTS указывает, что Paul Berriman has an MBA."
+            },
+            {
+              "url": "https://www.marketscreener.com/insider/PAUL-BERRIMAN-A0WJRX/",
+              "title": "MarketScreener: Paul Berriman",
+              "fact": "Профиль указывает MBA from the University of Hong Kong."
+            }
+          ],
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"МТС\"",
+          "role": "член Совета директоров",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "В совете директоров МТС с июня 2022 года.",
+          "sources": [
+            {
+              "url": "https://storage.ir.mts.ru/mts-ir/images/2022_20-F.pdf",
+              "title": "MTS Form 20-F 2022",
+              "fact": "Стр. 121: MTS указывает, что Paul Berriman служит директором с июня 2022 года."
+            },
+            {
+              "url": "https://www.marketscreener.com/insider/PAUL-BERRIMAN-A0WJRX/",
+              "title": "MarketScreener: Paul Berriman",
+              "fact": "Профиль указывает Director/Board Member at Mobile TeleSystems с 2022-06-30."
+            }
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Wireless Telecommunication Services"
+        },
+        {
+          "organization": "HKT Trust & HKT Ltd.",
+          "role": "CTO, Head-Technology Strategy & Development",
+          "start_year": null,
+          "end_year": null,
+          "description": "Текущая/недавняя телеком-технологическая роль.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/PAUL-BERRIMAN-A0WJRX/",
+              "title": "MarketScreener: Paul Berriman",
+              "fact": "Профиль указывает CTO, Head-Technology Strategy & Development at HKT Trust & HKT Ltd."
+            }
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        },
+        {
+          "organization": "PCCW Ltd.",
+          "role": "Chief Technology Officer",
+          "start_year": null,
+          "end_year": null,
+          "description": "Предыдущая CTO-роль в крупной телеком-компании.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/PAUL-BERRIMAN-A0WJRX/",
+              "title": "MarketScreener: Paul Berriman",
+              "fact": "Профиль указывает, что в прошлом Berriman был Chief Technology Officer at PCCW Ltd."
+            }
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        },
+        {
+          "organization": "Arthur D. Little",
+          "role": "Managing Director",
+          "start_year": null,
+          "end_year": null,
+          "description": "Предыдущая консалтинговая управленческая роль.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/PAUL-BERRIMAN-A0WJRX/",
+              "title": "MarketScreener: Paul Berriman",
+              "fact": "Профиль указывает Managing Director at Arthur D. Little in his past career."
+            }
+          ],
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "Global TD-LTE Initiative",
+          "role": "Chairman",
+          "start_year": null,
+          "end_year": null,
+          "description": "Отраслевая телеком-роль.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/PAUL-BERRIMAN-A0WJRX/",
+              "title": "MarketScreener: Paul Berriman",
+              "fact": "Профиль указывает Chairman for Global TD-LTE Initiative."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Paul Berriman для MTSS как Director/Board Member."
+        }
+      ],
+      "notes": "Публикации, патенты и h-index не добавлены; найденные сведения относятся к профессиональному телеком-опыту и board roles. Quality pass (2026-08-01) note on an unverifiable round-2 claim: MTSS_overview_round_2.md states that graduation years for both degrees (BSc Electroacoustics, University of Salford, July 1979; MBA, University of Hong Kong, November 1985) were found via a \"Marconi Society board-member bio\", but no dedicated Paul_Berriman_round_2.md file exists with the actual URL. This round made a bounded attempt to locate and directly verify that specific source (tried marconisociety.org/about/board-of-directors/, /people/paul-berriman/, /fellow/paul-berriman/, an on-site search, and external search-engine queries) - all attempts either 404'd or returned truncated/no content, and WebSearch was unavailable (session quota exhausted). Per the project's anti-fabrication rule, the two graduation years were NOT added to the JSON on the strength of an unverified secondary reference to a source this round could not itself open; `year` remains null for both degrees. Flagged for a future round with the specific citation gap: find and directly open the actual Marconi Society (or equivalent) page naming these dates before adding them."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MTSS/Годовой+отчет+за+2024г..pdf",
+      "title": "Годовой отчет ПАО \"МТС\" за 2024 год",
+      "fact": "Стр. 84-90: отчет описывает структуру органов управления, Совет директоров и указывает, что действующий состав Совета директоров избран на годовом Общем собрании акционеров 26.06.2024; стр. 115 описывает Генерального директора и Правление как исполнительные органы."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MTSS/mts_ifrs_cons_fs_23-24-r_05.03_final_processed.pdf",
+      "title": "Консолидированная финансовая отчетность ПАО \"МТС\" за 2024 год",
+      "fact": "Примечание о связанных сторонах: ключевым управленческим персоналом признаются члены Совета директоров и Правления Группы; отчетность за 2024 год подписана вице-президентом по финансам А. А. Катуниным 05.03.2025."
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/stock/MOBILE-TELESYSTEMS-119075639/company-governance/",
+      "title": "MarketScreener: Mobile TeleSystems Governance",
+      "fact": "Страница содержит список Executive Committee и Board of Directors, включая Vyacheslav Nikolayev, Alexey Katunin, Pavel Voronin, Polina Ugryumova, Ruslan Ibragimov, Regina von Flemming, Nadia Shouraboura, Valentin Yumashev, Artem Zassoursky и Paul Berriman."
+    },
+    {
+      "url": "https://storage.ir.mts.ru/mts-ir/images/2022_20-F.pdf",
+      "title": "MTS Form 20-F 2022",
+      "fact": "Стр. 121-122: MTS раскрывает key biographies директоров и senior management, включая нескольких членов совета директоров и Вячеслава Николаева; источник использован как историческое подтверждение биографических фактов, а не как автоматическое подтверждение состава 2024 года."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://moskva.mts.ru/about/media-centr/soobshheniya-kompanii/novosti-mts-v-rossii-i-mire/2023-11-24/aleksej-katunin-naznachen-na-dolzhnost-vice-prezidenta-mts-po-finansam",
+      "title": "МТС: Алексей Катунин назначен на должность вице-президента МТС по финансам",
+      "fact": "Официальный пресс-релиз МТС подтверждает назначение Алексея Катунина с 04.12.2023 и содержит образование/карьеру."
+    },
+    {
+      "url": "https://events.vedomosti.ru/speakers/voronin-pavel-412",
+      "title": "Ведомости: Воронин Павел",
+      "fact": "Профиль спикера содержит образование и профессиональный опыт Павла Воронина."
+    },
+    {
+      "url": "https://www.forbes.ru/spetsproekt/promo/557474-pavel-voronin-mts-web-services-v-blizajsie-gody-budet-tri-novyh-volny-razvitia-ii",
+      "title": "Forbes: Павел Воронин, МТС Web Services",
+      "fact": "Интервью содержит краткую биографическую справку Павла Воронина и отделяет роль CEO MWS как событие 2025 года."
+    },
+    {
+      "url": "https://ar2020.mts.ru/ru/corporate-governance/interaction-shareholders-investors",
+      "title": "Годовой отчет ПАО \"МТС\" за 2020 год: взаимодействие с акционерами и инвесторами",
+      "fact": "Раздел подтверждает Полину Угрюмову как директора департамента по связям с инвесторами."
+    }
+  ],
+  "validation_notes": "Обработано 10 уникальных людей из 11 строк CSV по MTSS: Вячеслав Николаев объединен из строк CEO и Director/Board Member. Проверено 2 локальных документа: годовой отчет ПАО \"МТС\" за 2024 год и консолидированная финансовая отчетность за 2024 год. Выполнено 10 research rounds (по одному на человека). Существенная неопределенность: Полина Угрюмова (образование и предыдущий опыт не найдены), Руслан Ибрагимов (титул General Counsel в CSV/MarketScreener конфликтует с отдельными более поздними агрегаторными данными о другом general counsel), Валентин Юмашев (детальная прежняя карьера не добавлена без открытого проверенного источника в этом раунде). Люди без подтвержденного образования: Полина Угрюмова. Слабые источники использовались для части board/career facts: MarketScreener как агрегатор для биографий совета директоров и Руслана Ибрагимова; MTS Form 20-F 2022 как исторический источник, не как прямое подтверждение состава 2024 года. Локальный годовой отчет 2024 не раскрывает именные биографии кандидатов; он подтверждает структуру органов управления, дату избрания Совета директоров и отсутствие биографических данных кандидатов в материалах ГОСА с учетом Постановления Правительства РФ №1102. Основные однофамильцы/риски: для Павла Воронина проверялась связь с МТС/S7/Сбером и не добавлялись публикации по одному имени; для Артема Засурского не смешивались академические/медийные профили без явной связи с МТС/Системой; для Nadia Shouraboura и Paul Berriman риск однофамильцев низкий из-за редких имен и совпадения с MTS board sources. Поиск считается завершенным на условиях мягкой достаточности: локальные документы проверены, связь всех людей с МТС подтверждена CSV и внешними источниками, отдельный поиск образования и предыдущего опыта выполнен; оставшиеся пробелы явно отражены и не заполнены предположениями. QUALITY PASS ROUND 1 (2026-08-01, see research_notes/MTSS/quality_pass_round1_20260801.md for full detail): STEP 0 git-HEAD check confirmed the on-disk file was already byte-identical to committed HEAD (commit f973022, mass-restore baseline) - no regression to repair for MTSS specifically. Main finding: a systemic notes-vs-JSON desync predating the mass regression - round-2 gap-filling research (Vyacheslav_Nikolayev/Polina_Ugryumova/Ruslan_Ibragimov/Regina_von_Flemming/Artem_Zassoursky/Valentin_Yumashev_round_2.md) had documented many confirmed findings that were never actually written into the JSON. Fixed for: CEO (МГУ ВМК faculty/1992 + 2013-2017 marketing-director role), Ugryumova (MAJOR: full education - СПбГУЭФ 2001 + CFA 2007 - and Morgan Stanley 2008-2018 career, previously entirely empty), Ibragimov (CRITICAL, resolved genuine inconsistency: verified via direct re-fetch of Interfax/CNews/ComNews that he left MTS 1 August 2022, contradicting the still-active CSV/MarketScreener listing for 2024; also МГУ law faculty field + new RUDN kandidat-nauk degree), von Flemming (Freie Universität field/year + Delta Capital entry, both re-verified directly; plus a newly-discovered genuine inconsistency on the Ehrmann/Krone Russia/Flemming & Partner chronology from two new independent sources, documented but not force-resolved, and one new additive entry - Treuhand Osteuropa Beratung), Zassoursky (МГУ faculty fields, Sistema VP-Strategy start year 2018, Stream LLC end year extended to 2016), Yumashev (fuller documentation, with directly re-verified quotes, of the already-correctly-unresolved MSU journalism-completion dispute). GICS fix: one mislabeled professional_experience entry corrected (Ugryumova's own ПАО \"МТС\" employment had been tagged Financials/Capital Markets by role-function instead of the employer's actual business; corrected to Communication Services/Telecommunication Services/Wireless Telecommunication Services, matching every other MTS entry in this file). Bounded honest-gap follow-ups attempted (fresh queries, none exhaustive): Shouraboura patents/publications (indication of existing patents found but not independently verifiable this round - site 403/429 errors; left null), Voronin HSE publications (no new leads), von Flemming's \"Krone Russia\" business classification for GICS (search engines CAPTCHA-blocked/unreachable; left null), Berriman's round-2-claimed Marconi Society graduation-year source (could not be independently located/opened this round; years left null rather than trusting an unverified secondary reference - explicit anti-fabrication guard). No previously-confirmed fact was deleted, shortened, or overwritten; every person's total record length grew or stayed the same (verified programmatically against git HEAD).",
+  "sector": "Communication Services",
+  "industry_group": "Telecommunication Services",
+  "industry": "Wireless Telecommunication Services"
+}

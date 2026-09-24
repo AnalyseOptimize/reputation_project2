@@ -1,0 +1,1184 @@
+{
+  "company_name": "ПАО \"Артген\"",
+  "company_ticker": "ABIO",
+  "ceo": {
+    "name": "Масюк Сергей Владимирович",
+    "current_role": "Генеральный директор ПАО \"Артген\"",
+    "company_name": "ПАО \"Артген\"",
+    "education": [
+      {
+        "institution": null,
+        "year": null,
+        "details": "Имеет высшее образование; вуз, специальность и квалификация не раскрыты в проверенных источниках.",
+        "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+        "qualification_degree": "Unknown"
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "ООО \"НекстГен Фарма\" / ООО \"ИСКЧ Фарма\"",
+        "role": "Генеральный директор",
+        "start_year": 2018,
+        "end_year": null,
+        "description": "Годовой отчет 2024 указывает должность с 2018 года; отчет эмитента за 6 месяцев 2022 года уточняет дату начала 10.07.2018.",
+        "source_url": "https://artgen.ru/wp-content/uploads/docs/REPORT%20OF%20THE%20ISSUER%20OF%20ISSUE%20SECURITIES%206m.pdf",
+        "sector": "Health Care",
+        "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+        "industry": "Biotechnology"
+      },
+      {
+        "organization": "ПАО \"ИСКЧ\"",
+        "role": "Заместитель генерального директора",
+        "start_year": 2020,
+        "end_year": 2020,
+        "description": "Отчет эмитента за 6 месяцев 2022 года указывает период 21.02.2020-22.03.2020.",
+        "source_url": "https://artgen.ru/wp-content/uploads/docs/REPORT%20OF%20THE%20ISSUER%20OF%20ISSUE%20SECURITIES%206m.pdf",
+        "sector": "Health Care",
+        "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+        "industry": "Biotechnology"
+      },
+      {
+        "organization": "ПАО \"ИСКЧ\" / ПАО \"Артген\"",
+        "role": "Генеральный директор",
+        "start_year": 2020,
+        "end_year": null,
+        "description": "Отчет эмитента за 6 месяцев 2022 года указывает должность генерального директора с 23.03.2020; годовой отчет 2024 подтверждает исполнение функций единоличного исполнительного органа в 2024 году и продление полномочий с 23.03.2024.",
+        "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+        "sector": "Health Care",
+        "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+        "industry": "Biotechnology"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "CSV contains Масюк Сергей Владимирович in ABIO row with role CEO."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+        "title": "Годовой отчет ПАО \"Артген\" за 2024 год",
+        "fact": "Pages 43-45 state that Масюк С. В. performed functions of General Director in 2024, was born in 1988, has higher education, and also served as General Director of ООО \"ИСКЧ Фарма\"."
+      },
+      {
+        "url": "https://artgen.ru/about/management/",
+        "title": "Артген биотех - Менеджмент",
+        "fact": "Official Artgen management page identifies Масюк Сергей Владимирович as General Director of ПАО \"Артген биотех\"."
+      },
+      {
+        "url": "https://artgen.ru/wp-content/uploads/docs/REPORT%20OF%20THE%20ISSUER%20OF%20ISSUE%20SECURITIES%206m.pdf",
+        "title": "Отчет эмитента эмиссионных ценных бумаг за 6 месяцев 2022 года",
+        "fact": "Issuer report gives education level and 2018-2022 role chronology for Масюк С. В."
+      }
+    ],
+    "notes": "Вуз и специальность не найдены. Ученая степень, патенты, публикации и h-index не подтверждены. Проверенные источники не раскрывают карьеру до 2018 года. Quality-pass round (2026-07-29): one more bounded fresh-query attempt (\"Масюк Сергей Владимирович Артген биотех окончил университет диплом биография\" and related follow-ups) surfaced only unrelated namesakes (Масюк Сергей Петрович, MSU biology-faculty alumni lists) and no new biography; this is now the 4th cumulative unsuccessful attempt (rounds 1-3 plus this round) across distinct query angles, so education institution stays null / qualification_degree stays \"Unknown\"; further attempts should try a genuinely different source class (paid business-media archives, LinkedIn, patent-filing affiliations) rather than repeating web search. Quality-pass round 2 (2026-07-31): 5th cumulative attempt, specifically targeting the source classes recommended by the round above (LinkedIn, patent filings/Роспатент, business-media archives) via WebFetch on search-engine result pages (WebSearch tool itself was exhausted for this session). \"Sergey Masyuk\" Artgen LinkedIn university and \"Масюк С.В.\" патент ИСКЧ Фарма заявитель style queries surfaced only corporate-registry data (director/founder records) and one unrelated 2015 journal article mention, no LinkedIn profile and no patent-inventor record; a direct Yandex-search fetch also returned nothing beyond corporate-role snippets. Education institution/specialty remains a genuine, now 5-times-attempted sourcing gap -- stays null, qualification_degree stays \"Unknown\". No further attempt is planned within this bounded pass; a future pass should try a paid/authenticated source (Casebook, SPARK-Interfax detailed bio, or a direct interview archive not indexed by general web search) rather than another general web search."
+  },
+  "tmt": [
+    {
+      "name": "Исаев Артур Александрович",
+      "current_role": "Председатель Совета директоров ПАО \"Артген\"",
+      "company_name": "ПАО \"Артген\"",
+      "education": [
+        {
+          "institution": "Ростовский государственный медицинский университет",
+          "year": null,
+          "details": "Годовой отчет указывает окончание Ростовского государственного медицинского института; отчет эмитента за 6 месяцев 2022 года указывает лечебное дело и квалификацию врача-генетика.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Московская международная высшая школа бизнеса «МИРБИС»",
+          "year": null,
+          "details": "MBA / магистр делового администрирования.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "MBA",
+          "field": "Деловое администрирование",
+          "year": null,
+          "institution": "Московская международная высшая школа бизнеса «МИРБИС»",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "qualification_degree": "MBA"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "Аудиторско-консалтинговая группа \"Мауэр-Аудит и партнеры\"",
+          "role": "Руководитель",
+          "start_year": 1999,
+          "end_year": 2003,
+          "description": "Годовой отчет 2024 указывает, что Исаев возглавлял группу в 1999-2003 годах.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "Институт Стволовых Клеток Человека / Артген",
+          "role": "Основатель",
+          "start_year": 2003,
+          "end_year": null,
+          "description": "Годовой отчет 2024 states that he founded the biotechnology company in late 2003 and opened Gemabank; official Artgen page identifies him as Artgen founder.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "sector": "Health Care",
+          "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+          "industry": "Biotechnology"
+        },
+        {
+          "organization": "ПАО \"Артген\"",
+          "role": "Председатель Совета директоров",
+          "start_year": 2007,
+          "end_year": null,
+          "description": "Annual report 2024 identifies him as Chairman of the Board and states initial board election in 2007.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "sector": "Health Care",
+          "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+          "industry": "Biotechnology"
+        },
+        {
+          "organization": "ПАО \"ЦГРМ \"ГЕНЕТИКО\"",
+          "role": "Член Совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "Annual report 2024 lists participation in this board.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "sector": "Health Care",
+          "industry_group": "Health Care Equipment & Services",
+          "industry": "Health Care Providers & Services"
+        },
+        {
+          "organization": "ПАО \"ММЦБ\"",
+          "role": "Председатель / член Совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "Annual report 2024 lists him as board member of ПАО \"ММЦБ\" and notes chairmanship.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "sector": "Health Care",
+          "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+          "industry": "Life Sciences Tools & Services"
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "Артген / ИСКЧ group projects",
+          "role": "Coauthor of biomedical publications and patent-related work",
+          "start_year": null,
+          "end_year": null,
+          "description": "Annual report states he is an author of scientific publications and patents; PubMed/PLOS confirm publication and patent-disclosure traces for Artur A. Isaev.",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/25770117/"
+        }
+      ],
+      "publications": [
+        {
+          "title": "Publication record involving pCMV-vegf165 / Neovasculgen work",
+          "year": null,
+          "description": "PubMed record includes Artur A. Isaev among authors.",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/25770117/"
+        },
+        {
+          "title": "Publication record involving DYSF mutation screening",
+          "year": 2023,
+          "description": "PubMed record includes Artur A. Isaev among authors.",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/37553796/"
+        }
+      ],
+      "patents": [
+        {
+          "title": "Pending patent application connected with SARS-CoV-2 ELISA test",
+          "year": null,
+          "description": "PLOS One disclosure names Artur Isaev among authors/applicants connected with a pending patent application; no patent number was verified.",
+          "source_url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0266945"
+        }
+      ],
+      "h_index": 16,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Исаев Артур Александрович in ABIO row with role Председатель СД."
+        },
+        {
+          "url": "https://medvestnik.ru/directory/persons/isaev-artur-aleksandrovich.html",
+          "title": "Medvestnik.ru directory profile for Исаев Артур Александрович",
+          "fact": "Confirms identity (\"основатель и председатель совета директоров биотехнологической компании «Артген биотех»\") and states \"Соавтор более 100 научных статей. Н-индекс — 16 (Google Scholar)\"."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "title": "Годовой отчет ПАО \"Артген\" за 2024 год",
+          "fact": "Page 41 identifies him as Chairman of the Board and gives education, career, board memberships, and shareholding."
+        },
+        {
+          "url": "https://artgen.ru/about/sovet-direktorov/",
+          "title": "Артген биотех - Совет директоров",
+          "fact": "Official current board page names him Artgen founder and board chairman."
+        },
+        {
+          "url": "https://genetico.ru/investors",
+          "title": "Genetico - Investors",
+          "fact": "Genetico investor page corroborates his Artgen/Genetico group board connection."
+        }
+      ],
+      "notes": "Академическая степень не подтверждена (высшее медицинское + MBA, без ученой степени). Патенты не перечислены по реестровым номерам; сохранена только source-specific patent-disclosure информация. Round 2 (2026-07-18): institution нормализованы по university_names.json (Ростовский государственный медицинский институт -> Ростовский государственный медицинский университет; Мирбис -> Московская международная высшая школа бизнеса «МИРБИС»). qualification_degree для медицинского образования установлен как \"Specialist degree\" (советская/российская 6-летняя программа лечебного дела с квалификацией \"врач\" -- специалитет, не бакалавриат/магистратура); для Мирбис и записи degrees -- \"MBA\" по прямому совпадению с указанной степенью. Дополнительный веб-поиск h-index (PubMed/общий поиск) не дал числового значения на тот момент -- поле оставалось null. Quality-pass round 2 (2026-07-31): fresh query \"Исаев Артур Александрович h-index индекс Хирша elibrary\" surfaced medvestnik.ru's directory profile, independently re-fetched and identity-confirmed (matches company/role exactly), stating verbatim \"Соавтор более 100 научных статей. Н-индекс — 16 (Google Scholar)\" -- h_index filled as 16, sourced to Google Scholar via medvestnik.ru. Institution normalization desync also found and fixed this round: round-2 notes documented normalizing education[0].institution to canonical \"Ростовский государственный медицинский университет\", but the JSON on disk still held the pre-normalization alias string (\"Ростовский государственный медицинский институт / Ростовский государственный медицинский университет\") -- corrected to match the already-decided canonical form, no new research needed for this fix."
+    },
+    {
+      "name": "Богуславский Дмитрий Эдгардович",
+      "current_role": "Член Совета директоров ПАО \"Артген\"",
+      "company_name": "ПАО \"Артген\"",
+      "education": [
+        {
+          "institution": "Южный федеральный университет",
+          "year": null,
+          "details": "Экономист, преподаватель экономических дисциплин.",
+          "source_url": "https://artgen.ru/wp-content/uploads/docs/REPORT%20OF%20THE%20ISSUER%20OF%20ISSUE%20SECURITIES%206m.pdf",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат экономических наук",
+          "field": "Экономика; тема диссертации об институциональных детерминантах корпоративной собственности",
+          "year": 2003,
+          "institution": null,
+          "source_url": "https://www.dissercat.com/content/institutsionalnye-determinanty-funktsionirovaniya-korporativnoi-sobstvennosti-v-transformats",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ООО \"Европейская Международная Клиника\"",
+          "role": "Исполнительный директор",
+          "start_year": 2013,
+          "end_year": 2014,
+          "description": "Issuer report 6M2022 gives period 29.10.2013-28.02.2014.",
+          "source_url": "https://artgen.ru/wp-content/uploads/docs/REPORT%20OF%20THE%20ISSUER%20OF%20ISSUE%20SECURITIES%206m.pdf",
+          "sector": "Health Care",
+          "industry_group": "Health Care Equipment & Services",
+          "industry": "Health Care Providers & Services"
+        },
+        {
+          "organization": "ООО \"Диалайн\"",
+          "role": "Генеральный директор",
+          "start_year": 2014,
+          "end_year": 2015,
+          "description": "Issuer report 6M2022 gives period 01.03.2014-29.07.2015.",
+          "source_url": "https://artgen.ru/wp-content/uploads/docs/REPORT%20OF%20THE%20ISSUER%20OF%20ISSUE%20SECURITIES%206m.pdf",
+          "sector": "Health Care",
+          "industry_group": "Health Care Equipment & Services",
+          "industry": "Health Care Providers & Services"
+        },
+        {
+          "organization": "ПАО \"ИСКЧ\"",
+          "role": "Член Совета директоров",
+          "start_year": 2014,
+          "end_year": 2016,
+          "description": "Issuer report 6M2022 gives period 04.04.2014-25.02.2016.",
+          "source_url": "https://artgen.ru/wp-content/uploads/docs/REPORT%20OF%20THE%20ISSUER%20OF%20ISSUE%20SECURITIES%206m.pdf",
+          "sector": "Health Care",
+          "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+          "industry": "Biotechnology"
+        },
+        {
+          "organization": "ПАО \"ИСКЧ\"",
+          "role": "Операционный директор",
+          "start_year": 2015,
+          "end_year": 2016,
+          "description": "Issuer report 6M2022 gives period 26.10.2015-13.03.2016.",
+          "source_url": "https://artgen.ru/wp-content/uploads/docs/REPORT%20OF%20THE%20ISSUER%20OF%20ISSUE%20SECURITIES%206m.pdf",
+          "sector": "Health Care",
+          "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+          "industry": "Biotechnology"
+        },
+        {
+          "organization": "ООО \"ЦГРМ \"ГЕНЕТИКО\"",
+          "role": "Генеральный директор",
+          "start_year": 2016,
+          "end_year": 2018,
+          "description": "Issuer report 6M2022 gives period 17.03.2016-09.11.2018; Genetico news also identifies him in this role.",
+          "source_url": "https://genetico.ru/news/v-institute-ekonomiki-ran-obsudyat-vozmozhnosti-genetiki-v-meditsinskom-strahovanii-i-strahovanii-zhizni.html",
+          "sector": "Health Care",
+          "industry_group": "Health Care Equipment & Services",
+          "industry": "Health Care Providers & Services"
+        },
+        {
+          "organization": "ПАО \"ИСКЧ\"",
+          "role": "Генеральный директор по совместительству",
+          "start_year": 2018,
+          "end_year": 2019,
+          "description": "Issuer report 6M2022 gives period 23.03.2018-22.03.2019.",
+          "source_url": "https://artgen.ru/wp-content/uploads/docs/REPORT%20OF%20THE%20ISSUER%20OF%20ISSUE%20SECURITIES%206m.pdf",
+          "sector": "Health Care",
+          "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+          "industry": "Biotechnology"
+        },
+        {
+          "organization": "ПАО \"ИСКЧ\" / ПАО \"Артген\"",
+          "role": "Член Совета директоров",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Issuer report 6M2022 states board role from 09.06.2022; annual report 2024 confirms membership in the 2024 board and audit committee.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "sector": "Health Care",
+          "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+          "industry": "Biotechnology"
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": null,
+          "role": "Candidate of Economic Sciences",
+          "start_year": 2003,
+          "end_year": null,
+          "description": "Dissertation source confirms the economics dissertation and candidate degree.",
+          "source_url": "https://www.dissercat.com/content/institutsionalnye-determinanty-funktsionirovaniya-korporativnoi-sobstvennosti-v-transformats"
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Богуславский Дмитрий Эдгардович in ABIO row with role Член СД."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "title": "Годовой отчет ПАО \"Артген\" за 2024 год",
+          "fact": "Pages 41 and 49 confirm him as a 2024 board member and audit committee member."
+        },
+        {
+          "url": "https://artgen.ru/wp-content/uploads/docs/REPORT%20OF%20THE%20ISSUER%20OF%20ISSUE%20SECURITIES%206m.pdf",
+          "title": "Отчет эмитента за 6 месяцев 2022 года",
+          "fact": "Issuer report provides education and detailed career history."
+        },
+        {
+          "url": "https://www.dissercat.com/content/institutsionalnye-determinanty-funktsionirovaniya-korporativnoi-sobstvennosti-v-transformats",
+          "title": "DisserCat dissertation record",
+          "fact": "Dissertation record confirms candidate of economic sciences and dissertation topic."
+        }
+      ],
+      "notes": "Публикации, патенты и h-index не подтверждены. Страница преподавателя с тем же ФИО не использована из-за отсутствия связи с Артген/Генетико. Round 2 (2026-07-18): institution нормализован (Ростовский-на-Дону государственный университет -> Южный федеральный университет, по university_names.json). qualification_degree для университетского образования установлен как \"Specialist degree\" (советская 5-летняя университетская программа с квалификацией \"экономист, преподаватель экономических дисциплин\"); для степени \"Кандидат экономических наук\" установлен как \"Doctoral degree\" (российская степень кандидата наук эквивалентна докторской/PhD в западной системе). Дополнительный веб-поиск (dissercat, автореферат, hub.sfedu.ru) не подтвердил конкретный диссертационный совет/вуз защиты -- institution в записи degrees остается null. Quality-pass round 2 (2026-07-31): found and fixed a desync -- round-2 notes above already documented the institution normalization to \"Южный федеральный университет\", but the JSON on disk still held the pre-normalization alias \"Ростовский-на-Дону государственный университет\"; corrected to match the already-decided canonical value, no new research needed. Also made one more bounded gap-follow-up attempt on degrees[0].institution (this is now the 4th cumulative attempt across rounds 1-3 plus this round): queried the GPNTB Russia catalog (cat.gpntb.ru), a source class not tried in prior rounds, and independently re-fetched the exact record -- it confirms author, title, specialty 08.00.01, \"Ростов н/Д\" (city only) and year 2003, but explicitly does NOT name a defending institution or dissertation council (only the holding library, GPNTB itself, is listed). No new institution found; degrees[0].institution remains null. Note: an intermediate search-result summary had claimed this GPNTB record said \"Rostov State University\", but a direct re-fetch of the actual catalog page showed that claim was not supported by the page text -- treated as unverifiable and discarded rather than used."
+    },
+    {
+      "name": "Деев Роман Вадимович",
+      "current_role": "Член Совета директоров ПАО \"Артген\"; директор по науке ПАО \"Артген\"",
+      "company_name": "ПАО \"Артген\"",
+      "education": [
+        {
+          "institution": "Военно-медицинская академия имени С.М. Кирова",
+          "year": 2003,
+          "details": "Годовой отчет указывает специальность \"хирургия\"; отчет эмитента 6M2022 указывает врача по специальности \"лечебное дело\".",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат медицинских наук",
+          "field": "Медицина; специальность ВАК 03.00.25 (гистология, цитология, клеточная биология); тема диссертации — посттравматическая регенерация костной ткани при трансплантации культуры костно-мозговых стромальных клеток",
+          "year": 2006,
+          "institution": "Военно-медицинская академия имени С.М. Кирова",
+          "source_url": "https://www.dissercat.com/content/posttravmaticheskaya-regeneratsiya-kostnoi-tkani-pri-transplantatsii-kultury-kostno-mozgovoy",
+          "qualification_degree": "Doctoral degree"
+        },
+        {
+          "degree": "Доцент",
+          "field": "Патологическая анатомия",
+          "year": null,
+          "institution": null,
+          "source_url": "https://rzgmu.ru/activities/scientific_activity/scientific_news",
+          "qualification_degree": null
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "Военно-медицинская академия им. С. М. Кирова; НИИ травматологии и ортопедии им. Р. Р. Вредена",
+          "role": "Различные должности / научный сотрудник",
+          "start_year": 2003,
+          "end_year": 2010,
+          "description": "Annual report 2024 gives this career period.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "sector": "Health Care",
+          "industry_group": "Health Care Equipment & Services",
+          "industry": "Health Care Providers & Services"
+        },
+        {
+          "organization": "Журнал \"Гены и Клетки\" / genescells.ru",
+          "role": "Главный редактор",
+          "start_year": 2005,
+          "end_year": null,
+          "description": "Annual report 2024 says he has been editor-in-chief since the journal's foundation in 2005.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Media"
+        },
+        {
+          "organization": "ПАО \"Артген\"",
+          "role": "Директор по науке",
+          "start_year": 2014,
+          "end_year": null,
+          "description": "Annual report 2024 states initial board election in 2014 and confirms 2024 board membership.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "sector": "Health Care",
+          "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+          "industry": "Biotechnology"
+        },
+        {
+          "organization": "ФГБОУ ВО \"Рязанский государственный медицинский университет им. академика И. П. Павлова\"",
+          "role": "Заведующий кафедрой патологической анатомии с курсом судебной медицины",
+          "start_year": 2016,
+          "end_year": null,
+          "description": "Annual report 2024 lists this role from 2016 and names Ryazan State Medical University as main place of work.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Services",
+          "industry": "Diversified Consumer Services"
+        },
+        {
+          "organization": "ПАО \"Артген\"",
+          "role": "Член Совета директоров",
+          "start_year": 2014,
+          "end_year": null,
+          "description": "Annual report 2024 states initial board election in 2014 and confirms 2024 board membership.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "sector": "Health Care",
+          "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+          "industry": "Biotechnology"
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "РязГМУ / Артген",
+          "role": "Medical researcher and science director",
+          "start_year": 2014,
+          "end_year": null,
+          "description": "Annual report and journal profile confirm research, publication activity, and identifiers ORCID 0000-0001-8389-3841, SPIN 2957-1687, ResearcherID L-1658-2015.",
+          "source_url": "https://journals.rcsi.science/vszgmu/article/view/131112"
+        }
+      ],
+      "publications": [
+        {
+          "title": "Publication record involving pCMV-vegf165 / Neovasculgen work",
+          "year": null,
+          "description": "PubMed record includes Roman V. Deev among authors.",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/25770117/"
+        },
+        {
+          "title": "Publication record involving DYSF mutation screening",
+          "year": 2023,
+          "description": "PubMed record includes Roman V. Deev among authors.",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/37553796/"
+        }
+      ],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Деев Роман Вадимович in ABIO row with role Член СД."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "title": "Годовой отчет ПАО \"Артген\" за 2024 год",
+          "fact": "Page 42 gives education, experience, Artgen science role, Ryazan medical university role, and board membership."
+        },
+        {
+          "url": "https://journals.rcsi.science/vszgmu/article/view/131112",
+          "title": "Journal profile",
+          "fact": "Profile confirms academic identifiers and candidate/academic status."
+        },
+        {
+          "url": "https://genescells.ru/2313-1829/announcement/view/780",
+          "title": "Genes and Cells interview/profile",
+          "fact": "Profile corroborates the РязГМУ, ИСКЧ/Artgen, and editor-in-chief identity chain."
+        },
+        {
+          "url": "https://www.dissercat.com/content/posttravmaticheskaya-regeneratsiya-kostnoi-tkani-pri-transplantatsii-kultury-kostno-mozgovoy",
+          "title": "DisserCat dissertation record for Деев Роман Вадимович",
+          "fact": "Confirms Кандидат медицинских наук dissertation defended at Военно-медицинская академия имени С.М. Кирова (Saint Petersburg) in 2006, specialty ВАК 03.00.25 (гистология, цитология, клеточная биология), on post-traumatic bone regeneration via bone-marrow stromal cell transplantation."
+        }
+      ],
+      "notes": "Annual report states he is an author of patents, but no patent registry list was verified; patents therefore remain empty. h-index not confirmed. Current Artgen page mentions a later/current СЗГМУ role and was not used to replace the 2024 annual-report role. Round 2 (2026-07-18): institution нормализован (Военно-медицинская академия им. С. М. Кирова -> Военно-медицинская академия имени С.М. Кирова, по university_names.json). qualification_degree для военно-медицинского образования установлен как \"Specialist degree\" (лечебное дело/хирургия, квалификация \"врач\" -- специалитет). Кандидат медицинских наук -> \"Doctoral degree\" (аналог PhD). \"Доцент\" оставлен с qualification_degree=null: это учёное звание (академический ранг), а не образовательная степень, поэтому не подходит ни под одно значение из разрешенного списка. GICS: запись про ВМА им. Кирова/НИИ Вредена (роль \"научный сотрудник\") классифицирована как Health Care Providers & Services (клинико-исследовательская деятельность), тогда как запись про РязГМУ (роль \"заведующий кафедрой\") классифицирована как Diversified Consumer Services, поскольку это преподавательская/образовательная должность в вузе, а не оказание медицинской помощи. Дополнительный поиск h-index (elibrary/Scopus упоминания) не дал числового значения -- поле остается null; roscongress/professorrating/genescells профили корроборируют его текущую СЗГМУ-роль, но не дают наукометрику. Annual report states he is an author of patents, but no patent registry list was verified; patents therefore remain empty. h-index not confirmed. Current Artgen page mentions a later/current СЗГМУ role and was not used to replace the 2024 annual-report role. Quality-pass round (2026-07-29): filled Кандидат медицинских наук year (2006) and defending institution (Военно-медицинская академия имени С.М. Кирова) from a DisserCat record matching his name, field, and career timeline (2003-2010 at ВМА/Vreden institute); Доцент institution/year remain null, still unconfirmed. Quality-pass round 2 (2026-07-31): made one bounded gap-follow-up attempt on degrees[1] (Доцент) institution/year -- a search-result summary claimed the already-cited rzgmu.ru URL contains the sentence \"Ученое звание присвоено следующим сотрудникам РязГМУ: Деев Роман Вадимович, доцент по специальности 'Патологическая анатомия'\", which would have implied institution=РязГМУ, but a direct re-fetch of that exact URL did NOT show this text on the current page (dynamic news listing, item likely no longer present/paginated out). Per the anti-fabrication rule, this unverifiable claim was discarded rather than written into the JSON; degrees[1] institution/year remain null, documented as attempted-but-unconfirmable this round. Also re-checked h_index with a fresh query (\"Деев Роман Вадимович h-index elibrary РИНЦ\") -- found only a citation-count claim (965 citations per Scopus) on biomats.ru, the same weak/auxiliary source already rejected for h-index purposes in round 1; no numeric h-index found, h_index remains null."
+    },
+    {
+      "name": "Исаев Андрей Александрович",
+      "current_role": "Член Совета директоров ПАО \"Артген\"",
+      "company_name": "ПАО \"Артген\"",
+      "education": [
+        {
+          "institution": "Южный федеральный университет",
+          "year": null,
+          "details": "Специальность \"история\", квалификация \"учитель истории и социально-политических дисциплин\".",
+          "source_url": "https://artgen.ru/wp-content/uploads/docs/REPORT%20OF%20THE%20ISSUER%20OF%20ISSUE%20SECURITIES%206m.pdf",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ООО \"Сегмент\"",
+          "role": "Генеральный директор",
+          "start_year": 2002,
+          "end_year": 2021,
+          "description": "MMCB issuer report 6M2024 gives period 2002-31.10.2021; registry aggregators corroborate the company link. Quality-pass round 2 (2026-07-31) confirmed this is ИНН/ОГРН 1026104153041 (registered address ул. Пескова, д.7, Ростов-на-Дону): Исаев Андрей Александрович is listed as ликвидатор (liquidator) with the liquidation process dated 07.05.2021-13.10.2021, matching the reported 2002-31.10.2021 tenure almost exactly; registered OKVED is 46.69.9 (wholesale trade of other machinery/instruments/equipment for general industrial and special purposes).",
+          "source_url": "https://checko.ru/company/segment-1026104153041",
+          "sector": "Industrials",
+          "industry_group": "Capital Goods",
+          "industry": "Trading Companies & Distributors"
+        },
+        {
+          "organization": "ПАО \"Артген\"",
+          "role": "Член Совета директоров",
+          "start_year": 2017,
+          "end_year": null,
+          "description": "Annual report 2024 confirms 2024 board membership and states initial board election in 2017.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "sector": "Health Care",
+          "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+          "industry": "Biotechnology"
+        },
+        {
+          "organization": "ПАО \"ММЦБ\"",
+          "role": "Член Совета директоров",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "MMCB issuer report 6M2024 gives board periods including 20.09.2021-09.06.2022, 09.06.2022-27.06.2023, 27.06.2023-11.06.2024, and from 11.06.2024.",
+          "source_url": "https://invest.gemabank.ru/wp-content/uploads/2024/09/otchet-emitenta-mmczb-6m2024_final.pdf",
+          "sector": "Health Care",
+          "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+          "industry": "Life Sciences Tools & Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Исаев Андрей Александрович in ABIO row with role Член СД."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "title": "Годовой отчет ПАО \"Артген\" за 2024 год",
+          "fact": "Page 43 identifies him as board member, states higher pedagogical education, MMCB board role, shareholding, and no share transactions in 2024."
+        },
+        {
+          "url": "https://artgen.ru/wp-content/uploads/docs/REPORT%20OF%20THE%20ISSUER%20OF%20ISSUE%20SECURITIES%206m.pdf",
+          "title": "Отчет эмитента за 6 месяцев 2022 года",
+          "fact": "Issuer report gives detailed education and states he is brother of Исаев Артур Александрович."
+        },
+        {
+          "url": "https://invest.gemabank.ru/wp-content/uploads/2024/09/otchet-emitenta-mmczb-6m2024_final.pdf",
+          "title": "Отчет эмитента ПАО \"ММЦБ\" за 6 месяцев 2024 года",
+          "fact": "MMCB report gives education, ООО \"Сегмент\" role, and board periods."
+        }
+      ],
+      "notes": "Ученая степень, публикации, патенты и h-index не найдены. Есть осторожно зафиксированный конфликт: годовой отчет 2024 говорит о первоначальном избрании в совет в 2017 году, но более ранние страницы ИСКЧ показывают его как кандидата/участника совета в 2012-2013 годах. Quality-pass round (2026-07-29): дополнительное целевое исследование (архивные страницы e-disclosure/artgen.ru media-center) подтвердило, что Исаев Андрей Александрович, директор ООО \"Сегмент\", фигурировал в решениях о составе Совета директоров ОАО \"ИСКЧ\" примерно в 2012-2013 годах и вновь как кандидат в марте 2014 года, что не устраняет расхождение с формулировкой годового отчета 2024 \"дата первоначального избрания -- 2017 год\". Поскольку годовой отчет 2024 — первичный, датированный, регуляторный документ, а более старые страницы найдены только через агрегированные результаты поиска без прямого подтверждения точной даты избрания, start_year оставлен равным 2017 (более надежное/консервативное значение), а конфликт зафиксирован явно как неразрешенный. Gap follow-up on ООО \"Сегмент\" GICS-null (round 2 left it null because two different Rostov-registered companies with this name were found and neither matched the 2002-2021 tenure): this round's fresh registry query (rusprofile/checko) was blocked mid-session by WebSearch budget exhaustion, and a direct WebFetch on a rusprofile search URL returned HTTP 404 (JS-rendered page, not fetchable); sector/industry_group/industry remain null, unresolved -- a future pass should retry \"ООО Сегмент Ростов-на-Дону Исаев Андрей Александрович ИНН\" once search budget is available. Quality-pass round 2 (2026-07-31): retried exactly that query via WebFetch (WebSearch tool itself was exhausted this session) and found a THIRD, previously-untested ООО \"Сегмент\" registration (ИНН/ОГРН 1026104153041, ул. Пескова д.7, Ростов-на-Дону) -- this is the same OGRN already cited as an auxiliary source in round 1 (checko.ru/company/segment-1026104153041) but its OKVED/liquidator data had never actually been read. Two independent fetches (search-result listing + direct company-record fetch) verbatim-confirmed \"Ликвидатор Исаев Андрей Александрович\" and OKVED 46.69.9 (wholesale trade in industrial machinery/instruments/equipment), with liquidation dated 07.05.2021-13.10.2021 -- closely matching the reported 2002-31.10.2021 tenure. GICS filled as Industrials | Capital Goods | Trading Companies & Distributors. The two round-2 candidate companies (ИНН 6164241454 liquidated 2017; ИНН 6165174730 with a different director Бугаевская) are now understood to be unrelated namesake registrations, not this entity."
+    },
+    {
+      "name": "Мауэр Константин Николаевич",
+      "current_role": "Член Совета директоров ПАО \"Артген\", независимый директор",
+      "company_name": "ПАО \"Артген\"",
+      "education": [
+        {
+          "institution": "Ростовский государственный экономический университет (РИНХ)",
+          "year": null,
+          "details": "Окончил Институт народного хозяйства.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Институт управления, бизнеса и права (Ростов-на-Дону)",
+          "year": null,
+          "details": "Окончил Институт управления, бизнеса и права.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "qualification_degree": null
+        },
+        {
+          "institution": "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+          "year": null,
+          "details": "Executive MBA.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Executive MBA",
+          "field": "Business administration",
+          "year": null,
+          "institution": "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "qualification_degree": "MBA"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "MayerGroup / Mauergroup",
+          "role": "Основатель",
+          "start_year": 1993,
+          "end_year": null,
+          "description": "Annual report 2024 identifies him as founder of the consulting group; current Artgen page describes him as founder and owner of Mauergroup since 1993.",
+          "source_url": "https://artgen.ru/about/sovet-direktorov/",
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "ООО \"Аудиторская компания \"Мауэр-Аудит\"",
+          "role": "Генеральный директор",
+          "start_year": 2002,
+          "end_year": null,
+          "description": "Annual report 2024 lists this role from 2002.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "ООО \"МауэрГруппРостов\"",
+          "role": "Генеральный директор",
+          "start_year": 2002,
+          "end_year": null,
+          "description": "Annual report 2024 lists this role from 2002.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "ООО \"МауэрИнвест\"",
+          "role": "Генеральный директор",
+          "start_year": 2008,
+          "end_year": null,
+          "description": "Annual report 2024 lists this role from 2008.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "ООО \"ИСКЧ Консалтинг\"",
+          "role": "Генеральный директор",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Annual report 2024 lists this role from 2023.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "ПАО \"Артген\"",
+          "role": "Независимый директор; председатель комитета по аудиту",
+          "start_year": null,
+          "end_year": null,
+          "description": "Annual report 2024 identifies him as independent director and chairman of the audit committee.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "sector": "Health Care",
+          "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+          "industry": "Biotechnology"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Мауэр Константин Николаевич in ABIO row with role Член СД."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "title": "Годовой отчет ПАО \"Артген\" за 2024 год",
+          "fact": "Page 42 gives education and business roles; page 49 identifies him as audit committee chairman."
+        },
+        {
+          "url": "https://artgen.ru/about/sovet-direktorov/",
+          "title": "Артген биотех - Совет директоров",
+          "fact": "Official current board page corroborates Mauergroup, MBA, audit, and independent-director profile."
+        },
+        {
+          "url": "https://artgen.ru/media-center/resheniya-godovogo-obshhego-sobraniya-akczionerov-pao-iskch-po-itogam-2015-goda/",
+          "title": "Решения годового общего собрания акционеров ПАО ИСКЧ по итогам 2015 года",
+          "fact": "Official Artgen news confirms prior election as independent director/director of ООО \"Мауэр-Аудит\"."
+        }
+      ],
+      "notes": "Научные публикации, патенты и h-index не подтверждены. Даты учебы не найдены в первичных источниках. Round 2 (2026-07-18): institution нормализованы по university_names.json (Институт народного хозяйства -> Ростовский государственный экономический университет (РИНХ); Институт управления, бизнеса и права, Ростов-на-Дону -> Институт управления, бизнеса и права (Ростов-на-Дону); Академия народного хозяйства при Правительстве РФ -> Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации). qualification_degree: для Института народного хозяйства инферирован \"Specialist degree\" (советская 5-летняя институтская программа; собственный бизнес с 1993 года подразумевает выпуск до Болонской реформы) -- средне-высокая уверенность. Для второго вуза (Институт управления, бизнеса и права) конкретная квалификация не раскрыта ни в одном источнике и веб-поиск не дал новых деталей -- оставлен null, чтобы не гадать. Executive MBA -> \"MBA\" (для education и degrees), это полноценная выпускная бизнес-степень, а не только некредитный executive-курс. GICS: подтвержден целевым поиском ОКВЭД для ООО \"МауэрИнвест\" (70.22 -- консультирование по вопросам коммерческой деятельности и управления) и ООО \"ИСКЧ Консалтинг\" (тоже 70.22, дочерняя структура группы Артген, руководитель до Масюка С.В.) -- обе классифицированы как Professional Services, а не Financial Services, несмотря на названия \"Инвест\". Quality-pass round 2 (2026-07-31): found and fixed a desync -- round-2 notes above already documented normalizing education[0] to \"Ростовский государственный экономический университет (РИНХ)\" and education[1] to \"Институт управления, бизнеса и права (Ростов-на-Дону)\", but the JSON on disk still held the pre-normalization strings (\"Институт народного хозяйства\" and \"Институт управления, бизнеса и права, Ростов-на-Дону\"); corrected both to match the already-decided canonical values, no new research needed. Also made one bounded gap-follow-up attempt on education[1].qualification_degree (still null since round 2): a search snippet attributed to zinref.ru claimed \"Институт управления, бизнеса и права, г. Ростов-на-Дону (2002 – 2005), юрист\", but a direct re-fetch of that exact URL returned blank/empty content, so the claim could not be independently verified, and the page's context (a directory titled \"Reestr rukovoditelei ... AtomGeo\") raises namesake-risk concerns unrelated to Mauergroup/Artgen. This lead was NOT used; education[1].qualification_degree remains null, documented as an unverifiable lead rather than a confirmed fact."
+    },
+    {
+      "name": "Киселев Сергей Львович",
+      "current_role": "Член Совета директоров ПАО \"Артген\"",
+      "company_name": "ПАО \"Артген\"",
+      "education": [
+        {
+          "institution": "Национальный исследовательский ядерный университет «МИФИ»",
+          "year": null,
+          "details": "Годовой отчет указывает окончание МИФИ; профиль ИОГен уточняет направление \"дозиметрия и защита\".",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Доктор биологических наук",
+          "field": "Молекулярная генетика; специальность 03.00.26",
+          "year": 2000,
+          "institution": null,
+          "source_url": "https://mydisser.com/ru/catalog/view/kiselev-sergey-lvovich-novoe-semeystvo-genov-immunnoy-sistemy-mlekopitayuschih-imeyuschih-lizocim-p.html",
+          "qualification_degree": "Doctoral degree"
+        },
+        {
+          "degree": "Профессор",
+          "field": "Биологические науки / генетика",
+          "year": null,
+          "institution": null,
+          "source_url": "https://vigg.ru/fileadmin/user_upload/Otdel_aspirantury/Aspiranty/Dannye_nauchnykh_rukovoditelei/kadrovoe_obespechenie_nauchnoe_rukovodstvoKiselev.pdf",
+          "qualification_degree": null
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "Институт общей генетики им. Н. И. Вавилова РАН",
+          "role": "Заведующий лабораторией генетических основ клеточных технологий",
+          "start_year": 2007,
+          "end_year": null,
+          "description": "Annual report 2024 lists this role from 2007.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "sector": "Health Care",
+          "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+          "industry": "Life Sciences Tools & Services"
+        },
+        {
+          "organization": "ФГБУ ФНКЦ ФХМ ФМБА России",
+          "role": "Заведующий лабораторией биомедицинских технологий",
+          "start_year": 2016,
+          "end_year": null,
+          "description": "Annual report 2024 lists this role from 2016 and names ФНКЦ ФХМ ФМБА as main place of work.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "sector": "Health Care",
+          "industry_group": "Health Care Equipment & Services",
+          "industry": "Health Care Providers & Services"
+        },
+        {
+          "organization": "ПАО \"Артген\"",
+          "role": "Член Совета директоров",
+          "start_year": 2007,
+          "end_year": null,
+          "description": "Annual report 2024 confirms board membership and initial election in 2007.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "sector": "Health Care",
+          "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+          "industry": "Biotechnology"
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "Институт общей генетики им. Н. И. Вавилова РАН / ФНКЦ ФХМ ФМБА России",
+          "role": "Research laboratory head",
+          "start_year": 2007,
+          "end_year": null,
+          "description": "Annual report states more than 30 years of genetics research; Vavilov profile lists interests in genetics, epigenetics, development, differentiation, reprogramming, gene and cell therapy.",
+          "source_url": "https://vigg.ru/fileadmin/user_upload/Otdel_aspirantury/Aspiranty/Dannye_nauchnykh_rukovoditelei/kadrovoe_obespechenie_nauchnoe_rukovodstvoKiselev.pdf"
+        }
+      ],
+      "publications": [
+        {
+          "title": "Selected publications listed in Vavilov Institute profile",
+          "year": null,
+          "description": "The Vavilov profile lists selected publications for the identified Сергей Львович Киселев.",
+          "source_url": "https://vigg.ru/fileadmin/user_upload/Otdel_aspirantury/Aspiranty/Dannye_nauchnykh_rukovoditelei/kadrovoe_obespechenie_nauchnoe_rukovodstvoKiselev.pdf"
+        }
+      ],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Киселев Сергей Львович in ABIO row with role Член СД."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "title": "Годовой отчет ПАО \"Артген\" за 2024 год",
+          "fact": "Page 42 gives education, doctorate, research roles, and board membership."
+        },
+        {
+          "url": "https://vigg.ru/fileadmin/user_upload/Otdel_aspirantury/Aspiranty/Dannye_nauchnykh_rukovoditelei/kadrovoe_obespechenie_nauchnoe_rukovodstvoKiselev.pdf",
+          "title": "ИОГен / ВИГГ profile",
+          "fact": "Profile confirms professor/doctor status, education direction, research interests, and selected publications."
+        },
+        {
+          "url": "https://iramn.ru/journals/ktbm/editorial-board/",
+          "title": "Editorial board profile",
+          "fact": "Editorial board page corroborates Doctor of Biological Sciences, professor, and Vavilov laboratory role."
+        }
+      ],
+      "notes": "Annual report states he is author of many works and patents, but patent registry records and h-index were not confirmed. Unrelated Сергей Киселев profiles were rejected by patronymic, field, and employer. Quality-pass round (2026-07-29): fresh gap follow-up on degrees[0]/[1] institution+year found conflicting secondary sources for the Доктор биологических наук defense year (ru.wikipedia.org says 2000; endocrincentr.ru clinic-staff page says 2001 for the identical dissertation title), and neither names the defending institution/dissertation council; a vigg.ru institutional PDF (already cited) could not be re-read this round (binary/unreadable via fetch). Per the genuine-inconsistency rule, year/institution were left null in that round rather than picking one side, since neither secondary source was clearly more authoritative and no primary VAK/dissertation-council record had been found. Also noted: Wikipedia-derived summary describes his MEPhI specialization as \"теоретическая и экспериментальная физика\", while the existing vigg.ru-sourced education detail says \"дозиметрия и защита\" -- kept the existing vigg.ru-sourced wording unchanged since it is the more authoritative institutional source already used for this person's other confirmed facts. Quality-pass round 2 (2026-07-31): re-opened the year conflict with a fresh, different-typed source (not a secondary bio page like ru.wikipedia.org/endocrincentr.ru, but a dissertation-catalog record): mydisser.com, independently re-fetched, gives the verbatim citation \"Новое семейство генов иммунной системы млекопитающих, имеющих лизоцим-подобный домен, и их потенциальная применимость для генной терапии рака : диссертация ... доктора биологических наук : 03.00.26.- Москва, 2000\" with an RSL deposit reference (\"РГБ ОД, 71 01-3/152-0\"), i.e. a library/archival catalog record rather than an unsourced secondary page. This is materially stronger evidence for 2000 than either prior secondary source, so year is now set to 2000 and endocrincentr.ru's 2001 is treated as the rejected value (likely a copy-editing slip on a clinic staff-bio page, not a primary record). The specific defending institution/dissertation council is still not named by this or any other source found so far, so degrees[0].institution remains null and unresolved -- future passes could try search.rsl.ru's JS-driven catalog interface directly (not fetchable via this session's tools) or a VAK archive. Also re-checked h_index this round (\"Киселев Сергей Львович генетик Н-индекс istina.msu.ru medvestnik\") -- ISTINA and Vavilov Institute pages were referenced in search results but no snippet exposed a numeric value; h_index remains null, consistent with rounds 1-2."
+    },
+    {
+      "name": "Примак Алексей Евгеньевич",
+      "current_role": "Член Совета директоров ПАО \"Артген\"",
+      "company_name": "ПАО \"Артген\"",
+      "education": [
+        {
+          "institution": "Ростовский государственный экономический университет (РИНХ)",
+          "year": null,
+          "details": "Специальность - экономист; квалификация - коммерция (управление маркетингом).",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "Фондовый рынок / инвестиционный сектор",
+          "role": "Финансовый эксперт",
+          "start_year": 1993,
+          "end_year": null,
+          "description": "Annual report 2024 states stock market experience since 1993.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Институт Финансово-Инвестиционных Технологий",
+          "role": "Основатель и эксперт",
+          "start_year": null,
+          "end_year": null,
+          "description": "Annual report 2024 and official current Artgen board page identify him as founder/expert of IFIT.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Services",
+          "industry": "Diversified Consumer Services"
+        },
+        {
+          "organization": "ООО \"АВС-РЕЙТИНГ\"",
+          "role": "Генеральный директор",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "Annual report 2024 lists this role from 2020.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "IT Services"
+        },
+        {
+          "organization": "ПАО \"Артген\"",
+          "role": "Член Совета директоров",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Annual report 2024 states initial board election in 2023.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "sector": "Health Care",
+          "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+          "industry": "Biotechnology"
+        },
+        {
+          "organization": "ПАО \"ЦГРМ \"ГЕНЕТИКО\"",
+          "role": "Член Совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "Annual report 2024 lists this board role.",
+          "source_url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "sector": "Health Care",
+          "industry_group": "Health Care Equipment & Services",
+          "industry": "Health Care Providers & Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Примак Алексей Евгеньевич in ABIO row with role Член СД."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "title": "Годовой отчет ПАО \"Артген\" за 2024 год",
+          "fact": "Page 43 gives education, stock-market experience, ABC-Rating role, IFIT link, and board memberships."
+        },
+        {
+          "url": "https://artgen.ru/about/sovet-direktorov/",
+          "title": "Артген биотех - Совет директоров",
+          "fact": "Official current board page corroborates IFIT founder/expert and independent-director profile."
+        },
+        {
+          "url": "https://finfor.ru/page57256613.html",
+          "title": "FINFOR24 profile",
+          "fact": "Profile corroborates Artgen/Genetico board link and broader financial-market experience; used as secondary source."
+        },
+        {
+          "url": "https://companies.rbc.ru/id/1207700459735-obschestvo-s-ogranichennoj-otvetstvennostyu-1-institut-finansovo-investitsionnyih-tehnologij/",
+          "title": "RBC Companies - ООО \"1 ИФИТ\"",
+          "fact": "Registry-style page corroborates Primak as founder of ООО \"1 ИФИТ\"."
+        }
+      ],
+      "notes": "No academic degree, publications, patents, or h-index found. FINFOR24 mentions Troika Dialog, ATON, and Alfa-Bank experience, but exact dates and primary confirmation were not found, so those details are not included as separate dated jobs. Round 2 (2026-07-18): institution нормализован (Ростовский институт народного хозяйства -> Ростовский государственный экономический университет (РИНХ), по university_names.json). qualification_degree инферирован как \"Specialist degree\" (советская институтская программа; стаж на фондовом рынке с 1993 года подразумевает выпуск до Болонской реформы) -- средне-высокая уверенность. GICS: целевой поиск подтвердил ООО \"АВС-РЕЙТИНГ\" (ИНН 9725032711, гендиректор Примак А.Е. подтвержден напрямую) занимается обработкой данных и хостингом (ОКВЭД 63.x), а НЕ кредитным рейтингованием несмотря на название -- классифицирован как IT Services, не Capital Markets. Институт Финансово-Инвестиционных Технологий подтвержден как учебный центр финансового образования (курсы трейдинга/инвестирования) -- классифицирован как Diversified Consumer Services. Запись \"Фондовый рынок / инвестиционный сектор\" не является конкретной организацией (обобщенное описание стажа), поэтому sector/industry_group/industry оставлены null. Дополнительный поиск дат работы в Тройке Диалог/АТОН/Альфа-Банк (wiki.letopis.ru) подтвердил только связь с АТОН без дат; Тройка Диалог и Альфа-Банк не подтверждены ни одним источником -- сведения по-прежнему не включены как отдельные датированные позиции. Quality-pass round 2 (2026-07-31): found and fixed a desync -- round-2 notes above already documented normalizing education[0].institution to \"Ростовский государственный экономический университет (РИНХ)\", but the JSON on disk still held the pre-normalization string \"Ростовский институт народного хозяйства\"; corrected to match the already-decided canonical value, no new research needed."
+    },
+    {
+      "name": "Александров Дмитрий Андреевич",
+      "current_role": "Член СД по CSV; не подтвержден как член Совета директоров ПАО \"Артген\" в годовом отчете за 2024 год",
+      "company_name": "ПАО \"Артген\"",
+      "education": [
+        {
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "year": null,
+          "details": "Химический факультет МГУ.",
+          "source_url": "https://educenter.ru/about/lecturers/aleksandrov-dmitrij-andreevich.html",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат химических наук",
+          "field": "Биоорганическая химия / химические науки",
+          "year": 2006,
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "source_url": "https://istina.msu.ru/dissertations/1663562/",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "Инвестиционные компании",
+          "role": "Аналитик / руководитель аналитических исследований",
+          "start_year": 2007,
+          "end_year": null,
+          "description": "MOEX education center profile states analytical experience from March 2007.",
+          "source_url": "https://educenter.ru/about/lecturers/aleksandrov-dmitrij-andreevich.html",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ООО \"ИК \"ФайнэншлБридж\"",
+          "role": "Ведущий аналитик",
+          "start_year": 2008,
+          "end_year": 2009,
+          "description": "Old official HSCI annual report gives this period.",
+          "source_url": "https://artgen.ru/wp-content/uploads/annual-reports/Annual_Report%20_HSCI_2017_FINAL.pdf",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "ООО \"УНИВЕР Капитал\"",
+          "role": "Начальник отдела аналитических исследований",
+          "start_year": 2009,
+          "end_year": 2013,
+          "description": "Old official HSCI annual report gives this period.",
+          "source_url": "https://artgen.ru/wp-content/uploads/annual-reports/Annual_Report%20_HSCI_2017_FINAL.pdf",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "ООО \"УНИВЕР Капитал\"",
+          "role": "Заместитель генерального директора по инвестициям",
+          "start_year": 2013,
+          "end_year": null,
+          "description": "Old official HSCI annual report gives this role from 2013.",
+          "source_url": "https://artgen.ru/wp-content/uploads/annual-reports/Annual_Report%20_HSCI_2017_FINAL.pdf",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "ПАО \"ИСКЧ\" / Artgen",
+          "role": "Бывший независимый директор",
+          "start_year": null,
+          "end_year": null,
+          "description": "MOEX School identifies him as former independent director of ПАО \"ИСКЧ\"/Artgen. This is historical; 2024 board membership is not confirmed by the 2024 annual report.",
+          "source_url": "https://school.moex.com/experts/dmitry-aleksandrov",
+          "sector": "Health Care",
+          "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+          "industry": "Biotechnology"
+        },
+        {
+          "organization": "ООО \"АВИ Кэпитал\"",
+          "role": "Руководитель управления аналитических исследований",
+          "start_year": null,
+          "end_year": null,
+          "description": "Current official Artgen board page names him in this role; this is not used as proof of 2024 Artgen board membership.",
+          "source_url": "https://artgen.ru/about/sovet-direktorov/",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": null,
+          "role": "Candidate of Chemical Sciences",
+          "start_year": null,
+          "end_year": null,
+          "description": "Old HSCI annual report confirms candidate degree and dissertation topic connected with cholesterol/cholesterol esters and leukotriene synthesis by 5-lipoxygenase of mammalian cells.",
+          "source_url": "https://artgen.ru/wp-content/uploads/annual-reports/Annual_Report%20_HSCI_2017_FINAL.pdf"
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Александров Дмитрий Андреевич in ABIO row with role Член СД."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+          "title": "Годовой отчет ПАО \"Артген\" за 2024 год",
+          "fact": "Page 41 lists the 2024 board composition and does not include Александров Д. А."
+        },
+        {
+          "url": "https://artgen.ru/about/sovet-direktorov/",
+          "title": "Артген биотех - Совет директоров",
+          "fact": "Current official board page includes Александров Д. А. and names him head of analytical research at ООО \"АВИ Кэпитал\"; timing is current/post-2024."
+        },
+        {
+          "url": "https://finviewer.ru/hsci/news/2025/",
+          "title": "Finviewer / disclosure mirror",
+          "fact": "2025 disclosure mirror says Александров Д. А. was included among board candidates on 06.05.2025, supporting a post-2024/current composition explanation."
+        },
+        {
+          "url": "https://artgen.ru/wp-content/uploads/annual-reports/Annual_Report%20_HSCI_2017_FINAL.pdf",
+          "title": "Annual Report HSCI 2017",
+          "fact": "Old official annual report confirms education, candidate degree, and investment-career history."
+        },
+        {
+          "url": "https://educenter.ru/about/lecturers/aleksandrov-dmitrij-andreevich.html",
+          "title": "MOEX Education Center profile",
+          "fact": "Profile confirms MSU chemistry faculty, candidate of chemical sciences, financial-market certificates, and analytical experience."
+        },
+        {
+          "url": "https://school.moex.com/experts/dmitry-aleksandrov",
+          "title": "MOEX School expert profile",
+          "fact": "Profile confirms AVI Capital and former independent-director link to ПАО \"ИСКЧ\"/Artgen."
+        },
+        {
+          "url": "https://istina.msu.ru/dissertations/1663562/",
+          "title": "ISTINA (MSU scientific information system) dissertation record",
+          "fact": "Confirms verbatim: \"Защищена в совете Д 501.001.41 при МГУ имени М.В. Ломоносова, Химический факультет\" for the 2006 Кандидат химических наук dissertation on cholesterol/leukotriene synthesis, matching the topic already recorded from the HSCI 2017 annual report."
+        },
+        {
+          "url": "https://www.alfacapital.ru/disclosure/corporate_info/2981196",
+          "title": "Alfa Capital disclosure mirror of ПАО \"Артген биотех\" GOSA voting results",
+          "fact": "Directly-fetched disclosure page dated \"11 июня 2025 г.\" lists Александров Дмитрий Андреевич among board members elected at that meeting (decision 4.1.1, 73,803,761 votes for) -- confirms his board election is dated 2025, corroborating (not contradicting) the existing conclusion that the 2024 annual report correctly excludes him from the board acting as of 31.12.2024."
+        }
+      ],
+      "notes": "Критическая оговорка: CSV относит Александрова к ABIO, но локальный годовой отчет 2024 не подтверждает его членство в совете на 31.12.2024. Текущая официальная страница и 2025 disclosure mirror указывают на более поздний/current состав. Не смешивать с Дмитрием Валерьевичем Александровым из УрФУ. Round 2 (2026-07-18): institution нормализован (Московский государственный университет, химический факультет -> Московский государственный университет имени М.В. Ломоносова, по university_names.json). qualification_degree для базового образования МГУ инферирован как \"Specialist degree\" (традиционная для химфака МГУ 5-летняя специалитетная программа, выпуск до начала аналитической карьеры в 2007 году) -- средне-высокая уверенность. Кандидат химических наук -> \"Doctoral degree\". GICS: запись \"Инвестиционные компании\" не является конкретной организацией (обобщенное описание из educenter-профиля), поэтому sector/industry_group/industry оставлены null; остальные записи (ФайнэншлБридж, УНИВЕР Капитал x2, АВИ Кэпитал) — брокерские/инвестиционно-аналитические компании, классифицированы как Financials/Capital Markets. Quality-pass round 2 (2026-07-31): gap follow-up filled degrees[0].institution and .year (both null since round 1) -- ISTINA (istina.msu.ru), MSU's own dissertation-council system, gives a verbatim, directly-fetched match on dissertation title, specialty (02.00.10), and scientific advisor, confirming defense at МГУ имени М.В. Ломоносова, Химический факультет, dissertation council Д 501.001.41, in 2006; institution/year filled accordingly and source_url updated to this more specific record (original HSCI-2017-report source for the degree itself remains cited in professional_experience/research_experience context). Separately, re-investigated the CSV-vs-2024-annual-report board-membership conflict (genuine inconsistency, previously flagged but not retried by any prior quality-pass round): a directly-fetched alfacapital.ru disclosure mirror gives an exact, dated confirmation (\"11 июня 2025 г.\") of his board election, which corroborates rather than overturns the existing resolution -- his board seat is real but dated 2025, so the 2024 annual report's exclusion of him stays correct and current_role/this caveat are unchanged; only a new corroborating source was added."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+      "title": "Годовой отчет ПАО \"Артген\" за 2024 год",
+      "fact": "Pages 41-43 list the Board of Directors acting in 2024: Приходько Александр Викторович, Исаев Артур Александрович, Исаев Андрей Александрович, Мауэр Константин Николаевич, Богуславский Дмитрий Эдгардович, Деев Роман Вадимович, Киселев Сергей Львович, Шуленин Вячеслав Вячеславович, Примак Алексей Евгеньевич."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+      "title": "Годовой отчет ПАО \"Артген\" за 2024 год",
+      "fact": "Pages 43-45 state that Масюк Сергей Владимирович performed functions of the sole executive body / General Director in 2024; page 43 states the board extended his powers from 23.03.2024."
+    },
+    {
+      "url": "https://artgen.ru/about/sovet-direktorov/",
+      "title": "Артген биотех - Совет директоров",
+      "fact": "Current official board page lists Исаев Артур, Богуславский, Деев, Исаев Андрей, Мауэр, Киселев, Примак, and Александров; this page was treated as current and not automatically as the 2024 composition."
+    },
+    {
+      "url": "https://artgen.ru/about/management/",
+      "title": "Артген биотех - Менеджмент",
+      "fact": "Official management page identifies Масюк Сергей Владимирович as General Director of ПАО \"Артген биотех\"."
+    },
+    {
+      "url": "https://artgen.ru/wp-content/uploads/docs/REPORT%20OF%20THE%20ISSUER%20OF%20ISSUE%20SECURITIES%206m.pdf",
+      "title": "Отчет эмитента эмиссионных ценных бумаг за 6 месяцев 2022 года",
+      "fact": "Issuer report provides detailed education and career data for several Artgen board members and the sole executive body."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "Input CSV rows for ticker ABIO include Масюк Сергей Владимирович, Исаев Артур Александрович, Богуславский Дмитрий Эдгардович, Деев Роман Вадимович, Исаев Андрей Александрович, Мауэр Константин Николаевич, Киселев Сергей Львович, Примак Алексей Евгеньевич, and Александров Дмитрий Андреевич."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/ABIO/ГО Артген 2024_в раскрытие.pdf",
+      "title": "Годовой отчет ПАО \"Артген\" за 2024 год",
+      "fact": "Primary local source for 2024 company context, board composition, CEO role, and many biographies."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/ABIO/МСФО_Артген_12 мес 2024.pdf",
+      "title": "Консолидированная финансовая отчетность ПАО \"Артген\" за 2024 год",
+      "fact": "Checked as local source; no additional useful personal biographical facts found."
+    },
+    {
+      "url": "https://artgen.ru/about/sovet-direktorov/",
+      "title": "Артген биотех - Совет директоров",
+      "fact": "Official current board page used as current corroborating source and to identify post-2024/current composition differences."
+    },
+    {
+      "url": "https://artgen.ru/about/management/",
+      "title": "Артген биотех - Менеджмент",
+      "fact": "Official current management page confirms Масюк as General Director and Исаев Артур as founder/chairman."
+    },
+    {
+      "url": "https://artgen.ru/wp-content/uploads/docs/REPORT%20OF%20THE%20ISSUER%20OF%20ISSUE%20SECURITIES%206m.pdf",
+      "title": "Отчет эмитента за 6 месяцев 2022 года",
+      "fact": "Detailed source for education and role histories for Масюк, Исаев Артур, Деев, Исаев Андрей, Богуславский, and related board data."
+    },
+    {
+      "url": "https://invest.gemabank.ru/wp-content/uploads/2024/09/otchet-emitenta-mmczb-6m2024_final.pdf",
+      "title": "Отчет эмитента ПАО \"ММЦБ\" за 6 месяцев 2024 года",
+      "fact": "Used for Исаев Андрей education, ООО \"Сегмент\" role, and MMCB board chronology."
+    },
+    {
+      "url": "https://vigg.ru/fileadmin/user_upload/Otdel_aspirantury/Aspiranty/Dannye_nauchnykh_rukovoditelei/kadrovoe_obespechenie_nauchnoe_rukovodstvoKiselev.pdf",
+      "title": "Профиль С. Л. Киселева, ИОГен/ВИГГ",
+      "fact": "Confirms Киселев education direction, professor/doctor status, research interests, and selected publications."
+    },
+    {
+      "url": "https://journals.rcsi.science/vszgmu/article/view/131112",
+      "title": "Journal profile for Роман Деев",
+      "fact": "Confirms Deev's academic identifiers and medical-science profile."
+    },
+    {
+      "url": "https://www.dissercat.com/content/institutsionalnye-determinanty-funktsionirovaniya-korporativnoi-sobstvennosti-v-transformats",
+      "title": "DisserCat record for Дмитрий Богуславский",
+      "fact": "Confirms candidate of economic sciences dissertation."
+    },
+    {
+      "url": "https://educenter.ru/about/lecturers/aleksandrov-dmitrij-andreevich.html",
+      "title": "MOEX Education Center profile for Дмитрий Александров",
+      "fact": "Confirms MSU chemistry education and candidate of chemical sciences for the relevant Дмитрий Андреевич Александров."
+    }
+  ],
+  "validation_notes": "Processed 9 people from ABIO CSV. Checked 2 local ABIO documents: annual report 2024 and IFRS 2024. Completed 1 research round per person, 9 person-rounds total, with parallel Agent 1 searches and final synthesis/soft validation. CEO confirmed: Масюк Сергей Владимирович. Local annual report confirms 2024 board composition but conflicts with CSV for Александров Дмитрий Андреевич: CSV includes him, while the 2024 annual report does not; current Artgen page and 2025 disclosure mirror suggest later/current board composition, so his 2024 board role is marked as unconfirmed. Education not fully identified for Масюк: only higher education is confirmed. Scientific/patent metrics remain incomplete for Исаев Артур, Деев, and Киселев: publications or patent authorship are partly confirmed, but h-index and full patent registers were not verified. Weak/auxiliary sources were used only for corroboration for Мауэр and Примак. Namesakes excluded: unrelated Масюк profiles, Артур vs Андрей Исаев cross-contamination, unrelated Sergey Kiselev profiles, and Дмитрий Валерьевич Александров/other Дмитрий Александров profiles. Search considered complete because local documents, official Artgen/e-disclosure sources, issuer reports, current official pages, prior employer/company sources, university/scientific profiles, PubMed/dissertation sources, business registries, Russian and English name queries, and two follow-up search passes were checked without new higher-quality unresolved leads.\n\nROUND 2 (2026-07-18, gap-fill + GICS + qualification_degree + institution normalization):\n\n1) Gap-fill research (web, targeted at fields that were null/vague after round 1): Масюк's university remained unconfirmed after searching roscongress.org, an official Skolkovo-gymnasium interview, and an Artgen YouTube history video -- no source discloses his alma mater, so education[0].institution stays null and qualification_degree is set to \"Unknown\" (higher education is a confirmed fact, but its level/field is not). Богуславский's Кандидат экономических наук defending institution was searched via WebFetch on the dissercat record and further queries (hub.sfedu.ru dissertation lists, disserCat catalog) -- location \"Ростов-на-Дону, 2003\" is confirmed but the specific dissertation council/university is not, so degrees[0].institution stays null (not guessed, even though his listed alma mater Южный федеральный университет is a plausible but unconfirmed candidate). Деев's and Киселев's h-index were searched directly (elibrary/Scopus/general web) -- no numeric value is published in any indexed source reachable by search, so h_index stays null for both. Примак's stock-market career at Тройка Диалог/Альфа-Банк remains unconfirmed (only АТОН corroborated, via wiki.letopis.ru, without dates) -- not added as dated jobs, consistent with round-1 caution.\n\n2) GICS sector/industry_group/industry added at company level (Health Care | Pharmaceuticals, Biotechnology & Life Sciences | Biotechnology, matching Artgen's own description as a Russian biotech group) and to every professional_experience entry for all 9 people, copied verbatim from gics_taxonomy.json. Methodology: each organization's OWN primary business was checked (web search/registry lookup where not already obvious from prior research), not the person's role. Artgen-group entities (ПАО \"Артген\"/ИСКЧ, ООО \"ИСКЧ Фарма\"/\"НекстГен Фарма\", Институт Стволовых Клеток Человека) = Biotechnology. Genetic-diagnostics/reproductive-medicine labs delivering services directly to patients (ПАО/ООО \"ЦГРМ \"ГЕНЕТИКО\") = Health Care Providers & Services. ПАО \"ММЦБ\"/Гемабанк (stem-cell biobanking + fledgling gene-therapy R&D, confirmed via web search) = Life Sciences Tools & Services, distinguished from Artgen's core Biotechnology label because its historic core business is biobank storage/services rather than drug commercialization. Clinics/hospitals/medical research institutes providing patient care (Европейская Международная Клиника, Диалайн, ВМА им. Кирова/НИИ Вредена, ФНКЦ ФХМ ФМБА) = Health Care Providers & Services. Degree-granting universities/academies, even medical or financial ones (РязГМУ, Институт Финансово-Инвестиционных Технологий -- confirmed via search as a trading/investing course provider) = Consumer Discretionary/Consumer Services/Diversified Consumer Services, distinguished from clinical institutions by the fact that the professional_experience role itself is a teaching/founding-of-courses role, not patient care. Audit/consulting entities around Мауэр (Мауэр-Аудит, MauerGroup, МауэрГруппРостов, МауэрИнвест, ИСКЧ Консалтинг) = Professional Services -- confirmed via registry search that ООО \"МауэрИнвест\" and ООО \"ИСКЧ Консалтинг\" both carry ОКВЭД 70.22 (management/business consulting), not a financial-services code, despite the \"Инвест\" name. ООО \"АВС-РЕЙТИНГ\" (Примак) = Information Technology/Software & Services/IT Services -- confirmed via direct registry match (Примак А.Е. is the listed general director) that its registered activity is data processing/hosting, not credit rating despite the company name. Investment/brokerage firms (ФайнэншлБридж, УНИВЕР Капитал, АВИ Кэпитал) = Financials/Financial Services (New Name)/Capital Markets. Журнал \"Гены и Клетки\" = Communication Services/Media & Entertainment/Media (scientific journal publisher). Two entries were left sector/industry_group/industry = null with justification rather than guessed: Исаев Андрей's \"ООО \\\"Сегмент\\\"\" (two differently-numbered companies with that name were found in Rostov-on-Don via registry search, neither confirmed as his -- one's timeline doesn't match, the other has a different listed director) and the generic non-organization descriptions \"Фондовый рынок / инвестиционный сектор\" (Примак) and \"Инвестиционные компании\" (Александров), which describe aggregate career experience rather than a single classifiable employer.\n\n3) qualification_degree added to every education[]/degrees[] entry across all 9 people, using only the ten allowed enum values or null. Medical/pedagogical/engineering/economics education completed under the Soviet or early-post-Soviet system (before the Bologna bachelor/master split reached Russia in the 2000s-2010s) was inferred as \"Specialist degree\" with the reasoning stated per-person in that person's notes field (career-start year implying pre-Bologna graduation, or explicit specialist-track qualification wording such as \"врач\", \"учитель истории\", \"экономист\"). Russian \"Кандидат наук\" degrees (economic, medical, chemical sciences) were mapped to \"Doctoral degree\" as the closest equivalent in the given enum (research doctorate below \"Доктор наук\" but internationally treated as PhD-equivalent). \"Доктор биологических наук\" (Киселев) mapped directly to \"Doctoral degree\". (Executive) MBA entries mapped to \"MBA\". Academic titles/ranks that are not degrees at all -- \"Доцент\" (Деев) and \"Профессор\" (Киселев) -- were left qualification_degree = null with an explicit note that no enum value represents an academic rank, rather than force-fitting one. Where no source gave enough detail to infer a level with reasonable confidence (Масюк's education, Мауэр's second institution, Богуславский's/Деев's degree institutions), qualification_degree/institution were left null per the \"prefer null over a guess\" rule.\n\n4) Institution normalization: every non-null \"institution\" string in education[]/degrees[] was matched against university_names.json and rewritten to its canonical form (Ростовский государственный медицинский институт -> Ростовский государственный медицинский университет; Мирбис -> Московская международная высшая школа бизнеса «МИРБИС»; Ростовский-на-Дону государственный университет / Государственный педагогический институт Ростова-на-Дону -> Южный федеральный университет; Военно-медицинская академия им. С. М. Кирова -> Военно-медицинская академия имени С.М. Кирова; Институт народного хозяйства / Ростовский институт народного хозяйства -> Ростовский государственный экономический университет (РИНХ); Институт управления, бизнеса и права, Ростов-на-Дону -> Институт управления, бизнеса и права (Ростов-на-Дону); Академия народного хозяйства при Правительстве РФ -> Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации; Московский инженерно-физический институт -> Национальный исследовательский ядерный университет «МИФИ»; Московский государственный университет, химический факультет -> Московский государственный университет имени М.В. Ломоносова). All institutions encountered for ABIO were already present in university_names.json -- new_institutions_found is empty for this ticker, no additions were made to that shared reference file (per instructions, only a later synthesis pass edits it).\n\n5) No previously-confirmed fact was deleted or overwritten; all round-2 additions are new fields (sector/industry_group/industry/qualification_degree) or spelling normalizations of institution strings to their already-established canonical form. Per-person notes fields and research_notes/ABIO/*_round_1.md files were preserved unchanged and supplemented with round-2 addenda.\n\nROUND 3 (2026-07-18, independent verification / gap-recheck pass, same-day follow-up session): Re-ran fresh, independent web searches (not reusing round-2 cached results) on the three highest-value remaining gaps to confirm round 2 did not close them prematurely: (1) Масюк С.В. education institution/specialty -- searched roscongress.org, artgen.ru, YouTube company-history video, and general web; no source discloses an alma mater; education[0].institution confirmed to remain null, qualification_degree confirmed to remain \"Unknown\" (see research_notes/ABIO/Масюк_Сергей_Владимирович_round_3.md). (2) Деев Р.В. h-index -- searched elibrary/РИНЦ-oriented queries; only journal/title-level aggregate pages are reachable via web search, no author-level numeric h-index surfaced; h_index confirmed to remain null. This round also surfaced mentions of a current СЗГМУ им. И.И. Мечникова affiliation for Деев, but consistent with the round-1/2 caution about not overriding the dated 2024 annual-report role (РязГМУ) with an undated \"current\" mention, no professional_experience entry was added or changed (see research_notes/ABIO/Деев_Роман_Вадимович_round_3.md). (3) Богуславский Д.Э. dissertation-defense institution -- searched dissertation-council directories and hub.sfedu.ru; no source names the specific council/university for the 2003 Кандидат экономических наук defense; degrees[0].institution confirmed to remain null rather than guessed at the plausible-but-unconfirmed Южный федеральный университет (see research_notes/ABIO/Богуславский_Дмитрий_Эдгардович_round_3.md). No field in this JSON file was changed as a result of round 3 -- this was a verification pass, not a new fill. Additionally, this round ran a full programmatic self-check of the round-2 output against the shared reference files: every qualification_degree value across all 9 people (ceo + 8 tmt) was confirmed to be one of the ten allowed enum values or null (no free text); every non-null sector/industry_group/industry triple at company level and across all professional_experience entries was confirmed to be an exact character-for-character row match against gics_taxonomy.json (no invented combinations); every non-null institution string in education[]/degrees[] was confirmed to already match a canonical key or listed alias in university_names.json, so no new institution needed to be logged for this ticker (new_institutions_found remains empty for ABIO, consistent with round 2). A diff against the pre-round-2 backup (backup_before_refinement_20260717_233715/output/ABIO_person_info.json) confirmed zero previously-recorded facts were removed or altered by round 2/3 beyond the intended additive fields (qualification_degree, sector/industry_group/industry) and the intended institution-string normalizations to canonical form. MASS DATA-LOSS REPAIR (2026-07-30): restored 6 shortened person notes, 1 shortened experience descriptions, 0 shortened education descriptions, 0 missing person-level sources, and 0 missing experience-level sources using git HEAD (commit 03bfe9f, 2026-07-20) as the reliable baseline. Nothing else in this file was touched.\n\nQUALITY-PASS ROUND 2 (2026-07-31, second quality-focused pass -- desync check + GICS correctness + bounded gap follow-up across all 9 people): Step 0 pre-check confirmed the on-disk file was byte-for-byte identical (modulo CRLF) to git HEAD (commit f973022) before any edits -- no regression to restore this time. Edits were made with the Edit tool directly against a freshly-read copy of this file, not via a standalone script; no temporary patch script was left in the repo.\n\n1) SIMPLE-OMISSION DESYNCS FOUND AND FIXED (6): round-2 (2026-07-18) research notes for five people explicitly documented an institution-name normalization against university_names.json, but the JSON on disk still held the pre-normalization alias string in six education[] fields -- this was a pure notes-vs-JSON desync with a single, already-decided, unambiguous canonical value each, so all six were corrected directly (source_url unchanged, no new research needed): Исаев Артур Александрович education[0] (\"Ростовский государственный медицинский институт / Ростовский государственный медицинский университет\" -> \"Ростовский государственный медицинский университет\"); Богуславский Дмитрий Эдгардович education[0] (\"Ростовский-на-Дону государственный университет\" -> \"Южный федеральный университет\"); Исаев Андрей Александрович education[0] (\"Государственный педагогический институт Ростова-на-Дону\" -> \"Южный федеральный университет\"); Мауэр Константин Николаевич education[0] (\"Институт народного хозяйства\" -> \"Ростовский государственный экономический университет (РИНХ)\") and education[1] (\"Институт управления, бизнеса и права, Ростов-на-Дону\" -> \"Институт управления, бизнеса и права (Ростов-на-Дону)\"); Примак Алексей Евгеньевич education[0] (\"Ростовский институт народного хозяйства\" -> \"Ростовский государственный экономический университет (РИНХ)\"). A programmatic recheck after all edits confirms every non-null institution string in education[]/degrees[] across all 9 people now matches a canonical key in university_names.json exactly (no remaining aliases).\n\n2) GENUINE INCONSISTENCIES INVESTIGATED: (a) Киселев С.Л., Доктор биологических наук defense year -- prior round left null after finding ru.wikipedia.org (2000) vs endocrincentr.ru (2001) conflicting with neither source authoritative. This round found and independently re-fetched a materially different source type, a dissertation-catalog record (mydisser.com, RSL deposit ref \"РГБ ОД, 71 01-3/152-0\") giving \"Москва, 2000\" for the identical dissertation title -- a library/archival catalog citation outranks an unsourced secondary bio page, so year was set to 2000, endocrincentr.ru's 2001 explicitly rejected as the weaker source, and the reasoning documented in Киселев's notes; degrees[0].institution still not named by any source and remains null. (b) Александров Д.А. CSV-vs-2024-annual-report board-membership timing conflict -- previously investigated in rounds 1-2 with no resolution; this round found and directly-fetched a new primary corroborating source (alfacapital.ru GOSA disclosure, dated \"11 июня 2025 г.\", listing him among elected board members) which CONFIRMS rather than overturns the existing conclusion (his board seat is real but dated 2025, so the 2024 report's exclusion of him remains correct) -- no field changed, one new source added. (c) Исаев Андрей А. 2017-vs-2012/2013 board-election-date conflict -- already investigated with additional research in the 2026-07-29 quality-pass round and left explicitly unresolved (start_year=2017 kept as the more conservative value); not re-investigated this round to preserve time budget, per the bounded-effort instruction, since it already received a dedicated additional-research pass.\n\n3) GICS LABEL CORRECTNESS: audited every non-null sector/industry_group/industry triple across all 9 people (ceo + 8 tmt) against the organizations' real primary businesses, specifically checking for the anti-patterns called out in the task brief (government/ministry bodies mislabeled as commercial; insurers mislabeled as Consumer Finance; coal producers mislabeled as Metals & Mining instead of Energy; quarries mislabeled as Metals & Mining instead of Construction Materials). No instance of these anti-patterns exists in this ticker's data, and no previously-assigned GICS label was found to be wrong -- all existing triples remain unchanged. A programmatic check also confirms every non-null triple, including the one newly filled this round, is an exact character-for-character row match against gics_taxonomy.json (no invented combinations).\n\n4) HONEST-GAP FOLLOW-UPS (bounded, one attempt each): RESOLVED WITH NEW SOURCE -- Исаев Андрей А., professional_experience \"ООО \\\"Сегмент\\\"\" GICS (previously null, explicitly flagged in the 2026-07-29 round as \"retry once search budget available\"): fresh WebFetch-based registry lookup (WebSearch tool itself was exhausted this session) found and verbatim-confirmed (two independent fetches) that ИНН/ОГРН 1026104153041 lists him as ликвидатор with OKVED 46.69.9 (wholesale trade of industrial machinery/equipment) and a liquidation date closely matching his reported tenure end (31.10.2021 vs actual 13.10.2021) -- filled as Industrials | Capital Goods | Trading Companies & Distributors. Александров Д.А., degrees[0] (Кандидат химических наук) institution+year (previously both null): ISTINA (MSU's own dissertation-council system) gives a verbatim, directly-fetched match on title/specialty/advisor, confirming defense at МГУ имени М.В. Ломоносова, Химический факультет, dissertation council Д 501.001.41, in 2006 -- both fields filled, source_url updated to this more specific record. Исаев Артур А., h_index (previously null): medvestnik.ru directory profile, independently identity-confirmed, states verbatim \"Соавтор более 100 научных статей. Н-индекс — 16 (Google Scholar)\" -- filled as 16. STILL UNRESOLVED (fresh queries tried, logged in each person's notes, no repeat of exhausted angles): Масюк С.В. education institution -- 5th cumulative attempt, this round targeting LinkedIn/patent-filing/business-media source classes specifically recommended by the prior round, found nothing new. Богуславский Д.Э. degrees[0].institution -- 4th cumulative attempt, this round querying GPNTB Russia's catalog (a source class not tried in rounds 1-3), confirmed city/year but not the defending institution; an intermediate claim that this source named \"Rostov State University\" was checked against a direct re-fetch and found unsupported, so it was discarded rather than used. Деев Р.В. degrees[1] (Доцент) institution/year -- a search-snippet claim that the already-cited rzgmu.ru URL names РязГМУ as the conferring institution could not be verified on direct re-fetch of that same URL and was discarded; also re-checked h_index, found only a biomats.ru citation-count claim (already-rejected weak source in round 1), no numeric h-index. Мауэр К.Н. education[1].qualification_degree -- a zinref.ru snippet claim (\"юрист\", 2002-2005) could not be verified on direct re-fetch (blank page) and carries unrelated-registry namesake risk, so it was discarded rather than used. Киселев С.Л. h_index -- re-checked, no numeric value found, consistent with rounds 1-2. Only fields explicitly flagged in prior rounds as investigated-and-failed (\"insufficient reliable source\") were targeted this round, consistent with the bounded, one-attempt-per-gap scope of a whole-corpus single-night pass; several never-specifically-targeted education[].year nulls (where the primary source simply never states a graduation year) were left untouched as lower-priority and not previously flagged as an actively-investigated gap.\n\n5) SELF-CHECK: every fact added this round traces to a source fetched and quoted verbatim during this session (istina.msu.ru, mydisser.com, medvestnik.ru, checko.ru/company OGRN match, alfacapital.ru) -- no quote or fact was reconstructed from a paraphrase without independent direct-fetch verification (several intermediate search-summary claims that could not be independently verified on direct re-fetch -- Богуславский's GPNTB \"Rostov State University\" claim, Деев's rzgmu.ru Доцент claim, Мауэр's zinref.ru юрист claim -- were explicitly discarded rather than written into the JSON). A byte-level and field-level diff against git HEAD (commit f973022) confirms zero notes/description/details/source entries were shortened or removed by this round; the file only grew (95,037 -> 107,887 bytes before/after, CRLF-normalized), consistent with additive-only editing.",
+  "sector": "Health Care",
+  "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+  "industry": "Biotechnology"
+}

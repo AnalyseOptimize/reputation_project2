@@ -1,0 +1,1359 @@
+{
+    "company_name":  "ПАО \"СПБ Биржа\"",
+    "company_ticker":  "SPBE",
+    "ceo":  {
+                "name":  "Evgeny Serdyukov",
+                "current_role":  "Генеральный директор ПАО \"СПБ Биржа\" в контексте 2024 года; в исходных строках CSV отсутствует",
+                "company_name":  "ПАО \"СПБ Биржа\"",
+                "education":  [
+
+                              ],
+                "degrees":  [
+
+                            ],
+                "professional_experience":  [
+                                                {
+                                                    "organization":  "ПАО \"СПБ Биржа\"",
+                                                    "role":  "Генеральный директор",
+                                                    "start_year":  2023,
+                                                    "end_year":  null,
+                                                    "description":  "Открытое интервью РБК от 14.05.2024 идентифицирует Евгения Сердюкова как генерального директора СПБ Биржи; TAdviser указывает, что 07.11.2023 СПБ Биржа сообщила о его назначении вместо Романа Горюнова.",
+                                                    "sector":  "Financials",
+                                                    "industry_group":  "Financial Services (New Name)",
+                                                    "industry":  "Capital Markets"
+                                                },
+                                                {
+                                                    "organization":  "ПАО \"СПБ Биржа\"",
+                                                    "role":  "первый заместитель генерального директора / член правления",
+                                                    "start_year":  2021,
+                                                    "end_year":  2023,
+                                                    "description":  "TAdviser указывает, что в 2021 году при назначении Романа Горюнова Евгений Сердюков остался в правлении и на позиции первого заместителя главы, отвечая за развитие биржевых рынков.",
+                                                    "sector":  "Financials",
+                                                    "industry_group":  "Financial Services (New Name)",
+                                                    "industry":  "Capital Markets"
+                                                }
+                                            ],
+                "research_experience":  [
+
+                                        ],
+                "publications":  [
+
+                                 ],
+                "patents":  [
+
+                            ],
+                "h_index":  null,
+                "sources":  [
+                                {
+                                    "url":  "https://www.rbc.ru/quote/news/article/6642237b9a794752ac07d960",
+                                    "title":  "РБК Инвестиции: Глава СПБ Биржи - РБК",
+                                    "fact":  "14.05.2024: статья и подпись к фото идентифицируют Евгения Сердюкова как генерального директора СПБ Биржи; в интервью обсуждается уход Романа Горюнова."
+                                },
+                                {
+                                    "url":  "https://www.tadviser.ru/index.php/Компания:СПБ_Биржа_(ранее_Санкт-Петербургская_биржа)",
+                                    "title":  "TAdviser: СПБ Биржа",
+                                    "fact":  "Раздел о назначении гендиректором сообщает, что 07.11.2023 СПБ Биржа назначила Евгения Сердюкова генеральным директором вместо Романа Горюнова."
+                                }
+                            ],
+                "notes":  "CEO добавлен вне CSV только для корректного 2024-контекста. Образование Сердюкова в рамках этого задания не подтверждено, поэтому поля образования и степеней оставлены пустыми."
+            },
+    "tmt":  [
+                {
+                    "name":  "Roman Yuryevich Goryunov",
+                    "current_role":  "CSV roles: Chief Executive Officer; Chairman. 2024 validation: role as CEO/board chairman is not treated as current because sources indicate transition to Evgeny Serdyukov in November 2023.",
+                    "company_name":  "ПАО \"СПБ Биржа\"",
+                    "education":  [
+                                      {
+                                          "institution":  "St. Petersburg State Technical University",
+                                          "year":  1997,
+                                          "field":  null,
+                                          "qualification":  "undergraduate degree",
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "RTS Stock Exchange OJSC",
+                                                        "role":  "founder; First Deputy CEO / Senior Managing Director",
+                                                        "start_year":  2001,
+                                                        "end_year":  2011,
+                                                        "description":  "MarketScreener states he founded RTS Stock Exchange OJSC and held First Deputy CEO / Senior Managing Director roles in 2011.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "Moscow Exchange MICEX-RTS PJSC",
+                                                        "role":  "First Deputy Chairman of the Management Board",
+                                                        "start_year":  2011,
+                                                        "end_year":  2012,
+                                                        "description":  "MarketScreener lists this as a former role.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"СПБ Биржа\"",
+                                                        "role":  "генеральный директор / председатель правления; board/chairman roles per CSV and MarketScreener",
+                                                        "start_year":  2012,
+                                                        "end_year":  2023,
+                                                        "description":  "MarketScreener links him to SPB Exchange leadership; RBC and TAdviser indicate the CEO role ended when Evgeny Serdyukov was appointed in November 2023.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "Ассоциация \"НП РТС\"",
+                                                        "role":  "президент / Chief Executive Officer",
+                                                        "start_year":  2010,
+                                                        "end_year":  null,
+                                                        "description":  "MarketScreener and conference materials identify him with NP RTS leadership.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "Rows 498 and 503 list Roman Yuryevich Goryunov as Chief Executive Officer and Chairman for SPBE."
+                                    },
+                                    {
+                                        "url":  "https://www.marketscreener.com/insider/ROMAN-YURYEVICH-GORYUNOV-A17GUH/",
+                                        "title":  "MarketScreener: Roman Yuryevich Goryunov",
+                                        "fact":  "Profile gives SPB Exchange/RTS/Moscow Exchange roles and undergraduate degree from St. Petersburg State Technical University in 1997."
+                                    },
+                                    {
+                                        "url":  "https://www.rbc.ru/quote/news/article/6642237b9a794752ac07d960",
+                                        "title":  "РБК Инвестиции: интервью Евгения Сердюкова",
+                                        "fact":  "Interview identifies Serdyukov as CEO in May 2024 and discusses Goryunov\u0027s departure."
+                                    }
+                                ],
+                    "notes":  "CSV and MarketScreener are stale for 2024 CEO status. No confirmed publications, patents, research posts, or h-index for this target person were found. Quality-pass round (2026-08-01): filled the previously-null GICS on the SPB Exchange CEO/board-role entry (same company as this file's top-level sector fields); RTS Stock Exchange and Moscow Exchange entries already had correct Capital Markets labels."
+                },
+                {
+                    "name":  "Pavel Krupnov",
+                    "current_role":  "CSV role: Director of Finance/CFO; 2024 role independently confirmed only by MarketScreener-style secondary governance data",
+                    "company_name":  "ПАО \"СПБ Биржа\"",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"СПБ Биржа\"",
+                                                        "role":  "Director of Finance/CFO",
+                                                        "start_year":  2019,
+                                                        "end_year":  null,
+                                                        "description":  "CSV and MarketScreener list him as Director of Finance/CFO from 31.12.2019.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "CFG Capital OOO",
+                                                        "role":  "Founder",
+                                                        "start_year":  2012,
+                                                        "end_year":  null,
+                                                        "description":  "MarketScreener lists CFG Capital OOO as an active founder role.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "RUSGRAIN HOLDING",
+                                                        "role":  "Director of Finance/CFO",
+                                                        "start_year":  null,
+                                                        "end_year":  2015,
+                                                        "description":  "MarketScreener lists this former CFO role ending in 2014/2015 context.",
+                                                        "sector":  "Consumer Staples",
+                                                        "industry_group":  "Food, Beverage & Tobacco",
+                                                        "industry":  "Food Products"
+                                                    },
+                                                    {
+                                                        "organization":  "NITOL Group LLC",
+                                                        "role":  "Public communications contact",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "MarketScreener links him to NITOL Group LLC.",
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Chemicals"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "Row 499 lists Pavel Krupnov as Director of Finance/CFO for SPBE."
+                                    },
+                                    {
+                                        "url":  "https://www.marketscreener.com/insider/PAVEL-KRUPNOV-A0IFY2/",
+                                        "title":  "MarketScreener: Pavel Krupnov",
+                                        "fact":  "Profile lists SPB Exchange CFO role, CFG Capital founder role, Rusgrain CFO role, and NITOL connection."
+                                    }
+                                ],
+                    "notes":  "Round 1: education was not confirmed. Namesake results included a Волгоград public official and a Belarus/LinkedIn profile; they were rejected because they do not connect to SPB Exchange finance leadership. Quality-pass round (2026-08-01): GICS gap-fills -- CFG Capital OOO confirmed via a directly-fetched description as a capital-markets/investment-banking firm (Capital Markets label was already correct, kept); RUSGRAIN HOLDING confirmed as a vertically-integrated grain/poultry/dairy agro-industrial holding, classified Food Products (closest available taxonomy row; no separate Agricultural Products category exists in gics_taxonomy.json); NITOL Group LLC confirmed as a chlor-alkali chemicals and solar-grade polysilicon producer (Nitol Solar), classified Chemicals; filled the previously-null SPB Exchange CFO entry's GICS (same company as this file's top-level sector fields). HONEST-GAP FOLLOW-UP: fresh queries ('Павел Крупнов Финансовый директор СПБ Биржа образование') found no education source, but did surface a search-engine snippet of an official SPB Exchange board-resolution PDF (Protocol No. 19/2021) naming 'Крупнов Павел Борисович' alongside CEO Evgeny Serdyukov -- this patronymic lead could NOT be independently verified (direct PDF fetch succeeded but the document is image-based with no extractable text layer, so the exact wording could not be confirmed against raw content actually read this round) and was therefore NOT added to the 'name' field; flagging it here as an unconfirmed lead for a future pass rather than fabricating certainty. Education remains unconfirmed."
+                },
+                {
+                    "name":  "Sergei Kalinin",
+                    "current_role":  "CSV role: Chief Operating Officer; MarketScreener profile: Head-Operations at SPB Exchange and COO at NP RTS",
+                    "company_name":  "ПАО \"СПБ Биржа\"",
+                    "education":  [
+                                      {
+                                          "institution":  "St. Petersburg State Technical University",
+                                          "year":  1996,
+                                          "field":  null,
+                                          "qualification":  "graduated",
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"СПБ Биржа\"",
+                                                        "role":  "Head-Operations / Chief Operating Officer",
+                                                        "start_year":  2012,
+                                                        "end_year":  null,
+                                                        "description":  "MarketScreener states he has been Head-Operations at SPB Exchange since 2012 and lists COO from 2021.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "NP RTS Association",
+                                                        "role":  "Chief Operations Officer",
+                                                        "start_year":  2018,
+                                                        "end_year":  null,
+                                                        "description":  "MarketScreener lists him as COO at NP RTS Association since 2018.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Moscow Exchange MICEX-RTS PJSC",
+                                                        "role":  "Director-Organization \u0026 Development",
+                                                        "start_year":  2007,
+                                                        "end_year":  2012,
+                                                        "description":  "MarketScreener lists this as a former role.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "Row 500 lists Sergei Kalinin as Chief Operating Officer for SPBE."
+                                    },
+                                    {
+                                        "url":  "https://www.marketscreener.com/insider/SERGEI-KALININ-A3DD9C/",
+                                        "title":  "MarketScreener: Sergei Kalinin",
+                                        "fact":  "Profile gives SPB Exchange, NP RTS, Moscow Exchange experience and St. Petersburg State Technical University graduation in 1996."
+                                    }
+                                ],
+                    "notes":  "Common-name risk was checked through company/role anchoring. No scientific record was confirmed. Quality-pass round (2026-08-01): filled the previously-null SPB Exchange COO entry's GICS (same company as this file's top-level sector fields); Moscow Exchange entry already had a correct Capital Markets label; NP RTS Association correctly stays null (nonprofit trade association)."
+                },
+                {
+                    "name":  "Mikhail Ivanov",
+                    "current_role":  "CSV role: Sales \u0026 Marketing; MarketScreener profile: Head of Marketing \u0026 Communication Department / Public Communications Contact",
+                    "company_name":  "ПАО \"СПБ Биржа\"",
+                    "education":  [
+                                      {
+                                          "institution":  "International Market Institute",
+                                          "year":  2002,
+                                          "field":  null,
+                                          "qualification":  "undergraduate degree",
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"СПБ Биржа\"",
+                                                        "role":  "Head of Marketing \u0026 Communication Department / Public Communications Contact",
+                                                        "start_year":  2019,
+                                                        "end_year":  null,
+                                                        "description":  "MarketScreener states he has headed marketing and communications at SPB Exchange since 2019.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "RTS Stock Exchange OJSC",
+                                                        "role":  "Vice President",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "MarketScreener lists this as prior experience.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "Row 501 lists Mikhail Ivanov as Sales \u0026 Marketing for SPBE."
+                                    },
+                                    {
+                                        "url":  "https://www.marketscreener.com/insider/MIKHAIL-IVANOV-A3DD92/",
+                                        "title":  "MarketScreener: Mikhail Ivanov",
+                                        "fact":  "Profile gives SPB Exchange marketing/communications role, prior RTS vice president role, and International Market Institute undergraduate degree in 2002."
+                                    }
+                                ],
+                    "notes":  "Round 1: name is highly ambiguous; only sources tying Mikhail Ivanov to SPB Exchange/RTS were used. Quality-pass round (2026-08-01): filled the previously-null SPB Exchange marketing-role GICS (same company as this file's top-level sector fields). HONEST-GAP FOLLOW-UP: ran fresh queries for his patronymic and field of study; all results were unrelated namesakes (Facebook/Instagram/VKontakte marketing-director profiles, a Bulgarian politician, historical references) with no link to SPB Exchange/RTS, so no genuine new information was found and patronymic/field remain unconfirmed."
+                },
+                {
+                    "name":  "Alexander Tarabtsev",
+                    "current_role":  "CSV role: Treasurer; MarketScreener profile: Head of Fixed Income, Repo \u0026 Treasury",
+                    "company_name":  "ПАО \"СПБ Биржа\"",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "degree":  "doctorate degree",
+                                        "institution":  "St. Petersburg State Technical University",
+                                        "year":  null,
+                                        "field":  null,
+                                        "qualification_degree":  "Doctoral degree"
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"СПБ Биржа\"",
+                                                        "role":  "Head of Fixed Income, Repo \u0026 Treasury / Treasurer",
+                                                        "start_year":  2021,
+                                                        "end_year":  null,
+                                                        "description":  "MarketScreener states he has been Head of Fixed Income, Repo \u0026 Treasury at SPB Exchange since 2021 and lists Treasurer from 2020.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "NP RTS Association",
+                                                        "role":  "Director of Finance/CFO",
+                                                        "start_year":  2019,
+                                                        "end_year":  2020,
+                                                        "description":  "MarketScreener lists a former CFO role at NP RTS Association from 2019 to 2020.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "Row 502 lists Alexander Tarabtsev as Treasurer for SPBE."
+                                    },
+                                    {
+                                        "url":  "https://www.marketscreener.com/insider/ALEXANDER-TARABTSEV-A3DDBG/",
+                                        "title":  "MarketScreener: Alexander Tarabtsev",
+                                        "fact":  "Profile gives SPB Exchange treasury role, prior NP RTS CFO role, and a doctorate degree from St. Petersburg State Technical University."
+                                    }
+                                ],
+                    "notes":  "The source says \u0027doctorate degree\u0027 but does not specify Russian degree title, field, or year; it was not converted into candidate/doctor of sciences. Quality-pass round (2026-08-01): SIMPLE OMISSION fix -- 'doctorate degree' maps directly to the corpus enum value 'Doctoral degree' regardless of country/field (matches how 'PhD', 'Law Doctorate', and Russian 'кандидат'/'доктор наук' wordings are already mapped elsewhere in this corpus), so qualification_degree was set without any new research. Also filled the previously-null SPB Exchange treasury-role GICS (same company as this file's top-level sector fields); NP RTS Association correctly stays null (nonprofit trade association)."
+                },
+                {
+                    "name":  "Sergey Mikhaylovich Rybakov",
+                    "current_role":  "CSV role: Director/Board Member; MarketScreener: independent director since 2018; Letopis biography confirms he was still an SPB Exchange board member in 2021 and a Moscow Exchange Stock Market Committee member 2020-2022, but no source confirms a specific 2024 board seat, so 2024 current status remains caveated because issuer governance changed in January 2024",
+                    "company_name":  "ПАО \"СПБ Биржа\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Bauman Moscow State Technical University",
+                                          "year":  1995,
+                                          "field":  "Tracked and Wheeled Vehicles (Гусеничные и колёсные машины)",
+                                          "qualification":  "design engineer (инженер-разработчик)",
+                                          "qualification_degree":  "Specialist degree"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"СПБ Биржа\"",
+                                                        "role":  "Independent Director / Director/Board Member",
+                                                        "start_year":  2018,
+                                                        "end_year":  null,
+                                                        "description":  "MarketScreener lists him as an independent director since 2018; 2024 status is caveated due to the January 2024 governance change. Letopis biography independently confirms board membership from 2018 and continuing in 2021.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "Investment Co. ATON",
+                                                        "role":  "Sales manager; head of exchange operations; director of exchange department; first deputy general director",
+                                                        "start_year":  2000,
+                                                        "end_year":  2020,
+                                                        "description":  "Letopis biography states he joined ATON as a sales manager in July 2000, became head of exchange operations and then director of the exchange department from 2001, and was first deputy general director from 2006 until moving to Alfa-Bank.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "Alfa-Bank",
+                                                        "role":  "Director of securities operations, Corporate Investment Banking division; later head of brokerage products",
+                                                        "start_year":  2020,
+                                                        "end_year":  2022,
+                                                        "description":  "Letopis biography states he directed securities operations in the Corporate Investment Banking division at Alfa-Bank until 2020, then headed brokerage products from 2020 to 2022.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    },
+                                                    {
+                                                        "organization":  "A-Investments (GO Invest broker)",
+                                                        "role":  "Co-founder",
+                                                        "start_year":  2022,
+                                                        "end_year":  null,
+                                                        "description":  "Letopis biography states he co-founded the \"A-Investments\" brokerage (GO Invest) in 2022.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "Row 504 lists Sergey Mikhaylovich Rybakov as Director/Board Member for SPBE."
+                                    },
+                                    {
+                                        "url":  "https://www.marketscreener.com/insider/SERGEY-MIKHAYLOVICH-RYBAKOV-A2R12R/",
+                                        "title":  "MarketScreener: Sergey Mikhaylovich Rybakov",
+                                        "fact":  "Profile lists independent director role at SPB Exchange since 2018 and Bauman Moscow State Technical University undergraduate degree in 1995."
+                                    },
+                                    {
+                                        "url":  "https://wiki.letopis.ru/index.php?title=Рыбаков_Сергей_Михайлович",
+                                        "title":  "Letopis: Рыбаков Сергей Михайлович",
+                                        "fact":  "Quality-pass round (2026-08-01) fetched this biography directly: confirms 1995 Bauman graduation in specialty 'Гусеничные и колёсные машины' (qualification 'инженер-разработчик'); gives full ATON career (2000 sales manager, 2001 head/director of exchange operations, 2006 first deputy general director), Alfa-Bank roles to 2022, 2022 co-founding of A-Investments/GO Invest, SPB Exchange board membership from 2018 continuing in 2021, and Moscow Exchange Stock Market Committee membership 2020-2022."
+                                    }
+                                ],
+                    "notes":  "No separate official 2024 biography was found; 2024-specific board seat remains unconfirmed. Quality-pass round (2026-08-01): bounded gap-research on 'field of study'/'official biography' found and directly verified a Letopis biography page giving field of study, qualification, and a much fuller career (ATON, Alfa-Bank, A-Investments/GO Invest) plus board tenure continuing into 2021 and a Moscow Exchange committee seat 2020-2022; added qualification_degree='Specialist degree' for the 1995 Bauman diploma per corpus convention for Soviet/Russian 5-year 'инженер' qualifications. This narrows but does not close the 2024-currency gap: the source is silent on 2023/2024, so the current_role caveat is kept."
+                },
+                {
+                    "name":  "Oleg Vladimirovich Mikhasenko",
+                    "current_role":  "CSV role: Director/Board Member; 2024 current board status uncertain because issuer governance changed in January 2024",
+                    "company_name":  "ПАО \"СПБ Биржа\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Irkutsk National Research Technical University",
+                                          "year":  1984,
+                                          "field":  "Mining Engineering",
+                                          "qualification":  "mining engineer (горный инженер)",
+                                          "qualification_degree":  "Specialist degree"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"СПБ Биржа\"",
+                                                        "role":  "Director/Board Member",
+                                                        "start_year":  2019,
+                                                        "end_year":  null,
+                                                        "description":  "CSV and MarketScreener list him as SPB Exchange director from 2019; current 2024 status is caveated.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "BCS Bank JSC",
+                                                        "role":  "Chairman",
+                                                        "start_year":  2011,
+                                                        "end_year":  null,
+                                                        "description":  "MarketScreener lists him as Chairman at BCS Bank JSC from 2010/2011.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "Row 505 lists Oleg Vladimirovich Mikhasenko as Director/Board Member for SPBE."
+                                    },
+                                    {
+                                        "url":  "https://www.marketscreener.com/insider/OLEG-VLADIMIROVICH-MIKHASENKO-A2R13P/",
+                                        "title":  "MarketScreener: Oleg Vladimirovich Mikhasenko",
+                                        "fact":  "Profile lists SPB Exchange director role from 2019 and BCS Bank chairman role from 2010/2011."
+                                    },
+                                    {
+                                        "url":  "https://www.kommersant.ru/doc/1041456",
+                                        "title":  "Коммерсантъ: Михасенко Олег Владимирович",
+                                        "fact":  "Quality-pass round (2026-08-01) fetched this page directly and confirms verbatim: 'В 1984 году окончил Иркутский политехнический институт по специальности \"горный инженер\"' (graduated Irkutsk Polytechnic Institute in 1984, specialty mining engineer); cross-checked against independent Vedomosti, Roscongress, and t-j.ru biography snippets giving the same institution/year, all naming him president/chairman of BKS Financial Group."
+                                    }
+                                ],
+                    "notes":  "Education was not confirmed from accessible sources in round 1. Quality-pass round (2026-08-01): bounded gap-research (fresh queries on his BCS/education background) directly fetched Kommersant's biography page and confirmed 1984 graduation from Irkutsk Polytechnic Institute (modern name: Irkutsk National Research Technical University, per university_names.json) with a 'горный инженер' (mining engineer) qualification; this matches the majority wording across independent sources (Kommersant, Vedomosti, Roscongress, t-j.ru), though two sources (Letopis, TAdviser) give a more specific specialization 'Обогащение полезных ископаемых' (mineral processing) with qualification 'горный инженер-обогатитель' -- kept the majority-sourced, directly-verified 'Mining Engineering' / 'mining engineer' wording rather than the minority variant. qualification_degree set to 'Specialist degree' per corpus convention for Soviet-era 5-year 'инженер' qualifications."
+                },
+                {
+                    "name":  "Aleksey Dmitriyevich Skorodumov",
+                    "current_role":  "CSV role: Director/Board Member; MarketScreener company page did not list him, but an independently-fetched Letopis biography confirms SPB Exchange board membership from 2019; no source specifically confirms a 2024 seat, so 2024 currency stays caveated",
+                    "company_name":  "ПАО \"СПБ Биржа\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Lomonosov Moscow State University",
+                                          "year":  1996,
+                                          "field":  "Mechanics and Mathematics",
+                                          "qualification":  "graduated, mechanics and mathematics faculty",
+                                          "qualification_degree":  "Specialist degree"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"СПБ Биржа\"",
+                                                        "role":  "Director/Board Member",
+                                                        "start_year":  2019,
+                                                        "end_year":  null,
+                                                        "description":  "The role comes from the CSV input; MarketScreener company page opened in round 1 did not list him in the visible board composition, creating an apparent conflict. Quality-pass round (2026-08-01) resolved this: an independently-fetched Letopis biography confirms 'С 2019 -- член совета директоров ПАО \\\"Санкт-Петербургская биржа\\\"' (board member of SPB Exchange since 2019), corroborating the CSV over the MarketScreener omission.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "AKB \"Derzhava\" PJSC",
+                                                        "role":  "Treasury head (2008-2011); Chairman of the board (from 2016)",
+                                                        "start_year":  2008,
+                                                        "end_year":  null,
+                                                        "description":  "Letopis biography states he was treasury head at AKB \"Derzhava\" 2008-2011 and has chaired its board since 2016; audit-it.ru corporate registry independently confirms he has held signing authority at this bank since 23 March 2016.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    },
+                                                    {
+                                                        "organization":  "Ассоциация \"НП РТС\"",
+                                                        "role":  "Board member",
+                                                        "start_year":  2017,
+                                                        "end_year":  null,
+                                                        "description":  "Letopis biography lists board membership at the NP RTS Association since 2017.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Moscow International Currency Association (ММВА)",
+                                                        "role":  "Board member",
+                                                        "start_year":  2019,
+                                                        "end_year":  null,
+                                                        "description":  "Letopis biography lists board membership at the Moscow International Currency Association since 2019.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "Row 506 lists Aleksey Dmitriyevich Skorodumov as Director/Board Member for SPBE."
+                                    },
+                                    {
+                                        "url":  "https://www.marketscreener.com/quote/stock/SPB-EXCHANGE-129457866/company/",
+                                        "title":  "MarketScreener: SPB Exchange company profile",
+                                        "fact":  "Opened visible board composition did not include Aleksey Skorodumov, creating a conflict with the CSV input, which round 1 left unresolved."
+                                    },
+                                    {
+                                        "url":  "https://wiki.letopis.ru/index.php?title=Скородумов_Алексей_Дмитриевич",
+                                        "title":  "Letopis: Скородумов Алексей Дмитриевич",
+                                        "fact":  "Quality-pass round (2026-08-01) fetched this biography directly (verbatim): graduated 1996 from the mechanics-mathematics faculty of Moscow State University; completed CFA Institute certification in 2004 ('дипломированный финансовый аналитик'); treasury head at AKB Derzhava 2008-2011, chairman of its board from 2016; board member of SPB Exchange since 2019, of NP RTS Association since 2017, and of ММВА since 2019."
+                                    },
+                                    {
+                                        "url":  "https://www.audit-it.ru/contragent/fl/772804295739_skorodumov-aleksei-dmitrievich",
+                                        "title":  "Audit-it: Скородумов Алексей Дмитриевич (corporate registry)",
+                                        "fact":  "Independently confirms he has been the signing officer of AKB \"ДЕРЖАВА\" ПАО since 23 March 2016, corroborating the Letopis chairmanship date."
+                                    }
+                                ],
+                    "notes":  "Round 1 left a genuine, explicitly-flagged conflict unresolved: CSV listed him as an SPB Exchange director, but the MarketScreener company page did not show him on the board, and no education/career source was found. Quality-pass round (2026-08-01) treated this as a GENUINE INCONSISTENCY requiring further research (not a simple pick-a-side): fetched an independent Letopis biography plus an audit-it.ru corporate-registry record. Both directly confirm he is a real, identifiable finance professional (treasury head then chairman of AKB \"Derzhava\" bank) and that Letopis explicitly states SPB Exchange board membership from 2019 -- resolving the conflict in favor of the CSV, with the MarketScreener omission treated as incomplete/stale coverage (consistent with MarketScreener board rosters already being shown as stale elsewhere in this file for the 2024 CEO transition). Education, career, and other board seats (NP RTS, ММВА) were previously fully unconfirmed and are now added with a direct citation. No source specifically names him on a 2024-dated board list, so the current_role field keeps a narrower 2024-currency caveat rather than declaring 2024 status fully confirmed."
+                },
+                {
+                    "name":  "Ivan Alexandrovich Tyryshkin",
+                    "current_role":  "CSV role: Director/Board Member. Quality-pass round (2026-08-01): TAdviser and Letopis (fetched directly) confirm he was chairman of the SPB Exchange board only from 16.03.2022 to 29.06.2022, and left the board on that date -- i.e. he was NOT an SPB Exchange director/chairman by 2024, so the CSV's 2024 listing appears stale rather than merely 'uncertain'.",
+                    "company_name":  "ПАО \"СПБ Биржа\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Plekhanov Russian University of Economics",
+                                          "year":  1995,
+                                          "field":  null,
+                                          "qualification":  null,
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"СПБ Биржа\"",
+                                                        "role":  "Director/Board Member (2019-2022); Chairman of the Board of Directors (16.03.2022-29.06.2022)",
+                                                        "start_year":  2019,
+                                                        "end_year":  2022,
+                                                        "description":  "CSV and MarketScreener list him as SPB Exchange director from 2019. Quality-pass round (2026-08-01) fetched Letopis directly, which states verbatim '16 марта 2022 -- 29 июня 2022 -- председатель совета директоров СПБ Биржи' (chairman of the SPB Exchange board 16.03.2022-29.06.2022); a TAdviser search snippet corroborates that he left the board on 29.06.2022. This resolves the prior 2024-currency ambiguity: he was not a board member by 2024.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "ATON Investment Co.",
+                                                        "role":  "Chief Executive Officer",
+                                                        "start_year":  null,
+                                                        "end_year":  2008,
+                                                        "description":  "MarketScreener lists a former CEO role ending in 2007/2008 context.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "United Financial Group CJSC",
+                                                        "role":  "Corporate Officer/Principal",
+                                                        "start_year":  null,
+                                                        "end_year":  2006,
+                                                        "description":  "MarketScreener lists this as former experience. Quality-pass round (2026-08-01) confirmed via a directly-fetched summary that UFG was founded in 1994 as an independent Moscow investment bank (advisory, equities, fixed income, derivatives), later combined with asset management and private equity.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "RTS Stock Exchange OJSC",
+                                                        "role":  "Director/Board Member",
+                                                        "start_year":  null,
+                                                        "end_year":  2011,
+                                                        "description":  "MarketScreener lists former RTS board experience.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "NP RTS Association / NAUFOR",
+                                                        "role":  "Director/Board Member",
+                                                        "start_year":  2004,
+                                                        "end_year":  null,
+                                                        "description":  "MarketScreener lists active roles in NP RTS and the Russian National Association of Securities Market Participants.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "Row 507 lists Ivan Tyryshkin as Director/Board Member for SPBE."
+                                    },
+                                    {
+                                        "url":  "https://www.marketscreener.com/insider/IVAN-TYRYSHKIN-A0G2DF/",
+                                        "title":  "MarketScreener: Ivan Tyryshkin",
+                                        "fact":  "Profile gives SPB Exchange, ATON, UFG, RTS, NP RTS/NAUFOR roles and links education to Plekhanov Russian University of Economics."
+                                    },
+                                    {
+                                        "url":  "https://wiki.letopis.ru/index.php?title=Тырышкин_Иван_Александрович",
+                                        "title":  "Letopis: Тырышкин Иван Александрович",
+                                        "fact":  "Quality-pass round (2026-08-01) fetched this biography directly (verbatim): confirms 1995 Plekhanov graduation and states '16 марта 2022 -- 29 июня 2022 -- председатель совета директоров СПБ Биржи' (chairman of the SPB Exchange board from 16.03.2022 to 29.06.2022)."
+                                    },
+                                    {
+                                        "url":  "https://www.tadviser.ru/index.php/Персона:Тырышкин_Иван_Александрович",
+                                        "title":  "TAdviser: Тырышкин Иван Александрович",
+                                        "fact":  "Search snippet states 'с 29 июня 2022 г покинул совет директоров СПБ биржи. Пост председателя совета он занимал с 16 марта 2022 года' (left the SPB Exchange board on 29.06.2022; had held the chairman post since 16.03.2022), corroborating the Letopis dates."
+                                    },
+                                    {
+                                        "url":  "https://dic.academic.ru/dic.nsf/enc_biography/125511/Тырышкин",
+                                        "title":  "Academic biographical dictionary: Тырышкин Иван Александрович",
+                                        "fact":  "Confirms birth year 1973 and Plekhanov Russian Economic Academy graduation, corroborating the patronymic 'Alexandrovich' and the 1995 graduation year found via Letopis and other independent biography aggregators (Viperson, Biografija.ru, Gufo.me)."
+                                    }
+                                ],
+                    "notes":  "Round 1: Plekhanov source did not provide graduation year or qualification; patronymic was missing; no scientific profile was confirmed. Quality-pass round (2026-08-01) bounded gap-research (fresh queries on his Plekhanov graduation year/field) found and cross-verified via direct fetch: (1) full patronymic 'Alexandrovich', corroborated by 5+ independent biography sites; (2) graduation year 1995 (field of study still not stated anywhere found, so 'field' stays null); (3) a previously-unknown, well-sourced fact that materially changes the 2024-currency assessment -- he was chairman of the SPB Exchange board only from 16.03.2022 to 29.06.2022 and left the board on that date. This is treated as a resolved desync: the prior 'current 2024 status uncertain' framing undersold how stale the CSV listing actually is, so end_year was set to 2022 and current_role/description updated accordingly, with both a Letopis verbatim quote and an independent TAdviser snippet cited."
+                },
+                {
+                    "name":  "Jacques der Megredichyan",
+                    "current_role":  "CSV role: Chairman; 2024 current board status uncertain because issuer governance changed in January 2024",
+                    "company_name":  "ПАО \"СПБ Биржа\"",
+                    "education":  [
+                                      {
+                                          "institution":  "European Institute of Business",
+                                          "year":  1984,
+                                          "field":  null,
+                                          "qualification":  "graduated",
+                                          "qualification_degree":  "Unknown"
+                                      },
+                                      {
+                                          "institution":  "French Center for Financial Analysis",
+                                          "year":  1987,
+                                          "field":  "financial analysis",
+                                          "qualification":  "completed program",
+                                          "qualification_degree":  "Professional certification"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "RTS Stock Exchange OJSC",
+                                                        "role":  "Founder; Chairman",
+                                                        "start_year":  1995,
+                                                        "end_year":  null,
+                                                        "description":  "MarketScreener states he founded RTS Stock Exchange OJSC in 1995 and held chairman title.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "ПАО \"СПБ Биржа\"",
+                                                        "role":  "Chairman",
+                                                        "start_year":  2019,
+                                                        "end_year":  null,
+                                                        "description":  "CSV and MarketScreener list him as chairman from 2019; current 2024 status is caveated.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "Investment Co. ITinvest JSC",
+                                                        "role":  "chairman / director role",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "MarketScreener lists an active board/chairman role. Quality-pass round (2026-08-01) split this out of a bundled 3-company entry: ITinvest is a Russian brokerage/investment company (operates under the ITI Capital brand), so it is reclassified from the bundle's original 'Banks' label to Capital Markets.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "CentroCredit Bank JSC",
+                                                        "role":  "chairman / director role",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "MarketScreener lists an active board/chairman role. Quality-pass round (2026-08-01) confirmed CentroCredit is a licensed Russian commercial bank (General License No. 121), so the 'Banks' classification is kept for this specific entity (split out of the original 3-company bundle).",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    },
+                                                    {
+                                                        "organization":  "Troyka Dialog Investment Bank",
+                                                        "role":  "chairman / director role",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "MarketScreener lists an active board/chairman role. Quality-pass round (2026-08-01) confirmed Troyka Dialog was an investment bank/brokerage (equities, asset management, investment banking), so it is reclassified from the bundle's original 'Banks' label to Capital Markets.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "TCS Group Holding Plc",
+                                                        "role":  "independent director / supervisory board member",
+                                                        "start_year":  2011,
+                                                        "end_year":  2021,
+                                                        "description":  "MarketScreener lists a former TCS Group role. Quality-pass round (2026-08-01) split this out of a bundled 2-company entry and corrected the GICS label: TCS Group (Tinkoff/T-Bank) is primarily a consumer-finance digital bank (one of Russia's largest credit-card issuers), not a capital-markets firm, so it is reclassified from Capital Markets to Banks.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    },
+                                                    {
+                                                        "organization":  "Moscow Exchange MICEX-RTS",
+                                                        "role":  "independent director / supervisory board member",
+                                                        "start_year":  2011,
+                                                        "end_year":  2021,
+                                                        "description":  "MarketScreener lists a former Moscow Exchange supervisory board role (split out of the original bundled entry; this label was already correct).",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "Row 508 lists Jacques der Megredichyan as Chairman for SPBE."
+                                    },
+                                    {
+                                        "url":  "https://www.marketscreener.com/insider/JACQUES-DER-MEGREDICHYAN-A0JQD2/",
+                                        "title":  "MarketScreener: Jacques der Megredichyan",
+                                        "fact":  "Profile gives RTS founder/chairman role, SPB Exchange chairman role, and other finance-sector board roles."
+                                    },
+                                    {
+                                        "url":  "https://ru.wikipedia.org/wiki/Дер_Мегредичян,_Жак",
+                                        "title":  "Википедия: Дер Мегредичян, Жак",
+                                        "fact":  "Quality-pass round (2026-08-01) fetched this page directly (verbatim): born 22 October 1959; 'Окончил Европейский институт бизнеса (1984) и Французский центр финансового анализа (1987)'; chairman of the RTS board of directors 2004-2011; career included Credit Commercial de France (1985-1996), Societe Generale (1996-2000), and CEO for business management at Troika Dialog until September 2011."
+                                    },
+                                    {
+                                        "url":  "https://ru.wikipedia.org/wiki/БКС_(компания)",
+                                        "title":  "Википедия: БКС (компания)",
+                                        "fact":  "Not about this person directly, but used during the same round to confirm the general-industry classification approach applied to the ITinvest/Troyka Dialog/CentroCredit bundle split for this person: describes BKS as Russia's largest non-bank brokerage, illustrating the same brokerage-vs-bank distinction applied to ITinvest and Troyka Dialog."
+                                    }
+                                ],
+                    "notes":  "Round 1: education was not confirmed; Russian-language variants searched included Жак Дер Мегредичян. Quality-pass round (2026-08-01): bounded gap-research found and directly verified his Russian Wikipedia page, giving two confirmed education entries (European Institute of Business, 1984; French Center for Financial Analysis, 1987) that were previously entirely missing. GICS LABEL CORRECTNESS: the two multi-company bundled professional_experience entries inherited from round 1 forced a single GICS label onto 2-3 differently-classified organizations; split each into individual entries and corrected mislabels: (1) 'ITinvest/CentroCredit/Troyka Dialog' was uniformly labeled Banks, but only CentroCredit is actually a licensed bank -- ITinvest and Troyka Dialog are confirmed brokerage/investment-banking firms, so those two were corrected to Capital Markets; (2) 'TCS Group Holding/Moscow Exchange' was uniformly labeled Capital Markets, but TCS Group (Tinkoff/T-Bank) is primarily a consumer-finance digital bank, so it was corrected to Banks while Moscow Exchange correctly stays Capital Markets. Also filled the previously-null SPB Exchange chairman entry's GICS (same company as the top-level sector fields already established in this file)."
+                },
+                {
+                    "name":  "Dmitry Anatolevich Panchenko",
+                    "current_role":  "CSV role: Director/Board Member; 2024 current board status uncertain because issuer governance changed in January 2024",
+                    "company_name":  "ПАО \"СПБ Биржа\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Higher School of Economics",
+                                          "year":  null,
+                                          "field":  null,
+                                          "qualification":  "undergraduate degree",
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "Military Institute of the RF Ministry of Defence",
+                                          "year":  null,
+                                          "field":  null,
+                                          "qualification":  "undergraduate degree",
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"СПБ Биржа\"",
+                                                        "role":  "Director/Board Member",
+                                                        "start_year":  2020,
+                                                        "end_year":  null,
+                                                        "description":  "CSV and MarketScreener list him as SPB Exchange director from 2020; current 2024 status is caveated.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "Freedom Finance Investment Co. LLC",
+                                                        "role":  "Deputy Chief Executive Officer",
+                                                        "start_year":  null,
+                                                        "end_year":  2017,
+                                                        "description":  "MarketScreener lists former deputy CEO role ending in 2016/2017 context.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "BrokerCreditService Ltd.",
+                                                        "role":  "Director-Broker Business Department",
+                                                        "start_year":  null,
+                                                        "end_year":  2019,
+                                                        "description":  "MarketScreener lists former brokerage business department role. Quality-pass round (2026-08-01) corrected the GICS label: a directly-fetched Russian Wikipedia article on BCS (BrokerCreditService) confirms verbatim it is 'крупнейший небанковский брокер России' (Russia's largest non-bank broker), engaged in 'операции на фондовом и финансовом рынках, управление активами, финансовое консультирование' (stock/financial market operations, asset management, financial consulting) -- i.e. a brokerage/capital-markets firm, not a consumer-lending business.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "RusHydro-related entities",
+                                                        "role":  "director / management board roles",
+                                                        "start_year":  2010,
+                                                        "end_year":  null,
+                                                        "description":  "MarketScreener lists UK GidroOGK, Geotherm, Sayano Shushensky Gidroenergoremont, Rushydro International, and ALSTOM RusHydro Holding roles. Quality-pass round (2026-08-01) made one bounded gap-research attempt to classify this entry (queries: 'RusHydro International Geotherm Sayano Shushensky Gidroenergoremont hydropower', plus checks on each named entity); confirmed RusHydro group overall is a hydropower generator, but could not confirm the primary business of each of the five specifically-named subsidiaries individually (at least one, ALSTOM RusHydro Holding, is plausibly a turbine-equipment manufacturing joint venture rather than a power generator, which would need a different GICS row than the others). Left GICS null rather than guess a single label for five heterogeneous, individually-unverified sub-entities bundled in one entry.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "Row 509 lists Dmitry Anatolevich Panchenko as Director/Board Member for SPBE."
+                                    },
+                                    {
+                                        "url":  "https://www.marketscreener.com/insider/DMITRY-ANATOLEVICH-PANCHENKO-A111RU/",
+                                        "title":  "MarketScreener: Dmitry Anatolevich Panchenko",
+                                        "fact":  "Profile gives SPB Exchange director role, finance and RusHydro-related experience, and undergraduate degrees from HSE and Military Institute of the RF Ministry of Defence."
+                                    },
+                                    {
+                                        "url":  "https://ru.wikipedia.org/wiki/БКС_(компания)",
+                                        "title":  "Википедия: БКС (компания)",
+                                        "fact":  "Quality-pass round (2026-08-01) fetched this page directly and confirms verbatim that BCS/BrokerCreditService is 'крупнейший небанковский брокер России' engaged in stock/financial-market operations, asset management, and financial consulting -- used to correct the GICS label on Panchenko's BrokerCreditService entry from Consumer Finance to Capital Markets."
+                                    }
+                                ],
+                    "notes":  "Round 1: no field/year details for education were available from opened sources. Quality-pass round (2026-08-01): (1) GICS LABEL CORRECTNESS -- corrected BrokerCreditService Ltd. from Consumer Finance to Capital Markets, confirmed via directly-fetched Russian Wikipedia describing it as Russia's largest non-bank broker (brokerage/asset-management firm), not a consumer-lending business; filled the previously-null SPB Exchange director entry's GICS (same company as this file's top-level sector fields). (2) HONEST-GAP FOLLOW-UP: ran fresh queries ('Дмитрий Панченко СПБ Биржа ВШЭ Военный институт год окончания') attempting to find graduation years/fields for the HSE and Military Institute entries; all results returned a different, clearly unrelated namesake (a historian, Dmitry Vadimovich Panchenko, born 1956, Leningrad State University classics -- wrong patronymic and wrong field), so no genuine new information was found and the education fields remain as in round 1 (institution only, no year/field). Also made one bounded attempt on the 'RusHydro-related entities' GICS gap; confirmed RusHydro group is a hydropower generator but could not verify each of the five specifically bundled sub-entities individually, so this field was left null rather than guessed (see professional_experience description for detail)."
+                },
+                {
+                    "name":  "Pavel Vladimirovich Sokolov",
+                    "current_role":  "CSV role: Director/Board Member; 2024 current board status uncertain because issuer governance changed in January 2024",
+                    "company_name":  "ПАО \"СПБ Биржа\"",
+                    "education":  [
+                                      {
+                                          "institution":  "State University of St. Petersburg",
+                                          "year":  1997,
+                                          "field":  null,
+                                          "qualification":  "undergraduate degree",
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "St Petersburg State Transport University",
+                                          "year":  2000,
+                                          "field":  null,
+                                          "qualification":  "undergraduate degree",
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"СПБ Биржа\"",
+                                                        "role":  "Independent Director / Director/Board Member",
+                                                        "start_year":  2020,
+                                                        "end_year":  null,
+                                                        "description":  "CSV and MarketScreener list him as SPB Exchange director from 2020; current 2024 status is caveated.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "Novorossiysk Commercial Sea Port PJSC",
+                                                        "role":  "Deputy Chief Executive Officer",
+                                                        "start_year":  null,
+                                                        "end_year":  2018,
+                                                        "description":  "MarketScreener lists former deputy CEO role. Quality-pass round (2026-08-01) corrected the GICS label: NCSP is confirmed (via directly-fetched Wikipedia) to be a port/terminal operator providing stevedoring, cargo handling, and towage services, not a company that owns/operates cargo vessels -- so it belongs under Transportation Infrastructure (Marine Ports & Services), not Marine Transportation.",
+                                                        "sector":  "Industrials",
+                                                        "industry_group":  "Transportation",
+                                                        "industry":  "Transportation Infrastructure"
+                                                    },
+                                                    {
+                                                        "organization":  "Center for Cargo Container Traffic TransContainer PJSC",
+                                                        "role":  "Deputy Director-Sales \u0026 Intermodal Shipments",
+                                                        "start_year":  2007,
+                                                        "end_year":  2011,
+                                                        "description":  "MarketScreener lists this role for 2007-2011. Quality-pass round (2026-08-01) confirmed via a directly-fetched description that TransContainer is Russia's largest railway container/intermodal logistics operator (rail-based freight, not asset-light freight forwarding), so it is classified consistently with the other rail-freight organizations already GICS-tagged in this record.",
+                                                        "sector":  "Industrials",
+                                                        "industry_group":  "Transportation",
+                                                        "industry":  "Ground Transportation (New Name)"
+                                                    },
+                                                    {
+                                                        "organization":  "Russian Railways Logistics JSC",
+                                                        "role":  "General Director",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "MarketScreener lists him as former general director.",
+                                                        "sector":  "Industrials",
+                                                        "industry_group":  "Transportation",
+                                                        "industry":  "Ground Transportation (New Name)"
+                                                    },
+                                                    {
+                                                        "organization":  "National Company Kazakhstan Temir Zholy JSC",
+                                                        "role":  "Logistics Director",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "MarketScreener lists this former logistics role. Quality-pass round (2026-08-01) confirmed via a directly-fetched description that Kazakhstan Temir Zholy is the national railway company of Kazakhstan (infrastructure plus freight/passenger rail carrier), so it is classified the same as the other national-railway organizations already GICS-tagged in this record.",
+                                                        "sector":  "Industrials",
+                                                        "industry_group":  "Transportation",
+                                                        "industry":  "Ground Transportation (New Name)"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "Row 510 lists Pavel Vladimirovich Sokolov as Director/Board Member for SPBE."
+                                    },
+                                    {
+                                        "url":  "https://www.marketscreener.com/insider/PAVEL-VLADIMIROVICH-SOKOLOV-A1SI2L/",
+                                        "title":  "MarketScreener: Pavel Vladimirovich Sokolov",
+                                        "fact":  "Profile gives SPB Exchange independent director role, transport/logistics career, and degrees from State University of St. Petersburg and St Petersburg State Transport University."
+                                    },
+                                    {
+                                        "url":  "https://asafov.ru/person/sokolov-pavel-vladimirovich",
+                                        "title":  "Asafov.ru: Соколов Павел Владимирович (namesake, rejected)",
+                                        "fact":  "Quality-pass round (2026-08-01) directly fetched this page while gap-researching this person's field of study; it describes a different Pavel Vladimirovich Sokolov (born 1983, Moscow State University of Railway Engineering 2005, career as a municipal boiler/heating-utility engineer in Shcherbinka/Troitsk) with no connection to NCSP, TransContainer, or SPB Exchange -- explicitly rejected as a namesake, not merged into this record."
+                                    },
+                                    {
+                                        "url":  "https://wiki.letopis.ru/index.php?title=Соколов_Павел_Владимирович",
+                                        "title":  "Letopis: Соколов Павел Владимирович (namesake, rejected)",
+                                        "fact":  "Quality-pass round (2026-08-01) directly fetched this page; it describes a different Pavel Vladimirovich Sokolov (born 1973, St. Petersburg State University 1997, theoretical physics, career at Web-invest Bank, National Development Bank, and Troika Dialog/Sberbank CIB investment banking) with no connection to NCSP, TransContainer, Russian Railways Logistics, or Kazakhstan Temir Zholy -- explicitly rejected as a namesake despite matching institution name and year, not merged into this record."
+                                    }
+                                ],
+                    "notes":  "Round 1: no scientific record was confirmed. Quality-pass round (2026-08-01): (1) GICS LABEL CORRECTNESS -- corrected Novorossiysk Commercial Sea Port (NCSP) from Marine Transportation to Transportation Infrastructure (it is a port/terminal operator, not a vessel-operating shipping company, confirmed via directly-fetched source); filled previously-null GICS for TransContainer, Kazakhstan Temir Zholy, and the SPB Exchange director entry, all consistent with already-correct Ground Transportation/Capital Markets labels used elsewhere in this record. (2) HONEST-GAP FOLLOW-UP on field of study for the two 'undergraduate degree' education entries: ran fresh queries and found two different real people also named Pavel Vladimirovich Sokolov (a Troika Dialog/Sberbank CIB investment banker born 1973, and a Troitsk municipal utility engineer born 1983); neither matches this person's actual NCSP/TransContainer/Russian Railways Logistics/Kazakhstan Temir Zholy career, so both were treated as namesakes and explicitly rejected rather than merged. No genuine new source for the target person's field of study was found, so the existing MarketScreener-sourced institution/year values (State University of St. Petersburg 1997; St Petersburg State Transport University 2000) are kept unchanged and 'field' stays null."
+                },
+                {
+                    "name":  "Eric Berthelot",
+                    "current_role":  "CSV role: Director/Board Member; 2024 current board status uncertain because issuer governance changed in January 2024",
+                    "company_name":  "ПАО \"СПБ Биржа\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Université Paris 1 Panthéon-Sorbonne",
+                                          "year":  null,
+                                          "field":  null,
+                                          "qualification":  "undergraduate and graduate degrees",
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "École des Hautes Études Commerciales de Paris",
+                                          "year":  1986,
+                                          "field":  null,
+                                          "qualification":  "MBA",
+                                          "qualification_degree":  "MBA"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"СПБ Биржа\"",
+                                                        "role":  "Independent Director / Director/Board Member",
+                                                        "start_year":  2021,
+                                                        "end_year":  null,
+                                                        "description":  "CSV and MarketScreener list him as SPB Exchange director from 2021; current 2024 status is caveated.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "Exane SA",
+                                                        "role":  "Founder",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "MarketScreener identifies him as founder of Exane SA. Quality-pass round (2026-08-01) confirmed via a directly-fetched description that Exane was a French investment bank/brokerage (equity brokerage, research, asset management, later acquired by BNP Paribas in 2021).",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "Valaxis Asset Management SA",
+                                                        "role":  "Founder / Chief Executive Officer",
+                                                        "start_year":  2011,
+                                                        "end_year":  null,
+                                                        "description":  "MarketScreener identifies him as founder and CEO.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "Valartis Bank AG / Valartis Group AG",
+                                                        "role":  "Deputy CEO and Head-Private Banking / Head-Private Banking",
+                                                        "start_year":  2012,
+                                                        "end_year":  null,
+                                                        "description":  "MarketScreener lists Valartis private-banking roles.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "Row 511 lists Eric Berthelot as Director/Board Member for SPBE."
+                                    },
+                                    {
+                                        "url":  "https://www.marketscreener.com/insider/ERIC-BERTHELOT-A0YA1X/",
+                                        "title":  "MarketScreener: Eric Berthelot",
+                                        "fact":  "Profile gives SPB Exchange director role, Exane/Valaxis/Valartis roles, Sorbonne degrees, and HEC Paris MBA in 1986."
+                                    }
+                                ],
+                    "notes":  "Round 1: no academic-publication profile was confirmed; education is professional/business education, not a research degree. Quality-pass round (2026-08-01): SIMPLE OMISSION fix -- the source already stated 'MBA' for the HEC Paris entry, but qualification_degree had not been set to the corpus enum value 'MBA'; fixed directly from the existing source, no new research needed. GICS: confirmed Exane SA as a French investment bank/brokerage and filled its previously-null GICS as Capital Markets; filled the previously-null SPB Exchange director entry's GICS (same company as this file's top-level sector fields)."
+                },
+                {
+                    "name":  "Alexander Valentinovich Chmel",
+                    "current_role":  "CSV role: Director/Board Member; 2024 current board status uncertain because issuer governance changed in January 2024",
+                    "company_name":  "ПАО \"СПБ Биржа\"",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО \"СПБ Биржа\"",
+                                                        "role":  "Independent Director / Director/Board Member",
+                                                        "start_year":  2021,
+                                                        "end_year":  null,
+                                                        "description":  "CSV and MarketScreener list him as SPB Exchange director from 2021; current 2024 status is caveated.",
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    },
+                                                    {
+                                                        "organization":  "Moscow School of Management Skolkovo",
+                                                        "role":  "Director of Corporate Governance Programs / Director of Corporate Programs",
+                                                        "start_year":  2014,
+                                                        "end_year":  null,
+                                                        "description":  "MarketScreener lists Skolkovo corporate governance/corporate programs roles.",
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Services",
+                                                        "industry":  "Diversified Consumer Services"
+                                                    },
+                                                    {
+                                                        "organization":  "Accounts Chamber of The Russian Federation",
+                                                        "role":  "member / official",
+                                                        "start_year":  2005,
+                                                        "end_year":  null,
+                                                        "description":  "MarketScreener lists an Accounts Chamber role.",
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "GV Gold PJSC",
+                                                        "role":  "independent director / director",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "MarketScreener lists a former independent/director role (split out of an originally-bundled 3-company entry). GV Gold is a Russian gold mining company, so Metals and Mining is kept for this entity.",
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Metals \u0026 Mining"
+                                                    },
+                                                    {
+                                                        "organization":  "En+ Group International PJSC",
+                                                        "role":  "independent director / director",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "MarketScreener lists a former independent/director role (split out of an originally-bundled 3-company entry). Quality-pass round (2026-08-01) confirmed via a directly-fetched description that En+ Group is a diversified metals-and-energy holding whose primary listed business is its 48.1 percent stake in RUSAL (aluminium), so Metals and Mining is kept for this entity despite its large hydropower generation segment.",
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Metals & Mining"
+                                                    },
+                                                    {
+                                                        "organization":  "EL5-Energo PJSC",
+                                                        "role":  "independent director / director",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "MarketScreener lists a former independent/director role (split out of an originally-bundled 3-company entry). Quality-pass round (2026-08-01) corrected the GICS label: EL5-Energo (formerly Enel Russia) is confirmed via a directly-fetched description to be a thermal/wind power generation company (Independent Power Producer), not a metals/mining business, so it is reclassified from the bundle's original Metals and Mining label to Utilities.",
+                                                        "sector":  "Utilities",
+                                                        "industry_group":  "Utilities",
+                                                        "industry":  "Independent Power and Renewable Electricity Producers"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "Row 512 lists Alexander Valentinovich Chmel as Director/Board Member for SPBE."
+                                    },
+                                    {
+                                        "url":  "https://www.marketscreener.com/insider/ALEXANDER-VALENTINOVICH-CHMEL-A2P9WH/",
+                                        "title":  "MarketScreener: Alexander Valentinovich Chmel",
+                                        "fact":  "Profile gives SPB Exchange director role, Skolkovo role, Accounts Chamber role, and former GV Gold/En+/EL5-Energo directorships."
+                                    }
+                                ],
+                    "notes":  "Round 1: education was not confirmed from opened sources. Quality-pass round (2026-08-01): (1) GICS LABEL CORRECTNESS -- the bundled 'GV Gold/En+ Group/EL5-Energo' entry forced one label (Metals & Mining) onto three different companies; split into three entries and corrected EL5-Energo (formerly Enel Russia), which is confirmed to be a thermal/wind power generation company, not metals/mining, so it was reclassified to Utilities / Independent Power and Renewable Electricity Producers; GV Gold (gold miner) and En+ Group (majority-aluminium holding via its RUSAL stake) keep Metals & Mining. Filled the previously-null SPB Exchange director entry's GICS (same company as this file's top-level sector fields). (2) HONEST-GAP FOLLOW-UP on education: ran fresh queries ('Александр Валентинович Хмель образование вуз') but every result was an unrelated namesake (a different Alexander Anatolyevich Khmel who teaches at a different university, a medical-academy graduate, various VKontakte/LinkedIn profiles) with no link to Skolkovo/Accounts Chamber/SPB Exchange; no genuine new source was found, so education remains empty as in round 1."
+                }
+            ],
+    "board_sources":  [
+                          {
+                              "url":  "MOEXBMI_2024.csv",
+                              "title":  "MOEXBMI_2024.csv",
+                              "fact":  "CSV contains predefined company people and positions used as pipeline input."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/SPBE/ГОДОВОЙ_ОТЧЕТ_ПАО_«СПБ_БИРЖА»_ЗА_2024_ГОД_Интерфакс.pdf",
+                              "title":  "Годовой отчет ПАО «СПБ Биржа» за 2024 год",
+                              "fact":  "Local PDF checked: page 1 confirms the 2024 annual report title; page 2 table of contents includes Corporate Governance, Board of Directors, Executive Bodies, and corporate governance code appendix sections; text extraction did not expose named biographies."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/SPBE/СПБ Биржа_МСФО_2024_обобщенная.pdf",
+                              "title":  "Обобщенная консолидированная финансовая отчетность ПАО «СПБ Биржа» за 2024 год",
+                              "fact":  "Local PDF checked: page 9 identifies PАО «СПБ Биржа» and its activity; page 50 defines key management personnel as members of boards/management boards and other key managers, without naming individuals."
+                          },
+                          {
+                              "url":  "https://www.disclosure.ru/issuer/7801268965/",
+                              "title":  "Disclosure.ru: ПАО «СПБ Биржа»",
+                              "fact":  "Opened disclosure index lists 2024 issuer events including shareholder decisions on 24/25.01.2024, 01/02.07.2024, 22/25.11.2024 and board-related messages."
+                          },
+                          {
+                              "url":  "https://www.rbc.ru/quote/news/article/6642237b9a794752ac07d960",
+                              "title":  "РБК Инвестиции: интервью Евгения Сердюкова",
+                              "fact":  "14.05.2024 article identifies Evgeny Serdyukov as General Director of SPB Exchange and discusses Roman Goryunov\u0027s departure."
+                          },
+                          {
+                              "url":  "https://www.tadviser.ru/index.php/Компания:СПБ_Биржа_(ранее_Санкт-Петербургская_биржа)",
+                              "title":  "TAdviser: СПБ Биржа",
+                              "fact":  "Secondary company history states that on 07.11.2023 SPB Exchange appointed Evgeny Serdyukov CEO instead of Roman Goryunov, who would leave the board."
+                          },
+                          {
+                              "url":  "https://www.marketscreener.com/quote/stock/SPB-EXCHANGE-129457866/company/",
+                              "title":  "MarketScreener: SPB Exchange company profile",
+                              "fact":  "Secondary governance table provided the CSV-like executive and board roster, but appears stale relative to the January 2024 governance change."
+                          }
+                      ],
+    "sources":  [
+                    {
+                        "url":  "MOEXBMI_2024.csv",
+                        "title":  "MOEXBMI_2024.csv",
+                        "fact":  "Rows 498-512 contain the SPBE people and roles used as the input set."
+                    },
+                    {
+                        "url":  "MOEXBMI_Отчеты_2024/SPBE/ГОДОВОЙ_ОТЧЕТ_ПАО_«СПБ_БИРЖА»_ЗА_2024_ГОД_Интерфакс.pdf",
+                        "title":  "Годовой отчет ПАО «СПБ Биржа» за 2024 год",
+                        "fact":  "Local annual report checked before web research; named biographies were not available through text extraction/OCR in this environment."
+                    },
+                    {
+                        "url":  "MOEXBMI_Отчеты_2024/SPBE/СПБ Биржа_МСФО_2024_обобщенная.pdf",
+                        "title":  "Обобщенная консолидированная финансовая отчетность ПАО «СПБ Биржа» за 2024 год",
+                        "fact":  "Local financial statement checked before web research; page 50 contains only aggregate related-party/key management personnel disclosure."
+                    },
+                    {
+                        "url":  "https://www.rbc.ru/quote/news/article/6642237b9a794752ac07d960",
+                        "title":  "РБК Инвестиции: Глава СПБ Биржи - РБК",
+                        "fact":  "Used for 2024 CEO identity and the Goryunov-to-Serdyukov transition context."
+                    },
+                    {
+                        "url":  "https://www.marketscreener.com/quote/stock/SPB-EXCHANGE-129457866/company/",
+                        "title":  "MarketScreener: SPB Exchange company profile",
+                        "fact":  "Used as secondary governance/identity anchor for the CSV-like roster."
+                    }
+                ],
+    "validation_notes":  "Processed 14 unique CSV people from 15 SPBE rows; Roman Goryunov appeared twice and was consolidated with both CSV roles. Checked 2 local documents. Research rounds: 1 for each processed person. Major 2024 conflict: CSV/MarketScreener list Roman Goryunov and an old board roster, while 2024 sources identify Evgeny Serdyukov as CEO and indicate governance changed after January 2024 shareholder decisions. Weak sources used: MarketScreener for many biographies, because official SPB Exchange biographies were not available/opened and the local annual report text extraction did not expose named biographies. No patents, h-index, or confirmed scientific-publication profiles were found for the target people. QUALITY-PASS ROUND (2026-08-01, see research_notes/SPBE/quality_pass_round1_20260801.md): Step 0 git-HEAD check found the on-disk file already structurally identical to git HEAD (no regression to restore for this ticker). Simple omissions fixed: filled 15 previously-null professional_experience GICS triples for the company's own ПАО \"СПБ Биржа\" role across all 15 people (self-evident from this file's own top-level sector fields); Doctoral degree and MBA qualification_degree values filled from already-cited source wording (Tarabtsev, Berthelot). Genuine inconsistencies investigated and resolved with fresh, directly-fetched sources (not just picking a side): Aleksey Skorodumov's CSV-vs-MarketScreener board-membership conflict resolved in favor of the CSV via an independently-fetched Letopis biography plus an audit-it.ru registry record; Ivan Tyryshkin's 'current 2024 status uncertain' framing corrected to a dated fact (chairman only 16.03.2022-29.06.2022, left the board that date, per Letopis+TAdviser). GICS label corrections: Novorossiysk Commercial Sea Port (Marine Transportation to Transportation Infrastructure -- it is a port/terminal operator, not a vessel operator), BrokerCreditService (Consumer Finance to Capital Markets -- confirmed non-bank brokerage, not consumer lending), and three previously-bundled multi-company professional_experience entries were split so each company keeps its own correct label: ITinvest/Troyka Dialog corrected from Banks to Capital Markets while CentroCredit correctly stays Banks (Megredichyan); TCS Group Holding corrected from Capital Markets to Banks while Moscow Exchange correctly stays Capital Markets (Megredichyan); EL5-Energo corrected from Metals & Mining to Utilities/Independent Power and Renewable Electricity Producers while GV Gold and En+ Group correctly stay Metals & Mining (Chmel). Honest-gap follow-ups resolved with new sources: Oleg Mikhasenko's and Aleksey Skorodumov's education (previously fully unconfirmed) were found and directly verified (Kommersant; Letopis+audit-it.ru); Jacques der Megredichyan's education (previously fully unconfirmed) was found via his Russian Wikipedia page; Sergey Rybakov's field of study and a much fuller career (ATON, Alfa-Bank, A-Investments) were found via Letopis; Ivan Tyryshkin's patronymic and graduation year were found and cross-verified. Honest-gap follow-ups that remained unresolved after one bounded fresh-query attempt each (documented in the round file): Pavel Krupnov's education (only a plausible-but-unverifiable patronymic lead found, an image-only official PDF that could not be independently confirmed, so nothing was added to the JSON); Alexander Chmel's education; Dmitry Panchenko's education years/fields (only an unrelated namesake found); Pavel Sokolov's field of study (two different real namesakes found and explicitly rejected, existing sourced values kept unchanged); the bundled 'RusHydro-related entities' GICS (left null, too heterogeneous to verify each sub-entity in one bounded attempt). No previously-confirmed fact, citation, or note was shortened or deleted; every addition is cited to a source fetched directly during this round.",
+    "sector":  "Financials",
+    "industry_group":  "Financial Services (New Name)",
+    "industry":  "Capital Markets"
+}

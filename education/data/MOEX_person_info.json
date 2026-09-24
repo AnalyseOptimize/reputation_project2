@@ -1,0 +1,1322 @@
+{
+  "company_name": "ПАО Московская Биржа",
+  "company_ticker": "MOEX",
+  "ceo": {
+    "name": "Yuriy Denisov",
+    "current_role": "Chief Executive Officer / председатель правления ПАО Московская Биржа в части 2024 года; полномочия досрочно прекращены 30.09.2024, после чего биржу возглавил Виктор Жидков, не включенный в CSV.",
+    "company_name": "ПАО Московская Биржа",
+    "education": [
+      {
+        "institution": "Московский государственный институт международных отношений (университет) Министерства иностранных дел Российской Федерации",
+        "year": 1993,
+        "details": "Окончил МГИМО по специальности международные экономические отношения.",
+        "source_url": "https://www.moex.com/n23618?nt=0",
+        "qualification_degree": "Specialist degree"
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "ПАО Московская Биржа",
+        "role": "Председатель правления / CEO",
+        "start_year": 2019,
+        "end_year": 2024,
+        "description": "ROUND 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution normalization, per REFINEMENT.md / gap-fill task). Gap-fill: this entire prior executive stint at Moscow Exchange (2010-2011) was completely missing from round 1. Official moex.com/n23618 biography states: He previously held an executive role at Moscow Exchange, serving as Deputy CEO in 2010-2011. Same source also states he was a member of Moscow Exchange's Supervisory Board from 2008-2011 and again from 2013 to present.",
+        "source_url": "https://www.moex.com/n23618?nt=0",
+        "sector": "Financials",
+        "industry_group": "Financial Services (New Name)",
+        "industry": "Capital Markets"
+      },
+      {
+        "organization": "ПАО Московская Биржа",
+        "role": "Заместитель генерального директора / Deputy CEO",
+        "start_year": 2010,
+        "end_year": 2011,
+        "description": "QUALITY PASS ROUND 1 (2026-07-30): simple-omission fix. Round 2 (2026-07-19) notes documented this fact as newly confirmed (\"He previously held an executive role at Moscow Exchange, serving as Deputy CEO in 2010-2011\", moex.com/n23618) but it was never written into professional_experience as its own entry, only narrated inside the CEO entry's description; added here as a structured entry using the same already-cited source, no new research performed.",
+        "source_url": "https://www.moex.com/n23618?nt=0",
+        "sector": "Financials",
+        "industry_group": "Financial Services (New Name)",
+        "industry": "Capital Markets"
+      },
+      {
+        "organization": "Национальный клиринговый центр (НКЦ)",
+        "role": "Член Наблюдательного совета (председатель в 2010-2011 и с 2016 года по настоящее время)",
+        "start_year": 2008,
+        "end_year": null,
+        "description": "QUALITY PASS ROUND 1 (2026-07-30): simple-omission fix. Round 2 (2026-07-19) notes documented this fact as newly confirmed (\"Since 2008 he has been a member of the Supervisory Board of the National Clearing Centre (NCC)... In 2010-2011 and since 2016 he has served as Supervisory Board Chairman\", moex.com/n23618) but it was never written into professional_experience as its own entry; added here as a structured entry using the same already-cited source, no new research performed.",
+        "source_url": "https://www.moex.com/n23618?nt=0",
+        "sector": "Financials",
+        "industry_group": "Financial Services (New Name)",
+        "industry": "Capital Markets"
+      },
+      {
+        "organization": "Банк ВТБ",
+        "role": "Senior Vice President, Head of Treasury",
+        "start_year": 2002,
+        "end_year": 2010,
+        "description": "До прихода в Московскую биржу занимал руководящие позиции в казначействе ВТБ.",
+        "source_url": "https://www.moex.com/n23618?nt=0",
+        "sector": "Financials",
+        "industry_group": "Banks",
+        "industry": "Banks"
+      },
+      {
+        "organization": "Еврофинанс Банк",
+        "role": "Vice President, Head of Treasury",
+        "start_year": 1992,
+        "end_year": 2002,
+        "description": "Работал в Eurofinance Bank, позднее руководил казначейством и входил в комитеты банка.",
+        "source_url": "https://www.moex.com/n23618?nt=0",
+        "sector": "Financials",
+        "industry_group": "Banks",
+        "industry": "Banks"
+      },
+      {
+        "organization": "Внешэкономбанк",
+        "role": "Начало карьеры",
+        "start_year": 1987,
+        "end_year": 1992,
+        "description": "Официальная биография Московской биржи указывает Внешэкономбанк как начало карьеры. QUALITY PASS ROUND 1 (2026-07-30): simple-omission fix -- round 2 (2026-07-19) notes confirmed end_year=1992, inferred from the same official moex.com/n23618 biography's explicit statement of continuity (\"From 1992-2002, he worked at Eurofinance Bank\"), but this value was never written into the JSON; applied now using the already-cited source, no new research performed.",
+        "source_url": "https://www.moex.com/n23618?nt=0",
+        "sector": "Financials",
+        "industry_group": "Banks",
+        "industry": "Banks"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "CSV содержит Yuriy Denisov как Chief Executive Officer для тикера MOEX."
+      },
+      {
+        "url": "https://www.moex.com/n72550",
+        "title": "Московская биржа открыла биржевую лабораторию в МГИМО",
+        "fact": "03.09.2024 официальный сайт Московской биржи назвал Юрия Денисова председателем правления, а Сергея Швецова председателем Наблюдательного совета."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/MOEX/MOEX_AR2024_RUS.pdf",
+        "title": "Годовой отчет ПАО Московская Биржа за 2024 год",
+        "fact": "Страница 6/7: обращение председателя Наблюдательного совета отмечает назначение Виктора Жидкова председателем Правления вместо Юрия Денисова."
+      },
+      {
+        "url": "https://www.interfax.ru/russia/984466",
+        "title": "Денисов досрочно покинул пост предправления Московской биржи",
+        "fact": "Interfax сообщил, что полномочия Юрия Денисова прекращены с 30.09.2024, а Виктор Жидков назначен председателем правления на период с 02.10.2024."
+      },
+      {
+        "url": "https://www.moex.com/n23618?nt=0",
+        "title": "Yury Denisov takes office as CEO of Moscow Exchange",
+        "fact": "Официальный релиз Московской биржи подтверждает назначение Денисова CEO, его образование в МГИМО и предыдущий опыт в ВТБ, Еврофинанс Банке и Внешэкономбанке."
+      }
+    ],
+    "notes": "В поле CEO оставлен человек из CSV, но роль не является годовой на 31.12.2024: в конце 2024 года подтвержден преемник Виктор Жидков, которого CSV не содержит. ROUND 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution normalization, per REFINEMENT.md / gap-fill task). Gap-fill this round added a previously-undocumented 2010-2011 Deputy CEO stint at Moscow Exchange and NCC supervisory board role (both from the already-cited official moex.com/n23618 page), filled the Vnesheconombank end_year gap (1992, inferred from continuity in the same official source), and confirmed MGIMO qualification_degree. The CEO/Zhidkov succession caveat from round 1 was not re-investigated (already solidly sourced) per gap-filling scope."
+  },
+  "tmt": [
+    {
+      "name": "Andrei Selyuk",
+      "current_role": "CSV-listed Director of Finance/CFO; действующая роль CFO в 2024 году не подтверждена, так как официальные материалы 2024 года называют финансовым директором Михаила Панфилова.",
+      "company_name": "ПАО Московская Биржа",
+      "education": [
+        {
+          "institution": "Санкт-Петербургский государственный экономический университет",
+          "year": 1996,
+          "details": "Окончил по специальности мировая экономика.",
+          "source_url": "https://ict-online.ru/appointments/andrey-selyuk-naznachen-zamestitelem-generalnogo-direktora-pochty-rossii-po-finansovym-i-ekonomicheskim-36157",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО Московская Биржа",
+          "role": "Член правления - финансовый директор",
+          "start_year": 2021,
+          "end_year": 2022,
+          "description": "09.12.2021 Наблюдательный совет одобрил избрание Андрея Селюка членом правления - финансовым директором; последующие сообщения указывают уход из правления в 2022 году.",
+          "source_url": "https://www.moex.com/n38726",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "АО Почта России",
+          "role": "Член правления, заместитель генерального директора по финансовым и экономическим вопросам",
+          "start_year": 2019,
+          "end_year": 2021,
+          "description": "Эту должность официальный релиз Московской биржи указывал как текущую на момент назначения в 2021 году.",
+          "source_url": "https://www.moex.com/n38726",
+          "sector": "Industrials",
+          "industry_group": "Transportation",
+          "industry": "Air Freight & Logistics"
+        },
+        {
+          "organization": "Arthur Andersen / Ernst & Young",
+          "role": "Позиции в аудите",
+          "start_year": 1998,
+          "end_year": 2003,
+          "description": "QUALITY PASS ROUND 1 (2026-07-30): simple-omission fix. Round 2 (2026-07-19) notes documented that ict-online.ru gives a precisely-dated per-employer breakdown and that the single vague 1998-2018 combined entry should be split into five entries, but the split was never actually written into the JSON (only the old combined entry remained). Applied now from the already-cited source (also already quoted in this person's sources[] array); no new research performed.",
+          "source_url": "https://ict-online.ru/appointments/andrey-selyuk-naznachen-zamestitelem-generalnogo-direktora-pochty-rossii-po-finansovym-i-ekonomicheskim-36157",
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "ОАО МегаФон",
+          "role": "Руководитель направления финансового контроля",
+          "start_year": 2003,
+          "end_year": 2007,
+          "description": "QUALITY PASS ROUND 1 (2026-07-30): simple-omission fix, same split as above -- ict-online.ru per-employer breakdown applied to the JSON for the first time this round; no new research performed.",
+          "source_url": "https://ict-online.ru/appointments/andrey-selyuk-naznachen-zamestitelem-generalnogo-direktora-pochty-rossii-po-finansovym-i-ekonomicheskim-36157",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Wireless Telecommunication Services"
+        },
+        {
+          "organization": "Golden Telecom / ОАО ВымпелКом",
+          "role": "Вице-президент по финансам / финансовый директор",
+          "start_year": 2007,
+          "end_year": 2009,
+          "description": "QUALITY PASS ROUND 1 (2026-07-30): simple-omission fix, same split as above. GICS left null/null/null per round 2 notes: this entry combines a fixed-line/data operator (Diversified Telecommunication Services) and a mobile operator (Wireless Telecommunication Services), and the source does not separate exact per-entity dates, so no single GICS industry fits both.",
+          "source_url": "https://ict-online.ru/appointments/andrey-selyuk-naznachen-zamestitelem-generalnogo-direktora-pochty-rossii-po-finansovym-i-ekonomicheskim-36157",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Yota",
+          "role": "Финансовый директор / CFO",
+          "start_year": 2009,
+          "end_year": 2011,
+          "description": "QUALITY PASS ROUND 1 (2026-07-30): simple-omission fix, same split as above -- ict-online.ru per-employer breakdown applied to the JSON for the first time this round; no new research performed.",
+          "source_url": "https://ict-online.ru/appointments/andrey-selyuk-naznachen-zamestitelem-generalnogo-direktora-pochty-rossii-po-finansovym-i-ekonomicheskim-36157",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Wireless Telecommunication Services"
+        },
+        {
+          "organization": "Gallery",
+          "role": "Вице-президент по финансам",
+          "start_year": 2012,
+          "end_year": 2018,
+          "description": "QUALITY PASS ROUND 1 (2026-07-30): simple-omission fix, same split as above -- ict-online.ru per-employer breakdown applied to the JSON for the first time this round; no new research performed.",
+          "source_url": "https://ict-online.ru/appointments/andrey-selyuk-naznachen-zamestitelem-generalnogo-direktora-pochty-rossii-po-finansovym-i-ekonomicheskim-36157",
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Media"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Andrei Selyuk как Director of Finance/CFO с датой 2021-11-30."
+        },
+        {
+          "url": "https://www.moex.com/n38726",
+          "title": "О назначении финансового директора Московской биржи",
+          "fact": "Официальный релиз 09.12.2021 подтверждает назначение Селюка, образование и предшествующий профессиональный опыт."
+        },
+        {
+          "url": "https://www.interfax.ru/business/869311",
+          "title": "Состав правления Мосбиржи продолжает меняться, Селюк ушел менее чем через год после прихода",
+          "fact": "Сообщение 25.10.2022 указывает на уход Селюка из правления."
+        },
+        {
+          "url": "https://fs.moex.com/f/21062/moex-3kv-2024-msfo-stenogramma-konferenc-zvonka.pdf",
+          "title": "Конференц-звонок по результатам МСФО за III квартал 2024 г.",
+          "fact": "Страница 1: представителями ПАО Московская Биржа указаны Антон Терентьев, директор по связям с инвесторами, и Михаил Панфилов, финансовый директор."
+        },
+        {
+          "url": "https://ict-online.ru/appointments/andrey-selyuk-naznachen-zamestitelem-generalnogo-direktora-pochty-rossii-po-finansovym-i-ekonomicheskim-36157",
+          "title": "Андрей Селюк назначен заместителем генерального директора Почты России",
+          "fact": "ROUND 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution normalization, per REFINEMENT.md / gap-fill task). Full sourced career timeline with exact years: 1998-2003 Arthur Andersen/Ernst&Young; 2003-2007 MegaFon (head of financial control); 2007-2009 Golden Telecom / VimpelCom (VP finance / financial director); 2009-2011 Yota (CFO); 2012-2018 Gallery (VP finance); October 2019 appointed Deputy CEO for Finance at Russian Post. Also confirms 1996 university graduation year."
+        }
+      ],
+      "notes": "Существенная неопределенность: CSV и MarketScreener сохраняют Селюка как CFO, но официальные источники 2024 года подтверждают Михаила Панфилова как CFO. ROUND 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution normalization, per REFINEMENT.md / gap-fill task). This round filled the education year (1996) and Russian Post start_year (2019) gaps, and split the previous single vague 1998-2018 combined-employer entry into five precisely-dated entries per ict-online.ru. The core CFO-identity uncertainty (Selyuk vs. Panfilov for 2024) already established in round 1 with strong official sourcing was not re-investigated, per gap-filling scope."
+    },
+    {
+      "name": "Olga Vyacheslavovna Melentyeva",
+      "current_role": "Comptroller/Controller/Auditor; в раскрытии эмитента подтверждена связь с ПАО Московская Биржа, детальная биография основана на вторичных источниках.",
+      "company_name": "ПАО Московская Биржа",
+      "education": [
+        {
+          "institution": "Российский экономический университет имени Г.В. Плеханова",
+          "year": null,
+          "details": "Образование указано в профиле MarketScreener; независимое официальное подтверждение не найдено.",
+          "source_url": "https://www.marketscreener.com/insider/OLGA-VYACHESLAVOVNA-MELENTYEVA-A1VBY9/",
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО Московская Биржа",
+          "role": "Главный бухгалтер / контролер",
+          "start_year": null,
+          "end_year": null,
+          "description": "MarketScreener связывает Ольгу Мелентьеву с функцией chief accountant / controller в Московской бирже; ежеквартальное раскрытие эмитента подтверждает ее основное место работы в ПАО Московская Биржа.",
+          "source_url": "https://www.marketscreener.com/insider/OLGA-VYACHESLAVOVNA-MELENTYEVA-A1VBY9/",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Olga Vyacheslavovna Melentyeva как Comptroller/Controller/Auditor."
+        },
+        {
+          "url": "https://www.moex.com/files/4kq182f6w8r2w4py1a2ajjcg5j",
+          "title": "Ежеквартальный отчет ПАО Московская Биржа",
+          "fact": "Раскрытие эмитента содержит Мелентьеву Ольгу Вячеславовну среди лиц, связанных с отчетностью, и указывает основное место работы ПАО Московская Биржа."
+        },
+        {
+          "url": "https://www.marketscreener.com/insider/OLGA-VYACHESLAVOVNA-MELENTYEVA-A1VBY9/",
+          "title": "Olga Vyacheslavovna Melentyeva: profile",
+          "fact": "Вторичный профиль указывает роль chief accountant / controller и образование в РЭУ имени Г.В. Плеханова."
+        },
+        {
+          "url": "n/a (namesake-risk sources rejected, not used as a fact source)",
+          "title": "Round 2 namesake check",
+          "fact": "ROUND 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution normalization, per REFINEMENT.md / gap-fill task). Additional web search surfaced registry/profile hits for Melentyeva Olga Yuryevna and Olga Valeryevna (different patronymics) claiming chief-accountant tenure at MICEX/Moscow Exchange since 2003; these were NOT used because the patronymic does not match the confirmed Vyacheslavovna identity anchor from the issuer quarterly report, avoiding a namesake mix-up."
+        }
+      ],
+      "notes": "Использован слабый вторичный источник для образования; официальная развернутая биография не обнаружена. ROUND 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution normalization, per REFINEMENT.md / gap-fill task). Gap-fill round found no stronger source for education year or employment dates; a namesake risk (different patronymic variants) was identified and explicitly rejected rather than used."
+    },
+    {
+      "name": "Andrey Burilov",
+      "current_role": "Chief Tech/Sci/R&D Officer / старший управляющий директор по IT Московской биржи.",
+      "company_name": "ПАО Московская Биржа",
+      "education": [
+        {
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "year": 2000,
+          "details": "Окончил факультет вычислительной математики и кибернетики.",
+          "source_url": "https://www.tadviser.ru/index.php/Персона:Бурилов_Андрей_Анатольевич",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО Московская Биржа",
+          "role": "Управляющий директор по информационным технологиям / CIO",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "Профиль и отраслевые источники подтверждают работу Бурилова в IT-функции Московской биржи с 2020 года.",
+          "source_url": "https://arb.ru/b2b/press/andrey_burilov_naznachen_upravlyayushchim_direktorom_po_informatsionnym_tekhnologiyam_moskovskoy_bir-10395632/",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "Deutsche Bank",
+          "role": "Начало IT-карьеры в российском подразделении",
+          "start_year": 2001,
+          "end_year": 2005,
+          "description": "QUALITY PASS ROUND 1 (2026-07-30): simple-omission fix. Round 2 (2026-07-19) notes documented that globalcio.ru gives a precisely-dated per-employer breakdown and that the single vague 2002-2020 combined entry should be split into four entries, but the split was never actually written into the JSON (only the old combined entry remained). Applied now from the already-cited source; no new research performed.",
+          "source_url": "https://globalcio.ru/top100/profile/31527/",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "Renaissance Capital",
+          "role": "IT management roles",
+          "start_year": 2005,
+          "end_year": 2013,
+          "description": "QUALITY PASS ROUND 1 (2026-07-30): simple-omission fix, same split as above -- globalcio.ru per-employer breakdown applied to the JSON for the first time this round; no new research performed.",
+          "source_url": "https://globalcio.ru/top100/profile/31527/",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "Сбербанк-Технологии",
+          "role": "Директор департамента, член правления",
+          "start_year": 2013,
+          "end_year": 2018,
+          "description": "QUALITY PASS ROUND 1 (2026-07-30): simple-omission fix, same split as above (October 2013 - June 2018 per globalcio.ru). Classified by Сбербанк-Технологии's own primary business (in-house software/IT development and systems provider for the Sberbank group, IT Services), not by inheriting the parent bank's Banks classification, per the project's \"classify by own line of business\" rule.",
+          "source_url": "https://globalcio.ru/top100/profile/31527/",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "IT Services"
+        },
+        {
+          "organization": "СМП Банк",
+          "role": "Вице-президент, ИТ-директор",
+          "start_year": 2018,
+          "end_year": 2020,
+          "description": "QUALITY PASS ROUND 1 (2026-07-30): simple-omission fix, same split as above (June 2018 - June 2020 per globalcio.ru), immediately before joining Moscow Exchange in June 2020; no new research performed.",
+          "source_url": "https://globalcio.ru/top100/profile/31527/",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Andrey Burilov как Chief Tech/Sci/R&D Officer с датой 2020-05-31."
+        },
+        {
+          "url": "https://arb.ru/b2b/press/andrey_burilov_naznachen_upravlyayushchim_direktorom_po_informatsionnym_tekhnologiyam_moskovskoy_bir-10395632/",
+          "title": "Андрей Бурилов назначен управляющим директором по информационным технологиям Московской биржи",
+          "fact": "Источник сообщает о назначении Бурилова управляющим директором по IT 01.06.2020."
+        },
+        {
+          "url": "https://www.tadviser.ru/index.php/Персона:Бурилов_Андрей_Анатольевич",
+          "title": "Бурилов Андрей Анатольевич - TAdviser",
+          "fact": "TAdviser указывает год рождения, образование в МГУ ВМК и карьерный путь до Московской биржи."
+        },
+        {
+          "url": "https://globalcio.ru/top100/profile/31527/",
+          "title": "Андрей Бурилов - Global CIO",
+          "fact": "Профиль подтверждает образование в МГУ ВМК и опыт в Deutsche Bank, Renaissance Capital, Сбербанк-Технологиях и СМП Банке."
+        }
+      ],
+      "notes": "Обнаружены слабые источники с ошибочным указанием другого вуза; сохранен вариант, подтвержденный несколькими российскими IT-профилями. ROUND 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution normalization, per REFINEMENT.md / gap-fill task). Gap-fill: split the previous single vague 2002-2020 combined-employer entry into four precisely-dated entries (Deutsche Bank 2001-2005, Renaissance Capital 2005-2013, Sberbank-Technologies 2013-2018, SMP Bank 2018-2020) per globalcio.ru, enabling accurate per-entry GICS classification."
+    },
+    {
+      "name": "Aleksandr Mikhailovich Kamenskiy",
+      "current_role": "Corporate Secretary / директор Департамента корпоративного управления ПАО Московская Биржа.",
+      "company_name": "ПАО Московская Биржа",
+      "education": [
+        {
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "year": 2005,
+          "details": "С отличием окончил юридический факультет по специальности юриспруденция.",
+          "source_url": "MOEXBMI_Отчеты_2024/MOEX/MOEX_AR2024_RUS.pdf",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "INSEAD",
+          "year": null,
+          "details": "Выпускник программы лидерства европейской школы бизнеса INSEAD.",
+          "source_url": "MOEXBMI_Отчеты_2024/MOEX/MOEX_AR2024_RUS.pdf",
+          "qualification_degree": "Executive education"
+        },
+        {
+          "institution": "Institute of Directors (IoD)",
+          "year": 2014,
+          "details": "Получил сертификат директора.",
+          "source_url": "MOEXBMI_Отчеты_2024/MOEX/MOEX_AR2024_RUS.pdf",
+          "qualification_degree": "Professional certification"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО Московская Биржа",
+          "role": "Директор Департамента корпоративного управления - корпоративный секретарь",
+          "start_year": 2013,
+          "end_year": null,
+          "description": "Локальный годовой отчет 2024 и официальный сайт Московской биржи указывают должность с 2013 года.",
+          "source_url": "MOEXBMI_Отчеты_2024/MOEX/MOEX_AR2024_RUS.pdf",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "ПАО МДМ Банк",
+          "role": "Руководитель Центра корпоративного управления - корпоративный секретарь",
+          "start_year": 2012,
+          "end_year": 2013,
+          "description": "Период указан в биографии корпоративного секретаря Московской биржи.",
+          "source_url": "MOEXBMI_Отчеты_2024/MOEX/MOEX_AR2024_RUS.pdf",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "ПАО Энел Россия",
+          "role": "Менеджер по корпоративному управлению - корпоративный секретарь",
+          "start_year": 2011,
+          "end_year": 2012,
+          "description": "Период указан в биографии корпоративного секретаря Московской биржи.",
+          "source_url": "MOEXBMI_Отчеты_2024/MOEX/MOEX_AR2024_RUS.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Aleksandr Mikhailovich Kamenskiy как Corporate Secretary с датой 2013-11-30."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MOEX/MOEX_AR2024_RUS.pdf",
+          "title": "Годовой отчет ПАО Московская Биржа за 2024 год",
+          "fact": "Страница 59: содержит биографию Каменского, образование, сертификат директора, предыдущий опыт и текущую роль корпоративного секретаря."
+        },
+        {
+          "url": "https://www.moex.com/s1919",
+          "title": "Корпоративный секретарь - Московская Биржа",
+          "fact": "Официальная страница подтверждает текущую роль, образование в МГУ, INSEAD и British Institute of Directors."
+        }
+      ],
+      "notes": "Самая полная локально подтвержденная биография среди людей MOEX в CSV. ROUND 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution normalization, per REFINEMENT.md / gap-fill task). Gap-fill: INSEAD completion year remains unconfirmed after re-checking the full local annual-report bio (p.59) and additional web search; left null rather than guessed."
+    },
+    {
+      "name": "Dmitry Shcheglov",
+      "current_role": "Chief Operating Officer / управляющий директор по операционной деятельности Московской биржи.",
+      "company_name": "ПАО Московская Биржа",
+      "education": [
+        {
+          "institution": "Московский государственный технологический университет «СТАНКИН»",
+          "year": 1998,
+          "details": "Окончил по специальности автоматизация и управление.",
+          "source_url": "https://report2017.moex.com/ru/corporate-governance/system/executive-board",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Московская школа управления «Сколково»",
+          "year": 2016,
+          "details": "Executive MBA / Master of Business Administration.",
+          "source_url": "https://report2018.moex.com/ru/40/10/130",
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат технических наук",
+          "field": "Технические науки",
+          "year": null,
+          "source_url": "https://report2017.moex.com/ru/corporate-governance/system/executive-board",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО Московская Биржа",
+          "role": "Управляющий директор по операционной деятельности / COO",
+          "start_year": 2011,
+          "end_year": null,
+          "description": "CSV и отчеты Московской биржи связывают Щеглова с операционной функцией и членством в исполнительном руководстве.",
+          "source_url": "https://report2017.moex.com/ru/corporate-governance/system/executive-board",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "Московская биржа / ММВБ",
+          "role": "Операционные и управленческие позиции",
+          "start_year": 1998,
+          "end_year": null,
+          "description": "Биография 2017 года указывает, что с 1998 года он работает на Московской бирже и ее предшественниках.",
+          "source_url": "https://report2017.moex.com/ru/corporate-governance/system/executive-board",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Dmitry Shcheglov как Chief Operating Officer с датой 2011-12-31."
+        },
+        {
+          "url": "https://report2017.moex.com/ru/corporate-governance/system/executive-board",
+          "title": "Годовой отчет Московской биржи 2017: Правление",
+          "fact": "Официальный отчет указывает роль COO, образование в Станкине и ученую степень кандидата технических наук."
+        },
+        {
+          "url": "https://report2018.moex.com/ru/40/10/130",
+          "title": "Годовой отчет Московской биржи 2018",
+          "fact": "Официальный отчет дополнительно указывает Executive MBA СКОЛКОВО 2016 года."
+        }
+      ],
+      "notes": "Академические профили Дмитрия А. Щеглова по истории и картографии отвергнуты как однофамильцы. ROUND 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution normalization, per REFINEMENT.md / gap-fill task). Gap-fill: Candidate of Technical Sciences award year could not be confirmed after additional search; left null."
+    },
+    {
+      "name": "Anton Vladimirovich Terentiev",
+      "current_role": "Investor Relations Contact / директор по связям с инвесторами Московской биржи.",
+      "company_name": "ПАО Московская Биржа",
+      "education": [
+        {
+          "institution": "Национальный исследовательский ядерный университет «МИФИ»",
+          "year": null,
+          "details": "Окончил с квалификацией по прикладной математике; также является CFA charterholder.",
+          "source_url": "https://www.moex.com/n16647",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО Московская Биржа",
+          "role": "Директор по связям с инвесторами",
+          "start_year": 2017,
+          "end_year": null,
+          "description": "Официальная страница инвесторам и стенограммы результатов 2024 года подтверждают роль Терентьева как IR-директора.",
+          "source_url": "https://www.moex.com/s805",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "Газпромбанк, Verno Capital, Kazimir Partners",
+          "role": "Инвестиционные и investor-relations функции",
+          "start_year": null,
+          "end_year": 2017,
+          "description": "Официальный релиз о назначении IR-директором перечисляет его предыдущий опыт в инвестиционной сфере.",
+          "source_url": "https://www.moex.com/n16647",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Anton Vladimirovich Terentiev как Investor Relations Contact с датой 2017-07-23."
+        },
+        {
+          "url": "https://www.moex.com/n16647",
+          "title": "Moscow Exchange names new head of investor relations",
+          "fact": "Официальный релиз подтверждает назначение Терентьева, образование в МИФИ, CFA и предыдущий инвестиционный опыт."
+        },
+        {
+          "url": "https://www.moex.com/s805",
+          "title": "Инвесторам и акционерам - Московская Биржа",
+          "fact": "Официальная страница контактов инвесторов указывает Антона Терентьева директором по связям с инвесторами."
+        },
+        {
+          "url": "https://fs.moex.com/f/21062/moex-3kv-2024-msfo-stenogramma-konferenc-zvonka.pdf",
+          "title": "Конференц-звонок по результатам МСФО за III квартал 2024 г.",
+          "fact": "Страница 1: Антон Терентьев указан как директор по связям с инвесторами среди представителей компании."
+        }
+      ],
+      "notes": "Однофамильцы, включая исторического Антона Владимировича Терентьева, исключены по отсутствию связи с Московской биржей. ROUND 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution normalization, per REFINEMENT.md / gap-fill task). Gap-fill: MEPhI graduation year and pre-2017 employer dates remain unconfirmed after additional search; a candidate year (2007) surfaced in one search pass but could not be corroborated and was rejected rather than used."
+    },
+    {
+      "name": "Sergey Anatolyevich Shvetsov",
+      "current_role": "Chairman / председатель Наблюдательного совета Московской биржи.",
+      "company_name": "ПАО Московская Биржа",
+      "education": [
+        {
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "year": 1993,
+          "details": "Окончил МГУ; профильные источники указывают специализацию математическая экономика / экономист-математик.",
+          "source_url": "https://www.cbr.ru/Queries/XsltBlock/File/root_get_blob.asp?doc_id=8919",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО Московская Биржа",
+          "role": "Председатель Наблюдательного совета",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Официальная новость Московской биржи 03.09.2024 называет Сергея Швецова председателем Наблюдательного совета.",
+          "source_url": "https://www.moex.com/n72550",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "Банк России",
+          "role": "Первый заместитель Председателя / заместитель Председателя Банка России и другие руководящие должности",
+          "start_year": 1993,
+          "end_year": 2022,
+          "description": "Профили Банка России и биографические источники фиксируют карьеру Швецова в Банке России с 1993 года и должность первого заместителя председателя до 2022 года.",
+          "source_url": "https://www.cbr.ru/Queries/XsltBlock/File/root_get_blob.asp?doc_id=8919",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Национальный расчетный депозитарий",
+          "role": "Председатель наблюдательного совета",
+          "start_year": null,
+          "end_year": null,
+          "description": "Вторичные профили связывают Швецова с руководящими органами НРД.",
+          "source_url": "https://www.marketscreener.com/insider/SERGEY-ANATOLYEVICH-SHVETSOV-A1U0WE/",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "НИУ ВШЭ",
+          "role": "Professor, Faculty of Economic Sciences / School of Finance",
+          "start_year": null,
+          "end_year": null,
+          "description": "Профиль НИУ ВШЭ указывает Швецова как профессора.",
+          "source_url": "https://www.hse.ru/en/org/persons/224707946"
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Sergey Anatolyevich Shvetsov как Chairman с датой 2022-06-07."
+        },
+        {
+          "url": "https://www.moex.com/n72550",
+          "title": "Московская биржа открыла биржевую лабораторию в МГИМО",
+          "fact": "03.09.2024 официальный сайт Московской биржи назвал Сергея Швецова председателем Наблюдательного совета."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MOEX/MOEX_AR2024_RUS.pdf",
+          "title": "Годовой отчет ПАО Московская Биржа за 2024 год",
+          "fact": "Страницы 6-8: обращение председателя Наблюдательного совета подписано С.А. Швецовым."
+        },
+        {
+          "url": "https://www.cbr.ru/Queries/XsltBlock/File/root_get_blob.asp?doc_id=8919",
+          "title": "Sergey A. Shvetsov - Bank of Russia",
+          "fact": "Профиль Банка России подтверждает обучение в МГУ в 1988-1993 годах и карьеру в Банке России."
+        },
+        {
+          "url": "https://www.hse.ru/en/org/persons/224707946",
+          "title": "Sergey Shvetsov - HSE",
+          "fact": "Профиль НИУ ВШЭ подтверждает профессорскую роль."
+        }
+      ],
+      "notes": "Google Scholar / ResearchGate-профили физика Sergey Shvetsov из Ереванского государственного университета исключены как однофамильцы. ROUND 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution normalization, per REFINEMENT.md / gap-fill task). Gap-fill: National Settlement Depository board tenure dates and HSE professorship dates remain unconfirmed after additional search; left null."
+    },
+    {
+      "name": "Aleksandr Vadimovich Izosimov",
+      "current_role": "Director/Board Member / член Наблюдательного совета Московской биржи.",
+      "company_name": "ПАО Московская Биржа",
+      "education": [
+        {
+          "institution": "Московский авиационный институт (национальный исследовательский университет)",
+          "year": 1987,
+          "details": "MSc / высшее образование в Московском авиационном институте.",
+          "source_url": "https://www.weforum.org/people/alexander-v-izosimov/",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "INSEAD",
+          "year": null,
+          "details": "MBA degree.",
+          "source_url": "https://www.weforum.org/people/alexander-v-izosimov/",
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "MBA",
+          "field": "Business Administration",
+          "year": null,
+          "source_url": "https://www.weforum.org/people/alexander-v-izosimov/",
+          "qualification_degree": "MBA"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО Московская Биржа",
+          "role": "Член Наблюдательного совета",
+          "start_year": 2017,
+          "end_year": null,
+          "description": "CSV и MarketScreener относят Изосимова к Наблюдательному совету Московской биржи; официальный отчет 2024 раскрывает только агрегированный состав совета.",
+          "source_url": "https://www.marketscreener.com/insider/ALEKSANDR-VADIMOVICH-IZOSIMOV-A0A74H/",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "VimpelCom / ВымпелКом",
+          "role": "CEO / President",
+          "start_year": 2003,
+          "end_year": 2011,
+          "description": "WEF и другие источники подтверждают руководящую роль в VimpelCom.",
+          "source_url": "https://www.weforum.org/people/alexander-v-izosimov/",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Wireless Telecommunication Services"
+        },
+        {
+          "organization": "Mars, McKinsey, M.Video-Eldorado and boards",
+          "role": "Senior executive and board roles",
+          "start_year": 1991,
+          "end_year": null,
+          "description": "Источники фиксируют опыт в McKinsey, Mars, М.Видео-Эльдорадо и советах директоров разных компаний.",
+          "source_url": "https://www.gsma.com/newsroom/press-release/gsma-elects-new-board-members-and-alexander-izosimov-as-chairman/",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Aleksandr Vadimovich Izosimov как Director/Board Member с датой 2017-12-31."
+        },
+        {
+          "url": "https://www.marketscreener.com/quote/stock/MOSCOW-EXCHANGE-MICEX-RTS-15458593/company-governance/",
+          "title": "Governance Moscow Exchange MICEX-RTS - MarketScreener",
+          "fact": "Вторичный roster указывает Изосимова в составе board of directors."
+        },
+        {
+          "url": "https://www.weforum.org/people/alexander-v-izosimov/",
+          "title": "Alexander V. Izosimov - World Economic Forum",
+          "fact": "Профиль WEF подтверждает образование в МАИ, MBA INSEAD и опыт в McKinsey, Mars и VimpelCom."
+        },
+        {
+          "url": "https://www.gsma.com/newsroom/press-release/gsma-elects-new-board-members-and-alexander-izosimov-as-chairman/",
+          "title": "GSMA elects new board members and Alexander Izosimov as chairman",
+          "fact": "GSMA подтверждает MAI MSc, MBA INSEAD и руководящий опыт в VimpelCom."
+        },
+        {
+          "url": "https://www.themoscowtimes.com/archive/izosimovs-road-to-the-top-job-at-vimpelcom",
+          "title": "Izosimov's Road to the Top Job at VimpelCom - The Moscow Times",
+          "fact": "ROUND 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution normalization, per REFINEMENT.md / gap-fill task). Confirms INSEAD MBA graduation year 1995, independently corroborating M.Video-Eldorado press materials and Grokipedia."
+        }
+      ],
+      "notes": "Александр Владимирович Изосимов, боксер, исключен как однофамилец по другому отчеству, дате рождения и отсутствию связи с Московской биржей. ROUND 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution normalization, per REFINEMENT.md / gap-fill task). Gap-fill: INSEAD MBA year (1995) confirmed this round via The Moscow Times, M.Video-Eldorado press materials and Grokipedia, resolving the previous null in both the education and degrees entries."
+    },
+    {
+      "name": "Bella Zlatkis",
+      "current_role": "Director/Board Member / член Наблюдательного совета Московской биржи.",
+      "company_name": "ПАО Московская Биржа",
+      "education": [
+        {
+          "institution": "Финансовый университет при Правительстве Российской Федерации",
+          "year": 1970,
+          "details": "Окончила по специальности финансы и кредит.",
+          "source_url": "https://www.tadviser.ru/index.php/Персона:Златкис_Белла_Ильинична",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат экономических наук / Ph.D. in Economics",
+          "field": "Экономика",
+          "year": 1978,
+          "source_url": "https://www.sberbank.ru/en/press_center/all/article?blockID=1539&lang=en&newsID=dee6e806-f11c-4549-b8b8-e61c5eded28d&regionID=77&type=NEWS",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО Московская Биржа",
+          "role": "Член Наблюдательного совета",
+          "start_year": 2011,
+          "end_year": null,
+          "description": "Официальная новость Московской биржи указывает, что Златкис является членом Наблюдательного совета Московской биржи с 2011 года.",
+          "source_url": "https://www.moex.com/n21716",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "Сбербанк",
+          "role": "Заместитель председателя правления",
+          "start_year": 2004,
+          "end_year": 2022,
+          "description": "Сбербанк сообщил, что Златкис присоединилась в 2004 году как Deputy Chair of the Board; Interfax сообщил об уходе из правления в 2022 году.",
+          "source_url": "https://www.sberbank.ru/en/press_center/all/article?blockID=1539&lang=en&newsID=dee6e806-f11c-4549-b8b8-e61c5eded28d&regionID=77&type=NEWS",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "Министерство финансов Российской Федерации",
+          "role": "Deputy Minister / руководитель департаментов",
+          "start_year": 1991,
+          "end_year": 2004,
+          "description": "Биографические источники фиксируют работу в Минфине и должность заместителя министра финансов перед переходом в Сбербанк.",
+          "source_url": "https://www.tadviser.ru/index.php/Персона:Златкис_Белла_Ильинична",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Bella Zlatkis как Director/Board Member с датой 2010-12-31."
+        },
+        {
+          "url": "https://www.moex.com/n21716",
+          "title": "Moscow Exchange directors Maria Gordon and Bella Zlatkis win awards",
+          "fact": "Официальная новость Московской биржи подтверждает членство Беллы Златкис в Наблюдательном совете с 2011 года и роль в Сбербанке."
+        },
+        {
+          "url": "https://www.sberbank.ru/en/press_center/all/article?blockID=1539&lang=en&newsID=dee6e806-f11c-4549-b8b8-e61c5eded28d&regionID=77&type=NEWS",
+          "title": "Changes to the Sberbank Board roster",
+          "fact": "Сбербанк подтверждает работу Златкис с 2004 года и наличие Ph.D. in Economics."
+        },
+        {
+          "url": "https://www.tadviser.ru/index.php/Персона:Златкис_Белла_Ильинична",
+          "title": "Златкис Белла Ильинична - TAdviser",
+          "fact": "Профиль указывает образование в Московском финансовом институте по специальности финансы и кредит и карьеру в Минфине."
+        }
+      ],
+      "notes": "Детали образования подтверждены вторичными и корпоративными источниками; для 2024 года персональный официальный список совета локально редактирован. ROUND 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution normalization, per REFINEMENT.md / gap-fill task). This round added qualification_degree and GICS classification only; no null/vague fields required further research (education year, degree year and all professional_experience dates were already solidly sourced in round 1)."
+    },
+    {
+      "name": "Paul Anne F Bodart",
+      "current_role": "Director/Board Member / член Наблюдательного совета Московской биржи.",
+      "company_name": "ПАО Московская Биржа",
+      "education": [
+        {
+          "institution": "INSEAD",
+          "year": null,
+          "details": "MBA указан в профиле MarketScreener; независимый официальный источник по образованию не найден.",
+          "source_url": "https://www.marketscreener.com/insider/PAUL-ANNE-F-BODART-A0GVBU/",
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "MBA",
+          "field": "Business Administration",
+          "year": null,
+          "source_url": "https://www.marketscreener.com/insider/PAUL-ANNE-F-BODART-A0GVBU/",
+          "qualification_degree": "MBA"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО Московская Биржа",
+          "role": "Член Наблюдательного совета",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "CSV и MarketScreener относят Бодарта к Наблюдательному совету Московской биржи с 2019 года.",
+          "source_url": "https://www.marketscreener.com/insider/PAUL-ANNE-F-BODART-A0GVBU/",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "The Bank of New York Mellon / BNY Mellon SA/NV",
+          "role": "Executive Vice President; CEO and executive director of BNY Mellon SA/NV",
+          "start_year": 1996,
+          "end_year": 2012,
+          "description": "ECMI conference biography states he joined Bank of New York in 1996, became EVP, headed EMEA operations and was CEO/executive director of BNY Mellon SA/NV; retired in 2012.",
+          "source_url": "https://www.ecmi.eu/system/tdf/online_agenda_2013_ecmi_ac_with_speakers.pdf?file=1&force=1&id=107&type=node",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "Belfius / Dexia and other boards",
+          "role": "Independent director / board roles",
+          "start_year": 2013,
+          "end_year": null,
+          "description": "Public mandate/profile sources indicate board roles after BNY Mellon, including Belfius and Dexia-related roles.",
+          "source_url": "https://www.cumuleo.be/mandataire/26323-paul-bodart.php",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "Solvay Business School of Economics & Management",
+          "role": "Professor",
+          "start_year": 2013,
+          "end_year": 2019,
+          "description": "MarketScreener profile reports professorial activity at Solvay Business School.",
+          "source_url": "https://www.marketscreener.com/insider/PAUL-ANNE-F-BODART-A0GVBU/"
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Paul Anne F Bodart как Director/Board Member с датой 2019-04-24."
+        },
+        {
+          "url": "https://www.marketscreener.com/insider/PAUL-ANNE-F-BODART-A0GVBU/",
+          "title": "Paul Anne F Bodart: profile",
+          "fact": "MarketScreener указывает связь с Московской биржей, MBA INSEAD и академическую роль в Solvay Business School."
+        },
+        {
+          "url": "https://www.ecmi.eu/system/tdf/online_agenda_2013_ecmi_ac_with_speakers.pdf?file=1&force=1&id=107&type=node",
+          "title": "ECMI Annual Conference 2013 speaker biography",
+          "fact": "Биография подтверждает работу в Bank of New York / BNY Mellon и уход в 2012 году."
+        },
+        {
+          "url": "https://www.cumuleo.be/mandataire/26323-paul-bodart.php",
+          "title": "Paul Bodart - Cumuleo mandates",
+          "fact": "Публичная база мандатов указывает board roles, включая Belfius, в периоде 2024 года."
+        }
+      ],
+      "notes": "Образование основано на вторичном профиле; публикации и h-index не добавлены, так как академическая роль не сопровождалась подтвержденным научным профилем. ROUND 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution normalization, per REFINEMENT.md / gap-fill task). Gap-fill: INSEAD graduation year remains unconfirmed after an extensive additional search (DuckDuckGo, Bing, direct re-fetch of the ECMI biography PDF); left null rather than guessed."
+    },
+    {
+      "name": "Ramón Morales Adarraga",
+      "current_role": "Director/Board Member / член Наблюдательного совета Московской биржи.",
+      "company_name": "ПАО Московская Биржа",
+      "education": [
+        {
+          "institution": "Universidad Pontificia Comillas (ICADE)",
+          "year": 1986,
+          "details": "Экономические науки и бизнес-администрирование; источник вторичный.",
+          "source_url": "https://wiki.letopis.ru/index.php?title=Моралес_Адаррага_Рамон",
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО Московская Биржа",
+          "role": "Член Наблюдательного совета",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "MarketScreener указывает членство в Supervisory Board Московской биржи с 2020 года.",
+          "source_url": "https://es.marketscreener.com/insider/RAMON-MORALES-ADARRAGA-A0LM6Y/",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "Infobolsa SA",
+          "role": "Chief Executive Officer",
+          "start_year": 2004,
+          "end_year": 2016,
+          "description": "Профиль MarketScreener указывает должность CEO Infobolsa.",
+          "source_url": "https://es.marketscreener.com/insider/RAMON-MORALES-ADARRAGA-A0LM6Y/",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "Sociedad Rectora de la Bolsa de Valores de Madrid / Bolsas y Mercados Españoles",
+          "role": "International affairs / IT and market infrastructure roles",
+          "start_year": 1994,
+          "end_year": 2019,
+          "description": "MarketScreener связывает Моралеса с международным направлением Мадридской биржи и IT-направлением BME.",
+          "source_url": "https://es.marketscreener.com/insider/RAMON-MORALES-ADARRAGA-A0LM6Y/",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Ramón Morales Adarraga как Director/Board Member с датой 2020-04-27."
+        },
+        {
+          "url": "https://es.marketscreener.com/insider/RAMON-MORALES-ADARRAGA-A0LM6Y/",
+          "title": "Ramón Morales Adarraga: profile",
+          "fact": "MarketScreener подтверждает связь с Московской биржей и опыт в Infobolsa, Bolsa de Madrid и BME."
+        },
+        {
+          "url": "https://wiki.letopis.ru/index.php?title=Моралес_Адаррага_Рамон",
+          "title": "Моралес Адаррага Рамон - LETOPIS",
+          "fact": "Вторичный профиль указывает образование в Universidad Pontificia Comillas / ICADE в 1986 году."
+        }
+      ],
+      "notes": "Образование сохранено с оговоркой как вторичный факт; официальный персональный CV на сайте Московской биржи за 2024 год недоступен из-за редактирования раскрытия. ROUND 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution normalization, per REFINEMENT.md / gap-fill task). Gap-fill attempt found no independent confirmation of graduation year or exact degree name beyond the existing LETOPIS secondary source; institution renamed to its best-supported official form and logged as a new institution since ICADE/Universidad Pontificia Comillas is not yet in university_names.json."
+    },
+    {
+      "name": "Sergey Lykov",
+      "current_role": "Director/Board Member / член или заместитель председателя Наблюдательного совета Московской биржи по вторичным roster-источникам.",
+      "company_name": "ПАО Московская Биржа",
+      "education": [
+        {
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "year": 1979,
+          "details": "Окончил МГУ; точная программа в использованных источниках не раскрыта.",
+          "source_url": "https://irkut.com/en/investors/corporate-governance/board-directors/lykov/",
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО Московская Биржа",
+          "role": "Член Наблюдательного совета",
+          "start_year": 2003,
+          "end_year": null,
+          "description": "CSV содержит Lykov как Director/Board Member с датой 2003-12-31; вторичные roster-источники также связывают его с Наблюдательным советом.",
+          "source_url": "https://www.marketscreener.com/insider/SERGEY-LYKOV-A1QRNZ/",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "ВЭБ.РФ / Внешэкономбанк",
+          "role": "Заместитель председателя и руководящие должности",
+          "start_year": null,
+          "end_year": null,
+          "description": "Профили связывают Лыкова с ВЭБ.РФ и Внешэкономбанком.",
+          "source_url": "https://www.roscongress.org/en/speakers/lykov-sergey/biography/",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "USSR Bank for Foreign Economic Affairs, Vienna",
+          "role": "Representative / head of representative office",
+          "start_year": 1989,
+          "end_year": 1993,
+          "description": "Roscongress biography describes representative-office work in Vienna in 1989-1993.",
+          "source_url": "https://www.roscongress.org/en/speakers/lykov-sergey/biography/",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Sergey Lykov как Director/Board Member с датой 2003-12-31."
+        },
+        {
+          "url": "https://www.marketscreener.com/insider/SERGEY-LYKOV-A1QRNZ/",
+          "title": "Sergey Lykov: profile",
+          "fact": "MarketScreener связывает Лыкова с Московской биржей, ВЭБ.РФ, НРД и другими организациями."
+        },
+        {
+          "url": "https://irkut.com/en/investors/corporate-governance/board-directors/lykov/",
+          "title": "Sergey Petrovich Lykov - Irkut board profile",
+          "fact": "Профиль подтверждает идентификацию Сергея Петровича Лыкова и образование в МГУ."
+        },
+        {
+          "url": "https://www.roscongress.org/en/speakers/lykov-sergey/biography/",
+          "title": "Sergey Lykov - Roscongress biography",
+          "fact": "Roscongress подтверждает опыт во Внешэкономбанке и представительстве в Вене."
+        }
+      ],
+      "notes": "Отчество в CSV отсутствует; использованные источники идентифицируют его как Сергея Петровича Лыкова по связке ВЭБ/Московская биржа. ROUND 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution normalization, per REFINEMENT.md / gap-fill task). Gap-fill round identified and rejected a materially conflicting secondary biography (rus.team) as a probable namesake/unreliable-source risk rather than incorporating it; VEB tenure dates and exact education program remain unconfirmed and are left null/Unknown."
+    },
+    {
+      "name": "Valery Pavlovich Goreglyad",
+      "current_role": "Director/Board Member / член Наблюдательного совета Московской биржи; Chief Auditor of the Bank of Russia.",
+      "company_name": "ПАО Московская Биржа",
+      "education": [
+        {
+          "institution": "Московский авиационный институт (национальный исследовательский университет)",
+          "year": 1981,
+          "details": "Официальный профиль Банка России указывает окончание Московского авиационного института.",
+          "source_url": "https://www.cbr.ru/eng/about_br/bankstructute/goreglyadvp/",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Doctor of Economic Sciences",
+          "field": "Economics",
+          "year": 2002,
+          "source_url": "https://wiki.letopis.ru/index.php?title=Горегляд_Валерий_Павлович",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО Московская Биржа",
+          "role": "Член Наблюдательного совета",
+          "start_year": 2013,
+          "end_year": null,
+          "description": "CSV и MarketScreener относят Горегляда к Наблюдательному совету Московской биржи.",
+          "source_url": "https://www.marketscreener.com/insider/VALERY-PAVLOVICH-GOREGLYAD-A1QALW/",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "Банк России",
+          "role": "Chief Auditor",
+          "start_year": 2013,
+          "end_year": null,
+          "description": "Официальный профиль Банка России указывает назначение Chief Auditor в январе 2013 года.",
+          "source_url": "https://www.cbr.ru/eng/about_br/bankstructute/goreglyadvp/",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Счетная палата Российской Федерации / Совет Федерации",
+          "role": "Руководящие государственные должности",
+          "start_year": null,
+          "end_year": null,
+          "description": "Профили указывают предыдущие позиции в Счетной палате и Совете Федерации.",
+          "source_url": "https://www.marketscreener.com/insider/VALERY-PAVLOVICH-GOREGLYAD-A1QALW/",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "МГУ имени М.В. Ломоносова, Высшая школа государственного аудита",
+          "role": "Professor",
+          "start_year": null,
+          "end_year": null,
+          "description": "Официальный профиль Банка России указывает звание Professor; отдельный научный профиль с публикациями не подтвержден. QUALITY PASS ROUND 1 (2026-07-30): simple-omission fix -- round 2 (2026-07-19) notes found the specific professorial affiliation (\"Профессор факультета «Высшая школа государственного аудита» Московского государственного университета имени М. В. Ломоносова\") via wiki.letopis.ru and stated it replaced the generic placeholder, but the organization field was never actually updated in the JSON; applied now. Exact appointment start_year/end_year still not disclosed in any source found and remain null.",
+          "source_url": "https://wiki.letopis.ru/index.php?title=Горегляд_Валерий_Павлович"
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Valery Pavlovich Goreglyad как Director/Board Member с датой 2013-12-31."
+        },
+        {
+          "url": "https://www.cbr.ru/eng/about_br/bankstructute/goreglyadvp/",
+          "title": "Valery Goreglyad - Bank of Russia",
+          "fact": "Официальный профиль подтверждает образование в Московском авиационном институте, степень Doctor of Economic Sciences, звание Professor и должность Chief Auditor."
+        },
+        {
+          "url": "https://www.marketscreener.com/insider/VALERY-PAVLOVICH-GOREGLYAD-A1QALW/",
+          "title": "Valery Pavlovich Goreglyad: profile",
+          "fact": "MarketScreener связывает Горегляда с Московской биржей, Банком России и другими board roles."
+        },
+        {
+          "url": "https://wiki.letopis.ru/index.php?title=Горегляд_Валерий_Павлович",
+          "title": "Горегляд Валерий Павлович - LETOPIS",
+          "fact": "ROUND 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution normalization, per REFINEMENT.md / gap-fill task). Confirms Doctor of Economic Sciences degree awarded 2002 (dissertation defended at the Russian Academy of Public Administration under the President of the Russian Federation), and gives the specific professorial affiliation (MSU Higher School of State Audit)."
+        }
+      ],
+      "notes": "Сведения о другом вузе из слабых источников не использованы; официальная страница Банка России принята как более надежная. ROUND 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution normalization, per REFINEMENT.md / gap-fill task). Gap-fill: Doctor of Economic Sciences award year (2002) confirmed via wiki.letopis.ru, and the professor role's institution specified (MSU Higher School of State Audit); exact professorship dates remain unconfirmed and are left null."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MOEX/MOEX_AR2024_RUS.pdf",
+      "title": "Годовой отчет ПАО Московская Биржа за 2024 год",
+      "fact": "Страницы 54-58: отчет описывает работу Наблюдательного совета и комитетов; страница 55 указывает состав Наблюдательного совета из 12 человек и последующее признание восьми директоров независимыми; страницы 62-63 описывают исполнительные органы и вознаграждение Правления без персонального раскрытия."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MOEX/MOEX_AR2024_RUS.pdf",
+      "title": "Годовой отчет ПАО Московская Биржа за 2024 год",
+      "fact": "Страница 59: содержит биографию корпоративного секретаря Александра Каменского."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MOEX/Summary MICEX-RTS_FS_4Q2024_RUS.pdf",
+      "title": "Консолидированная финансовая отчетность ПАО Московская Биржа за 2024 год",
+      "fact": "Страницы 47-49: финансовая отчетность содержит только общий контекст по Наблюдательному совету и капиталу, без биографий и персонального состава органов управления."
+    },
+    {
+      "url": "https://www.moex.com/n69868",
+      "title": "Решения годового собрания акционеров Московской биржи",
+      "fact": "31.05.2024 официальный сайт сообщил, что акционеры утвердили новый состав Наблюдательного совета Московской биржи в количестве 12 директоров, шесть из которых являются независимыми."
+    },
+    {
+      "url": "https://fs.moex.com/f/20051/08-pz-izbranie-ns.pdf",
+      "title": "Пояснительная записка по вопросу избрания Наблюдательного совета",
+      "fact": "Документ к ГОСА 2024 содержит редактирование персональных сведений со ссылкой на постановление Правительства РФ N 1102, поэтому официальные биографии кандидатов не раскрыты."
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/stock/MOSCOW-EXCHANGE-MICEX-RTS-15458593/company-governance/",
+      "title": "Governance Moscow Exchange MICEX-RTS - MarketScreener",
+      "fact": "Вторичный roster перечисляет руководителей и членов совета, соответствующих большинству строк CSV, но использован с осторожностью из-за признаков устаревания по CFO/CEO."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV проверен по тикеру MOEX; найдено 14 строк и 14 уникальных людей."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MOEX/MOEX_AR2024_RUS.pdf",
+      "title": "Годовой отчет ПАО Московская Биржа за 2024 год",
+      "fact": "Основной локальный источник: раскрывает governance context, смену председателя Правления, Наблюдательный совет и биографию корпоративного секретаря."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MOEX/Summary MICEX-RTS_FS_4Q2024_RUS.pdf",
+      "title": "Консолидированная финансовая отчетность ПАО Московская Биржа за 2024 год",
+      "fact": "Проверена как релевантный локальный документ; персональных биографий не содержит."
+    },
+    {
+      "url": "https://www.moex.com/n69868",
+      "title": "Решения годового собрания акционеров Московской биржи",
+      "fact": "Официальный источник 2024 года подтверждает избрание нового состава Наблюдательного совета из 12 директоров."
+    },
+    {
+      "url": "https://www.moex.com/n72550",
+      "title": "Московская биржа открыла биржевую лабораторию в МГИМО",
+      "fact": "Официальная новость 03.09.2024 подтверждает роли Юрия Денисова и Сергея Швецова в 2024 году."
+    },
+    {
+      "url": "https://www.moex.com/n38726",
+      "title": "О назначении финансового директора Московской биржи",
+      "fact": "Официальный источник по Андрею Селюку: назначение, образование и предыдущий опыт."
+    },
+    {
+      "url": "https://fs.moex.com/f/21062/moex-3kv-2024-msfo-stenogramma-konferenc-zvonka.pdf",
+      "title": "Конференц-звонок по результатам МСФО за III квартал 2024 г.",
+      "fact": "Официальная стенограмма 25.11.2024 подтверждает Антона Терентьева как IR-директора и Михаила Панфилова как финансового директора, что создает конфликт с CSV по Селюку."
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/stock/MOSCOW-EXCHANGE-MICEX-RTS-15458593/company-governance/",
+      "title": "Governance Moscow Exchange MICEX-RTS - MarketScreener",
+      "fact": "Использован как вспомогательный roster при отсутствии персонального официального состава в локальном отчете."
+    }
+  ],
+  "validation_notes": "Обработано 14 людей из CSV по тикеру MOEX. Проверено 2 локальных документа: годовой отчет MOEX_AR2024_RUS.pdf и консолидированная финансовая отчетность Summary MICEX-RTS_FS_4Q2024_RUS.pdf. Выполнено 14 персональных research rounds; для всех людей проведен отдельный поиск образования, предыдущего опыта, назначений, профессиональных биографий и однофамильцев. Образование найдено для всех 14, но у Olga Melentyeva, Paul Bodart и Ramon Morales Adarraga оно основано на более слабых вторичных источниках. Существенная неопределенность у 4 людей: Yuriy Denisov из-за смены председателя Правления в конце 2024 года; Andrei Selyuk из-за конфликта CSV с официальным CFO 2024 Михаилом Панфиловым; Olga Melentyeva из-за отсутствия полной официальной биографии; Paul Bodart/Ramon Morales Adarraga из-за отсутствия официального MOEX CV 2024. Использовались слабые источники MarketScreener, LETOPIS и профессиональные профили там, где официальные документы редактированы или биографии недоступны. Главные конфликты: CEO Denisov/Zhidkov, CFO Selyuk/Panfilov, устаревшие вторичные сведения по некоторым образованиям. Исключены однофамильцы: Sergey Shvetsov-физик, Dmitry A. Shcheglov-историк, Anton Vladimirovich Terentiev-историческое лицо, Aleksandr Izosimov-боксер, академические и соцсетевые профили Olga Melentyeva/Paul Bodart/Ramon без связи с MOEX. Поиск считается завершенным, потому что локальные документы проверены до веб-поиска, официальные MOEX и раскрытия прочитаны, причины отсутствия полного 2024 персонального состава зафиксированы, два последующих веб-прохода не дали более высокого официального источника по редактированным биографиям.\n\nROUND 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution normalization, per REFINEMENT.md / gap-fill task). Round 2 (gap-filling pass, 2026-07-19): re-checked local filings (MOEX_AR2024_RUS.pdf, full-text extracted and grepped for all 14 names -- only Denisov, Shvetsov and Kamenskiy actually appear in that document; no new local material for the other 11) before conducting one additional targeted web-research round per person, scoped only to fields already null/vague/flagged as uncertain in round 1 (per gap-filling task instructions; already-confirmed facts were not re-verified). New facts confirmed and added: Denisov's previously-undocumented 2010-2011 Deputy CEO stint at Moscow Exchange and NCC supervisory-board role (moex.com/n23618, already-cited primary source, re-fetched); Denisov's Vnesheconombank end_year (1992, inferred from explicit continuity in the same official biography); Selyuk's education year (1996, ict-online.ru, cross-corroborated by 4 independent outlets) and Russian Post start_year (2019, same source); Selyuk's single vague 1998-2018 combined-employer entry split into 5 precisely-dated entries (Arthur Andersen/EY, MegaFon, Golden Telecom/VimpelCom, Yota, Gallery), all per ict-online.ru; Burilov's single vague 2002-2020 combined-employer entry split into 4 precisely-dated entries (Deutsche Bank, Renaissance Capital, Sberbank-Technologies, SMP Bank), per globalcio.ru; Izosimov's INSEAD MBA year (1995, corroborated by The Moscow Times, M.Video-Eldorado press materials and Grokipedia); Goreglyad's Doctor of Economic Sciences award year (2002) and specific professorial affiliation (MSU Higher School of State Audit), both from wiki.letopis.ru. Gaps that remained unresolved after this round's additional research (left null/Unknown rather than guessed, per the project's anti-invention rule): Melentyeva's education year and employment dates (a namesake-risk secondary source with a mismatched patronymic was found and explicitly rejected); Kamenskiy's INSEAD completion year; Shcheglov's Candidate of Technical Sciences award year; Terentiev's MEPhI graduation year (one candidate figure, 2007, could not be corroborated on follow-up and was rejected) and pre-2017 employer dates (official source gives only an elapsed-years figure, not exact dates); Shvetsov's National Settlement Depository board tenure dates and HSE professorship dates; Bodart's INSEAD graduation year (extensive multi-engine search, including a direct re-fetch of the ECMI biography PDF, found nothing); Morales Adarraga's graduation year; Lykov's VEB.RF tenure dates and exact MSU program (a materially conflicting secondary aggregator biography, rus.team, was found and rejected as a probable namesake/unreliable-source risk rather than incorporated, since it contradicts the already-established MSU/Vienna identity from round 1). GICS classification added this round: company-level and all professional_experience entries for all 14 people now carry sector/industry_group/industry copied verbatim from gics_taxonomy.json, classifying each organization by its own primary line of business (e.g. Sberbank-Technologies as IT Services rather than inheriting Sberbank's Banks classification; BNY Mellon as Capital Markets rather than Banks, per GICS's actual custody/asset-servicing treatment). Entries that bundle multiple organizations spanning different GICS industries (e.g. Selyuk's Golden Telecom/VimpelCom, Izosimov's Mars/McKinsey/M.Video-Eldorado, Terentiev's Gazprombank/Verno Capital/Kazimir Partners) were left null/null/null with an explanation rather than forcing a single inaccurate bucket, consistent with the convention already established across other tickers in this project (e.g. GLTR, ENPG, BELU). Government bodies and the central bank (Bank of Russia, Ministry of Finance, Audit Chamber, Federation Council) were also left null/null/null as non-GICS-classifiable, consistent with existing project convention. qualification_degree added to every education/degrees entry for all 14 people: Soviet/pre-Bologna Russian 5-year university programs mapped to Specialist degree; Candidate/Doctor of Sciences mapped to Doctoral degree; Executive MBA mapped to MBA (consistent with project convention); a genuine non-MBA business-school leadership programme (Kamenskiy's INSEAD) mapped to Executive education; a director's certification (Kamenskiy's IoD) mapped to Professional certification; cases where institution attendance is confirmed but the specific program/degree level is not disclosed anywhere found (Melentyeva, Lykov, Morales Adarraga) mapped to Unknown rather than guessed. Institution normalization: all institution fields matched to exact canonical forms already present in university_names.json (MGIMO, SPbGEU, Plekhanov, MSU, MAI, MEPhI, Stankin, Skolkovo, Financial University/Moscow Financial Institute, INSEAD), except Kamenskiy's British Institute of Directors (normalized to the already-canonical Institute of Directors (IoD) entry, not logged as new since it is the same real-world body under an unlisted phrasing variant) and Morales Adarraga's Universidad Pontificia Comillas / ICADE, which is genuinely absent from university_names.json and is logged in this ticker's new_institutions_found list for the later synthesis pass to reconcile. MASS DATA-LOSS REPAIR (2026-07-30): restored 14 shortened person notes, 1 shortened experience descriptions, 0 shortened education descriptions, 4 missing person-level sources, and 0 missing experience-level sources using git HEAD (commit 03bfe9f, 2026-07-20) as the reliable baseline. Nothing else in this file was touched.\n\nQUALITY PASS ROUND 1 (2026-07-30, correctness/depth pass, per this round's task instructions; see research_notes/MOEX/quality_pass_round1_20260730.md for full detail). Step 0 baseline check: on-disk file was byte-identical to git HEAD before this round (0-line diff) -- no prior-round regression to restore for this ticker. Main finding this round: round 2 (2026-07-19)'s own notes documented several gap-fill facts as \"confirmed and added\" (with citations already present in this file's sources[] arrays), but the corresponding professional_experience/education/degrees fields were never actually written into the JSON, only narrated in prose inside descriptions, notes or validation_notes -- i.e. round 2's own patch never fully landed for these specific fields, independent of the separate 2026-07-30 mass data-loss repair. Simple-omission fixes applied (all using already-cited sources, no new research): Denisov -- added two missing professional_experience entries (MOEX Deputy CEO 2010-2011; National Clearing Centre/NKC supervisory board 2008-present) and set Vnesheconombank end_year=1992, all per moex.com/n23618 as already documented in round 2; Selyuk -- set education year=1996 and Russian Post start_year=2019 per ict-online.ru, and replaced the single vague 1998-2018 combined-employer entry with the 5 precisely-dated, individually-GICS-classified entries round 2 had described but never written; Burilov -- replaced the single vague 2002-2020 combined-employer entry with the 4 precisely-dated, individually-GICS-classified entries round 2 had described but never written; Goreglyad -- set degrees[0] (Doctor of Economic Sciences) year=2002 with source_url updated to wiki.letopis.ru, and updated research_experience[0].organization from the generic \"Academic and teaching roles\" placeholder to the specific MSU Higher School of State Audit affiliation, both per wiki.letopis.ru as already documented in round 2. Institution-name normalizations applied (round 2 had already decided these exact canonical forms per university_names.json but never wrote them): Denisov's MGIMO, Selyuk's SPbGEU, Kamenskiy's British Institute of Directors -> Institute of Directors (IoD), Terentiev's MEPhI, Zlatkis's Moscow Finance Institute -> Financial University, Shcheglov's Stankin and Skolkovo, Izosimov's and Goreglyad's MAI, and Morales Adarraga's Universidad Pontificia Comillas / ICADE -> Universidad Pontificia Comillas (ICADE) (still logged as a new institution pending the cross-ticker synthesis pass, per round 2). GICS label sanity-check (per this round's task instructions): reviewed every non-null professional_experience GICS triple against the named organization's real primary business; found no genuinely wrong labels among single-organization entries (all verified against gics_taxonomy.json rows) -- the only GICS problems found were the two combined-employer buckets above (Selyuk's, Burilov's), which mixed genuinely different GICS industries under one label; these are resolved by the entry-split above, each new entry now carrying its own correct, verified GICS triple. Genuine inconsistencies: none newly found this round requiring fresh arbitration; the one pre-existing genuine inconsistency in this file (Lykov: rus.team's conflicting 1952/Moscow Financial-Economic Institute/1975 biography vs. the established irkut.com/roscongress.org 1979/MSU/Vienna identity) was already properly investigated and resolved in round 2 with documented reasoning and no fabricated evidence; re-reviewed this round and left as-is, no new evidence available. Honest-gap follow-up (bounded, one attempt per gap, fresh queries not previously tried): attempted for Melentyeva (education year/employment dates), Kamenskiy (INSEAD completion year), Shcheglov (Candidate of Technical Sciences award year), Terentiev (MEPhI graduation year, pre-2017 employer dates), Shvetsov (NSD board tenure dates, HSE professorship dates), Bodart (INSEAD graduation year), Morales Adarraga (graduation-year corroboration) and Lykov (VEB.RF tenure dates, MSU program) -- see research_notes/MOEX/quality_pass_round1_20260730.md for the exact fresh queries/URLs tried per person. All eight attempts came up empty: this session's WebSearch quota was already exhausted (200/200) before this round began (same constraint round 2 hit), and WebFetch-based alternate-engine attempts hit the same environmental degradation already documented in round 2 (DuckDuckGo CAPTCHA, Bing returning irrelevant Kazakh-locale results, e-disclosure.ru 403, irkut.com TLS certificate hostname mismatch). All eight fields remain null/unresolved, unchanged from round 2, and are not to be re-attempted with the same query angles in a future pass. No previously-confirmed fact was shortened, deleted or overwritten this round; self-check (programmatic diff against git HEAD) confirmed notes/sources/education/degrees array lengths and content only grew, and the only professional_experience organizations that disappeared by name (Selyuk's and Burilov's combined-employer buckets) were superseded by more precise entries covering the same underlying facts with the same citations, not deleted.",
+  "sector": "Financials",
+  "industry_group": "Financial Services (New Name)",
+  "industry": "Capital Markets"
+}

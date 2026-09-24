@@ -1,0 +1,9 @@
+﻿sample,cap,index_variance,nonzero_weights,selected_features,vertices_evaluated,optimal_vertices
+all_managers,1.0,1121.3017324828784,1,education_bachelor_or_higher,21,1
+all_managers,0.5,1100.9816349540813,2,education_bachelor_or_higher; education_master_or_higher,210,1
+all_managers,0.25,570.3246223771977,4,education_bachelor_or_higher; education_master_or_higher; has_economics_education; has_other_company_management,5985,1
+all_managers,0.2,450.435965005833,5,education_bachelor_or_higher; education_master_or_higher; has_mba_emba; has_foreign_education; has_economics_education,20349,1
+ceo,1.0,2518.315018315024,1,has_economics_education,21,1
+ceo,0.5,2147.4358974358975,2,education_bachelor_or_higher; education_master_or_higher,210,1
+ceo,0.25,1292.3534798534802,4,education_bachelor_or_higher; education_master_or_higher; education_doctoral; has_economics_education,5985,1
+ceo,0.2,1015.6043956043961,5,education_bachelor_or_higher; education_master_or_higher; education_doctoral; has_economics_education; has_research_experience,20349,1

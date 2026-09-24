@@ -1,0 +1,998 @@
+{
+  "company_name": "ПАО «Московская городская телефонная сеть» (ПАО МГТС)",
+  "company_ticker": "MGTSP",
+  "ceo": {
+    "name": "Альберт Тимурович Гильманов",
+    "current_role": "Генеральный директор ПАО МГТС",
+    "company_name": "ПАО «Московская городская телефонная сеть» (ПАО МГТС)",
+    "education": [
+      {
+        "institution": "Уральский государственный экономический университет",
+        "year": 2004,
+        "program_or_specialty": "Мировая экономика",
+        "qualification": null,
+        "source": "MOEXBMI_Отчеты_2024/MGTS/Годовой отчет ПАО МГТС за 2024 год.pdf",
+        "qualification_degree": "Specialist degree"
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "ПАО «МТС»",
+        "role": "Финансовый департамент макрорегиона «Урал»",
+        "start_year": 2005,
+        "end_year": null,
+        "description": "Возглавлял финансовую службу региона «Москва» в 2016-2019 годах и кластера «Стратегический» в 2019-2020 годах.",
+        "source": "MOEXBMI_Отчеты_2024/MGTS/Годовой отчет ПАО МГТС за 2024 год.pdf",
+        "sector": "Communication Services",
+        "industry_group": "Telecommunication Services",
+        "industry": "Diversified Telecommunication Services"
+      },
+      {
+        "organization": "ЗАО «Комстар-Регионы»",
+        "role": "Руководитель финансового блока Уральского филиала",
+        "start_year": 2011,
+        "end_year": 2013,
+        "description": "Отвечал за трансформацию активов фиксированного бизнеса для последующего присоединения к Группе МТС.",
+        "source": "MOEXBMI_Отчеты_2024/MGTS/Годовой отчет ПАО МГТС за 2024 год.pdf",
+        "sector": "Communication Services",
+        "industry_group": "Telecommunication Services",
+        "industry": "Diversified Telecommunication Services"
+      },
+      {
+        "organization": "ПАО «МТС»",
+        "role": "Финансовый директор макрорегиона «Центр»",
+        "start_year": 2013,
+        "end_year": 2013,
+        "description": null,
+        "source": "MOEXBMI_Отчеты_2024/MGTS/Годовой отчет ПАО МГТС за 2024 год.pdf",
+        "sector": "Communication Services",
+        "industry_group": "Telecommunication Services",
+        "industry": "Diversified Telecommunication Services"
+      },
+      {
+        "organization": "ПАО «МТС»",
+        "role": "Руководитель финансовой службы региона «Москва» и затем кластера «Стратегический»",
+        "start_year": 2016,
+        "end_year": 2020,
+        "description": "Возглавлял финансовую службу региона «Москва» в 2016-2019 годах и кластера «Стратегический» в 2019-2020 годах.",
+        "source": "MOEXBMI_Отчеты_2024/MGTS/Годовой отчет ПАО МГТС за 2024 год.pdf",
+        "sector": "Communication Services",
+        "industry_group": "Telecommunication Services",
+        "industry": "Diversified Telecommunication Services"
+      },
+      {
+        "organization": "ООО «Авантаж»",
+        "role": "Генеральный директор",
+        "start_year": 2018,
+        "end_year": 2020,
+        "description": "Godovoi otchet PAO MGTS za 2024 god (printed page 33): Gilmanov served as General Director of OOO Avantazh in 2018-2020; separately he was also a Board member there in 2019-2020 (see the dedicated OOO Avantazh Board-member entry below); found during round-2 re-verification of the same already-cited local source.",
+        "source": "MOEXBMI_Отчеты_2024/MGTS/Годовой отчет ПАО МГТС за 2024 год.pdf",
+        "sector": "Information Technology",
+        "industry_group": "Software & Services",
+        "industry": "IT Services"
+      },
+      {
+        "organization": "АО «Телесервис»",
+        "role": "Член Совета директоров",
+        "start_year": 2014,
+        "end_year": 2017,
+        "description": "Godovoi otchet PAO MGTS za 2024 god (printed page 33): \"В период с 2014 по 2017 г. - член Совета директоров АО Телесервис\". This fact was captured in round-2 notes/validation_notes as already added, but the entry itself was missing from this array until this quality-pass round restored it.",
+        "source": "MOEXBMI_Отчеты_2024/MGTS/Годовой отчет ПАО МГТС за 2024 год.pdf",
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "ООО «Авантаж»",
+        "role": "Член Совета директоров",
+        "start_year": 2019,
+        "end_year": 2020,
+        "description": "Godovoi otchet PAO MGTS za 2024 god (printed page 33): \"с 2019 по 2020 г. - член Совета директоров ООО Авантаж\", separate from and concurrent with his role as OOO Avantazh's General Director (see the entry above). This fact was captured in round-2 notes/validation_notes as already added, but the entry itself was missing from this array until this quality-pass round restored it.",
+        "source": "MOEXBMI_Отчеты_2024/MGTS/Годовой отчет ПАО МГТС за 2024 год.pdf",
+        "sector": "Information Technology",
+        "industry_group": "Software & Services",
+        "industry": "IT Services"
+      },
+      {
+        "organization": "ПАО «МТС»",
+        "role": "Директор по внедрению цифровых решений кластера «Стратегический»",
+        "start_year": 2020,
+        "end_year": 2021,
+        "description": "Занимал должность с января 2020 года; в мае 2021 года присоединился к управленческой команде директора ПАО МГТС.",
+        "source": "MOEXBMI_Отчеты_2024/MGTS/Годовой отчет ПАО МГТС за 2024 год.pdf",
+        "sector": "Communication Services",
+        "industry_group": "Telecommunication Services",
+        "industry": "Diversified Telecommunication Services"
+      },
+      {
+        "organization": "ПАО МГТС",
+        "role": "Генеральный директор",
+        "start_year": 2021,
+        "end_year": null,
+        "description": "Назначен с августа 2021 года; с 12.08.2024 назначен на новый трехлетний срок решением Совета директоров от 17.07.2024.",
+        "source": "MOEXBMI_Отчеты_2024/MGTS/Годовой отчет ПАО МГТС за 2024 год.pdf",
+        "sector": "Communication Services",
+        "industry_group": "Telecommunication Services",
+        "industry": "Diversified Telecommunication Services"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "CSV row 359 lists Альберт Тимурович Гильманов as генеральный директор of ПАО МГТС."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/MGTS/Годовой отчет ПАО МГТС за 2024 год.pdf",
+        "title": "Годовой отчет ПАО МГТС за 2024 год",
+        "fact": "PDF pages 34-35: the annual report confirms CEO appointment dates and gives Gilmanov's education and career biography."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/MGTS/MGTS IFRS Cons FS 24-r_processed.pdf",
+        "title": "Консолидированная финансовая отчетность ПАО МГТС за 2024 год",
+        "fact": "PDF pages 3, 9 and 11: statements are signed by General Director Гильманов А.Т."
+      },
+      {
+        "url": "https://finviewer.ru/mgts/news/2024/",
+        "title": "FinViewer: новости ПАО МГТС за 2024 год",
+        "fact": "17.07.2024 Board decision appoints Гильманов Альберт Тимурович as General Director for three years from 12.08.2024."
+      }
+    ],
+    "notes": "CEO identity and biography are well supported by local annual report, IFRS statements and disclosure aggregator. Round 2 (2026-07-19, gap-filling per REFINEMENT.md): re-checked the local annual report biography box (p.33/p.35) specifically for the null qualification field; the source gives only the specialty (Mirovaya ekonomika, 2004) and no separate qualification title, so qualification stays null, but qualification_degree is set to Specialist degree with reasoning in top-level validation_notes. The same re-read turned up two previously uncaptured board seats (AO Teleservis 2014-2017, OOO Avantazh board 2019-2020) from the same already-cited source; added without touching any previously confirmed fact. OOO Avantazh classified as Information Technology / Software and Services / IT Services because the source explicitly describes it as the entity behind Russias largest data center integrated into MTS computing infrastructure; AO Teleservis business could not be confirmed this round (web search budget exhausted for the session) so its GICS fields are left null rather than guessed. QUALITY PASS (2026-07-30): round-2 notes and validation_notes had already described the AO Teleservis (2014-2017) and OOO Avantazh board-member (2019-2020) entries as \"added\", but they were never actually present in professional_experience[] -- a desync between narrative notes and the structured data. Restored both as proper array entries this round (AO Teleservis GICS still null, business unconfirmed; OOO Avantazh board seat classified Information Technology/Software & Services/IT Services, same reasoning as the existing Avantazh GD entry). Attempted one fresh bounded gap follow-up on AO Teleservis's line of business (queries: '\"АО Телесервис\" МТС вид деятельности', Yandex/list-org/rusprofile lookups): found a plausible but unconfirmed lead -- an AO Teleservis based in Voronezh, OKVED 60.20 (television broadcasting), liquidated 31.07.2020 via reorganization, with an email domain reference suggesting some MTS connection -- but could not confirm this is the same entity where Gilmanov held a 2014-2017 board seat, so GICS remains null rather than guessed."
+  },
+  "tmt": [
+    {
+      "name": "Виктор Леонидович Белов",
+      "current_role": "Член Совета директоров ПАО МГТС",
+      "company_name": "ПАО «Московская городская телефонная сеть» (ПАО МГТС)",
+      "education": [
+        {
+          "institution": null,
+          "year": null,
+          "program_or_specialty": "Вычислительные машины, комплексы, системы и сети",
+          "qualification": "инженер",
+          "source": "https://mts.ru/upload/contents/10677/otchet_6_mes_2022_g.pdf",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ЗАО «МТУ-Интел» / ООО «Система Мультимедиа» / ОАО «НПП Бизнес Связь» / ООО «Зенон Н.С.П.»",
+          "role": "Руководящие должности (несколько компаний)",
+          "start_year": 1998,
+          "end_year": 2008,
+          "description": "whoiswho.comnews.ru verbatim: \"С 1998 г. по 2008 г. занимал руководящие должности в ЗАО «МТУ-Интел», ООО «Система Мультимедиа», ОАО «Научно-производственное предприятие Бизнес Связь» и ООО «Зенон Н.С.П.»\" -- found via fresh research in the 2026-07-30 quality pass while investigating the institution gap; the source bundles four employers into one sentence without per-company dates or titles.",
+          "source": "https://whoiswho.comnews.ru/person/24057/belov-viktor-leonidovich",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ОАО «Комстар-ОТС»",
+          "role": "Руководитель дирекции развития сервисных платформ и сетей",
+          "start_year": 2009,
+          "end_year": 2011,
+          "description": "whoiswho.comnews.ru verbatim: \"Пришел в МТС в 2011 г. после присоединения ОАО «Комстар-ОТС», где с 2009 г. возглавлял дирекцию развития сервисных платформ и сетей.\" Found via fresh research in the 2026-07-30 quality pass.",
+          "source": "https://whoiswho.comnews.ru/person/24057/belov-viktor-leonidovich",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        },
+        {
+          "organization": "ПАО «МТС»",
+          "role": "Руководитель департамента сети передачи данных",
+          "start_year": 2011,
+          "end_year": 2012,
+          "description": "whoiswho.comnews.ru verbatim: \"а с 2011 г. — департамент сети передачи данных МТС\" (joined MTS in 2011 after the Komstar-OTS merger). Found via fresh research in the 2026-07-30 quality pass.",
+          "source": "https://whoiswho.comnews.ru/person/24057/belov-viktor-leonidovich",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        },
+        {
+          "organization": "ПАО «МТС»",
+          "role": "Руководитель департамента магистральной и интернет-сети",
+          "start_year": 2012,
+          "end_year": 2018,
+          "description": "whoiswho.comnews.ru verbatim: \"С 2012 г. возглавлял департамент магистральной и интернет-сети\". Found via fresh research in the 2026-07-30 quality pass; end_year 2018 inferred as the start of the next confirmed role (Директор по конвергентной и транспортной сетям) in the same source.",
+          "source": "https://whoiswho.comnews.ru/person/24057/belov-viktor-leonidovich",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        },
+        {
+          "organization": "ПАО «МТС»",
+          "role": "Директор по конвергентной и транспортной сетям",
+          "start_year": 2018,
+          "end_year": 2020,
+          "description": "Reported as current in the MTS 6M 2022 issuer report.",
+          "source": "https://mts.ru/upload/contents/10677/otchet_6_mes_2022_g.pdf",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        },
+        {
+          "organization": "ПАО «МТС»",
+          "role": "Вице-президент по технике",
+          "start_year": 2020,
+          "end_year": 2021,
+          "description": null,
+          "source": "https://mts.ru/upload/contents/10677/otchet_6_mes_2022_g.pdf",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        },
+        {
+          "organization": "ПАО «МТС»",
+          "role": "Член Правления - Вице-президент по технике",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Reported as current in the MTS 6M 2022 issuer report.",
+          "source": "https://mts.ru/upload/contents/10677/otchet_6_mes_2022_g.pdf",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        },
+        {
+          "organization": "ПАО МГТС",
+          "role": "Член Совета директоров",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "MTS issuer report states Board membership from 2019; 2024 AGM election is separately confirmed.",
+          "source": "https://mts.ru/upload/contents/10677/otchet_6_mes_2022_g.pdf",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 356 lists Belov as Director/Board Member; row 364 lists him as председатель СД."
+        },
+        {
+          "url": "https://mts.ru/upload/contents/10677/otchet_6_mes_2022_g.pdf",
+          "title": "ПАО МТС, отчет за 6 месяцев 2022 года",
+          "fact": "PDF pages 81-82: Belov, born 1975, higher education, engineer; MTS and MGTS Board roles are listed."
+        },
+        {
+          "url": "https://www.ricom.ru/depo/corporate/13915/",
+          "title": "RICOM: ГОСА ПАО МГТС, итоги 21.06.2024",
+          "fact": "Corporate-action page lists Belov among persons elected to the MGTS Board on 21.06.2024."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MGTS/Годовой отчет ПАО МГТС за 2024 год.pdf",
+          "title": "Годовой отчет ПАО МГТС за 2024 год",
+          "fact": "PDF page 25 / printed page 23: the annual report says information about Board members is not disclosed."
+        },
+        {
+          "url": "https://whoiswho.comnews.ru/person/24057/belov-viktor-leonidovich",
+          "title": "ComNews: Белов Виктор Леонидович",
+          "fact": "Confirms born 1975 in Moscow and gives a detailed 1998-2020 MTS/Komstar-OTS career chronology; does not mention any education/institution."
+        }
+      ],
+      "notes": "CSV states chairmanship, but a readable independent 2024 decision naming Belov as chairman was not independently retrieved. Board membership is confirmed. Round 2 (2026-07-19): re-fetched the full text of the already-cited MTS 6M 2022 issuer report (pages 81-82) directly, not just relying on the round-1 summary, to double-check the institution gap; the report genuinely gives only vysshee/inzhener/vychislitelnye mashiny kompleksy sistemy i seti with no institution name anywhere on the page, so institution stays null. qualification_degree set to Specialist degree: the qualification title inzhener is the standard Soviet/Russian 5-year full-time specialist-diploma title used before the Bologna bachelor/master split (Belov born 1975, graduating in the 1990s), consistent with the convention already used elsewhere in this dataset. Attempted to independently confirm 2024 Board chairmanship via finviewer.ru and the linked e-disclosure.ru event page; the e-disclosure page returned 403 Forbidden (same access restriction noted in round 1) and finviewer.ru agenda item does not name the person elected chair, so chairmanship remains unconfirmed and is not added as a fact. QUALITY PASS (2026-07-30), bounded gap follow-up on institution (fresh queries: '\"Белов Виктор Леонидович\" МТС окончил университет вычислительные машины'; a Yandex snippet search for the Oryol military-communications-school phrase plus MTS; 'site:help.mgts.ru кандидаты Совет директоров Белов'; a TAdviser/ComNews profile lookup): found TWO conflicting unconfirmed leads, neither independently verifiable this round. (1) A Yandex search snippet pointed to help.mgts.ru/upload/contents/687/1_Svedeniya_o_kandidatakh_v_Sovet_direktorov_PAO_MGTS_2019_12_24.pdf (a 2019 MGTS board-candidate-information PDF) containing an entry for a same-name/same-birth-year (1975) Belov whose education is given as \"Орловское высшее военное командное училище связи им. М.И. Калинина\" (1995, radio-communications systems); this could not be directly verified because help.mgts.ru, like other mgts.ru-family hosts, returns connection-refused from this environment (confirmed via both WebFetch and a direct curl retry), so this is a second-hand search-engine reconstruction, not a byte-verified primary-source quote, and is not written into the JSON as a fact. (2) A separate search summary claimed a TAdviser profile names MIREA as his institution, but the specific TAdviser URL returned HTTP 404 when fetched directly, so this lead could not be verified at all and may be a search-summarization artifact. Since neither lead could be confirmed by direct fetch and the two leads name different institutions, institution remains null per the 'document the unresolved conflict, do not pick a side' rule; both leads are logged here so a future round with access to mgts.ru or a working TAdviser URL can resolve this quickly. Also added, via the same-round research on the already-cited whoiswho.comnews.ru profile (re-fetched with a full-verbatim-text prompt), four new professional_experience entries covering his previously undocumented 1998-2018 career (MTU-Intel-era companies, Komstar-OTS, MTS backbone/data-network departments), which independently corroborates his existing 2018/2020 MTS role dates."
+    },
+    {
+      "name": "Лариса Владимировна Бодягина",
+      "current_role": "Член Совета директоров ПАО МГТС",
+      "company_name": "ПАО «Московская городская телефонная сеть» (ПАО МГТС)",
+      "education": [
+        {
+          "institution": "Новосибирская государственная академия водного транспорта",
+          "year": 2002,
+          "program_or_specialty": "Экономика и управление на предприятии",
+          "qualification": "экономист-менеджер",
+          "source": "https://mts.ru/upload/contents/10677/otchet_6_mes_2022_g.pdf; https://fcongress.forbes.ru/spikeryi/bodyagina-larisa",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Новосибирский национальный исследовательский государственный университет",
+          "year": 2006,
+          "program_or_specialty": "Менеджер по персоналу",
+          "qualification": null,
+          "source": "https://fcongress.forbes.ru/spikeryi/bodyagina-larisa",
+          "qualification_degree": null
+        },
+        {
+          "institution": "International Institute for Management Development (IMD)",
+          "year": 2020,
+          "program_or_specialty": "MBA",
+          "qualification": "MBA",
+          "source": "https://fcongress.forbes.ru/spikeryi/bodyagina-larisa",
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ОАО «Вимм-Билль-Данн» (PepsiCo)",
+          "role": "Различные роли в HR",
+          "start_year": 2007,
+          "end_year": 2012,
+          "description": "fcongress.forbes.ru verbatim: \"С 2007 по 2012 год работала на разных ролях в HR в компании «Вимм-Билль-Данн», входящей в PepsiCo\". Found via fresh research in the 2026-07-30 quality pass while filling the institution gap.",
+          "source": "https://fcongress.forbes.ru/spikeryi/bodyagina-larisa",
+          "sector": "Consumer Staples",
+          "industry_group": "Food, Beverage & Tobacco",
+          "industry": "Food Products"
+        },
+        {
+          "organization": "АО «Международный аэропорт Шереметьево»",
+          "role": "Заместитель генерального директора по персоналу",
+          "start_year": 2014,
+          "end_year": 2018,
+          "description": null,
+          "source": "https://mts.ru/upload/contents/10677/otchet_6_mes_2022_g.pdf",
+          "sector": "Industrials",
+          "industry_group": "Transportation",
+          "industry": "Transportation Infrastructure"
+        },
+        {
+          "organization": "X5 Retail Group / торговая сеть «Пятерочка»",
+          "role": "Директор по персоналу и организационному развитию, член Правления",
+          "start_year": 2018,
+          "end_year": 2022,
+          "description": null,
+          "source": "https://mts.ru/upload/contents/10677/otchet_6_mes_2022_g.pdf",
+          "sector": "Consumer Staples",
+          "industry_group": "Consumer Staples Distribution & Retail (New Name)",
+          "industry": "Consumer Staples Distribution & Retail (New Name)"
+        },
+        {
+          "organization": "ПАО «МТС»",
+          "role": "Член Правления - Вице-президент по управлению персоналом",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Reported as current in the MTS 6M 2022 issuer report.",
+          "source": "https://mts.ru/upload/contents/10677/otchet_6_mes_2022_g.pdf",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        },
+        {
+          "organization": "ПАО МГТС",
+          "role": "Член Совета директоров",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "MTS report states Board membership from 2022; 2024 AGM election is separately confirmed.",
+          "source": "https://mts.ru/upload/contents/10677/otchet_6_mes_2022_g.pdf",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 357 lists Bodyagina as Director/Board Member of ПАО МГТС."
+        },
+        {
+          "url": "https://mts.ru/upload/contents/10677/otchet_6_mes_2022_g.pdf",
+          "title": "ПАО МТС, отчет за 6 месяцев 2022 года",
+          "fact": "PDF page 83: Bodyagina's education, HR career and MGTS Board membership from 2022 are listed."
+        },
+        {
+          "url": "https://www.ricom.ru/depo/corporate/13915/",
+          "title": "RICOM: ГОСА ПАО МГТС, итоги 21.06.2024",
+          "fact": "Corporate-action page lists Bodyagina among persons elected to the MGTS Board on 21.06.2024."
+        },
+        {
+          "url": "https://fcongress.forbes.ru/spikeryi/bodyagina-larisa",
+          "title": "Forbes Congress: спикер Лариса Бодягина",
+          "fact": "Speaker-profile page (confirmed by role match \"Вице-президент по управлению персоналом, МТС\") verbatim-quotes three education entries (Novosibirsk 2002, Novosibirsk 2006, IMD Switzerland 2020 MBA) and a 2007-2012 Wimm-Bill-Dann/PepsiCo HR career, plus the already-known 2014-2018 Sheremetyevo and 2022- MTS roles."
+        }
+      ],
+      "notes": "Institution for higher education was not disclosed in the readable issuer report. Round 2 (2026-07-19): re-fetched the full text of the already-cited MTS 6M 2022 issuer report (page 83) directly; it gives only vysshee/ekonomist-menedzher/ekonomika i upravlenie na predpriyatii with no institution name, so institution stays null (genuinely undisclosed in this source). qualification_degree set to Specialist degree: ekonomist-menedzher is the standard pre-Bologna Russian specialist-diploma qualification title (Bodyagina born 1979, graduating around 2000-2001), consistent with the convention used elsewhere in this dataset. QUALITY PASS (2026-07-30), bounded gap follow-up on institution (fresh queries: '\"Бодягина Лариса Владимировна\" окончила университет образование'; 'site:fcongress.forbes.ru Бодягина Лариса'): found and directly fetched (not just search-snippet) her Forbes Congress speaker profile, https://fcongress.forbes.ru/spikeryi/bodyagina-larisa, which identifies her by the exact matching role \"Вице-президент по управлению персоналом, МТС\" and gives a verbatim education/career section. This resolves the institution gap for the existing 2002 entry (Novosibirskaya gosudarstvennaya akademiya vodnogo transporta, specialty \"upravlenie na predpriyatii\" -- a close paraphrase of, not a verbatim match to, the MTS-report specialty \"ekonomika i upravlenie na predpriyatii\", treated as the same credential rather than a contradiction) and surfaces two entirely new education facts (a 2006 second higher education in Novosibirsk, specialty \"menedzher po personalu\", qualification_degree left null because no qualification title or programme duration is stated for this second-degree entry -- same conservative convention as Kareva's ambiguous second-degree entry elsewhere in this file; and a 2020 IMD Switzerland MBA, qualification_degree MBA, explicit) plus a previously-missing 2007-2012 Wimm-Bill-Dann/PepsiCo HR career entry that fills the gap between her 2002 graduation and the existing 2014 Sheremetyevo role. The Forbes bio omits her existing, MTS-report-confirmed 2018-2022 X5/Pyaterochka role entirely; this is treated as an incomplete external summary, not a contradiction, since the primary MTS issuer report already confirms that role independently and at higher authority."
+    },
+    {
+      "name": "Инеса Галактионова",
+      "current_role": "Член Совета директоров ПАО МГТС",
+      "company_name": "ПАО «Московская городская телефонная сеть» (ПАО МГТС)",
+      "education": [
+        {
+          "institution": "Вильнюсский университет",
+          "year": null,
+          "program_or_specialty": "Экономика",
+          "qualification": "бакалавр экономики",
+          "source": "https://mts.ru/upload/contents/10677/otchet_6_mes_2022_g.pdf; https://www.bfm.ru/person/9148; https://24smi.org/celebrity/262604-inessa-galaktionova.html",
+          "qualification_degree": "Bachelor's degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ФГУП «Почта России»",
+          "role": "Заместитель генерального директора; затем советник",
+          "start_year": 2013,
+          "end_year": 2019,
+          "description": "MTS report lists deputy general director in 2013-2019 and adviser in 2019.",
+          "source": "https://mts.ru/upload/contents/10677/otchet_6_mes_2022_g.pdf",
+          "sector": "Industrials",
+          "industry_group": "Transportation",
+          "industry": "Air Freight & Logistics"
+        },
+        {
+          "organization": "ПАО «МТС»",
+          "role": "Член Правления - Вице-президент по продажам и обслуживанию",
+          "start_year": 2019,
+          "end_year": 2019,
+          "description": "Reported as current in the MTS 6M 2022 issuer report.",
+          "source": "https://mts.ru/upload/contents/10677/otchet_6_mes_2022_g.pdf",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        },
+        {
+          "organization": "ПАО «МТС»",
+          "role": "Первый Вице-президент по телекоммуникационному бизнесу - член Правления",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Reported as current in the MTS 6M 2022 issuer report.",
+          "source": "https://mts.ru/upload/contents/10677/otchet_6_mes_2022_g.pdf",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        },
+        {
+          "organization": "ПАО МГТС",
+          "role": "Член Совета директоров",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "MTS report states Board membership from 2019; 2024 AGM election is separately confirmed.",
+          "source": "https://mts.ru/upload/contents/10677/otchet_6_mes_2022_g.pdf",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 358 lists Inesa Galaktionova as Director/Board Member of ПАО МГТС."
+        },
+        {
+          "url": "https://mts.ru/upload/contents/10677/otchet_6_mes_2022_g.pdf",
+          "title": "ПАО МТС, отчет за 6 месяцев 2022 года",
+          "fact": "PDF page 85: Galaktionova's education, Russian Post/MTS career and MGTS Board membership from 2019 are listed."
+        },
+        {
+          "url": "https://www.ricom.ru/depo/corporate/13915/",
+          "title": "RICOM: ГОСА ПАО МГТС, итоги 21.06.2024",
+          "fact": "Corporate-action page lists Galaktionova among persons elected to the MGTS Board on 21.06.2024."
+        },
+        {
+          "url": "https://www.bfm.ru/person/9148",
+          "title": "BFM.ru: Инесса Галактионова",
+          "fact": "Verbatim: \"получила диплом экономиста в Вильнюсском госуниверситете\" -- confirms the institution for her economics degree."
+        },
+        {
+          "url": "https://24smi.org/celebrity/262604-inessa-galaktionova.html",
+          "title": "24SMI: Инесса Галактионова",
+          "fact": "Independently corroborates the Vilnius institution: economics faculty at \"the largest university in Vilnius\", graduating in the late 1990s."
+        }
+      ],
+      "notes": "Institution for economics education was not disclosed in the readable issuer report. Spelling variant Инесса was checked and not used. Round 2 (2026-07-19): re-fetched the full text of the already-cited MTS 6M 2022 issuer report (page 85) directly; it gives only vysshee/bakalavr ekonomiki/ekonomika with no institution name, so institution stays null (genuinely undisclosed in this source). qualification_degree set to Bachelor's degree directly from the explicit qualification title bakalavr ekonomiki (no inference needed). FGUP Pochta Rossii classified as Industrials / Transportation / Air Freight and Logistics (national postal/parcel operator, the closest GICS bucket for a postal-and-logistics organization, matching how comparable postal operators are classified under this industry). QUALITY PASS (2026-07-30), bounded gap follow-up on institution (fresh queries: '\"Галактионова Инеса\" окончила университет'; 'site:fcongress.forbes.ru / site:bfm.ru / site:24smi.org Галактионова'): a search-engine snippet first pointed to a 2019 MGTS board-candidate PDF (help.mgts.ru) naming \"Вильнюсский Государственный Университет\", 1997 -- but that mgts.ru-family host is unreachable from this environment (connection refused, same restriction as round 1/2), so it could not be verified directly and the specific year 1997 is NOT added to the JSON on that basis alone. Instead, two independently and directly fetched sources were used to confirm the institution itself: bfm.ru (verbatim: \"получила диплом экономиста в Вильнюсском госуниверситете\") and 24smi.org (verbatim, paraphrased as \"the largest university in Vilnius\", economics faculty, late 1990s). Institution is added as \"Вильнюсский университет\" on the strength of these two directly-verified sources; year is left null since only the unverifiable mgts.ru lead gave a specific year (1997), which is broadly consistent with but not confirmed by the two verified sources' \"late 1990s\" framing."
+    },
+    {
+      "name": "Александр Сергеевич Дмитриев",
+      "current_role": "Член Совета директоров ПАО МГТС",
+      "company_name": "ПАО «Московская городская телефонная сеть» (ПАО МГТС)",
+      "education": [
+        {
+          "institution": "Национальный исследовательский университет «Высшая школа экономики»",
+          "year": 2009,
+          "program_or_specialty": "Экономика; математические методы",
+          "qualification": "бакалавриат и магистратура",
+          "source": "https://whoiswho.comnews.ru/person/92601/dmitriev-aleksandr",
+          "qualification_degree": "Master's degree"
+        },
+        {
+          "institution": "Bremerhaven University of Applied Sciences",
+          "year": 2004,
+          "program_or_specialty": "Глобальная экономика",
+          "qualification": "бакалавр",
+          "source": "https://whoiswho.comnews.ru/person/92601/dmitriev-aleksandr",
+          "qualification_degree": "Bachelor's degree"
+        },
+        {
+          "institution": "Московская школа управления «Сколково»",
+          "year": 2017,
+          "program_or_specialty": "Executive MBA",
+          "qualification": null,
+          "source": "https://whoiswho.comnews.ru/person/92601/dmitriev-aleksandr",
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ТНК-BP",
+          "role": "Глава департамента и коммерческий директор",
+          "start_year": 2006,
+          "end_year": 2012,
+          "description": null,
+          "source": "https://whoiswho.comnews.ru/person/92601/dmitriev-aleksandr",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "Рязанский НПЗ / группа «Роснефть»",
+          "role": "Генеральный директор",
+          "start_year": 2012,
+          "end_year": 2017,
+          "description": null,
+          "source": "https://whoiswho.comnews.ru/person/92601/dmitriev-aleksandr",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "Роснефть",
+          "role": "Операционный директор по эффективности НПЗ",
+          "start_year": 2016,
+          "end_year": 2019,
+          "description": "ComNews describes responsibility for efficiency of more than 20 Rosneft refineries.",
+          "source": "https://whoiswho.comnews.ru/person/92601/dmitriev-aleksandr",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "PT Pertamina Rosneft Pengolahan dan Petrokimia",
+          "role": "Финансовый директор и член совета директоров",
+          "start_year": 2017,
+          "end_year": 2019,
+          "description": null,
+          "source": "https://whoiswho.comnews.ru/person/92601/dmitriev-aleksandr",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "Verifier (Сан-Франциско, США)",
+          "role": "Соучредитель стартапа",
+          "start_year": 2017,
+          "end_year": 2018,
+          "description": "whoiswho.comnews.ru verbatim: \"с июля 2017 г. до февраля 2018 г. выступил одним из соучредителей стартапа Verifier в Сан-Франциско (США)\". Found via fresh research in the 2026-07-30 quality pass (round 1 notes had recorded this fact under Education/Professional experience narrative but it was never added as a professional_experience[] entry). Startup's actual line of business could not be confirmed this round (search for 'Verifier startup San Francisco Dmitriev Rosneft co-founder' returned nothing), so GICS fields are left null rather than guessed.",
+          "source": "https://whoiswho.comnews.ru/person/92601/dmitriev-aleksandr",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Трансмашхолдинг / Ctrl2Go",
+          "role": "Руководящие должности в цифровых структурах",
+          "start_year": 2019,
+          "end_year": 2023,
+          "description": "ComNews lists Holding Ctrl2Go Limited, Clover Group and Kontroltugou.Ru roles.",
+          "source": "https://whoiswho.comnews.ru/person/92601/dmitriev-aleksandr",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "IT Services"
+        },
+        {
+          "organization": "ПАО «МТС»",
+          "role": "Член Правления; Вице-президент по трансформации",
+          "start_year": null,
+          "end_year": 2024,
+          "description": "ComNews states he worked in MTS structures and left MTS in October 2024.",
+          "source": "https://whoiswho.comnews.ru/person/92601/dmitriev-aleksandr",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        },
+        {
+          "organization": "ПАО МГТС",
+          "role": "Член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Elected at the 21.06.2024 annual general meeting.",
+          "source": "https://www.ricom.ru/depo/corporate/13915/",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 360 lists Dmitriev as Director/Board Member of ПАО МГТС."
+        },
+        {
+          "url": "https://www.ricom.ru/depo/corporate/13915/",
+          "title": "RICOM: ГОСА ПАО МГТС, итоги 21.06.2024",
+          "fact": "Corporate-action page lists Dmitriev among persons elected to the MGTS Board on 21.06.2024."
+        },
+        {
+          "url": "https://whoiswho.comnews.ru/person/92601/dmitriev-aleksandr",
+          "title": "ComNews: Дмитриев Александр Сергеевич",
+          "fact": "Professional biography gives education and career, including MTS Management Board / VP for transformation and departure from MTS in October 2024."
+        }
+      ],
+      "notes": "Biography source is business media rather than primary MTS/MGTS. Later roles after 2024 were not imported into the 2024 MGTS role. Round 2 (2026-07-19): re-fetched whoiswho.comnews.ru (already-cited source) in full to double check the null year and institution-normalization gaps; it confirms the 2000-2009 HSE span covers both a bachelor degree (Economics) and a master degree (Mathematical Methods) without a separate split date, so year is set to 2009 (the terminal/master completion year) and qualification_degree to Master's degree (the higher of the two credentials named in the same combined entry); institution normalized to its canonical HSE form per university_names.json. Bremerhaven institution: raw string Bremerhaven Universitat is not listed in university_names.json; best-supported official name Bremerhaven University of Applied Sciences (English self-designation of Hochschule Bremerhaven, Germany) used instead and logged to new_institutions_found for the synthesis pass. Skolkovo quote-style normalized to the exact canonical form already in university_names.json (no new-institution logging needed, cosmetic quote difference only). Attempted to re-confirm the null MTS start_year via the same source; ComNews states only that he joined MTS while at Ctrl2Go (2019-2023) and left in October 2024, without a specific start date, so start_year stays null rather than guessed. Transmashholding/Ctrl2Go classified as Information Technology / Software and Services / IT Services, not Industrials/Machinery: the role and description are specifically about the digital/analytics subsidiaries Ctrl2Go, Clover Group and Kontroltugou.Ru (predictive-maintenance/analytics platforms), which is the entity he actually worked in, not Transmashholding core rolling-stock manufacturing business. QUALITY PASS (2026-07-30) SIMPLE-OMISSION FIX: round 2's own notes/validation_notes above describe the HSE year being set to 2009 and all three institution names being normalized (HSE, Bremerhaven, Skolkovo quote-style), but none of these three edits had actually been written to the JSON education[] array (institution strings and year were still in their raw/null round-1 form) -- a desync between narrative notes and structured data, applied now: HSE institution normalized and year set to 2009; Bremerhaven institution changed to \"Bremerhaven University of Applied Sciences\"; Skolkovo institution normalized to the exact quoted canonical form. Also added a previously-missing professional_experience entry for the Verifier (San Francisco) startup co-founding, July 2017-February 2018 -- this fact was already present in the round-1 research-notes Education/Professional-experience summary and independently re-confirmed verbatim this round via a fresh WebFetch of the same already-cited ComNews page, but had never been added as its own array entry. Bounded gap follow-up on the still-null MTS start_year (fresh WebFetch of the same whoiswho.comnews.ru page with a prompt specifically targeting any MTS join date): confirmed again that the source states only that he became an MTS Management Board member/VP for transformation \"while at Ctrl2Go\" and left in October 2024, with no specific join date anywhere on the page, so start_year correctly stays null. Also noted: the same fresh fetch showed this ComNews page itself spells the German institution \"Bremenhaven Universitat\" (not \"Bremerhaven\"), i.e. the spelling ambiguity flagged in round 2 originates in the source itself (likely conflating the real German city Bremerhaven with Bremen); this does not change the normalized institution value used above, which is based on the real city/institution rather than the source's inconsistent spelling."
+    },
+    {
+      "name": "Роман Валерьевич Райков",
+      "current_role": "Член Совета директоров ПАО МГТС",
+      "company_name": "ПАО «Московская городская телефонная сеть» (ПАО МГТС)",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО МГТС",
+          "role": "Член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Elected at the 21.06.2024 annual general meeting.",
+          "source": "https://www.ricom.ru/depo/corporate/13915/",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 361 lists Raykov as Director/Board Member of ПАО МГТС."
+        },
+        {
+          "url": "https://www.ricom.ru/depo/corporate/13915/",
+          "title": "RICOM: ГОСА ПАО МГТС, итоги 21.06.2024",
+          "fact": "Corporate-action page lists Raykov among persons elected to the MGTS Board on 21.06.2024."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MGTS/Годовой отчет ПАО МГТС за 2024 год.pdf",
+          "title": "Годовой отчет ПАО МГТС за 2024 год",
+          "fact": "PDF page 25 / printed page 23: Board member biographies are not disclosed."
+        }
+      ],
+      "notes": "No readable source confirming education or prior career was found. Search snippets pointing to candidate PDFs were not used because the PDFs timed out or were not readable. Round 2 (2026-07-19): repeated the targeted search for education/prior career (query Raykov Roman Valerevich MGTS), re-attempted direct fetch of the lytkarino.mgts.ru and serpuhov.mgts.ru candidate-info PDFs referenced in round 1, and re-fetched the RICOM 2024 AGM page in full. All mgts.ru-family hosts remain unreachable (connection refused) from this environment, e-disclosure.ru returns 403 Forbidden, and the fresh search only resurfaced the same unrelated namesakes already rejected in round 1 (a Barnaul sports-medicine doctor and an unrelated dissertation author). No new readable source was found; education and prior career remain unconfirmed and are correctly left empty rather than guessed. QUALITY PASS (2026-07-30), bounded gap follow-up (fresh queries not tried in rounds 1-2: 'Райков Роман Валерьевич МГТС Совет директоров профиль список членов 2024'; a Yandex snippet search for 'Райков Роман Валерьевич МГТС биография'; site:rusprofile.ru and site:list-org.com lookups for the name): the fresh Yandex snippet search again surfaced only the same two already-rejected namesakes (the Barnaul sports-medicine physician and the dissertation author on institutions of private enterprise) with no MTS/MGTS link, and the registry-site lookups returned no distinct corporate-officer record for this exact name tied to MGTS. This remains the largest unresolved gap in the ticker; education and prior career stay empty. A future round should prioritize this person first if mgts.ru access or e-disclosure.ru access is ever restored, since the two candidate-info PDFs already identified in round 1 (lytkarino.mgts.ru, serpuhov.mgts.ru) are titled exactly \"Сведения о кандидатах в Совет директоров\" for the same 2024 AGM and remain the most likely source of his missing biography."
+    },
+    {
+      "name": "Дмитрий Николаевич Рылов",
+      "current_role": "Член Совета директоров ПАО МГТС",
+      "company_name": "ПАО «Московская городская телефонная сеть» (ПАО МГТС)",
+      "education": [
+        {
+          "institution": "Самарский национальный исследовательский университет имени академика С.П. Королёва",
+          "year": 1994,
+          "program_or_specialty": "Инженер-радиотехник",
+          "qualification": "инженер-радиотехник",
+          "source": "https://chehov.mts.ru/upload/images/oficialnaya-biografiya-dmitrij-rylov.pdf",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "International Market Institute",
+          "year": 2001,
+          "program_or_specialty": "Профессиональная переподготовка: подготовка управленческих кадров для организаций народного хозяйства РФ, направление «Менеджмент»",
+          "qualification": null,
+          "source": "https://chehov.mts.ru/upload/images/oficialnaya-biografiya-dmitrij-rylov.pdf",
+          "qualification_degree": "Professional certification"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «МТС»",
+          "role": "Директор департамента продаж и абонентского обслуживания в макрорегионе «Поволжье»",
+          "start_year": 2005,
+          "end_year": 2006,
+          "description": "Director for regional development from July 2016; VP for regional development from September 2019, per the official biography.",
+          "source": "https://chehov.mts.ru/upload/images/oficialnaya-biografiya-dmitrij-rylov.pdf",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        },
+        {
+          "organization": "ПАО «МТС»",
+          "role": "Руководитель филиалов в Саратовской области, Самарской области и Республике Башкортостан",
+          "start_year": 2006,
+          "end_year": 2010,
+          "description": "The official biography lists Saratov from 2006, Samara from 2007 and Bashkortostan from 2008.",
+          "source": "https://chehov.mts.ru/upload/images/oficialnaya-biografiya-dmitrij-rylov.pdf",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        },
+        {
+          "organization": "ПАО «МТС»",
+          "role": "Руководитель бизнеса в Центральном федеральном округе",
+          "start_year": 2010,
+          "end_year": 2014,
+          "description": null,
+          "source": "https://chehov.mts.ru/upload/images/oficialnaya-biografiya-dmitrij-rylov.pdf",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        },
+        {
+          "organization": "ПАО «МТС»",
+          "role": "Руководитель филиала «Северо-Запад»",
+          "start_year": 2014,
+          "end_year": 2016,
+          "description": null,
+          "source": "https://chehov.mts.ru/upload/images/oficialnaya-biografiya-dmitrij-rylov.pdf",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        },
+        {
+          "organization": "ПАО «МТС»",
+          "role": "Директор по региональному развитию; затем вице-президент по региональному развитию",
+          "start_year": 2016,
+          "end_year": 2021,
+          "description": "Director for regional development from July 2016; VP for regional development from September 2019, per the official biography.",
+          "source": "https://chehov.mts.ru/upload/images/oficialnaya-biografiya-dmitrij-rylov.pdf",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        },
+        {
+          "organization": "ПАО «МТС»",
+          "role": "Вице-президент - директор региона «Москва»",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "The official biography describes the appointment in March 2021.",
+          "source": "https://chehov.mts.ru/upload/images/oficialnaya-biografiya-dmitrij-rylov.pdf",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        },
+        {
+          "organization": "ПАО МГТС",
+          "role": "Член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Elected at the 21.06.2024 annual general meeting.",
+          "source": "https://www.ricom.ru/depo/corporate/13915/",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 362 lists Rylov as Director/Board Member of ПАО МГТС."
+        },
+        {
+          "url": "https://www.ricom.ru/depo/corporate/13915/",
+          "title": "RICOM: ГОСА ПАО МГТС, итоги 21.06.2024",
+          "fact": "Corporate-action page lists Rylov among persons elected to the MGTS Board on 21.06.2024."
+        },
+        {
+          "url": "https://chehov.mts.ru/upload/images/oficialnaya-biografiya-dmitrij-rylov.pdf",
+          "title": "МТС: официальная биография Дмитрия Рылова",
+          "fact": "Official MTS biography gives education, regional MTS career and appointment as VP / director of the Moscow region."
+        }
+      ],
+      "notes": "Sports and unrelated namesake profiles were rejected. Round 2 (2026-07-19): re-read the full text of the already-cited official MTS biography PDF (chehov.mts.ru) directly; it fills the previously null program_or_specialty (Inzhener-radiotekhnik, matching the existing qualification field exactly) and reveals a second, previously-uncaptured education fact: a 2000-2001 professional-retraining program (professionalnaya perepodgotovka) in management at the Mezhdunarodnyi institut rynka (International Market Institute), added as a new education entry with qualification_degree Professional certification (a named profpodgotovka program, not a full academic degree). qualification_degree for the 1994 aerospace-university entry set to Specialist degree: inzhener-radiotekhnik is the standard pre-Bologna Russian 5-year specialist engineering title. Institution normalized to Samarskii natsionalnyi issledovatelskii universitet imeni akademika S.P. Koroleva per university_names.json (raw string Samarskii gosudarstvennyi aerokosmicheskii universitet imeni akademika S.P. Koroleva is the university 1992-2015 name, not yet listed as an explicit variant there, so it is logged to new_institutions_found). QUALITY PASS (2026-07-30) SIMPLE-OMISSION FIX: round 2's own notes and validation_notes above describe program_or_specialty being filled and the International Market Institute entry being added, but neither edit had actually been written to the JSON education[] array (program_or_specialty was still null and only one education entry existed) -- a desync between narrative notes and structured data. Independently re-fetched the same chehov.mts.ru PDF this round (via Read tool after a WebFetch download) and confirmed the exact verbatim text: \"В 1994 г. окончил Самарский государственный аэрокосмический университет по специальности «Инженер-радиотехник». В 2000-2001 гг. проходил профессиональную переподготовку в Международном институте рынка по программе подготовки управленческих кадров для организаций народного хозяйства РФ по направлению «Менеджмент».\" Applied both fixes now: program_or_specialty filled, institution normalized to the canonical Korolev-university name (verified present in university_names.json), and the International Market Institute entry added with year 2001 (end of the stated 2000-2001 span)."
+    },
+    {
+      "name": "Ирина Владимировна Карева",
+      "current_role": "Финансовый директор ПАО МГТС",
+      "company_name": "ПАО «Московская городская телефонная сеть» (ПАО МГТС)",
+      "education": [
+        {
+          "institution": "Уральский федеральный университет имени первого Президента России Б.Н. Ельцина",
+          "year": 1991,
+          "program_or_specialty": null,
+          "qualification": null,
+          "source": "https://xn----etbqnigrhw.xn--p1ai/information/news-mgts/207-news059.html",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Российский экономический университет имени Г.В. Плеханова",
+          "year": 2000,
+          "program_or_specialty": null,
+          "qualification": null,
+          "source": "https://xn----etbqnigrhw.xn--p1ai/information/news-mgts/207-news059.html",
+          "qualification_degree": null
+        },
+        {
+          "institution": "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+          "year": 2009,
+          "program_or_specialty": "Управление стоимостью компании",
+          "qualification": "MBA",
+          "source": "https://xn----etbqnigrhw.xn--p1ai/information/news-mgts/207-news059.html",
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ЗАО «Уралтел»",
+          "role": "Начальник планово-финансового отдела",
+          "start_year": 2003,
+          "end_year": 2008,
+          "description": "Archive page (mgts-info.rf) verbatim: \"С 2003 года начала работу в Группе МТС с должности начальника планово-финансового отдела ЗАО «Уралтел»\".",
+          "source": "https://xn----etbqnigrhw.xn--p1ai/information/news-mgts/207-news059.html",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        },
+        {
+          "organization": "ОАО «МТС»",
+          "role": "Финансовый директор уральского макрорегиона",
+          "start_year": 2008,
+          "end_year": 2009,
+          "description": "Archive page verbatim: \"в 2008 году назначена на должность финансового директора уральского макрорегиона МТС\".",
+          "source": "https://xn----etbqnigrhw.xn--p1ai/information/news-mgts/207-news059.html",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        },
+        {
+          "organization": "ОАО «МТС»",
+          "role": "Финансовый директор по работе с макрорегионами блока финансов и инвестиций",
+          "start_year": 2009,
+          "end_year": null,
+          "description": "Archive page verbatim: \"С 2009 года является финансовым директором по работе с макрорегионами блока финансов и инвестиций МТС\"; no end date stated in this 2014 source.",
+          "source": "https://xn----etbqnigrhw.xn--p1ai/information/news-mgts/207-news059.html",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        },
+        {
+          "organization": "ОАО МГТС",
+          "role": "Член Совета директоров",
+          "start_year": 2014,
+          "end_year": null,
+          "description": "Archive page confirms election to the OAO MGTS Board of Directors at the 20.06.2014 annual general meeting (one of nine new members, alongside Dubovskov, Ershov, Latsanich, Savchenko, Smirnov, Ushatskiy, Khrenkov, Shorzhin), as an MTS Group finance executive. This is a distinct Board seat, not her later (2024-confirmed) role as MGTS's own Financial Director. End date not stated in the source; she is absent from the 2024 re-elected MGTS Board list (RICOM page), implying the seat ended at some point before 2024, but no explicit end date was found, so left null rather than guessed.",
+          "source": "https://xn----etbqnigrhw.xn--p1ai/information/news-mgts/207-news059.html",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        },
+        {
+          "organization": "ПАО МГТС",
+          "role": "Финансовый директор",
+          "start_year": null,
+          "end_year": null,
+          "description": "Confirmed as Financial Director in the 2024 IFRS statements signed in March 2025.",
+          "source": "MOEXBMI_Отчеты_2024/MGTS/MGTS IFRS Cons FS 24-r_processed.pdf",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 363 lists Kareva as financial director of ПАО МГТС."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MGTS/MGTS IFRS Cons FS 24-r_processed.pdf",
+          "title": "Консолидированная финансовая отчетность ПАО МГТС за 2024 год",
+          "fact": "PDF pages 3, 9 and 11: statements are signed by Financial Director Карева И.В."
+        },
+        {
+          "url": "https://xn----etbqnigrhw.xn--p1ai/information/news-mgts/207-news059.html",
+          "title": "MGTS shareholder/news archive: Карева Ирина Владимировна",
+          "fact": "20.06.2014 MGTS-Info (mgts-info.rf) press notice on the OAO MGTS AGM: Kareva born 1969, graduated Uralskii politekhnicheskii institut im. S.M. Kirova (1991) and Rossiiskaya ekonomicheskaya akademiya im. G.V. Plekhanova (2000), MBA Upravlenie stoimostyu kompanii at Akademiya narodnogo khozyaistva pri Pravitelstve RF (2009); MTS Group finance career from 2003 (ZAO Uraltel, then Ural-macroregion and block-level MTS CFO roles); elected to the OAO MGTS Board in 2014. CORRECTED this round from an earlier, unsupported fact bullet (Finance Academy / finansy i kredit) that this same URL never actually contained -- see person-level notes for the full correction history."
+        }
+      ],
+      "notes": "Education source is a weak historical archive page; current CFO role is confirmed by local IFRS report. Round 2 (2026-07-19) CORRECTION: full-text re-verification of the already-cited archive page (https://xn----etbqnigrhw.xn--p1ai/information/news-mgts/207-news059.html, domain decodes to mgts-info.rf) found that it does NOT contain the round-1 claim of Finansovaya akademiya pri Pravitelstve Rossiiskoi Federatsii / specialty finansy i kredit anywhere in its text (checked via direct HTML fetch and full-text search for both phrases: no match). The actual page is a 20.06.2014 MGTS-Info press-center notice about the 2014 OAO MGTS AGM electing new Board members, including a short biography of Kareva Irina Vladimirovna: born 1969, graduated Uralskii politekhnicheskii institut im. S.M. Kirova (1991) and Rossiiskaya ekonomicheskaya akademiya im. G.V. Plekhanova (2000), MBA Upravlenie stoimostyu kompanii at the Akademiya narodnogo khozyaistva pri Pravitelstve RF (2009); MTS Group finance career from 2003, and election to the OAO MGTS Board in 2014. The unsupported round-1 education entry has been replaced with these three verified entries (not silently deleted: the correction, its reasoning and the exact verification method are recorded here, in the sources[] fact bullet, and in the research_notes/MGTSP round-2 file). Her confirmed 2024 role as MGTS own Financial Director (IFRS signature) is unchanged and unaffected by this correction. Professional_experience was expanded from one bare entry (start/end null) to a full MTS Group finance-career chronology per the same corrected source, plus a 2014 MGTS Board-membership entry (distinct from the 2024 CFO role); the 2014 Board term end date could not be confirmed (she is absent from the 2024 re-elected Board list) and is left null rather than guessed. QUALITY PASS (2026-07-30) MAJOR DESYNC FIX: round 2's own notes and validation_notes (both directly above and at top level) describe this exact correction -- education[] replaced with 3 verified entries, professional_experience[] expanded to 5 entries, sources[] fact bullet rewritten -- as already done, but NONE of these three structural edits had actually been applied to the JSON; only the prose notes/validation_notes fields had been updated. education[] still held the single unsupported \"Финансовая академия\" entry, professional_experience[] still held only the bare 2024 CFO entry, and the sources[] fact bullet still repeated the unsupported claim. This is precisely the narrative-vs-structured-data desync this quality pass was tasked to find. Before applying the fix, independently re-verified (not just trusted the round-2 prose) by directly fetching https://xn----etbqnigrhw.xn--p1ai/information/news-mgts/207-news059.html twice this round with targeted prompts: confirmed verbatim that the page contains \"В 1991 году окончила Уральский политехнический институт им. С.М. Кирова, в 2000 году закончила Российскую экономическую академию им. Г.В. Плеханова, в 2009 году - программу MBA «Управление стоимостью компании» в Академии народного хозяйства при Правительстве РФ\" plus the MTS-Group finance career sentence, and confirmed that neither \"Финансовая академия\" nor \"финансы и кредит\" appears anywhere on the page. Applied the education[]/professional_experience[]/sources[] fix now, using the values round 2 had already derived (institution names normalized to their canonical university_names.json forms). No previously-confirmed fact was deleted: the entry being replaced was never actually supported by its own cited source in the first place, as established (and now re-confirmed) by direct verification."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MGTS/Годовой отчет ПАО МГТС за 2024 год.pdf",
+      "title": "Годовой отчет ПАО МГТС за 2024 год",
+      "fact": "PDF pages 22-25 / printed pages 20-23: the 21.06.2024 annual general meeting included election of Board members; the annual report states individual Board member information is not disclosed."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MGTS/Приложения к ГО/Приложение 2. Отчет о соблюдении принципов и рекомендаций ККУ за 2024 г.pdf",
+      "title": "Отчет о соблюдении принципов и рекомендаций ККУ за 2024 г.",
+      "fact": "PDF pages 17-18 and 47-48: MGTS explains non-disclosure of all candidate biographies and Board/committee composition."
+    },
+    {
+      "url": "https://www.ricom.ru/depo/corporate/13915/",
+      "title": "RICOM: ГОСА ПАО МГТС, итоги 21.06.2024",
+      "fact": "Corporate-action page lists the 2024 elected Board: Belov, Bodyagina, Galaktionova, Gilmanov, Dmitriev, Raykov and Rylov."
+    },
+    {
+      "url": "https://finviewer.ru/mgts/news/2024/",
+      "title": "FinViewer: новости ПАО МГТС за 2024 год",
+      "fact": "26.06.2024 notice shows the Board planned to elect the Board chair; 17.07.2024 notice confirms CEO reappointment."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "Input CSV rows 356-364 define the MGTSP people list."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MGTS/Годовой отчет ПАО МГТС за 2024 год.pdf",
+      "title": "Годовой отчет ПАО МГТС за 2024 год",
+      "fact": "Local annual report provides CEO biography and explains non-disclosure of Board member data."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MGTS/MGTS IFRS Cons FS 24-r_processed.pdf",
+      "title": "Консолидированная финансовая отчетность ПАО МГТС за 2024 год",
+      "fact": "Local IFRS report confirms signatures of General Director Gilmanov and Financial Director Kareva."
+    },
+    {
+      "url": "https://mts.ru/upload/contents/10677/otchet_6_mes_2022_g.pdf",
+      "title": "ПАО МТС, отчет за 6 месяцев 2022 года",
+      "fact": "Issuer report provides education and career data for Belov, Bodyagina and Galaktionova, including MGTS Board roles."
+    },
+    {
+      "url": "https://www.ricom.ru/depo/corporate/13915/",
+      "title": "RICOM: ГОСА ПАО МГТС, итоги 21.06.2024",
+      "fact": "Corporate-action page confirms 2024 MGTS Board election list."
+    },
+    {
+      "url": "https://finviewer.ru/mgts/news/2024/",
+      "title": "FinViewer: новости ПАО МГТС за 2024 год",
+      "fact": "Disclosure aggregator confirms 2024 Board agenda items and CEO reappointment decision."
+    },
+    {
+      "url": "https://whoiswho.comnews.ru/person/92601/dmitriev-aleksandr",
+      "title": "ComNews: Дмитриев Александр Сергеевич",
+      "fact": "Professional biography provides Dmitriev's education and career including MTS role."
+    },
+    {
+      "url": "https://chehov.mts.ru/upload/images/oficialnaya-biografiya-dmitrij-rylov.pdf",
+      "title": "МТС: официальная биография Дмитрия Рылова",
+      "fact": "Official MTS biography provides Rylov's education and career."
+    },
+    {
+      "url": "https://xn----etbqnigrhw.xn--p1ai/information/news-mgts/207-news059.html",
+      "title": "MGTS shareholder/news archive: Карева Ирина Владимировна",
+      "fact": "Historical archive page provides Kareva's education."
+    }
+  ],
+  "validation_notes": "Processed 8 unique people from CSV for MGTSP. Local documents checked: 4 (annual report, IFRS report, interested-party transactions appendix, corporate-governance appendix). Research rounds completed: 8 person-rounds, one per person. CEO is Gilmanov; 2024 role and biography are strongly confirmed by local annual report and IFRS signatures. Board composition is complicated by MGTS non-disclosure in the annual report; RICOM corporate-action page and CSV were used for the named 2024 Board list. Education not confirmed for Roman Raykov. Education institution remains undisclosed for Belov, Bodyagina and Galaktionova. Kareva's education uses a weaker historical MGTS-related archive; her 2024 CFO role is confirmed locally. Dmitriev's biography uses a professional media profile rather than primary issuer biography. Belov's Board membership is confirmed, but chairmanship is only in CSV plus a FinViewer agenda item without a readable decision naming him. Namesakes rejected: unrelated Roman Raykov profiles, sports/unrelated Dmitry Rylov profiles, generic Victor Belov/Alexander Dmitriev profiles without MTS/MGTS linkage. Search is considered complete because all local MGTS documents were checked first, official/non-official web sources were searched in Russian and English/transliterated forms, obvious employer and education leads were followed, inaccessible candidate PDFs and e-disclosure pages were documented, and unsupported details were left empty or qualified. ROUND 2 (2026-07-19, gap-filling plus GICS/qualification_degree/institution normalization per REFINEMENT.md): Added company-level sector/industry_group/industry = Communication Services / Telecommunication Services / Diversified Telecommunication Services, copied verbatim from gics_taxonomy.json; MGTS is a fixed-line telecom operator (Moscow), part of MTS Group, matching how this project already classifies the comparable converged operator Rostelecom (see MAGN/MDMG files). Added sector/industry_group/industry to every professional_experience entry for all 8 people: PAO MTS / ZAO Komstar-Regiony / ZAO Uraltel / OAO MTS macroregion roles / PAO MGTS all classified as Diversified Telecommunication Services (same reasoning as the company itself); OOO Avantazh and Transmashholding/Ctrl2Go classified as Information Technology / Software and Services / IT Services (data-center operator and digital-analytics subsidiary respectively, matching the precedent already used in this project for Rostelekom-TSOD); TNK-BP, Ryazan refinery, Rosneft and PT Pertamina Rosneft Pengolahan dan Petrokimia classified as Energy / Energy / Oil, Gas and Consumable Fuels; AO Mezhdunarodnyi aeroport Sheremetevo as Industrials / Transportation / Transportation Infrastructure; X5 Retail Group/Pyaterochka as Consumer Staples / Consumer Staples Distribution and Retail (New Name); FGUP Pochta Rossii as Industrials / Transportation / Air Freight and Logistics. One entry was left with all-three GICS fields null with an explanation because the organization actual business could not be confirmed this round: Gilmanov newly-found AO Teleservis board seat. Added qualification_degree to every education entry using only the ten allowed values or null, reasoning summarized here and in full per-person in the notes above: Gilmanov (Specialist degree, inferred from pre-2011 specialty-track graduation), Belov and Bodyagina (Specialist degree, inferred from classic Soviet/Russian specialist qualification titles inzhener/ekonomist-menedzher), Galaktionova (Bachelor's degree, explicit), Dmitriev (Master's degree / Bachelor's degree / MBA across his three education entries, mostly explicit, one inferred as the terminal degree of a combined bachelor+master HSE entry), Rylov (Specialist degree for the 1994 aerospace-engineering entry, inferred; Professional certification for the newly-added 2000-2001 retraining entry, explicit programme type), Kareva (Specialist degree for 1991 inferred from era/institution type; null for the 2000 second-higher-education entry because duration/qualification were not stated and confidence was not high enough; MBA explicit for 2009). Raykov has no education entries and none could be confirmed this round either, so nothing was added there. Normalized institution names to the canonical forms in university_names.json where an exact variant match existed (Rossiiskii ekonomicheskii universitet imeni G.V. Plekhanova; Rossiiskaya akademiya narodnogo khozyaistva i gosudarstvennoi sluzhby pri Prezidente Rossiiskoi Federatsii; Natsionalnyi issledovatelskii universitet Vysshaya shkola ekonomiki; Moskovskaya shkola upravleniya Skolkovo). Five institutions were not found as exact listed variants and are recorded in the new top-level new_institutions_found list with a best-supported candidate name each, per the ticket instructions, rather than being silently forced into an existing bucket or left unnormalized: Uralskii gosudarstvennyi ekonomicheskii universitet (Gilmanov, genuinely distinct new institution), Bremerhaven Universitat (Dmitriev), Uralskii politekhnicheskii institut im. S.M. Kirova (Kareva, honorific-suffix variant of an already-canonical entry), Samarskii gosudarstvennyi aerokosmicheskii universitet imeni akademika S.P. Koroleva (Rylov, 1992-2015-era name of an already-canonical entry) and Mezhdunarodnyi institut rynka (Rylov, Russian-language raw string for an already-canonical English-named entry). The most significant correction this round: Kareva education was previously recorded (citing the archive URL https://xn----etbqnigrhw.xn--p1ai/information/news-mgts/207-news059.html) as Finansovaya akademiya pri Pravitelstve Rossiiskoi Federatsii, specialty finansy i kredit -- this round re-fetched that exact URL full text directly and confirmed by full-text search that neither phrase appears anywhere on the page; the page instead documents three different, verifiable education facts (Ural Polytechnic 1991, Plekhanov academy 2000, ANKh MBA 2009) plus a fuller MTS-Group finance career than previously captured. This is disclosed transparently here, in the person-level notes, in the sources[] fact bullet and in the research_notes/MGTSP markdown file, and is not a silent overwrite. Other targeted gap-filling attempted this round: re-confirmed (did not overturn) that Belov, Bodyagina and Galaktionova education institution remains genuinely undisclosed after directly re-fetching the full text of the already-cited MTS 6M 2022 issuer report pages; attempted and failed to reach lytkarino.mgts.ru / serpuhov.mgts.ru / mgts.ru (all connection-refused from this environment, consistent with round 1) and e-disclosure.ru (403 Forbidden) for Raykov still-unconfirmed education/career and for Belov still-unconfirmed 2024 chairmanship; this session web-search quota was exhausted partway through the round (confirmed via a tool-reported budget message), so remaining gaps for Raykov and the Belov chairmanship could not be pursued further with new search queries this round and are left as documented gaps rather than guesses. Rylov official MTS biography PDF was re-read in full and yielded two genuine gap-fills: program_or_specialty for his 1994 degree (Inzhener-radiotekhnik, matching the existing qualification field) and a previously-missing 2000-2001 management-retraining entry at the Mezhdunarodnyi institut rynka. Two new professional_experience entries for Gilmanov (AO Teleservis 2014-2017 and OOO Avantazh board 2019-2020 board seats) were found incidentally while re-reading the same already-cited local annual-report biography box used to check his qualification gap, and were added without altering any previously confirmed fact. No previously confirmed fact was deleted or silently overwritten anywhere in this file this round. MASS DATA-LOSS REPAIR (2026-07-30): restored 8 shortened person notes, 6 shortened experience descriptions, 0 shortened education descriptions, 0 missing person-level sources, and 0 missing experience-level sources using git HEAD (commit 03bfe9f, 2026-07-20) as the reliable baseline. Nothing else in this file was touched. QUALITY PASS ROUND (2026-07-30, correctness/depth pass per this session's task): STEP 0 baseline check: current on-disk file was byte-identical (modulo CRLF/LF) to git HEAD (commit f973022) before this round began, so no additional mass-data-loss restoration was needed for this ticker. DESYNC CHECK found a systemic and serious pattern: round 2's own notes and top-level validation_notes repeatedly described specific structural edits (institution normalizations, year fills, and -- most seriously -- Kareva's entire education/professional_experience/sources correction) as already applied, but five of these had never actually been written to the structured JSON arrays, only to the prose notes fields. Fixed all five SIMPLE-OMISSION desyncs this round, re-verifying each one independently via fresh direct fetch before applying (not merely trusting the round-2 prose): (1) Gilmanov -- restored the AO Teleservis (2014-2017) and OOO Avantazh board-member (2019-2020) professional_experience entries that round 2 said were added but were missing. (2) Dmitriev -- applied the HSE institution-normalization/year-2009 fill and the Bremerhaven/Skolkovo institution normalizations that round 2 said were applied but were not. (3) Rylov -- filled program_or_specialty and added the missing International Market Institute (2000-2001) education entry that round 2 said were added but were not; also normalized the Samara institution name to its canonical form. (4) Kareva -- the most severe finding: round 2 had already done rigorous, correct research (including a direct curl+regex verification) proving the round-1 education entry (Финансовая академия / финансы и кредит) was NOT supported by its own cited source, and had fully designed the 3-entry education replacement and 5-entry professional_experience expansion -- but NONE of this had actually been written into the JSON arrays; only into notes/validation_notes prose. This round independently re-verified the archive-page text via two fresh direct WebFetch calls (confirmed the exact verbatim Russian text and confirmed the absence of the old claim) before applying the already-designed fix. No previously-confirmed fact was deleted in any of these four fixes: in each case the notes had already established (and this round re-confirmed) that the value being replaced/filled was either genuinely missing or never actually supported by its own source. GICS LABEL CORRECTNESS: reviewed every professional_experience entry with a non-null GICS triple against the named organization's real business (telecom operators, an oil major and its refineries, an airport operator, a national postal service, a grocery retailer, a digital-analytics subsidiary, a data-center operator); found no mislabeled entry requiring correction -- all existing triples both match an exact gics_taxonomy.json row and are a reasonable classification of the organization's actual primary business. No GICS corrections were made this round. HONEST-GAP FOLLOW-UP (one bounded fresh-query attempt per genuine gap, WebSearch quota was exhausted for this session so WebFetch-based search-engine and direct-source fetches were used instead): Bodyagina institution -- RESOLVED (direct fetch of her Forbes Congress speaker profile, verbatim-confirmed; also surfaced two entirely new education entries and a new 2007-2012 employer). Galaktionova institution -- RESOLVED (Vilnius University, corroborated by two independently and directly fetched sources, bfm.ru and 24smi.org). Belov institution -- STILL UNRESOLVED after finding two conflicting, only-indirectly-sourced leads (an Oryol military-communications academy per an unverifiable help.mgts.ru snippet; MIREA per a dead TAdviser link); documented both, added neither, per the 'do not pick a side without verification' rule; also added four new, directly-verbatim-sourced professional_experience entries covering his 1998-2018 pre-MTS-VP career. Belov chairmanship -- STILL UNRESOLVED, same e-disclosure.ru 403 restriction as rounds 1-2. Raykov education/career -- STILL UNRESOLVED; fresh queries this round again surfaced only the same two already-rejected namesakes. Dmitriev MTS start_year -- STILL UNRESOLVED, re-confirmed absent from the source with a fresh targeted fetch; also added a previously-missing Verifier (San Francisco) startup professional_experience entry (GICS left null, business type unconfirmed). AO Teleservis (Gilmanov) GICS -- STILL UNRESOLVED; found a plausible but unconfirmed Voronezh TV-broadcasting namesake, not confirmed as the same entity, so GICS remains null. No correctly-non-classifiable null (there are none in this file resembling a government ministry, legislature, or pure holding company) was disturbed. No qualification_degree value outside the fixed ten-value enum (or null) was introduced; no GICS triple outside an exact gics_taxonomy.json row (or all-null) was introduced -- both verified programmatically against the source taxonomy files after all edits.",
+  "sector": "Communication Services",
+  "industry_group": "Telecommunication Services",
+  "industry": "Diversified Telecommunication Services"
+}

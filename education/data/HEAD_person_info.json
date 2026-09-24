@@ -1,0 +1,1293 @@
+{
+  "company_name": "МКПАО \"Хэдхантер\"",
+  "company_ticker": "HEAD",
+  "ceo": {
+    "name": "Сергиенков Дмитрий Сергеевич",
+    "current_role": "Генеральный директор МКПАО \"Хэдхантер\"; член Совета директоров МКПАО \"Хэдхантер\"",
+    "company_name": "МКПАО \"Хэдхантер\"",
+    "education": [
+      {
+        "program": "высшее образование",
+        "field": "менеджмент организации / strategic management",
+        "year": 2008,
+        "sources": [
+          {
+            "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+            "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+            "fact": "Страницы 22 и 25: Дмитрий Сергиенков, 1986 г.р., имеет высшее образование; закончил Государственный университет управления в Москве в 2008 году, менеджер, специальность \"менеджмент организации\"."
+          },
+          {
+            "url": "https://ir.ciangroup.ru/upload/iblock/984/ps0h2y0xgm31iq84e65fyu8777tw2qmu/Information%20about%20the%20members%20of%20the%20Board%20to%20be%20re-elected.pdf",
+            "title": "Cian: Information about the members of the Board to be re-elected",
+            "fact": "Материалы Cian указывают, что Dmitry Sergienkov graduated from Moscow State University of Management with a manager degree in Strategic Management."
+          }
+        ],
+        "qualification_degree": "Specialist degree",
+        "description": "ROUND2 (2026-07-19, gap-filling per REFINEMENT.md): название вуза нормализовано к каноническому \"Государственный университет управления\" по university_names.json (совпадает с ключом-каноном; исходная строка \"ФГБОУ ВПО Государственный университет управления / Moscow State University of Management\" сохранена в источниках для прослеживаемости). qualification_degree выставлен как \"Specialist degree\": оба источника называют квалификацию словом \"менеджер\" (\"manager degree\"), что соответствует традиционному наименованию квалификации по единой 5-летней программе \"специалист\" (специальность \"Менеджмент организации\", квалификация \"менеджер\"), действовавшей в РФ до массового перехода на болонскую систему бакалавриата/магистратуры (завершился к 2011 году); уверенность умеренно-высокая, не абсолютная -- см. research_notes/HEAD/Dmitry_Sergienkov_round_2.md.",
+        "institution": "Государственный университет управления"
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "МКПАО \"Хэдхантер\"",
+        "role": "Генеральный директор",
+        "start_year": 2023,
+        "end_year": null,
+        "description": "Локальный годовой отчет указывает исполнение должности генерального директора МКПАО \"Хэдхантер\" с октября 2023 года; официальный материал hh.ru указывает назначение CEO HeadHunter Group PLC с 1 марта 2023 года.",
+        "sources": [
+          {
+            "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+            "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+            "fact": "Страница 25: генеральным директором Общества является Сергиенков Дмитрий Сергеевич; таблица должностей указывает МКПАО \"Хэдхантер\", генеральный директор, с октября 2023 года по настоящее время."
+          },
+          {
+            "url": "https://hh.ru/article/31239",
+            "title": "HeadHunter объявляет о назначении Дмитрия Сергиенкова генеральным директором",
+            "fact": "Официальная новость hh.ru от 26.01.2023 сообщает, что изменения в руководстве вступают в силу 1 марта 2023 года; Сергиенков работает в компании с августа 2017 года, с 2021 года был заместителем генерального директора."
+          }
+        ],
+        "sector": "Industrials",
+        "industry_group": "Commercial & Professional Services",
+        "industry": "Professional Services"
+      },
+      {
+        "organization": "МКПАО \"Хэдхантер\" / HeadHunter Group PLC / МКАО \"Хэдхантер Груп ПИЭЛСИ\"",
+        "role": "член Совета директоров",
+        "start_year": 2023,
+        "end_year": null,
+        "description": "В 2024 году входил в совет директоров МКПАО \"Хэдхантер\"; локальный отчет также фиксирует переход членства с HeadHunter Group PLC к МКАО \"Хэдхантер Груп ПИЭЛСИ\" после редомициляции.",
+        "sources": [
+          {
+            "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+            "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+            "fact": "Страницы 22 и 25: в таблицах должностей указано членство Дмитрия Сергиенкова в Совете директоров МКПАО \"Хэдхантер\" с ноября 2023 года, в HeadHunter Group PLC с марта 2024 по ноябрь 2024 года и в МКАО \"Хэдхантер Груп ПИЭЛСИ\" с ноября 2024 года."
+          }
+        ],
+        "sector": "Industrials",
+        "industry_group": "Commercial & Professional Services",
+        "industry": "Professional Services"
+      },
+      {
+        "organization": "ООО \"Хэдхантер\"",
+        "role": "Генеральный директор",
+        "start_year": 2023,
+        "end_year": null,
+        "description": "Локальный отчет фиксирует должность генерального директора ООО \"Хэдхантер\" с марта 2023 года.",
+        "sources": [
+          {
+            "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+            "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+            "fact": "Страница 25: ООО \"Хэдхантер\", генеральный директор, с марта 2023 года по настоящее время."
+          }
+        ],
+        "sector": "Industrials",
+        "industry_group": "Commercial & Professional Services",
+        "industry": "Professional Services"
+      },
+      {
+        "organization": "HeadHunter / J.P. Morgan Chase",
+        "role": "заместитель генерального директора; директор по стратегии и инвестициям; ранее вице-президент инвестиционно-банковского департамента J.P. Morgan Chase",
+        "start_year": 2017,
+        "end_year": 2023,
+        "description": "До назначения CEO работал в HeadHunter с августа 2017 года, занимал должности директора по стратегии и инвестициям и заместителя генерального директора; до HeadHunter работал в J.P. Morgan Chase с TMT-компаниями региона EMEA.",
+        "sources": [
+          {
+            "url": "https://hh.ru/article/31239",
+            "title": "HeadHunter объявляет о назначении Дмитрия Сергиенкова генеральным директором",
+            "fact": "Официальная новость hh.ru указывает карьеру в HeadHunter с августа 2017 года, должность заместителя генерального директора с 2021 года, работу директором по стратегии и инвестициям, участие в IPO на Nasdaq в 2019 году и предыдущую должность VP investment banking department в J.P. Morgan Chase."
+          },
+          {
+            "url": "https://www.interfax.ru/business/883301",
+            "title": "Интерфакс: Новым CEO HeadHunter станет замгендиректора компании",
+            "fact": "Интерфакс подтверждает, что Сергиенков пришел в HH летом 2017 года на пост директора по стратегии и инвестициям; до этого работал VP инвестиционно-банковского департамента JP Morgan Chase."
+          }
+        ],
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "Cian PLC / МКПАО \"ЦИАН ТЕХНОЛОДЖИ ЛТД\"",
+        "role": "член Совета директоров",
+        "start_year": 2024,
+        "end_year": null,
+        "description": "В 2024 году вошел в совет директоров Cian PLC и МКПАО \"ЦИАН ТЕХНОЛОДЖИ ЛТД\".",
+        "sources": [
+          {
+            "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+            "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+            "fact": "Страницы 22 и 25: Cian PLC - член Совета директоров с марта 2024 года; МКПАО \"ЦИАН ТЕХНОЛОДЖИ ЛТД\" - член Совета директоров с ноября 2024 года."
+          },
+          {
+            "url": "https://ir.ciangroup.ru/en/press-center/press-releases/2024-03-28/",
+            "title": "Cian PLC Announces Changes to its Board of Directors",
+            "fact": "Cian сообщил о назначении Дмитрия Сергиенкова неисполнительным членом совета директоров."
+          }
+        ],
+        "sector": "Communication Services",
+        "industry_group": "Media & Entertainment",
+        "industry": "Interactive Media & Services"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "CSV содержит строку HEAD для Сергиенкова Дмитрия Сергеевича с ролью \"Генеральный директор, Член СД\"."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+        "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+        "fact": "Страницы 22 и 25 подтверждают личность, образование, должность генерального директора и членство в Совете директоров в контексте 2024 года."
+      },
+      {
+        "url": "https://hh.ru/article/31239",
+        "title": "Официальная новость hh.ru о назначении CEO",
+        "fact": "Подтверждает назначение Дмитрия Сергиенкова CEO HeadHunter Group PLC с 1 марта 2023 года и предыдущий опыт в HeadHunter/J.P. Morgan."
+      }
+    ],
+    "notes": "Научные профили по фамилии \"Сергиенко/Сергиенков\" не привязаны к HeadHunter, J.P. Morgan, ГУУ или TMT/HR-tech; публикации, патенты и h-index не добавлялись. ROUND2 (2026-07-19, gap-filling per REFINEMENT.md): Образование: institution нормализован к канону university_names.json, добавлен qualification_degree (\"Specialist degree\", обоснование в description). GICS: компания и все 5 записей professional_experience получили sector/industry_group/industry (HeadHunter-записи = Industrials/Commercial & Professional Services/Professional Services, по собственному описанию компании \"leading online recruitment platform\" в 20-F и SIC-коду 7363 \"Help Supply Services\" в локальных EDGAR-файлах head_20f_2023_index.html/head_f1a_index.html/head_edgar_20f_list.html; Cian PLC = Communication Services/Media & Entertainment/Interactive Media & Services, как в output/CIAN_person_info.json; запись HeadHunter/J.P. Morgan Chase оставлена null/null/null). Дополнительных пробелов не найдено -- degrees/publications/patents/h_index уже закрыты в раунде 1. См. research_notes/HEAD/Dmitry_Sergienkov_round_2.md."
+  },
+  "tmt": [
+    {
+      "name": "Арсеньев Сергей Станиславович",
+      "current_role": "Член Совета директоров МКПАО \"Хэдхантер\"",
+      "company_name": "МКПАО \"Хэдхантер\"",
+      "education": [
+        {
+          "program": "бакалавриат / высшее образование",
+          "field": "European business administration / European economics and organization of production",
+          "year": null,
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страницы 19-20: Сергей Арсеньев, 1971 г.р.; высшее образование, степень бакалавра европейского делового администрирования в Европейской школе бизнеса в Лондоне."
+            },
+            {
+              "url": "https://events.vedomosti.ru/speakers/arsenev-sergei-6636",
+              "title": "Ведомости.Конференции: Сергей Арсеньев",
+              "fact": "Профиль спикера указывает окончание European Business School в Лондоне и диплом Securities Institute в Лондоне в 1999 году."
+            }
+          ],
+          "qualification_degree": "Bachelor's degree",
+          "institution": "European Business School, London",
+          "description": "ROUND2 (2026-07-19, gap-filling per REFINEMENT.md): institution уже в канонической форме по university_names.json (точное совпадение). qualification_degree = \"Bachelor's degree\": оба источника называют степень бакалавра (\"степень бакалавра европейского делового администрирования\"; повторный WebFetch Vedomosti уточнил формулировку как \"бакалавр гуманитарных наук\" по European Economics and Production Organization -- расхождение в названии направления не разрешено, но степень бакалавра подтверждена обоими источниками, инференс не требуется). Год выпуска остается null: целевой WebFetch-повтор Vedomosti-профиля в этом раунде года не дал."
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Диплом Института ценных бумаг (Securities Institute)",
+          "field": "ценные бумаги / securities",
+          "year": 1999,
+          "institution": "Securities Institute",
+          "source_url": "https://events.vedomosti.ru/speakers/arsenev-sergei-6636",
+          "qualification_degree": "Professional certification",
+          "description": "Профиль Ведомости Конференций (events.vedomosti.ru/speakers/arsenev-sergei-6636) в тексте о карьере упоминает диплом Института ценных бумаг (Securities Institute) в Лондоне, 1999 год. РАУНД 2 (2026-07-19): факт вынесен из неструктурированного текста профиля в отдельную запись degrees[] (ранее существовал только как часть текстового описания карьеры, без своей структурной записи). Это профессиональная квалификация, не академическая степень, поэтому qualification_degree = Professional certification, а не Bachelor's degree. Институт уже присутствует в university_names.json под точным названием \"Securities Institute\", нового вуза не обнаружено."
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "МКПАО \"Хэдхантер\" / МКАО \"Хэдхантер Груп ПИЭЛСИ\" / HeadHunter Group PLC",
+          "role": "член Совета директоров",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Входил в совет HeadHunter Group PLC с января 2023 по ноябрь 2024 года; в 2024 году входил в совет МКПАО \"Хэдхантер\" и МКАО \"Хэдхантер Груп ПИЭЛСИ\".",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страницы 19-20: в таблице должностей указаны МКПАО \"Хэдхантер\" с мая 2024 года, МКАО \"Хэдхантер Груп ПИЭЛСИ\" с ноября 2024 года и HeadHunter Group PLC с января 2023 по ноябрь 2024 года."
+            },
+            {
+              "url": "https://www.sec.gov/Archives/edgar/data/1721181/000110465923002904/tm233019d1_ex99-1.htm",
+              "title": "HeadHunter Group PLC press release, Exhibit 99.1, 10.01.2023",
+              "fact": "HeadHunter сообщил о назначении Sergey Arseniev non-executive director с 10 января 2023 года."
+            }
+          ],
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "TCS Group Holding PLC",
+          "role": "независимый директор; глава комитета по стратегии",
+          "start_year": 2022,
+          "end_year": 2023,
+          "description": "Работал независимым директором и главой комитета по стратегии TCS Group Holding PLC.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страница 20: TCS Group Holding PLC, независимый директор, глава комитета по стратегии, сентябрь 2022 - ноябрь 2023."
+            },
+            {
+              "url": "https://www.eqs-news.com/news/uk-regulatory/tcs-group-holding-plc-announces-bod-changes/805580ed-689a-400f-9126-6d2b40c31921_en",
+              "title": "TCS Group Holding PLC announces BOD changes",
+              "fact": "Сообщение TCS Group от 09.09.2022 подтверждает назначение Sergey Arseniev independent non-executive director и chair of the Strategy Committee."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "ПАО АФК \"Система\"",
+          "role": "главный инвестиционный директор",
+          "start_year": 2018,
+          "end_year": 2021,
+          "description": "Курировал инвестиционное направление АФК \"Система\".",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страница 20: ПАО АФК \"Система\", главный инвестиционный директор, 2018-2021."
+            },
+            {
+              "url": "https://events.vedomosti.ru/speakers/arsenev-sergei-6636",
+              "title": "Ведомости.Конференции: Сергей Арсеньев",
+              "fact": "Профиль конференции указывает Сергея Арсеньева как главного инвестиционного директора АФК \"Система\"."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Financial Services (New Name)"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит строку HEAD для Арсеньева Сергея Станиславовича с ролью \"Член СД\"."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+          "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+          "fact": "Страницы 19-20 подтверждают личность, образование и должности за последние пять лет."
+        }
+      ],
+      "notes": "Исключены однофамильцы: Владимир Клавдиевич Арсеньев и Сергей Владимирович Арсеньев-писатель; найденные профили не связаны с HeadHunter/TCS/АФК \"Система\". ROUND2 (2026-07-19, gap-filling per REFINEMENT.md): institution уже канонический, добавлен qualification_degree (\"Bachelor's degree\") для записи EBS. Добавлена новая запись degrees: диплом Securities Institute (Лондон, 1999), qualification_degree \"Professional certification\" -- факт уже был процитирован текстом, но не вынесен в структурированную запись; целевой WebFetch подтвердил природу квалификации. GICS: HeadHunter board = Industrials/Commercial & Professional Services/Professional Services; TCS Group Holding PLC = Financials/Banks/Banks; ПАО АФК \"Система\" = взят из output/AFKS_person_info.json для консистентности. Год выпуска EBS остался null после целевого повторного поиска. См. research_notes/HEAD/Sergey_Arsenyev_round_2.md."
+    },
+    {
+      "name": "Байцур Антон Григорьевич",
+      "current_role": "Член Совета директоров МКПАО \"Хэдхантер\"",
+      "company_name": "МКПАО \"Хэдхантер\"",
+      "education": [
+        {
+          "program": "высшее образование / BS",
+          "field": "прикладная информатика в экономике / computer science",
+          "year": null,
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страница 20: Антон Байцур, 1985 г.р.; высшее образование, диплом по специальности \"Прикладная информатика (в экономике)\" в НИУ ВШЭ."
+            },
+            {
+              "url": "https://www.phocuswrighteurope.com/Whos-Coming/Speakers/2019/Anton-Baytsur",
+              "title": "Phocuswright Europe 2019: Anton Baytsur",
+              "fact": "Профиль спикера указывает образование: BS Computer Science, National Research University - Higher School of Economics."
+            }
+          ],
+          "qualification_degree": "Bachelor's degree",
+          "institution": "Национальный исследовательский университет «Высшая школа экономики»",
+          "description": "ROUND2 (2026-07-19, gap-filling per REFINEMENT.md): institution нормализован к канону university_names.json (исходная строка \"НИУ ВШЭ\" -- известный алиас). qualification_degree = \"Bachelor's degree\": локальный отчет говорит только \"высшее образование\" без явного уровня, но Phocuswright Europe 2019 (уже процитирован) прямо называет \"BS Computer Science\", уверенность высокая. Целевые попытки этого раунда найти год выпуска не дали результата: tadviser.com/index.php/Person%3ABaitsur_Anton_Grigorievich вернул HTTP 404, phocuswrighteurope.com/Whos-Coming/Speakers/2019/Anton-Baytsur вернул HTTP 403 при прямом WebFetch; WebSearch-бюджет сессии исчерпан (200/200). Год остается null."
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "МКПАО \"Хэдхантер\" / МКАО \"Хэдхантер Груп ПИЭЛСИ\"",
+          "role": "член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Вошел в совет директоров МКПАО \"Хэдхантер\" в декабре 2024 года и в совет МКАО \"Хэдхантер Груп ПИЭЛСИ\" в ноябре 2024 года.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страница 20: МКПАО \"Хэдхантер\", член Совета директоров с декабря 2024 года; МКАО \"Хэдхантер Груп ПИЭЛСИ\" с ноября 2024 года."
+            }
+          ],
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "Go Travel Un Ltd / Aviasales",
+          "role": "CEO; член Совета директоров; ранее COO/CPO",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "Работает в группе Aviasales/Go Travel Un с 2015 года; был CPO, в 2018 году стал COO, в 2021 году назначен CEO.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страница 20: Go Travel Un Ltd, главный исполнительный директор с октября 2021 года и член Совета директоров с августа 2015 года."
+            },
+            {
+              "url": "https://www.kommersant.ru/doc/5009326",
+              "title": "Коммерсантъ: В Aviasales сменился гендиректор",
+              "fact": "Коммерсантъ сообщает, что новым гендиректором Aviasales стал Антон Байцур, ранее COO; работает в Aviasales с 2015 года, COO с 2018 года."
+            },
+            {
+              "url": "https://www.phocuswrighteurope.com/Whos-Coming/Speakers/2019/Anton-Baytsur",
+              "title": "Phocuswright Europe 2019: Anton Baytsur",
+              "fact": "Профиль спикера указывает, что он присоединился к Aviasales в 2015 году как CPO и стал COO в 2018 году."
+            }
+          ],
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Services",
+          "industry": "Hotels, Restaurants & Leisure"
+        },
+        {
+          "organization": "Sports.ru",
+          "role": "Head of Products / Product Director",
+          "start_year": null,
+          "end_year": 2015,
+          "description": "До Aviasales около пяти лет занимался продуктами Sports.ru.",
+          "sources": [
+            {
+              "url": "https://www.phocuswrighteurope.com/Whos-Coming/Speakers/2019/Anton-Baytsur",
+              "title": "Phocuswright Europe 2019: Anton Baytsur",
+              "fact": "Профиль указывает пять лет в Sports.ru как Head of Products."
+            },
+            {
+              "url": "https://tadviser.com/index.php/Person%3ABaitsur_Anton_Grigorievich",
+              "title": "TAdviser: Baitsur Anton Grigorievich",
+              "fact": "TAdviser указывает работу Антона Байцура в Sports.ru в 2010-2015 годах, к моменту ухода - директор продуктов."
+            }
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит строку HEAD для Байцура Антона Григорьевича с ролью \"Член СД\"."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+          "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+          "fact": "Страница 20 подтверждает образование, членство в Совете директоров HeadHunter и должности в Go Travel Un Ltd."
+        }
+      ],
+      "notes": "Поиски научных степеней, ORCID, публикаций и патентов не дали профиля, однозначно связанного с CEO Aviasales / членом СД HeadHunter. ROUND2 (2026-07-19, gap-filling per REFINEMENT.md): institution нормализован, qualification_degree = \"Bachelor's degree\" (обоснование в description). GICS: HeadHunter board = Industrials/Commercial & Professional Services/Professional Services; Go Travel Un Ltd/Aviasales = Consumer Discretionary/Consumer Services/Hotels, Restaurants & Leisure (онлайн-агрегатор/метапоисковик авиабилетов и travel-услуг); Sports.ru = Communication Services/Media & Entertainment/Interactive Media & Services (спортивный новостной портал с пользовательским контентом и рекламной монетизацией). Целевой повторный поиск года выпуска НИУ ВШЭ не дал новых фактов (TAdviser 404, Phocuswright 403, WebSearch-бюджет исчерпан); значение остается null. См. research_notes/HEAD/Anton_Baytsur_round_2.md."
+    },
+    {
+      "name": "Дуглас Гарднер",
+      "current_role": "Член Совета директоров МКПАО \"Хэдхантер\"",
+      "company_name": "МКПАО \"Хэдхантер\"",
+      "education": [
+        {
+          "program": "Bachelor of Business Administration / высшее образование",
+          "field": "accounting, finance and international business",
+          "year": null,
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страница 20: Дуглас Гарднер, 1962 г.р.; высшее образование, степень бакалавра в Университете Оклахомы, финансы, отчетность и международный бизнес."
+            },
+            {
+              "url": "https://ir.ciangroup.ru/upload/iblock/420/iagzjcwwhbkjjzu4qjeipz9m189di47v/Key_information_on_members_of_the_Board_to_be_re-elected_en.pdf",
+              "title": "Cian: Key information on members of the Board to be re-elected",
+              "fact": "Материал Cian указывает Bachelor of Business Administration in Accounting and International Business from the University of Oklahoma."
+            }
+          ],
+          "qualification_degree": "Bachelor's degree",
+          "institution": "University of Oklahoma",
+          "description": "ROUND2 (2026-07-19, gap-filling per REFINEMENT.md): institution уже канонический (\"University of Oklahoma\", точное совпадение). qualification_degree = \"Bachelor's degree\": оба источника прямо называют \"Bachelor of Business Administration\", инференс не требуется. Целевой повторный просмотр локального кэша cian_gardner_key_info.txt подтвердил формулировку без указания года; прямой WebFetch того же PDF-источника вернул нечитаемый бинарный ответ. Год выпуска остается null."
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "МКПАО \"Хэдхантер\" / МКАО \"Хэдхантер Груп ПИЭЛСИ\" / HeadHunter Group PLC",
+          "role": "член Совета директоров",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Член совета HeadHunter Group PLC с марта 2022 по ноябрь 2024 года; в 2024 году вошел в совет МКПАО \"Хэдхантер\" и МКАО \"Хэдхантер Груп ПИЭЛСИ\".",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страницы 20-21: указаны HeadHunter Group PLC с марта 2022 по ноябрь 2024 года, МКПАО \"Хэдхантер\" с мая 2024 года и МКАО \"Хэдхантер Груп ПИЭЛСИ\" с ноября 2024 года."
+            }
+          ],
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "CAIGAN Capital",
+          "role": "основатель и управляющий директор",
+          "start_year": 2007,
+          "end_year": null,
+          "description": "Основатель и Managing Director CAIGAN Capital.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страница 21: CAIGAN Capital, основатель и управляющий директор, с 2007 года по настоящее время."
+            },
+            {
+              "url": "https://ir.ciangroup.ru/upload/iblock/420/iagzjcwwhbkjjzu4qjeipz9m189di47v/Key_information_on_members_of_the_Board_to_be_re-elected_en.pdf",
+              "title": "Cian: Key information on members of the Board to be re-elected",
+              "fact": "Материал Cian называет Douglas Gardner founder and Managing Director of CAIGAN Capital."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "Kaspi.kz, Cian PLC, МТС Банк",
+          "role": "член Совета директоров",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "В последние годы занимал независимые директорские позиции в Kaspi.kz, Cian PLC и МТС Банке.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страница 21: Kaspi.kz с 2019 года, Cian PLC с 2021 года, ПАО \"МТС Банк\" в 2021-2023 годах, МКПАО \"ЦИАН ТЕХНОЛОДЖИ ЛТД\" с ноября 2024 года."
+            },
+            {
+              "url": "https://ir.ciangroup.ru/upload/iblock/420/iagzjcwwhbkjjzu4qjeipz9m189di47v/Key_information_on_members_of_the_Board_to_be_re-elected_en.pdf",
+              "title": "Cian: Key information on members of the Board to be re-elected",
+              "fact": "Материал Cian подтверждает роли Gardner в Kaspi.kz, MTS Bank и нескольких публичных компаниях."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Ernst & Young; Arthur Andersen",
+          "role": "Managing Partner Russia & CIS; Head of Financial Services / Managing Partner Central Asia",
+          "start_year": null,
+          "end_year": null,
+          "description": "До CAIGAN Capital занимал руководящие роли в EY и Arthur Andersen.",
+          "sources": [
+            {
+              "url": "https://ir.ciangroup.ru/upload/iblock/420/iagzjcwwhbkjjzu4qjeipz9m189di47v/Key_information_on_members_of_the_Board_to_be_re-elected_en.pdf",
+              "title": "Cian: Key information on members of the Board to be re-elected",
+              "fact": "Материал Cian указывает, что Gardner был Managing Partner of Ernst & Young Russia & CIS и Head of Financial Services / Managing Partner Central Asia at Arthur Andersen."
+            }
+          ],
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит строку HEAD для Дугласа Гарднера с ролью \"Член СД\"."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+          "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+          "fact": "Страницы 20-21 подтверждают образование и директорские роли Дугласа Гарднера."
+        }
+      ],
+      "notes": "Исключен однофамилец Douglas J. Gardner, профессор University of Maine с публикациями и патентами по wood/polymer composites; его научный профиль не связан с CAIGAN Capital, Kaspi.kz, Cian или HeadHunter. ROUND2 (2026-07-19, gap-filling per REFINEMENT.md): institution уже канонический, qualification_degree = \"Bachelor's degree\". GICS добавлен во все professional_experience: HeadHunter board = Industrials/Commercial & Professional Services/Professional Services; CAIGAN Capital = Financials/Financial Services (New Name)/Capital Markets; Ernst & Young; Arthur Andersen = Industrials/Commercial & Professional Services/Professional Services; Kaspi.kz, Cian PLC, МТС Банк оставлены null/null/null (3 разных бизнеса). Целевой повторный поиск года University of Oklahoma и дат EY/Arthur Andersen не дал новых фактов; значения остаются null. См. research_notes/HEAD/Douglas_Gardner_round_2.md."
+    },
+    {
+      "name": "Григорьев Дмитрий Константинович",
+      "current_role": "Член Совета директоров МКПАО \"Хэдхантер\"",
+      "company_name": "МКПАО \"Хэдхантер\"",
+      "education": [
+        {
+          "program": "высшее образование",
+          "field": "информатика и вычислительная техника; вычислительные машины, комплексы, системы и сети",
+          "year": 2010,
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страница 21: Дмитрий Григорьев, 1987 г.р.; закончил Технический университет - МИЭТ в 2009, специальность \"информатика и вычислительная техника\"."
+            },
+            {
+              "url": "https://www.cian.ru/stati-dmitrij-grigorev-nam-ochen-vazhno-tsifrovizirovat-nedvizhimost-329646/",
+              "title": "Циан: Дмитрий Григорьев: Нам очень важно цифровизировать недвижимость",
+              "fact": "Статья Cian указывает, что в 2010 году он закончил МИЭТ, факультет микроприборов и технической кибернетики, вычислительные машины, комплексы, системы и сети."
+            },
+            {
+              "url": "https://www.tadviser.ru/index.php/Персона:Григорьев_Дмитрий_Константинович",
+              "title": "TAdviser: Григорьев Дмитрий Константинович",
+              "fact": "TAdviser также указывает МИЭТ и 2010 год окончания."
+            }
+          ],
+          "qualification_degree": "Specialist degree",
+          "description": "ROUND2 (2026-07-19, gap-filling per REFINEMENT.md): institution нормализован к канону МИЭТ по university_names.json. Конфликт года (2009 в локальном отчете HeadHunter против 2010 у Cian/TAdviser), оставленный null в раунде 1, разрешен в этом раунде путем кросс-сверки с уже обработанным (раунд 2) output/CIAN_person_info.json для ТОГО ЖЕ человека (Григорьев Дмитрий Константинович -- одновременно гендиректор Cian и член СД HeadHunter, не однофамилец): в файле CIAN год 2010 подтвержден 4 независимыми источниками (пресс-релиз Cian, интервью на cian.ru, Коммерсантъ, TAdviser), против единственного локального источника HeadHunter с годом 2009 -- поэтому 2010 принят как более достоверный, расхождение зафиксировано здесь для прозрачности. qualification_degree = \"Specialist degree\" перенесен из того же файла CIAN: специальность 230101 была классической 5-летней программой \"специалист\" на момент выпуска в 2010 году; уверенность умеренно-высокая, не абсолютная.",
+          "institution": "Национальный исследовательский университет «МИЭТ»"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "МКПАО \"Хэдхантер\" / МКАО \"Хэдхантер Груп ПИЭЛСИ\"",
+          "role": "член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "В 2024 году входил в совет директоров МКПАО \"Хэдхантер\" и МКАО \"Хэдхантер Груп ПИЭЛСИ\".",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страница 21: МКПАО \"Хэдхантер\", член Совета директоров с мая 2024 года; МКАО \"Хэдхантер Груп ПИЭЛСИ\" с ноября 2024 года."
+            }
+          ],
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "Циан / Cian PLC / ООО \"Айриэлтор\" / АО \"Ц-решения\"",
+          "role": "генеральный директор; ранее директор по продукту и руководитель направления вторичной недвижимости",
+          "start_year": 2017,
+          "end_year": null,
+          "description": "Пришел в Циан в 2017 году, в 2019 году стал директором по продукту, с 30 мая 2022 года назначен генеральным директором; локальный отчет фиксирует роли в АО \"Ц-решения\" и ООО \"Айриэлтор\".",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страница 21: АО \"Ц-решения\", генеральный директор с ноября 2022 года; ООО \"Айриэлтор\", генеральный директор с июня 2022 года; МКПАО \"ЦИАН ТЕХНОЛОДЖИ ЛТД\" член Совета директоров с ноября 2024 года."
+            },
+            {
+              "url": "https://www.cian.ru/novosti-tsian-objavljaet-o-novyh-naznachenijah-324848/",
+              "title": "Циан объявляет о новых назначениях",
+              "fact": "Cian сообщил 25.04.2022, что Дмитрий Григорьев станет генеральным директором с 30 мая 2022 года; до этого работал в компании с 2017 года, прошел путь от руководителя направления вторичной недвижимости до директора по продукту."
+            },
+            {
+              "url": "https://www.kommersant.ru/doc/7834325",
+              "title": "Коммерсантъ: Григорьев Дмитрий Константинович",
+              "fact": "Коммерсантъ подтверждает приход в ЦИАН в 2017 году, должность директора по продукту в 2019 году и назначение гендиректором в мае 2022 года."
+            }
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        },
+        {
+          "organization": "FL.ru; стартап-проекты",
+          "role": "CTO; предпринимательский/продуктовый опыт",
+          "start_year": null,
+          "end_year": null,
+          "description": "До Циана работал техническим директором FL.ru и занимался запуском стартап-проектов в России и США.",
+          "sources": [
+            {
+              "url": "https://www.tadviser.ru/index.php/Персона:Григорьев_Дмитрий_Константинович",
+              "title": "TAdviser: Григорьев Дмитрий Константинович",
+              "fact": "TAdviser указывает работу техническим директором в FL.ru и шестилетний опыт запуска стартап-проектов в России и США."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит строку HEAD для Григорьева Дмитрия Константиновича с ролью \"Член СД\"."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+          "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+          "fact": "Страница 21 подтверждает образование, членство в Совете директоров HeadHunter и роли в Циан-группе."
+        }
+      ],
+      "notes": "Сохраняется конфликт по году окончания МИЭТ: локальный отчет HeadHunter указывает 2009, Cian и TAdviser - 2010. Поэтому год в структурированном поле оставлен null, а расхождение описано в источниках. Исключены однофамильцы, включая Dmitry Mikhailovich Grigoriyev из нефтегазовой отрасли Казахстана и исследовательские профили Дмитрия Григорьева, не связанные с Циан/МИЭТ/HeadHunter. ROUND2 (2026-07-19, gap-filling per REFINEMENT.md): institution нормализован, qualification_degree = \"Specialist degree\" (перенесено из output/CIAN_person_info.json для того же человека). Конфликт года выпуска МИЭТ (2009 vs 2010) разрешен в пользу 2010 путем кросс-сверки с CIAN-файлом (подтверждено 4 источниками); расхождение с локальным отчетом HeadHunter зафиксировано в description, исходный факт не удален. GICS: HeadHunter board = Industrials/Commercial & Professional Services/Professional Services; Циан-группа = Communication Services/Media & Entertainment/Interactive Media & Services; FL.ru; стартап-проекты оставлены null/null/null. См. research_notes/HEAD/Dmitry_Grigoriev_round_2.md. ОБНОВЛЕНО (quality pass round 1, 2026-07-30): конфликт по году окончания МИЭТ (локальный отчет HeadHunter - 2009; Cian-интервью и TAdviser - 2010) разрешен в пользу 2010 года. Обоснование: 2009 год опирается только на единственное упоминание в локальном годовом отчете HeadHunter (косвенный источник, не специализирующийся на биографии Григорьева); 2010 год независимо подтвержден как минимум четырьмя источниками при перекрестной сверке с уже верифицированной (после 4 раундов и 2 quality-pass проверок) записью того же человека в output/CIAN_person_info.json: официальный пресс-релиз Cian о назначениях в руководстве, интервью Cian.ru, профиль Коммерсанта и TAdviser. Год 2009 не удален, расхождение и его разрешение зафиксированы в research_notes/HEAD/quality_pass_round1_20260730.md; факт 2009 года остается видимым в оригинальной source-цитате как часть истории вопроса. Исключены однофамильцы, включая Dmitry Mikhailovich Grigoriyev из нефтегазовой отрасли Казахстана и исследовательские профили Дмитрия Григорьева, не связанные с Циан/МИЭТ/HeadHunter."
+    },
+    {
+      "name": "Крюков Дмитрий Викторович",
+      "current_role": "Председатель Совета директоров МКПАО \"Хэдхантер\"",
+      "company_name": "МКПАО \"Хэдхантер\"",
+      "education": [
+        {
+          "program": "магистратура / высшее образование",
+          "field": "прикладная математика",
+          "year": null,
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страница 21: Дмитрий Крюков, 1969 г.р.; степень магистра прикладной математики в МГУ имени М.В. Ломоносова."
+            },
+            {
+              "url": "https://www.marketscreener.com/insider/DMITRI-KRUKOV-A0YTBA/",
+              "title": "MarketScreener: Dmitri Krukov",
+              "fact": "Профиль указывает graduate degree from Moscow State University Lomonosov."
+            }
+          ],
+          "qualification_degree": "Master's degree",
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "description": "ROUND2 (2026-07-19, gap-filling per REFINEMENT.md): institution нормализован к канону МГУ по university_names.json (исходная строка \"МГУ имени М.В. Ломоносова\" -- известный алиас). qualification_degree = \"Master's degree\": оба источника прямо называют степень магистра/graduate degree, инференс не требуется. Целевые попытки этого раунда найти точный год выпуска не дали результата: ru.wikipedia.org/wiki/Крюков,_Дмитрий_Викторович и tadviser.ru/index.php/Персона:Крюков_Дмитрий_Викторович вернули HTTP 404, marketscreener.com/insider/DMITRI-KRUKOV-A0YTBA/ вернул HTTP 403 при прямом WebFetch, elbrus-capital.com не резолвится (DNS), elbrus.com/team вернул ошибку самоподписанного SSL-сертификата; WebSearch-бюджет сессии исчерпан (200/200). Год остается null."
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "МКПАО \"Хэдхантер\" / HeadHunter Group PLC / МКАО \"Хэдхантер Груп ПИЭЛСИ\"",
+          "role": "председатель Совета директоров; член Совета директоров",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Председатель Совета директоров HeadHunter Group PLC с мая 2019 по ноябрь 2024 года; в 2024 году председатель Совета директоров МКПАО \"Хэдхантер\".",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страницы 21-22: МКПАО \"Хэдхантер\", председатель Совета директоров с мая 2024 года; HeadHunter Group PLC, председатель Совета директоров с мая 2019 по ноябрь 2024 года; МКАО \"Хэдхантер Груп ПИЭЛСИ\" с ноября 2024 года."
+            }
+          ],
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "Эльбрус Капитал",
+          "role": "основатель и старший партнер",
+          "start_year": 2007,
+          "end_year": null,
+          "description": "Один из основателей Elbrus Capital; старший партнер фонда.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страница 22: \"Эльбрус Капитал\", основатель и старший партнер, с 2007 года по настоящее время."
+            },
+            {
+              "url": "https://advancecapital.ru/en/news/news/press-releases/446/",
+              "title": "Advance Capital announces sale of stake to Elbrus Capital",
+              "fact": "Пресс-релиз указывает, что Elbrus Capital был основан Dmitry Kryukov, Alexander Savin и Robert Thielen после приобретения Renaissance Private Equity platform."
+            },
+            {
+              "url": "https://russoft.org/en/news/english-elbrus-capital-attracts-major-international-players-to-invest-in-the-russian-digital-sphere/",
+              "title": "RUSSOFT: Elbrus Capital attracts major international players",
+              "fact": "Материал называет Dmitry Kryukov senior partner of Elbrus Capital и связывает его с инвестициями в HeadHunter."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "CIAN PLC / МКПАО \"ЦИАН ТЕХНОЛОДЖИ ЛТД\" / Banki.ru Holding Limited",
+          "role": "член Совета директоров",
+          "start_year": 2015,
+          "end_year": null,
+          "description": "Занимал директорские позиции в Cian и Banki.ru.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страницы 21-22: Banki.ru Holding Limited с ноября 2020 года; CIAN PLC с января 2015 по декабрь 2024 года; МКПАО \"ЦИАН ТЕХНОЛОДЖИ ЛТД\" с ноября 2024 года."
+            },
+            {
+              "url": "https://www.marketscreener.com/insider/DMITRI-KRUKOV-A0YTBA/",
+              "title": "MarketScreener: Dmitri Krukov",
+              "fact": "Профиль указывает активные позиции в HeadHunter Group PLC, Cian PLC, Elbrus Capital и других компаниях."
+            }
+          ],
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        },
+        {
+          "organization": "Renaissance Capital; Morgan Stanley",
+          "role": "Managing Director / VP M&A and restructuring",
+          "start_year": 1996,
+          "end_year": 2007,
+          "description": "Вспомогательные базы указывают опыт в Morgan Stanley и Renaissance Capital до основания Elbrus Capital.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/DMITRI-KRUKOV-A0YTBA/",
+              "title": "MarketScreener: Dmitri Krukov",
+              "fact": "Профиль указывает VP-Mergers, Acquisitions & Restructuring at Morgan Stanley Bank LLC в 1996-2002 годах и Managing Director-Investment Banking & Finance at Renaissance Capital в 2002-2007 годах."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит строку HEAD для Крюкова Дмитрия Викторовича с ролью \"Член СД\"."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+          "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+          "fact": "Страницы 21-22 подтверждают образование, председательство в совете директоров HeadHunter и роли в Elbrus/Cian/Banki.ru."
+        }
+      ],
+      "notes": "Исключен научный однофамилец Dmitri Krioukov, профессор Northeastern University/Network Science Institute с Google Scholar и публикациями по сетевой науке; это другой человек, не связанный с Elbrus Capital/HeadHunter. ROUND2 (2026-07-19, gap-filling per REFINEMENT.md): institution нормализован, qualification_degree = \"Master's degree\". GICS: HeadHunter board = Industrials/Commercial & Professional Services/Professional Services; Эльбрус Капитал = Financials/Financial Services (New Name)/Capital Markets; CIAN PLC/МКПАО \"ЦИАН ТЕХНОЛОДЖИ ЛТД\"/Banki.ru = Communication Services/Media & Entertainment/Interactive Media & Services; Renaissance Capital; Morgan Stanley = Financials/Financial Services (New Name)/Capital Markets. Целевой повторный поиск года выпуска МГУ не дал новых фактов (404/403/DNS/SSL-ошибки, WebSearch-бюджет исчерпан); значение остается null. См. research_notes/HEAD/Dmitry_Kryukov_round_2.md."
+    },
+    {
+      "name": "Машков Валентин Сергеевич",
+      "current_role": "Член Совета директоров МКПАО \"Хэдхантер\"",
+      "company_name": "МКПАО \"Хэдхантер\"",
+      "education": [
+        {
+          "program": "бакалавриат / высшее образование",
+          "field": "экономика",
+          "year": null,
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страница 22: Валентин Машков, 1984 г.р.; высшее образование, диплом бакалавра с отличием по специальности \"экономика\" в Высшей школе экономики в Москве."
+            },
+            {
+              "url": "https://www.marketscreener.com/insider/VALENTIN-MASHKOV-A13644/",
+              "title": "MarketScreener: Valentin Mashkov",
+              "fact": "Профиль указывает undergraduate degree from Higher School of Economics."
+            }
+          ],
+          "qualification_degree": "Bachelor's degree",
+          "institution": "Национальный исследовательский университет «Высшая школа экономики»",
+          "description": "ROUND2 (2026-07-19, gap-filling per REFINEMENT.md): institution нормализован к канону НИУ ВШЭ по university_names.json. qualification_degree = \"Bachelor's degree\": оба источника прямо называют \"диплом бакалавра с отличием\"/\"undergraduate degree\", инференс не требуется. Целевые попытки этого раунда найти точный год выпуска не дали результата: marketscreener.com/insider/VALENTIN-MASHKOV-A13644/ вернул HTTP 403, privateequityinternational.com/institution-profiles/elbrus-capital.html и elbrus-capital.com/team/ не содержат образовательных/карьерных дат, elbrus.com/team -- ошибка SSL-сертификата; WebSearch-бюджет сессии исчерпан (200/200). Год остается null."
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "МКПАО \"Хэдхантер\" / МКАО \"Хэдхантер Груп ПИЭЛСИ\" / HeadHunter Group PLC",
+          "role": "член Совета директоров",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "Член совета HeadHunter Group PLC с августа 2020 по ноябрь 2024 года; в 2024 году член совета МКПАО \"Хэдхантер\" и МКАО \"Хэдхантер Груп ПИЭЛСИ\".",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страница 22: МКПАО \"Хэдхантер\" с мая 2024 года; МКАО \"Хэдхантер Груп ПИЭЛСИ\" с ноября 2024 года; HeadHunter Group PLC с августа 2020 по ноябрь 2024 года."
+            },
+            {
+              "url": "https://www.finam.ru/publications/item/valentin-mashkov-voshel-v-sovet-direktorov-headhunter-20200806-171140/",
+              "title": "Финам: Валентин Машков вошел в совет директоров HeadHunter",
+              "fact": "Финам сообщает, что Валентин Машков назначен неисполнительным директором HeadHunter Group с 5 августа 2020 года."
+            }
+          ],
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "Elbrus Capital",
+          "role": "partner",
+          "start_year": 2010,
+          "end_year": null,
+          "description": "Партнер Elbrus Capital; вспомогательные профили указывают должность partner from 2010.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/VALENTIN-MASHKOV-A13644/",
+              "title": "MarketScreener: Valentin Mashkov",
+              "fact": "Профиль указывает Valentin Mashkov as Partner at Elbrus Capital from 2010."
+            },
+            {
+              "url": "https://www.privateequityinternational.com/institution-profiles/elbrus-capital.html",
+              "title": "Private Equity International: Elbrus Capital institution profile",
+              "fact": "Профиль Elbrus Capital показывает Valentin Mashkov как partner."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "Interros",
+          "role": "Director-Investments & Portfolio Management",
+          "start_year": 2009,
+          "end_year": 2010,
+          "description": "Вспомогательный профиль указывает работу в Interros в инвестициях и управлении портфелем.",
+          "sources": [
+            {
+              "url": "https://www.marketscreener.com/insider/VALENTIN-MASHKOV-A13644/",
+              "title": "MarketScreener: Valentin Mashkov",
+              "fact": "Профиль указывает former role Director-Investments & Portfolio Management at Interros Co. in 2009-2010."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит строку HEAD для Машкова Валентина Сергеевича с ролью \"Член СД\"."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+          "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+          "fact": "Страница 22 подтверждает образование и членство в советах директоров HeadHunter."
+        }
+      ],
+      "notes": "Поиски научных степеней, ORCID, публикаций, патентов и h-index не выявили научного профиля, привязанного к Валентину Сергеевичу Машкову из Elbrus Capital/HeadHunter. ROUND2 (2026-07-19, gap-filling per REFINEMENT.md): institution нормализован, qualification_degree = \"Bachelor's degree\". GICS: HeadHunter board = Industrials/Commercial & Professional Services/Professional Services; Elbrus Capital = Financials/Financial Services (New Name)/Capital Markets; Interros = Financials/Financial Services (New Name)/Capital Markets. Целевой повторный поиск года выпуска ВШЭ не дал новых фактов (403/без дат/SSL-ошибка, WebSearch-бюджет исчерпан); значение остается null. См. research_notes/HEAD/Valentin_Mashkov_round_2.md."
+    },
+    {
+      "name": "Ушакова Светлана Александровна",
+      "current_role": "Член Совета директоров МКПАО \"Хэдхантер\"",
+      "company_name": "МКПАО \"Хэдхантер\"",
+      "education": [
+        {
+          "program": "бакалавриат",
+          "field": "business and finance",
+          "year": null,
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страницы 22-23: Светлана Ушакова, 1981 г.р.; степень бакалавра бизнеса и финансов Университета Оксфорд Брукс."
+            },
+            {
+              "url": "https://people.equilar.com/bio/person/svetlana-ushakova-headhunter-group-plc/54413478",
+              "title": "Equilar: Svetlana Ushakova",
+              "fact": "Профиль указывает bachelor's degree in Business and Finance from Oxford Brookes University."
+            }
+          ],
+          "qualification_degree": "Bachelor's degree",
+          "institution": "Oxford Brookes University",
+          "description": "ROUND2 (2026-07-19, gap-filling per REFINEMENT.md): institution уже канонический (\"Oxford Brookes University\"). qualification_degree = \"Bachelor's degree\": оба источника прямо называют степень бакалавра, инференс не требуется. Целевой повторный просмотр локального кэша kismet_prospectus_text.txt не содержит упоминания Oxford Brookes вообще -- бакалаврская степень в этом источнике не описана; год выпуска остается null."
+        },
+        {
+          "program": "магистратура / MSc",
+          "field": "Accounting and Finance",
+          "year": null,
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страницы 22-23: степень магистра бухгалтерского учета и финансов Лондонской школы экономики и политологии."
+            },
+            {
+              "url": "https://www.sec.gov/Archives/edgar/data/1814824/000121390020020926/f424b4_kismetacq.htm",
+              "title": "Kismet Acquisition One prospectus",
+              "fact": "Проспект указывает, что Svetlana Ushakova holds an MSc in Accounting and Finance from London School of Economics and Political Science."
+            }
+          ],
+          "qualification_degree": "Master's degree",
+          "institution": "London School of Economics and Political Science",
+          "description": "ROUND2 (2026-07-19, gap-filling per REFINEMENT.md): institution уже канонический (\"London School of Economics and Political Science\"). qualification_degree = \"Master's degree\": проспект Kismet прямо называет \"MSc\", инференс не требуется. Целевой повторный просмотр локального кэша kismet_prospectus_text.txt подтвердил дословную формулировку без указания года; год выпуска остается null."
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "МКПАО \"Хэдхантер\" / МКАО \"Хэдхантер Груп ПИЭЛСИ\" / HeadHunter Group PLC",
+          "role": "член Совета директоров",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Член совета HeadHunter Group PLC с января 2023 по ноябрь 2024 года; в 2024 году член совета МКПАО \"Хэдхантер\" и МКАО \"Хэдхантер Груп ПИЭЛСИ\".",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страницы 22-23: HeadHunter Group PLC с января 2023 по ноябрь 2024 года; МКПАО \"Хэдхантер\" с мая 2024 года; МКАО \"Хэдхантер Груп ПИЭЛСИ\" с ноября 2024 года."
+            },
+            {
+              "url": "https://www.sec.gov/Archives/edgar/data/1721181/000110465923002904/tm233019d1_ex99-1.htm",
+              "title": "HeadHunter Group PLC press release, Exhibit 99.1, 10.01.2023",
+              "fact": "HeadHunter сообщил о назначении Svetlana Ushakova non-executive director с 10 января 2023 года."
+            }
+          ],
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "Kismet Group / Kismet Capital Group",
+          "role": "managing partner",
+          "start_year": 2017,
+          "end_year": null,
+          "description": "Работает managing partner в Kismet group с 2017 года.",
+          "sources": [
+            {
+              "url": "https://people.equilar.com/bio/person/svetlana-ushakova-headhunter-group-plc/54413478",
+              "title": "Equilar: Svetlana Ushakova",
+              "fact": "Профиль указывает managing partner at Kismet group since 2017."
+            }
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "MegaFon; UC Rusal; ABN AMRO; Noble Group",
+          "role": "deputy CFO; capital markets director; investment banking / commodities roles",
+          "start_year": 2004,
+          "end_year": 2017,
+          "description": "До Kismet работала заместителем CFO MegaFon, директором по рынкам капитала UC Rusal, в инвестиционно-банковской команде ABN AMRO и на coal desk Noble Group.",
+          "sources": [
+            {
+              "url": "https://www.sec.gov/Archives/edgar/data/1814824/000121390020020926/f424b4_kismetacq.htm",
+              "title": "Kismet Acquisition One prospectus",
+              "fact": "Проспект описывает карьеру: deputy CFO at MegaFon в 2012-2017, director for Capital Markets at UC Rusal в 2010-2012, senior E&R coverage team at ABN AMRO в 2004-2010, London coal desk at Noble Group до ABN AMRO."
+            },
+            {
+              "url": "https://people.equilar.com/bio/person/svetlana-ushakova-headhunter-group-plc/54413478",
+              "title": "Equilar: Svetlana Ushakova",
+              "fact": "Профиль повторяет последовательность MegaFon, UC Rusal, ABN AMRO и Noble Group."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит строку HEAD для Ушаковой Светланы Александровны с ролью \"Член СД\"."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+          "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+          "fact": "Страницы 22-23 подтверждают образование и членство в советах директоров HeadHunter."
+        }
+      ],
+      "notes": "Исключены научные профили Svitlana/Svetlana Ushakova в аграрных и математических дисциплинах: они не совпадают по работодателям, образованию Oxford Brookes/LSE и карьерной траектории Kismet/MegaFon/UC Rusal. ROUND2 (2026-07-19, gap-filling per REFINEMENT.md): institution уже канонический для обеих записей, qualification_degree проставлен явно (Bachelor's degree для Oxford Brookes, Master's degree для LSE MSc). GICS: HeadHunter board = Industrials/Commercial & Professional Services/Professional Services; Kismet Group/Kismet Capital Group = Financials/Financial Services (New Name)/Capital Markets; MegaFon; UC Rusal; ABN AMRO; Noble Group оставлены null/null/null (4 разных вида бизнеса). Целевой повторный просмотр kismet_prospectus_text.txt новых годов образования не дал. См. research_notes/HEAD/Svetlana_Ushakova_round_2.md."
+    },
+    {
+      "name": "Филатова Ольга Геннадьевна",
+      "current_role": "Член Совета директоров МКПАО \"Хэдхантер\"",
+      "company_name": "МКПАО \"Хэдхантер\"",
+      "education": [
+        {
+          "program": "бакалавриат",
+          "field": "общий менеджмент",
+          "year": 2002,
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страница 23: диплом бакалавра с отличием по специальности \"общий менеджмент\" в НИУ ВШЭ."
+            },
+            {
+              "url": "https://people-innovations.com/en/olga",
+              "title": "People Innovations: Olga Filatova",
+              "fact": "Профиль указывает точный год: 2002 NRU HSE Bachelor of General Management."
+            },
+            {
+              "url": "https://www.hse.ru/en/success/filatova/",
+              "title": "HSE University: Olga Filatova",
+              "fact": "HSE указывает, что Olga Filatova graduated from the HSE Faculty of Management with both bachelor's and master's degrees."
+            }
+          ],
+          "qualification_degree": "Bachelor's degree",
+          "description": "ROUND2 (2026-07-19, gap-filling per REFINEMENT.md): institution нормализован к канону НИУ ВШЭ по university_names.json. Год выпуска (2002) найден целевым повторным WebFetch уже процитированного people-innovations.com/en/olga с более узким уточняющим запросом; qualification_degree = Bachelor's degree -- источники прямо называют степень бакалавра, инференс не требуется.",
+          "institution": "Национальный исследовательский университет «Высшая школа экономики»"
+        },
+        {
+          "program": "магистратура",
+          "field": "стратегическое и корпоративное управление",
+          "year": 2004,
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страница 23: диплом магистра с отличием по специальности \"стратегическое и корпоративное управление\" в НИУ ВШЭ."
+            },
+            {
+              "url": "https://people-innovations.com/en/olga",
+              "title": "People Innovations: Olga Filatova",
+              "fact": "Профиль указывает точный год: 2004 HSE University Masters in Strategic and Corporate Management."
+            },
+            {
+              "url": "https://www.hse.ru/en/success/filatova/",
+              "title": "HSE University: Olga Filatova",
+              "fact": "HSE подтверждает bachelor and master's degrees from the HSE Faculty of Management."
+            }
+          ],
+          "qualification_degree": "Master's degree",
+          "description": "ROUND2 (2026-07-19, gap-filling per REFINEMENT.md): institution нормализован к тому же канону. Год выпуска (2004) найден тем же целевым повторным WebFetch. qualification_degree = Master's degree -- источники прямо называют степень магистра, инференс не требуется.",
+          "institution": "Национальный исследовательский университет «Высшая школа экономики»"
+        },
+        {
+          "program": "MBA",
+          "field": null,
+          "year": 2006,
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страница 23: степень MBA в Стокгольмской школе экономики."
+            },
+            {
+              "url": "https://people-innovations.com/en/olga",
+              "title": "People Innovations: Olga Filatova",
+              "fact": "Профиль указывает точный год и формулировку: 2006 Stockholm School of Economics Executive MBA, General Business."
+            }
+          ],
+          "qualification_degree": "MBA",
+          "description": "ROUND2 (2026-07-19, gap-filling per REFINEMENT.md): institution уже канонический (Stockholm School of Economics). Год выпуска (2006) найден целевым повторным WebFetch. qualification_degree = MBA -- программа сама названа MBA/EMBA в обоих источниках, инференс не требуется.",
+          "institution": "Stockholm School of Economics"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "МКПАО \"Хэдхантер\" / МКАО \"Хэдхантер Груп ПИЭЛСИ\" / HeadHunter Group PLC",
+          "role": "член Совета директоров",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "Член совета HeadHunter Group PLC с декабря 2020 по ноябрь 2024 года; в 2024 году член совета МКПАО \"Хэдхантер\" и МКАО \"Хэдхантер Груп ПИЭЛСИ\".",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страницы 23-24: HeadHunter Group PLC с декабря 2020 по ноябрь 2024 года; МКПАО \"Хэдхантер\" с мая 2024 года; МКАО \"Хэдхантер Груп ПИЭЛСИ\" с ноября 2024 года."
+            },
+            {
+              "url": "https://people-innovations.com/en/olga",
+              "title": "People Innovations: Olga Filatova",
+              "fact": "Профиль называет Ольгу Филатову independent directorial committee member of HeadHunter."
+            }
+          ],
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "People Innovations",
+          "role": "основатель",
+          "start_year": 2018,
+          "end_year": null,
+          "description": "Основала HR-консалтинговую практику People Innovations.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страница 23: People Innovations, учредитель, с июня 2018 года по настоящее время."
+            },
+            {
+              "url": "https://people-innovations.com/en/olga",
+              "title": "People Innovations: Olga Filatova",
+              "fact": "Профиль указывает Founder - People Innovations."
+            }
+          ],
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "Высшая школа бизнеса НИУ ВШЭ",
+          "role": "профессор / профессор практики",
+          "start_year": 2020,
+          "end_year": 2023,
+          "description": "Локальный отчет фиксирует профессорскую роль в 2020-2023 годах; страницы ВШЭ в 2022-2023 годах называют ее профессором/профессором практики департамента организационного поведения и УЧР.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страница 23: Высшая школа бизнеса НИУ ВШЭ, профессор, сентябрь 2020 - сентябрь 2023."
+            },
+            {
+              "url": "https://gsb.hse.ru/news/634806143.html",
+              "title": "ВШБ ВШЭ: открытие Кадрового акселератора",
+              "fact": "Страница ВШЭ от 27.05.2022 называет Ольгу Филатову профессором департамента организационного поведения и УЧР, независимым директором HeadHunter Group и основателем People Innovations."
+            },
+            {
+              "url": "https://gsb.hse.ru/uchr/news/828403423.html",
+              "title": "ВШБ ВШЭ: спикеры конференции \"Трансформация управления людьми\"",
+              "fact": "Страница ВШЭ от 13.04.2023 называет Ольгу Филатову основателем People Innovations, независимым членом Совета директоров Headhunter, профессором практики ВШБ НИУ ВШЭ и членом наблюдательного совета ИТМО."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Университет ИТМО; ПАО \"Детский мир\"",
+          "role": "член попечительского совета; председатель комитета по вознаграждению и назначениям",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Локальный отчет фиксирует роли в попечительском совете ИТМО и комитете ПАО \"Детский мир\".",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+              "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+              "fact": "Страница 23: Университет ИТМО, член попечительского совета с января 2023 года; ПАО \"Детский мир\", председатель комитета по вознаграждению и назначениям с декабря 2022 года."
+            },
+            {
+              "url": "https://gsb.hse.ru/uchr/news/828403423.html",
+              "title": "ВШБ ВШЭ: спикеры конференции \"Трансформация управления людьми\"",
+              "fact": "Страница ВШЭ также называет ее членом наблюдательного совета ИТМО."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Mail.ru Group / VK; Severgroup; Severstal; Mars; Yukos",
+          "role": "HR leadership roles",
+          "start_year": 2002,
+          "end_year": 2018,
+          "description": "До People Innovations занимала руководящие HR-роли в Mail.ru Group/VK, Severgroup/Severstal, Mars, Yukos и других компаниях.",
+          "sources": [
+            {
+              "url": "https://people-innovations.com/en/olga",
+              "title": "People Innovations: Olga Filatova",
+              "fact": "Профиль указывает recent corporate roles including VP HR and Education at VK Group, Executive Director of Talent Tech (Severgroup), VP HR at Severstal North America, а также опыт в Severstal, Mars, Yukos."
+            },
+            {
+              "url": "https://www.hse.ru/en/success/filatova/",
+              "title": "HSE University: Olga Filatova",
+              "fact": "HSE указывает карьеру: Mars corporate university в 2005-2009, Severstal talent acquisition and development с 2009, Severstal North America VP HR в 2012, затем SeverGroup, с сентября 2016 VP HR and Education at Mail.Ru Group."
+            }
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "Институт экономики РАН",
+          "role": "участие в исследованиях экономической социологии",
+          "start_year": null,
+          "end_year": null,
+          "description": "Профиль People Innovations указывает начало карьеры в Институте экономики РАН с участием в исследованиях малого бизнеса, предпринимательства, среднего класса, потребления и сбережений. Научные публикации, степень и h-index по этому факту не подтверждены.",
+          "sources": [
+            {
+              "url": "https://people-innovations.com/en/olga",
+              "title": "People Innovations: Olga Filatova",
+              "fact": "Профиль указывает, что Olga began her career at the Institute of Economics of the Russian Academy of Sciences, participating in research in economic sociology."
+            }
+          ]
+        }
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит строку HEAD для Филатовой Ольги Геннадьевны с ролью \"Член СД\"."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+          "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+          "fact": "Страницы 23-24 подтверждают образование, MBA и директорские/профессиональные роли."
+        }
+      ],
+      "notes": "Научные профили Olga Filatova в Google Scholar/ResearchGate относятся к другим людям или не подтверждают связь с HR-практиком, HeadHunter, People Innovations и ВШБ НИУ ВШЭ; поэтому публикации, патенты и h-index не добавлены. Аналитический отчет о hybrid offices указан как профессиональный материал, не как peer-reviewed publication. ROUND2 (2026-07-19, gap-filling per REFINEMENT.md): institution нормализован для всех 3 записей. Целевой повторный WebFetch people-innovations.com/en/olga с более узким запросом впервые дал точные годы всех трех дипломов (2002/2004/2006) -- в раунде 1 та же страница была прочитана только общим запросом и года не извлекла. qualification_degree проставлен явно для всех 3 записей (Bachelor's degree/Master's degree/MBA). GICS: HeadHunter board и People Innovations = Industrials/Commercial & Professional Services/Professional Services; ВШБ НИУ ВШЭ и ИТМО/Детский мир оставлены null/null/null (госвузы не GICS-классифицируемы); Mail.ru/VK; Severgroup; Severstal; Mars; Yukos оставлены null/null/null (5 разных отраслей). См. research_notes/HEAD/Olga_Filatova_round_2.md."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+      "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+      "fact": "Страница 19: действующий состав Совета директоров избран на внеочередном Общем собрании акционеров 12 декабря 2024 года и состоит из 9 членов; страницы 19-24 перечисляют Арсеньева, Байцура, Гарднера, Григорьева, Крюкова, Машкова, Сергиенкова, Ушакову и Филатову."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+      "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+      "fact": "Страница 25: генеральным директором Общества является Сергиенков Дмитрий Сергеевич."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/HEAD/Консолид. финансовая отчетность + АЗ_МКПАО ХХ_2024.pdf",
+      "title": "Консолидированная финансовая отчетность МКПАО \"Хэдхантер\" за 2024 год",
+      "fact": "Страница 1 указывает отчетность МКПАО \"Хэдхантер\" за 2024 год; страница 55 раскрывает вознаграждение старшего руководящего персонала и Совета директоров; документ не содержит детальных биографий директоров."
+    },
+    {
+      "url": "https://hh.ru/article/31239",
+      "title": "HeadHunter объявляет о назначении Дмитрия Сергиенкова генеральным директором",
+      "fact": "Официальная новость HeadHunter подтверждает назначение Дмитрия Сергиенкова генеральным директором HeadHunter Group PLC с 1 марта 2023 года."
+    },
+    {
+      "url": "https://www.e-disclosure.ru/portal/company.aspx?id=39017",
+      "title": "Центр раскрытия корпоративной информации: МКПАО \"Хэдхантер\"",
+      "fact": "Локальный годовой отчет ссылается на страницу раскрытия Интерфакс как место раскрытия информации об общих собраниях и корпоративных документах общества."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_Отчеты_2024/HEAD/МКПАО ХХ_Годовой отчет за 2024.pdf",
+      "title": "Годовой отчет МКПАО \"Хэдхантер\" за 2024 год",
+      "fact": "Основной локальный источник: состав совета директоров, CEO, образование и должности всех 9 людей из CSV."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/HEAD/Консолид. финансовая отчетность + АЗ_МКПАО ХХ_2024.pdf",
+      "title": "Консолидированная финансовая отчетность МКПАО \"Хэдхантер\" за 2024 год",
+      "fact": "Проверенный локальный источник: подтверждает отчетность группы и раскрытие вознаграждения старшего руководства/совета, но не содержит биографий."
+    },
+    {
+      "url": "https://hh.ru/article/31239",
+      "title": "Официальная новость HeadHunter о CEO",
+      "fact": "Подтверждает назначение Дмитрия Сергиенкова и его предыдущий опыт."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1721181/000110465923002904/tm233019d1_ex99-1.htm",
+      "title": "HeadHunter Group PLC press release, 10.01.2023",
+      "fact": "Подтверждает назначение Sergey Arseniev и Svetlana Ushakova в совет HeadHunter Group PLC."
+    },
+    {
+      "url": "https://www.cian.ru/novosti-tsian-objavljaet-o-novyh-naznachenijah-324848/",
+      "title": "Циан объявляет о новых назначениях",
+      "fact": "Подтверждает назначение Дмитрия Григорьева CEO Cian с 30.05.2022 и его карьеру внутри Cian."
+    },
+    {
+      "url": "https://people-innovations.com/en/olga",
+      "title": "People Innovations: Olga Filatova",
+      "fact": "Подтверждает профессиональную биографию Ольги Филатовой, образование HSE/Stockholm School of Economics и исследовательский опыт в Институте экономики РАН."
+    }
+  ],
+  "validation_notes": "Обработано 9 человек из CSV по тикеру HEAD: 1 CEO и 8 членов совета директоров в tmt. Проверено 2 локальных документа в MOEXBMI_Отчеты_2024/HEAD: годовой отчет за 2024 год и консолидированная финансовая отчетность за 2024 год. Выполнено 9 research rounds (по одному на человека); локальный годовой отчет дал полные анкетные сведения, после чего были проверены официальные и независимые интернет-источники: hh.ru, SEC/e-disclosure, Cian, TCS/EQS, HSE, People Innovations, Phocuswright, Kommersant, Interfax, MarketScreener, TAdviser, Equilar и отраслевые базы. У всех 9 людей найдено подтвержденное образование. Существенная неопределенность осталась у 1 человека: для Дмитрия Григорьева локальный отчет указывает окончание МИЭТ в 2009 году, Cian и TAdviser - в 2010 году; год оставлен null и конфликт описан в notes. Слабые/вспомогательные источники использовались для деталей по Арсеньеву, Крюкову, Машкову, Ушаковой и Байцуру только вместе с локальным отчетом или официальными страницами. Исключены однофамильцы и нерелевантные научные профили: Владимир Клавдиевич Арсеньев и Сергей Владимирович Арсеньев-писатель; профессор Dmitri Krioukov из Northeastern University; профессор Douglas J. Gardner из University of Maine; Dmitry Mikhailovich Grigoriyev из нефтегазовой отрасли Казахстана; Svitlana/Svetlana Ushakova из аграрных/математических профилей; Olga Filatova из биологии/коммуникаций без связи с HeadHunter/People Innovations; профили Сергиенко/Сергиенкова без связи с HeadHunter. Публикации, патенты и h_index не добавлялись, потому что не найден подтвержденный научный профиль нужного человека. Поиск считается завершенным, поскольку локальный отчет полностью покрывает состав органов управления 2024 года, ключевые биографические факты подтверждены дополнительными источниками, предыдущие работодатели из найденных биографий проверены, а два последовательных поисковых прохода не дали новых проверяемых более качественных фактов. ROUND2 (2026-07-19, gap-filling per REFINEMENT.md): Проведен один дополнительный целевой раунд по каждому из 9 человек (CEO + 8 членов TMT), нацеленный только на поля, оставленные null/vague в раунде 1 -- уже подтвержденные факты не пересматривались. WebSearch-бюджет сессии был исчерпан (200/200) до начала целевого поиска; использован WebFetch по уже процитированным и новым прямым URL, а также кросс-сверка с уже обработанными output/AFKS_person_info.json и output/CIAN_person_info.json для лиц, одновременно входящих в органы управления этих компаний. Результативные находки: (1) конфликт года МИЭТ у Григорьева (2009 vs 2010) разрешен в пользу 2010 через кросс-сверку с CIAN-файлом (подтверждено 4 источниками); (2) впервые получены точные годы всех 3 дипломов Филатовой (2002/2004/2006) целевым повторным WebFetch people-innovations.com/en/olga; (3) для Арсеньева добавлена пропущенная в раунде 1 структурированная запись degrees (Securities Institute, Лондон, 1999). Для Байцура, Гарднера, Григорьева (FL.ru-часть), Крюкова, Машкова и Ушаковой годы выпуска образования и отдельные исторические даты остались null после документированных целевых попыток (HTTP 404/403, DNS/SSL-ошибки, локальные кэши без нужных дат) -- null предпочтен непроверенной догадке. Добавлены GICS sector/industry_group/industry на уровне компании (Industrials/Commercial & Professional Services/Professional Services -- обоснование: собственное описание leading online recruitment platform в локальном 20-F head_20f_fy2021_text.txt и SIC-код 7363 Help Supply Services в локальных EDGAR-файлах head_20f_2023_index.html/head_f1a_index.html/head_edgar_20f_list.html) и на уровне каждой записи professional_experience по всем 9 людям; часть записей оставлена null/null/null с объяснением (объединяют несколько организаций с генуинно разными видами деятельности, либо включают российские государственные некоммерческие вузы, не подлежащие GICS-классификации). Добавлен qualification_degree во все записи education (большинство -- explicit по прямой формулировке источника; ГУУ у Сергиенкова и МИЭТ у Григорьева -- через контекстный инференс с умеренно-высокой уверенностью, обоснование в description) и в новую запись degrees Арсеньева (Professional certification, explicit). Все institution нормализованы к university_names.json (все институты уже присутствовали точным совпадением или известным алиасом); new_institutions_found оставлен пустым. Ни один ранее подтвержденный факт не удален и не перезаписан без обоснования; все изменения задокументированы в research_notes/HEAD/*_round_2.md. DATA-LOSS REPAIR (2026-07-30): restored 9 shortened person notes, 0 shortened experience descriptions, 5 shortened education descriptions, 0 missing person-level sources, and 0 missing experience-level sources using git HEAD (commit 03bfe9f, 2026-07-20) as the reliable baseline. Nothing else in this file was touched. Additional repair: renamed the \"university\" key back to \"institution\" in 12 education entries -- this schema-wide key rename (round 2, per Dmitry_Sergienkov_round_2.md) had been silently reverted; restored to match the corpus-wide convention used by all other ticker files.",
+  "sector": "Industrials",
+  "industry_group": "Commercial & Professional Services",
+  "industry": "Professional Services"
+}

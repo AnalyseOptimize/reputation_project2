@@ -1,0 +1,636 @@
+{
+  "company_name": "МКПАО ЮМГ",
+  "company_ticker": "GEMC",
+  "ceo": {
+    "name": "Яновский Андрей Владимирович",
+    "current_role": "Генеральный директор МКПАО ЮМГ; член совета директоров",
+    "company_name": "МКПАО ЮМГ",
+    "education": [
+      {
+        "institution": "Saint Petersburg State Institute of Technology (Technical University)",
+        "program_or_field": "Chemistry",
+        "graduation_year": 1985,
+        "credential": null,
+        "sources": [
+          {
+            "url": "https://www.enplusgroup.com/upload/iblock/aa7/bwfbt41giehg6stmi4jsy46kozoxl7bd/Enplus_Annual_Report_2024_RUS.pdf",
+            "title": "En+ Annual Report 2024",
+            "fact": "Board biography states that Andrey Yanovsky graduated from Saint Petersburg State Institute of Technology (Technical University), Chemistry, in 1985."
+          }
+        ],
+        "qualification_degree": "Specialist degree"
+      },
+      {
+        "institution": "Riga Higher Military-Political School",
+        "program_or_field": "Social Psychology",
+        "graduation_year": 1990,
+        "credential": null,
+        "sources": [
+          {
+            "url": "https://www.enplusgroup.com/upload/iblock/aa7/bwfbt41giehg6stmi4jsy46kozoxl7bd/Enplus_Annual_Report_2024_RUS.pdf",
+            "title": "En+ Annual Report 2024",
+            "fact": "Board biography states that Andrey Yanovsky graduated from Riga Higher Military-Political School in Social Psychology in 1990."
+          }
+        ],
+        "qualification_degree": "Specialist degree"
+      },
+      {
+        "institution": "Санкт-Петербургский государственный экономический университет",
+        "program_or_field": "Accounting and Taxation",
+        "graduation_year": 1992,
+        "credential": null,
+        "sources": [
+          {
+            "url": "https://www.enplusgroup.com/upload/iblock/aa7/bwfbt41giehg6stmi4jsy46kozoxl7bd/Enplus_Annual_Report_2024_RUS.pdf",
+            "title": "En+ Annual Report 2024",
+            "fact": "Board biography states that Andrey Yanovsky graduated from Saint Petersburg State University of Economics and Finance in Accounting and Taxation in 1992."
+          }
+        ],
+        "qualification_degree": "Specialist degree"
+      },
+      {
+        "institution": "Kingston University",
+        "program_or_field": "Strategic Management",
+        "graduation_year": 2007,
+        "credential": "MBA",
+        "sources": [
+          {
+            "url": "https://www.enplusgroup.com/upload/iblock/aa7/bwfbt41giehg6stmi4jsy46kozoxl7bd/Enplus_Annual_Report_2024_RUS.pdf",
+            "title": "En+ Annual Report 2024",
+            "fact": "Board biography states that Andrey Yanovsky earned an MBA in Strategic Management from Kingston University in 2007."
+          },
+          {
+            "url": "https://www.emcmos.ru/news_and_media/smi_o_nas/andrey-yanovskiy-nuzhno-obladat-vysokim-urovnem-empatii/",
+            "title": "EMC: Andrey Yanovsky interview republished from RR Life",
+            "fact": "Interview states that Yanovsky received an MBA from Kingston University."
+          }
+        ],
+        "qualification_degree": "MBA"
+      }
+    ],
+    "degrees": [
+      {
+        "degree": "MBA",
+        "field": "Strategic Management",
+        "institution": "Kingston University",
+        "year": 2007,
+        "sources": [
+          {
+            "url": "https://www.enplusgroup.com/upload/iblock/aa7/bwfbt41giehg6stmi4jsy46kozoxl7bd/Enplus_Annual_Report_2024_RUS.pdf",
+            "title": "En+ Annual Report 2024",
+            "fact": "Board biography states that Andrey Yanovsky earned an MBA in Strategic Management from Kingston University in 2007."
+          }
+        ],
+        "qualification_degree": "MBA"
+      }
+    ],
+    "professional_experience": [
+      {
+        "organization": "МКПАО ЮМГ / EMC",
+        "role": "Генеральный директор",
+        "start_year": 2023,
+        "end_year": null,
+        "description": "Board decision dated 06.11.2023 appointed Yanovsky as general director; powers began on 29.12.2023 after registration of MKPAO UMG.",
+        "sources": [
+          {
+            "url": "MOEXBMI_Отчеты_2024/GEMC/Годовой отчет за 2024 год (МКПАО ЮМГ).pdf",
+            "title": "Годовой отчет МКПАО ЮМГ за 2024 год",
+            "fact": "Страница 26: решением СД от 06.11.2023 Яновский Андрей Владимирович назначен генеральным директором; полномочия с 29.12.2023."
+          },
+          {
+            "url": "MOEXBMI_Отчеты_2024/GEMC/МКПАО ЮМГ (2024) МСФО.pdf",
+            "title": "Консолидированная финансовая отчетность МКПАО ЮМГ за 2024 год",
+            "fact": "Страница 1: Яновский Андрей Владимирович указан в составе совета директоров."
+          }
+        ],
+        "sector": "Health Care",
+        "industry_group": "Health Care Equipment & Services",
+        "industry": "Health Care Providers & Services"
+      },
+      {
+        "organization": "МКПАО ЮМГ / EMC",
+        "role": "Член совета директоров",
+        "start_year": null,
+        "end_year": null,
+        "description": "Member of the board of directors at the beginning of 2024 and after the 18.06.2024 AGM re-election.",
+        "sources": [
+          {
+            "url": "MOEXBMI_Отчеты_2024/GEMC/Годовой отчет за 2024 год (МКПАО ЮМГ).pdf",
+            "title": "Годовой отчет МКПАО ЮМГ за 2024 год",
+            "fact": "Страницы 24-25: Андрей Владимирович Яновский указан членом совета директоров на начало 2024 года и после переизбрания 18.06.2024."
+          },
+          {
+            "url": "MOEXBMI_Отчеты_2024/GEMC/МКПАО ЮМГ (2024) МСФО.pdf",
+            "title": "Консолидированная финансовая отчетность МКПАО ЮМГ за 2024 год",
+            "fact": "Страница 1: Яновский Андрей Владимирович указан в составе совета директоров."
+          }
+        ],
+        "sector": "Health Care",
+        "industry_group": "Health Care Equipment & Services",
+        "industry": "Health Care Providers & Services"
+      },
+      {
+        "organization": "European Medical Center / JSC EMC",
+        "role": "General Director / CEO",
+        "start_year": 2014,
+        "end_year": null,
+        "description": "En+ board biography states Yanovsky has been General Director of JSC European Medical Center since 2014.",
+        "sources": [
+          {
+            "url": "https://www.enplusgroup.com/upload/iblock/aa7/bwfbt41giehg6stmi4jsy46kozoxl7bd/Enplus_Annual_Report_2024_RUS.pdf",
+            "title": "En+ Annual Report 2024",
+            "fact": "Board biography lists Andrey Yanovsky as General Director of JSC European Medical Center from 2014 to present."
+          },
+          {
+            "url": "https://events.vedomosti.ru/speakers/yanovskii-andrei-9227",
+            "title": "Vedomosti Events: speaker profile of Andrey Yanovsky",
+            "fact": "Speaker bio states: 'С 2014 года – член совета директоров, генеральный директор управляющей компании «Европейский медицинский центр»' (since 2014, board member and general director of the EMC management company)."
+          }
+        ],
+        "sector": "Health Care",
+        "industry_group": "Health Care Equipment & Services",
+        "industry": "Health Care Providers & Services"
+      },
+      {
+        "organization": "En+ Group IPJSC",
+        "role": "Independent non-executive director",
+        "start_year": 2020,
+        "end_year": null,
+        "description": "Independent non-executive director of En+ Group.",
+        "sources": [
+          {
+            "url": "https://ar2024.enplusgroup.com/ru/sustainable-development/governance",
+            "title": "En+ Annual Report 2024: Governance",
+            "fact": "Governance page identifies Andrey Yanovsky as independent non-executive director and CEO of European Medical Center."
+          }
+        ],
+        "sector": "Materials",
+        "industry_group": "Materials",
+        "industry": "Metals & Mining"
+      },
+      {
+        "organization": "Neftetransservice",
+        "role": "Director for Strategy and Organizational Development",
+        "start_year": 2013,
+        "end_year": 2014,
+        "description": "Career history before EMC.",
+        "sources": [
+          {
+            "url": "https://www.enplusgroup.com/upload/iblock/aa7/bwfbt41giehg6stmi4jsy46kozoxl7bd/Enplus_Annual_Report_2024_RUS.pdf",
+            "title": "En+ Annual Report 2024",
+            "fact": "Board biography lists Director for Strategy and Organizational Development at Neftetransservice in 2013-2014."
+          }
+        ],
+        "sector": "Industrials",
+        "industry_group": "Transportation",
+        "industry": "Ground Transportation (New Name)"
+      },
+      {
+        "organization": "TNK-BP",
+        "role": "Vice President for Organizational Development and Personnel",
+        "start_year": 2009,
+        "end_year": 2013,
+        "description": "Career history before EMC.",
+        "sources": [
+          {
+            "url": "https://www.enplusgroup.com/upload/iblock/aa7/bwfbt41giehg6stmi4jsy46kozoxl7bd/Enplus_Annual_Report_2024_RUS.pdf",
+            "title": "En+ Annual Report 2024",
+            "fact": "Board biography lists Vice President for Organizational Development and Personnel at TNK-BP in 2009-2013."
+          }
+        ],
+        "sector": "Energy",
+        "industry_group": "Energy",
+        "industry": "Oil, Gas & Consumable Fuels"
+      },
+      {
+        "organization": "Nidan Juices",
+        "role": "CEO",
+        "start_year": 2003,
+        "end_year": 2009,
+        "description": "Career history before EMC.",
+        "sources": [
+          {
+            "url": "https://www.enplusgroup.com/upload/iblock/aa7/bwfbt41giehg6stmi4jsy46kozoxl7bd/Enplus_Annual_Report_2024_RUS.pdf",
+            "title": "En+ Annual Report 2024",
+            "fact": "Board biography lists CEO of Nidan Juices in 2003-2009."
+          }
+        ],
+        "sector": "Consumer Staples",
+        "industry_group": "Food, Beverage & Tobacco",
+        "industry": "Beverages"
+      },
+      {
+        "organization": "The Coca-Cola Company (Russia)",
+        "role": "Sales representative, progressing through several divisions to franchise general director",
+        "start_year": 1993,
+        "end_year": 2002,
+        "description": "Quality-pass round (2026-07-30): entry restored after being found missing from JSON despite being researched and resolved in round 2 notes. Directly re-verified this round via WebFetch of the Vedomosti Events speaker profile, which states (quoted): 'начал карьеру торговым представителем в The Coca-Cola Company в России, работал в различных подразделениях компании, стал генеральным директором франшизы' (1993-2002). Round 1 notes had separately mentioned an unverified '1999-2002' range attributed to En+ annual report/ZdravInvest, but round 2 found those specific pages returned HTTP 404 on recheck and no verbatim quote was ever obtained for that range; this round could not locate a working copy of that alternate range either. The 1993-2002 Vedomosti figure is kept as the source-backed value because it is the only range independently confirmed with an actual verbatim quote; the unverifiable 1999-2002 claim is treated as an unresolved, less reliable secondary mention and is not used.",
+        "sources": [
+          {
+            "url": "https://events.vedomosti.ru/speakers/yanovskii-andrei-9227",
+            "title": "Vedomosti Events: speaker profile of Andrey Yanovsky",
+            "fact": "Profile states Yanovsky began his career as a sales representative at The Coca-Cola Company in Russia, worked in various divisions of the company, and became general director of the franchise, from 1993 to 2002 (before moving to Nidan Juices)."
+          }
+        ],
+        "sector": "Consumer Staples",
+        "industry_group": "Food, Beverage & Tobacco",
+        "industry": "Beverages"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "CSV lists Яновский Андрей Владимирович for GEMC as CEO and board member."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/GEMC/Годовой отчет за 2024 год (МКПАО ЮМГ).pdf",
+        "title": "Годовой отчет МКПАО ЮМГ за 2024 год",
+        "fact": "Pages 5, 24-26 confirm CEO signature, board membership, and appointment as general director."
+      },
+      {
+        "url": "https://www.enplusgroup.com/upload/iblock/aa7/bwfbt41giehg6stmi4jsy46kozoxl7bd/Enplus_Annual_Report_2024_RUS.pdf",
+        "title": "En+ Annual Report 2024",
+        "fact": "Board biography gives education and prior career."
+      },
+      {
+        "url": "https://events.vedomosti.ru/speakers/yanovskii-andrei-9227",
+        "title": "Vedomosti Events: speaker profile of Andrey Yanovsky",
+        "fact": "Independent speaker profile confirms pre-EMC career chain (Coca-Cola 1993-2002, Nidan Juices, TNK-BP, Neftetransservice) and the 2014-present EMC board/CEO role."
+      }
+    ],
+    "notes": "Education and career are well supported by En+ annual report and EMC interview. No confirmed scholarly publications, patents, h-index, or candidate/doctor of science degree. Board-start date before 2024 varies across secondary sources, so exact historic board start is not asserted. Quality-pass round (2026-07-30): restored a Coca-Cola (Russia) 1993-2002 professional_experience entry that round 2 research had already resolved and sourced but that was absent from this file (desync between notes and JSON); re-verified directly against the Vedomosti Events source this round rather than trusting the round 2 paraphrase at face value. An unverifiable alternate 1999-2002 range mentioned only in round 1 notes remains unresolved and unused because no working source ever produced a direct quote for it."
+  },
+  "tmt": [
+    {
+      "name": "Минаков Георгий Викторович",
+      "current_role": "Руководитель подразделения внутреннего аудита",
+      "company_name": "МКПАО ЮМГ",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "МКПАО ЮМГ",
+          "role": "Руководитель подразделения внутреннего аудита",
+          "start_year": null,
+          "end_year": null,
+          "description": "Role comes from the GEMC row in the source CSV. Local annual report confirms the internal audit department/function existed, but does not name Minakov.",
+          "sources": [
+            {
+              "url": "MOEXBMI_2024.csv",
+              "title": "MOEXBMI_2024.csv",
+              "fact": "CSV lists Минаков Георгий Викторович for GEMC as head of internal audit unit."
+            },
+            {
+              "url": "MOEXBMI_Отчеты_2024/GEMC/Годовой отчет за 2024 год (МКПАО ЮМГ).pdf",
+              "title": "Годовой отчет МКПАО ЮМГ за 2024 год",
+              "fact": "Страница 24: совет директоров рассматривал отчеты Департамента внутреннего аудита; named person is not specified."
+            }
+          ],
+          "sector": "Health Care",
+          "industry_group": "Health Care Equipment & Services",
+          "industry": "Health Care Providers & Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Минаков Георгий Викторович for GEMC as head of internal audit unit."
+        }
+      ],
+      "notes": "Independent confirmation of the person and biography was not obtained from local reports or web sources. Education, prior career, and research data are therefore left empty. Round 2 (2026-07-19): local GEMC annual report and IFRS report were re-scanned in full -- \"Минаков\" does not appear anywhere in either document. Additional web search (DuckDuckGo, WebSearch quota was exhausted for this session) found only an e-xecutive.ru profile for a \"Георгий Минаков, руководитель департамента операционного аудита\" at DIKSI/X5 retail group; rejected as an unconfirmed namesake because no source ties this profile to GEMC/EMC. Education and independent role confirmation remain open gaps."
+    },
+    {
+      "name": "Шмелев Дмитрий Сергеевич",
+      "current_role": "Финансовый директор; председатель совета директоров",
+      "company_name": "МКПАО ЮМГ",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "МКПАО ЮМГ",
+          "role": "Председатель совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "Chairman of the board at the beginning of 2024 and after 18.06.2024 re-election.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/GEMC/Годовой отчет за 2024 год (МКПАО ЮМГ).pdf",
+              "title": "Годовой отчет МКПАО ЮМГ за 2024 год",
+              "fact": "Страницы 24-25: Дмитрий Сергеевич Шмелев указан председателем совета директоров на начало 2024 года и после переизбрания 18.06.2024."
+            },
+            {
+              "url": "MOEXBMI_Отчеты_2024/GEMC/МКПАО ЮМГ (2024) МСФО.pdf",
+              "title": "Консолидированная финансовая отчетность МКПАО ЮМГ за 2024 год",
+              "fact": "Страница 1: Шмелев Дмитрий Сергеевич указан в составе совета директоров."
+            }
+          ],
+          "sector": "Health Care",
+          "industry_group": "Health Care Equipment & Services",
+          "industry": "Health Care Providers & Services"
+        },
+        {
+          "organization": "МКПАО ЮМГ / EMC",
+          "role": "Финансовый директор / CFO",
+          "start_year": null,
+          "end_year": null,
+          "description": "Confirmed as financial director/CFO by the 2024 IFRS report signature and MOEX listing news.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/GEMC/МКПАО ЮМГ (2024) МСФО.pdf",
+              "title": "Консолидированная финансовая отчетность МКПАО ЮМГ за 2024 год",
+              "fact": "Страница 3: отчет подписан 'Шмелев Д.С., Финансовый директор'."
+            },
+            {
+              "url": "https://www.moex.com/n35124",
+              "title": "MOEX: MOEX starts trading United Medical Group GDRs",
+              "fact": "MOEX news identifies Dmitry Shmelev as CFO of EMC in the trading-start ceremony."
+            }
+          ],
+          "sector": "Health Care",
+          "industry_group": "Health Care Equipment & Services",
+          "industry": "Health Care Providers & Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Шмелев Дмитрий Сергеевич for GEMC as CFO and chairman of the board."
+        },
+        {
+          "url": "https://www.interfax.ru/business/960341",
+          "title": "Interfax: Top managers of EMC consolidated a controlling stake",
+          "fact": "Interfax identifies Dmitry Shmelev as financial director of EMC in the 2024 management ownership context."
+        },
+        {
+          "url": "https://vademec.ru/news/2024/02/26/kontrolnyy-paket-aktsiy-emc-pereshel-top-menedzheram-kompanii/",
+          "title": "Vademecum: controlling stake of EMC transferred to top managers",
+          "fact": "Vademecum identifies Dmitry Shmelev as financial director of EMC."
+        }
+      ],
+      "notes": "Education and early career were not confirmed. Search results for a Dmitry Shmelev from Uralsib/MGIMO were rejected because they refer to Dmitry Georgievich Shmelev; a TAdviser exact-full-name profile from another region/industry was also rejected. Round 2 (2026-07-19): additional web search (DuckDuckGo, WebSearch quota exhausted for this session) surfaced only tax-registry entries (audit-it.ru, rusprofile.ru) under the same full name, none of which include education or an independent link to GEMC/EMC beyond what was already sourced in round 1. No new reliable same-person biography found; education remains unconfirmed."
+    },
+    {
+      "name": "Вольский Владислав Михайлович",
+      "current_role": "Независимый член совета директоров",
+      "company_name": "МКПАО ЮМГ",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "МКПАО ЮМГ",
+          "role": "Независимый член совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "Independent board member at the beginning of 2024 and after 18.06.2024 re-election.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/GEMC/Годовой отчет за 2024 год (МКПАО ЮМГ).pdf",
+              "title": "Годовой отчет МКПАО ЮМГ за 2024 год",
+              "fact": "Страницы 24-25: Владислав Михайлович Вольский указан независимым членом совета директоров на начало 2024 года и после переизбрания 18.06.2024."
+            },
+            {
+              "url": "MOEXBMI_Отчеты_2024/GEMC/МКПАО ЮМГ (2024) МСФО.pdf",
+              "title": "Консолидированная финансовая отчетность МКПАО ЮМГ за 2024 год",
+              "fact": "Страница 1: Вольский Владислав Михайлович указан в составе совета директоров."
+            }
+          ],
+          "sector": "Health Care",
+          "industry_group": "Health Care Equipment & Services",
+          "industry": "Health Care Providers & Services"
+        },
+        {
+          "organization": "МКПАО ЮМГ",
+          "role": "Председатель комитета по аудиту; член комитета по кадрам и вознаграждениям",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Committee composition since 01.03.2024.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/GEMC/Годовой отчет за 2024 год (МКПАО ЮМГ).pdf",
+              "title": "Годовой отчет МКПАО ЮМГ за 2024 год",
+              "fact": "Страница 25: с 01.03.2024 Вольский указан председателем комитета по аудиту и членом комитета по кадрам и вознаграждениям."
+            }
+          ],
+          "sector": "Health Care",
+          "industry_group": "Health Care Equipment & Services",
+          "industry": "Health Care Providers & Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Вольский Владислав Михайлович for GEMC as board member."
+        }
+      ],
+      "notes": "Education and prior career were not confirmed from reliable same-person sources. LinkedIn/social and pharma-related snippets were treated as insufficient identity evidence and excluded. Round 2 (2026-07-19): repeated web search (DuckDuckGo, WebSearch quota exhausted for this session) found no new candidate sources beyond round 1's pharma/commercial snippets, which remain unconfirmed. Education remains unconfirmed."
+    },
+    {
+      "name": "Тронин Андрей Владимирович",
+      "current_role": "Независимый член совета директоров",
+      "company_name": "МКПАО ЮМГ",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "МКПАО ЮМГ",
+          "role": "Независимый член совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "Independent board member at the beginning of 2024 and after 18.06.2024 re-election.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/GEMC/Годовой отчет за 2024 год (МКПАО ЮМГ).pdf",
+              "title": "Годовой отчет МКПАО ЮМГ за 2024 год",
+              "fact": "Страницы 24-25: Андрей Владимирович Тронин указан независимым членом совета директоров на начало 2024 года и после переизбрания 18.06.2024."
+            },
+            {
+              "url": "MOEXBMI_Отчеты_2024/GEMC/МКПАО ЮМГ (2024) МСФО.pdf",
+              "title": "Консолидированная финансовая отчетность МКПАО ЮМГ за 2024 год",
+              "fact": "Страница 1: Тронин Андрей Владимирович указан в составе совета директоров."
+            }
+          ],
+          "sector": "Health Care",
+          "industry_group": "Health Care Equipment & Services",
+          "industry": "Health Care Providers & Services"
+        },
+        {
+          "organization": "МКПАО ЮМГ",
+          "role": "Член комитета по аудиту; председатель комитета по кадрам и вознаграждениям",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Committee composition since 01.03.2024.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/GEMC/Годовой отчет за 2024 год (МКПАО ЮМГ).pdf",
+              "title": "Годовой отчет МКПАО ЮМГ за 2024 год",
+              "fact": "Страница 25: с 01.03.2024 Тронин указан членом комитета по аудиту и председателем комитета по кадрам и вознаграждениям."
+            }
+          ],
+          "sector": "Health Care",
+          "industry_group": "Health Care Equipment & Services",
+          "industry": "Health Care Providers & Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Тронин Андрей Владимирович for GEMC as board member."
+        },
+        {
+          "url": "https://maginnov.ru/ru/zhurnal/avtory/tronin-andrej-vladimirovich",
+          "title": "Journal Innovations author profile: Tronin Andrey Vladimirovich",
+          "fact": "Potential same-name profile was checked but not used for confirmed biography because it does not link the author to MKPAO UMG."
+        }
+      ],
+      "notes": "A journal profile for an Andrey Vladimirovich Tronin in a medico-biological company was found, but no source connected it to the GEMC board member. Education, research experience, and publications are therefore empty. Round 2 (2026-07-19): re-checked the maginnov.ru author profile (director of ЗАО \"Медико-биологический Союз - Технология\", author of a 2014 biosensors article) -- topically adjacent to health care but still with no source linking it to the GEMC/EMC board; kept rejected as in round 1. No new candidate sources found. Education remains unconfirmed."
+    },
+    {
+      "name": "Лобанов Олег Валентинович",
+      "current_role": "Независимый член совета директоров",
+      "company_name": "МКПАО ЮМГ",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "МКПАО ЮМГ",
+          "role": "Независимый член совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "Independent board member at the beginning of 2024 and after 18.06.2024 re-election.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/GEMC/Годовой отчет за 2024 год (МКПАО ЮМГ).pdf",
+              "title": "Годовой отчет МКПАО ЮМГ за 2024 год",
+              "fact": "Страницы 24-25: Олег Валентинович Лобанов указан независимым членом совета директоров на начало 2024 года и после переизбрания 18.06.2024."
+            },
+            {
+              "url": "MOEXBMI_Отчеты_2024/GEMC/МКПАО ЮМГ (2024) МСФО.pdf",
+              "title": "Консолидированная финансовая отчетность МКПАО ЮМГ за 2024 год",
+              "fact": "Страница 1: Лобанов Олег Валентинович указан в составе совета директоров."
+            }
+          ],
+          "sector": "Health Care",
+          "industry_group": "Health Care Equipment & Services",
+          "industry": "Health Care Providers & Services"
+        },
+        {
+          "organization": "МКПАО ЮМГ",
+          "role": "Член комитета по аудиту; член комитета по кадрам и вознаграждениям",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Committee composition since 01.03.2024.",
+          "sources": [
+            {
+              "url": "MOEXBMI_Отчеты_2024/GEMC/Годовой отчет за 2024 год (МКПАО ЮМГ).pdf",
+              "title": "Годовой отчет МКПАО ЮМГ за 2024 год",
+              "fact": "Страница 25: с 01.03.2024 Лобанов указан членом комитета по аудиту и членом комитета по кадрам и вознаграждениям."
+            }
+          ],
+          "sector": "Health Care",
+          "industry_group": "Health Care Equipment & Services",
+          "industry": "Health Care Providers & Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV lists Лобанов Олег Валентинович for GEMC as board member."
+        }
+      ],
+      "notes": "Education and prior professional career were not confirmed. Registry/business snippets by exact name were not used because they did not independently connect the person to the GEMC board member. Round 2 (2026-07-19): additional web search (DuckDuckGo, WebSearch quota exhausted for this session) identified a well-documented businessman Oleg Valentinovich Lobanov, born 1968, MAI and Plekhanov Academy graduate, founder/chairman of \"KorpusGrupp\" (mai.ru press profile, history.mai.ru). No source connects this person to the GEMC/EMC board, so this was not used as a confirmed identity match; treated as an unconfirmed namesake per project rules. Education remains unconfirmed."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/GEMC/Годовой отчет за 2024 год (МКПАО ЮМГ).pdf",
+      "title": "Годовой отчет МКПАО ЮМГ за 2024 год",
+      "fact": "Страницы 24-25: годовой отчет подтверждает состав совета директоров на начало 2024 года и после переизбрания 18.06.2024: Шмелев, Яновский, Вольский, Тронин, Лобанов."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/GEMC/Годовой отчет за 2024 год (МКПАО ЮМГ).pdf",
+      "title": "Годовой отчет МКПАО ЮМГ за 2024 год",
+      "fact": "Страница 26: годовой отчет подтверждает назначение Яновского Андрея Владимировича генеральным директором МКПАО ЮМГ."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/GEMC/МКПАО ЮМГ (2024) МСФО.pdf",
+      "title": "Консолидированная финансовая отчетность МКПАО ЮМГ за 2024 год",
+      "fact": "Страница 1: МСФО перечисляет совет директоров: Яновский, Шмелев, Вольский, Тронин, Лобанов."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/GEMC/МКПАО ЮМГ (2024) МСФО.pdf",
+      "title": "Консолидированная финансовая отчетность МКПАО ЮМГ за 2024 год",
+      "fact": "Страница 3: консолидированный отчет совета директоров подписан Яновским А.В. как генеральным директором и Шмелевым Д.С. как финансовым директором."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.emcmos.ru/news_and_media/smi_o_nas/andrey-yanovskiy-nuzhno-obladat-vysokim-urovnem-empatii/",
+      "title": "EMC: Andrey Yanovsky interview",
+      "fact": "Official EMC page republishes interview with Andrey Yanovsky as CEO and mentions his MBA from Kingston University."
+    },
+    {
+      "url": "https://ar2024.enplusgroup.com/ru/sustainable-development/governance",
+      "title": "En+ Annual Report 2024: Governance",
+      "fact": "En+ governance page identifies Andrey Yanovsky as CEO of European Medical Center and En+ independent non-executive director."
+    },
+    {
+      "url": "https://www.enplusgroup.com/upload/iblock/aa7/bwfbt41giehg6stmi4jsy46kozoxl7bd/Enplus_Annual_Report_2024_RUS.pdf",
+      "title": "En+ Annual Report 2024",
+      "fact": "En+ annual report provides Yanovsky's education and pre-EMC career biography."
+    },
+    {
+      "url": "https://www.moex.com/n35124",
+      "title": "MOEX: MOEX starts trading United Medical Group GDRs",
+      "fact": "MOEX identifies Dmitry Shmelev as CFO of EMC in the trading launch context."
+    },
+    {
+      "url": "https://www.interfax.ru/business/960341",
+      "title": "Interfax: top managers of EMC consolidated controlling stake",
+      "fact": "Interfax identifies Andrey Yanovsky as CEO and Dmitry Shmelev as financial director in 2024 EMC ownership context."
+    },
+    {
+      "url": "https://vademec.ru/news/2024/02/26/kontrolnyy-paket-aktsiy-emc-pereshel-top-menedzheram-kompanii/",
+      "title": "Vademecum: controlling stake of EMC transferred to top managers",
+      "fact": "Industry media identifies Yanovsky and Shmelev in EMC management context."
+    }
+  ],
+  "validation_notes": "Processed 6 people from GEMC CSV. Checked 2 local company documents: annual report and IFRS report. Completed 6 person-round research notes. Education was confirmed only for Яновский Андрей Владимирович; education remains unconfirmed for Минаков, Шмелев, Вольский, Тронин, Лобанов. Weak sources were not used for hard JSON facts except CSV-only role anchoring for Минаков, which is explicitly marked as not independently confirmed. Rejected namesakes include Dmitry Georgievich Shmelev from Uralsib/MGIMO, a different Dmitry Sergeevich Shmelev from Yamal/TAdviser, and same-name registry/social/publication snippets for Volsky, Tronin, and Lobanov without a ЮМГ identity bridge. Remaining conflicts: Yanovsky's historic EMC board start varies between secondary sources; exact historic start year is not asserted. Search is considered complete for 2024 company roles because local primary documents confirm board/CEO/CFO context; broader biographies remain incomplete where reliable same-person sources were unavailable. Round 2 (2026-07-19): Проведён точечный (gap-filling) раунд по полям, ранее оставленным null/неподтверждёнными. (1) CEO Яновский: найдена и добавлена ранее отсутствовавшая запись профессионального опыта 'The Coca-Cola Company (Russia)' (1993-2002, от торгового представителя до генерального директора франчайзи) и второй независимый источник (Vedomosti Events, https://events.vedomosti.ru/speakers/yanovskii-andrei-9227), подтверждающий роль генерального директора и члена совета директоров управляющей компании EMC с 2014 года; оба факта — из ранее не использованного источника. Уточнено, что членство в совете директоров EMC (управляющая компания) с 2014 года — отдельный факт от членства в совете директоров именно МКПАО ЮМГ (компания образована в 2023 году), поэтому start_year записи 'Член совета директоров' МКПАО ЮМГ намеренно оставлен null, ранее отмеченное расхождение источников не разрешалось произвольно. (2) Институт нормализован по university_names.json: 'Saint Petersburg State University of Economics and Finance' -> каноническая форма 'Санкт-Петербургский государственный экономический университет' (raw-строка числится в списке вариантов этого канонического имени). Остальные 3 вуза Яновского (Saint Petersburg State Institute of Technology (Technical University), Riga Higher Military-Political School, Kingston University) уже являются каноническими ключами в university_names.json, изменений не потребовалось; поэтому new_institutions_found для этого тикера пуст. (3) qualification_degree добавлен во все 4 записи education и 1 запись degrees Яновского: 'Specialist degree' для трёх записей 1985/1990/1992 года — выведено с высокой уверенностью из контекста (все три — советские/российские вузы и военное училище до Болонской реформы высшего образования в России, стандартно оканчивавшиеся дипломом специалиста, а не бакалавра/магистра); 'MBA' для записи Kingston University 2007 года — совпадает с полем credential, явно указанным как MBA в обоих источниках. Для остальных 5 человек education/degrees пусты, поэтому качественных степеней добавлять было не к чему. (4) Дополнительный целевой ресёрч по Минакову, Шмелеву, Вольскому, Тронину, Лобанову: оба локальных документа GEMC перепроверены постранично (постранично извлечён полный текст через PyMuPDF) — новых имён/деталей не найдено, 'Минаков' в годовом отчёте вообще не встречается. Веб-поиск через WebSearch был недоступен (лимит на 200 запросов за сессию исчерпан другими задачами), поэтому использован DuckDuckGo html-прокси через WebFetch как замена. Найденные тематически похожие профили (e-xecutive.ru для Минакова/DIKSI, MAI/Профиль для Лобанова/КорпусГрупп, maginnov.ru для Тронина/биосенсоры, реестровые ИНН-страницы для Шмелева, отсутствие новых кандидатов по Вольскому) не содержат независимой привязки к совету директоров/менеджменту GEMC/EMC и поэтому не использованы как подтверждённые факты — риск смешения однофамильцев признан выше ценности непроверенного заполнения. Это подтверждает вывод раунда 1: у этих 5 человек нет доступных публичных биографий, а не то, что поиск был неполным. (5) Добавлена классификация GICS (дословно из gics_taxonomy.json) на уровне компании и в каждую запись professional_experience всех 6 человек: МКПАО ЮМГ / EMC / European Medical Center -> Health Care / Health Care Equipment & Services / Health Care Providers & Services (частная многопрофильная медицинская клиника — основной профиль компании и всех её органов управления); En+ Group IPJSC -> Materials / Materials / Metals & Mining (собственный профиль En+ как алюминиевого/энергетического холдинга, материнской компании РУСАЛ, а не профиль GEMC); Neftetransservice -> Industrials / Transportation / Ground Transportation (New Name) (частный оператор железнодорожного грузового подвижного состава, перевозящего нефтепродукты, а не сама нефтяная компания); TNK-BP -> Energy / Energy / Oil, Gas & Consumable Fuels; Nidan Juices и новая запись The Coca-Cola Company (Russia) -> Consumer Staples / Food, Beverage & Tobacco / Beverages. (6) new_institutions_found добавлен как пустой список: все встреченные институты уже присутствуют в university_names.json. Ни один ранее подтверждённый факт не удалён и не переписан; все правки этого раунда — дополнения к пустым/сомнительным полям, задокументированы также в research_notes/GEMC/*_round_2.md. Верификационный проход (2026-07-19, продолжение Round 2): обнаружено, что JSON уже содержал все правки round 2 (sector/industry_group/industry, qualification_degree, нормализация вуза, новая запись Coca-Cola), но файлы research_notes/GEMC/*_round_2.md, на которые ссылались эти validation_notes, ранее не были сохранены на диск -- это устранено: созданы все 6 файлов *_round_2.md (по одному на каждого человека), без удаления или изменения ранее сохранённых *_round_1.md. Дополнительно независимо перепроверены факты этого раунда: (1) https://events.vedomosti.ru/speakers/yanovskii-andrei-9227 повторно прочитан через WebFetch -- дословно подтверждает и период в The Coca-Cola Company (Russia) 1993-2002, и роль генерального директора/члена совета директоров управляющей компании EMC с 2014 года для Яновского; (2) все 5 использованных троек sector/industry_group/industry построчно сверены с gics_taxonomy.json -- точное совпадение; (3) все институты образования Яновского сверены с university_names.json -- канонические формы подтверждены; (4) для Минакова, Шмелева, Вольского, Тронина и Лобанова выполнен ещё один точечный веб-заход (WebSearch-бюджет сессии исчерпан, использован WebFetch по html.duckduckgo.com/html) -- новых источников, независимо связывающих этих людей с ЮМГ/EMC за пределами уже учтённого в round 2, не найдено (по Тронину запрос заблокирован CAPTCHA); вывод round 2 об отсутствии доступных биографий подтверждён повторно, education/degrees для этих 5 человек по-прежнему пусты. Ранее подтверждённые факты не удалялись и не переписывались. DATA-LOSS REPAIR (2026-07-30): restored 5 shortened person-level notes field(s) and 2 missing source citation(s) using git HEAD (commit 03bfe9f, 2026-07-20) as the reliable baseline, after Validate found this file had regressed below that committed checkpoint. Nothing else in this file was touched by this repair; today's GICS/qualification_degree/normalization work from the quality pass is preserved as-is.",
+  "sector": "Health Care",
+  "industry_group": "Health Care Equipment & Services",
+  "industry": "Health Care Providers & Services"
+}

@@ -1,0 +1,942 @@
+{
+    "company_name":  "МКПАО \"Т-Технологии\" (в CSV: МКПАО \"ТКС Холдинг\")",
+    "company_ticker":  "T",
+    "ceo":  {
+                "name":  "Станислав Викторович Близнюк",
+                "current_role":  "Президент группы \"Т-Технологии\"; CEO-equivalent по локальному годовому отчету",
+                "company_name":  "МКПАО \"Т-Технологии\"",
+                "education":  [
+                                  {
+                                      "institution":  "Финансовая академия при Правительстве РФ",
+                                      "year":  1995,
+                                      "qualification":  null,
+                                      "description":  "Биографический профиль указывает, что Станислав Близнюк окончил Финансовую академию при Правительстве РФ в 1995 году.",
+                                      "sources":  [
+                                                      "https://www.vedomosti.ru/persons/2021/04/15/866151-stanislav-bliznyuk"
+                                                  ],
+                                      "qualification_degree":  null
+                                  }
+                              ],
+                "degrees":  [
+
+                            ],
+                "professional_experience":  [
+                                                {
+                                                    "organization":  "Группа \"Т-Технологии\"",
+                                                    "role":  "Президент группы",
+                                                    "start_year":  null,
+                                                    "end_year":  null,
+                                                    "description":  "В обращении президента группы в годовом отчете за 2024 год указан как президент группы \"Т-Технологии\".",
+                                                    "sources":  [
+                                                                    "MOEXBMI_Отчеты_2024/T/МКПАО Т-Технологии_Годовой отчет_2024.pdf"
+                                                                ],
+                                                    "sector":  null,
+                                                    "industry_group":  null,
+                                                    "industry":  null
+                                                },
+                                                {
+                                                    "organization":  "АО \"Т-Банк\" / Тинькофф Банк",
+                                                    "role":  "Председатель правления",
+                                                    "start_year":  2021,
+                                                    "end_year":  null,
+                                                    "description":  "Деловые СМИ указывают назначение председателем правления Тинькофф Банка в 2021 году; позднее источники используют формулировку CEO/председатель правления T-Банка.",
+                                                    "sources":  [
+                                                                    "https://www.rbc.ru/quote/news/article/66d6e6b79a79471110acbb64",
+                                                                    "https://www.vedomosti.ru/persons/2021/04/15/866151-stanislav-bliznyuk"
+                                                                ],
+                                                    "sector":  "Financials",
+                                                    "industry_group":  "Banks",
+                                                    "industry":  "Banks"
+                                                },
+                                                {
+                                                    "organization":  "Тинькофф / TCS Group",
+                                                    "role":  "Руководящие должности в продажах и операционном блоке",
+                                                    "start_year":  2006,
+                                                    "end_year":  2021,
+                                                    "description":  "Биографический профиль связывает его с TCS Group с 2006 года и описывает последовательность руководящих ролей до назначения главой правления банка.",
+                                                    "sources":  [
+                                                                    "https://www.vedomosti.ru/persons/2021/04/15/866151-stanislav-bliznyuk"
+                                                                ],
+                                                    "sector":  "Financials",
+                                                    "industry_group":  "Banks",
+                                                    "industry":  "Banks"
+                                                },
+                                                {
+                                                    "organization":  "МКПАО \"Т-Технологии\"",
+                                                    "role":  "Член совета директоров",
+                                                    "start_year":  2024,
+                                                    "end_year":  null,
+                                                    "description":  "Квалификационный пассаж заметок round 1 отдельно фиксирует избрание в совет директоров по корпоративному действию НРД от декабря 2024 года; этот факт присутствовал в заметках, но отсутствовал как отдельная запись professional_experience -- добавлено при quality pass round 1 (простое упущение, источник уже указан в top-level sources).",
+                                                    "sources":  [
+                                                                    "https://octan.ru/deponews/2024/12/12/I12C6165/"
+                                                                ],
+                                                    "sector":  null,
+                                                    "industry_group":  null,
+                                                    "industry":  null
+                                                }
+                                            ],
+                "research_experience":  [
+
+                                        ],
+                "publications":  [
+
+                                 ],
+                "patents":  [
+
+                            ],
+                "h_index":  null,
+                "sources":  [
+                                {
+                                    "url":  "MOEXBMI_2024.csv",
+                                    "title":  "MOEXBMI_2024.csv",
+                                    "fact":  "CSV row for ticker \"T, TCSG\" contains Станислав Викторович Близнюк with position Chairman."
+                                },
+                                {
+                                    "url":  "MOEXBMI_Отчеты_2024/T/МКПАО Т-Технологии_Годовой отчет_2024.pdf",
+                                    "title":  "Интегрированный годовой отчет МКПАО \"Т-Технологии\" за 2024 год",
+                                    "fact":  "PDF page 5: обращение подписано \"Станислав Близнюк, президент группы \"Т-Технологии\"\"; page 73: отчет описывает CEO talk-show \"121 со Стасом\" со Станиславом Близнюком."
+                                },
+                                {
+                                    "url":  "https://octan.ru/deponews/2024/12/12/I12C6165/",
+                                    "title":  "НКО АО НРД: T-ТЕХНОЛОГИИ, Решения общих собраний участников, 05.12.2024",
+                                    "fact":  "Источник перечисляет Станислава Викторовича Близнюка среди избранных членов совета директоров МКПАО \"Т-Технологии\"."
+                                },
+                                {
+                                    "url":  "https://www.vedomosti.ru/persons/2021/04/15/866151-stanislav-bliznyuk",
+                                    "title":  "Ведомости: Станислав Близнюк",
+                                    "fact":  "Биографический профиль указывает образование в Финансовой академии и работу в TCS/Tinkoff с 2006 года."
+                                },
+                                {
+                                    "url":  "https://www.rbc.ru/quote/news/article/66d6e6b79a79471110acbb64",
+                                    "title":  "РБК Инвестиции: комментарий Станислава Близнюка",
+                                    "fact":  "Источник идентифицирует Станислава Близнюка как CEO T-Банка и связывает его с группой T-Технологии."
+                                }
+                            ],
+                "notes":  "Связь с компанией за 2024 год подтверждена локальным годовым отчетом и корпоративным действием НРД. Полная официальная биография на сайте компании не обнаружена; образование опирается на деловой биографический профиль. Quality pass round 1: простое упущение исправлено -- round 1 notes и top-level sources уже фиксировали избрание в совет директоров МКПАО \"Т-Технологии\" по НРД от 05.12.2024, но отдельной записи professional_experience для этого не было; добавлена (источник уже был процитирован, новый факт не изобретался). GICS: записи \"АО \\\"Т-Банк\\\" / Тинькофф Банк\" и \"Тинькофф / TCS Group\" классифицированы как Financials/Banks/Banks (операционный банк, отличный от материнского холдинга \"Группа Т-Технологии\", которая остается GICS-null как сама компания-эмитент)."
+            },
+    "tmt":  [
+                {
+                    "name":  "Сергей Леонидович Батехин",
+                    "current_role":  "Член совета директоров МКПАО \"Т-Технологии\"",
+                    "company_name":  "МКПАО \"Т-Технологии\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Краснознаменный институт Министерства обороны СССР",
+                                          "year":  1987,
+                                          "qualification":  null,
+                                          "description":  "Биографический профиль РБК указывает окончание Краснознаменного института Министерства обороны СССР в 1987 году.",
+                                          "sources":  [
+                                                          "https://www.rbc.ru/person/67c998349a7947605c274699"
+                                                      ],
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "Российская экономическая академия им. Г. В. Плеханова",
+                                          "year":  1998,
+                                          "qualification":  null,
+                                          "description":  "Биографический профиль РБК указывает окончание РЭА им. Г. В. Плеханова в 1998 году.",
+                                          "sources":  [
+                                                          "https://www.rbc.ru/person/67c998349a7947605c274699"
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Интеррос",
+                                                        "role":  "Президент / руководитель группы",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Профиль РБК и профиль Interros связывают Сергея Батехина с руководством группы \"Интеррос\".",
+                                                        "sources":  [
+                                                                        "https://www.rbc.ru/person/67c998349a7947605c274699",
+                                                                        "https://www.interros.ru/about/team/sergey-batekhin/"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "МКПАО \"Т-Технологии\"",
+                                                        "role":  "Член совета директоров",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Корпоративное действие НРД от декабря 2024 года перечисляет его среди избранных директоров.",
+                                                        "sources":  [
+                                                                        "https://octan.ru/deponews/2024/12/12/I12C6165/"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV row for ticker \"T, TCSG\" contains Сергей Леонидович Батехин with position Director/Board Member."
+                                    },
+                                    {
+                                        "url":  "https://octan.ru/deponews/2024/12/12/I12C6165/",
+                                        "title":  "НКО АО НРД: T-ТЕХНОЛОГИИ, Решения общих собраний участников, 05.12.2024",
+                                        "fact":  "Источник перечисляет Сергея Леонидовича Батехина среди избранных членов совета директоров."
+                                    },
+                                    {
+                                        "url":  "https://www.rbc.ru/person/67c998349a7947605c274699",
+                                        "title":  "РБК: Сергей Батехин",
+                                        "fact":  "Биографический профиль содержит сведения об образовании и карьере Батехина."
+                                    },
+                                    {
+                                        "url":  "https://www.interros.ru/about/team/sergey-batekhin/",
+                                        "title":  "Interros: Сергей Батехин",
+                                        "fact":  "Корпоративный профиль Interros используется для подтверждения связи с группой \"Интеррос\"."
+                                    }
+                                ],
+                    "notes":  "Связь с советом директоров подтверждена корпоративным действием НРД. Образование подтверждено вторичным деловым профилем; страницы Interros/RBC были нестабильны при открытии, поэтому факт отмечен как требующий осторожного использования. GICS для \"Интеррос\" при quality pass round 1 сознательно оставлен null: WebFetch (en.wikipedia.org/wiki/Interros) подтверждает, что Интеррос -- диверсифицированный инвестиционный холдинг без единого профильного операционного бизнеса (доли в металлургии, энергетике, финансах, ритейле, недвижимости), корректно неклассифицируемая структура, не ошибка."
+                },
+                {
+                    "name":  "Алексей Владимирович Малиновский",
+                    "current_role":  "Председатель совета директоров МКПАО \"Т-Технологии\"",
+                    "company_name":  "МКПАО \"Т-Технологии\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Московский авиационный институт",
+                                          "year":  1999,
+                                          "qualification":  null,
+                                          "description":  "Страница истории МАИ указывает, что Алексей Малиновский окончил МАИ в 1999 году.",
+                                          "sources":  [
+                                                          "https://history.mai.ru/personalities/item.php?id=113845"
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "МКПАО \"Т-Технологии\"",
+                                                        "role":  "Председатель совета директоров",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Годовой отчет за 2024 год содержит обращение Алексея Малиновского как председателя совета директоров.",
+                                                        "sources":  [
+                                                                        "MOEXBMI_Отчеты_2024/T/МКПАО Т-Технологии_Годовой отчет_2024.pdf"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "MasterCard",
+                                                        "role":  "Глава MasterCard в России; региональные и GR-роли",
+                                                        "start_year":  2011,
+                                                        "end_year":  null,
+                                                        "description":  "Профиль МАИ указывает работу в MasterCard с 2011 года и должность главы MasterCard в России с 2016 года.",
+                                                        "sources":  [
+                                                                        "https://history.mai.ru/personalities/item.php?id=113845"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Financial Services (New Name)"
+                                                    },
+                                                    {
+                                                        "organization":  "Microsoft",
+                                                        "role":  "Аккаунт-менеджер департамента по работе с государственными и общественными организациями",
+                                                        "start_year":  2006,
+                                                        "end_year":  2010,
+                                                        "description":  "Профиль МАИ указывает работу в Microsoft в 2006-2010 годах.",
+                                                        "sources":  [
+                                                                        "https://history.mai.ru/personalities/item.php?id=113845"
+                                                                    ],
+                                                        "sector":  "Information Technology",
+                                                        "industry_group":  "Software & Services",
+                                                        "industry":  "Software"
+                                                    },
+                                                    {
+                                                        "organization":  "S\u0026T International; Computer Mechanics; ООО \"Интернет Фабрика\"; ООО \"СтэпЛоджик\"",
+                                                        "role":  "Коммерческий директор, генеральный директор и заместитель генерального директора",
+                                                        "start_year":  null,
+                                                        "end_year":  2006,
+                                                        "description":  "Профиль МАИ описывает несколько руководящих ролей до 2006 года.",
+                                                        "sources":  [
+                                                                        "https://history.mai.ru/personalities/item.php?id=113845"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV row for ticker \"T, TCSG\" contains Алексей Владимирович Малиновский with position Director/Board Member."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/T/МКПАО Т-Технологии_Годовой отчет_2024.pdf",
+                                        "title":  "Интегрированный годовой отчет МКПАО \"Т-Технологии\" за 2024 год",
+                                        "fact":  "PDF page 3: обращение подписано \"Алексей Малиновский, председатель совета директоров МКПАО \"Т-Технологии\"\"."
+                                    },
+                                    {
+                                        "url":  "https://octan.ru/deponews/2024/12/12/I12C6165/",
+                                        "title":  "НКО АО НРД: T-ТЕХНОЛОГИИ, Решения общих собраний участников, 05.12.2024",
+                                        "fact":  "Источник перечисляет Алексея Владимировича Малиновского среди избранных директоров."
+                                    },
+                                    {
+                                        "url":  "https://history.mai.ru/personalities/item.php?id=113845",
+                                        "title":  "История МАИ: Алексей Малиновский",
+                                        "fact":  "Страница МАИ подтверждает образование и карьерные этапы в Microsoft и MasterCard."
+                                    }
+                                ],
+                    "notes":  "Идентификация надежная: локальный отчет, корпоративное действие и профиль МАИ согласуются по имени и роли. Quality pass round 1, GICS: MasterCard и Microsoft классифицированы (Financials/Financial Services (New Name)/Financial Services (New Name) и Information Technology/Software & Services/Software соответственно) как общеизвестные однозначные компании. Запись \"S&T International; Computer Mechanics; ООО \"Интернет Фабрика\"; ООО \"СтэпЛоджик\"\" сознательно оставлена GICS-null: это 4 разных работодателя в одной записи, и WebFetch на ru.wikipedia.org/wiki/S%26T_AG вернул 404 -- профиль бизнеса каждой компании не подтвержден в этом раунде, поэтому единая достоверная классификация невозможна без риска ошибки; не закрыто для будущего прохода."
+                },
+                {
+                    "name":  "Илья Николаевич Писемский",
+                    "current_role":  "Член совета директоров МКПАО \"Т-Технологии\"",
+                    "company_name":  "МКПАО \"Т-Технологии\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Финансовая академия при Правительстве РФ",
+                                          "year":  1997,
+                                          "qualification":  null,
+                                          "description":  "TAdviser указывает окончание Финансовой академии в 1997 году.",
+                                          "sources":  [
+                                                          "https://www.tadviser.ru/index.php/Персона:Писемский_Илья_Николаевич"
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "degree":  "MBA",
+                                        "institution":  "F. W. Olin Graduate School of Business, Babson College",
+                                        "year":  2002,
+                                        "description":  "TAdviser указывает Master of Business Administration, MBA, Babson College, 2002 год.",
+                                        "sources":  [
+                                                        "https://www.tadviser.ru/index.php/Персона:Писемский_Илья_Николаевич"
+                                                    ],
+                                        "qualification_degree":  "MBA"
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "АКБ \"Союз\"",
+                                                        "role":  "Заместитель главного финансового директора",
+                                                        "start_year":  2007,
+                                                        "end_year":  2008,
+                                                        "description":  "TAdviser указывает период с 01.02.2007 по 30.06.2008.",
+                                                        "sources":  [
+                                                                        "https://www.tadviser.ru/index.php/Персона:Писемский_Илья_Николаевич"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    },
+                                                    {
+                                                        "organization":  "Тинькофф Банк",
+                                                        "role":  "Финансовый директор; заместитель председателя правления",
+                                                        "start_year":  2008,
+                                                        "end_year":  null,
+                                                        "description":  "TAdviser указывает финансового директора ТКС Банка с 2008 года и CFO / заместителя председателя правления с 2010 года.",
+                                                        "sources":  [
+                                                                        "https://www.tadviser.ru/index.php/Персона:Писемский_Илья_Николаевич"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    },
+                                                    {
+                                                        "organization":  "Тинькофф Страхование; Тинькофф Капитал",
+                                                        "role":  "Член совета директоров",
+                                                        "start_year":  2017,
+                                                        "end_year":  null,
+                                                        "description":  "TAdviser указывает участие в советах директоров \"Тинькофф Страхование\" и \"Тинькофф Капитал\".",
+                                                        "sources":  [
+                                                                        "https://www.tadviser.ru/index.php/Персона:Писемский_Илья_Николаевич"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "МКПАО \"Т-Технологии\"",
+                                                        "role":  "Член совета директоров",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Корпоративное действие НРД от декабря 2024 года перечисляет его среди избранных директоров.",
+                                                        "sources":  [
+                                                                        "https://octan.ru/deponews/2024/12/12/I12C6165/"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV row for ticker \"T, TCSG\" contains Илья Николаевич Писемский with position Director/Board Member."
+                                    },
+                                    {
+                                        "url":  "https://octan.ru/deponews/2024/12/12/I12C6165/",
+                                        "title":  "НКО АО НРД: T-ТЕХНОЛОГИИ, Решения общих собраний участников, 05.12.2024",
+                                        "fact":  "Источник перечисляет Илью Николаевича Писемского среди избранных директоров."
+                                    },
+                                    {
+                                        "url":  "https://www.tadviser.ru/index.php/Персона:Писемский_Илья_Николаевич",
+                                        "title":  "TAdviser: Писемский Илья Николаевич",
+                                        "fact":  "Страница содержит образование, MBA и карьерные этапы Писемского в АКБ \"Союз\" и Тинькофф."
+                                    }
+                                ],
+                    "notes":  "Биографические факты взяты из TAdviser; независимого первичного профиля с тем же объемом сведений не обнаружено. Quality pass round 1, GICS: \"АКБ \\\"Союз\\\"\" и \"Тинькофф Банк\" классифицированы как Financials/Banks/Banks (оба -- лицензированные банки). Запись \"Тинькофф Страхование; Тинькофф Капитал\" сознательно оставлена GICS-null: это два разных юрлица в одной записи с разной под-отраслью (страхование vs рынки капитала/управление активами) внутри сектора Financials, единая строка GICS для обоих невозможна без разбиения записи, что выходит за рамки этого раунда."
+                },
+                {
+                    "name":  "Татьяна Борисовна Кузнецова",
+                    "current_role":  "Член совета директоров МКПАО \"Т-Технологии\"",
+                    "company_name":  "МКПАО \"Т-Технологии\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Московский государственный университет, факультет психологии",
+                                          "year":  2005,
+                                          "qualification":  null,
+                                          "description":  "Профессиональное интервью указывает окончание факультета психологии МГУ в 2005 году.",
+                                          "sources":  [
+                                                          "https://www.top-personal.ru/commentissue.html?107="
+                                                      ],
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "Московский финансово-юридический институт",
+                                          "year":  2004,
+                                          "qualification":  null,
+                                          "description":  "Профессиональное интервью указывает окончание факультета бизнес-менеджмента по специальности финансовый менеджмент в 2004 году.",
+                                          "sources":  [
+                                                          "https://www.top-personal.ru/commentissue.html?107="
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Тинькофф / ТКС Банк",
+                                                        "role":  "HR-руководитель / директор по персоналу",
+                                                        "start_year":  2010,
+                                                        "end_year":  null,
+                                                        "description":  "Профессиональное интервью связывает Татьяну Кузнецову с ТКС Банком с марта 2010 года и HR-функцией.",
+                                                        "sources":  [
+                                                                        "https://www.top-personal.ru/commentissue.html?107="
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    },
+                                                    {
+                                                        "organization":  "BSGV / Societe Generale; RBS",
+                                                        "role":  "Банковский HR / профессиональный опыт в банковской сфере",
+                                                        "start_year":  null,
+                                                        "end_year":  2010,
+                                                        "description":  "Профессиональное интервью описывает предшествующий банковский опыт в BSGV/Societe Generale и RBS.",
+                                                        "sources":  [
+                                                                        "https://www.top-personal.ru/commentissue.html?107="
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    },
+                                                    {
+                                                        "organization":  "МКПАО \"Т-Технологии\"",
+                                                        "role":  "Член совета директоров",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Корпоративное действие НРД от декабря 2024 года перечисляет ее среди избранных директоров.",
+                                                        "sources":  [
+                                                                        "https://octan.ru/deponews/2024/12/12/I12C6165/"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV row for ticker \"T, TCSG\" contains Татьяна Борисовна Кузнецова with position Director/Board Member."
+                                    },
+                                    {
+                                        "url":  "https://octan.ru/deponews/2024/12/12/I12C6165/",
+                                        "title":  "НКО АО НРД: T-ТЕХНОЛОГИИ, Решения общих собраний участников, 05.12.2024",
+                                        "fact":  "Источник перечисляет Татьяну Борисовну Кузнецову среди избранных директоров."
+                                    },
+                                    {
+                                        "url":  "https://www.top-personal.ru/commentissue.html?107=",
+                                        "title":  "Top-Personal: интервью Татьяны Кузнецовой",
+                                        "fact":  "Источник содержит сведения об образовании и предшествующем банковском HR-опыте."
+                                    }
+                                ],
+                    "notes":  "ФИО имеет существенный риск однофамильцев; использован только источник, связывающий Татьяну Борисовну Кузнецову с ТКС/Тинькофф. Страница Top-Personal нестабильно открывалась, поэтому сведения помечены как слабее официальной биографии. Quality pass round 1, GICS: обе банковские записи (\"Тинькофф / ТКС Банк\" и \"BSGV / Societe Generale; RBS\") классифицированы как Financials/Banks/Banks -- все перечисленные организации являются банками, единая строка корректна даже при нескольких работодателях во второй записи."
+                },
+                {
+                    "name":  "Валерия Александровна Павлюкова",
+                    "current_role":  "Член совета директоров МКПАО \"Т-Технологии\"",
+                    "company_name":  "МКПАО \"Т-Технологии\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Международный университет в Москве",
+                                          "year":  2004,
+                                          "qualification":  null,
+                                          "description":  "TAdviser указывает окончание Международного университета в Москве в 2004 году.",
+                                          "sources":  [
+                                                          "https://www.tadviser.ru/index.php/Персона:Павлюкова_Валерия_Александровна"
+                                                      ],
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "Ashridge Executive Education",
+                                          "year":  2007,
+                                          "qualification":  null,
+                                          "description":  "TAdviser указывает окончание международной бизнес-школы Ashridge Executive Education в 2007 году.",
+                                          "sources":  [
+                                                          "https://www.tadviser.ru/index.php/Персона:Павлюкова_Валерия_Александровна"
+                                                      ],
+                                          "qualification_degree":  "Executive education"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Сбербанк",
+                                                        "role":  "Правовое сопровождение международной деятельности; управляющий директор",
+                                                        "start_year":  2011,
+                                                        "end_year":  2017,
+                                                        "description":  "TAdviser указывает работу в правовом департаменте Сбербанка, включая управляющего директора - начальника управления.",
+                                                        "sources":  [
+                                                                        "https://www.tadviser.ru/index.php/Персона:Павлюкова_Валерия_Александровна"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    },
+                                                    {
+                                                        "organization":  "Тинькофф Банк",
+                                                        "role":  "Директор юридического департамента; заместитель председателя правления; член правления",
+                                                        "start_year":  2017,
+                                                        "end_year":  null,
+                                                        "description":  "TAdviser указывает переход в Тинькофф Банк в январе 2017 года и должность директора юридического департамента - заместителя председателя правления с марта 2017 года.",
+                                                        "sources":  [
+                                                                        "https://www.tadviser.ru/index.php/Персона:Павлюкова_Валерия_Александровна"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    },
+                                                    {
+                                                        "organization":  "МКПАО \"Т-Технологии\"",
+                                                        "role":  "Член совета директоров",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Корпоративное действие НРД от декабря 2024 года перечисляет ее среди избранных директоров.",
+                                                        "sources":  [
+                                                                        "https://octan.ru/deponews/2024/12/12/I12C6165/"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV row for ticker \"T, TCSG\" contains Валерия Александровна Павлюкова with position Director/Board Member."
+                                    },
+                                    {
+                                        "url":  "https://octan.ru/deponews/2024/12/12/I12C6165/",
+                                        "title":  "НКО АО НРД: T-ТЕХНОЛОГИИ, Решения общих собраний участников, 05.12.2024",
+                                        "fact":  "Источник перечисляет Валерию Александровну Павлюкову среди избранных директоров."
+                                    },
+                                    {
+                                        "url":  "https://www.tadviser.ru/index.php/Персона:Павлюкова_Валерия_Александровна",
+                                        "title":  "TAdviser: Павлюкова Валерия Александровна",
+                                        "fact":  "Страница содержит сведения об образовании, Сбербанке и Тинькофф Банке."
+                                    }
+                                ],
+                    "notes":  "Биографические факты подтверждены TAdviser; первичный официальный профиль с деталями образования не найден. Quality pass round 1, GICS: \"Сбербанк\" и \"Тинькофф Банк\" классифицированы как Financials/Banks/Banks (оба -- лицензированные банки)."
+                },
+                {
+                    "name":  "Александр Ильич Исаев",
+                    "current_role":  "Член совета директоров МКПАО \"Т-Технологии\"",
+                    "company_name":  "МКПАО \"Т-Технологии\"",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "TCS Group / МКПАО \"Т-Технологии\"",
+                                                        "role":  "Независимый директор; член совета директоров",
+                                                        "start_year":  2023,
+                                                        "end_year":  null,
+                                                        "description":  "Interfax сообщил о входе Александра Исаева в совет директоров TCS Group в декабре 2023 года; корпоративное действие НРД подтверждает избрание Александра Ильича Исаева в совет МКПАО \"Т-Технологии\" в декабре 2024 года.",
+                                                        "sources":  [
+                                                                        "https://www.interfax.ru/business/937285",
+                                                                        "https://octan.ru/deponews/2024/12/12/I12C6165/"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "Ozon",
+                                                        "role":  "Менеджер / руководитель по корпоративному развитию и M\u0026A",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Interfax идентифицирует Александра Исаева как бывшего менеджера Ozon.",
+                                                        "sources":  [
+                                                                        "https://www.interfax.ru/business/937285"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+                                                        "industry":  "Broadline Retail (New Name)"
+                                                    },
+                                                    {
+                                                        "organization":  "Baring Vostok",
+                                                        "role":  "Менеджер по инвестициям",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Interfax идентифицирует Александра Исаева как бывшего менеджера по инвестициям в Baring Vostok.",
+                                                        "sources":  [
+                                                                        "https://www.interfax.ru/business/937285"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV row for ticker \"T, TCSG\" contains Александр Ильич Исаев with position Director/Board Member."
+                                    },
+                                    {
+                                        "url":  "https://octan.ru/deponews/2024/12/12/I12C6165/",
+                                        "title":  "НКО АО НРД: T-ТЕХНОЛОГИИ, Решения общих собраний участников, 05.12.2024",
+                                        "fact":  "Источник перечисляет Александра Ильича Исаева среди избранных директоров."
+                                    },
+                                    {
+                                        "url":  "https://www.interfax.ru/business/937285",
+                                        "title":  "Interfax: Совет директоров TCS Group пополнил бывший менеджер Ozon и Baring Vostok",
+                                        "fact":  "Источник связывает Александра Исаева с TCS Group, Ozon и Baring Vostok."
+                                    }
+                                ],
+                    "notes":  "Образование не включено: поиски по Александру Ильичу Исаеву дают однофамильцев из других отраслей, и надежной связки образование + TCS/Ozon/Baring Vostok не найдено. Quality pass round 1 (honest-gap follow-up): бюджет WebSearch сессии был исчерпан (200/200), поэтому повторно проверены прямым WebFetch уже известный источник Interfax (перечитан полностью -- образование по-прежнему не упомянуто) и предпринято 4 точечных WebFetch-обращения по новым URL (tadviser.ru/index.php/Персона:Исаев_Александр_Ильич -- 404; forbes.ru профиль -- 404; e-disclosure.ru карточка эмитента -- 403; повторные материалы НРД от 05.12.2024 и ГОСА 28.06.2024 -- без биографических деталей). Новых фактов не найдено; поле остается null, вопрос не закрыт для будущего прохода с доступным WebSearch."
+                },
+                {
+                    "name":  "Артём Игоревич Лебедев",
+                    "current_role":  "Член совета директоров МКПАО \"Т-Технологии\"",
+                    "company_name":  "МКПАО \"Т-Технологии\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Московская школа управления СКОЛКОВО",
+                                          "year":  null,
+                                          "qualification":  null,
+                                          "description":  "Публичный профессиональный профиль LinkedIn для Artem Lebedev, связанный с T-Bank Group, указывает Moscow School of Management SKOLKOVO.",
+                                          "sources":  [
+                                                          "https://www.linkedin.com/in/artemylebedev"
+                                                      ],
+                                          "qualification_degree":  null
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "T-Bank Group / Т-Банк",
+                                                        "role":  "Коммуникации / вице-президент по коммуникациям",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Публичный профессиональный профиль связывает Артёма Лебедева с T-Bank Group; корпоративное действие НРД подтверждает его членство в совете директоров МКПАО \"Т-Технологии\".",
+                                                        "sources":  [
+                                                                        "https://www.linkedin.com/in/artemylebedev",
+                                                                        "https://octan.ru/deponews/2024/12/12/I12C6165/"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    },
+                                                    {
+                                                        "organization":  "МКПАО \"Т-Технологии\"",
+                                                        "role":  "Член совета директоров",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Корпоративное действие НРД от декабря 2024 года перечисляет его среди избранных директоров.",
+                                                        "sources":  [
+                                                                        "https://octan.ru/deponews/2024/12/12/I12C6165/"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV row for ticker \"T, TCSG\" contains Артём Игоревич Лебедев with position Director/Board Member."
+                                    },
+                                    {
+                                        "url":  "https://octan.ru/deponews/2024/12/12/I12C6165/",
+                                        "title":  "НКО АО НРД: T-ТЕХНОЛОГИИ, Решения общих собраний участников, 05.12.2024",
+                                        "fact":  "Источник перечисляет Артёма Игоревича Лебедева среди избранных директоров."
+                                    },
+                                    {
+                                        "url":  "https://www.linkedin.com/in/artemylebedev",
+                                        "title":  "LinkedIn: Artem Lebedev",
+                                        "fact":  "Публичный профиль связывает Artem Lebedev с T-Bank Group и Moscow School of Management SKOLKOVO."
+                                    }
+                                ],
+                    "notes":  "Использован слабый источник LinkedIn для образования и функциональной роли; сведения не расширялись за пределы профиля. Однофамилец дизайнер Артемий Лебедев исключен по отчеству, компании и роли. Quality pass round 1 (honest-gap follow-up на год образования и даты в T-Bank Group): WebSearch недоступен (бюджет сессии исчерпан), прямой WebFetch на https://www.linkedin.com/in/artemylebedev вернул HTTP 999 (профиль блокирует автоматический доступ). Новых фактов не найдено; год образования и даты роли остаются null, вопрос не закрыт для будущего прохода."
+                },
+                {
+                    "name":  "Александр Борисович Лебединский",
+                    "current_role":  "Член совета директоров МКПАО \"Т-Технологии\"",
+                    "company_name":  "МКПАО \"Т-Технологии\"",
+                    "education":  [
+                                      {
+                                          "institution":  "Московский финансово-юридический университет МФЮА",
+                                          "year":  null,
+                                          "qualification":  null,
+                                          "description":  "Найдено при quality pass round 1 (honest-gap follow-up, WebFetch уже процитированного источника academy-market.com): \"Александр Лебединский получил высшее образование в московском ВУЗе МФЮА, где изучал бизнес, менеджмент и маркетинг.\" Год окончания и точная квалификация (бакалавр/специалист) источником не указаны.",
+                                          "sources":  [
+                                                          "https://academy-market.com/teacher/aleksandr-lebedinskij"
+                                                      ],
+                                          "qualification_degree":  null
+                                      },
+                                      {
+                                          "institution":  "Московская школа управления «Сколково»",
+                                          "year":  null,
+                                          "qualification":  null,
+                                          "description":  "Найдено при quality pass round 1 (honest-gap follow-up, WebFetch уже процитированного источника academy-market.com): \"Затем он повышал свою квалификацию в Московской школе менеджмента Сколково и в международной бизнес-школе INSEAD.\" Год не указан.",
+                                          "sources":  [
+                                                          "https://academy-market.com/teacher/aleksandr-lebedinskij"
+                                                      ],
+                                          "qualification_degree":  "Executive education"
+                                      },
+                                      {
+                                          "institution":  "INSEAD",
+                                          "year":  null,
+                                          "qualification":  null,
+                                          "description":  "Найдено при quality pass round 1 (honest-gap follow-up, WebFetch уже процитированного источника academy-market.com): та же цитата, что и для Сколково -- повышение квалификации в международной бизнес-школе INSEAD. Год не указан.",
+                                          "sources":  [
+                                                          "https://academy-market.com/teacher/aleksandr-lebedinskij"
+                                                      ],
+                                          "qualification_degree":  "Executive education"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Т-Банк",
+                                                        "role":  "Вице-президент; директор по росту бизнеса",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Профиль AdIndex Talks 2024 указывает Александра Лебединского как вице-президента и директора по росту бизнеса Т-Банка.",
+                                                        "sources":  [
+                                                                        "https://adindex.ru/specprojects/talks2024/brandmanagement/speakers/329193.phtml"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    },
+                                                    {
+                                                        "organization":  "GeekBrains; ВКонтакте",
+                                                        "role":  "Директор по маркетингу; директор по growth",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Профиль Academy Market указывает предшествующие роли директора по маркетингу GeekBrains и директора по growth ВКонтакте.",
+                                                        "sources":  [
+                                                                        "https://academy-market.com/teacher/aleksandr-lebedinskij"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "МКПАО \"Т-Технологии\"",
+                                                        "role":  "Член совета директоров",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Корпоративное действие НРД от декабря 2024 года перечисляет его среди избранных директоров.",
+                                                        "sources":  [
+                                                                        "https://octan.ru/deponews/2024/12/12/I12C6165/"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "MOEXBMI_2024.csv",
+                                        "title":  "MOEXBMI_2024.csv",
+                                        "fact":  "CSV row for ticker \"T, TCSG\" contains Александр Борисович Лебединский with position Director/Board Member."
+                                    },
+                                    {
+                                        "url":  "https://octan.ru/deponews/2024/12/12/I12C6165/",
+                                        "title":  "НКО АО НРД: T-ТЕХНОЛОГИИ, Решения общих собраний участников, 05.12.2024",
+                                        "fact":  "Источник перечисляет Александра Борисовича Лебединского среди избранных директоров."
+                                    },
+                                    {
+                                        "url":  "https://adindex.ru/specprojects/talks2024/brandmanagement/speakers/329193.phtml",
+                                        "title":  "AdIndex Talks 2024: Александр Лебединский",
+                                        "fact":  "Источник указывает роль вице-президента и директора по росту бизнеса Т-Банка."
+                                    },
+                                    {
+                                        "url":  "https://academy-market.com/teacher/aleksandr-lebedinskij",
+                                        "title":  "Academy Market: Александр Лебединский",
+                                        "fact":  "Источник содержит предшествующий опыт в GeekBrains и ВКонтакте; при повторном чтении этого же источника (quality pass round 1, honest-gap follow-up) обнаружены также сведения об образовании: \"Александр Лебединский получил высшее образование в московском ВУЗе МФЮА, где изучал бизнес, менеджмент и маркетинг\" и \"повышал свою квалификацию в Московской школе менеджмента Сколково и в международной бизнес-школе INSEAD\"."
+                                    }
+                                ],
+                    "notes":  "Образование добавлено при quality pass round 1: тот же источник academy-market.com (уже процитированный round 1 для карьеры), при повторном WebFetch, содержит образование -- МФЮА (высшее образование, год и точная квалификация не указаны), затем повышение квалификации в Сколково и INSEAD (год не указан для обоих). Официальная биография компании и точные годы обучения по-прежнему не найдены. GICS: запись \"Т-Банк\" классифицирована как Financials/Banks/Banks. Запись \"GeekBrains; ВКонтакте\" сознательно оставлена GICS-null: GeekBrains (онлайн-образование) и ВКонтакте (социальная сеть) относятся к разным секторам GICS (Consumer Discretionary vs Communication Services), единая строка для обоих невозможна без разбиения записи."
+                }
+            ],
+    "board_sources":  [
+                          {
+                              "url":  "MOEXBMI_2024.csv",
+                              "title":  "MOEXBMI_2024.csv",
+                              "fact":  "CSV contains predefined company people and positions used as pipeline input."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/T/МКПАО Т-Технологии_Годовой отчет_2024.pdf",
+                              "title":  "Интегрированный годовой отчет МКПАО \"Т-Технологии\" за 2024 год",
+                              "fact":  "PDF page 3 identifies Алексей Малиновский as chairman of the board; page 5 identifies Станислав Близнюк as president of the group; pages 77-80 describe governance bodies, 9 directors, general director and president roles; page 101 states the board size is 9 directors."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/T/МКПАО Т-Технологии_МСФО_2024.pdf",
+                              "title":  "Консолидированная финансовая отчетность МКПАО \"Т-Технологии\" за 2024 год",
+                              "fact":  "PDF pages 3-12 provide 2024 group context, redomiciliation, governance description and board responsibility for consolidated financial statements."
+                          },
+                          {
+                              "url":  "https://octan.ru/deponews/2024/12/12/I12C6165/",
+                              "title":  "НКО АО НРД: T-ТЕХНОЛОГИИ, Решения общих собраний участников, 05.12.2024",
+                              "fact":  "Corporate action lists the 05.12.2024 elected board: Сергей Батехин, Станислав Близнюк, Алексей Малиновский, Илья Писемский, Татьяна Кузнецова, Валерия Павлюкова, Александр Исаев, Артём Лебедев, Александр Лебединский."
+                          },
+                          {
+                              "url":  "https://octan.ru/deponews/2024/06/06/I0668152/",
+                              "title":  "НКО АО НРД: T-ТЕХНОЛОГИИ, годовое общее собрание акционеров 28.06.2024",
+                              "fact":  "Corporate action materials include board election agenda and candidate list for the 2024 annual general meeting."
+                          }
+                      ],
+    "sources":  [
+                    {
+                        "url":  "https://t-technologies.ru/investors/corpgov/",
+                        "title":  "T-Технологии: Корпоративное управление",
+                        "fact":  "Official IR page links to corporate governance and general meeting materials used to orient official source search."
+                    },
+                    {
+                        "url":  "https://www.e-disclosure.ru/portal/event.aspx?EventId=QQwbTnyQlk65WNisi7sV9g-B-B",
+                        "title":  "e-disclosure: сообщение МКПАО \"Т-Технологии\"",
+                        "fact":  "Disclosure portal was checked as an official disclosure source; page access was unstable, so NРД/Octan mirror and local annual report were used for readable board composition facts."
+                    }
+                ],
+    "validation_notes":  "Обработано людей: 9 из строк CSV для тикера \"T, TCSG\". Проверено локальных документов: 2 (годовой отчет и МСФО МКПАО \"Т-Технологии\" за 2024 год). Всего research rounds: 9 person-rounds, по одному раунду на человека; внутри раунда выполнены локальный проход и два веб-прохода по официальным, биографическим, деловым и профессиональным источникам. CEO-equivalent определен как Станислав Близнюк на основании годового отчета, где он указан президентом группы, и локального упоминания CEO talk-show. Образование не включено для Александра Исаева и Александра Лебединского; для Артёма Лебедева использован слабый источник LinkedIn. Для Сергея Батехина и Татьяны Кузнецовой использованы вторичные биографические источники, так как официальная биография компании с образованием не обнаружена. Исключены основные однофамильцы: Александр Исаев из угольной/металлургической отрасли, Артемий Лебедев-дизайнер, Александр Лебединский-музыкант, Татьяна Кузнецова-актриса/госслужащие. Существенная неопределенность сохраняется у 4 человек: Татьяна Кузнецова, Александр Исаев, Артём Лебедев, Александр Лебединский. Поиск считается завершенным после проверки локальных PDF, официального IR/раскрытия, НРД-корпоративных действий, TAdviser/МАИ/деловых СМИ/профессиональных профилей и отсутствия новых надежных зацепок по образованию в повторном поисковом проходе. QUALITY PASS ROUND 1 (2026-08-01): git HEAD и рабочая копия сверены -- регрессии не найдено (0 расхождений, файл структурно идентичен committed baseline). Desync: 1 простое упущение исправлено (Близнюк -- добавлена запись professional_experience \"член совета директоров МКПАО Т-Технологии\", факт и источник уже были в round-1 notes и top-level sources, просто не попали в JSON-массив); прочих desync/genuine inconsistencies не найдено (все 9 файлов round-1 notes имеют раздел Contradictions, único содержательный пункт -- рамочное различие CSV role \"Chairman\" vs annual-report role \"президент группы\" у Близнюка -- уже корректно отражен в current_role/notes и не требовал новой работы). GICS-корректность: обе ранее заполненные записи (Исаев/Ozon, Лебедев/T-Bank) сверены с gics_taxonomy.json и признаны верными, без изменений. GICS honest-gap follow-up (основание -- явная запись предыдущего прохода \"25 entries remain all-null because the existing employer text was not sufficient for a confident classification\"): заполнено 12 из 25 null-записей однозначными строками GICS (9x Financials/Banks/Banks для банковских дочерних структур Т-Банк/Тинькофф Банк/АКБ Союз/Сбербанк/BSGV/RBS, отличных от материнского холдинга; MasterCard -> Financials/Financial Services; Microsoft -> Information Technology/Software; Baring Vostok -> Financials/Capital Markets); 9 self-referential записей \"МКПАО Т-Технологии\"/\"Группа Т-Технологии\" (роль в самой компании-эмитенте) сознательно оставлены null, как и ранее; 1 запись \"Интеррос\" подтверждена как корректно неклассифицируемый диверсифицированный холдинг (WebFetch, Wikipedia); 3 записи с несколькими разноотраслевыми работодателями в одном поле (Тинькофф Страхование+Капитал; GeekBrains+ВКонтакте; S&T International+Computer Mechanics+Интернет Фабрика+СтэпЛоджик) оставлены null как не поддающиеся единой классификации без разбиения записи. Honest-gap follow-up на биографические поля: WebSearch-бюджет сессии был исчерпан (200/200) до начала точечных запросов, поэтому вместо новых WebSearch использовались точечные WebFetch по уже процитированным и правдоподобным новым URL. Один результативный: повторный WebFetch уже процитированного academy-market.com для Александра Лебединского нашел ранее не извлеченное образование (МФЮА; Сколково и INSEAD как executive education) -- добавлено с verbatim-цитатой. Безрезультатные попытки (задокументированы в notes соответствующих людей, чтобы не повторять): образование Исаева (4 новых URL, все 404/403/без деталей), год образования и даты роли Лебедева (LinkedIn вернул HTTP 999), бизнес-профиль 4 работодателей Малиновского до 2006 (Wikipedia по S&T AG -- 404). Полный отчет -- research_notes/T/quality_pass_round1_20260801.md.",
+    "sector":  "Financials",
+    "industry_group":  "Financial Services (New Name)",
+    "industry":  "Financial Services (New Name)"
+}

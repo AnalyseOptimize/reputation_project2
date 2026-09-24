@@ -1,0 +1,1223 @@
+{
+  "company_name": "ПАО \"Россети Центр\"",
+  "company_ticker": "MRKC",
+  "sector": "Utilities",
+  "industry_group": "Utilities",
+  "industry": "Electric Utilities",
+  "ceo": {
+    "name": "Маковский Игорь Владимирович",
+    "current_role": "Генеральный директор и Председатель Правления ПАО \"Россети Центр\" с 01.01.2024 по 27.12.2024; член Совета директоров ПАО \"Россети Центр\"; с 12.2024 генеральный директор ППК \"ВСК\".",
+    "company_name": "ПАО \"Россети Центр\"",
+    "education": [
+      {
+        "institution": "Алма-Атинское высшее пограничное командное училище имени Ф.Э. Дзержинского",
+        "year": 1993,
+        "field": "командная, тактическая",
+        "qualification": "офицер пограничных войск",
+        "description": "1993: Алма-Атинское высшее пограничное командное училище им. Ф. Э. Дзержинского; специальность \"командная, тактическая\"; квалификация \"офицер пограничных войск\". Institution not found in university_names.json under this or a closely matching alias; raw string logged to new_institutions_found (Soviet-era Kazakhstan-based military commissioning school, no confirmed post-Soviet successor entity identified in this round).",
+        "qualification_degree": "Specialist degree"
+      },
+      {
+        "institution": "Балтийский федеральный университет имени Иммануила Канта",
+        "year": 2000,
+        "field": "юриспруденция",
+        "qualification": "юрист",
+        "description": "2000: Калининградский государственный университет; специальность \"юриспруденция\"; квалификация \"юрист\". Raw institution name (as it existed in 2000) not found in university_names.json; normalized to its current official successor name after two renamings (2005: Российский государственный университет им. И. Канта; 2010: Балтийский федеральный университет имени Иммануила Канта), confirmed via web research this round. Raw string and candidate logged to new_institutions_found.",
+        "qualification_degree": "Specialist degree"
+      },
+      {
+        "institution": "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+        "year": 2004,
+        "field": "государственное и муниципальное управление",
+        "qualification": "профессиональная переподготовка",
+        "description": "2004: Северо-Западная академия государственной службы; переподготовка по программе \"Государственное и муниципальное управление\". \"Северо-Западная академия государственной службы\" is an existing exact-match alias of this canonical entry in university_names.json (RANEPA regional-academy merger); normalized directly, no new_institutions_found entry needed.",
+        "qualification_degree": "Professional certification"
+      },
+      {
+        "institution": "Ивановский государственный энергетический университет имени В.И. Ленина",
+        "year": 2023,
+        "field": "электроэнергетика и электротехника",
+        "qualification": "бакалавр",
+        "description": "2023: Ивановский государственный энергетический университет имени В. И. Ленина; специальность \"электроэнергетика и электротехника\"; квалификация \"бакалавр\". Raw string matches the canonical university_names.json key with only cosmetic spacing difference in the initials; normalized directly, no new_institutions_found entry needed.",
+        "qualification_degree": "Bachelor's degree"
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "Вооруженные Силы Российской Федерации",
+        "role": "военная служба",
+        "start_year": 1993,
+        "end_year": 1999,
+        "description": "1993-1999: служба в Вооруженных Силах Российской Федерации.",
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "АО \"Янтарьэнерго\"",
+        "role": "генеральный директор",
+        "start_year": 2012,
+        "end_year": 2018,
+        "description": "2012-2018: генеральный директор АО \"Янтарьэнерго\" (региональная электросетевая компания группы \"Россети\" в Калининградской области).",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Electric Utilities"
+      },
+      {
+        "organization": "ПАО \"Россети Центр\"",
+        "role": "Генеральный директор и Председатель Правления ПАО \"Россети Центр\"; председатель Правления ПАО \"Россети Центр и Приволжье\"",
+        "start_year": 2018,
+        "end_year": 2024,
+        "description": "2018-2024: Генеральный директор и Председатель Правления ПАО \"Россети Центр\"; председатель Правления ПАО \"Россети Центр и Приволжье\". Обе организации - электросетевые компании группы \"Россети\" с идентичной GICS-классификацией; отдельная запись для ПАО \"Россети Центр и Приволжье\" не создавалась, чтобы не изобретать не указанные в источнике отдельные даты для этой должности.",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Electric Utilities"
+      },
+      {
+        "organization": "ПАО \"Россети Центр\"",
+        "role": "член Совета директоров (также ПАО \"Россети Центр и Приволжье\")",
+        "start_year": 2019,
+        "end_year": null,
+        "description": "С 2019 года: член Совета директоров ПАО \"Россети Центр\" и ПАО \"Россети Центр и Приволжье\".",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Electric Utilities"
+      },
+      {
+        "organization": "ООО \"Инфраструктурные Инвестиции-3\"",
+        "role": "член и председатель Совета директоров",
+        "start_year": 2022,
+        "end_year": null,
+        "description": "С 04.2022: член и председатель Совета директоров ООО \"Инфраструктурные Инвестиции-3\". Round 2 (2026-07-19) research: подтверждена дочерняя структура ПАО \"Россети Центр и Приволжье\" (учредитель по данным zachestnyibiznes.ru/rusprofile.ru/checko.ru, ИНН 7703800941, ОГРН 5137746098760), но основной вид деятельности зарегистрирован по остаточному ОКВЭД 82.99 \"Деятельность по предоставлению прочих вспомогательных услуг для бизнеса, не включенная в другие группировки\" - слишком общая формулировка, чтобы уверенно отнести к конкретной GICS-отрасли; похоже на проектную/финансовую SPV без самостоятельного операционного бизнеса.",
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "Ассоциация развития технологий систем накопления электроэнергии",
+        "role": "член Наблюдательного совета",
+        "start_year": 2023,
+        "end_year": null,
+        "description": "С 08.2023: член Наблюдательного совета Ассоциации развития технологий систем накопления электроэнергии.",
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "ППК \"ВСК\"",
+        "role": "генеральный директор",
+        "start_year": 2024,
+        "end_year": null,
+        "description": "С 12.2024: генеральный директор ППК \"ВСК\". Round 2 (2026-07-19) research: ППК \"Военно-строительная компания\" - некоммерческая публично-правовая компания в подчинении Министерства обороны РФ, созданная указом Президента от 18.10.2019 для строительства, реконструкции и капитального ремонта стратегических объектов Минобороны России; по аналогии с уже принятым в проекте (FEES) правилом не присваивать GICS-код государственным/некоммерческим органам, а не рыночным коммерческим организациям, GICS-поля оставлены null.",
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_Отчеты_2024/MRKC/Россети Центр_Годовой отчет 2024.pdf",
+        "title": "Россети Центр — Годовой отчет 2024",
+        "fact": "Страницы 271-272: в отчетном периоде обязанности Генерального директора исполнял И. В. Маковский с 01.01.2024 по 27.12.2024; приведены дата рождения, образование и карьерные факты."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/MRKC/Россети Центр_Годовой отчет 2024.pdf",
+        "title": "Россети Центр — Годовой отчет 2024",
+        "fact": "Страницы 244 и 279-280: биография члена Совета директоров и бывшего члена Правления Маковского И. В.; подтверждены образование, должности в 2018-2024 годах и новая должность с 12.2024."
+      },
+      {
+        "url": "https://www.mrsk-1.ru/about/management/controls/directors/members/2024/",
+        "title": "Россети Центр — Совет директоров, состав 2024",
+        "fact": "Официальная страница состава Совета директоров 2024 указывает Маковского И. В. как члена Совета директоров, дату первого избрания 30.05.2019, образование и основное место работы."
+      }
+    ],
+    "notes": "На 31.12.2024 генеральным директором уже был Б. Б. Эбзеев, но он отсутствует в CSV и поэтому не добавлен как отдельная персона. Для CSV-роли CEO сохранен Маковский как руководитель, занимавший должность почти весь 2024 год. || Round 2 (2026-07-19) gap-fill + GICS/qualification_degree/university-normalization pass: образование, ученые степени и профессиональный опыт переведены из плоских строк в структурированные записи; факты не менялись и не удалялись, только переформатированы и дополнены полями qualification_degree и sector/industry_group/industry. Дополнительного нового биографического факта для Маковского И. В. в этом раунде не найдено (все элементы уже были подтверждены локальным годовым отчетом и официальными страницами в round 1); подробности классификации организаций и институтов - в validation_notes."
+  },
+  "tmt": [
+    {
+      "name": "Алёшин Артём Геннадьевич",
+      "current_role": "CSV: Director of Finance/CFO. В 2024 году до 01.08.2024 был членом Правления ПАО \"Россети Центр\"; с 08.2024 заместитель Генерального директора по экономике и финансам ПАО \"Россети\".",
+      "company_name": "ПАО \"Россети Центр\"",
+      "education": [
+        {
+          "institution": "Нижегородский государственный технический университет имени Р.Е. Алексеева",
+          "year": 2000,
+          "field": "менеджмент",
+          "qualification": "менеджер-экономист",
+          "description": "2000: Нижегородский государственный технический университет; специальность \"менеджмент\"; квалификация \"менеджер-экономист\". Raw string omits the \"имени Р.Е. Алексеева\" namesake clause present in the canonical university_names.json key, but there is only one state technical university in Nizhny Novgorod bearing this base name, so it was normalized directly to the full canonical form without a new_institutions_found entry.",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+          "year": 2004,
+          "field": "юриспруденция",
+          "qualification": "юрист",
+          "description": "2004: Волго-Вятская академия государственной службы; специальность \"юриспруденция\"; квалификация \"юрист\". Not present under any alias in university_names.json, but this is a regional public-service academy of the same nationwide merger program that produced the already-listed \"Северо-Западная академия государственной службы\" alias for this canonical RANEPA entry; normalized to the same canonical name by analogy and logged to new_institutions_found for the synthesis pass to add as an alias.",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"МРСК Центра и Приволжья\"",
+          "role": "директор по экономике, начальник департамента экономики",
+          "start_year": 2007,
+          "end_year": 2020,
+          "description": "06.2007-01.2020: директор по экономике, начальник департамента экономики ПАО \"МРСК Центра и Приволжья\" (прежнее название ПАО \"Россети Центр и Приволжье\").",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Центр\"",
+          "role": "руководящие финансово-экономические должности",
+          "start_year": 2019,
+          "end_year": 2022,
+          "description": "05.2019-01.2022: руководящие финансово-экономические должности в ПАО \"Россети Центр\".",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Центр\"",
+          "role": "член Правления (также ПАО \"Россети Центр и Приволжье\")",
+          "start_year": 2020,
+          "end_year": 2024,
+          "description": "12.2020-08.2024: член Правления ПАО \"Россети Центр\" и ПАО \"Россети Центр и Приволжье\".",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Центр\"",
+          "role": "заместитель Генерального директора по экономике и финансам",
+          "start_year": 2022,
+          "end_year": 2023,
+          "description": "01.2022-11.2023: заместитель Генерального директора по экономике и финансам ПАО \"Россети Центр\".",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети\"",
+          "role": "главный советник, врио заместителя Генерального директора по экономике и финансам (также советник Генерального директора ПАО \"Россети Центр\" по совместительству)",
+          "start_year": 2023,
+          "end_year": 2024,
+          "description": "11.2023-08.2024: главный советник, врио заместителя Генерального директора по экономике и финансам ПАО \"Россети\"; советник Генерального директора ПАО \"Россети Центр\" по совместительству.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети\"",
+          "role": "заместитель Генерального директора по экономике и финансам",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "С 08.2024: заместитель Генерального директора по экономике и финансам ПАО \"Россети\".",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKC/Россети Центр_Годовой отчет 2024.pdf",
+          "title": "Россети Центр — Годовой отчет 2024",
+          "fact": "Страницы 260-263: Алёшин А. Г. указан в Комитете по стратегии; приведены год рождения, образование и должность в ПАО \"Россети\" с 08.2024."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKC/Россети Центр_Годовой отчет 2024.pdf",
+          "title": "Россети Центр — Годовой отчет 2024",
+          "fact": "Страницы 273 и 280: 01.08.2024 прекращены полномочия члена Правления Алёшина А. Г.; дана биография и карьера за последние пять лет."
+        },
+        {
+          "url": "https://ar2023.mrsk-1.ru/corporate-governance/governing-body",
+          "title": "Годовой отчет ПАО \"Россети Центр\" за 2023 — Правление",
+          "fact": "Раздел \"Алешин Артем Геннадьевич\": подтверждены образование, членство в Правлении с 23.12.2020 и финансово-экономические должности в 2007-2023 годах."
+        }
+      ],
+      "notes": "Связь с компанией подтверждена локальным годовым отчетом 2024 и официальным годовым отчетом 2023. Должность CFO из CSV уточнена как финансово-экономический блок; к концу 2024 он уже перешел на должность в ПАО \"Россети\". || Round 2 (2026-07-19): образование и опыт переведены в структурированный формат, факты сохранены без изменений; добавлены qualification_degree и sector/industry_group/industry. Новых пробелов не обнаружено (все элементы уже подтверждены локальным отчетом 2024 и отчетом 2023 в round 1)."
+    },
+    {
+      "name": "Земсков Андрей Юрьевич",
+      "current_role": "CSV: Chief Investment Officer; MarketScreener: Chief Investment Officer / Andrey Yuryevich Zemskov.",
+      "company_name": "ПАО \"Россети Центр\"",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Россети Центр\"",
+          "role": "Chief Investment Officer (по данным MarketScreener)",
+          "start_year": null,
+          "end_year": null,
+          "description": "Рыночный профиль MarketScreener указывает его как Chief Investment Officer ПАО \"Россети Центр\".",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.marketscreener.com/quote/stock/ROSSETI-CENTRE-13491427/company/",
+          "title": "MarketScreener — Rosseti Centre company profile",
+          "fact": "MarketScreener lists Andrey Yuryevich Zemskov in the executive committee as Chief Investment Officer."
+        },
+        {
+          "url": "round-2 gap-fill research log",
+          "title": "Round 2 (2026-07-19) negative-result research log for Земсков А. Ю.",
+          "fact": "Локальные документы: повторная программная проверка всех 7 PDF в MOEXBMI_Отчеты_2024/MRKC (fitz text search по строке 'Земсков') не дала ни одного совпадения, подтверждая вывод round 1. Веб-поиск: WebSearch-бюджет сессии исчерпан (200/200) на старте раунда; WebFetch использовался на нескольких прямых URL и поисковых страницах (Yandex, Bing/DuckDuckGo, mrsk-1.ru, mrsk-cp.ru). Одна выдача поисковика ошибочно приписала Земскову А. Ю. роль 'Head of IT Support Department' со ссылкой на официальный PDF 'RossetiCentre_BookOfAchievements_2022-2023.pdf'; документ (99 страниц) был скачан и проверен программно (PyMuPDF) целиком - имя 'Земсков' в нем не встречается, снятая с поисковика формулировка не подтвердилась и отклонена как недостоверная. Официальная страница mrsk-1.ru/about/management/societies/ была открыта напрямую и не содержит имени Земскова (еще одна ранее всплывшая в поиске атрибуция также не подтвердилась при прямой проверке). Прямые обращения к mrsk-cp.ru вернули ECONNREFUSED. MarketScreener профиль компании при повторном обращении вернул HTTP 403. Новых подтвержденных фактов не найдено; образование и career history за пределами уже известной строки MarketScreener остаются неподтвержденными, поле education оставлено пустым по правилу 'null/пусто лучше, чем непроверенная догадка'."
+        }
+      ],
+      "notes": "Локальные документы MRKC 2024 не содержат биографии или подтвержденного образования Земскова А. Ю. Официальное подтверждение должности на 2024 год не найдено в локальном годовом отчете; сохранен только слабый рыночный источник и CSV-якорь. || Round 2 (2026-07-19) gap-fill: выполнен дополнительный целевой раунд исследования именно по причине пустого education и слабого professional_experience, отмеченных в round-1 notes. Локальные документы перепроверены программно (0 совпадений по всем 7 PDF), веб-поиск исчерпан (WebSearch quota) и WebFetch не дал достоверных новых фактов; один встретившийся в поисковой выдаче атрибут ('Head of IT Support Department') был прямой проверкой исходного PDF опровергнут и отклонен как недостоверный (see sources). Education и достоверный professional_experience для Земскова А. Ю. по-прежнему не подтверждены; поля оставлены как есть согласно правилу prefer null over an unverified guess. professional_experience переведен в структурированный формат с добавлением sector/industry_group/industry (Utilities/Utilities/Electric Utilities для ПАО \"Россети Центр\")."
+    },
+    {
+      "name": "Терников Сергей Александрович",
+      "current_role": "CSV: Investor Relations Contact; официальный отчет 2022: руководитель IR-службы.",
+      "company_name": "ПАО \"Россети Центр\"",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Россети Центр\"",
+          "role": "Руководитель IR-службы",
+          "start_year": null,
+          "end_year": null,
+          "description": "Руководитель IR-службы ПАО \"Россети Центр\" по данным годового отчета 2022.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Центр\"",
+          "role": "Investor Relations Contact (по данным MarketScreener)",
+          "start_year": null,
+          "end_year": null,
+          "description": "MarketScreener указывает его как Investor Relations Contact.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Центр и Приволжье\"",
+          "role": "Руководитель IR-службы",
+          "start_year": null,
+          "end_year": null,
+          "description": "Round 2 (2026-07-19) находка: страница контактов официального годового отчета ПАО \"Россети Центр и Приволжье\" за 2023 год (ar2023.mrsk-cp.ru/additional-information/contacts) указывает Терникова Сергея Александровича как руководителя IR-службы этой сестринской компании группы, с тем же телефоном +7 (495) 747-92-92 доб. 3334, что и в контактах ПАО \"Россети Центр\" (подтверждено также в ar2022.mrsk-1.ru/download/full-reports/ar_ru_annual-report_pages_mrsk-1_2022.pdf и в rspp.ru/upload/uf/84e/Book_MRSK_C_AR_2018.pdf, оба документа скачаны и проверены программно). Общий телефонный номер подтверждает, что один и тот же человек возглавляет IR-службу обеих компаний группы \"Россети Центр\".",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://ar2022.mrsk-1.ru/additional-information",
+          "title": "Годовой отчет ПАО \"Россети Центр\" за 2022 — Дополнительная информация",
+          "fact": "Раздел \"Контакты IR-службы\": руководитель Терников Сергей Александрович, телефон и адрес ir@mrsk-1.ru."
+        },
+        {
+          "url": "https://www.marketscreener.com/quote/stock/ROSSETI-CENTRE-13491427/company/",
+          "title": "MarketScreener — Rosseti Centre company profile",
+          "fact": "MarketScreener lists Sergey Aleksandrovich Ternikov as Investor Relations Contact."
+        },
+        {
+          "url": "https://ar2023.mrsk-cp.ru/additional-information/contacts",
+          "title": "Годовой отчет ПАО \"Россети Центр и Приволжье\" за 2023 — Дополнительная информация, контакты",
+          "fact": "Раздел \"Контакты IR-службы\": руководитель Терников Сергей Александрович, телефон +7 (495) 747-92-92 доб. 3334, email ir@mrsk-cp.ru; совпадает с контактным номером IR-службы ПАО \"Россети Центр\", подтверждая, что один человек возглавляет IR обеих компаний."
+        },
+        {
+          "url": "round-2 gap-fill research log",
+          "title": "Round 2 (2026-07-19) negative-result research log for Терников С. А. (образование)",
+          "fact": "Локальные документы: повторная программная проверка всех 7 PDF в MOEXBMI_Отчеты_2024/MRKC не дала совпадений по имени. Веб-поиск: WebSearch-бюджет исчерпан; WebFetch проверил несколько поисковых страниц и документов. Одна выдача поисковика приписала ему формулировку 'Начальник отдела по взаимодействию с акционерами - консультации по вопросам рынка ценных бумаг' со ссылкой на архивную страницу mrsk-1.ru/about/company/contacts (web.archive.org недоступен для прямой проверки этим инструментом в этой сессии); эта же формулировка не подтвердилась при прямой программной проверке официального PDF-источника той же эпохи (rspp.ru/upload/uf/84e/Book_MRSK_C_AR_2018.pdf, стр. 99), где рядом с его именем указаны только контакты IR-службы без развернутой должности; расширенная формулировка не принята как подтвержденная. Также встретилась запись НАУФОР (аттестация специалистов финансового рынка) с результатом 'не сдан' для имени 'Терников Сергей Александрович'; страница недоступна для прямой проверки (ECONNREFUSED), связь с данным лицом не подтверждена (высокий риск однофамильца), поэтому не использована. Образование по-прежнему не подтверждено ни одним источником; поле оставлено пустым."
+        }
+      ],
+      "notes": "Локальные документы 2024 не дали биографии, образования или опыта за пределами IR-контакта. Должность подтверждена официальным отчетом 2022 и рыночным агрегатором. || Round 2 (2026-07-19) gap-fill: выполнен дополнительный целевой раунд по пустому education и ограниченному опыту, отмеченным в round-1 notes. Найден и подтвержден напрямую (программной проверкой PDF и официальной страницы годового отчета 2023) новый факт: Терников также возглавляет IR-службу сестринской компании ПАО \"Россети Центр и Приволжье\" с тем же контактным телефоном. Образование не подтверждено ни в локальных документах, ни в вебе (WebSearch quota исчерпан; альтернативные WebFetch-источники либо не подтвердили, либо не удалось проверить); одна неподтвержденная и одна отклоненная (риск однофамильца) зацепки задокументированы в sources и не использованы как факт. professional_experience переведен в структурированный формат с sector/industry_group/industry (Utilities/Utilities/Electric Utilities)."
+    },
+    {
+      "name": "Шаркова Юлия Эдуардовна",
+      "current_role": "CSV: Corporate Officer/Principal. Исторически член Правления/заместитель генерального директора по развитию и реализации услуг ОАО/ПАО \"МРСК Центра\".",
+      "company_name": "ПАО \"Россети Центр\"",
+      "education": [
+        {
+          "institution": "Дальневосточный федеральный университет",
+          "year": 1992,
+          "field": "электроснабжение",
+          "qualification": null,
+          "description": "1992: Дальневосточный ордена Трудового Красного Знамени политехнический институт им. В. В. Куйбышева; специальность \"электроснабжение\". Raw institution not present under any alias in university_names.json; web research this round traced its institutional lineage (Дальневосточный политехнический институт им. В.В. Куйбышева -> Дальневосточный государственный технический университет (ДВГТУ, later liquidated as a separate legal entity) -> absorbed into Дальневосточный федеральный университет in the 2011 Vladivostok higher-education merger), which is already the canonical key covering other DVFU predecessor names (Дальневосточный государственный университет, Дальневосточный государственный экономический университет); normalized to that canonical name and logged to new_institutions_found.",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ОАО/ПАО \"МРСК Центра\"",
+          "role": "член Правления",
+          "start_year": 2013,
+          "end_year": null,
+          "description": "С 28.03.2013: член Правления ОАО/ПАО \"МРСК Центра\" (прежнее название ПАО \"Россети Центр\").",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ОАО \"МРСК Центра\"",
+          "role": "заместитель генерального директора по развитию и реализации услуг",
+          "start_year": null,
+          "end_year": null,
+          "description": "Заместитель генерального директора по развитию и реализации услуг ОАО \"МРСК Центра\".",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ОАО \"Россети\"",
+          "role": "ВРИО заместителя генерального директора по реализации и развитию услуг",
+          "start_year": null,
+          "end_year": null,
+          "description": "ВРИО заместителя генерального директора по реализации и развитию услуг ОАО \"Россети\".",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.mrsk-1.ru/about/management/controls/governing/members/2016-2017/",
+          "title": "Россети Центр — Правление 2016-2017",
+          "fact": "Официальная архивная страница указывает Шаркову Юлию Эдуардовну: год рождения 1969, образование 1992, специальность \"электроснабжение\", должность заместителя генерального директора по развитию и реализации услуг и дату первого избрания в Правление 28.03.2013."
+        },
+        {
+          "url": "https://www.marketscreener.com/quote/stock/ROSSETI-CENTRE-13491427/company/",
+          "title": "MarketScreener — Rosseti Centre company profile",
+          "fact": "MarketScreener lists Yuliya Sharkova as Corporate Officer/Principal."
+        },
+        {
+          "url": "round-2 gap-fill research log",
+          "title": "Round 2 (2026-07-19) research log for Шаркова Ю. Э.",
+          "fact": "Round-1 notes flagged patronymic/identity confidence as the main uncertainty (CSV lacks patronymic). WebSearch quota exhausted this round; WebFetch attempts to re-confirm a current (post-2017) role for Шаркова Ю. Э. in the Rosseti group did not surface any newer official page beyond the already-used 2016-2017 governing-archive page. No new fact found; the round-1 identity conclusion (official archive match on full name + company + function) stands unchanged, and her absence from the local 2024 annual report is reconfirmed by the programmatic full-text search across all 7 MRKC PDFs performed this round (no hit for 'Шарков')."
+        }
+      ],
+      "notes": "CSV не содержит отчества; идентификация как Юлии Эдуардовны Шарковой основана на совпадении имени, компании и управленческой функции в официальном архиве. В локальном отчете 2024 она не обнаружена. || Round 2 (2026-07-19): дополнительная проверка не изменила оценку идентичности (WebSearch quota исчерпан, новых источников не найдено); образование переведено в структурированный формат с qualification_degree, professional_experience — с sector/industry_group/industry. Институт нормализован к Дальневосточному федеральному университету (см. validation_notes и new_institutions_found)."
+    },
+    {
+      "name": "Саух Максим Михайлович",
+      "current_role": "CSV: Director/Board Member; официальная страница 2019 подтверждает историческое членство в Совете директоров ПАО \"МРСК Центра\".",
+      "company_name": "ПАО \"Россети Центр\"",
+      "education": [
+        {
+          "institution": "Санкт-Петербургский Гуманитарный университет профсоюзов",
+          "year": 2001,
+          "field": "юриспруденция",
+          "qualification": "юрист",
+          "description": "2001: Санкт-Петербургский Гуманитарный Университет Профсоюзов; специальность \"юриспруденция\"; квалификация \"юрист\". Raw string matches the canonical university_names.json key exactly aside from capitalization; normalized directly, no new_institutions_found entry needed.",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Россети\"",
+          "role": "Начальник Управления корпоративных отношений Департамента корпоративного управления",
+          "start_year": null,
+          "end_year": null,
+          "description": "Начальник Управления корпоративных отношений Департамента корпоративного управления ПАО \"Россети\".",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "АО \"ЕЭСК\"",
+          "role": "член Совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "Член Совета директоров АО \"ЕЭСК\". Round 2 (2026-07-19): подтверждено веб-исследованием, что АО \"ЕЭСК\" - Екатеринбургская электросетевая компания, дочернее общество ПАО \"Россети Урал\", осуществляющее транспорт электроэнергии и технологическое присоединение к сетям 0,4-220 кВ на территории Екатеринбурга.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ООО \"АйТи Энерджи Сервис\"",
+          "role": "член Совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "Член Совета директоров ООО \"АйТи Энерджи Сервис\". Round 2 (2026-07-19): веб-исследование (несколько независимых агрегаторов компаний) указывает основной ОКВЭД 62.02 \"Консультирование по вопросам компьютерных технологий\" и управляющую компанию АО \"Россети Цифра\" - IT-подразделение группы \"Россети\"; классифицировано как поставщик IT-услуг, а не как электросетевая организация.",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "IT Services"
+        },
+        {
+          "organization": "ПАО \"МРСК Центра\"",
+          "role": "член Совета директоров (дата первого избрания)",
+          "start_year": 2012,
+          "end_year": null,
+          "description": "Дата первого избрания в Совет директоров ПАО \"МРСК Центра\": 15.06.2012.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.mrsk-1.ru/about/management/controls/directors/members/2019/",
+          "title": "Россети Центр — Совет директоров, состав 2019",
+          "fact": "Официальная страница 2019 указывает Сауха М. М. как члена Совета директоров, образование 2001, специальность \"юриспруденция\", должность в ПАО \"Россети\" и дату первого избрания 15.06.2012."
+        },
+        {
+          "url": "https://www.marketscreener.com/quote/stock/ROSSETI-CENTRE-13491427/company/",
+          "title": "MarketScreener — Rosseti Centre company profile",
+          "fact": "MarketScreener lists Maxim Mikhailovich Saukh as Director/Board Member."
+        }
+      ],
+      "notes": "В локальном годовом отчете 2024 не входит в действующий или выбывший в 2024 состав Совета директоров; связь с компанией историческая. || Round 2 (2026-07-19): раздел \"Член Совета директоров АО \\\"ЕЭСК\\\" и ООО \\\"АйТи Энерджи Сервис\\\"\" разделен на две записи professional_experience, так как у организаций разная GICS-классификация (Electric Utilities и IT Services соответственно); обе организации подтверждены дополнительным веб-исследованием этого раунда. Образование переведено в структурированный формат с qualification_degree."
+    },
+    {
+      "name": "Шевчук Александр Викторович",
+      "current_role": "Член Совета директоров ПАО \"Россети Центр\" в действующем составе 2024; исполнительный директор НКО \"Ассоциация профессиональных инвесторов\".",
+      "company_name": "ПАО \"Россети Центр\"",
+      "education": [
+        {
+          "institution": "Финансовый университет при Правительстве Российской Федерации",
+          "year": 2005,
+          "field": "финансы и кредит",
+          "qualification": "экономист",
+          "description": "2005: Финансовая академия при Правительстве Российской Федерации; специальность \"финансы и кредит\"; квалификация \"экономист\". Raw string is an existing exact-match alias of this canonical entry in university_names.json; normalized directly, no new_institutions_found entry needed.",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "НКО \"Ассоциация профессиональных инвесторов\"",
+          "role": "исполнительный директор",
+          "start_year": 2014,
+          "end_year": null,
+          "description": "С 03.2014: исполнительный директор НКО \"Ассоциация профессиональных инвесторов\".",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"Россети Центр\"",
+          "role": "член Совета директоров",
+          "start_year": 2015,
+          "end_year": 2022,
+          "description": "06.2015-06.2022: член Совета директоров ПАО \"Россети Центр\".",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Центр\"",
+          "role": "член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "С 06.2024: член Совета директоров ПАО \"Россети Центр\".",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Урал\"",
+          "role": "член Совета директоров",
+          "start_year": 2016,
+          "end_year": null,
+          "description": "С 06.2016: член Совета директоров ПАО \"Россети Урал\".",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Северо-Запад\"",
+          "role": "член Совета директоров (также ПАО \"Россети Волга\")",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "С 06.2022: член Совета директоров ПАО \"Россети Северо-Запад\" и ПАО \"Россети Волга\".",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKC/Россети Центр_Годовой отчет 2024.pdf",
+          "title": "Россети Центр — Годовой отчет 2024",
+          "fact": "Страница 248: Шевчук А. В. указан как неисполнительный директор, дата первого избрания 17.06.2011, образование и должности за последние пять лет."
+        },
+        {
+          "url": "https://www.mrsk-1.ru/about/management/controls/directors/members/2024/",
+          "title": "Россети Центр — Совет директоров, состав 2024",
+          "fact": "Официальная страница состава 2024 подтверждает членство Шевчука А. В. в Совете директоров, образование и основное место работы."
+        }
+      ],
+      "notes": "Действующий 2024 член Совета директоров, подтвержден локальным отчетом и официальной страницей. || Round 2 (2026-07-19): образование и professional_experience переведены в структурированный формат; НКО \"Ассоциация профессиональных инвесторов\" оставлена без GICS-классификации как некоммерческая ассоциация (аналогично прецеденту с другими профессиональными ассоциациями в проекте, например CHMF/World Steel Association)."
+    },
+    {
+      "name": "Головцов Александр Викторович",
+      "current_role": "CSV: Director/Board Member; официальная страница 2019 подтверждает историческое членство в Совете директоров ПАО \"МРСК Центра\".",
+      "company_name": "ПАО \"Россети Центр\"",
+      "education": [
+        {
+          "institution": "Балтийский государственный технический университет «ВОЕНМЕХ» имени Д.Ф. Устинова",
+          "year": 1996,
+          "field": "инженер-электрик",
+          "qualification": null,
+          "description": "1996: Государственный технический университет им. Д. Ф. Устинова; факультет \"Системы автоматизированного управления\"; специальность \"инженер-электрик\". Raw string omits the \"Балтийский... «ВОЕНМЕХ»\" institutional branding, but the \"Устинова\" namesake uniquely identifies this university; normalized directly to the full canonical name and logged to new_institutions_found for completeness.",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"МРСК Волги\"",
+          "role": "член Совета директоров (также ПАО \"МРСК Северо-Запада\")",
+          "start_year": null,
+          "end_year": null,
+          "description": "Член Совета директоров ПАО \"МРСК Волги\" и ПАО \"МРСК Северо-Запада\".",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "НП \"Ассоциация профессиональных инвесторов\"",
+          "role": "член Совета",
+          "start_year": null,
+          "end_year": null,
+          "description": "Член Совета НП \"Ассоциация профессиональных инвесторов\".",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"МРСК Центра\"",
+          "role": "член Совета директоров (дата первого избрания)",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Дата первого избрания в Совет директоров ПАО \"МРСК Центра\": 30.05.2019.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.mrsk-1.ru/about/management/controls/directors/members/2019/",
+          "title": "Россети Центр — Совет директоров, состав 2019",
+          "fact": "Официальная страница 2019 указывает Головцова А. В. как члена Совета директоров, образование 1996, основное место работы \"не занимает\", иные должности и дату первого избрания 30.05.2019."
+        },
+        {
+          "url": "https://www.marketscreener.com/quote/stock/ROSSETI-CENTRE-13491427/company/",
+          "title": "MarketScreener — Rosseti Centre company profile",
+          "fact": "MarketScreener lists Alexander Viktorovich Golovtsov as Director/Board Member."
+        }
+      ],
+      "notes": "В локальном годовом отчете 2024 упоминается среди кандидатов, которых комитет мог признать независимыми, но не входит в действующий состав на 31.12.2024. || Round 2 (2026-07-19): образование и professional_experience переведены в структурированный формат; институт нормализован к полному каноническому названию (см. new_institutions_found)."
+    },
+    {
+      "name": "Зархин Виталий Юрьевич",
+      "current_role": "Независимый директор, член Совета директоров ПАО \"Россети Центр\" в действующем составе 2024.",
+      "company_name": "ПАО \"Россети Центр\"",
+      "education": [
+        {
+          "institution": "Национальный исследовательский университет «Высшая школа экономики»",
+          "year": 1998,
+          "field": "экономика",
+          "qualification": "бакалавр экономики",
+          "description": "1998: Государственный университет — Высшая школа экономики; специальность \"экономика\"; квалификация \"бакалавр экономики\". Raw string is the university's own pre-2011 official name (Государственный университет - Высшая школа экономики), matching an existing alias of the canonical entry aside from cosmetic dash/city-qualifier differences; normalized directly.",
+          "qualification_degree": "Bachelor's degree"
+        },
+        {
+          "institution": "Национальный исследовательский университет «Высшая школа экономики»",
+          "year": 2000,
+          "field": "менеджмент",
+          "qualification": "магистр менеджмента",
+          "description": "2000: Государственный университет — Высшая школа экономики; специальность \"менеджмент\"; квалификация \"магистр менеджмента\". Same institution and canonical normalization as the entry above.",
+          "qualification_degree": "Master's degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Россети Центр\"",
+          "role": "член Совета директоров (также ПАО \"Россети Юг\")",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "С 05.2019: член Совета директоров ПАО \"Россети Центр\" и ПАО \"Россети Юг\".",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Центр и Приволжье\"",
+          "role": "член Совета директоров",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "С 06.2019: член Совета директоров ПАО \"Россети Центр и Приволжье\".",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Россети Сибирь\"",
+          "role": "член Совета директоров",
+          "start_year": 2021,
+          "end_year": 2023,
+          "description": "06.2021-06.2023: член Совета директоров ПАО \"Россети Сибирь\".",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"ЭЛ5-Энерго\"",
+          "role": "член Совета директоров",
+          "start_year": 2022,
+          "end_year": 2023,
+          "description": "06.2022-06.2023: член Совета директоров ПАО \"ЭЛ5-Энерго\". Генерирующая компания (ранее ПАО \"Энел Россия\"), поэтому классифицирована как независимый производитель электроэнергии, а не электросетевая компания.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKC/Россети Центр_Годовой отчет 2024.pdf",
+          "title": "Россети Центр — Годовой отчет 2024",
+          "fact": "Страница 243: биография Зархина В. Ю.; подтверждены статус независимого директора, дата первого избрания 30.05.2019, образование и должности за последние пять лет."
+        },
+        {
+          "url": "https://www.mrsk-1.ru/about/management/controls/directors/members/2024/",
+          "title": "Россети Центр — Совет директоров, состав 2024",
+          "fact": "Официальная страница состава 2024 подтверждает Зархина В. Ю. как независимого директора, образование, иные должности и дату первого избрания."
+        }
+      ],
+      "notes": "Действующий 2024 член Совета директоров, подтвержден локальным отчетом и официальной страницей. || Round 2 (2026-07-19): образование и professional_experience переведены в структурированный формат; ПАО \"ЭЛ5-Энерго\" классифицировано отдельно от прочих сетевых компаний (Independent Power and Renewable Electricity Producers, а не Electric Utilities), так как это генерирующая, а не сетевая компания."
+    },
+    {
+      "name": "Романовская Лариса Анатольевна",
+      "current_role": "CSV: Director/Board Member; официальная страница 2019 подтверждает историческое членство в Совете директоров ПАО \"МРСК Центра\".",
+      "company_name": "ПАО \"Россети Центр\"",
+      "education": [
+        {
+          "institution": "Самарский государственный экономический университет",
+          "year": 1995,
+          "field": "экономист",
+          "qualification": null,
+          "description": "1995: Самарская государственная экономическая академия; факультет \"Коммерция\"; специальность \"экономист\". Raw institution not present under any alias in university_names.json; normalized to its 2010-renamed current official name (Самарский государственный экономический университет), confirmed via web research this round, and logged to new_institutions_found.",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Россети\"",
+          "role": "Первый заместитель Генерального директора",
+          "start_year": null,
+          "end_year": null,
+          "description": "Первый заместитель Генерального директора ПАО \"Россети\".",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"МОЭСК\"",
+          "role": "член Совета директоров (также ПАО \"Ленэнерго\")",
+          "start_year": null,
+          "end_year": null,
+          "description": "Член Совета директоров ПАО \"МОЭСК\" и ПАО \"Ленэнерго\".",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "Ассоциация организаций цифрового развития отрасли \"Цифровая энергетика\"",
+          "role": "член Правления",
+          "start_year": null,
+          "end_year": null,
+          "description": "Член Правления Ассоциации организаций цифрового развития отрасли \"Цифровая энергетика\".",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"МРСК Центра\"",
+          "role": "член Совета директоров (дата первого избрания)",
+          "start_year": 2018,
+          "end_year": null,
+          "description": "Дата первого избрания в Совет директоров ПАО \"МРСК Центра\": 31.05.2018.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.mrsk-1.ru/about/management/controls/directors/members/2019/",
+          "title": "Россети Центр — Совет директоров, состав 2019",
+          "fact": "Официальная страница 2019 указывает Романовскую Л. А. как члена Совета директоров, образование 1995, основное место работы и дату первого избрания 31.05.2018."
+        },
+        {
+          "url": "https://www.marketscreener.com/quote/stock/ROSSETI-CENTRE-13491427/company/",
+          "title": "MarketScreener — Rosseti Centre company profile",
+          "fact": "MarketScreener lists Larisa Anatolyevna Romanovskaya as Director/Board Member."
+        }
+      ],
+      "notes": "В локальном годовом отчете 2024 она не входит в действующий или выбывший в 2024 состав Совета директоров; связь с компанией историческая. || Round 2 (2026-07-19): образование переведено в структурированный формат, институт нормализован (см. new_institutions_found); Ассоциация \"Цифровая энергетика\" оставлена без GICS-кода как некоммерческая отраслевая ассоциация (тот же принцип уже применялся в проекте, например к \"Ассоциации Цифровая энергетика\" в FEES round 2)."
+    },
+    {
+      "name": "Логаткин Андрей Вячеславович",
+      "current_role": "CSV: Director/Board Member; официальная страница 2019 подтверждает историческое членство в Совете директоров ПАО \"МРСК Центра\".",
+      "company_name": "ПАО \"Россети Центр\"",
+      "education": [
+        {
+          "institution": "Bocconi University",
+          "year": 2004,
+          "field": "экономика и управление на предприятии (по отраслям)",
+          "qualification": "экономист-менеджер",
+          "description": "2004: Universita commerciale Luigi Bocconi, Милан; специальность \"экономика и управление на предприятии (по отраслям)\"; квалификация \"экономист-менеджер\". Institution matches the existing canonical university_names.json entry \"Bocconi University\" (Italian original name for the same institution); normalized directly. Note: the specialty and qualification wording follows the standard Russian state classifier of specialties, as given by the official source, even though the institution itself is Italian; recorded as-is, no fact invented.",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Россети\"",
+          "role": "Директор Департамента международного сотрудничества",
+          "start_year": null,
+          "end_year": null,
+          "description": "Директор Департамента международного сотрудничества ПАО \"Россети\".",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "АО \"ЭНИН\"",
+          "role": "член Совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "Член Совета директоров АО \"ЭНИН\". Round 2 (2026-07-19): подтверждено веб-исследованием, что АО \"ЭНИН\" - Энергетический институт им. Г.М. Кржижановского, научно-исследовательская организация в области энергетики; классифицировано как профессиональные (научно-исследовательские) услуги, а не как электросетевая компания, по аналогии с прецедентом АО \"НТЦ ФСК ЕЭС\" в FEES round 3.",
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "Ассоциация ТЭК \"Российский Национальный Комитет Мирового Энергетического Совета\"",
+          "role": "исполнительный директор",
+          "start_year": null,
+          "end_year": null,
+          "description": "Исполнительный директор Ассоциации ТЭК \"Российский Национальный Комитет Мирового Энергетического Совета\".",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"МРСК Центра\"",
+          "role": "член Совета директоров (дата первого избрания)",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Дата первого избрания в Совет директоров ПАО \"МРСК Центра\": 30.05.2019.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.mrsk-1.ru/about/management/controls/directors/members/2019/",
+          "title": "Россети Центр — Совет директоров, состав 2019",
+          "fact": "Официальная страница 2019 указывает Логаткина А. В. как члена Совета директоров, образование 2004, должность в ПАО \"Россети\", иные должности и дату первого избрания 30.05.2019."
+        },
+        {
+          "url": "https://www.marketscreener.com/quote/stock/ROSSETI-CENTRE-13491427/company/",
+          "title": "MarketScreener — Rosseti Centre company profile",
+          "fact": "MarketScreener lists Andrey Logatkin as Director/Board Member."
+        }
+      ],
+      "notes": "CSV не содержит отчества; официальная страница 2019 дает Андрей Вячеславович Логаткин. В локальном отчете 2024 он не входит в актуальный состав. || Round 2 (2026-07-19): образование нормализовано к существующей канонической записи Bocconi University; АО \"ЭНИН\" классифицирован как Professional Services (научно-исследовательский институт) отдельным веб-исследованием этого раунда; отраслевая ассоциация ТЭК оставлена без GICS-кода."
+    },
+    {
+      "name": "Чевкин Дмитрий Александрович",
+      "current_role": "CSV: Director/Board Member; официальная страница 2019 подтверждает историческое членство в Совете директоров ПАО \"МРСК Центра\".",
+      "company_name": "ПАО \"Россети Центр\"",
+      "education": [
+        {
+          "institution": "Финансовый университет при Правительстве Российской Федерации",
+          "year": 1998,
+          "field": "финансы и кредит",
+          "qualification": "экономист",
+          "description": "1998: Финансовая академия при Правительстве Российской Федерации; специальность \"финансы и кредит\"; квалификация \"экономист\". Raw string is an existing exact-match alias of this canonical entry in university_names.json; normalized directly.",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"Россети\"",
+          "role": "исполняющий обязанности директора Департамента управления персоналом",
+          "start_year": null,
+          "end_year": null,
+          "description": "Исполняющий обязанности директора Департамента управления персоналом ПАО \"Россети\".",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "АО \"ВОЛС ВЛ\"",
+          "role": "член Совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "Член Совета директоров АО \"ВОЛС ВЛ\". Round 2 (2026-07-19): подтверждено веб-исследованием, что АО \"ВОЛС-ВЛ\" (полное название \"Управление волоконно-оптическими линиями связи на воздушных линиях электропередачи межрегиональных распределительных сетевых компаний\", с 2022 года АО \"Россети Цифра\") - оператор телекоммуникационной инфраструктуры (волоконно-оптические линии связи на опорах ЛЭП), 100% дочернее общество ПАО \"Россети\"; классифицирован как телекоммуникационная компания, а не электросетевая.",
+          "sector": "Communication Services",
+          "industry_group": "Telecommunication Services",
+          "industry": "Diversified Telecommunication Services"
+        },
+        {
+          "organization": "ПАО \"МРСК Центра\"",
+          "role": "член Совета директоров (дата первого избрания)",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Дата первого избрания в Совет директоров ПАО \"МРСК Центра\": 30.05.2019.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.mrsk-1.ru/about/management/controls/directors/members/2019/",
+          "title": "Россети Центр — Совет директоров, состав 2019",
+          "fact": "Официальная страница 2019 указывает Чевкина Д. А. как члена Совета директоров, образование 1998, должность в ПАО \"Россети\" и дату первого избрания 30.05.2019."
+        },
+        {
+          "url": "https://www.marketscreener.com/quote/stock/ROSSETI-CENTRE-13491427/company/",
+          "title": "MarketScreener — Rosseti Centre company profile",
+          "fact": "MarketScreener lists Dmitry Chevkin as Director/Board Member."
+        }
+      ],
+      "notes": "В локальном годовом отчете 2024 он не входит в актуальный состав Совета директоров; связь с компанией историческая. || Round 2 (2026-07-19): образование переведено в структурированный формат; АО \"ВОЛС ВЛ\" классифицирован как Diversified Telecommunication Services (оператор волоконно-оптической телекоммуникационной инфраструктуры на опорах ЛЭП, а не сама электросетевая деятельность), подтверждено отдельным веб-исследованием этого раунда."
+    },
+    {
+      "name": "Варварин Александр Викторович",
+      "current_role": "CSV: Director/Board Member; официальная страница 2019 подтверждает историческое членство в Совете директоров ПАО \"МРСК Центра\".",
+      "company_name": "ПАО \"Россети Центр\"",
+      "education": [
+        {
+          "institution": "Институт международного права и экономики имени А.С. Грибоедова",
+          "year": 1998,
+          "field": "правоведение",
+          "qualification": "юрист",
+          "description": "1998: Институт международного права и экономики им. А. С. Грибоедова; специальность \"правоведение\"; квалификация \"юрист\". Institution not found under any alias in university_names.json; kept as its own best-supported official name (cosmetic normalization of \"им.\" to \"имени\" and initials spacing only) and logged to new_institutions_found.",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "РСПП",
+          "role": "Вице-президент / управляющий директор по корпоративным отношениям и правовому обеспечению",
+          "start_year": null,
+          "end_year": null,
+          "description": "Вице-президент / управляющий директор по корпоративным отношениям и правовому обеспечению РСПП (Российский союз промышленников и предпринимателей). Некоммерческий союз работодателей и предпринимателей, не GICS-классифицируемая коммерческая организация.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "НП \"Центр развития корпоративных отношений и разрешения экономических споров\"",
+          "role": "генеральный директор",
+          "start_year": 2012,
+          "end_year": null,
+          "description": "С 2012 года: генеральный директор НП \"Центр развития корпоративных отношений и разрешения экономических споров\". Некоммерческое партнерство, не GICS-классифицируемая коммерческая организация.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"МРСК Центра\"",
+          "role": "член Совета директоров (дата первого избрания)",
+          "start_year": 2018,
+          "end_year": null,
+          "description": "Дата первого избрания в Совет директоров ПАО \"МРСК Центра\": 31.05.2018.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [
+        "Бизнес-школа РСПП указывает преподавательскую деятельность, опыт более 10 лет и авторство ряда публикаций по банкротству, корпоративному управлению и разрешению корпоративных споров."
+      ],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.mrsk-1.ru/about/management/controls/directors/members/2019/",
+          "title": "Россети Центр — Совет директоров, состав 2019",
+          "fact": "Официальная страница 2019 указывает Варварина А. В. как члена Совета директоров, образование 1998, должности и дату первого избрания 31.05.2018."
+        },
+        {
+          "url": "https://bs-rspp.ru/school/experts/varvarin-aleksandr-viktorovich",
+          "title": "Бизнес-школа РСПП — Варварин Александр Викторович",
+          "fact": "Профиль подтверждает образование, должности в РСПП, директорство в НП и преподавательско-публикационную активность."
+        },
+        {
+          "url": "https://www.marketscreener.com/quote/stock/ROSSETI-CENTRE-13491427/company/",
+          "title": "MarketScreener — Rosseti Centre company profile",
+          "fact": "MarketScreener lists Aleksander Viktorovich Varvarin as Director/Board Member."
+        }
+      ],
+      "notes": "В локальном годовом отчете 2024 он не входит в актуальный состав Совета директоров; связь с компанией историческая. Публикации не внесены как отдельные записи, потому что источником подтвержден только общий факт авторства. || Round 2 (2026-07-19): образование переведено в структурированный формат (институт не найден в university_names.json, залогирован в new_institutions_found); РСПП и НП \"Центр развития корпоративных отношений...\" оставлены без GICS-кода как некоммерческие организации."
+    },
+    {
+      "name": "Казаков Александр Иванович",
+      "current_role": "CSV: Director/Board Member; официальная страница 2019 подтверждает историческое председательство в Совете директоров ПАО \"МРСК Центра\".",
+      "company_name": "ПАО \"Россети Центр\"",
+      "education": [
+        {
+          "institution": "Государственный университет управления",
+          "year": 1971,
+          "field": "экономика и организация машиностроительной промышленности",
+          "qualification": "инженер-экономист",
+          "description": "1971: Московский инженерно-экономический институт им. С. Орджоникидзе; специальность \"экономика и организация машиностроительной промышленности\" / \"инженер-экономист\". Institutional lineage verified via web research this round: Московский инженерно-экономический институт (МИЭИ) им. Орджоникидзе -> 1975 renamed Московский институт управления имени С. Орджоникидзе -> 1991 Государственная академия управления имени Серго Орджоникидзе -> 1998 Государственный университет управления (ГУУ). The canonical university_names.json key already lists the 1975 and 1991 names as aliases but not this original 1930-1975 name, so it is normalized to the same canonical key and logged to new_institutions_found.",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "доктор экономических наук",
+          "institution": null,
+          "year": 1993,
+          "description": "1993: доктор экономических наук. Институт, присвоивший степень, не указан в источнике; поле institution оставлено null по правилу \"prefer null over an unverified guess\".",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"МРСК Центра\"",
+          "role": "Председатель Совета директоров (в составе 2019 года)",
+          "start_year": null,
+          "end_year": null,
+          "description": "Председатель Совета директоров ПАО \"МРСК Центра\" в составе 2019 года.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"МРСК Центра и Приволжья\"",
+          "role": "Председатель Совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "Председатель Совета директоров ПАО \"МРСК Центра и Приволжья\".",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"МРСК Центра\"",
+          "role": "член Совета директоров (дата первого избрания)",
+          "start_year": 2018,
+          "end_year": null,
+          "description": "Дата первого избрания в Совет директоров ПАО \"МРСК Центра\": 31.05.2018.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.mrsk-1.ru/about/management/controls/directors/members/2019/",
+          "title": "Россети Центр — Совет директоров, состав 2019",
+          "fact": "Официальная страница 2019 указывает Казакова А. И. как председателя Совета директоров, образование 1971, степень доктора экономических наук 1993 и дату первого избрания 31.05.2018."
+        },
+        {
+          "url": "https://www.marketscreener.com/quote/stock/ROSSETI-CENTRE-13491427/company/",
+          "title": "MarketScreener — Rosseti Centre company profile",
+          "fact": "MarketScreener lists Alexander Ivanovich Kazakov as Director/Board Member."
+        }
+      ],
+      "notes": "В локальном годовом отчете 2024 он не входит в актуальный состав Совета директоров; связь с компанией историческая. Степень доктора экономических наук подтверждена официальной страницей 2019. || Round 2 (2026-07-19): образование и ученая степень переведены в структурированный формат; институт образования нормализован к Государственному университету управления по верифицированной веб-исследованием цепочке переименований (см. new_institutions_found); институт присвоения докторской степени в источнике не указан, оставлен null."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MRKC/Россети Центр_Годовой отчет 2024.pdf",
+      "title": "Россети Центр — Годовой отчет 2024",
+      "fact": "Страница 236: в 2024 году действовали два состава Совета директоров; указан состав до 20.06.2024 и состав с 20.06.2024."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MRKC/Россети Центр_Годовой отчет 2024.pdf",
+      "title": "Россети Центр — Годовой отчет 2024",
+      "fact": "Страница 238: действующий состав Совета директоров на 31.12.2024 включает Зархина В. Ю., Маковского И. В. и Шевчука А. В. из CSV; остальные CSV-директора не входят в актуальный состав."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MRKC/Россети Центр_Годовой отчет 2024.pdf",
+      "title": "Россети Центр — Годовой отчет 2024",
+      "fact": "Страницы 271-273: Генеральным директором с 01.01.2024 по 27.12.2024 был Маковский И. В.; с 28.12.2024 — Эбзеев Б. Б.; описаны изменения состава Правления."
+    },
+    {
+      "url": "https://www.mrsk-1.ru/about/management/controls/directors/members/2024/",
+      "title": "Россети Центр — Совет директоров, состав 2024",
+      "fact": "Официальная страница состава Совета директоров, избранного 20.06.2024, подтверждает актуальный состав и биографии."
+    },
+    {
+      "url": "https://www.mrsk-1.ru/about/management/controls/directors/members/2019/",
+      "title": "Россети Центр — Совет директоров, состав 2019",
+      "fact": "Официальная архивная страница подтверждает историческое членство многих CSV-директоров: Саух, Головцов, Романовская, Логаткин, Чевкин, Варварин, Казаков."
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/stock/ROSSETI-CENTRE-13491427/company/",
+      "title": "MarketScreener — Rosseti Centre company profile",
+      "fact": "MarketScreener mirrors the CSV-like executive committee and board list, but conflicts with local annual report 2024 for current board composition."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_Отчеты_2024/MRKC/Россети Центр_Годовой отчет 2024.pdf",
+      "title": "Россети Центр — Годовой отчет 2024",
+      "fact": "Primary local source for 2024 governance, CEO transition, board composition and biographies of current board/management."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MRKC/Приложения к ГО/Приложение 3_Россети Центр_ГО 2024_Дополнительная информация.pdf",
+      "title": "Россети Центр — Приложение 3 к годовому отчету 2024",
+      "fact": "Checked for additional board/committee/management information; used mainly to confirm committee and governance context."
+    },
+    {
+      "url": "https://www.mrsk-1.ru/about/management/controls/directors/members/2024/",
+      "title": "Россети Центр — Совет директоров, состав 2024",
+      "fact": "Official web confirmation of current 2024 board biographies."
+    },
+    {
+      "url": "https://www.mrsk-1.ru/about/management/controls/directors/members/2019/",
+      "title": "Россети Центр — Совет директоров, состав 2019",
+      "fact": "Official archive for historical CSV board members no longer present in the 2024 local board composition."
+    },
+    {
+      "url": "https://ar2023.mrsk-1.ru/corporate-governance/governing-body",
+      "title": "Годовой отчет ПАО \"Россети Центр\" за 2023 — Правление",
+      "fact": "Official annual-report web source for Aleshin and other management biographies."
+    },
+    {
+      "url": "https://ar2022.mrsk-1.ru/additional-information",
+      "title": "Годовой отчет ПАО \"Россети Центр\" за 2022 — Дополнительная информация",
+      "fact": "Official annual-report web source confirming Sergey Ternikov as head of IR service."
+    },
+    {
+      "url": "https://www.mrsk-1.ru/about/management/controls/governing/members/2016-2017/",
+      "title": "Россети Центр — Правление 2016-2017",
+      "fact": "Official archive confirming Yuliya Sharkova as a board-management person and providing education."
+    },
+    {
+      "url": "https://bs-rspp.ru/school/experts/varvarin-aleksandr-viktorovich",
+      "title": "Бизнес-школа РСПП — Варварин Александр Викторович",
+      "fact": "External professional biography confirming education and broader professional/research-adjacent activity."
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/stock/ROSSETI-CENTRE-13491427/company/",
+      "title": "MarketScreener — Rosseti Centre company profile",
+      "fact": "Weak market-data source used only where it mirrors CSV rows or provides an otherwise unconfirmed role pointer."
+    }
+  ],
+  "new_institutions_found": [
+    {
+      "raw_string": "Алма-Атинское высшее пограничное командное училище им. Ф. Э. Дзержинского",
+      "candidate_canonical_name": "Алма-Атинское высшее пограничное командное училище имени Ф.Э. Дзержинского",
+      "reasoning": "Soviet-era Kazakhstan military border-guard commissioning school named after Dzerzhinsky; not present under any alias in university_names.json; no confirmed post-Soviet renamed successor entity found in this round's research, so the historical name itself (with cosmetic normalization of the namesake abbreviation) is kept as the best-supported candidate."
+    },
+    {
+      "raw_string": "Калининградский государственный университет",
+      "candidate_canonical_name": "Балтийский федеральный университет имени Иммануила Канта",
+      "reasoning": "Not present in university_names.json (distinct from the already-listed Калининградский государственный технический университет, a different institution). Web research this round confirmed Kaliningrad State University was renamed Российский государственный университет им. И. Канта in 2005 and then Балтийский федеральный университет имени Иммануила Канта in 2010; the current official name is used as the candidate."
+    },
+    {
+      "raw_string": "Нижегородский государственный технический университет",
+      "candidate_canonical_name": "Нижегородский государственный технический университет имени Р.Е. Алексеева",
+      "reasoning": "Raw string is missing the \"имени Р.Е. Алексеева\" namesake suffix present in the existing canonical key; logged for completeness even though normalized with high confidence (single technical university in Nizhny Novgorod bearing this base name)."
+    },
+    {
+      "raw_string": "Волго-Вятская академия государственной службы",
+      "candidate_canonical_name": "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+      "reasoning": "Regional academy of state service absorbed into RANEPA in the 2010-2012 nationwide merger, the same reform that produced the already-listed \"Северо-Западная академия государственной службы\" alias for this canonical entry; no exact or near-exact alias currently covers the Volga-Vyatka academy specifically."
+    },
+    {
+      "raw_string": "Дальневосточный ордена Трудового Красного Знамени политехнический институт им. В. В. Куйбышева",
+      "candidate_canonical_name": "Дальневосточный федеральный университет",
+      "reasoning": "Predecessor institution (Vladivostok) later renamed Дальневосточный государственный технический университет and absorbed into Дальневосточный федеральный университет in the 2011 merger, per this round's web research; the canonical key already lists other predecessor names for the same merged university but not this one."
+    },
+    {
+      "raw_string": "Государственный технический университет им. Д. Ф. Устинова",
+      "candidate_canonical_name": "Балтийский государственный технический университет «ВОЕНМЕХ» имени Д.Ф. Устинова",
+      "reasoning": "Raw string is missing the \"Балтийский\" / «ВОЕНМЕХ» institutional branding present in the canonical key, though the unique \"Устинова\" namesake makes the identification unambiguous."
+    },
+    {
+      "raw_string": "Самарская государственная экономическая академия",
+      "candidate_canonical_name": "Самарский государственный экономический университет",
+      "reasoning": "Самарская государственная экономическая академия was renamed Самарский государственный экономический университет in 2010; neither the academy nor the university name is currently present in university_names.json."
+    },
+    {
+      "raw_string": "Институт международного права и экономики им. А. С. Грибоедова",
+      "candidate_canonical_name": "Институт международного права и экономики имени А.С. Грибоедова",
+      "reasoning": "Not present under any alias in university_names.json; no clearly recognized single successor institution identified in this round, so the same institution name is kept with only cosmetic formatting normalization."
+    },
+    {
+      "raw_string": "Московский инженерно-экономический институт им. С. Орджоникидзе",
+      "candidate_canonical_name": "Государственный университет управления",
+      "reasoning": "Verified via web research this round to be the original (1930-1975) name of the institution that was later renamed Московский институт управления имени С. Орджоникидзе (1975), Государственная академия управления имени Серго Орджоникидзе (1991) and finally Государственный университет управления (1998); the two later names are already listed as aliases of this canonical key, but this earliest name is not."
+    }
+  ],
+  "validation_notes": "Обработано 14 уникальных персон из 15 строк CSV по MRKC; И. В. Маковский был в CSV дважды и объединен как CEO + член Совета директоров. Проверено 7 локальных PDF в папке MOEXBMI_Отчеты_2024/MRKC: годовой отчет, отчетность МСФО и 5 приложений к годовому отчету. Выполнен 1 research round для каждой персоны; дополнительные раунды не запускались, потому что локальный годовой отчет 2024 и официальные архивы закрыли основные идентификационные вопросы, а оставшиеся пробелы относятся к публично не раскрытым биографиям. Образование не подтверждено для Земскова А. Ю. и Терникова С. А.; для остальных образование подтверждено официальными источниками. Существенная неопределенность сохраняется у Земскова А. Ю. и Терникова С. А. из-за отсутствия официальной биографии, а также у Шарковой Ю. Э. из-за неполного имени в CSV. MarketScreener использован как слабый источник для CSV-подобного списка и не принят как подтверждение актуального состава Совета директоров на 31.12.2024. Главный конфликт: CSV/MarketScreener содержит ряд исторических директоров, тогда как локальный годовой отчет 2024 и официальный сайт показывают актуальный состав на 31.12.2024, где из CSV-директоров подтверждены Маковский И. В., Зархин В. Ю. и Шевчук А. В.; остальные CSV-директора сохранены с пометкой исторической связи. Исключенные однофамильцы: поисковые результаты по общим именам без компании/должности не использовались; для Шарковой дополнительно отвергнуты нерелевантные результаты по имени Юлия и иной Юлии Шарковой вне энергетики. Публикации, патенты и h-index не добавлены, так как подтвержденных научных профилей нужных лиц не найдено; исключение — степень доктора экономических наук у Казакова А. И., подтвержденная официальной страницей 2019, и общий факт публикационной/преподавательской активности Варварина А. В. без внесения отдельных публикаций. Поиск считается завершенным по условию насыщения: локальные документы проверены, официальные архивы по актуальному и историческому составу открыты, разные классы источников использованы, а два последующих направления поиска по неполным персонам не дали более качественной официальной биографии. || Round 2 (2026-07-19, gap-fill plus GICS/qualification/university-normalization pass, per REFINEMENT.md and the task instructions): (1) Gap-fill research, local filings first then web: the two people flagged in round-1 notes as having empty education and weak professional_experience (Земсков А. Ю. и Терников С. А.) were re-researched. Local documents: all 7 local MRKC PDFs (main annual report, MSFO statement, and 5 приложения к ГО) were re-scanned programmatically (PyMuPDF full-text search) for 'Земсков', 'Терников' and 'Шаркова'/'Шарков'; zero hits for all three, confirming round 1. Web research: the session WebSearch budget (200 of 200 calls) was already exhausted at the start of this round, so WebFetch was used instead on official pages, annual-report PDFs and search-engine result pages (Yandex, Bing/DuckDuckGo). For Земсков А. Ю., no reliable new fact was found; one search-engine-summarized snippet falsely attributed him a 'Head of IT Support Department' role citing an official PDF (RossetiCentre_BookOfAchievements_2022-2023.pdf) — this 99-page PDF was downloaded and checked programmatically in full and does not contain his name anywhere, so the claim was rejected as an unreliable/hallucinated search-summary artifact and not used. For Терников С. А., education remains unconfirmed, but one new fact was found and confirmed by direct programmatic PDF/page verification: he also heads the IR service of the sister company ПАО \"Россети Центр и Приволжье\" (ar2023.mrsk-cp.ru/additional-information/contacts), with the identical contact phone number as his ПАО \"Россети Центр\" IR role, corroborated by ar2022.mrsk-1.ru and rspp.ru/upload/uf/84e/Book_MRSK_C_AR_2018.pdf (both fetched and checked directly); this new professional_experience entry was added with sourcing. Two other leads for Терников were found but rejected/left unconfirmed and documented per-person: a broader job-title phrase from an unverifiable archive.org snippet (web.archive.org could not be fetched by the available tool this round to confirm it, and the same-era official PDF source does not corroborate the extended wording), and a NAUFOR securities-market exam-attestation record ('не сдан') for a same-named person that could not be confirmed as the same individual (rejected per the no-namesake-mixing rule and connection errors preventing direct verification). For Шаркова Ю. Э., the round-1 patronymic/identity conclusion (based on an official governing-body archive page match on full name, company and function) stands; no newer official page surfaced this round, and her absence from the local 2024 annual report was reconfirmed by the same programmatic full-text search. No fact was invented for any of the three; nulls/empty arrays were preserved per the prefer-null-over-an-unverified-guess rule. (2) Structural conversion: education, degrees and professional_experience were converted from plain narrative strings (this ticker's original round-1 format, unlike the already-object-structured format used by most other processed tickers including the sibling company FEES and the MRKP/MRKZ/MRKU/MRKV Rosseti-group tickers) into structured objects (institution/year/field/qualification/description for education; degree/institution/year/description for degrees; organization/role/start_year/end_year/description for professional_experience), preserving every fact, date and qualifying phrase from the original strings without deletion or invention; where one original bullet named two organizations with different GICS profiles (Саух М. М.: АО \"ЕЭСК\" и ООО \"АйТи Энерджи Сервис\"), it was split into two professional_experience entries so each could carry its own correct sector/industry_group/industry triple; where two organizations shared an identical GICS profile and only one combined date range was given in the source, they were kept in a single entry to avoid inventing unstated separate dates. (3) GICS tagging: added company-level sector/industry_group/industry (Utilities, Utilities, Electric Utilities — ПАО \"Россети Центр\" is a regional electricity transmission and distribution grid operator of the Rosseti group, consistent with the sibling ticker FEES and the other MRK*/Rosseti-group tickers already processed) and tagged every professional_experience entry for all 14 people by the named organization's own primary line of business, copied character-for-character from gics_taxonomy.json: all Rosseti-group grid operators and the Rosseti/Rossiiskie seti holding itself (АО \"Янтарьэнерго\", ПАО \"Россети Центр\", ПАО \"Россети Центр и Приволжье\"/\"МРСК Центра и Приволжья\", ОАО/ПАО \"МРСК Центра\", ПАО \"Россети\"/\"Российские сети\", ПАО \"Россети Урал\", ПАО \"Россети Северо-Запад\", ПАО \"Россети Волга\"/\"МРСК Волги\", ПАО \"МРСК Северо-Запада\", ПАО \"Россети Юг\", ПАО \"Россети Сибирь\", ПАО \"МОЭСК\", ПАО \"Ленэнерго\", АО \"ЕЭСК\") equal Utilities/Utilities/Electric Utilities; ПАО \"ЭЛ5-Энерго\" (a generating, not grid, company, formerly Enel Russia) equal Utilities/Utilities/Independent Power and Renewable Electricity Producers; ООО \"АйТи Энерджи Сервис\" (Rosseti group's IT-services subsidiary, OKVED 62.02 computer-technology consulting, managed by АО \"Россети Цифра\", confirmed by web research this round) equal Information Technology/Software & Services/IT Services; АО \"ЭНИН\" (Энергетический институт им. Г.М. Кржижановского, a power-engineering research institute, confirmed by web research this round) equal Industrials/Commercial & Professional Services/Professional Services, by the same precedent already used in FEES round 3 for a comparable power-sector R&D institute (АО \"НТЦ ФСК ЕЭС\"); АО \"ВОЛС ВЛ\" (fiber-optic telecommunications-infrastructure operator on power-line towers, since 2022 branded АО \"Россети Цифра\", confirmed by web research this round) equal Communication Services/Telecommunication Services/Diversified Telecommunication Services. Set sector/industry_group/industry to null with justification for: the Вооруженные Силы РФ (military service, not a commercial organization); non-profit industry/business associations (НКО \"Ассоциация профессиональных инвесторов\", НП \"Ассоциация профессиональных инвесторов\", Ассоциация развития технологий систем накопления электроэнергии, Ассоциация организаций цифрового развития отрасли \"Цифровая энергетика\", Ассоциация ТЭК \"Российский Национальный Комитет Мирового Энергетического Совета\", РСПП, НП \"Центр развития корпоративных отношений и разрешения экономических споров\") — the same treatment already applied to comparable associations in other processed tickers such as CHMF/World Steel Association and FEES/Ассоциация Цифровая энергетика; ООО \"Инфраструктурные Инвестиции-3\" (a Rosseti-Centre-and-Volga-group investment SPV registered under the generic catch-all OKVED 82.99 'business support services not elsewhere classified', per this round's web research across several independent Russian company-registry aggregators — too generic to support a specific GICS bucket); and ППК \"ВСК\" (Военно-строительная компания, a non-commercial public-law company subordinate to the Ministry of Defence performing state-funded defence construction, confirmed by web research this round — treated as a non-GICS-classifiable governmental/non-commercial body, by the same principle already used in FEES round 2 for ministries and other government bodies, rather than defaulted into Construction & Engineering without support). (4) qualification_degree: added to every education and degrees entry for all 14 people, using only the ten allowed enum values. Explicit qualifications named in the source were mapped directly: 'бакалавр'/'бакалавр экономики' to Bachelor's degree, 'магистр менеджмента' to Master's degree, 'доктор экономических наук' to Doctoral degree (per the project-wide convention that Russian doktor/kandidat nauk degrees map to Doctoral degree), 'переподготовка'/'профессиональная переподготовка' to Professional certification. All other education entries phrased in the classic pre-Bologna Russian 'специальность' + named qualification pattern (e.g. 'юрист', 'экономист', 'инженер-экономист', 'инженер-электрик', 'менеджер-экономист', 'офицер пограничных войск', 'экономист-менеджер') were inferred as Specialist degree with high confidence, consistent with the identical project-wide convention already applied to FEES, CHMF, AFLT, AKRN, AQUA and CIAN entries phrased the same way (5-year Soviet/Russian institute, academy and university programmes graduating via a named специальность, rather than a bakalavriat/magistratura direction, issued a diplom spetsialista); this includes the one entry recorded at an Italian institution (Логаткин А. В., Bocconi University) because the official source itself describes the specialty and qualification using standard Russian state-classifier wording ('экономика и управление на предприятии (по отраслям)' / 'экономист-менеджер'), and the Aleshin А. Г. second-higher-education entry at the Volga-Vyatka public-service academy, by the same lower-confidence-but-still-tagged reasoning already used for the comparable Novak А. В. second-education entry in FEES round 2. Kazakov А. И.'s 1971 Moscow Engineering-Economics Institute entry (qualification 'инженер-экономист') was likewise tagged Specialist degree, consistent with how a diplom inzhenera/inzhenera-ekonomista from a 5-year Soviet institute programme is treated project-wide. (5) University-name normalization: institutions with an existing exact or cosmetic-only-difference match in university_names.json (Северо-Западная академия государственной службы; Ивановский государственный энергетический университет имени В.И. Ленина; Санкт-Петербургский Гуманитарный университет профсоюзов; Финансовая академия при Правительстве Российской Федерации, twice; Государственный университет — Высшая школа экономики, twice; Universita commerciale Luigi Bocconi -> Bocconi University; Нижегородский государственный технический университет; Государственный технический университет им. Д. Ф. Устинова) were rewritten to their canonical forms; the last two omit only a namesake suffix/branding clause from an otherwise uniquely-identifying base name and were normalized directly, though also logged to new_institutions_found for completeness so the alias list can be enriched. Seven institutions had no existing alias at all and required a best-supported candidate canonical name from this round's own research, each logged to new_institutions_found with its raw string, candidate name and reasoning: Алма-Атинское высшее пограничное командное училище им. Ф. Э. Дзержинского (kept as-is, no confirmed post-Soviet successor found); Калининградский государственный университет (-> Балтийский федеральный университет имени Иммануила Канта, its verified 2010 renamed successor, distinct from the already-listed Калининградский государственный технический университет); Волго-Вятская академия государственной службы (-> Российская академия народного хозяйства и государственной службы при Президенте РФ, by analogy with the already-listed sibling Северо-Западная академия государственной службы alias for the same RANEPA merger); Дальневосточный ордена Трудового Красного Знамени политехнический институт им. В. В. Куйбышева (-> Дальневосточный федеральный университет, its verified merger successor, by analogy with the other DVFU predecessor-name aliases already listed); Самарская государственная экономическая академия (-> Самарский государственный экономический университет, its verified 2010 renamed successor); Институт международного права и экономики им. А. С. Грибоедова (kept as-is, no clearly recognized single successor found); Московский инженерно-экономический институт им. С. Орджоникидзе (-> Государственный университет управления, its verified 1930-1998 renaming chain, of which two later names are already listed as aliases of this same canonical key but not this earliest name). (6) Structural check: top-level and per-person key sets are unchanged from the established schema aside from the fields required by this task — company-level sector/industry_group/industry and new_institutions_found; per-professional_experience-entry sector/industry_group/industry; per-education-and-degrees-entry qualification_degree; education/degrees/professional_experience were restructured from plain strings into objects (a format conversion, not a fact change) to accommodate these required fields, matching the object-based schema already used by other processed tickers including the literal-same-CEO sibling ticker MRKP. No key was renamed or removed, and no previously confirmed fact was deleted or overwritten. Self-check performed: every qualification_degree value in this file is in the ten-value allowed list; every sector/industry_group/industry triple in this file is either an exact row copied character-for-character from gics_taxonomy.json or all-null with a justification documented above; every institution string in this file either matches an existing canonical entry in university_names.json or is logged in new_institutions_found with a raw string and a reasoned candidate name. || MASS DATA-LOSS REPAIR (2026-07-30): restored 14 shortened person notes, 0 shortened experience descriptions, 0 shortened education descriptions, 4 missing person-level sources, and 0 missing experience-level sources using git HEAD (commit 03bfe9f, 2026-07-20) as the reliable baseline. Nothing else in this file was touched. || MASS DATA-LOSS REPAIR ADDENDUM (2026-07-30, found during this quality pass): the repair above checked only person-level notes, description length and source citations, and its own self-check undercounted the damage — relative to the same git baseline (commit 03bfe9f) this file had also separately lost: (a) the entire top-level new_institutions_found array (9 logged institutions); (b) every education entry's institution/year/field/qualification fields (description text survived, but the parsed fields were nulled); (c) every professional_experience entry's organization/role/start_year/end_year fields (nulled the same way); (d) two whole professional_experience entries dropped outright — Терников С. А.'s round-2-confirmed ПАО \"Россети Центр и Приволжье\" IR-service entry, and one of Саух М. М.'s two GICS-split entries (АО \"ЕЭСК\" / ООО \"АйТи Энерджи Сервис\"), which also left Саух's remaining \"МРСК Центра, первое избрание 15.06.2012\" entry mistagged Information Technology/Software & Services/IT Services instead of Utilities/Utilities/Electric Utilities. All of this has been restored from git commit 03bfe9f before any further edits this round, per instructions; no fact was invented, only previously-confirmed round-2 content was brought back and merged with the repair note above. || Round 3 (quality_pass_round1, 2026-07-30): full corpus of 14 people re-checked against all 28 research_notes/MRKC/*.md round-1/round-2 files. (1) Desync check: aside from the mass-loss restoration documented in the addendum above (a bulk simple-omission case — notes/round-2 already stated these institution/year/organization/role facts and the JSON simply no longer carried them), no further simple-omission desyncs were found; every remaining JSON field matches what its cited research-notes round confirmed. (2) Genuine inconsistencies: none found. No research-notes round-2 file for any of the 14 MRKC people contains an unresolved \"Contradictions\" entry describing two differing values for the same field, and no field in the restored JSON conflicts with its own round-1/round-2 notes; the only recorded \"conflict\" pattern project-wide (CSV/MarketScreener listing a person as a current board member vs. the local 2024 annual report showing historical status) is already correctly resolved and explained in each person's notes field, not a genuine unresolved value conflict. (3) GICS label correctness: every non-null sector/industry_group/industry triple in this file (Electric Utilities for all Rosseti-group grid entities; Independent Power and Renewable Electricity Producers for ПАО \"ЭЛ5-Энерго\"; IT Services for ООО \"АйТи Энерджи Сервис\"; Professional Services for АО \"ЭНИН\"; Diversified Telecommunication Services for АО \"ВОЛС ВЛ\") was re-checked character-for-character against gics_taxonomy.json and against each named organization's actual primary business described in the corresponding round-2 notes file; all triples are exact taxonomy rows and match the organizations' real business (grid operator, generator, IT subsidiary, R&D institute, fiber-telecom infrastructure operator respectively) — no relabeling was needed. (4) Honest-gap follow-up: two people still have a field null because a previous round explicitly said \"insufficient reliable source\" — Земсков А. Ю. (education empty, professional_experience limited to one weak MarketScreener line) and Терников С. А. (education empty). One bounded fresh-query attempt was made for each this round, using angles not already exhausted in round 1/2 (which had used Yandex/Bing/DuckDuckGo search-result pages, the mrsk-1.ru/mrsk-cp.ru official sites, and a full-text PDF check of RossetiCentre_BookOfAchievements_2022-2023.pdf): for Земсков А. Ю., WebSearch was unavailable (session budget exhausted, consistent with round 2); WebFetch was tried on ar2023.mrsk-cp.ru/corporate-governance/board-report (no hit), a Mojeek search-result page (HTTP 403), a list-org.com company-registry name search (0 organizations found), and www.mrsk-cp.ru/investors/contacts/ (ECONNREFUSED) — no new fact found, education and the broader career history remain unconfirmed and are left null. For Терников С. А., WebFetch was tried on an rbc.ru tag page (HTTP 403), a Mojeek search-result page (HTTP 403), and https://www.rosseti-centr.ru/press-center/news/ (DNS timeout) — his education remains unconfirmed and is left null; however, fetching the current mrsk-1.ru/investors/contacts/ page (a fresh angle not tried in round 1/2, which had only used the archived/annual-report contact pages) surfaced one incidental, directly-verified new fact outside the scope of the education gap: the page currently lists Толкачева Наталья Владимировна as \"Начальник отдела по взаимодействию с акционерами\" / IR contact, with no mention of Терников — indicating his IR-service tenure may have since ended, though the transition date is not disclosed anywhere fetched this round. This is logged here for a future round to investigate and possibly add a new professional_experience entry with an end-date once a source states one; it was deliberately NOT added to Терников's professional_experience array in this round because education (the actual flagged gap) was not resolved by it and inventing a succession date was out of scope for a bounded single-attempt gap-fill. No JSON field was invented; both gaps remain documented as still-unresolved. Full detail for all four points in research_notes/MRKC/quality_pass_round1_20260730.md."
+}

@@ -1,0 +1,1220 @@
+{
+  "company_name": "ПАО «Россети Урал»",
+  "company_ticker": "MRKU",
+  "ceo": {
+    "name": "Дмитрий Александрович Воденников",
+    "current_role": "Генеральный директор, председатель Правления, член Совета директоров",
+    "company_name": "ПАО «Россети Урал»",
+    "education": [
+      {
+        "institution": "Курганский государственный университет",
+        "field": "Автоматизация технологических процессов и производств",
+        "year": 1996,
+        "qualification_degree": "Specialist degree"
+      },
+      {
+        "institution": "Российский университет дружбы народов имени Патриса Лумумбы",
+        "field": "Юриспруденция",
+        "year": 2021,
+        "qualification_degree": null
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "ПАО «Россети Урал»",
+        "role": "Генеральный директор, председатель Правления",
+        "start_year": 2024,
+        "end_year": null,
+        "description": "Избран генеральным директором с 22.11.2024; председатель Правления с 22.11.2024.",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Electric Utilities"
+      },
+      {
+        "organization": "Филиал ПАО «Россети Московский регион» - Московские кабельные сети",
+        "role": "Директор филиала",
+        "start_year": 2020,
+        "end_year": 2024,
+        "description": null,
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Electric Utilities"
+      },
+      {
+        "organization": "ПАО «ФСК ЕЭС»",
+        "role": "Заместитель Председателя Правления - Главный инженер, член Правления",
+        "start_year": 2017,
+        "end_year": 2020,
+        "description": null,
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Electric Utilities"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_Отчеты_2024/MRKU/Годовой отчет_Россети Урал_2024_final.docx",
+        "title": "Годовой отчет ПАО «Россети Урал» за 2024 год",
+        "fact": "Стр. 139, раздел 4.7: полномочия В.А. Рябушева как и.о. генерального директора прекращены 21.11.2024; с 22.11.2024 генеральным директором избран Д.А. Воденников; указаны образование и опыт работы за последние 5 лет."
+      },
+      {
+        "url": "https://report2024.rosseti-ural.ru/ispolnitelnye-organy-obshhestva/",
+        "title": "Годовой отчет ПАО «Россети Урал» 2024 — Исполнительные органы Общества",
+        "fact": "Официальный онлайн-отчет повторяет сведения о Д.А. Воденникове: генеральный директор, председатель Правления с 22.11.2024, образование и опыт в Россети Московский регион и ФСК ЕЭС."
+      }
+    ],
+    "notes": "Связь с компанией и статус CEO в 2024 году подтверждены локальным и официальным онлайн-годовым отчетом. Однофамилец Дмитрий Борисович Воденников (поэт) исключен по отчеству, отрасли и отсутствию связи с электросетевыми компаниями. РАУНД 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution-normalization, per REFINEMENT.md): образование и опыт не пересматривались (уже подтверждены на раунде 1). Добавлены GICS-теги на все professional_experience (Utilities/Utilities/Electric Utilities) и на компанию в целом. education[0] (Курганский ГУ, 1996) получил qualification_degree=\"Specialist degree\" (эпоха до Болонской системы, высокая уверенность); education[1] (РУДН, 2021) оставлен null -- второе высшее образование современной эпохи, уровень (бакалавриат/специалитет) источником не назван. Институт РУДН нормализован до \"Российский университет дружбы народов имени Патриса Лумумбы\". WebSearch-бюджет исчерпан (200/200) до начала этого раунда; rosseti.ru/rosseti-ural.ru (апекс/www) недоступны в этой сессии (ECONNREFUSED), report2024.rosseti-ural.ru доступен и повторяет тот же текст без новых деталей."
+  },
+  "tmt": [
+    {
+      "name": "Даниил Владимирович Краинский",
+      "current_role": "Председатель совета директоров ПАО «Россети Урал»",
+      "company_name": "ПАО «Россети Урал»",
+      "education": [
+        {
+          "institution": "Московский государственный юридический университет имени О.Е. Кутафина (МГЮА)",
+          "field": "Юриспруденция",
+          "year": 2002,
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Россети Урал»",
+          "role": "Председатель Совета директоров",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "В годовом отчете указано, что с июня 2021 года и до даты утверждения отчета он является председателем Совета директоров.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО «Россети»",
+          "role": "Заместитель Генерального директора по правовому обеспечению, член Правления",
+          "start_year": null,
+          "end_year": null,
+          "description": "Основное место работы по годовому отчету ПАО «Россети Урал» за 2024 год.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО «Россети Ленэнерго»",
+          "role": "Советник генерального директора; член Совета директоров; член Правления",
+          "start_year": 2018,
+          "end_year": null,
+          "description": "Годовой отчет указывает несколько ролей в ПАО «Россети Ленэнерго» с 2018/2019 годов.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKU/Годовой отчет_Россети Урал_2024_final.docx",
+          "title": "Годовой отчет ПАО «Россети Урал» за 2024 год",
+          "fact": "Стр. 117-118, раздел 4.4: Д.В. Краинский указан председателем Совета директоров; приведены год рождения 1979, образование МГЮА, основное место работы в ПАО «Россети» и опыт участия в органах управления."
+        },
+        {
+          "url": "https://report2024.rosseti-ural.ru/otchet-soveta-direktorov/",
+          "title": "Годовой отчет ПАО «Россети Урал» 2024 — Отчет Совета директоров",
+          "fact": "Официальный онлайн-отчет подтверждает председательство Д.В. Краинского с июня 2021 года и биографические сведения."
+        }
+      ],
+      "notes": "Данные достаточны: официальный локальный и онлайн-отчет дают идентичный профиль. Научные публикации, патенты и h-index для нужного корпоративного профиля не подтверждены. РАУНД 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution-normalization, per REFINEMENT.md): образование и опыт не пересматривались. Добавлены GICS-теги (Utilities/Utilities/Electric Utilities) на все три записи опыта работы. education[0] (МГЮА, 2002) получил qualification_degree=\"Specialist degree\" (эпоха до Болонской системы). Институт нормализован до \"Московский государственный юридический университет имени О.Е. Кутафина (МГЮА)\"."
+    },
+    {
+      "name": "Елена Викторовна Андреева",
+      "current_role": "Член совета директоров",
+      "company_name": "ПАО «Россети Урал»",
+      "education": [
+        {
+          "institution": "Ивановский государственный энергетический университет имени В.И. Ленина",
+          "field": "Экономика и управление на предприятиях энергетики",
+          "year": 1997,
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Россети Урал»",
+          "role": "Член Совета директоров, неисполнительный директор",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Избрана в Совет директоров годовым Общим собранием акционеров 31.05.2024.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО «Россети»",
+          "role": "Заместитель Генерального директора по реализации услуг и транспорту электроэнергии",
+          "start_year": null,
+          "end_year": null,
+          "description": "Основное место работы по годовому отчету ПАО «Россети Урал» за 2024 год.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО «Мосэнерго»",
+          "role": "Заместитель генерального директора по сбыту",
+          "start_year": 2008,
+          "end_year": 2020,
+          "description": null,
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО «Газпром энергохолдинг»",
+          "role": "Заместитель генерального директора по региональному развитию",
+          "start_year": 2014,
+          "end_year": 2020,
+          "description": null,
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKU/Годовой отчет_Россети Урал_2024_final.docx",
+          "title": "Годовой отчет ПАО «Россети Урал» за 2024 год",
+          "fact": "Стр. 117-123, раздел 4.4: Е.В. Андреева указана членом Совета директоров; приведены образование ИГЭУ, основное место работы в ПАО «Россети» и опыт в Мосэнерго/Газпром энергохолдинг."
+        },
+        {
+          "url": "https://report2024.rosseti-ural.ru/otchet-soveta-direktorov/",
+          "title": "Годовой отчет ПАО «Россети Урал» 2024 — Отчет Совета директоров",
+          "fact": "Официальный онлайн-отчет подтверждает членство Е.В. Андреевой в Совете директоров и биографические сведения."
+        }
+      ],
+      "notes": "Основные однофамильцы отсечены по связке ПАО «Россети», энергетика и совет директоров. Публикации, патенты и h-index не подтверждены. РАУНД 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution-normalization, per REFINEMENT.md): образование и опыт не пересматривались. education[0] (ИГЭУ, 1997) получил qualification_degree=\"Specialist degree\". GICS: Россети Урал/Россети -> Electric Utilities; Мосэнерго и Газпром энергохолдинг -> Independent Power and Renewable Electricity Producers (генерация, не сети; классификация согласована с уже принятой в этом датасете для Газпром энергохолдинг, см. IRAO_person_info.json). Институт ИГЭУ нормализован до \"Ивановский государственный энергетический университет имени В.И. Ленина\"."
+    },
+    {
+      "name": "Михаил Александрович Бычко",
+      "current_role": "Член совета директоров",
+      "company_name": "ПАО «Россети Урал»",
+      "education": [
+        {
+          "institution": "Национальный исследовательский университет «МЭИ»",
+          "field": null,
+          "year": 1994,
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+          "field": null,
+          "year": 2004,
+          "qualification_degree": "Executive education"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Россети Урал»",
+          "role": "Член Совета директоров, неисполнительный директор",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Избран в Совет директоров годовым Общим собранием акционеров 31.05.2024.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО «Россети»",
+          "role": "Начальник департамента капитального строительства",
+          "start_year": null,
+          "end_year": null,
+          "description": "Основное место работы по годовому отчету ПАО «Россети Урал» за 2024 год.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО «Россети»",
+          "role": "Директор департамента капитального строительства",
+          "start_year": 2013,
+          "end_year": 2020,
+          "description": null,
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО «Россети»",
+          "role": "Начальник департамента проектно-сметного контроля",
+          "start_year": 2020,
+          "end_year": 2022,
+          "description": null,
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKU/Годовой отчет_Россети Урал_2024_final.docx",
+          "title": "Годовой отчет ПАО «Россети Урал» за 2024 год",
+          "fact": "Стр. 117-126, раздел 4.4: М.А. Бычко указан членом Совета директоров; приведены образование МЭИ/АНХ и опыт в ПАО «Россети»."
+        },
+        {
+          "url": "https://report2024.rosseti-ural.ru/otchet-soveta-direktorov/",
+          "title": "Годовой отчет ПАО «Россети Урал» 2024 — Отчет Совета директоров",
+          "fact": "Официальный онлайн-отчет подтверждает профиль М.А. Бычко как члена Совета директоров."
+        }
+      ],
+      "notes": "Связь с компанией и профиль подтверждены годовым отчетом. Научные данные не подтверждены. РАУНД 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution-normalization, per REFINEMENT.md): целевой доисследовательский проход по education[].field (оба null) -- повторно прочитана TABLE 92 годового отчета (тот же первичный источник, другой раздел документа); специальность ни для МЭИ, ни для АНХ в первичном источнике не названа, поле остаётся null. qualification_degree всё же присвоен по эпохе/институту с высокой уверенностью: МЭИ 1994 -> \"Specialist degree\"; АНХ 2004 (без указанной специальности) -> \"Executive education\" (по аналогии с явно названной \"Президентской программой\" для другого члена того же совета директоров в этом же отчёте). GICS: все записи опыта -> Electric Utilities. Институты нормализованы: МЭИ -> \"Национальный исследовательский университет «МЭИ»\"; АНХ -> \"Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации\". WebSearch-бюджет исчерпан (200/200); rosseti.ru/rosseti-ural.ru апекс недоступны в этой сессии."
+    },
+    {
+      "name": "Марина Александровна Лаврова",
+      "current_role": "Член совета директоров",
+      "company_name": "ПАО «Россети Урал»",
+      "education": [
+        {
+          "institution": "Государственный университет управления",
+          "field": null,
+          "year": 2004,
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Финансовый университет при Правительстве Российской Федерации",
+          "field": null,
+          "year": 2008,
+          "qualification_degree": null
+        },
+        {
+          "institution": "Московский государственный институт международных отношений (университет) Министерства иностранных дел Российской Федерации",
+          "field": null,
+          "year": 2008,
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Россети Урал»",
+          "role": "Член Совета директоров, неисполнительный директор",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "В составе Совета директоров с 31.05.2024.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО «Россети»",
+          "role": "Заместитель начальника департамента экономики",
+          "start_year": null,
+          "end_year": null,
+          "description": "Основное место работы по годовому отчету ПАО «Россети Урал» за 2024 год.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО «Россети»",
+          "role": "Заместитель директора Департамента экономики - начальник Управления бизнес-планирования ДЗО; начальник управления экономики ДЗО департамента экономического планирования и бюджетирования",
+          "start_year": 2013,
+          "end_year": null,
+          "description": "Опыт участия в органах управления и контроля по годовому отчету.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKU/Годовой отчет_Россети Урал_2024_final.docx",
+          "title": "Годовой отчет ПАО «Россети Урал» за 2024 год",
+          "fact": "Стр. 131-132, раздел 4.4: М.А. Лаврова указана членом Совета директоров; приведены год рождения 1982, образование и работа в ПАО «Россети»."
+        },
+        {
+          "url": "https://report2024.rosseti-ural.ru/otchet-soveta-direktorov/",
+          "title": "Годовой отчет ПАО «Россети Урал» 2024 — Отчет Совета директоров",
+          "fact": "Официальный онлайн-отчет подтверждает профиль М.А. Лавровой."
+        }
+      ],
+      "notes": "Образование подтверждено без указания специальностей/квалификаций; они не достраивались. РАУНД 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution-normalization, per REFINEMENT.md): целевой доисследовательский проход по всем трём education[].field (все null) -- повторно прочитана TABLE 97 годового отчета (тот же первичный источник); специальность ни для одного из трёх вузов в первичном источнике не названа, поля остаются null. qualification_degree: ГУУ 2004 -> \"Specialist degree\" (возраст/хронология соответствуют первому высшему образованию до Болонской системы); Финансовая академия 2008 и МГИМО 2008 (один год!) оставлены null -- невозможно определить, какая из двух программ (если хоть одна) была полной многолетней степенью. GICS: обе записи \"ПАО «Россети»\"/\"ПАО «Россети Урал»\" -> Electric Utilities. Институты нормализованы: Финансовая академия -> \"Финансовый университет при Правительстве Российской Федерации\"; МГИМО -> полное официальное название с \"Министерства иностранных дел\". WebSearch-бюджет исчерпан (200/200); rosseti.ru/rosseti-ural.ru апекс недоступны в этой сессии."
+    },
+    {
+      "name": "Алексей Александрович Полинов",
+      "current_role": "Член совета директоров",
+      "company_name": "ПАО «Россети Урал»",
+      "education": [
+        {
+          "institution": "Национальный исследовательский Московский государственный строительный университет",
+          "field": "Экономика и управление на предприятиях строительства",
+          "year": 2000,
+          "qualification": "Экономист-менеджер",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат экономических наук",
+          "year": 2004,
+          "field": "Экономика",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Россети»",
+          "role": "Главный советник; врио заместителя Генерального директора по стратегии",
+          "start_year": null,
+          "end_year": null,
+          "description": "Профиль подтвержден годовым отчетом ПАО «Россети Северо-Запад» за 2024 год и официальным профилем ПАО «Россети».",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО «Россети Северо-Запад»",
+          "role": "Член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Подтвержден в составе Совета директоров ПАО «Россети Северо-Запад» в 2024 году.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО «Россети Урал»",
+          "role": "Член Совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "Роль содержится в CSV; в локальном годовом отчете ПАО «Россети Урал» за 2024 год А.А. Полинов не указан в составе Совета директоров на 31.12.2024.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://ar2024rosseti-sz.ru/ru/corporate-governance/board-directors",
+          "title": "Годовой отчет ПАО «Россети Северо-Запад» 2024 — Совет директоров",
+          "fact": "Профиль А.А. Полинова: год рождения 1980, образование МГСУ, кандидат экономических наук, работа в ПАО «Россети» и членство в совете директоров."
+        },
+        {
+          "url": "https://rosseti.ru/company/corporate-governance/governance/polinov-aleksey-aleksandrovich/",
+          "title": "ПАО «Россети» — Полинов Алексей Александрович",
+          "fact": "Официальный профиль ПАО «Россети» подтверждает корпоративную идентичность А.А. Полинова."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKU/Годовой отчет_Россети Урал_2024_final.docx",
+          "title": "Годовой отчет ПАО «Россети Урал» за 2024 год",
+          "fact": "Стр. 117-132: в действующем на 31.12.2024 составе Совета директоров ПАО «Россети Урал» А.А. Полинов не указан; это зафиксировано как расхождение с CSV."
+        },
+        {
+          "url": "https://search.rsl.ru/ru/record/01002730610",
+          "title": "Российская государственная библиотека — библиографическая запись диссертации А.А. Полинова",
+          "fact": "Автор «Полинов, Алексей Александрович»; диссертация «Формирование экономического механизма регулирования незавершенного строительства на муниципальном уровне», кандидат экономических наук, специальность 08.00.05, место защиты — Московский государственный строительный университет, 2004 год (тот же вуз, где А.А. Полинов получил специалитет в 2000 году)."
+        },
+        {
+          "url": "https://www.dissercat.com/content/formirovanie-ekonomicheskogo-mekhanizma-regulirovaniya-nezavershennogo-stroitelstva-na-munit",
+          "title": "dissercat.com — автореферат диссертации А.А. Полинова",
+          "fact": "Независимо подтверждает те же библиографические данные: защита в Москве в 2004 году, специальность 08.00.05, 188 страниц; тема — регулирование незавершённого строительства на муниципальном уровне, тематически совпадает со строительно-экономическим образованием А.А. Полинова (МГСУ, 2000, «экономика и управление на предприятиях строительства»)."
+        }
+      ],
+      "notes": "CSV относит А.А. Полинова к совету директоров MRKU, но локальный отчет 2024 этого не подтверждает. Биографические факты взяты из профильного отчета другой компании группы «Россети», где личность надежно совпадает по ФИО и работодателю. РАУНД 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution-normalization, per REFINEMENT.md): целевой доисследовательский проход по degrees[0].year (null) -- повторно проверен ar2024rosseti-sz.ru, год защиты кандидатской степени по-прежнему не раскрыт ни в одном источнике, поле остаётся null. qualification_degree: education[0] -> \"Specialist degree\" (явная квалификация \"экономист-менеджер\" в источнике -- прямой признак специалитета); degrees[0] \"Кандидат экономических наук\" -> \"Doctoral degree\" (общепроектная конвенция для степени кандидата наук). GICS: Россети/Россети Северо-Запад/Россети Урал -> все Electric Utilities. Институт нормализован до \"Национальный исследовательский Московский государственный строительный университет\". Ранее зафиксированное расхождение CSV/годового отчёта по составу совета директоров MRKU на 31.12.2024 не пересматривалось (уже объяснено на раунде 1). РАУНД 3 (quality pass, 2026-07-30, honest-gap follow-up): bounded fresh-query попытка по degrees[0].year дала результат -- независимо в Российской государственной библиотеке (search.rsl.ru, прямой fetch) и на dissercat.com (прямой fetch) найдена одна и та же библиографическая запись диссертации «Полинов, Алексей Александрович», защищённой в 2004 году в Московском государственном строительном университете -- том же вузе, где А.А. Полинов получил специалитет в 2000 году; тематическое (строительная экономика/регулирование незавершённого строительства) и институциональное (тот же вуз) совпадение снимает риск однофамильца при обычной для практики траектории \"специалитет -> аспирантура в том же вузе\". degrees[0].year проставлен как 2004 с указанием обоих независимых источников. Отдельно замечено (не является полем схемы и не влияет на JSON): попытка перепроверить rosseti.ru/company/corporate-governance/governance/polinov-aleksey-aleksandrovich/ была недоступна напрямую в этой сессии (ECONNREFUSED); ранее найденный в поисковой выдаче фрагмент этой же страницы указывал год рождения 9 августа 1978, тогда как раунд 1 зафиксировал 1980 со слов ar2024rosseti-sz.ru -- поскольку год рождения не хранится в схеме этого датасета, расхождение не разрешалось и не влияет на данные, но фиксируется здесь для прозрачности (по аналогии с прецедентом Санина в round_2)."
+    },
+    {
+      "name": "Мария Геннадьевна Тихонова",
+      "current_role": "Член совета директоров",
+      "company_name": "ПАО «Россети Урал»",
+      "education": [
+        {
+          "institution": "Волго-Вятская академия государственной службы",
+          "field": "Государственное и муниципальное управление",
+          "year": 2002,
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+          "field": "Государственное управление экономическим развитием",
+          "year": 2005,
+          "qualification_degree": "Executive education"
+        },
+        {
+          "institution": "Национальный исследовательский университет «Высшая школа экономики»",
+          "field": "Финансы",
+          "year": 2008,
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат экономических наук",
+          "year": null,
+          "field": "Экономика",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Россети Урал»",
+          "role": "Член Совета директоров, неисполнительный директор",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "В составе Совета директоров с 03.06.2021; в 2024 году избрана действующим составом.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО «Россети»",
+          "role": "Заместитель Генерального директора по корпоративному управлению",
+          "start_year": null,
+          "end_year": null,
+          "description": "Основное место работы по годовому отчету.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО «Россети Сибирь»",
+          "role": "Член Совета директоров, Председатель Совета директоров",
+          "start_year": 2021,
+          "end_year": null,
+          "description": null,
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО «Россети Томск»",
+          "role": "Член Совета директоров, Председатель Совета директоров",
+          "start_year": 2021,
+          "end_year": null,
+          "description": null,
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKU/Годовой отчет_Россети Урал_2024_final.docx",
+          "title": "Годовой отчет ПАО «Россети Урал» за 2024 год",
+          "fact": "Стр. 126-131, раздел 4.4: М.Г. Тихонова указана членом Совета директоров; приведены образование, степень кандидата экономических наук, должность в ПАО «Россети» и участие в органах управления."
+        },
+        {
+          "url": "https://report2024.rosseti-ural.ru/otchet-soveta-direktorov/",
+          "title": "Годовой отчет ПАО «Россети Урал» 2024 — Отчет Совета директоров",
+          "fact": "Официальный онлайн-отчет подтверждает профиль М.Г. Тихоновой."
+        }
+      ],
+      "notes": "Степень кандидата экономических наук подтверждена корпоративным отчетом; публикации, патенты и h-index не подтверждены. РАУНД 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution-normalization, per REFINEMENT.md): целевой доисследовательский проход по degrees[0].year (null) -- повторно прочитана TABLE 95 годового отчета (тот же первичный источник, с более полными факультетами/специальностями), год и институт защиты кандидатской по-прежнему не раскрыты, поле остаётся null. qualification_degree: education[0] (Волго-Вятская академия, 2002) -> \"Specialist degree\" (возраст/хронология); education[1] (АНХ, 2005, с названной специальностью) -> \"Executive education\" (по аналогии с параллельной записью М.А. Бычко в этом же отчёте); education[2] (ВШЭ, 2008, Финансы) оставлен null -- нет явного признака уровня, несмотря на правдоподобную гипотезу магистратуры (сохранена осторожность по прецеденту LSNGP_person_info.json); degrees[0] -> \"Doctoral degree\". GICS: Россети/Россети Урал/Россети Сибирь/Россети Томск -> все Electric Utilities. Институты нормализованы: АНХ -> полное официальное название РАНХиГС; ВШЭ -> \"Национальный исследовательский университет «Высшая школа экономики»\". \"Волго-Вятская академия государственной службы\" не найдена в university_names.json ни как ключ, ни как вариант -- добавлена в new_institutions_found (реальный исторический вуз, позже влившийся в филиальную сеть РАНХиГС, но на момент обучения 2002 года юридически отдельный от её же записи 2005 года)."
+    },
+    {
+      "name": "Александр Викторович Шевчук",
+      "current_role": "Член совета директоров, независимый директор",
+      "company_name": "ПАО «Россети Урал»",
+      "education": [
+        {
+          "institution": "Финансовый университет при Правительстве Российской Федерации",
+          "field": "Финансы и кредит",
+          "year": 2005,
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Россети Урал»",
+          "role": "Независимый директор",
+          "start_year": 2016,
+          "end_year": null,
+          "description": "В составе Совета директоров с 06.06.2016; признан независимым директором решением Совета директоров 17.07.2024.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "Ассоциация профессиональных инвесторов",
+          "role": "Исполнительный директор",
+          "start_year": null,
+          "end_year": null,
+          "description": "Основное место работы по годовому отчету.",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ООО «Биннофарм Групп»",
+          "role": "Член Совета директоров",
+          "start_year": 2021,
+          "end_year": 2023,
+          "description": null,
+          "sector": "Health Care",
+          "industry_group": "Pharmaceuticals, Biotechnology & Life Sciences",
+          "industry": "Pharmaceuticals"
+        },
+        {
+          "organization": "ПАО «Детский мир»",
+          "role": "Член Совета директоров",
+          "start_year": 2018,
+          "end_year": 2023,
+          "description": null,
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Discretionary Distribution & Retail (New Name)",
+          "industry": "Specialty Retail"
+        },
+        {
+          "organization": "ПАО «Россети Центр»",
+          "role": "Член Совета директоров",
+          "start_year": 2015,
+          "end_year": 2022,
+          "description": null,
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKU/Годовой отчет_Россети Урал_2024_final.docx",
+          "title": "Годовой отчет ПАО «Россети Урал» за 2024 год",
+          "fact": "Стр. 131-132, раздел 4.4: А.В. Шевчук указан независимым директором; приведены образование, основное место работы и опыт в советах директоров."
+        },
+        {
+          "url": "https://report2024.rosseti-ural.ru/otchet-soveta-direktorov/",
+          "title": "Годовой отчет ПАО «Россети Урал» 2024 — Отчет Совета директоров",
+          "fact": "Официальный онлайн-отчет подтверждает профиль А.В. Шевчука и статус независимого директора."
+        }
+      ],
+      "notes": "Открытые однофамильцы в инвестиционной и политической тематике не смешивались; использована связка MRKU + Ассоциация профессиональных инвесторов. РАУНД 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution-normalization, per REFINEMENT.md): образование и опыт не пересматривались. education[0] (Финансовая академия, 2005, \"Финансы и кредит\") -> \"Specialist degree\" (специальность \"Финансы и кредит\" -- классический код специалитета, отличный от бакалаврского направления \"Экономика\"). GICS: Россети Урал/Россети Центр -> Electric Utilities; Биннофарм Групп -> Health Care/Pharmaceuticals, Biotechnology & Life Sciences/Pharmaceuticals; Детский мир -> Consumer Discretionary/Consumer Discretionary Distribution & Retail (New Name)/Specialty Retail; Ассоциация профессиональных инвесторов оставлена null/null/null -- это некоммерческое отраслевое объединение, а не компания с классифицируемым по GICS основным видом деятельности. Институт нормализован до \"Финансовый университет при Правительстве Российской Федерации\"."
+    },
+    {
+      "name": "Павел Валерьевич Родин",
+      "current_role": "Член совета директоров",
+      "company_name": "ПАО «Россети Урал»",
+      "education": [
+        {
+          "institution": "Уральский государственный технический университет",
+          "field": "Тепловые электрические станции",
+          "year": null,
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Т Плюс»",
+          "role": "Директор Свердловского филиала",
+          "start_year": 2025,
+          "end_year": null,
+          "description": "Назначение директором филиала подтверждено отраслевыми публикациями; этот факт не переносится на 2024 год.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "Свердловский филиал ПАО «Т Плюс»",
+          "role": "Главный инженер",
+          "start_year": null,
+          "end_year": 2025,
+          "description": "До назначения директором филиала занимал должность главного инженера.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ОАО «Свердловэнерго»",
+          "role": "Начало карьеры в отрасли",
+          "start_year": 1998,
+          "end_year": null,
+          "description": "По отраслевой публикации начал работу в энергетике в 1998 году.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО «Россети Урал»",
+          "role": "Член Совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "Роль содержится в CSV; в локальном годовом отчете ПАО «Россети Урал» за 2024 год П.В. Родин не указан в составе Совета директоров на 31.12.2024.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.bigpowernews.ru/news/document120698.phtml",
+          "title": "BigpowerNews — Павел Родин назначен директором Свердловского филиала ПАО «Т Плюс»",
+          "fact": "Публикация указывает, что П.В. Родин окончил Уральский государственный технический университет по специальности «Тепловые электрические станции», начал карьеру в 1998 году в ОАО «Свердловэнерго» и был главным инженером Свердловского филиала ПАО «Т Плюс»."
+        },
+        {
+          "url": "https://www.tplusgroup.ru/press/news/single/pavel-rodin-naznachen-direktorom-sverdlovskogo-filial/",
+          "title": "ПАО «Т Плюс» — Павел Родин назначен директором Свердловского филиала",
+          "fact": "Официальная публикация ПАО «Т Плюс» подтверждает назначение П.В. Родина директором Свердловского филиала в 2025 году."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKU/Годовой отчет_Россети Урал_2024_final.docx",
+          "title": "Годовой отчет ПАО «Россети Урал» за 2024 год",
+          "fact": "Стр. 117-132: в действующем на 31.12.2024 составе Совета директоров ПАО «Россети Урал» П.В. Родин не указан; это зафиксировано как расхождение с CSV."
+        }
+      ],
+      "notes": "Найдены академические совпадения по П.В. Родину, включая сведения о докторе технических наук, но PDF/страница не были надежно прочитаны и в JSON степень не включена. Также исключены публикации по дорожному строительству из Брянска как вероятный однофамилец без связи с ПАО «Т Плюс»/MRKU. РАУНД 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution-normalization, per REFINEMENT.md): целевой доисследовательский проход по незакрытой с раунда 1 находке о возможной степени доктора технических наук -- повторно проверен bigpowernews.ru (доступен в этой сессии): упоминания докторской степени не найдено; tplusgroup.ru недоступен (ECONNREFUSED), поэтому вторая round-1 находка не перепроверена. Степень не добавлена, остаётся неподтверждённой (\"prefer null over an unverified guess\"). education[0].year остаётся null (год окончания не раскрыт ни одним источником). qualification_degree: education[0] (\"Тепловые электрические станции\") -> \"Specialist degree\" (классический код специалитета теплоэнергетики, независимо от отсутствующего года). GICS: Т Плюс/Свердловский филиал Т Плюс -> Independent Power and Renewable Electricity Producers (генерация тепла/электроэнергии, не сети); Свердловэнерго -> Electric Utilities (интегрированная региональная энергосистема, прямой предшественник МРСК Урала); Россети Урал -> Electric Utilities. \"Уральский государственный технический университет\" не найден в university_names.json ни как ключ, ни как вариант -- добавлен в new_institutions_found (вероятный исторический предшественник УрФУ, но точная строка не каталогизирована). Расхождение CSV/годового отчёта по составу совета директоров MRKU на 31.12.2024 не пересматривалось (уже объяснено на раунде 1)."
+    },
+    {
+      "name": "Карина Владимировна Дашко",
+      "current_role": "Член совета директоров",
+      "company_name": "ПАО «Россети Урал»",
+      "education": [
+        {
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "field": null,
+          "year": null,
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Т Плюс»",
+          "role": "Директор по корпоративным вопросам; корпоративный секретарь",
+          "start_year": null,
+          "end_year": null,
+          "description": "Роль подтверждена текущим профилем и отчетными материалами ПАО «Т Плюс».",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО «Россети Урал»",
+          "role": "Член Совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "Роль содержится в CSV; в локальном годовом отчете ПАО «Россети Урал» за 2024 год К.В. Дашко не указана в составе Совета директоров на 31.12.2024.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://rosseti-ural.ru/company/controls/bod/",
+          "title": "ПАО «Россети Урал» — Совет директоров",
+          "fact": "Текущий профиль К.В. Дашко на странице Совета директоров указывает год рождения 1966, высшее профессиональное образование и МГУ им. М.В. Ломоносова; страница не подтверждает ее членство в составе Совета директоров на 31.12.2024."
+        },
+        {
+          "url": "https://ar2024.tplusgroup.ru/ru/",
+          "title": "Годовой отчет ПАО «Т Плюс» за 2024 год",
+          "fact": "Отчетные материалы ПАО «Т Плюс» указывают К.В. Дашко в корпоративной функции ПАО «Т Плюс»."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKU/Годовой отчет_Россети Урал_2024_final.docx",
+          "title": "Годовой отчет ПАО «Россети Урал» за 2024 год",
+          "fact": "Стр. 117-132: в действующем на 31.12.2024 составе Совета директоров ПАО «Россети Урал» К.В. Дашко не указана; это зафиксировано как расхождение с CSV."
+        }
+      ],
+      "notes": "Конкретная специальность/год окончания МГУ не найдены. Исключены однофамильцы Анастасия, Анатолий и Валерий Дашко, не связанные с ПАО «Т Плюс» и советами директоров электросетевых компаний. РАУНД 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution-normalization, per REFINEMENT.md): целевой доисследовательский проход по education[0].field/year (оба null) -- источник round 1 (rosseti-ural.ru/company/controls/bod/) недоступен в этой сессии (ECONNREFUSED, включая www-вариант), ar2024.tplusgroup.ru недоступен (ENOTFOUND), web.archive.org недоступен для этого инструмента. Поля остаются null. qualification_degree также null -- нет якорей (ни специальности, ни года, ни квалификационного титула) для уверенного вывода. GICS: Т Плюс -> Independent Power and Renewable Electricity Producers; Россети Урал -> Electric Utilities. Институт нормализован до \"Московский государственный университет имени М.В. Ломоносова\". Расхождение CSV/годового отчёта по составу совета директоров MRKU на 31.12.2024 не пересматривалось (уже объяснено на раунде 1)."
+    },
+    {
+      "name": "Алексей Вячеславович Коптев",
+      "current_role": "Член совета директоров",
+      "company_name": "ПАО «Россети Урал»",
+      "education": [
+        {
+          "institution": "Российский экономический университет имени Г.В. Плеханова",
+          "field": null,
+          "year": null,
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "АО «Комплекспром»",
+          "role": "Директор финансового департамента",
+          "start_year": null,
+          "end_year": null,
+          "description": "Роль подтверждена материалами о кандидатах/профилем текущего Совета директоров.",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Financial Services (New Name)"
+        },
+        {
+          "organization": "ПАО «Россети Урал»",
+          "role": "Член Совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "Роль содержится в CSV; в локальном годовом отчете ПАО «Россети Урал» за 2024 год А.В. Коптев не указан в составе Совета директоров на 31.12.2024.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://rosseti-ural.ru/company/controls/bod/",
+          "title": "ПАО «Россети Урал» — Совет директоров",
+          "fact": "Текущий профиль А.В. Коптева на странице Совета директоров указывает год рождения 1975, высшее образование и МГУ экономики, статистики и информатики; страница не подтверждает его членство в составе Совета директоров на 31.12.2024."
+        },
+        {
+          "url": "https://www.e-disclosure.ru/portal/event.aspx?EventId=S5ZV7Ou8gki4USK6v5xJew-B-B",
+          "title": "e-disclosure — существенное сообщение ПАО «Россети Урал»",
+          "fact": "Материал раскрытия использовался как указатель на кандидатов/состав, но в окружении страница не отдала читаемый текст; факт 2024-членства не подтвержден локальным отчетом."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKU/Годовой отчет_Россети Урал_2024_final.docx",
+          "title": "Годовой отчет ПАО «Россети Урал» за 2024 год",
+          "fact": "Стр. 117-132: в действующем на 31.12.2024 составе Совета директоров ПАО «Россети Урал» А.В. Коптев не указан; это зафиксировано как расхождение с CSV."
+        },
+        {
+          "url": "https://www.list-org.com/company/11783595",
+          "title": "list-org.com — АО «Комплекспром» (ИНН 7725468060, Москва)",
+          "fact": "Основной вид деятельности по ОКВЭД 2: код 64.99.11 (прочие финансовые услуги, не включённые в другие группировки, раздел K); дополнительные коды — 64.99.3 (капиталовложения в уставные капиталы, венчурное инвестирование), 68.20 (аренда и управление недвижимым имуществом), 69.10 (деятельность в области права), 74.90 (прочая профессиональная, научная и техническая деятельность). Организация зарегистрирована в 2018 году, уставный капитал 150,035 млн руб., 70 сотрудников."
+        }
+      ],
+      "notes": "Найдены диссертационные совпадения с тем же ФИО, но без надежной связки с корпоративным профилем; ученая степень и публикации не включены. РАУНД 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution-normalization, per REFINEMENT.md): целевой доисследовательский проход по education[0].field/year (оба null) и по незакрытой с раунда 1 находке о возможной диссертации -- источник round 1 (rosseti-ural.ru/company/controls/bod/) недоступен в этой сессии (ECONNREFUSED), e-disclosure.ru вернул HTTP 403. Поля остаются null; диссертация не добавлена (нет надёжной связки с корпоративным профилем, \"never mix namesakes\"). АО «Комплекспром» -> sector/industry_group/industry оставлены null -- основной вид деятельности компании не удалось определить (list-org.com не показал ОКВЭД, название слишком общее). Институт нормализован до \"Российский экономический университет имени Г.В. Плеханова\" (точный вариант уже каталогизирован в university_names.json, отражая слияние МЭСИ с РЭУ им. Плеханова в 2011 году). Расхождение CSV/годового отчёта по составу совета директоров MRKU на 31.12.2024 не пересматривалось (уже объяснено на раунде 1). РАУНД 3 (quality pass, 2026-07-30, honest-gap follow-up per this round's brief): bounded fresh-query attempt на АО «Комплекспром» на этот раз дал результат -- прямой просмотр карточки list-org.com (ИНН 7725468060, Москва, ОГРН 1187746306120) показал основной ОКВЭД 64.99.11 (прочие финансовые услуги) с сопутствующими кодами по капиталовложениям/венчурному инвестированию, управлению недвижимостью и юридической деятельности; личность А.В. Коптева как директора финансового департамента именно этой (единственной АО-формы) компании с этим названием дополнительно подтверждена независимыми найденными в поиске анонсами решений Совета директоров ПАО «Россети Урал» (rosseti-ural.ru новости, e-disclosure.ru, blackterminal.com), хотя сами эти три страницы не были повторно доступны в этой сессии для прямой вербатим-цитаты (ECONNREFUSED/403) и цитируются только по сниппетам поисковой выдачи, поэтому в sources[] добавлен только напрямую и дважды перепроверенный list-org.com. GICS обновлён: Financials/Financial Services (New Name)/Financial Services (New Name). Отдельно, bounded fresh-query попытки по education[0].field/year (МЭСИ/РЭУ Плеханова) и по неподтверждённой диссертационной зацепке 2001 года (Сбербанк, ипотечный портфель, кандидат экон. наук, 08.00.13, Москва) не дали новых различающих данных: rosseti-ural.ru (апекс и www) по-прежнему недоступны (ECONNREFUSED), web.archive.org недоступен для инструмента, а dissercat.com/search.rsl.ru лишь повторили уже известную с раунда 1 диссертационную запись без нового биографического якоря, связывающего её именно с этим членом Совета директоров -- диссертация по-прежнему НЕ добавлена (\"never mix namesakes\", нет новой связки). Оба поля (education[0].field, education[0].year) остаются null."
+    },
+    {
+      "name": "Владимир Александрович Рябушев",
+      "current_role": "Первый заместитель генерального директора — главный инженер, заместитель председателя правления",
+      "company_name": "ПАО «Россети Урал»",
+      "education": [
+        {
+          "institution": "Рудненский индустриальный институт",
+          "field": "Электроснабжение и электрификация в промышленности",
+          "year": 2000,
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Южно-Уральский государственный университет (национальный исследовательский университет)",
+          "field": "Проектное управление развитием бизнеса",
+          "year": 2019,
+          "qualification": "Профессиональная переподготовка",
+          "qualification_degree": "Professional certification"
+        },
+        {
+          "institution": "Южно-Уральский государственный университет (национальный исследовательский университет)",
+          "field": "Менеджмент",
+          "year": 2021,
+          "qualification": "Магистерская диссертация",
+          "qualification_degree": "Master's degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Россети Урал»",
+          "role": "Первый заместитель генерального директора - главный инженер, заместитель Председателя Правления",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "С 12.09.2024 по 21.11.2024 исполнял обязанности генерального директора.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО «Россети Урал»",
+          "role": "Исполняющий обязанности генерального директора",
+          "start_year": 2024,
+          "end_year": 2024,
+          "description": "С 12.09.2024 по 21.11.2024 исполнял обязанности генерального директора.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "НЧОУ ДПО «Учебный центр МРСК Урала»",
+          "role": "Председатель Правления",
+          "start_year": 2021,
+          "end_year": null,
+          "description": null,
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Services",
+          "industry": "Diversified Consumer Services"
+        },
+        {
+          "organization": "АО «ЕЭСК»",
+          "role": "Член Совета директоров",
+          "start_year": 2022,
+          "end_year": null,
+          "description": null,
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKU/Годовой отчет_Россети Урал_2024_final.docx",
+          "title": "Годовой отчет ПАО «Россети Урал» за 2024 год",
+          "fact": "Стр. 139-141, раздел 4.7: В.А. Рябушев указан первым заместителем генерального директора - главным инженером, заместителем председателя Правления; приведены образование и опыт, а также период исполнения обязанностей генерального директора в 2024 году."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKU/Приложения к ГО/Приложение 7.2.2. Отчет о сделках с заинтересованностью за 2024.docx",
+          "title": "Отчет о сделках с заинтересованностью ПАО «Россети Урал» за 2024 год",
+          "fact": "Документ указывает, что В.А. Рябушев, член Правления ПАО «Россети Урал», одновременно является членом Правления Учебного центра «МРСК Урала»."
+        },
+        {
+          "url": "https://report2024.rosseti-ural.ru/ispolnitelnye-organy-obshhestva/",
+          "title": "Годовой отчет ПАО «Россети Урал» 2024 — Исполнительные органы Общества",
+          "fact": "Официальный онлайн-отчет подтверждает профиль В.А. Рябушева."
+        }
+      ],
+      "notes": "Должность и образование полностью подтверждены локальным отчетом. Научные публикации/патенты/h-index не подтверждены. РАУНД 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution-normalization, per REFINEMENT.md): образование и опыт уже были полностью подтверждены на раунде 1, новое исследование не потребовалось. qualification_degree присвоен по прямым текстовым признакам: education[1] явно помечен источником \"Профессиональная переподготовка\" -> \"Professional certification\"; education[2] явно помечен \"Магистерская диссертация\" -> \"Master's degree\"; education[0] (Рудненский индустриальный институт, 2000) -> \"Specialist degree\" по эпохе/коду специальности. GICS: обе записи Россети Урал и АО «ЕЭСК» -> Electric Utilities; НЧОУ ДПО «Учебный центр МРСК Урала» -> Consumer Discretionary/Consumer Services/Diversified Consumer Services (классифицирован по собственному виду деятельности -- обучение, а не по отрасли материнской компании). \"ЮУрГУ\" (оба вхождения) нормализован до полного названия. \"Рудненский индустриальный институт\" не найден в university_names.json -- добавлен в new_institutions_found (реальный самостоятельный казахстанский вуз)."
+    },
+    {
+      "name": "Алексей Владимирович Санин",
+      "current_role": "Заместитель генерального директора по правовому и корпоративному управлению, член правления",
+      "company_name": "ПАО «Россети Урал»",
+      "education": [
+        {
+          "institution": "Уральский государственный юридический университет имени В.Ф. Яковлева",
+          "field": "Юриспруденция",
+          "year": 1999,
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Уральский филиал Российской школы частного права при Президенте Российской Федерации",
+          "field": "Частное право",
+          "year": 2005,
+          "qualification_degree": "Professional certification"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Россети Урал»",
+          "role": "Заместитель генерального директора по правовому и корпоративному управлению",
+          "start_year": 2025,
+          "end_year": null,
+          "description": "Назначение подтверждено позднейшими источниками; этот факт не переносится на 31.12.2024.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ОАО «МРСК Урала» / ПАО «Россети Урал»",
+          "role": "Начальник департамента правового обеспечения",
+          "start_year": 2010,
+          "end_year": null,
+          "description": "Профиль УрСО АУ указывает работу начальником департамента правового обеспечения с 2010 года.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ОАО «Свердловэнерго»",
+          "role": "Заместитель начальника юридического департамента; начальник отдела судебной защиты",
+          "start_year": 2005,
+          "end_year": 2010,
+          "description": null,
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://www.urso.ru/01.01.01.02/14",
+          "title": "УрСО АУ — Санин Алексей Владимирович",
+          "fact": "Профиль указывает год рождения 1977, юридическое образование 1999/2005, опыт в ОАО «Свердловэнерго» и ОАО «МРСК Урала», а также назначение заместителем генерального директора по правовому и корпоративному управлению ПАО «Россети Урал»."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKU/Годовой отчет_Россети Урал_2024_final.docx",
+          "title": "Годовой отчет ПАО «Россети Урал» за 2024 год",
+          "fact": "Стр. 139-145: на 31.12.2024 роль заместителя генерального директора по правовому и корпоративному управлению, члена Правления указана за К.Е. Дерягиным, а не за А.В. Саниным; это зафиксировано как расхождение с CSV."
+        },
+        {
+          "url": "https://rosseti-ural.ru/company/controls/management/",
+          "title": "ПАО «Россети Урал» — Руководство",
+          "fact": "Текущая страница руководства используется как позднейшее подтверждение управленческой роли А.В. Санина, но не как доказательство статуса на 31.12.2024."
+        }
+      ],
+      "notes": "CSV указывает Санина членом Правления, но локальный годовой отчет 2024 показывает К.Е. Дерягина в соответствующей должности на 31.12.2024. Биография Санина подтверждена по профилю УрСО АУ; научные данные не подтверждены. РАУНД 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution-normalization, per REFINEMENT.md): образование уже было полностью подтверждено на раунде 1; повторно проверен urso.ru (доступен в этой сессии), текст образования совпадает, найдена деталь о работе 2002-2005 (слишком общая для отдельной записи professional_experience без конкретного работодателя). qualification_degree: education[0] (УрГЮА, 1999) -> \"Specialist degree\"; education[1] (Уральский филиал Российской школы частного права, 2005) -> \"Professional certification\" (двухлетняя постдипломная программа для практикующих юристов, не отдельная академическая степень). GICS: Россети Урал/МРСК Урала/Свердловэнерго -> все Electric Utilities. Институт УрГЮА нормализован до \"Уральский государственный юридический университет имени В.Ф. Яковлева\". \"Уральский филиал Российской школы частного права\" не найден в university_names.json -- добавлен в new_institutions_found. Расхождение CSV/годового отчёта по составу Правления MRKU на 31.12.2024 (К.Е. Дерягин vs Санин) не пересматривалось (уже объяснено на раунде 1)."
+    },
+    {
+      "name": "Сергей Владимирович Попов",
+      "current_role": "Заместитель генерального директора по реализации услуг, член правления",
+      "company_name": "ПАО «Россети Урал»",
+      "education": [
+        {
+          "institution": "Южно-Уральский государственный университет (национальный исследовательский университет)",
+          "field": null,
+          "year": 2024,
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Россети Урал»",
+          "role": "И.о. заместителя генерального директора по реализации услуг; заместитель генерального директора по реализации услуг",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Работа в ПАО «Россети Урал» указана с 2024 года; избран в Правление в 2025 году как событие после отчетного периода.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО «Россети Московский регион»",
+          "role": "Главный технолог",
+          "start_year": 2021,
+          "end_year": 2024,
+          "description": null,
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО «ФСК ЕЭС»",
+          "role": "Заместитель главного инженера",
+          "start_year": 2017,
+          "end_year": 2021,
+          "description": null,
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKU/Годовой отчет_Россети Урал_2024_final.docx",
+          "title": "Годовой отчет ПАО «Россети Урал» за 2024 год",
+          "fact": "Стр. 145, события после отчетного периода: решением Совета директоров от 13.03.2025 С.В. Попов избран в состав Правления; указаны год рождения 1980, образование ЮУрГУ, опыт в ПАО «Россети Урал», ПАО «Россети Московский регион» и ПАО «ФСК ЕЭС»."
+        },
+        {
+          "url": "https://rosseti-ural.ru/company/controls/management/",
+          "title": "ПАО «Россети Урал» — Руководство",
+          "fact": "Текущая страница руководства используется как позднейшее подтверждение роли С.В. Попова, но не как доказательство членства в Правлении на 31.12.2024."
+        }
+      ],
+      "notes": "В 2024 году подтверждена работа в ПАО «Россети Урал»; членство в Правлении подтверждено только с 2025 года. Детали специальности ЮУрГУ в источниках не найдены. РАУНД 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution-normalization, per REFINEMENT.md): целевой доисследовательский проход по education[0].field (null) -- повторно проверен report2024.rosseti-ural.ru/ispolnitelnye-organy-obshhestva/ (доступен в этой сессии), специальность ЮУрГУ по-прежнему не названа; rosseti-ural.ru/company/controls/management/ недоступен (ECONNREFUSED). Поле остаётся null. qualification_degree также null -- возраст (44 года на момент получения) указывает на вероятную вторую/executive-программу, но без названной специальности или квалификационного титула нет уверенного основания выбрать конкретное значение. GICS: Россети Урал/Россети Московский регион/ФСК ЕЭС -> все Electric Utilities. Институт нормализован до \"Южно-Уральский государственный университет (национальный исследовательский университет)\"."
+    },
+    {
+      "name": "Ольга Вячеславовна Очередько",
+      "current_role": "Заместитель генерального директора по экономике и финансам, член правления",
+      "company_name": "ПАО «Россети Урал»",
+      "education": [
+        {
+          "institution": "Кубанский государственный университет",
+          "field": "Экономическое и социальное планирование",
+          "year": 1994,
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО «Россети Урал»",
+          "role": "Заместитель генерального директора по экономике и финансам, член Правления",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Год избрания в состав Правления: 2023.",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО «Россети Кубань»",
+          "role": "Начальник финансового отдела; заместитель начальника финансового управления; начальник департамента финансов и казначейства; заместитель генерального директора по экономике и финансам",
+          "start_year": 2008,
+          "end_year": 2022,
+          "description": null,
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "АО «ЕЭСК»",
+          "role": "Член Совета директоров",
+          "start_year": 2023,
+          "end_year": null,
+          "description": null,
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "АО «Екатеринбургэнергосбыт»",
+          "role": "Член Совета директоров",
+          "start_year": 2023,
+          "end_year": 2024,
+          "description": null,
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_Отчеты_2024/MRKU/Годовой отчет_Россети Урал_2024_final.docx",
+          "title": "Годовой отчет ПАО «Россети Урал» за 2024 год",
+          "fact": "Стр. 143-145, раздел 4.7: О.В. Очередько указана заместителем генерального директора по экономике и финансам, членом Правления; приведены образование и опыт работы."
+        },
+        {
+          "url": "https://report2024.rosseti-ural.ru/ispolnitelnye-organy-obshhestva/",
+          "title": "Годовой отчет ПАО «Россети Урал» 2024 — Исполнительные органы Общества",
+          "fact": "Официальный онлайн-отчет подтверждает профиль О.В. Очередько."
+        }
+      ],
+      "notes": "Данные достаточны по локальному и официальному годовому отчету. Научные данные не подтверждены. РАУНД 2 (2026-07-19, gap-fill + GICS/qualification_degree/institution-normalization, per REFINEMENT.md): образование и опыт не пересматривались (уже полностью подтверждены на раунде 1). education[0] (Кубанский ГУ, 1994, \"Экономическое и социальное планирование\") -> \"Specialist degree\" (классическая специальность советской эпохи, до Болонской системы). GICS: Россети Урал/Россети Кубань/АО «ЕЭСК» -> Electric Utilities; АО «Екатеринбургэнергосбыт» -> Electric Utilities (сбытовая компания, классификация согласована с прецедентом \"ОАО Мосэнергосбыт\" в DVEC_person_info.json). Институт Кубанский ГУ уже точно совпадает с каноническим названием."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MRKU/Годовой отчет_Россети Урал_2024_final.docx",
+      "title": "Годовой отчет ПАО «Россети Урал» за 2024 год",
+      "fact": "Стр. 117-132: действующий на 31.12.2024 состав Совета директоров включает Д.В. Краинского, Е.В. Андрееву, М.А. Бычко, М.А. Лаврову, М.Г. Тихонову и А.В. Шевчука из CSV; также включает лиц, отсутствующих в CSV, и не включает А.А. Полинова, П.В. Родина, К.В. Дашко и А.В. Коптева."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MRKU/Годовой отчет_Россети Урал_2024_final.docx",
+      "title": "Годовой отчет ПАО «Россети Урал» за 2024 год",
+      "fact": "Стр. 139-145: раздел «Исполнительные органы» подтверждает Д.А. Воденникова, В.А. Рябушева и О.В. Очередько; С.В. Попов указан как событие после отчетного периода, избранное в 2025 году; А.В. Санин в составе Правления на 31.12.2024 не указан."
+    },
+    {
+      "url": "https://report2024.rosseti-ural.ru/otchet-soveta-direktorov/",
+      "title": "Годовой отчет ПАО «Россети Урал» 2024 — Отчет Совета директоров",
+      "fact": "Официальная онлайн-версия подтверждает состав и биографии Совета директоров ПАО «Россети Урал» за 2024 год."
+    },
+    {
+      "url": "https://report2024.rosseti-ural.ru/ispolnitelnye-organy-obshhestva/",
+      "title": "Годовой отчет ПАО «Россети Урал» 2024 — Исполнительные органы Общества",
+      "fact": "Официальная онлайн-версия подтверждает состав исполнительных органов и события после отчетного периода."
+    },
+    {
+      "url": "https://rosseti-ural.ru/company/controls/bod/",
+      "title": "ПАО «Россети Урал» — Совет директоров",
+      "fact": "Текущая страница Совета директоров использована только как позднейшее подтверждение биографий/идентичности для людей из CSV, которых нет в составе на 31.12.2024."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "В CSV по тикеру MRKU найдено 15 строк; компания указана как ОАО «МРСК Урала»; годовой отчет уточняет, что это прежнее фирменное наименование ПАО «Россети Урал» до 03.08.2023."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MRKU/Годовой отчет_Россети Урал_2024_final.docx",
+      "title": "Годовой отчет ПАО «Россети Урал» за 2024 год",
+      "fact": "Главный локальный источник биографий Совета директоров и Правления за 2024 год."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MRKU/Приложения к ГО/Приложение 7.2.2. Отчет о сделках с заинтересованностью за 2024.docx",
+      "title": "Отчет о сделках с заинтересованностью ПАО «Россети Урал» за 2024 год",
+      "fact": "Локальный источник дополнительно подтверждает статус В.А. Рябушева как члена Правления и связь с Учебным центром «МРСК Урала»."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MRKU/Приложения к ГО/Приложение 7.1. Отчет ККУ за 2024.doc",
+      "title": "Отчет о соблюдении принципов и рекомендаций Кодекса корпоративного управления за 2024 год",
+      "fact": "Файл проверен локально; доступное извлечение текста не дало надежных персональных биографических данных, поэтому биографии взяты из годового отчета."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/MRKU/Аудиторское заключение_Россети Урал_МСФО 2024.pdf",
+      "title": "Аудиторское заключение и консолидированная финансовая отчетность ПАО «Россети Урал» по МСФО за 2024 год",
+      "fact": "PDF проверен как локальный документ; биографий органов управления не содержит/текст не извлекся в пригодном виде."
+    },
+    {
+      "url": "https://report2024.rosseti-ural.ru/",
+      "title": "Официальный годовой отчет ПАО «Россети Урал» за 2024 год",
+      "fact": "Онлайн-версия годового отчета использована для проверки локального текста."
+    },
+    {
+      "url": "https://ar2024rosseti-sz.ru/ru/corporate-governance/board-directors",
+      "title": "Годовой отчет ПАО «Россети Северо-Запад» 2024 — Совет директоров",
+      "fact": "Использован для независимого подтверждения биографии А.А. Полинова."
+    },
+    {
+      "url": "https://www.urso.ru/01.01.01.02/14",
+      "title": "УрСО АУ — Санин Алексей Владимирович",
+      "fact": "Использован для подтверждения образования и карьерной истории А.В. Санина."
+    },
+    {
+      "url": "https://www.bigpowernews.ru/news/document120698.phtml",
+      "title": "BigpowerNews — Павел Родин назначен директором Свердловского филиала ПАО «Т Плюс»",
+      "fact": "Использован для подтверждения образования и отраслевой карьеры П.В. Родина."
+    },
+    {
+      "url": "https://www.tplusgroup.ru/press/news/single/pavel-rodin-naznachen-direktorom-sverdlovskogo-filial/",
+      "title": "ПАО «Т Плюс» — Павел Родин назначен директором Свердловского филиала",
+      "fact": "Официальная публикация использована как позднейшее подтверждение личности П.В. Родина."
+    },
+    {
+      "url": "https://ar2024.tplusgroup.ru/ru/",
+      "title": "Годовой отчет ПАО «Т Плюс» за 2024 год",
+      "fact": "Использован как дополнительный источник по К.В. Дашко и ее корпоративной функции."
+    }
+  ],
+  "validation_notes": "Обработано 15 людей из CSV по тикеру MRKU. Проверено 4 локальных документа в папке MOEXBMI_Отчеты_2024/MRKU: годовой отчет DOCX, отчет ККУ DOC, отчет о сделках с заинтересованностью DOCX и аудиторское заключение/МСФО PDF. Выполнен 1 основной research round для каждого человека; для людей с расхождением CSV и годового отчета проведены дополнительные поисковые проходы по официальным/отраслевым источникам. Существенная неопределенность остается у 5 людей: А.А. Полинов, П.В. Родин, К.В. Дашко, А.В. Коптев и А.В. Санин не подтверждены локальным годовым отчетом как члены соответствующих органов на 31.12.2024; С.В. Попов подтвержден в Правлении только как событие 2025 года, при этом работа в ПАО «Россети Урал» с 2024 подтверждена. Образование не найдено или найдено неполно для К.В. Дашко, А.В. Коптева и частично С.В. Попова. Слабые источники использованы только для позднейшей идентификации людей, отсутствующих в локальном составе 2024; позднейшие должности не перенесены автоматически на 2024 год. Исключены однофамильцы: Дмитрий Борисович Воденников, публичные однофамильцы Дашко, академические/дорожные публикации Павла Родина без связи с Т Плюс, диссертационные совпадения А.В. Коптева без прямой корпоративной связки. Поиск считается завершенным, потому что локальные документы проверены, официальный годовой отчет прочитан, для каждого обнаруженного работодателя и ключевого источника выполнены дополнительные поиски, а оставшиеся расхождения объяснены источниками и не превращены в неподтвержденные факты.\n\nРАУНД 2 (2026-07-19, gap-fill + GICS + qualification_degree + institution normalization, per REFINEMENT.md):\n\n1) Gap-fill research (local documents first, then web, targeted only at fields left null/vague/flagged in round 1's validation_notes -- no re-verification of already-confirmed facts): заново прочитаны все относящиеся к совету директоров таблицы годового отчета (TABLE 90-99), что дало более полный, но не более полный по искомым полям текст для М.А. Бычко, М.А. Лавровой и М.Г. Тихоновой (специальности по-прежнему не названы первичным источником для большинства их вузов -- это подтверждённый пробел источника, не упущение раунда 1). Веб-исследование этого раунда ограничено: WebSearch-бюджет сессии исчерпан (200 из 200 вызовов) ещё до начала точечных поисков по MRKU; из доменов, использованных в раунде 1, report2024.rosseti-ural.ru, urso.ru, bigpowernews.ru и ar2024rosseti-sz.ru остались доступны и были повторно проверены точечно (Бычко/Лаврова/Тихонова/Санин/Родин/Полинов), но rosseti.ru, rosseti-ural.ru (апекс и www), ar2024.tplusgroup.ru и tplusgroup.ru/press были недоступны в этой сессии (ECONNREFUSED/ENOTFOUND), e-disclosure.ru вернул HTTP 403, а web.archive.org недоступен для инструмента веб-чтения. Это ограничило дозакрытие пробелов для К.В. Дашко, А.В. Коптева и С.В. Попова (их специальности/годы остаются null) и не позволило перепроверить второй источник по возможной докторской степени П.В. Родина. Оставшиеся null-поля перечислены в дополнениях к notes[] каждого человека и в соответствующих research_notes/MRKU/*_round_2.md.\n\n2) GICS-теги добавлены на уровне компании (Utilities/Utilities/Electric Utilities -- электросетевая распределительная компания группы «Россети») и на каждую запись professional_experience для всех 16 человек (ceo + 15 tmt), классифицируя каждую организацию по её собственному основному виду деятельности: сетевые/сбытовые компании группы «Россети» и предшественники (Свердловэнерго, МРСК Урала, ЕЭСК, Екатеринбургэнергосбыт) -> Electric Utilities; генерирующие/теплоснабжающие компании (Мосэнерго, Газпром энергохолдинг, Т Плюс) -> Independent Power and Renewable Electricity Producers (классификация согласована с прецедентами IRAO_person_info.json и DVEC_person_info.json в этом же датасете); Биннофарм Групп -> Health Care/Pharmaceuticals; Детский мир -> Consumer Discretionary/Specialty Retail; Учебный центр МРСК Урала -> Consumer Discretionary/Diversified Consumer Services (классифицирован как образовательное учреждение, а не по отрасли материнской компании). Ассоциация профессиональных инвесторов и АО «Комплекспром» оставлены null/null/null: первая -- некоммерческое отраслевое объединение без классифицируемого по GICS основного бизнеса, вторая -- основной вид деятельности не удалось определить в доступных источниках этого раунда (название слишком общее, ОКВЭД не найден).\n\n3) qualification_degree добавлен во все education[] и degrees[] всех 16 человек. Прямые текстовые признаки использованы там, где они есть: \"кандидат наук\" -> \"Doctoral degree\" (Полинов, Тихонова); явные пометки \"Профессиональная переподготовка\" -> \"Professional certification\" и \"Магистерская диссертация\" -> \"Master's degree\" (обе -- Рябушев); явный квалификационный титул \"экономист-менеджер\" -> \"Specialist degree\" (Полинов). Для записей без прямого текстового признака применено эра/специальность-based рассуждение с высокой уверенностью там, где это оправдано (образование до ~2003 года по классическим советским/российским кодам специальностей -> \"Specialist degree\": Воденников edu[0], Краинский, Андреева, Бычко edu[0], Лаврова edu[0], Тихонова edu[0], Шевчук, Родин, Санин edu[0], Очередько), либо \"Executive education\" по внутридокументной аналогии для повторных записей в Академии народного хозяйства без названной специальности (Бычко edu[1], Тихонова edu[1]), либо \"Professional certification\" для известной постдипломной небакалаврской программы (Санин edu[1] -- Российская школа частного права). Во всех остальных случаях, где уверенность не достигала высокого порога (второе высшее образование современной эпохи без названного уровня: Воденников edu[1], оба 2008-х года у Лавровой, ВШЭ-запись Тихоновой; полностью не раскрытые записи: Дашко, Коптев, Попов), поле оставлено null, а рассуждение и его отсутствие обосновано в notes[] каждого человека.\n\n4) Институты нормализованы к каноническим названиям university_names.json для 17 записей образования (полный список -- в notes[] каждого человека и в соответствующих research_notes/MRKU/*_round_2.md); институты, точно совпадающие с каноническим названием (Курганский государственный университет, Государственный университет управления, Кубанский государственный университет), оставлены без изменений. Четыре сырые строки не найдены в university_names.json ни как ключ, ни как вариант, и добавлены в new_institutions_found без самостоятельного редактирования каталога: \"Волго-Вятская академия государственной службы\" (Тихонова), \"Рудненский индустриальный институт\" (Рябушев), \"Уральский государственный технический университет\" (Родин, вероятный исторический предшественник УрФУ, но точная строка не каталогизирована), \"Уральский филиал Российской школы частного права при Президенте Российской Федерации\" (Санин).\n\n5) Ни один ранее подтверждённый факт не удалён и не перезаписан; все дополнения зафиксированы как приращения к notes[]/sources[] на уровне человека и к research_notes/MRKU/*_round_2.md (новые файлы, round_1 не тронуты). Оставшиеся неподтверждённые пробелы (специальности Дашко/Коптева/Попова/части Бычко и Лавровой; годы кандидатских степеней Полинова и Тихоновой; возможная докторская степень Родина; отраслевая классификация АО «Комплекспром») зафиксированы как null с указанием причины, а не угаданы, в соответствии с правилом «prefer null over an unverified guess». MASS DATA-LOSS REPAIR (2026-07-30): restored 15 shortened person notes, 1 shortened experience descriptions, 0 shortened education descriptions, 0 missing person-level sources, and 0 missing experience-level sources using git HEAD (commit 03bfe9f, 2026-07-20) as the reliable baseline. Nothing else in this file was touched.\n\nРАУНД 3 -- QUALITY PASS (2026-07-30, correctness/depth pass per this session's brief, see research_notes/MRKU/quality_pass_round1_20260730.md for full detail):\n\nSTEP 0 (git-baseline check): confirmed via `git show HEAD:.../MRKU_person_info.json` that the on-disk file was byte-for-byte identical (modulo CRLF) to the git HEAD commit (f973022, itself the 2026-07-30 mass-restore of the 03bfe9f/20.07 baseline) before any edits this round -- no regression to repair for this ticker, 0 fields restored.\n\n1) Desync check (notes vs JSON) across all 15 people (ceo + 14 tmt), both round_1 and round_2 notes files re-read in full: no simple omissions found (every confirmed fact in the notes was already present in the JSON) and no genuine field-value inconsistencies found (all previously-documented CSV-vs-annual-report board-composition discrepancies were already correctly explained and not re-litigated, consistent with round 1/2's own conclusions).\n\n2) GICS label correctness: reviewed all professional_experience GICS triples for all 16 (ceo+tmt) entries against the real business of each named organization (grid/distribution vs generation/thermal vs retail/energosbyt vs non-utility employers) -- no incorrect label found among already-populated triples; all match the exact gics_taxonomy.json rows already used. One previously-null triple was resolved this round (see below).\n\n3) Honest-gap follow-up (bounded, one fresh attempt per real, nameable gap; WebSearch was already at session quota, so WebFetch of specific single-record pages plus WebFetch of Yandex SERP pages was used instead):\n   - RESOLVED: Коптев А.В., АО «Комплекспром» sector/industry_group/industry (previously null, \"insufficient reliable source\") -- direct list-org.com company-profile fetch (ИНН 7725468060) gives ОКВЭД 64.99.11 (прочие финансовые услуги) plus capital-investment/real-estate/legal secondary codes -> filled as Financials / Financial Services (New Name) / Financial Services (New Name).\n   - RESOLVED: Полинов А.А., degrees[0].year (previously null) -- two independently-fetched dissertation-record sources (search.rsl.ru, dissercat.com) agree: defended 2004 at Московский государственный строительный университет (his own alma mater), thematically matching his construction-economics education -> filled as 2004.\n   - STILL UNRESOLVED after a fresh bounded attempt this round (queries logged in research_notes/MRKU/quality_pass_round1_20260730.md): Дашко К.В. education[0].field/year (МГУ); Коптев А.В. education[0].field/year (МЭСИ/РЭУ Плеханова) and the round-1/2 unconfirmed dissertation lead; Родин П.В. education[0].year and the possible doctoral-degree lead; Попов С.В. education[0].field (ЮУрГУ); Бычко М.А. education[0]/[1].field (МЭИ/АНХ); Тихонова М.Г. degrees[0].year -- a thematically plausible РГГУ/2010 dissertation candidate was found but NOT filled in because the only corroborating identity anchor (birth year/institution match) came from an unverifiable search-snippet summary of a page that could not be independently re-fetched in this session (rosseti.ru ECONNREFUSED both attempts), and this session independently observed genuine cross-contamination in snippet summaries of other multi-person bio pages (see Дашко/Коптев below) -- left null per \"prefer null over an unverified guess\" and \"never fabricate a resolution\"; Лаврова М.А. education[1]/[2] qualification_degree ambiguity (Финансовая академия vs МГИМО, both 2008) -- no new distinguishing data found.\n   - DATA-QUALITY OBSERVATION (not a JSON field, logged for transparency): a Yandex-SERP WebFetch summary for Дашко/Коптев at one point attributed Воденников's education (Курганский ГУ/РУДН) and a mismatched birth year to Коптев's query context -- this was recognized as cross-contamination from the same multi-person rosseti-ural.ru board page and was discarded, not used for any field.\n\n4) No previously confirmed fact was deleted or shortened; all additions are incremental to notes[]/sources[] at person level and to the new consolidated round file. Two GICS nulls resolved, one degree year resolved; all other flagged gaps remain null with fresh-query attempts documented.",
+  "sector": "Utilities",
+  "industry_group": "Utilities",
+  "industry": "Electric Utilities"
+}

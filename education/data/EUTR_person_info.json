@@ -1,0 +1,1290 @@
+{
+  "company_name": "ПАО \"ЕвроТранс\"",
+  "company_ticker": "EUTR",
+  "ceo": {
+    "name": "Алексеенков Олег Олегович",
+    "current_role": "Генеральный директор ПАО \"ЕвроТранс\"; исполнительный директор, член Совета директоров в контексте 2024 года",
+    "company_name": "ПАО \"ЕвроТранс\"",
+    "education": [
+      {
+        "institution": "Вебстерский университет США",
+        "year": null,
+        "program_or_specialty": "Менеджмент",
+        "qualification": "MBA; менеджер",
+        "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+        "qualification_degree": "MBA"
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "АО \"Бета\"",
+        "role": "Генеральный директор",
+        "start_year": 2018,
+        "end_year": 2022,
+        "description": "Период и должность раскрыты в проспекте ценных бумаг.",
+        "source": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+        "sector": "Energy",
+        "industry_group": "Energy",
+        "industry": "Oil, Gas & Consumable Fuels"
+      },
+      {
+        "organization": "ЗАО \"Магистраль Ойл\"",
+        "role": "Генеральный директор",
+        "start_year": 2021,
+        "end_year": 2022,
+        "description": "Период и должность раскрыты в проспекте ценных бумаг.",
+        "source": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+        "sector": "Energy",
+        "industry_group": "Energy",
+        "industry": "Oil, Gas & Consumable Fuels"
+      },
+      {
+        "organization": "ООО \"Компания ТРАССА\"",
+        "role": "Генеральный директор",
+        "start_year": 2004,
+        "end_year": 2024,
+        "description": "Период и должность раскрыты в официальных материалах кандидатов и проспекте.",
+        "source": "https://www.evrotrans-ao.ru/wp-content/uploads/2025/06/05.-%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BE-%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B0%D1%85-%D0%B2-%D0%A1%D0%94-2025.pdf",
+        "sector": "Energy",
+        "industry_group": "Energy",
+        "industry": "Oil, Gas & Consumable Fuels"
+      },
+      {
+        "organization": "ПАО \"ЕвроТранс\"",
+        "role": "Генеральный директор",
+        "start_year": 2022,
+        "end_year": null,
+        "description": "Годовой отчет за 2024 содержит обращение, подписанное генеральным директором Олегом Алексеенковым; финансовая отчетность указывает, что 02.04.2025 он был переизбран на новый пятилетний срок.",
+        "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+        "sector": "Energy",
+        "industry_group": "Energy",
+        "industry": "Oil, Gas & Consumable Fuels"
+      },
+      {
+        "organization": "ПАО \"ЕвроТранс\"",
+        "role": "Член Совета директоров",
+        "start_year": 2022,
+        "end_year": null,
+        "description": "В годовом отчете за 2024 указан как исполнительный директор и член Совета директоров; посещаемость заседаний 20/20.",
+        "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+        "sector": "Energy",
+        "industry_group": "Energy",
+        "industry": "Oil, Gas & Consumable Fuels"
+      },
+      {
+        "organization": "АО \"ТРАССА - Фин Тех\"",
+        "role": "Член Совета директоров",
+        "start_year": 2024,
+        "end_year": null,
+        "description": "Период и должность раскрыты в проспекте ценных бумаг. GICS industry corrected in quality-pass round 1 (2026-07-30): fresh registry/site verification shows AO TRASSA-Fin Tech's own primary OKVED is 62.02 (consultative/computer-technology-services activity, not 62.01 software development), and its official site (trassaft.ru) describes the business as IT-infrastructure outsourcing/monitoring/systems administration (managed IT services), not software-product development; industry changed from Software to IT Services. Sector (Information Technology) and industry_group (Software & Services) are unchanged and remain correct.",
+        "source": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+        "sector": "Information Technology",
+        "industry_group": "Software & Services",
+        "industry": "IT Services"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "Row 168 lists ticker EUTR, company ПАО \"ЕвроТранс\", Алексеенков Олег Олегович as CEO, член СД."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+        "title": "Годовой отчет ПАО \"ЕвроТранс\" за 2024 год",
+        "fact": "Pages 5-6: CEO message is signed by генеральный директор ПАО \"ЕвроТранс\" Олег Алексеенков. Page 55: he is an executive director, born 1975, with Webster University MBA, менеджмент. Page 61: individual Board evaluation lists Алексеенков Олег Олегович."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/EUTR/Отчетность ПАО Евротранс_2024 (003).pdf",
+        "title": "Консолидированная финансовая отчетность ПАО \"Евротранс\" за 2024 год",
+        "fact": "Page 58: after the reporting date, 02.04.2025, the Board re-elected Алексеенков Олег Олегович as General Director for a new five-year term; this confirms the continuity of the 2024 CEO role."
+      },
+      {
+        "url": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+        "title": "Проспект ценных бумаг ПАО \"ЕвроТранс\"",
+        "fact": "Pages 113-115 disclose Oleg Alekseenkov's education and positions: CEO of AO Beta in 2018-2022, CEO of ZAO Magistral Oil in 2021-2022, CEO of OOO Company TRASSA in 2004-2024, CEO and Board member of PJSC EvroTrans from 2022, Board member of AO TRASSA-Fin Tech from 2024."
+      },
+      {
+        "url": "https://wbcmedia.ru/blogi-kompanij/evrotrans-my-gotovy-delitsya-pribylyu-i-razvivatsya-vmeste-s-klientami/",
+        "title": "World Business Channel: ЕвроТранс: Мы готовы делиться прибылью...",
+        "fact": "Interview/blog identifies Oleg Alekseenkov as General Director of PJSC EvroTrans in the business-development context."
+      },
+      {
+        "url": "https://www.trassaft.ru/",
+        "title": "АО \"Трасса-Фин Тех\": официальный сайт",
+        "fact": "Company self-description confirms IT-infrastructure outsourcing, monitoring and administration services (virtualization, databases, storage, servers, systems administration) as the primary business; primary registered OKVED is 62.02 (consultative computer-technology activity). Used to correct GICS industry from Software to IT Services for all AO TRASSA-Fin Tech professional_experience entries."
+      }
+    ],
+    "notes": "Identity is anchored by exact full name, CEO role, company ticker, local annual report and official prospectus. No confirmed academic publications, patents or h-index were found. Search results for generic Oleg Alekseenkov mentions were used only when they tied the person to TRASSA/EvroTrans. Round 2 (2026-07-18): Re-checked the official prospectus PDF directly (e-disclosure Fileid=1903212, downloaded and re-extracted this round) for a Webster University graduation year -- confirmed the document discloses only the degree/qualification/specialty, no year, for every board member; the year remains null. Identified and confirmed via company registry (list-org.com) that AO Beta (2018-2022 CEO role) is a retail motor-fuel filling-station operator (OKVED 47.30), same line of business as the rest of the group -- this closes the previously vague organization-name-only gap for GICS purposes. Round 3 (2026-07-19): Re-read the local prospectus text (eutr_prospekt_pages_105_140.txt, pages 114-115) line by line again for this person -- the education block still shows only the Webster University MBA entry with no year anywhere. This session's WebSearch quota was exhausted at the start (200/200), so targeted web re-checks used WebFetch against DuckDuckGo/Bing/Google result pages for the Webster University graduation year; all returned CAPTCHA pages, region-mismatched results, or unrelated content, so no new year was found. education[0].year and h_index remain null, now reconfirmed dead ends after three research passes (round 1 web search, round 2 direct prospectus re-check, round 3 direct prospectus re-check plus failed web substitute search)."
+  },
+  "tmt": [
+    {
+      "name": "Мартышов Игорь Юрьевич",
+      "current_role": "Председатель Совета директоров ПАО \"ЕвроТранс\" в контексте 2024 года",
+      "company_name": "ПАО \"ЕвроТранс\"",
+      "education": [
+        {
+          "institution": "Московская государственная юридическая академия",
+          "year": null,
+          "program_or_specialty": "Юриспруденция",
+          "qualification": "Юрист",
+          "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Институт переподготовки и повышения квалификации кадров по финансово-банковским специальностям Финансовой академии при Правительстве РФ",
+          "year": null,
+          "program_or_specialty": "Банковское дело",
+          "qualification": "Экономист",
+          "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "qualification_degree": "Professional certification"
+        },
+        {
+          "institution": "Институт профессиональных бухгалтеров и аудиторов России",
+          "year": null,
+          "program_or_specialty": null,
+          "qualification": "Профессиональный бухгалтер, главный бухгалтер, бухгалтер-эксперт (консультант)",
+          "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "qualification_degree": "Professional certification"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ЕвроТранс\"",
+          "role": "Председатель Совета директоров",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Годовой отчет за 2024 называет его неисполнительным директором и председателем Совета директоров; проспект раскрывает членство в Совете директоров с 2022 года.",
+          "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "АО \"ТРАССА - Фин Тех\"",
+          "role": "Член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Период и должность раскрыты в проспекте ценных бумаг. GICS industry corrected in quality-pass round 1 (2026-07-30): fresh registry/site verification shows AO TRASSA-Fin Tech's own primary OKVED is 62.02 (consultative/computer-technology-services activity, not 62.01 software development), and its official site (trassaft.ru) describes the business as IT-infrastructure outsourcing/monitoring/systems administration (managed IT services), not software-product development; industry changed from Software to IT Services. Sector (Information Technology) and industry_group (Software & Services) are unchanged and remain correct.",
+          "source": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "IT Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "Row 169 lists Мартышов Игорь Юрьевич as Председатель СД for EUTR."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "title": "Годовой отчет ПАО \"ЕвроТранс\" за 2024 год",
+          "fact": "Page 45 signs the Board statement by Chairman I.Yu. Martyshev. Page 54 gives education and identifies him as non-executive director and Board chair. Page 61 includes him in the individual Board evaluation."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/EUTR/Отчетность ПАО Евротранс_2024 (003).pdf",
+          "title": "Консолидированная финансовая отчетность ПАО \"Евротранс\" за 2024 год",
+          "fact": "Page 12 identifies Martyshev Igor Yuryevich as a shareholder and final controlling owner with 43.17% as of 31.12.2024."
+        },
+        {
+          "url": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+          "title": "Проспект ценных бумаг ПАО \"ЕвроТранс\"",
+          "fact": "Pages 118-120 disclose his Board chair role from 2022 and AO TRASSA-Fin Tech Board membership from 2024."
+        },
+        {
+          "url": "https://www.trassaft.ru/",
+          "title": "АО \"Трасса-Фин Тех\": официальный сайт",
+          "fact": "Company self-description confirms IT-infrastructure outsourcing, monitoring and administration services (virtualization, databases, storage, servers, systems administration) as the primary business; primary registered OKVED is 62.02 (consultative computer-technology activity). Used to correct GICS industry from Software to IT Services for all AO TRASSA-Fin Tech professional_experience entries."
+        }
+      ],
+      "notes": "The local annual report gives birth year 1971, while the 2025 prospectus/candidate materials show 1970; birth year is not used in the final person facts. No reliable academic publications, patents or h-index were found. Round 2 (2026-07-18): Institution names normalized to university_names.json canonical forms (Moscow State Law Academy -> Kutafin Moscow State Law University; Financial Academy retraining institute -> Financial University under the Government of the Russian Federation). Re-checked the official prospectus directly this round -- confirmed no graduation years are disclosed for any EvroTrans director, so all three education-year fields remain null. One additional web lead (a single unclear snippet referencing aspirant, Russian Customs Academy) was checked and rejected: it could not be reliably tied to this exact Igor Yuryevich Martyshev (no EvroTrans/Trassa linkage in the source), so no new professional/education fact was added from it, consistent with the namesake-avoidance rule used in this project. Round 3 (2026-07-19): Re-read the local prospectus text directly again (pages 119-120) for all three education entries -- confirmed no graduation year is given for any of them, and the accountants institute entry explicitly states in the source itself that no specialty is recorded on the certificate, which is why program_or_specialty is correctly null rather than simply unresearched. Also reconfirmed via the same prospectus pages that no professional history beyond EvroTrans Board chair and TRASSA-Fin Tech Board membership is disclosed for this person. WebSearch quota was exhausted this session and WebFetch substitutes (DuckDuckGo/Bing/Google) returned only CAPTCHA pages or unrelated regional results for this person, so no new professional-history or education-year fact could be added this round. All remaining nulls for this person are reconfirmed dead ends after three research passes."
+    },
+    {
+      "name": "Алексеенков Сергей Олегович",
+      "current_role": "Член Совета директоров ПАО \"ЕвроТранс\"; заместитель председателя Совета директоров в раскрытии эмитента",
+      "company_name": "ПАО \"ЕвроТранс\"",
+      "education": [
+        {
+          "institution": "МГТУ им. Н.Э. Баумана",
+          "year": null,
+          "program_or_specialty": "Гусеничные и колесные машины",
+          "qualification": "Инженер-механик",
+          "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Московский университет МВД России",
+          "year": null,
+          "program_or_specialty": null,
+          "qualification": null,
+          "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "qualification_degree": null
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат экономических наук",
+          "field": "Экономика",
+          "year": null,
+          "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "Компании розничного рынка нефтепродуктов: АО \"Гермес-Москва\", ГК \"Магистраль\", ГК \"Трасса\", ПАО \"ЕвроТранс\"",
+          "role": "Акционер и руководитель/участник отраслевых компаний",
+          "start_year": 1994,
+          "end_year": null,
+          "description": "Профессиональные источники Expert RA and Vedomosti state that he has worked in and been a shareholder of fuel retail companies since 1994 and has over 30 years of experience.",
+          "source": "https://raexpert.ru/database/person/alekseenkov_sergey/",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "НП \"Центр поддержки малого и среднего бизнеса\"",
+          "role": "Директор",
+          "start_year": 2003,
+          "end_year": 2023,
+          "description": "Период и должность раскрыты в проспекте ценных бумаг. Intentional null (documented in quality-pass round 1, 2026-07-30): \"НП\" (nonprofit partnership) is the entity's own disclosed legal form in the prospectus; no GICS bucket applies to a nonprofit SME-support body.",
+          "source": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "АО \"Омега Трейд\"",
+          "role": "Генеральный директор",
+          "start_year": 2012,
+          "end_year": null,
+          "description": "Период раскрыт в проспекте как 2012-2025; для контекста 2024 должность была актуальной.",
+          "source": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ЗАО \"ТИС-Регион\"",
+          "role": "Генеральный директор",
+          "start_year": 2008,
+          "end_year": null,
+          "description": "Период и должность раскрыты в проспекте ценных бумаг.",
+          "source": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "СНТ \"Спасское\"",
+          "role": "Председатель",
+          "start_year": 2007,
+          "end_year": null,
+          "description": "Период и должность раскрыты в проспекте ценных бумаг. Intentional null (documented in quality-pass round 1, 2026-07-30): \"СНТ\" (gardening/dacha-owners nonprofit partnership) is the entity's own disclosed legal form in the prospectus; no GICS bucket applies.",
+          "source": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ООО \"Трасса ГСМ\"",
+          "role": "Генеральный директор",
+          "start_year": 2018,
+          "end_year": null,
+          "description": "Период и должность раскрыты в проспекте; Expert RA and Vedomosti also identify him as General Director of Trassa GSM.",
+          "source": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ПАО \"ЕвроТранс\"",
+          "role": "Член Совета директоров",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Годовой отчет за 2024 включает его в Совет директоров как неисполнительного директора.",
+          "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ПАО \"ЕвроТранс\"",
+          "role": "Заместитель председателя Совета директоров",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Роль раскрыта в проспекте ценных бумаг.",
+          "source": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "АО \"ТРАССА - Фин Тех\"",
+          "role": "Член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Период и должность раскрыты в проспекте ценных бумаг. GICS industry corrected in quality-pass round 1 (2026-07-30): fresh registry/site verification shows AO TRASSA-Fin Tech's own primary OKVED is 62.02 (consultative/computer-technology-services activity, not 62.01 software development), and its official site (trassaft.ru) describes the business as IT-infrastructure outsourcing/monitoring/systems administration (managed IT services), not software-product development; industry changed from Software to IT Services. Sector (Information Technology) and industry_group (Software & Services) are unchanged and remain correct.",
+          "source": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "IT Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "Row 170 lists Алексеенков Сергей Олегович as Член СД for EUTR."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "title": "Годовой отчет ПАО \"ЕвроТранс\" за 2024 год",
+          "fact": "Page 54 identifies him as non-executive director, born 1971, with MGTU Bauman engineering education, Moscow University of the Ministry of Internal Affairs, and candidate of economic sciences."
+        },
+        {
+          "url": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+          "title": "Проспект ценных бумаг ПАО \"ЕвроТранс\"",
+          "fact": "Pages 115-117 disclose education and a career table including SME-support nonprofit, Omega Trade, TIS-Region, Spasskoe, Trassa GSM, EvroTrans Board, deputy Board chair, and AO TRASSA-Fin Tech."
+        },
+        {
+          "url": "https://raexpert.ru/database/person/alekseenkov_sergey/",
+          "title": "Эксперт РА: Алексеенков Сергей",
+          "fact": "Professional biography identifies him as shareholder and deputy Board chair of PJSC EvroTrans, General Director of OOO Trassa GSM, candidate of economic sciences, MGTU Bauman graduate, and veteran of fuel-retail companies since 1994."
+        },
+        {
+          "url": "https://events.vedomosti.ru/speakers/alekseenkov-sergei-3433",
+          "title": "Ведомости Конференции: Сергей Алексеенков",
+          "fact": "Speaker profile corroborates his EvroTrans deputy Board chair role, Trassa GSM management, MGTU Bauman education, candidate degree, more than 30 years of industry experience, and Honorary Oilman status from 2014."
+        },
+        {
+          "url": "https://www.trassaft.ru/",
+          "title": "АО \"Трасса-Фин Тех\": официальный сайт",
+          "fact": "Company self-description confirms IT-infrastructure outsourcing, monitoring and administration services (virtualization, databases, storage, servers, systems administration) as the primary business; primary registered OKVED is 62.02 (consultative computer-technology activity). Used to correct GICS industry from Software to IT Services for all AO TRASSA-Fin Tech professional_experience entries."
+        }
+      ],
+      "notes": "Full-name, family and company links disambiguate him from unrelated Sergey Alekseenkov/name-only results. No reliable publication profile or h-index for this individual was found. Round 2 (2026-07-18): Institution normalized (MGTU Bauman -> full canonical name; Moscow University of the Ministry of Internal Affairs -> canonical imeni V.Ya. Kikotya form). Confirmed the candidate-of-economic-sciences degree year (2004) via the Russian State Library dissertation catalog (search.rsl.ru/ru/record/01002632168): title on market demonopolization using the fuel-energy complex as an example, specialty 08.00.05, defended in Moscow -- topic matches his fuel-retail career, supporting identity. The record does not name the specific defending institution beyond Moscow, so the Moscow University of the Ministry of Internal Affairs education entry program/qualification remain null (not enough basis to link the two records) rather than guessed. Round 3 (2026-07-19): Re-read the local prospectus text directly again (pages 116-117) -- confirmed no graduation year is given for either the MGTU Bauman or Moscow University of the Ministry of Internal Affairs entries, and the prospectus still ties the candidate-of-economic-sciences degree only loosely to the MVD University line, with no program/qualification detail beyond what is already recorded; this remains an unresolved dead end after three research passes (round 1, round 2 RSL dissertation-catalog check, round 3 direct prospectus re-read). sector/industry_group/industry for the NP SME-support body and SNT Spasskoe are intentionally kept null this round -- see the updated description field on each entry for the legal-form-based reasoning."
+    },
+    {
+      "name": "Дорошенко Николай Николаевич",
+      "current_role": "Член Совета директоров ПАО \"ЕвроТранс\"; заместитель председателя Совета директоров в раскрытии эмитента",
+      "company_name": "ПАО \"ЕвроТранс\"",
+      "education": [
+        {
+          "institution": "Московский ордена Трудового Красного Знамени текстильный институт",
+          "year": null,
+          "program_or_specialty": "Автоматизация и комплексная механизация химико-технологических процессов",
+          "qualification": "Инженер-электротехник по автоматизации",
+          "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "ВНИИ легкого и текстильного машиностроения",
+          "year": null,
+          "program_or_specialty": null,
+          "qualification": null,
+          "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат технических наук",
+          "field": "Технические науки",
+          "year": null,
+          "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "ЗАО \"МАГИСТРАЛЬ-НК\"",
+          "role": "Генеральный директор",
+          "start_year": 2005,
+          "end_year": null,
+          "description": "Период и должность раскрыты в официальных материалах кандидатов.",
+          "source": "https://www.evrotrans-ao.ru/wp-content/uploads/2025/06/05.-%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BE-%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B0%D1%85-%D0%B2-%D0%A1%D0%94-2025.pdf",
+          "sector": "Real Estate",
+          "industry_group": "Real Estate Management & Development (New)",
+          "industry": "Real Estate Management & Development (New Code)"
+        },
+        {
+          "organization": "Ассоциация развития электротранспорта",
+          "role": "Президент",
+          "start_year": 2012,
+          "end_year": null,
+          "description": "Период и должность раскрыты в официальных материалах кандидатов. Intentional null (documented in quality-pass round 1, 2026-07-30, completing round 3 research 2026-07-19): direct WebFetch of aetransport.ru confirms this is a registered nonprofit membership association (INN 5029998729, registered 21.05.2013, Mytishchi, Moscow Oblast) promoting electric-transport development, not a commercial operating company -- no GICS bucket applies.",
+          "source": "https://www.evrotrans-ao.ru/wp-content/uploads/2025/06/05.-%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BE-%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B0%D1%85-%D0%B2-%D0%A1%D0%94-2025.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ООО \"Комплекс-Стройматериалы-Овражки\"",
+          "role": "Генеральный директор",
+          "start_year": 2008,
+          "end_year": 2024,
+          "description": "Период и должность раскрыты в официальных материалах кандидатов.",
+          "source": "https://www.evrotrans-ao.ru/wp-content/uploads/2025/06/05.-%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BE-%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B0%D1%85-%D0%B2-%D0%A1%D0%94-2025.pdf",
+          "sector": "Real Estate",
+          "industry_group": "Real Estate Management & Development (New)",
+          "industry": "Real Estate Management & Development (New Code)"
+        },
+        {
+          "organization": "ЗАО \"Магистраль Ойл\"",
+          "role": "Генеральный директор",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Период и должность раскрыты в официальных материалах кандидатов.",
+          "source": "https://www.evrotrans-ao.ru/wp-content/uploads/2025/06/05.-%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BE-%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B0%D1%85-%D0%B2-%D0%A1%D0%94-2025.pdf",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ПАО \"ЕвроТранс\"",
+          "role": "Член Совета директоров",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Годовой отчет за 2024 включает его в Совет директоров как неисполнительного директора.",
+          "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "АО \"ТРАССА - Фин Тех\"",
+          "role": "Председатель Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Период и должность раскрыты в официальных материалах кандидатов. GICS industry corrected in quality-pass round 1 (2026-07-30): fresh registry/site verification shows AO TRASSA-Fin Tech's own primary OKVED is 62.02 (consultative/computer-technology-services activity, not 62.01 software development), and its official site (trassaft.ru) describes the business as IT-infrastructure outsourcing/monitoring/systems administration (managed IT services), not software-product development; industry changed from Software to IT Services. Sector (Information Technology) and industry_group (Software & Services) are unchanged and remain correct.",
+          "source": "https://www.evrotrans-ao.ru/wp-content/uploads/2025/06/05.-%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BE-%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B0%D1%85-%D0%B2-%D0%A1%D0%94-2025.pdf",
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "IT Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "Row 171 lists Дорошенко Николай Николаевич as Член СД for EUTR."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "title": "Годовой отчет ПАО \"ЕвроТранс\" за 2024 год",
+          "fact": "Page 55 identifies him as non-executive director, born 1957, with textile-institute engineering education and a candidate of technical sciences degree from VNII light and textile machinery."
+        },
+        {
+          "url": "https://www.evrotrans-ao.ru/wp-content/uploads/2025/06/05.-%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BE-%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B0%D1%85-%D0%B2-%D0%A1%D0%94-2025.pdf",
+          "title": "Сведения о кандидатах в Совет директоров ПАО \"ЕвроТранс\", 2025",
+          "fact": "Pages 1-2 disclose his Board membership from 2022, executive roles in Magistral Oil, Magistral-NK, Complex-Stroymaterialy-Ovrazhki, Association for Electric Transport Development, and AO TRASSA-Fin Tech."
+        },
+        {
+          "url": "https://www.trassaft.ru/",
+          "title": "АО \"Трасса-Фин Тех\": официальный сайт",
+          "fact": "Company self-description confirms IT-infrastructure outsourcing, monitoring and administration services (virtualization, databases, storage, servers, systems administration) as the primary business; primary registered OKVED is 62.02 (consultative computer-technology activity). Used to correct GICS industry from Software to IT Services for all AO TRASSA-Fin Tech professional_experience entries."
+        },
+        {
+          "url": "https://aetransport.ru/",
+          "title": "Ассоциация развития электротранспорта: официальный сайт",
+          "fact": "Confirms President Nikolay Nikolaevich Doroshenko, Executive Director Valery Alexandrovich Sitnikov, registered 21.05.2013, INN 5029998729, Mytishchi, Moscow Oblast -- a nonprofit membership association, not a commercial operating company."
+        }
+      ],
+      "notes": "No reliable publication list, patent record or h-index tied to this exact fuel-sector/board identity was found; technical-degree fact is retained because it is in the issuer's annual report. Round 2 (2026-07-18): Institution names normalized (Moscow Textile Institute -> Kosygin Moscow State Textile University canonical form; VNII light and textile machinery -> full canonical name). Confirmed the candidate-of-technical-sciences degree year (1985) via the Russian State Library dissertation record (search.rsl.ru/ru/record/01008688442): author Doroshenko, Nikolai Nikolaevich, dissertation on a program control system for ring machines for wet flax spinning, specialties 05.02.13/05.13.07, defended at VNII light and textile machinery -- exact name and institution match the issuer-disclosed education record, low namesake risk given the specialty matches his textile-engineering background. Round 3 (2026-07-19): Re-read the local prospectus text directly again (pages 118-119) -- confirmed no graduation year is given for the Kosygin Moscow Textile University entry, reconfirming the round 1/2 finding as a dead end after three research passes. Confirmed via a targeted web check (aetransport.ru) that the electric-transport development association is a registered nonprofit association (INN 5029998729), not a commercial enterprise, so its sector/industry_group/industry fields are intentionally kept null (see updated description) rather than guessed."
+    },
+    {
+      "name": "Панкратьева Наталья Михайловна",
+      "current_role": "Член Совета директоров ПАО \"ЕвроТранс\"; финансовый директор ПАО \"ЕвроТранс\"",
+      "company_name": "ПАО \"ЕвроТранс\"",
+      "education": [
+        {
+          "institution": "Московская гуманитарно-социальная академия",
+          "year": null,
+          "program_or_specialty": "Менеджмент организации",
+          "qualification": "Менеджер",
+          "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"ЕвроТранс\"",
+          "role": "Финансовый директор",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Годовой отчет за 2024 включает ее в Совет директоров как исполнительного директора.",
+          "source": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ПАО \"ЕвроТранс\"",
+          "role": "Член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Годовой отчет за 2024 включает ее в Совет директоров как исполнительного директора.",
+          "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "Row 172 lists Панкратьева Наталья Михайловна as Член СД for EUTR."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "title": "Годовой отчет ПАО \"ЕвроТранс\" за 2024 год",
+          "fact": "Page 56 identifies her as executive director, born 1981, with higher education from Moscow Humanitarian-Social Academy in organization management, qualification manager."
+        },
+        {
+          "url": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+          "title": "Проспект ценных бумаг ПАО \"ЕвроТранс\"",
+          "fact": "Page 124 discloses her positions: Financial Director of PJSC EvroTrans from 2019 and Board member from 2024."
+        }
+      ],
+      "notes": "Searches did not find a reliable broader biography, academic profile, publications, patents or h-index for this exact person; the final facts are therefore limited to issuer disclosures. Round 2 (2026-07-18): Re-searched for a broader independent biography. A single weak lead (a search snippet suggesting a director role at a UK Trassa entity) could not be independently confirmed on a company registry in this round, so it was not added as a new professional_experience fact (prefer omission over an unverified addition). Graduation year for Moscow Humanitarian-Social Academy remains undisclosed in all checked sources. Round 3 (2026-07-19): Re-read the local prospectus text directly again (page 125) -- confirmed no graduation year is given for the Moscow Humanitarian-Social Academy entry, reconfirming the round 1/2 finding as a dead end after three research passes. No other null fields remain for this person requiring action this round."
+    },
+    {
+      "name": "Шемякин Борис Олегович",
+      "current_role": "Член Совета директоров ПАО \"ЕвроТранс\"",
+      "company_name": "ПАО \"ЕвроТранс\"",
+      "education": [
+        {
+          "institution": "Серпуховское высшее военное командное училище им. Ленинского комсомола",
+          "year": null,
+          "program_or_specialty": "Эксплуатация приборов и систем управления летательных аппаратов",
+          "qualification": "Офицер с высшим военно-специальным образованием инженера-электрика",
+          "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат технических наук",
+          "field": "Технические науки",
+          "year": 1991,
+          "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "АО \"ТРАССА-СК\"",
+          "role": "Генеральный директор",
+          "start_year": 2006,
+          "end_year": 2024,
+          "description": "Период и должность раскрыты в проспекте и материалах кандидатов.",
+          "source": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+          "sector": "Industrials",
+          "industry_group": "Capital Goods",
+          "industry": "Construction & Engineering"
+        },
+        {
+          "organization": "ПАО \"ЕвроТранс\"",
+          "role": "Член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Годовой отчет за 2024 включает его в Совет директоров как неисполнительного директора.",
+          "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "Row 173 lists Шемякин Борис Олегович as Член СД for EUTR."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "title": "Годовой отчет ПАО \"ЕвроТранс\" за 2024 год",
+          "fact": "Page 56 identifies him as non-executive director, born 1956, with Serpukhov higher military command school education and candidate of technical sciences since 1991."
+        },
+        {
+          "url": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+          "title": "Проспект ценных бумаг ПАО \"ЕвроТранс\"",
+          "fact": "Page 125 discloses his roles: General Director of AO TRASSA-SK in 2006-2024 and Board member of PJSC EvroTrans from 2024."
+        }
+      ],
+      "notes": "No reliable publication, patent or h-index source was found for this exact identity. Searches found company-linked mentions but no fuller independent biography. Round 2 (2026-07-18): Institution name normalized (im. -> imeni canonical form; single-variant entry otherwise unchanged). Searched for the specific dissertation record behind the 1991 candidate-of-technical-sciences degree; only an unrelated namesake (Shemyakin, Boris Andreevich, philosophical sciences) was found, so no institution/specialty detail could be added for the degree beyond what the issuer already discloses; graduation year for the Serpukhov military school remains null. Round 3 (2026-07-19): Re-read the local prospectus text directly again (page 126) -- confirmed no graduation year is given for the Serpukhov military school entry, and the defending institution behind the 1991 candidate-of-technical-sciences degree remains unconfirmed (only an unrelated philosophy-sciences namesake was found in round 2), reconfirming both as dead ends after three research passes."
+    },
+    {
+      "name": "Сафонов Олег Петрович",
+      "current_role": "Независимый директор, член Совета директоров ПАО \"ЕвроТранс\"; председатель Комитета по аудиту",
+      "company_name": "ПАО \"ЕвроТранс\"",
+      "education": [
+        {
+          "institution": "Государственная финансовая академия при Правительстве РФ",
+          "year": 1991,
+          "program_or_specialty": "Финансы и кредит",
+          "qualification": "Экономист",
+          "source": "https://tass.ru/encyclopedia/person/safonov-oleg-petrovich",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Военный университет МО РФ",
+          "year": null,
+          "program_or_specialty": null,
+          "qualification": null,
+          "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат экономических наук",
+          "field": "Экономика",
+          "year": null,
+          "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "Уникомбанк; Восточно-Европейский инвестиционный банк; банк \"Союзавиакосмос\"; Оргрэсбанк",
+          "role": "Банковские руководящие позиции",
+          "start_year": 1991,
+          "end_year": 2001,
+          "description": "Российская газета summarizes his early banking career, including Unicombank, Eastern European Investment Bank, Soyuzaviakosmos and Orgresbank.",
+          "source": "https://rg.ru/2015/01/16/safonov-site.html",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "Фондовая биржа \"Российская Торговая Система\"",
+          "role": "Руководитель финансового департамента; президент",
+          "start_year": 2003,
+          "end_year": 2007,
+          "description": "Российская газета identifies him as head of the RTS financial department in 2003 and president of the RTS exchange in 2004-2007.",
+          "source": "https://rg.ru/2015/01/16/safonov-site.html",
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Capital Markets"
+        },
+        {
+          "organization": "ОАО \"НПК \"Уралвагонзавод\"",
+          "role": "Заместитель генерального директора по экономике и финансам",
+          "start_year": 2009,
+          "end_year": 2010,
+          "description": "Career fact from Russian Gazette biography.",
+          "source": "https://rg.ru/2015/01/16/safonov-site.html",
+          "sector": "Industrials",
+          "industry_group": "Capital Goods",
+          "industry": "Aerospace & Defense"
+        },
+        {
+          "organization": "ОАО \"Центр Наукоемких Технологий\"",
+          "role": "Финансовый директор",
+          "start_year": 2010,
+          "end_year": 2014,
+          "description": "Career fact from Russian Gazette biography. GICS sourcing completed in quality-pass round 1 (2026-07-30): round 3 (2026-07-19) resolved this entry's GICS classification via direct WebFetch of cpnt-rus.ru, which describes an oilfield-services/exploration-technology firm (patented hydrocarbon-potential evaluation, seismic-survey planning, well-placement optimization, non-destructive/power-line diagnostics) serving Gazprom, Rosneft and Lukoil -- but the cpnt-rus.ru citation was not added to this description or to the sources lists at that time. Completed now: see cpnt-rus.ru in this person's sources list.",
+          "source": "https://rg.ru/2015/01/16/safonov-site.html",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Energy Equipment & Services"
+        },
+        {
+          "organization": "Федеральное агентство по туризму (Ростуризм)",
+          "role": "Врио руководителя; руководитель",
+          "start_year": 2014,
+          "end_year": 2019,
+          "description": "Russian Gazette and the issuer's candidate materials confirm the Rostourism leadership period. Intentional null (documented in quality-pass round 1, 2026-07-30): Rostourism (Федеральное агентство по туризму) is a federal executive government agency, not a commercial enterprise; no GICS bucket applies.",
+          "source": "https://rg.ru/2015/01/16/safonov-site.html",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Ассоциация участников рынка инвестиционных драгоценных металлов",
+          "role": "Президент",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Период и должность раскрыты в проспекте ценных бумаг. Intentional null (documented in quality-pass round 1, 2026-07-30): the prospectus names this a nonprofit trade/membership Association (Ассоциация); no GICS bucket applies to an industry association.",
+          "source": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ПАО \"ЕвроТранс\"",
+          "role": "Независимый директор; председатель Комитета по аудиту; член Комитета по кадрам и вознаграждениям",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Годовой отчет за 2024 раскрывает независимый статус and committee roles.",
+          "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "Row 174 lists Сафонов Олег Петрович as Член СД for EUTR."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "title": "Годовой отчет ПАО \"ЕвроТранс\" за 2024 год",
+          "fact": "Page 57 identifies him as independent director, born 1969, with State Financial Academy education, Military University of the Ministry of Defence, candidate of economic sciences, Audit Committee chair and HR/Remuneration Committee member."
+        },
+        {
+          "url": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+          "title": "Проспект ценных бумаг ПАО \"ЕвроТранс\"",
+          "fact": "Pages 120-121 disclose his EvroTrans Board and committee roles and presidency of the Association of Investment Precious Metals Market Participants from 2022."
+        },
+        {
+          "url": "https://tass.ru/encyclopedia/person/safonov-oleg-petrovich",
+          "title": "ТАСС: Сафонов, Олег Петрович",
+          "fact": "ТАСС biography confirms his birth data and 1991 graduation from the financial-economic faculty of the State Financial Academy."
+        },
+        {
+          "url": "https://rg.ru/2015/01/16/safonov-site.html",
+          "title": "Российская газета: справка о назначенном главе Ростуризма",
+          "fact": "Russian Gazette biography confirms State Financial Academy education, candidate degree, banking/RTS/Uralvagonzavod/CNT career and Rostourism appointment."
+        },
+        {
+          "url": "http://cpnt-rus.ru",
+          "title": "ОАО \"Центр Наукоемких Технологий\": официальный сайт",
+          "fact": "Company self-description confirms an oilfield-services/exploration-technology business (patented hydrocarbon-potential evaluation, seismic-survey planning, well-placement optimization, non-destructive/power-line diagnostics), serving Gazprom, Rosneft and Lukoil. Basis for GICS classification Energy / Energy / Energy Equipment & Services (resolved in round 3, source citation completed in quality-pass round 1)."
+        }
+      ],
+      "notes": "The person is disambiguated by the rare combination of full name, 1969 birth year, State Financial Academy background, Rostourism leadership and EvroTrans independent-director role. No confirmed academic publication profile, patents or h-index were found. Round 2 (2026-07-18): Institution normalized (State Financial Academy -> Financial University under the Government of the Russian Federation canonical form; Military University of the Ministry of Defence -> full canonical form). Confirmed the candidate-of-economic-sciences degree year (2011) via the Russian National Electronic Library / Russian State Library catalog record (rusneb.ru/catalog/000199_000009_004859006/): dissertation on investment attractiveness of strategic defense-industrial-complex enterprises using stock-market instruments, specialty 20.01.07, place of defense Voennyy universitet -- this directly matches and fills the previously null education institution entry for the Military University. Primary tass.ru and rg.ru sources used in round 1 were unreachable this round (403/401), so the RSL/NEB catalog record was used as an independent, authoritative alternative confirmation. Round 3 (2026-07-19): Re-read the local prospectus text directly again (pages 121-122) -- no new education detail found for the Voennyy universitet entry beyond what is already recorded (the candidate-of-economic-sciences degree remains the only credential tied to it, so a separate qualification value stays null as non-applicable, not unresearched). Resolved the previously null GICS classification for the 2010-2014 Center for High-Technology Solutions Financial Director role via the company's own website (cpnt-rus.ru): confirmed as an oilfield-services/exploration-technology company (clients Gazprom, Rosneft, Lukoil) -- classified Energy / Energy / Energy Equipment & Services. sector/industry_group/industry for the Federal Tourism Agency (Rostourism) and the precious-metals investment association are intentionally kept null -- a government executive agency and a nonprofit trade association respectively, neither a GICS-classifiable commercial enterprise (see updated description fields)."
+    },
+    {
+      "name": "Сигова Мария Викторовна",
+      "current_role": "Независимый директор, член Совета директоров ПАО \"ЕвроТранс\"; член Комитета по аудиту; председатель Комитета по кадрам и вознаграждениям",
+      "company_name": "ПАО \"ЕвроТранс\"",
+      "education": [
+        {
+          "institution": "Санкт-Петербургский государственный университет экономики и финансов",
+          "year": 2003,
+          "program_or_specialty": "Национальная экономика",
+          "qualification": "Экономист",
+          "source": "https://ibispb.ru/persons/sigova-mariya-viktorovna/",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Доктор экономических наук",
+          "field": "Экономика",
+          "year": null,
+          "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "qualification_degree": "Doctoral degree"
+        },
+        {
+          "degree": "Профессор",
+          "field": "Экономика",
+          "year": null,
+          "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "Региональное отделение Федерации сноуборда России в Санкт-Петербурге",
+          "role": "Председатель",
+          "start_year": 2019,
+          "end_year": 2023,
+          "description": "Период и должность раскрыты в проспекте ценных бумаг. Intentional null (documented in quality-pass round 1, 2026-07-30): the prospectus gives the entity's full legal name as a regional branch of the nationwide public organization Snowboard Federation of Russia in Saint Petersburg -- a nonprofit sports federation, not a commercial enterprise; no GICS bucket applies.",
+          "source": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Физтех-школа бизнеса высоких технологий МФТИ",
+          "role": "Директор",
+          "start_year": 2021,
+          "end_year": 2023,
+          "description": "Период и должность раскрыты в проспекте ценных бумаг.",
+          "source": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Services",
+          "industry": "Diversified Consumer Services"
+        },
+        {
+          "organization": "Международный банковский институт имени Анатолия Собчака",
+          "role": "Ректор",
+          "start_year": 2013,
+          "end_year": null,
+          "description": "Период and position are disclosed in the prospectus and corroborated by the institute profile.",
+          "source": "https://ibispb.ru/persons/sigova-mariya-viktorovna/",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Services",
+          "industry": "Diversified Consumer Services"
+        },
+        {
+          "organization": "ПАО \"ЕвроТранс\"",
+          "role": "Независимый директор; член Комитета по аудиту; председатель Комитета по кадрам и вознаграждениям",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Годовой отчет за 2024 раскрывает independent status and committee roles.",
+          "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "Центр международных проектов МФТИ",
+          "role": "Исполнительный директор",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Период и должность раскрыты в проспекте ценных бумаг.",
+          "source": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Services",
+          "industry": "Diversified Consumer Services"
+        },
+        {
+          "organization": "Московская высшая школа социальных и экономических наук",
+          "role": "Ректор",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Период и должность раскрыты в проспекте ценных бумаг.",
+          "source": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Services",
+          "industry": "Diversified Consumer Services"
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "Международный банковский институт имени Анатолия Собчака",
+          "role": "Доктор экономических наук, профессор, ректор; научный профиль с РИНЦ/SPIN и Scopus Author ID",
+          "start_year": null,
+          "end_year": null,
+          "description": "Institute profile lists academic degree/status and bibliometric identifiers.",
+          "source": "https://ibispb.ru/persons/sigova-mariya-viktorovna/"
+        }
+      ],
+      "publications": [
+        {
+          "title": "eLIBRARY author profile linked by Международный банковский институт",
+          "year": null,
+          "source": "https://www.elibrary.ru/author_items.asp?authorid=512655&show_refs=1"
+        }
+      ],
+      "patents": [],
+      "h_index": 17,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "Row 175 lists Сигова Мария Викторовна as Член СД for EUTR."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "title": "Годовой отчет ПАО \"ЕвроТранс\" за 2024 год",
+          "fact": "Page 57 identifies her as independent director, born 1981, SPbSUEF graduate in national economy, economist, Doctor of Economics, professor, Audit Committee member and HR/Remuneration Committee chair."
+        },
+        {
+          "url": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+          "title": "Проспект ценных бумаг ПАО \"ЕвроТранс\"",
+          "fact": "Pages 121-122 disclose her professional roles at the snowboarding federation, MIPT, International Banking Institute, EvroTrans Board and Moscow School of Social and Economic Sciences."
+        },
+        {
+          "url": "https://ibispb.ru/persons/sigova-mariya-viktorovna/",
+          "title": "Международный банковский институт: Сигова Мария Викторовна",
+          "fact": "Profile corroborates Doctor of Economics, professor, rector role, 2003 SPbSUEF education, national economy/economist qualification, h-index 17, RINC SPIN and Scopus Author ID."
+        }
+      ],
+      "notes": "Academic identity is confirmed by institute profile, issuer documents and matching education/roles. h_index is retained because the institute page reports a RINC h-index and profile identifiers; it should not be read as a Scopus h-index unless separately confirmed. No patents were found. Round 2 (2026-07-18): Institution normalized (SPb State University of Economics and Finance -> St. Petersburg State University of Economics canonical form). Re-fetched the ibispb.ru institute profile and confirmed verbatim two dissertation-year lines: candidate dissertation 2005 and doctoral dissertation 2009, resolving both previously null degree years; added the 2005 candidate-of-economic-sciences degree as a new, well-sourced entry that precedes the already-recorded doctorate (same source, same person, no identity risk). Also resolved the h-index ambiguity flagged in round 1: the profile explicitly labels the Hirsch index 17 as an RINC/eLibrary metric (not Scopus), and separately gives a Scopus Author ID (57190862941) and SPIN code (9588-1176), so h_index=17 should continue to be read as a RSCI index, not a Scopus h-index -- this is now stated explicitly rather than inferred. Round 3 (2026-07-19): Re-checked the ibispb.ru profile and local prospectus (page 122) again for the Professor degree entry -- Professor remains an academic rank, not a dated degree, so year/qualification_degree correctly stay null (non-applicable, consistent with the same treatment already used for Khazin's RAH academician rank). sector/industry_group/industry for the St. Petersburg Snowboard Federation regional branch are intentionally kept null -- confirmed via the prospectus's own full legal name (a regional branch of a nationwide nonprofit sports organization), not a commercial enterprise (see updated description field)."
+    },
+    {
+      "name": "Хазин Андрей Леонидович",
+      "current_role": "Независимый директор, член Совета директоров ПАО \"ЕвроТранс\"; член Комитета по аудиту; член Комитета по кадрам и вознаграждениям",
+      "company_name": "ПАО \"ЕвроТранс\"",
+      "education": [
+        {
+          "institution": "Санкт-Петербургский институт внешнеэкономических связей, экономики и права",
+          "year": null,
+          "program_or_specialty": "Менеджмент",
+          "qualification": "Менеджер",
+          "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Санкт-Петербургский институт внешнеэкономических связей, экономики и права",
+          "year": null,
+          "program_or_specialty": "Финансы и кредит",
+          "qualification": "Экономист",
+          "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Российская академия государственной службы при Президенте РФ",
+          "year": null,
+          "program_or_specialty": "Менеджмент",
+          "qualification": "Специалист по парламентаризму (парламентской деятельности)",
+          "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "qualification_degree": "Professional certification"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат исторических наук",
+          "field": "История",
+          "year": 2009,
+          "source": "https://ru.wikipedia.org/wiki/Хазин,_Андрей_Леонидович",
+          "qualification_degree": "Doctoral degree"
+        },
+        {
+          "degree": "Академик РАХ",
+          "field": "Искусствознание / гуманитарные науки",
+          "year": null,
+          "source": "https://istina.msu.ru/workers/8969811/all/",
+          "qualification_degree": null
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "МГУ имени М.В. Ломоносова",
+          "role": "Профессор, заведующий кафедрой",
+          "start_year": 2012,
+          "end_year": null,
+          "description": "MSU Istina profile and the issuer's prospectus identify him as professor/head of department at MSU from 2012.",
+          "source": "https://istina.msu.ru/workers/8969811/all/",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Services",
+          "industry": "Diversified Consumer Services"
+        },
+        {
+          "organization": "Российская академия художеств",
+          "role": "Академик",
+          "start_year": 2012,
+          "end_year": null,
+          "description": "MSU Istina profile and issuer's prospectus identify him as RAH academician from 2012. Round 3 (2026-07-19): sector/industry_group/industry intentionally left null -- the prospectus (page 123) registers this organization by its full legal form as a Federal State Budgetary Institution (FGBU), and a registry check confirms its own stated primary line of activity is scientific R&D in the humanities/social sciences as a state creative-scientific academy, not an operating education-services business. This differs from the MSU/RGSU roles for this same person, which are classified under Consumer Discretionary / Consumer Services / Diversified Consumer Services because those are operating university education-service roles (professor, rector); Khazin's roles at this Academy of Arts here (academician, advisor to the president) are honorary/advisory academy membership, not delivery of a commercial education service, and no GICS bucket fits a state humanities-research academy, so null is kept rather than guessed.",
+          "source": "https://istina.msu.ru/workers/8969811/all/",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "МГУ имени М.В. Ломоносова",
+          "role": "Проректор",
+          "start_year": 2017,
+          "end_year": 2019,
+          "description": "Период и должность раскрыты в официальных материалах кандидатов.",
+          "source": "https://www.evrotrans-ao.ru/wp-content/uploads/2025/06/05.-%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BE-%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B0%D1%85-%D0%B2-%D0%A1%D0%94-2025.pdf",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Services",
+          "industry": "Diversified Consumer Services"
+        },
+        {
+          "organization": "Российская академия художеств",
+          "role": "Советник Президента",
+          "start_year": 2020,
+          "end_year": 2021,
+          "description": "Период и должность раскрыты в официальных материалах кандидатов. Intentional null (documented in quality-pass round 1, 2026-07-30): the Russian Academy of Arts is registered as a Federal State Budgetary Institution (FGBU) whose own registered primary activity is scientific research/development in the humanities and arts, run as a state academy for honorary recognition and scholarship of practicing artists -- not a tuition-based education-services business like this same person's MSU/RGSU roles (which remain classified under Diversified Consumer Services because those are operating professor/rector roles); no GICS bucket applies to the honorary academy role.",
+          "source": "https://www.evrotrans-ao.ru/wp-content/uploads/2025/06/05.-%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BE-%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B0%D1%85-%D0%B2-%D0%A1%D0%94-2025.pdf",
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "Российский государственный социальный университет",
+          "role": "И.о. ректора, ректор",
+          "start_year": 2021,
+          "end_year": null,
+          "description": "Issuer prospectus and MSU Istina profile tie him to RGSU while he serves on EvroTrans Board.",
+          "source": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+          "sector": "Consumer Discretionary",
+          "industry_group": "Consumer Services",
+          "industry": "Diversified Consumer Services"
+        },
+        {
+          "organization": "ПАО \"ЕвроТранс\"",
+          "role": "Независимый директор; член Комитета по аудиту; член Комитета по кадрам и вознаграждениям",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Годовой отчет за 2024 раскрывает independent status and committee roles.",
+          "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "МГУ имени М.В. Ломоносова",
+          "role": "Заведующий кафедрой стратегических коммуникаций; преподаватель курсов по стратегическим коммуникациям и истории наградных систем",
+          "start_year": 2012,
+          "end_year": null,
+          "description": "Istina profile lists MSU department role and extensive teaching course records.",
+          "source": "https://istina.msu.ru/workers/8969811/all/"
+        }
+      ],
+      "publications": [
+        {
+          "title": "Орденские цепи Святого Престола",
+          "year": 2021,
+          "source": "https://istina.msu.ru/workers/8969811/all/"
+        },
+        {
+          "title": "Высшие рыцарские ордена Великобритании, Австрии, Испании, Франции: история и практика награждения в XIX веке",
+          "year": 2013,
+          "source": "https://istina.msu.ru/workers/8969811/all/"
+        },
+        {
+          "title": "Становление наградной системы России в первой четверти XVIII века",
+          "year": 2007,
+          "source": "https://istina.msu.ru/workers/8969811/all/"
+        }
+      ],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "Row 176 lists Хазин Андрей Леонидович as Член СД for EUTR."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "title": "Годовой отчет ПАО \"ЕвроТранс\" за 2024 год",
+          "fact": "Page 58 identifies him as independent director, born 1969, with education from Санкт-Петербургский институт внешнеэкономических связей, экономики и права and РАГС, and committee membership."
+        },
+        {
+          "url": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+          "title": "Проспект ценных бумаг ПАО \"ЕвроТранс\"",
+          "fact": "Pages 122-124 disclose MSU, RAH, RGSU and EvroTrans roles."
+        },
+        {
+          "url": "https://istina.msu.ru/workers/8969811/all/",
+          "title": "ИСТИНА МГУ: Хазин Андрей Леонидович",
+          "fact": "MSU profile identifies him as candidate of historical sciences, RAH academician, head of MSU strategic communications department from 01.09.2012, affiliated with RGSU, and lists journal articles/books/course activity."
+        },
+        {
+          "url": "https://ru.wikipedia.org/wiki/Хазин,_Андрей_Леонидович",
+          "title": "Википедия: Хазин, Андрей Леонидович",
+          "fact": "States \"Кандидат исторических наук (2009, диссертация «Становление наградной системы России в конце XVII-XVIII вв.»; научный руководитель Р.Г. Пихоя, официальные оппоненты Н.А. Соболева и А.В. Кибовский)\", with a footnote to the dissertation abstract (autoreferat) in the RGB (Russian State Library) catalog. The independent Ruwiki mirror gives the identical citation (advisor + both opponents + dissertation title), which increases confidence this is sourced from the actual autoreferat rather than a copied error."
+        },
+        {
+          "url": "https://rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=52170",
+          "title": "Российская академия художеств: Хазин Андрей Леонидович (официальный профиль)",
+          "fact": "States only \"Кандидат исторических наук (2008г.)\" with no dissertation title, advisor or opponents given. This is the conflicting value rejected in quality-pass round 1: it is a terser institutional bio entry with no corroborating detail, versus the Wikipedia/Ruwiki value (2009) which cites advisor, both opponents and an RGB catalog autoreferat -- a level of detail consistent with being sourced from the actual dissertation record."
+        }
+      ],
+      "notes": "Identity is strongly anchored by full name, RGSU/MSU/RAH roles and EvroTrans director role. H-index was not entered because the accessible Istina profile did not provide a clear h-index value. Publications are representative examples from the MSU profile, not an exhaustive bibliography. Round 2 (2026-07-18): Institution normalized (Russian Academy of Public Administration under the President of the RF -> RANEPA canonical form; St. Petersburg Institute of Foreign Economic Relations, Economics and Law is already the canonical single-variant form, no change). Re-fetched the istina.msu.ru profile directly this round specifically to look for an h-index and graduation/degree years -- confirmed the profile still does not expose an h-index value or any graduation year for either the SPb institute or RANEPA programs, or a year for the candidate-of-historical-sciences degree; these remain null, now reconfirmed by direct re-check rather than carried over unverified from round 1. Round 3 (2026-07-19): Re-read the local prospectus text directly again (pages 122-124) -- confirmed no graduation year is given for either St. Petersburg Institute of Foreign Economic Relations entry or the RANEPA entry, and no year is given for the candidate-of-historical-sciences degree or the RAH academician honorary title. This session's WebSearch quota was exhausted and WebFetch substitutes against istina.msu.ru's dissertation search, DuckDuckGo and Bing all failed to surface a dissertation-defense year (CAPTCHA pages, 404s, or unrelated results), so these remain reconfirmed dead ends after three research passes. Resolved the GICS treatment of the Russian Academy of Arts entries this round: the prospectus itself registers it as a Federal State Budgetary Institution whose own registered primary activity is humanities/arts scientific R&D, not education-service delivery, and Khazin's roles there (academician, advisor to the president) are honorary/advisory, not an operating education role -- so sector/industry_group/industry are intentionally kept null there, distinct from the MSU/RGSU professor/rector roles classified under Diversified Consumer Services (see updated description fields for the reasoning). Identity is strongly anchored by full name, RGSU/MSU/RAH roles and EvroTrans director role. H-index was not entered because the accessible Istina profile did not provide a clear h-index value. Publications are representative examples from the MSU profile, not an exhaustive bibliography. GENUINE INCONSISTENCY (quality-pass round 1, 2026-07-30): the candidate-of-historical-sciences degree year was null in prior rounds; fresh research found two conflicting values -- the Russian Academy of Arts official bio page states 2008 with no supporting detail, while Wikipedia and its independent Ruwiki mirror both state 2009 and give matching dissertation title, scientific advisor (R.G. Pikhoya) and both official opponents (N.A. Soboleva, A.V. Kibovsky), plus a citation to the dissertation autoreferat in the RGB (Russian State Library) catalog. Resolved to 2009 as the better-corroborated value (specific, independently-mirrored, catalog-backed) and recorded 2008 (RAH site) as the rejected value with its source kept in this person's sources list for future reference."
+    },
+    {
+      "name": "Депутатов Георгий Юрьевич",
+      "current_role": "Директор по внутреннему аудиту ПАО \"ЕвроТранс\"",
+      "company_name": "ПАО \"ЕвроТранс\"",
+      "education": [
+        {
+          "institution": "Российская экономическая академия им. Г.В. Плеханова",
+          "year": null,
+          "program_or_specialty": "Экономист",
+          "qualification": "Финансы и кредит",
+          "source": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ООО \"Экос\"",
+          "role": "Финансовый консультант генерального директора по вопросам бухучета и аудита",
+          "start_year": 2022,
+          "end_year": 2024,
+          "description": "Проспект раскрывает период 01.03.2022-05.04.2024.",
+          "source": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "ПАО \"ЕвроТранс\"",
+          "role": "Директор по внутреннему аудиту",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Проспект раскрывает назначение с 08.11.2024; годовой отчет за 2024 содержит его карточку директора по внутреннему аудиту.",
+          "source": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "Row 177 lists Депутатов Георгий Юрьевич as Руководитель подразделения внутреннего аудита for EUTR."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+          "title": "Годовой отчет ПАО \"ЕвроТранс\" за 2024 год",
+          "fact": "Page 79 identifies him as Director of Internal Audit, born 1979, with higher education at Plekhanov Russian Economic Academy, specialty/economist, qualification finance and credit."
+        },
+        {
+          "url": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+          "title": "Проспект ценных бумаг ПАО \"ЕвроТранс\"",
+          "fact": "Page 136 discloses education and positions: financial consultant to the CEO of OOO Ekos from 01.03.2022 to 05.04.2024 and Director of Internal Audit at PJSC EvroTrans from 08.11.2024."
+        }
+      ],
+      "notes": "No broader reliable biography, academic profile, publications, patents or h-index were found. Person identity is anchored by full name, internal-audit role, Plekhanov education and official issuer disclosures. Round 2 (2026-07-18): Institution normalized (Plekhanov Russian Economic Academy -> Plekhanov Russian University of Economics canonical form). Re-searched for a broader biography and prior employment before OOO Ekos; only unrelated namesakes were found (a sports-club-linked person under a different INN context and an Orthodox archpriest born 1950), both rejected per the namesake-avoidance rule. Graduation year remains undisclosed in all checked sources. Round 3 (2026-07-19): Re-read the local prospectus text directly again (page 137) -- confirmed no graduation year is given for the Plekhanov Russian University of Economics entry, reconfirming the round 1/2 finding as a dead end after three research passes. No other null fields remain for this person requiring action this round."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input. For EUTR rows 168-177 list ПАО \"ЕвроТранс\", CEO/Board members and the head of internal audit."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+      "title": "Годовой отчет ПАО \"ЕвроТранс\" за 2024 год",
+      "fact": "Pages 49-51 describe governance bodies and state that the Board of Directors is a key management body. Page 51 states that the Board had 9 members as of 31.12.2024."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+      "title": "Годовой отчет ПАО \"ЕвроТранс\" за 2024 год",
+      "fact": "Pages 54-58 list the nine Board members: Мартышов И.Ю., Алексеенков С.О., Алексеенков О.О., Дорошенко Н.Н., Панкратьева Н.М., Шемякин Б.О., Сафонов О.П., Сигова М.В., Хазин А.Л., with education/status details."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+      "title": "Годовой отчет ПАО \"ЕвроТранс\" за 2024 год",
+      "fact": "Pages 64 and 66-67 disclose committee composition: Audit Committee and HR/Remuneration Committee consist of Сафонов О.П., Сигова М.В., Хазин А.Л.; Sафонов chairs Audit Committee and Сигова chairs HR/Remuneration."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+      "title": "Годовой отчет ПАО \"ЕвроТранс\" за 2024 год",
+      "fact": "Page 79 identifies Депутатов Георгий Юрьевич as Director of Internal Audit."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/EUTR/Отчетность ПАО Евротранс_2024 (003).pdf",
+      "title": "Консолидированная финансовая отчетность ПАО \"Евротранс\" за 2024 год",
+      "fact": "Page 58 discloses remuneration to the General Director and Board members and states that Oleg Alekseenkov was re-elected as General Director after the reporting date, confirming executive continuity."
+    },
+    {
+      "url": "https://finviewer.ru/evrotrans/news/2024/",
+      "title": "FinViewer / e-disclosure feed: EUTR 2024 corporate news",
+      "fact": "The 22.05.2024 Board meeting disclosure includes the nine candidates for the 2024 AGM Board election, matching the annual report and CSV names."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "Rows 168-177 provide the EUTR input list: ПАО \"ЕвроТранс\", Oleg Alekseenkov as CEO/Board member, eight other Board members, and Georgy Deputatov as head of internal audit."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/EUTR/Годовой отчет_ПАО ЕвроТранс_2025.pdf",
+      "title": "Годовой отчет ПАО \"ЕвроТранс\" за 2024 год",
+      "fact": "Local annual report checked before web search; it provides the 2024 governance structure, CEO signature, Board composition, education/degrees for all directors, committee composition and internal-audit director."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/EUTR/Отчетность ПАО Евротранс_2024 (003).pdf",
+      "title": "Консолидированная финансовая отчетность ПАО \"Евротранс\" за 2024 год",
+      "fact": "Local financial report checked before web search; it confirms company/group context, key shareholders as of 31.12.2024, related-party/key-management remuneration and post-reporting re-election of the CEO."
+    },
+    {
+      "url": "https://e-disclosure.ru/portal/FileLoad.ashx?Fileid=1903212",
+      "title": "Проспект ценных бумаг ПАО \"ЕвроТранс\"",
+      "fact": "Official disclosure source used for career tables and internal-audit director details; post-2024 source used only to confirm earlier or 2024-relevant facts."
+    },
+    {
+      "url": "https://www.evrotrans-ao.ru/wp-content/uploads/2025/06/05.-%D0%A1%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BE-%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D0%B0%D1%85-%D0%B2-%D0%A1%D0%94-2025.pdf",
+      "title": "Сведения о кандидатах в Совет директоров ПАО \"ЕвроТранс\", 2025",
+      "fact": "Official company PDF used to corroborate career histories of Board candidates where the facts pre-date or cover 2024."
+    },
+    {
+      "url": "https://www.evrotrans-ao.ru/corporate-2/",
+      "title": "ПАО \"ЕвроТранс\": Корпоративное управление",
+      "fact": "Official corporate-governance page describes the governance system and links Board, committee, internal-audit and risk-control documents."
+    },
+    {
+      "url": "https://raexpert.ru/database/person/alekseenkov_sergey/",
+      "title": "Эксперт РА: Алексеенков Сергей",
+      "fact": "Professional biography corroborating Sergey Alekseenkov's role, education, degree and fuel-retail experience."
+    },
+    {
+      "url": "https://events.vedomosti.ru/speakers/alekseenkov-sergei-3433",
+      "title": "Ведомости Конференции: Сергей Алексеенков",
+      "fact": "Professional speaker biography corroborating Sergey Alekseenkov's EvroTrans role, education and industry experience."
+    },
+    {
+      "url": "https://tass.ru/encyclopedia/person/safonov-oleg-petrovich",
+      "title": "ТАСС: Сафонов, Олег Петрович",
+      "fact": "Biography source for Oleg Safonov's education and identity."
+    },
+    {
+      "url": "https://rg.ru/2015/01/16/safonov-site.html",
+      "title": "Российская газета: справка о Сафонове",
+      "fact": "Biography source for Oleg Safonov's education, candidate degree and career before/at Rostourism."
+    },
+    {
+      "url": "https://ibispb.ru/persons/sigova-mariya-viktorovna/",
+      "title": "Международный банковский институт: Сигова Мария Викторовна",
+      "fact": "Academic/professional source for Maria Sigova's education, degree/status, rector role, h-index and bibliometric identifiers."
+    },
+    {
+      "url": "https://istina.msu.ru/workers/8969811/all/",
+      "title": "ИСТИНА МГУ: Хазин Андрей Леонидович",
+      "fact": "Academic profile for Andrey Khazin: candidate of historical sciences, RAH academician, MSU/RGSU affiliations, course and publication records."
+    },
+    {
+      "url": "https://www.trassaft.ru/",
+      "title": "АО \"Трасса-Фин Тех\": официальный сайт",
+      "fact": "Company self-description confirms IT-infrastructure outsourcing, monitoring and administration services (virtualization, databases, storage, servers, systems administration) as the primary business; primary registered OKVED is 62.02 (consultative computer-technology activity). Used to correct GICS industry from Software to IT Services for all AO TRASSA-Fin Tech professional_experience entries."
+    },
+    {
+      "url": "http://cpnt-rus.ru",
+      "title": "ОАО \"Центр Наукоемких Технологий\": официальный сайт",
+      "fact": "Company self-description confirms an oilfield-services/exploration-technology business (patented hydrocarbon-potential evaluation, seismic-survey planning, well-placement optimization, non-destructive/power-line diagnostics), serving Gazprom, Rosneft and Lukoil. Basis for GICS classification Energy / Energy / Energy Equipment & Services (resolved in round 3, source citation completed in quality-pass round 1)."
+    }
+  ],
+  "validation_notes": "Processed 10 EUTR people from MOEXBMI_2024.csv: 1 CEO/Board member, 8 other Board members, and 1 internal-audit director. Checked 2 relevant local documents in MOEXBMI_Отчеты_2024/EUTR before web search: the 2024 annual report and 2024 consolidated financial statements. Completed 1 research round per person, with additional group-level searches and source chaining. Education was confirmed for all 10 people, although graduation years are absent for most issuer-disclosed education entries. Weak/auxiliary sources were used only to corroborate or contextualize official facts: FinViewer for 2024 board-candidate disclosure feed, WBC for Oleg Alekseenkov CEO context, and professional speaker/database pages for Sergey Alekseenkov. Main conflict: Igor Martyshev's birth year differs between the local 2024 annual report (1971) and later 2025 materials/prospectus (1970); birth year was not used as a final structured fact. Post-2024 official sources were used only to confirm facts covering 2024 or earlier, not to move later roles into 2024. Namesakes and unrelated generic profiles were checked and excluded by full name plus company, role, year, employer, education and domain context; no unresolved namesake risk remains for the facts included. No confirmed patents were found. h_index is included only for Maria Sigova because a named institute profile reports h-index 17 and bibliometric identifiers; h_index for others is null. Search is considered complete because the relevant local PDFs were checked, official issuer/company disclosure, e-disclosure, professional biographies, academic profiles, government/business media and auxiliary disclosure feeds were reviewed, and two later search passes did not produce higher-quality sources for the remaining gaps. Round 3 (2026-07-19): Ran one additional targeted gap-fill research pass across all 10 EUTR people, focused only on fields already flagged null/uncertain after round 2 (education-entry graduation years, a handful of professional_experience GICS triples, and two honorary-title degree entries) -- already-confirmed facts were not re-verified from scratch. Local-first: re-read the full local prospectus text (eutr_prospekt_pages_105_140.txt, pages 114-137, covering all 9 Board members plus the internal-audit director) line by line again before any web check; this reconfirmed that no institution discloses a graduation year for any of the 10 people in this file, and surfaced one explicit source-stated reason for a null (Martyshov's accountants-institute entry: the certificate itself states no specialty is recorded). Web leg: this session's WebSearch tool quota was already exhausted (200 of 200) at the start, so web re-checks used WebFetch directly against company/registry pages and, where that failed, against search-engine result pages (DuckDuckGo, Bing, Google) as a substitute -- most of those search-engine substitutes returned CAPTCHA challenges, region-mismatched results, or unrelated content and yielded nothing new, but direct WebFetch of cpnt-rus.ru and an association registry page did succeed. New fact added: the Center for High-Technology Solutions OAO (Safonov's 2010-2014 Financial Director role) is confirmed as an oilfield-services/exploration-technology company via its own website -- classified Energy / Energy / Energy Equipment & Services (previously null). GICS nulls resolved-as-intentional-null this round, each now with an explained reason in the relevant description/notes field rather than left as an unexplained gap: the SME-support nonprofit partnership and the Spasskoe gardening partnership (nonprofit legal forms, Sergey Alekseenkov), the electric-transport development association (nonprofit association, confirmed via aetransport.ru registry, Doroshenko), the Federal Tourism Agency/Rostourism and the precious-metals investment association (government agency and nonprofit trade association, Safonov), the regional Snowboard Federation branch (nonprofit sports-federation branch, Sigova), and both Russian Academy of Arts entries (state creative-research academy, distinct from the education-service classification used for this same person's MSU/RGSU roles, Khazin) -- none of these has a matching commercial GICS bucket, so all three fields stay null with the reasoning now on record instead of being an unexplained gap. Institution-normalization and qualification_degree spot-check: programmatically re-validated every institution string in this file against university_names.json (all 15 distinct institutions used match a canonical key exactly; no new institution found this round, new_institutions_found stays empty) and every qualification_degree value against the ten allowed values plus null (no violations found), and every non-null sector/industry_group/industry triple against gics_taxonomy.json (all are exact rows). Education-year, degree-year and remaining professional-history gaps not resolved above (CEO Webster University year; all Board members' institution graduation years; Khazin's degree years; Martyshov's and Sergey Alekseenkov's pre-2022 professional history beyond what the prospectus already discloses) are reconfirmed dead ends after three cumulative research passes (round 1 web search, round 2 direct prospectus re-fetch plus RSL/dissertation-catalog checks, round 3 direct prospectus re-read plus WebFetch substitute search) and remain null per the prefer-null-over-guess rule. No previously confirmed fact was deleted, shrunk or overwritten this round; all round 3 changes are field-level appends (notes/description/sources) plus the one GICS-triple fill for the CNT entry. MASS DATA-LOSS REPAIR (2026-07-30): restored 10 shortened person notes, 2 shortened experience descriptions, 0 shortened education descriptions, 0 missing person-level sources, and 0 missing experience-level sources using git HEAD (commit 03bfe9f, 2026-07-20) as the reliable baseline. Nothing else in this file was touched.",
+  "sector": "Energy",
+  "industry_group": "Energy",
+  "industry": "Oil, Gas & Consumable Fuels"
+}

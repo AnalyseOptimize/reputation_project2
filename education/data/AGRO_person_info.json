@@ -1,0 +1,299 @@
+{
+  "company_name": "ROS AGRO PLC / ПАО \"Группа \"Русагро\" / ООО \"Группа Компаний \"Русагро\" (в CSV: РОС АГРО ПЛС)",
+  "company_ticker": "AGRO",
+  "ceo": {
+    "name": "Липатов Тимур Владимирович",
+    "current_role": "В контексте 2024 года: генеральный директор ООО \"Группа Компаний \"Русагро\"; в официальных материалах 2024 года также указан как генеральный директор ПАО \"Группа \"Русагро\" и член Совета директоров ROS AGRO PLC.",
+    "company_name": "ROS AGRO PLC / ПАО \"Группа \"Русагро\" / ООО \"Группа Компаний \"Русагро\"",
+    "education": [
+      {
+        "institution": "Национальный исследовательский университет «МЭИ»",
+        "year": 2003,
+        "program_or_specialty": "Тепловые электрические станции / теплоэнергетика",
+        "qualification": "Окончил с отличием; источники указывают инженерную/теплоэнергетическую специализацию.",
+        "source": "https://www.unipro.energy/pressroom/news/485254/",
+        "qualification_degree": "Specialist degree"
+      },
+      {
+        "institution": "Международный независимый эколого-политологический университет",
+        "year": 2002,
+        "program_or_specialty": "Менеджмент организации",
+        "qualification": "Дополнительное образование; диплом с отличием.",
+        "source": "https://www.unipro.energy/pressroom/news/485254/",
+        "qualification_degree": "Professional certification"
+      },
+      {
+        "institution": "European School of Management and Technology, Berlin",
+        "year": 2012,
+        "program_or_specialty": "MBA",
+        "qualification": "MBA",
+        "source": "https://www.rusagrogroup.ru/ru/investoram/novosti-i-sobytija/press-relizy/edinoe-predstavlenie/article/1153/",
+        "qualification_degree": "MBA"
+      }
+    ],
+    "degrees": [
+      {
+        "degree": "MBA",
+        "institution": "European School of Management and Technology, Berlin",
+        "year": 2012,
+        "source": "https://power-m.ru/press-center/news/organizational-and-personnel-changes-in-pjsc-power-machines-200918/",
+        "qualification_degree": "MBA"
+      }
+    ],
+    "professional_experience": [
+      {
+        "organization": "Всероссийский теплотехнический научно-исследовательский институт; ОАО \"Технопромэкспорт\"; ОАО \"Энел ОГК-5\"",
+        "role": "Инженерно-технические должности",
+        "start_year": 2002,
+        "end_year": 2007,
+        "description": "Официальные биографии указывают работу на различных инженерно-технических должностях; Unipro дополнительно указывает работу в ОАО \"ОГК-5\" в 2006-2007 гг. начальником отдела реализации проектов.",
+        "source": "https://www.unipro.energy/pressroom/news/485254/",
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      },
+      {
+        "organization": "ОАО \"ОГК-3\"",
+        "role": "Директор по капитальному строительству",
+        "start_year": 2007,
+        "end_year": 2009,
+        "description": "Официальная биография Unipro и Power Machines подтверждает должность в 2007-2009 гг.",
+        "source": "https://power-m.ru/press-center/news/organizational-and-personnel-changes-in-pjsc-power-machines-200918/",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Independent Power and Renewable Electricity Producers"
+      },
+      {
+        "organization": "ОАО \"Э.ОН Россия\" / ПАО \"Юнипро\"",
+        "role": "Исполнительный директор по капитальному строительству; директор по инвестициям и развитию; заместитель генерального директора по новому строительству и стратегическому развитию",
+        "start_year": 2009,
+        "end_year": 2014,
+        "description": "Unipro сообщает, что он пришел в марте/апреле 2009 года на должность исполнительного директора по капитальному строительству, в 2011 году был назначен заместителем генерального директора, а в 2013 году входил в правление как директор по инвестициям и развитию.",
+        "source": "https://www.unipro.energy/pressroom/news/487872/",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Independent Power and Renewable Electricity Producers"
+      },
+      {
+        "organization": "ООО \"Интер РАО - Управление электрогенерацией\"",
+        "role": "Генеральный директор",
+        "start_year": 2015,
+        "end_year": 2018,
+        "description": "Роль подтверждена официальными биографиями Русагро и Power Machines; RIA interview в 2016 году также идентифицирует его как генерального директора этой компании.",
+        "source": "https://www.rusagrogroup.ru/ru/investoram/novosti-i-sobytija/press-relizy/edinoe-predstavlenie/article/1153/",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Independent Power and Renewable Electricity Producers"
+      },
+      {
+        "organization": "ПАО / АО \"Силовые машины\"",
+        "role": "Генеральный директор",
+        "start_year": 2018,
+        "end_year": 2021,
+        "description": "Назначен генеральным директором с 20.09.2018; официальное сообщение Power Machines от 19.04.2021 указывает, что 20.04.2021 он покидает компанию по соглашению сторон.",
+        "source": "https://power-m.ru/press-center/news/silovye-mashiny-soobshchayut-o-naznachenii-novogo-generalnogo-direktora/",
+        "sector": "Industrials",
+        "industry_group": "Capital Goods",
+        "industry": "Electrical Equipment"
+      },
+      {
+        "organization": "ГК \"Русагро\" / ООО \"Группа Компаний \"Русагро\"",
+        "role": "Работал в Русагро до вступления в должность CEO; затем генеральный директор",
+        "start_year": 2021,
+        "end_year": null,
+        "description": "Официальный релиз Русагро сообщает, что Липатов работает в Русагро с 01.09.2021, а с 01.01.2022 занимает должность генерального директора ГК \"Русагро\".",
+        "source": "https://www.rusagrogroup.ru/ru/investoram/novosti-i-sobytija/press-relizy/edinoe-predstavlenie/article/1153/",
+        "sector": "Consumer Staples",
+        "industry_group": "Food, Beverage & Tobacco",
+        "industry": "Food Products"
+      },
+      {
+        "organization": "ПАО \"Группа \"Русагро\" / ROS AGRO PLC",
+        "role": "Генеральный директор ПАО \"Группа \"Русагро\"; член Совета директоров ROS AGRO PLC",
+        "start_year": 2024,
+        "end_year": null,
+        "description": "Официальный релиз Русагро от 25.06.2024 описывает Тимура Липатова как члена Совета директоров ROS AGRO PLC и генерального директора ПАО \"Группа \"Русагро\".",
+        "source": "https://www.rusagrogroup.ru/cn/investors/novosti-i-sobytija/press-releases/single-view/article/1333/",
+        "sector": "Consumer Staples",
+        "industry_group": "Food, Beverage & Tobacco",
+        "industry": "Food Products"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "Строка 34: AGRO / РОС АГРО ПЛС / Липатов Тимур Владимирович / CEO."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/AGRO/RusAgro_AR2024_RUS_book_+CCG_squeezed.pdf",
+        "title": "ПАО \"Группа \"Русагро\". Годовой отчет 2024",
+        "fact": "Страница 30: обращение подписано Тимуром Владимировичем Липатовым как генеральным директором ООО \"Группа Компаний \"Русагро\"; страницы 187, 193-194 показывают, что состав Совета директоров и Правления за 31.12.2024 обезличен на основании Постановления Правительства РФ №1102."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/AGRO/ПАО Группа Русагро 2024.pdf",
+        "title": "ПАО \"Группа \"Русагро\". Консолидированная финансовая отчетность за 2024 год",
+        "fact": "Страница 60: функцию руководителя, отвечающего за операционные решения, выполняет Генеральный директор ПАО \"Группа \"Русагро\"; страница 58 раскрывает изменения контроля ROS AGRO PLC в 2024 году."
+      },
+      {
+        "url": "https://ar2024.rusagrogroup.ru/ru/strategy-report/message-ceo",
+        "title": "Годовой отчет ПАО \"Группа \"Русагро\" за 2024 год: Обращение Генерального директора",
+        "fact": "Веб-версия годового отчета 2024 подтверждает: \"Тимур Владимирович Липатов Генеральный директор ООО \"Группа Компаний \"Русагро\"."
+      },
+      {
+        "url": "https://ar2024.rusagrogroup.ru/ru/corporate-governance/structure",
+        "title": "Годовой отчет ПАО \"Группа \"Русагро\" за 2024 год: Структура корпоративного управления",
+        "fact": "Раздел \"Руководство\" описывает Генерального директора и Правление как руководство Группы; состав Правления на 31.12.2024 обезличен, а решение Совета директоров 27.12.2024 включает продление полномочий действующего Генерального директора."
+      },
+      {
+        "url": "https://www.rusagrogroup.ru/ru/investoram/novosti-i-sobytija/press-relizy/edinoe-predstavlenie/article/1153/",
+        "title": "Русагро. Выбор преемника на должность генерального директора ГК \"Русагро\"",
+        "fact": "Официальный релиз от 25.11.2021 сообщает, что с 01.01.2022 должность генерального директора ГК \"Русагро\" займет Тимур Липатов; также раскрыты образование, MBA и предыдущие работодатели."
+      },
+      {
+        "url": "https://www.rusagrogroup.ru/cn/investors/novosti-i-sobytija/press-releases/single-view/article/1333/",
+        "title": "Rusagro. ROS AGRO PLC сообщает, что член Совета Директоров приобрел ГДР компании",
+        "fact": "Релиз от 25.06.2024 называет Тимура Липатова членом Совета директоров ROS AGRO PLC и генеральным директором ПАО \"Группа \"Русагро\"."
+      },
+      {
+        "url": "https://ar2023.rusagrogroup.ru/en/corporate-governance/",
+        "title": "Rusagro Annual Report 2023: Corporate governance",
+        "fact": "Раздел Management подтверждает образование, MBA, предыдущий опыт и назначение CEO of Rusagro Group LLC on 1 January 2022."
+      },
+      {
+        "url": "https://power-m.ru/press-center/news/organizational-and-personnel-changes-in-pjsc-power-machines-200918/",
+        "title": "Силовые машины. Об организационно-кадровых изменениях в ПАО \"Силовые машины\"",
+        "fact": "Официальный релиз от 20.09.2018 назначает Тимура Липатова генеральным директором ПАО \"Силовые машины\" и подтверждает образование, MBA и карьеру в энергетике."
+      },
+      {
+        "url": "https://power-m.ru/press-center/news/silovye-mashiny-soobshchayut-o-naznachenii-novogo-generalnogo-direktora/",
+        "title": "Силовые машины сообщают о назначении нового генерального директора",
+        "fact": "Официальный релиз от 19.04.2021 указывает, что 20.04.2021 Тимур Липатов покидает должность генерального директора АО \"Силовые машины\" по соглашению сторон."
+      },
+      {
+        "url": "https://www.unipro.energy/pressroom/news/485254/",
+        "title": "Юнипро. Изменился состав Правления \"Э.ОН Россия\"",
+        "fact": "Официальное сообщение от 25.10.2013 дает точные сведения об образовании: МЭИ в 2003 году, МНЭПУ в 2002 году, MBA ESMT в 2012 году, а также карьеру в ОГК-5, ОГК-3 и Э.ОН Россия."
+      },
+      {
+        "url": "https://www.unipro.energy/pressroom/news/487872/",
+        "title": "Юнипро. Тимур Липатов назначен заместителем генерального директора ОАО \"Э.ОН Россия\"",
+        "fact": "Сообщение от 31.01.2014 подтверждает назначение заместителем генерального директора по новому строительству и стратегическому развитию и описывает обязанности."
+      },
+      {
+        "url": "https://ria.ru/20160916/1477060059.html",
+        "title": "РИА Новости. Тимур Липатов: без новых решений столкнемся с ростом цен на электроэнергию",
+        "fact": "Интервью 16.09.2016 идентифицирует Тимура Липатова как генерального директора \"Интер РАО - Управление электрогенерацией\"."
+      },
+      {
+        "url": "https://www.agroinvestor.ru/opinion/news/43237-timur-lipatov-rusagro-nuzhno-povyshat-effektivnost-agrobiznesa/",
+        "title": "Агроинвестор. Тимур Липатов, \"Русагро\": нужно повышать эффективность агробизнеса",
+        "fact": "Материал от 26.10.2024 подтверждает публичное выступление Липатова в 2024 году как гендиректора группы \"Русагро\"; не использовался как научная публикация."
+      },
+      {
+        "url": "https://eduscan.net/standart/140101",
+        "title": "Государственный образовательный стандарт по специальности 100500 \"Тепловые электрические станции\"",
+        "fact": "Раунд 2 (2026-07-18): специальность 100500 \"Тепловые электрические станции\" (приказ Госкомвуза России №180 от 05.03.1994) — очная форма обучения 5 лет, квалификация выпускника \"инженер\"; использовано для определения qualification_degree = Specialist degree для записи МЭИ 2003 года."
+      },
+      {
+        "url": "https://power-m.ru/en/company/",
+        "title": "Power Machines. Company profile",
+        "fact": "Раунд 2 (2026-07-18): Power Machines — производитель энергетического оборудования (турбины, генераторы, трансформаторы) для тепловых, атомных, гидро- и газотурбинных электростанций, а не электрогенерирующая/сетевая компания; использовано для GICS-классификации записи \"Силовые машины\" как Industrials/Capital Goods/Electrical Equipment."
+      },
+      {
+        "url": "https://www.rusagrogroup.ru/about-us/",
+        "title": "Rusagro. About us",
+        "fact": "Раунд 2 (2026-07-18): Rusagro Group описана как крупнейший вертикально интегрированный агрохолдинг России (сахар, свинина, растениеводство, масложировая продукция); использовано для GICS-классификации компании и записей ГК \"Русагро\"/ПАО \"Группа \"Русагро\" как Consumer Staples/Food, Beverage & Tobacco/Food Products, что также соответствует публичным MSCI/биржевым классификациям ROS AGRO PLC (AGRO)."
+      },
+      {
+        "url": "https://www.unipro.energy/en/about/",
+        "title": "Unipro. About us",
+        "fact": "Quality pass round 1 (2026-07-31): подтверждает, что генерирующие активы Unipro — тепловые ГРЭС оптового рынка (Березовская, Смоленская, Сургутская-2, Шатурская, Яйвинская ГРЭС) без собственной распределительной/сбытовой сети; использовано как дополнительное подтверждение корректности GICS-классификации Utilities/Utilities/Independent Power and Renewable Electricity Producers для записей ОАО \"ОГК-3\", ОАО \"Э.ОН Россия\"/ПАО \"Юнипро\" и ООО \"Интер РАО - Управление электрогенерацией\" (проверка на предмет статьи-примера про ошибочную классификацию, ничего не изменено — метка уже была верной)."
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Power_Machines",
+        "title": "Wikipedia. Power Machines",
+        "fact": "Quality pass round 1 (2026-07-31): подтверждает, что \"Силовые машины\" производят паровые турбины (в т.ч. для АЭС) мощностью до 1200 МВт, газовые турбины, турбогенераторы и оборудование для ТЭС/ГЭС — то есть являются производителем тяжёлого энергетического оборудования, а не генерирующей/сетевой компанией; использовано как дополнительное подтверждение корректности GICS-классификации Industrials/Capital Goods/Electrical Equipment для записи \"ПАО / АО \"Силовые машины\"\" (проверка, ничего не изменено — метка уже была верной)."
+      }
+    ],
+    "notes": "Годовой отчет 2024 Русагро раскрывает роль Липатова в обращении генерального директора, но персональный состав Совета директоров и Правления за 31.12.2024 обезличен на основании Постановления Правительства РФ №1102. Найден конфликт по году рождения: большинство официальных и профильных источников указывают 1980, а один отчет ПАО за 2023 год указывает 1975; год рождения не включен в итоговую структуру. Подтвержденных научных публикаций, патентов, ORCID/Google Scholar/Scopus/eLIBRARY-профиля или h-index для данного лица не найдено. Раунд 2 (2026-07-18, gap-filling): локальные отчеты AGRO повторно проверены на предмет персональных данных Липатова — состав органов управления по-прежнему обезличен под Постановлением №1102, новых фактов не найдено, роль CEO не требует дополнительного подтверждения. Целевой веб-поиск закрыл два оставшихся пробела: (1) уровень квалификации МЭИ 2003 года подтвержден через государственный образовательный стандарт по специальности 100500 \"Тепловые электрические станции\" — 5-летняя очная программа с квалификацией \"инженер\" (Specialist degree); (2) степень образования МНЭПУ 2002 года (\"Менеджмент организации\") сохранена как Professional certification на основании многократной формулировки первоисточника (Unipro, 2013) \"дополнительное образование\", что соответствует диплому о профессиональной переподготовке, а не самостоятельной специалитет/бакалаврской программе; уверенность средне-высокая, так как прямого текста диплома не найдено. Институты образования нормализованы к канонической форме из university_names.json (МЭИ -> \"Национальный исследовательский университет «МЭИ»\"; МНЭПУ -> \"Международный независимый эколого-политологический университет\"); ESMT Berlin уже соответствовал канонической форме. Новых институтов, отсутствующих в university_names.json, не найдено. РАУНД 3 (2026-07-28, программная верификация): независимая проверка round 2 по чек-листу задачи — все 6 непустых GICS-триплетов сверены построчно с gics_taxonomy.json (точные совпадения, инвентированных категорий нет), все 4 значения qualification_degree проверены на принадлежность разрешенному списку из 10 значений (валидны), все 3 названия институтов сверены с university_names.json как точные канонические ключи, CSV повторно проверен на предмет пропущенных строк AGRO (не найдено, tmt=[] корректен). Один дополнительный целевой веб-поиск по единственному полю с пониженной уверенностью (qualification_degree МНЭПУ = Professional certification) новых персональных фактов не дал; значение и уровень уверенности round 2 оставлены без изменений. Фактических изменений в JSON раунд 3 не вносил, кроме дополнения этого поля notes (см. research_notes/AGRO/Липатов_Тимур_Владимирович_round_3.md) — это дополнение было утеряно при последующей массовой регрессии данных до восстановления файла (MASS DATA-LOSS REPAIR, 2026-07-30) и восстанавливается здесь как часть QUALITY PASS ROUND 1. QUALITY PASS ROUND 1 (2026-07-31): полная сверка notes vs JSON по всем трем раундам — desync не найден (все подтвержденные факты round 1-3 уже отражены в JSON), genuine inconsistency не найдено (конфликт года рождения 1975/1980 не является desync JSON-поля, так как поле исключено из схемы и остается только в тексте notes, как и было). GICS-корректность перепроверена для всех 6 непустых триплетов с дополнительным целевым чтением первичных источников (unipro.energy/en/about — тепловые ГРЭС без сетевого/сбытового бизнеса, подтверждает Independent Power and Renewable Electricity Producers; en.wikipedia.org/wiki/Power_Machines — производитель турбин/генераторов, подтверждает Electrical Equipment) — ни одна метка не потребовала исправления. Honest-gap follow-up: в записи CEO не осталось полей, null которых объясняется \"insufficient reliable source\" на конкретном человеке/работодателе (единственный null-триплет professional_experience[0] обусловлен структурным смешением трех разных организаций в одной унаследованной записи, а не нехваткой источника; h_index/publications/patents корректно null как подтвержденное отсутствие профиля) — поэтому целевых gap-поисков в этом раунде не запускалось, это зафиксировано как осознанное решение, а не пропуск."
+  },
+  "tmt": [],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/AGRO/RusAgro_AR2024_RUS_book_+CCG_squeezed.pdf",
+      "title": "ПАО \"Группа \"Русагро\". Годовой отчет 2024",
+      "fact": "Страница 30: Тимур Владимирович Липатов указан генеральным директором ООО \"Группа Компаний \"Русагро\"; страница 182 описывает структуру управления Группы; страницы 187 и 193 показывают, что состав Совета директоров и Правления на 31.12.2024 обезличен."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/AGRO/ПАО Группа Русагро 2024.pdf",
+      "title": "ПАО \"Группа \"Русагро\". Консолидированная финансовая отчетность за 2024 год",
+      "fact": "Страница 60: функцию CODM выполняет Генеральный директор ПАО \"Группа \"Русагро\"; страница 58 описывает изменение контроля ROS AGRO PLC в 2024 году."
+    },
+    {
+      "url": "https://www.rusagrogroup.ru/cn/investors/novosti-i-sobytija/press-releases/single-view/article/1333/",
+      "title": "Rusagro. ROS AGRO PLC сообщает, что член Совета Директоров приобрел ГДР компании",
+      "fact": "25.06.2024: Тимур Липатов указан как член Совета директоров ROS AGRO PLC и генеральный директор ПАО \"Группа \"Русагро\"."
+    },
+    {
+      "url": "https://ar2024.rusagrogroup.ru/ru/corporate-governance/structure",
+      "title": "Годовой отчет ПАО \"Группа \"Русагро\" за 2024 год: Структура корпоративного управления",
+      "fact": "Отчет описывает органы управления ПАО \"Группа \"Русагро\" и указывает, что Совет директоров 27.12.2024 продлил полномочия действующего Генерального директора; персональные составы органов управления обезличены."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "Строка 34 задает исходного человека по тикеру AGRO: Липатов Тимур Владимирович, CEO."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/AGRO/RusAgro_AR2024_RUS_book_+CCG_squeezed.pdf",
+      "title": "ПАО \"Группа \"Русагро\". Годовой отчет 2024",
+      "fact": "Локальный годовой отчет проверен полностью по релевантным разделам: профиль/структура, история, обращение гендиректора, корпоративное управление, Совет директоров, Правление и руководство."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/AGRO/ПАО Группа Русагро 2024.pdf",
+      "title": "ПАО \"Группа \"Русагро\". Консолидированная финансовая отчетность за 2024 год",
+      "fact": "Локальная финансовая отчетность проверена; биографии не содержит, но подтверждает контекст управления и изменение контроля ROS AGRO PLC в 2024 году."
+    },
+    {
+      "url": "https://www.rusagrogroup.ru/ru/investoram/novosti-i-sobytija/press-relizy/edinoe-predstavlenie/article/1153/",
+      "title": "Русагро. Выбор преемника на должность генерального директора ГК \"Русагро\"",
+      "fact": "Официальная биография и назначение с 01.01.2022."
+    },
+    {
+      "url": "https://ar2024.rusagrogroup.ru/ru/strategy-report/message-ceo",
+      "title": "Годовой отчет ПАО \"Группа \"Русагро\" за 2024 год: Обращение Генерального директора",
+      "fact": "Подтверждает роль Липатова как генерального директора ООО \"Группа Компаний \"Русагро\" в годовом отчете 2024."
+    },
+    {
+      "url": "https://ar2024.rusagrogroup.ru/ru/corporate-governance/structure",
+      "title": "Годовой отчет ПАО \"Группа \"Русагро\" за 2024 год: Структура корпоративного управления",
+      "fact": "Подтверждает структуру органов управления и обезличенное раскрытие персонального состава на 31.12.2024."
+    },
+    {
+      "url": "https://power-m.ru/press-center/news/organizational-and-personnel-changes-in-pjsc-power-machines-200918/",
+      "title": "Силовые машины. Об организационно-кадровых изменениях",
+      "fact": "Подтверждает назначение в Power Machines и ключевые биографические сведения."
+    },
+    {
+      "url": "https://www.unipro.energy/pressroom/news/485254/",
+      "title": "Юнипро. Изменился состав Правления \"Э.ОН Россия\"",
+      "fact": "Подтверждает точные образовательные годы и часть карьерного пути."
+    }
+  ],
+  "validation_notes": "Обработано людей: 1. Проверено локальных документов: 2. Всего research rounds: 2. Людей с существенной неопределенностью: 0; локальное раскрытие состава органов управления за 31.12.2024 обезличено, но роль CEO подтверждена локальным годовым отчетом, локальной финансовой отчетностью и официальными веб-источниками. Людей без подтвержденного образования: 0. Использованные слабые источники: TAdviser, Elec.ru, DP Whoiswho и OpenSanctions применялись только для дополнительной сверки личности, не как единственная опора ключевых фактов. Конфликты: год рождения 1975 в одном отчете ПАО за 2023 год против 1980 в большинстве официальных и профильных источников; год рождения не сохранялся в JSON. Исключены однофамильцы: Виль Липатов, Василий Липатов, Александр Липатов и нерелевантные ORCID/публикационные профили. Поиск считается завершенным, потому что найдена полная официальная биография, ключевые факты подтверждены прежними работодателями и официальными годовыми отчетами, отдельные поиски образования, предыдущего опыта, назначений, профессиональных выступлений, публикаций, патентов и научных профилей не дали новых проверяемых биографических фактов или критических противоречий. РАУНД 2 (2026-07-18, gap-filling по REFINEMENT.md): единственный человек в файле — CEO Липатов Т.В. (tmt пуст, так как в MOEXBMI_2024.csv для AGRO указана только одна строка/один человек — CSV перепроверен повторно, новых строк не найдено). Добавлено: (1) sector/industry_group/industry на уровне компании — Consumer Staples / Food, Beverage & Tobacco / Food Products; источник — профиль деятельности Rusagro Group (rusagrogroup.ru/about-us, крупнейший вертикально интегрированный агрохолдинг: сахар, свинина, растениеводство, масложировая продукция), совпадает с публичной GICS/биржевой классификацией AGRO; надежность высокая. (2) sector/industry_group/industry для каждой записи professional_experience: ОАО \"ОГК-3\", ОАО \"Э.ОН Россия\"/ПАО \"Юнипро\", ООО \"Интер РАО - Управление электрогенерацией\" классифицированы как Utilities / Utilities / Independent Power and Renewable Electricity Producers — это генерирующие компании оптового рынка электроэнергии без регулируемого сетевого/сбытового бизнеса, что соответствует данной GICS-категории (а не Electric Utilities); надежность высокая (общеизвестный профиль деятельности, подтвержден round 1 источниками Unipro/Power Machines). ПАО/АО \"Силовые машины\" классифицировано как Industrials / Capital Goods / Electrical Equipment — компания производит турбины, генераторы, трансформаторы для электростанций, то есть производитель оборудования, а не генерирующая/сетевая компания; подтверждено на power-m.ru/en/company; надежность высокая. ГК \"Русагро\"/ООО \"Группа Компаний \"Русагро\" и ПАО \"Группа \"Русагро\"/ROS AGRO PLC классифицированы как Consumer Staples / Food, Beverage & Tobacco / Food Products — та же классификация, что и у эмитента AGRO. Запись \"Всероссийский теплотехнический научно-исследовательский институт; ОАО \"Технопромэкспорт\"; ОАО \"Энел ОГК-5\"\" (2002-2007) оставлена с sector/industry_group/industry = null, так как это одна запись, объединяющая три разные организации с разной основной деятельностью (научно-исследовательский институт, инжиниринговый/EPC-экспортер энергооборудования и генерирующая компания) — единая достоверная GICS-классификация для такой сборной записи невозможна без смешения разных организаций, что запрещено правилами задачи; гадать не стали. (3) qualification_degree добавлено во все записи education[] и degrees[]: МЭИ 2003 (специальность 100500 \"Тепловые электрические станции\") = Specialist degree — подтверждено государственным образовательным стандартом (приказ Госкомвуза России №180 от 05.03.1994): очная форма 5 лет, квалификация выпускника \"инженер\", то есть классический советско-российский специалитет допоболонского периода; надежность высокая. МНЭПУ 2002 (\"Менеджмент организации\") = Professional certification — источник (Unipro, официальный релиз 2013) явно называет это \"дополнительным образованием\" с дипломом, что по формату соответствует диплому о профессиональной переподготовке, а не самостоятельной специалитет/бакалаврской программе; надежность средне-высокая, так как оригинал диплома не найден, вывод сделан из формулировки первоисточника, обоснование зафиксировано здесь. ESMT Berlin 2012 = MBA — прямое указание в источниках (Unipro, Rusagro, Power Machines), надежность высокая; та же степень продублирована в degrees[0]. (4) Институты нормализованы к канонической форме из university_names.json: \"Московский энергетический институт (технический университет) / National Research University \\\"Moscow Power Engineering Institute\\\"\" -> \"Национальный исследовательский университет «МЭИ»\" (точное совпадение по списку синонимов); \"Международный независимый эколого-политологический университет / International Independent University of Environmental and Political Sciences\" -> \"Международный независимый эколого-политологический университет\" (точное совпадение по списку синонимов); \"European School of Management and Technology, Berlin\" уже соответствовал канонической форме, изменений не потребовалось. Новых институтов, отсутствующих в university_names.json, для AGRO не найдено — new_institutions_found пуст. (5) Локальные отчеты AGRO (RusAgro_AR2024_RUS_book_+CCG_squeezed.pdf, ПАО Группа Русагро 2024.pdf) повторно проверены в первую очередь на предмет персональных данных Липатова перед веб-поиском — состав органов управления по-прежнему обезличен под Постановлением Правительства РФ №1102, новых персональных фактов не найдено, что ожидаемо и не является пробелом, требующим дальнейшего поиска. Ни один ранее подтвержденный факт не был удален или перезаписан; все изменения раунда 2 являются дополнениями. MASS DATA-LOSS REPAIR (2026-07-30): restored 1 shortened person notes, 0 shortened experience descriptions, 0 shortened education descriptions, 3 missing person-level sources, and 0 missing experience-level sources using git HEAD (commit 03bfe9f, 2026-07-20) as the reliable baseline. Nothing else in this file was touched. QUALITY PASS ROUND 1 (2026-07-31): Step 0 pre-check — current on-disk file diffed byte-for-byte against `git show HEAD` (commit f973022) prior to any edit: identical content (only CRLF vs LF line-ending difference), so no regression to restore for this ticker. Desync check (notes vs JSON, all 3 research rounds read): no simple omissions found (every confirmed fact from round 1-3 notes was already present in the JSON); no genuine inconsistencies found in any structured field — the only documented conflict (birth year 1975 vs 1980, round 1) is correctly excluded from the JSON schema and remains text-only in ceo.notes, so it is not a field-level desync. GICS label correctness: all 6 non-null sector/industry_group/industry triples (company level + 6 professional_experience entries) re-verified as exact rows of gics_taxonomy.json and sanity-checked against each named organization's real primary business, including 2 fresh corroborating source reads this round (unipro.energy/en/about confirms Unipro's plants are unbundled wholesale thermal GRES stations with no distribution/retail business, supporting Utilities/Independent Power and Renewable Electricity Producers for OGK-3/E.ON Russia-Unipro/Inter RAO-Generation Management; en.wikipedia.org/wiki/Power_Machines confirms it manufactures turbines/generators rather than operating power plants, supporting Industrials/Capital Goods/Electrical Equipment) — no mislabeled entries found, no triple changed. The one null GICS triple (professional_experience[0], a merged 2002-2007 entry spanning 3 organizations with different primary businesses: VTI research institute, Технопромэкспорт EPC contractor, Enel OGK-5 generator) was reviewed again and left null — this is a structural conflation issue (no single triple can honestly cover all 3 organizations), not an \"insufficient reliable source\" gap and not a government/nonprofit-type non-classifiable entity, so it falls outside both the GICS-relabeling and the honest-gap-follow-up task categories; documented rather than guessed at. Honest-gap follow-up: surveyed every null field in the CEO record; found none that is null specifically because a prior round logged \"insufficient reliable source\" on a real, nameable person/employer still worth a fresh targeted search (h_index/publications/patents/research_experience are confirmed-absent per round 1's dedicated ORCID/Scholar/eLIBRARY/patent search trail, not source-insufficiency gaps) — so 0 bounded gap-follow-up search attempts were run this round; this null-field survey and its conclusion are logged so a future pass does not need to re-derive it. Also reconciled: round 3 (research_notes, 2026-07-28) had performed an independent programmatic re-verification with no factual JSON changes, intending only to append a short paragraph to validation_notes/notes documenting that pass — that intended paragraph was lost to the pre-2026-07-30 data-loss regression before it was ever committed (it postdates commit 03bfe9f, the MASS DATA-LOSS REPAIR baseline) and is restored here, folded into ceo.notes and this paragraph, as part of this round rather than as a silent gap. No previously confirmed fact was deleted or shortened. Full detail in research_notes/AGRO/quality_pass_round1_20260731.md.",
+  "sector": "Consumer Staples",
+  "industry_group": "Food, Beverage & Tobacco",
+  "industry": "Food Products"
+}

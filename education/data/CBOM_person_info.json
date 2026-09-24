@@ -1,0 +1,336 @@
+{
+  "company_name": "ПАО \"МОСКОВСКИЙ КРЕДИТНЫЙ БАНК\"",
+  "company_ticker": "CBOM",
+  "ceo": null,
+  "tmt": [
+    {
+      "name": "Маликова Дина Ринатовна",
+      "current_role": "Председатель Правления ПАО \"МОСКОВСКИЙ КРЕДИТНЫЙ БАНК\" с июля 2025 года; CSV указывает эту роль, но для календарного 2024 года она не подтверждена",
+      "company_name": "ПАО \"МОСКОВСКИЙ КРЕДИТНЫЙ БАНК\"",
+      "education": [
+        {
+          "institution": "Казанский (Приволжский) федеральный университет",
+          "program": "Факультет вычислительной математики и кибернетики",
+          "qualification": "Прикладная математика",
+          "year": 1996,
+          "description": "Окончила факультет вычислительной математики и кибернетики Казанского государственного университета.",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "The Open University",
+          "program": "Management",
+          "qualification": "Diploma in Management",
+          "year": 2005,
+          "description": "Имеет диплом по менеджменту Открытого университета Великобритании; год подтверждён двумя независимыми источниками (TAdviser, GlobalMSK) как 2005 — ранее флагованная неопределённость года снята в round 2 и перепроверена в этом раунде.",
+          "qualification_degree": "Executive education"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Кандидат физико-математических наук",
+          "field": "Математическое моделирование, численные методы и комплексы программ",
+          "institution": "Казанский (Приволжский) федеральный университет",
+          "year": 2000,
+          "description": "Автореферат диссертации: \"Численное моделирование структурной динамики ледникового покрова\", специальность 05.13.18.",
+          "qualification_degree": "Doctoral degree"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "Банки \"Аверс\" и \"АК Барс\"",
+          "role": "Сотрудник банка «Аверс» (1995); различные должности в Казначействе банка «АК Барс» (1999-2001); Директор Казначейства банка «АК Барс» (с 2001)",
+          "start_year": 1995,
+          "end_year": 2003,
+          "description": "По данным Banking Review, работала в банках \"Аверс\" и \"АК Барс\". TAdviser детализирует периоды внутри уже подтверждённого диапазона 1995-2003: сотрудник банка «Аверс» в 1995 году; различные должности в Казначействе АК «Барс» в 1999-2001 годах; Директор Казначейства с 2001 года.",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "Всероссийский банк развития регионов (ВБРР)",
+          "role": "Руководитель казначейства, член Правления",
+          "start_year": 2003,
+          "end_year": 2011,
+          "description": "ASROS и Banking Review указывают работу в ВБРР с 2003 года; с 2005 года была членом Правления, курировала казначейство и смежные финансово-аналитические функции.",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "Всероссийский банк развития регионов (ВБРР)",
+          "role": "Старший вице-президент",
+          "start_year": 2011,
+          "end_year": 2013,
+          "description": "В августе 2011 года назначена старшим вице-президентом ВБРР; в июле 2013 года стала исполняющей обязанности президента.",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "Всероссийский банк развития регионов (ВБРР)",
+          "role": "Президент / Председатель Правления",
+          "start_year": 2014,
+          "end_year": 2025,
+          "description": "23 сентября 2014 года официально вступила в должность президента ВБРР; Interfax и Kommersant сообщили, что она покинула пост председателя правления ВБРР в июле 2025 года.",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "КБ \"Пересвет\"",
+          "role": "Председатель Совета директоров",
+          "start_year": 2017,
+          "end_year": null,
+          "description": "Banking Review указывает, что в августе 2017 года избрана председателем совета директоров КБ \"Пересвет\"; первичный источник отдельно не найден. Пресс-релиз bosfera.ru (21.08.2017) цитирует собственное решение совета директоров КБ «Пересвет» об избрании Маликовой председателем совета директоров — более сильная опора, чем общее досье Banking Review; start_year не изменён.",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "ПАО \"НК \"Роснефть\"",
+          "role": "Советник Главного исполнительного директора (в ранге вице-президента) с 29.09.2020; член Правления с 30.09.2020 (включена как представитель ВБРР для мониторинга доступности кредитно-финансовых ресурсов)",
+          "start_year": 2020,
+          "end_year": null,
+          "description": "Пресс-релиз Роснефти (limited.rosneft.ru, 02.10.2020) называет Маликову Дину Ринатовну, президента и председателя правления ВБРР, в числе новых членов Правления ПАО \"НК \"Роснефть\", и поясняет, что включение президента-председателя правления ВБРР в состав Правления Роснефти направлено на обеспечение непрерывного мониторинга доступности кредитно-финансовых ресурсов. Interfax, fomag.ru, akm.ru, neftegaz.ru подтверждают то же расширение правления 2020 года. Business-Gazeta (март 2022, санкционное покрытие) описывает её как действующего члена правления и советника главного исполнительного директора в ранге вице-президента на дату санкционного списка (дословно: \"советник главного исполнительного директора в ранге вице-президента\" — не \"советник президента\"; исправлено при QA-ревью 2026-07-29 после прямой перепроверки текста business-gazeta.ru, см. research_notes/CBOM/quality_pass_round3_20260729_qa.md). OpenSanctions (раунд 3, перепроверено в этом раунде) не фиксирует дату выхода из состава правления. Роль напрямую покрывает 2024 целевой год; была случайно утрачена из JSON при более ранней технической операции восстановления/переналожения GICS и восстановлена в этом раунде по уже задокументированным в research round 2 источникам.",
+          "sector": "Energy",
+          "industry_group": "Energy",
+          "industry": "Oil, Gas & Consumable Fuels"
+        },
+        {
+          "organization": "ПАО \"МОСКОВСКИЙ КРЕДИТНЫЙ БАНК\"",
+          "role": "Председатель Правления",
+          "start_year": 2025,
+          "end_year": null,
+          "description": "Interfax 12.07.2025 сообщил о назначении Маликовой председателем правления МКБ по данным ЕГРЮЛ. Это не переносилось на 2024 год.",
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        }
+      ],
+      "research_experience": [
+        {
+          "organization": "Казанский государственный университет",
+          "role": "Автор диссертационного исследования",
+          "start_year": null,
+          "end_year": 2000,
+          "description": "Исследовала математическое моделирование структурной динамики ледникового покрова, включая численные методы и моделирование нестационарной динамики ледников."
+        }
+      ],
+      "publications": [
+        {
+          "title": "Моделирование динамики ледникового покрова в неизотермических условиях",
+          "year": 1999,
+          "description": "Маликова Д.Р., Саламатин А.Н.; МГИ, выпуск 86, страницы 55-60. Источник: библиография диссертации в DisserCat."
+        },
+        {
+          "title": "Моделирование структурной динамики ледниковых покровов",
+          "year": 1999,
+          "description": "Маликова Д.Р., Саламатин А.Н.; тезисы Международной конференции \"Мониторинг криосферы\", Пущино, страница 83. Источник: библиография диссертации в DisserCat."
+        },
+        {
+          "title": "Численная модель динамики ледникового покрова вдоль фиксированной трубки тока с учетом эффектов изостазии и взаимодействия с морем",
+          "year": 1998,
+          "description": "Маликова Д.Р., Саламатин А.Н., Дюваль П.; МГИ, выпуск 85, страницы 159-165. Источник: библиография диссертации в DisserCat."
+        },
+        {
+          "title": "Структурная динамика ледникового покрова в условиях изменяющегося климата",
+          "year": 2000,
+          "description": "Саламатин А.Н., Маликова Д.Р.; МГИ (Материалы гляциологических исследований / Data of Glaciological Studies), выпуск 89, страницы 112-128. В библиографии диссертации указана как работа 2000 года \"в печати\"; факт фактической публикации (а не только статуса \"в печати\") подтверждён в этом раунде (quality_pass_round2, 2026-07-29) прямым fetch списка литературы статьи Salamatin/Duval/Castelnau (Comptes Rendus Physique, ссылка [3]: \"A.N. Salamatin, D.R. Malikova, Structural dynamics of an ice sheet in changing climate, Data of glaciological studies, Moscow 89 (2000) 112–128\"), независимо подкреплено ссылкой на эту же работу в статье о датировке ледяного керна Восток (\"simulated by Salamatin and Malikova (2000)\")."
+        },
+        {
+          "title": "Boundary layer approximation in anisotropic ice flow modelling",
+          "year": 1997,
+          "description": "Salamatin A.N., Duval P., Castelnau O., Malikova D.R.; Материалы гляциологических исследований (МГИ), вып. 83, с. 105-111. Найдена через список литературы статьи \"Modelling dynamics of glaciers in volcanic craters\" (Journal of Glaciology, Cambridge Core), не входит в библиографию диссертации DisserCat, использованную в раундах 1-3. Самая ранняя из известных публикаций (на год раньше 1998 года)."
+        }
+      ],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV row 87 lists CBOM, ПАО \"МОСКОВСКИЙ КРЕДИТНЫЙ БАНК\", Маликова Дина Ринатовна, position: Председатель правления."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/CBOM/Годовой отчет за 2024 год МКБ.pdf",
+          "title": "Годовой отчет за 2024 год МКБ",
+          "fact": "Pages 9-10: the 2024 annual-report address and management responsibility statement identify Maxim Korzhov as Chairman of the Management Board, not Dina Malikova."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/CBOM/Credit Bank of Moscow_Consolidated_2024_RUS.pdf",
+          "title": "Обобщенная консолидированная финансовая отчетность по состоянию на 31 декабря 2024 года и за 2024 год",
+          "fact": "Page 5: revised 2024 statements were approved and signed on 29 December 2025 by Chairman of the Management Board D.R. Malikova; this confirms the later signing-date role."
+        },
+        {
+          "url": "https://www.interfax.ru/business/1035889",
+          "title": "Дина Маликова назначена председателем правления МКБ",
+          "fact": "Interfax reported on 12 July 2025 that Dina Malikova was appointed Chairman of MKB's Management Board according to EGRUL, replacing Maxim Korzhov."
+        },
+        {
+          "url": "https://www.interfax.ru/business/1035710",
+          "title": "Дина Маликова покинула пост председателя правления ВБРР",
+          "fact": "Interfax reported on 11 July 2025 that Malikova left VBRR, where she had worked since 2003 and headed the bank from 2014."
+        },
+        {
+          "url": "https://www.kommersant.ru/doc/7874186",
+          "title": "Глава правления ВБРР Дина Маликова перейдет в МКБ",
+          "fact": "Kommersant reported on 11 July 2025 that Malikova left VBRR, had chaired VBRR since 2014, and was expected to become MKB's Management Board chair."
+        },
+        {
+          "url": "https://bosfera.ru/dossier/dina-malikova",
+          "title": "Дина Маликова Ринатовна | Банковское обозрение",
+          "fact": "Banking Review profile states her 1975 birth year, KSU education, candidate degree, Open University management diploma, Avers/Ak Bars work, VBRR roles, Peresvet board role, and MKB chair role from 12 July 2025."
+        },
+        {
+          "url": "https://asros.ru/news/members/dina-malikova-naznachena-prezidentom-vbrr/",
+          "title": "Дина Маликова назначена президентом ВБРР",
+          "fact": "ASROS reported her official VBRR president appointment on 23 September 2014 and states that she graduated from KSU's computational mathematics and cybernetics faculty in 1996, is a candidate of physical and mathematical sciences, and has an Open University UK management diploma."
+        },
+        {
+          "url": "https://dspace.kpfu.ru/xmlui/handle/net/29452",
+          "title": "Kazan Federal University E-Archive: Численное моделирование структурной динамики ледникового покрова",
+          "fact": "KFU e-archive identifies Malikova D.R. (Dina Rinatovna) as author of the 2000 dissertation abstract for the candidate degree, specialty 05.13.18."
+        },
+        {
+          "url": "https://www.dissercat.com/content/chislennoe-modelirovanie-strukturnoi-dinamiki-lednikovogo-pokrova",
+          "title": "DisserCat: Численное моделирование структурной динамики ледникового покрова",
+          "fact": "DisserCat records the dissertation as a 2000 candidate dissertation by Dina Rinatovna Malikova and lists related publications by D.R. Malikova."
+        },
+        {
+          "url": "https://www.tadviser.ru/index.php/Персона:Маликова_Дина_Ринатовна",
+          "title": "TAdviser: Маликова Дина Ринатовна",
+          "fact": "Детализация: специальность КГУ \"Прикладная математика\"; год диплома Open University — 2005; фазы карьеры в Аверс (1995)/АК Барс Казначейство (1999-2001)/Директор Казначейства (с 2001); даты назначения в Роснефть (29.09.2020 советник; 30.09.2020 член Правления). Перепроверено прямым fetch и свежим поисковым запросом в этом раунде после обнаружения расхождения 2004-vs-2005 в одном из поисковых резюме; 2005 подтверждён как верный."
+        },
+        {
+          "url": "https://globalmsk.ru/person/id/12403",
+          "title": "ГлобалМСК.ру: Маликова Дина Ринатовна",
+          "fact": "Независимо подтверждает 2005 год получения диплома Open University и ту же хронологию карьеры, что и TAdviser; получено прямым fetch в этом раунде для разрешения кажущегося расхождения 2004 против 2005."
+        },
+        {
+          "url": "https://limited.rosneft.ru/press/releases/item/203001/",
+          "title": "Пресс-релиз Роснефти о расширении Правления (02.10.2020)",
+          "fact": "Первичный пресс-релиз компании, называющий Дину Маликову (президента/председателя правления ВБРР) в числе новых членов Правления Роснефти с 30.09.2020; повторно получен прямым fetch в этом раунде, факт подтверждён."
+        },
+        {
+          "url": "https://m.business-gazeta.ru/news/544508",
+          "title": "Business-Gazeta: материал о британских санкциях",
+          "fact": "Описывает Маликову как действующего члена Правления Роснефти и советника президента в ранге вице-президента на дату санкционного списка (март 2022)."
+        },
+        {
+          "url": "https://www.opensanctions.org/entities/NK-bAbgvDrceL2d9aeYoF5Qjv/",
+          "title": "OpenSanctions: карточка сущности",
+          "fact": "Перечисляет должности: президент/председатель правления ВБРР (06.10.2014-09.07.2025), председатель правления МКБ (с 11.07.2025), член Правления Роснефти без даты окончания — т.е. роль остаётся действующей по данным этого источника."
+        },
+        {
+          "url": "https://www.cambridge.org/core/journals/journal-of-glaciology/article/modelling-dynamics-of-glaciers-in-volcanic-craters/C9C3A12F10A8A0729577F7B05BD07F1C",
+          "title": "Journal of Glaciology: Modelling dynamics of glaciers in volcanic craters",
+          "fact": "Независимый список литературы статьи цитирует работу Salamatin, Duval, Castelnau и Malikova (1997a), Boundary layer approximation in anisotropic ice flow modelling, Mater. Glyatsiol. Issled. 83, 105-111 — подтверждает ранее неизвестную публикацию 1997 года."
+        },
+        {
+          "url": "https://bosfera.ru/press-release/dina-malikova-vozglavila-sovet-direktorov-peresveta",
+          "title": "Банковское обозрение: пресс-релиз об избрании Маликовой председателем совета директоров Пересвета",
+          "fact": "Цитирует собственное решение совета директоров КБ «Пересвет» от 21.08.2017 об избрании Маликовой (тогда президента/председателя правления ВБРР) председателем совета директоров — ближе к первичному источнику, чем общее досье Banking Review."
+        },
+        {
+          "url": "https://comptes-rendus.academie-sciences.fr/physique/articles/10.1016/j.crhy.2004.06.002/",
+          "title": "Comptes Rendus Physique: The viscoplastic behaviour of ice in polar ice sheets: experimental results and modelling",
+          "fact": "Список литературы (ссылка [3], прямой fetch) даёт точную библиографическую запись \"A.N. Salamatin, D.R. Malikova, Structural dynamics of an ice sheet in changing climate, Data of glaciological studies, Moscow 89 (2000) 112–128\" — независимо подтверждает, что публикация 2000 года, ранее указанная в диссертации как \"в печати\" и не подтверждённая отдельно, действительно вышла, с точным выпуском и страницами."
+        }
+      ],
+      "notes": "Связь Маликовой с МКБ надежно подтверждена только с июля 2025 года. Для основного контекста 2024 года локальный годовой отчет МКБ указывает Максима Коржова как председателя правления; поэтому роль из CSV не перенесена на 2024 год. Не найден подтвержденный h-index или патенты. Ранний опыт в Аверс/АК Барс и роль в КБ \"Пересвет\" основаны на профессиональном вторичном источнике Banking Review. Раунд 2 (gap-filling): уточнена роль в Аверс/АК Барс (была null), подтвержден год Open University диплома (был null), подтверждена специальность КГУ, добавлена ранее пропущенная роль в Правлении \"Роснефти\" (с 2020 года, официальный пресс-релиз компании) -- эта роль актуальна для 2024 года и повышает полноту профиля. h-index и патенты повторно не пересматривались, так как в раунде 1 поиск уже был исчерпывающим (25+ запросов, множественные источники) без признаков наличия научного профиля после перехода в банковскую сферу. Раунд 3 (доп. проверка, 2026-07-18): целенаправленно перепроверены оставшиеся null-поля -- professional_experience[4].end_year (Пересвет), professional_experience[5].end_year (Роснефть), research_experience[0].start_year, h_index, и обоснованность ceo=null. Новых подтверждающих источников для конца полномочий в совете директоров \"Пересвета\" не найдено (запросы: \"Маликова\" \"Пересвет\" совет директоров 2024/2025) -- end_year остаётся null. Для роли в правлении \"Роснефти\" найден дополнительный источник (OpenSanctions), который на момент своих данных по-прежнему указывает её действующим членом правления \"Роснефти\" без даты выхода -- это подтверждает, что null для end_year отражает \"должность актуальна\", а не просто \"дата неизвестна\"; значение не изменено. Точный год начала работы над диссертацией (research_experience[0].start_year) не найден ни в одном источнике (KFU e-archive и DisserCat указывают только год защиты 2000) -- оставлен null. h_index: дополнительные запросы (eLIBRARY/РИНЦ по фамилии и теме ледникового покрова) не выявили открытого профиля автора; персональные страницы eLIBRARY.ru требуют логина и не были доступны для непосредственной проверки -- оставлено null, как и в раундах 1-2. ceo=null не пересматривался: это уже задокументированное в раундах 1-2 намеренное решение (единственный человек из CSV для CBOM не подтверждён как председатель правления в 2024 году; Коржов, который фактически занимал эту роль в 2024 году, не входит в CSV-список персон и поэтому не был развёрнут в отдельный PersonInfo) -- это соответствует такой же практике для BANEP/CHMK/LKOH/OZON (проверено выборкой по всему датасету), поэтому это не ошибка, специфичная для CBOM. Ни один ранее подтверждённый факт не был изменён или удалён в этом раунде; добавлен только один новый корроборирующий источник (OpenSanctions) в sources.\n\nRound 4 (additional targeted gap-check, 2026-07-18): Re-ran the programmatic null-field walk over the current JSON; remaining nulls were unchanged from round 3 (ceo; professional_experience[4].end_year Peresvet; professional_experience[5].end_year Rosneft; professional_experience[6].end_year MKB current role, no gap expected; research_experience[0].start_year; h_index). Local CBOM PDFs were not re-scanned again this round since rounds 2-3 already established no further local mentions exist and no new local document was added to MOEXBMI_Отчеты_2024/CBOM/. Web findings: (1) Peresvet board-chair end_year -- fresh queries (bank status through 2021, board composition into 2026) found no evidence Malikova left the board of directors; the bank underwent a 2016-2017 bail-in reorganization with VBRR as sanator but continued operating as a going concern at least through late 2021, which does not itself imply a board departure; end_year remains null. (2) Rosneft Management Board end_year -- search-engine-mediated review of rosneft.ru/governance/corpmanagement/ (direct fetch still returns 403, as in round 2) indicates the page continues to list her, consistent with round 3 OpenSanctions finding that she is still an active member with no end date; no field change, this only reinforces the existing null-as-active reading. (3) h_index -- searched Google Scholar, ResearchGate, Scopus, ORCID angles specifically; found only her known co-authored glaciology papers (as a non-corresponding co-author of A.N. Salamatin), no citation-metrics profile; left null, consistent with rounds 1-3. (4) research_experience[0].start_year -- searched for an aspirantura start date and a named academic advisor; none found; however, an important new discovery: a previously missing 1997 co-authored publication (Salamatin, Duval, Castelnau, Malikova; Mater. Glyatsiol. Issled. 83, 105-111), confirmed via direct read of the reference list of a Journal of Glaciology paper (Cambridge Core), was added to publications[] -- this was missing from the DisserCat-derived bibliography used in rounds 1-3. It shows research or co-authorship was already underway by 1997, but does not give an exact start date, so start_year is left null rather than set to 1997 or earlier (project rule: do not silently invent dates). No previously confirmed fact (education, degrees, professional_experience, prior publications, sector or industry_group or industry triples, qualification_degree values, institution normalization) was altered or deleted this round; only one new publication entry, one new source, and these two note additions were appended. Связь Маликовой с МКБ надежно подтверждена только с июля 2025 года. Для основного контекста 2024 года локальный годовой отчет МКБ указывает Максима Коржова как председателя правления; поэтому роль из CSV не перенесена на 2024 год. Не найден подтвержденный h-index или патенты. Ранний опыт в Аверс/АК Барс и роль в КБ \"Пересвет\" основаны на профессиональном вторичном источнике Banking Review. КАЧЕСТВЕННЫЙ ПРОХОД (quality_pass_round1, 2026-07-29): восстановлена запись professional_experience о членстве в Правлении ПАО \"НК \"Роснефть\" (с 2020 года) — она была подтверждена ещё в research round 2 по первичному пресс-релизу Роснефти, но отсутствовала в этом JSON-файле из-за более ранней технической операции (восстановление из бэкапа round-1 + механическое переналожение GICS/qualification_degree, см. QA_RECHECK_FIRST20_20260728.md), которая откатила файл до состояния до round 2 и потеряла все находки раундов 2-4. Заодно исправлена ошибочная GICS-метка Energy/Energy/\"Oil, Gas & Consumable Fuels\" на записи МКБ (банк не может быть в Energy; верно Financials/Banks/Banks) — судя по всему, эта метка от записи Роснефти \"приклеилась\" к записи МКБ в ходе той же операции. Также восстановлены из round 2/4: qualification=\"Прикладная математика\" (КГУ), year=2005 (Open University, перепроверено в этом раунде), нормализация названий вузов по university_names.json, детализация роли в Аверс/АК Барс, публикация 1997 года. КАЧЕСТВЕННЫЙ ПРОХОД РАУНД 2 (quality_pass_round2, 2026-07-29, см. research_notes/CBOM/quality_pass_round2_20260729.md): независимо перепроверены GICS-метки (все 7 professional_experience — точное совпадение с gics_taxonomy.json, ошибок не найдено) и канонические названия вузов (обе совпадают с university_names.json дословно). Найден и добавлен один новый подтверждённый факт: публикация 2000 года \"Структурная динамика ледникового покрова в условиях изменяющегося климата\", ранее числившаяся в диссертационной библиографии как \"в печати\" без независимого подтверждения выхода, теперь подтверждена как фактически опубликованная (МГИ, вып. 89, стр. 112-128) прямым fetch списка литературы статьи Salamatin/Duval/Castelnau в Comptes Rendus Physique, независимо перекрёстно подтверждено ссылкой в статье о датировке керна Восток. Проведены свежие (не повторяющие раунды 1-5 и quality_pass_round1) попытки закрыть 4 оставшихся честных пробела: h_index (rusprofile/list-org/eLIBRARY/Scopus-author-ID запросы), Peresvet end_year (list-org/e-disclosure), Rosneft end_year (rupep.org — 403, arctida.io — 404, cbonds.ru — без дат), research_experience[0].start_year (RSL-каталог диссертации — нет данных о научном руководителе/дате поступления). Ни одна из четырёх попыток не дала нового подтверждённого значения; все четыре поля остаются null и задокументированы как исчерпанные под новыми углами. QA-РЕВЬЮ (round 3, 2026-07-29, см. research_notes/CBOM/quality_pass_round3_20260729_qa.md): найдена и исправлена одна фактическая ошибка в записи professional_experience о Роснефти — role/description ошибочно называли её \"Советник Президента\", хотя цитируемый источник (business-gazeta.ru) дословно называет её \"советник главного исполнительного директора в ранге вице-президента\"; исправлено на верную формулировку по прямой перепроверке того же источника. Остальное содержимое записи (даты, GICS, клауза про мониторинг доступности кредитно-финансовых ресурсов — подтверждена прямой перепроверкой первичного пресс-релиза Роснефти) оставлено без изменений."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/CBOM/Годовой отчет за 2024 год МКБ.pdf",
+      "title": "Годовой отчет за 2024 год МКБ",
+      "fact": "Pages 85-89: as of 31.12.2024 the Supervisory Board consisted of eight directors, but names were not disclosed under Russian disclosure restrictions."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/CBOM/Годовой отчет за 2024 год МКБ.pdf",
+      "title": "Годовой отчет за 2024 год МКБ",
+      "fact": "Pages 93-94: the Management Board is the collegial executive body headed by the Chairman; names of Management Board members were not disclosed."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/CBOM/Годовой отчет за 2024 год МКБ.pdf",
+      "title": "Годовой отчет за 2024 год МКБ",
+      "fact": "Pages 9-10: Maxim Korzhov signed as Chairman of the Management Board in the 2024 annual-report management statement."
+    },
+    {
+      "url": "https://www.interfax.ru/business/1035889",
+      "title": "Дина Маликова назначена председателем правления МКБ",
+      "fact": "Interfax reported on 12.07.2025 that Malikova became MKB Chairman of the Management Board and replaced Korzhov, who had held the post from December 2024."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/CBOM/Credit Bank of Moscow_Consolidated_2024_RUS.pdf",
+      "title": "Обобщенная консолидированная финансовая отчетность по состоянию на 31 декабря 2024 года и за 2024 год",
+      "fact": "Page 5: the revised statements were signed by D.R. Malikova as Chairman of the Management Board on 29.12.2025, confirming a post-2024 role."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV row 87 is the starting person list for CBOM."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/CBOM/Годовой отчет за 2024 год МКБ.pdf",
+      "title": "Годовой отчет за 2024 год МКБ",
+      "fact": "Primary local annual report checked for CBOM governance and executive-body context."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/CBOM/Credit Bank of Moscow_Consolidated_2024_RUS.pdf",
+      "title": "Обобщенная консолидированная финансовая отчетность МКБ 2024",
+      "fact": "Primary local financial statements checked for signatories and governance context."
+    },
+    {
+      "url": "https://www.interfax.ru/business/1035889",
+      "title": "Дина Маликова назначена председателем правления МКБ",
+      "fact": "Appointment timing and predecessor for MKB."
+    },
+    {
+      "url": "https://asros.ru/news/members/dina-malikova-naznachena-prezidentom-vbrr/",
+      "title": "Дина Маликова назначена президентом ВБРР",
+      "fact": "Education, degree, and VBRR appointment facts."
+    },
+    {
+      "url": "https://dspace.kpfu.ru/xmlui/handle/net/29452",
+      "title": "KFU E-Archive dissertation record",
+      "fact": "Candidate dissertation metadata."
+    },
+    {
+      "url": "https://www.tadviser.ru/index.php/Персона:Маликова_Дина_Ринатовна",
+      "title": "TAdviser: Маликова Дина Ринатовна",
+      "fact": "Образование, детализация карьеры Аверс/АК Барс, даты назначения в Роснефть."
+    },
+    {
+      "url": "https://limited.rosneft.ru/press/releases/item/203001/",
+      "title": "Пресс-релиз Роснефти о расширении Правления (02.10.2020)",
+      "fact": "Первичный источник для восстановленной записи professional_experience о членстве в Правлении Роснефти."
+    },
+    {
+      "url": "https://www.opensanctions.org/entities/NK-bAbgvDrceL2d9aeYoF5Qjv/",
+      "title": "OpenSanctions: карточка сущности",
+      "fact": "Подтверждает продолжающееся членство в Правлении Роснефти без даты окончания."
+    },
+    {
+      "url": "https://www.cambridge.org/core/journals/journal-of-glaciology/article/modelling-dynamics-of-glaciers-in-volcanic-craters/C9C3A12F10A8A0729577F7B05BD07F1C",
+      "title": "Journal of Glaciology: Modelling dynamics of glaciers in volcanic craters",
+      "fact": "Независимая ссылка на список литературы, подтвердившая ранее неизвестную публикацию 1997 года (Salamatin, Duval, Castelnau, Malikova)."
+    },
+    {
+      "url": "https://comptes-rendus.academie-sciences.fr/physique/articles/10.1016/j.crhy.2004.06.002/",
+      "title": "Comptes Rendus Physique: The viscoplastic behaviour of ice in polar ice sheets: experimental results and modelling",
+      "fact": "Список литературы независимо подтверждает фактическую публикацию (не только статус \"в печати\") работы Salamatin/Malikova 2000 года, с точным выпуском (89) и страницами (112-128)."
+    }
+  ],
+  "validation_notes": "Processed 1 CSV person for CBOM. Checked 2 local CBOM PDFs before web search. Completed 1 research round. Significant uncertainty: 1 person, because the CSV role for D.R. Malikova is a post-2024 MKB role, while the local 2024 annual report identifies Maxim Korzhov as Chairman of the Management Board for the 2024 management statement. Education found and confirmed for 1 person. Weak-source caveats: early Avers/AK Bars experience and Peresvet board role rely on Banking Review secondary profile; no primary pages were found. Namesake risk was checked through full-name, company, education, dissertation, ORCID/Scholar, and English/Russian searches; unrelated name matches were rejected. No h-index or patents were added. Search is considered complete because all local CBOM documents were checked, more than 25 distinct web queries were run across official, disclosure, business-media, banking-industry, academic-repository, and dissertation-source classes, and two follow-up passes after the VBRR/dissertation chains did not change the core conclusion. CEO is null because the only CSV person is not confirmed as the 2024 CEO; Korzhov appears to be the 2024 chairman context but was not in the CSV input and was not expanded into a PersonInfo object.\n\nRound 2 (gap-filling, 2026-07-18): (1) Re-checked both local CBOM PDFs for any additional Malikova/Avers/AK Bars/Peresvet/Kazan/Open University mentions via full-text scan -- no new local content found beyond the page-5 signature already on file, confirming the local-filings-first step was exhausted before web research. (2) Company-level and every professional_experience entry (all tmt persons) tagged with sector/industry_group/industry copied verbatim from gics_taxonomy.json: banks (Avers/AK Bars, VBRR x3, Peresvet, MKB) -> Financials/Banks/Banks; each organization's own primary line of business was classified, not a subsidiary's. (3) Filled the previously-null professional_experience[0].role for Avers/AK Bars using TAdviser's role-by-period breakdown (employee at Avers from 1995; various Treasury roles at AK Bars 1999-2001; Director of Treasury at AK Bars from 2001) -- reliable because it is consistent with and more granular than the already-confirmed 1995-2003/Banking Review dates, and matches the person's later treasury-focused VBRR career. (4) Discovered and added a previously-missing professional_experience entry: Rosneft advisor-to-CEO (VP rank, from 29.09.2020) and Management Board member (from 30.09.2020) -- sourced to Rosneft's own official press release (limited.rosneft.ru, primary company source) and corroborated by Interfax and a UK-sanctions business-media report (business-gazeta, March 2022); considered reliable given the primary-source press release and multiple independent corroborations; end_year left null because no source confirms she left the Rosneft board, and the Rosneft governance page still listed her at time of check. (5) Filled education[1] (Open University) year, previously null and explicitly flagged as unconfirmed in round 1: TAdviser and GlobalMSK independently give 2005; considered reliable due to source agreement, though both are secondary profiles (no primary Open University record was found) -- kept as a confirmed year rather than downgraded, per source corroboration. (6) Filled education[0].qualification (previously null) with the specialty \"Прикладная математика\" per TAdviser. (7) Added qualification_degree to every education[]/degrees[] entry: KSU 1996 diploma -> \"Specialist degree\" (Russian universities issued 5-year specialist diplomas, not Bachelor's, prior to the mid-2000s Bologna transition -- high-confidence contextual inference); Open University Diploma in Management -> \"Executive education\" (a post-experience management diploma taken in 2004-2005 while already a senior banking executive, not a full academic degree -- moderate-confidence contextual inference); Кандидат физико-математических наук -> \"Doctoral degree\" (standard mapping of the Russian first research doctorate onto the allowed enum). (8) Normalized institution fields to the canonical forms already present in university_names.json: \"Казанский государственный университет\" (education[0]) and \"Казанский государственный университет / Казанский федеральный университет, электронный архив\" (degrees[0]) -> \"Казанский (Приволжский) федеральный университет\"; \"Open University, United Kingdom\" (education[1]) -> \"The Open University\". Both canonical names and all raw variants used here were already present in university_names.json before this round, so new_institutions_found is empty for CBOM. (9) Added corroborating primary/press sources for the Peresvet board-chair role (bosfera.ru press release quoting the exact board resolution) without changing the previously-confirmed start_year=2017/end_year=null. No previously-confirmed fact was deleted or overwritten; all changes either filled a previously-null field or added a new field/entry with its own sourcing.\n\nRound 3 (additional targeted verification, 2026-07-18): Re-checked every remaining null field across ceo and tmt[0] against local filings first (already exhausted in round 2, re-confirmed no new local mentions) and then the web. Findings: (1) No new source found for professional_experience[4].end_year (Peresvet board chair) -- searched specifically for a 2024/2025 Peresvet board departure and found none; left null per project rule (prefer null over an unverified guess). (2) professional_experience[5].end_year (Rosneft Management Board) -- found a new corroborating source, OpenSanctions (sanctions-registry aggregator), which still lists her as a current Management Board member of Rosneft with no end date; this upgrades the null from 'unconfirmed' to 'confirmed still-active, hence correctly null' without changing the value. Also incidentally corroborated VBRR tenure end date (09.07.2025) and MKB start date (11.07.2025), both already consistent with the confirmed end_year=2025/start_year=2025 on file (day-level precision only, no field-level change). (3) research_experience[0].start_year -- searched for aspirantura/dissertation-start details (advisor Salamatin, Kazan University, 1997/1998) and found nothing beyond the already-confirmed 2000 defense year; left null. (4) h_index -- additional eLIBRARY/RINC search found no accessible open author profile (personal pages require login); left null, consistent with the exhaustive round-1 conclusion. (5) ceo=null was re-examined against the rest of the dataset: this is a deliberate, documented convention (also used for BANEP, CHMK, LKOH, OZON) applied whenever the sole CSV-listed person for a ticker is not confirmed as the target-year (2024) CEO/chairman and the actual 2024 office-holder (here, Maxim Korzhov) is not present in the CSV input, so no PersonInfo object is fabricated for a person outside the CSV scope; this is not a CBOM-specific gap needing a fix. One new corroborating source (OpenSanctions) was added to both the person-level and top-level sources arrays. No previously confirmed fact (education, degrees, professional_experience dates, sector/industry_group/industry triples, qualification_degree values, or institution normalization) was altered or deleted in this round; all sector/industry_group/industry triples remain exact verbatim rows from gics_taxonomy.json (Financials/Banks/Banks; Energy/Energy/Oil, Gas & Consumable Fuels), all qualification_degree values remain within the 10 allowed enum strings (Specialist degree, Executive education, Doctoral degree), and both institution strings remain the canonical forms already present in university_names.json (Казанский (Приволжский) федеральный университет; The Open University) -- no new institutions were found for CBOM in this round, so new_institutions_found remains empty for this ticker.\n\nRound 4 (additional targeted gap-check, 2026-07-18): Re-checked every field still null after round 3 with fresh, differently angled queries (Peresvet bank status and board through 2021-2026; Rosneft governance page via search-engine synthesis, direct fetch still 403; Google Scholar, ResearchGate, Scopus, ORCID for h_index; aspirantura start date and named advisor for research_experience[0].start_year). No local document changes since round 2, so local filings were not re-scanned again. All previously null fields remain null because no reliable new date or value was found for them, per project rule (prefer null over an unverified guess); this is treated as further confirmation that rounds 1-3 already exhausted the reasonably discoverable evidence, not as an oversight. One genuinely new fact was found and added: a previously missing 1997 co-authored glaciology publication (Salamatin, Duval, Castelnau, Malikova; Mater. Glyatsiol. Issled. 83, 105-111), verified by directly reading the bibliography of an independent Journal of Glaciology paper (Cambridge Core) that cites it verbatim -- added to tmt[0].publications with the new source in both the person-level and top-level sources arrays; this is reliable because it was confirmed by direct primary-document reading of a peer-reviewed journal reference list, not merely a search-engine snippet. This new publication also informs, without changing, research_experience[0].start_year: it shows joint research activity was underway by 1997, one year after the 1996 KSU graduation, but since no source states an exact aspirantura start date, start_year is left null rather than inferred, consistent with the no-invented-dates rule already used across this project. No previously confirmed fact was altered or deleted in this round; sector or industry_group or industry triples, qualification_degree values, and institution normalization from rounds 2-3 remain unchanged because no new information bearing on them was found this round.\n\nRound 5 (additional targeted gap-check, 2026-07-19): Re-ran the programmatic null-field walk; the same set of nulls remained open as in round 4 (ceo; professional_experience[4].end_year Peresvet board chair; professional_experience[5].end_year Rosneft Management Board; research_experience[0].start_year; h_index). (1) Local filings: re-scanned both local CBOM PDFs programmatically (full-text page-by-page search for \"Маликов\"/\"Malikov\"/\"Пересвет\") rather than relying on the earlier manual check -- confirmed 0 hits across all 390 pages of \"Годовой отчет за 2024 год МКБ.pdf\" and exactly 1 hit (page 5, already on file) in \"Credit Bank of Moscow_Consolidated_2024_RUS.pdf\"; also confirmed the Korzhov mentions are on pages 9-10 as already recorded and that pages 77/80/92-94/97/102/130/226/323 discuss the Management Board/Supervisory Board only in generic terms, with no member names beyond Korzhov -- no new local content, consistent with rounds 2-4. (2) Web research: this round's session had already exhausted its shared web-search quota (200/200 WebSearch calls) before any CBOM-specific query could be issued, so no new WebSearch queries were run this round -- this is a session-level constraint, not a finding that the remaining gaps are unresearchable. As a substitute, targeted WebFetch calls were made directly against specific candidate URLs: rosneft.ru/governance/corpmanagement/ (HTTP 403, same as rounds 2 and 4 -- still not directly fetchable), mkb.ru/about/board (fetched successfully but returned no biography content for Malikova), an e-disclosure.ru company-portal guess for КБ \"Пересвет\" affiliated-persons/board data (HTTP 403), and a forbes.ru guess for a Malikova profile page (HTTP 404 -- page does not exist at that URL). None of these yielded new information. No field was changed as a result. (3) Given the exhausted web-search quota and the dead-end direct fetches, all previously null fields remain null this round: this is recorded as a constrained/incomplete round rather than a conclusive re-confirmation, since the planned fresh angled web queries (e.g. Scopus/ORCID author-ID lookups for h_index, a fresh Peresvet board-roster check, a fresh Rosneft governance-page check) could not be executed this round due to the quota limit. (4) Structural consistency fix (not new research): added the top-level \"new_institutions_found\": [] key, which was already present on sibling ticker files (e.g. AQUA, ALRS, BSPB) per the project's key-uniformity rule (REFINEMENT.md §5) but had been omitted from the CBOM file in earlier rounds; the array is empty because both institution strings used for this person (Казанский (Приволжский) федеральный университет; The Open University) were already present in university_names.json before this round, so there is nothing new to log. No previously confirmed fact (education, degrees, professional_experience dates/roles, publications, sector or industry_group or industry triples, qualification_degree values, or institution normalization) was altered or deleted in this round; the only changes were the addition of this note and the addition of the empty new_institutions_found array for structural parity with other processed tickers. If a future round has web-search quota available, the priority order for re-checking is: (a) h_index via a direct Scopus/ORCID author-ID search rather than a generic name search, (b) Peresvet board-roster end_year via a fresh disclosure-registry check, (c) Rosneft Management Board end_year via a fresh governance-page mirror or cache, (d) research_experience[0].start_year via a search for a named dissertation advisor or aspirantura enrollment record. MASS DATA-LOSS REPAIR (2026-07-30): restored 1 shortened person notes, 0 shortened experience descriptions, 0 shortened education descriptions, 0 missing person-level sources, and 0 missing experience-level sources using git HEAD (commit 03bfe9f, 2026-07-20) as the reliable baseline. Nothing else in this file was touched.",
+  "sector": "Financials",
+  "industry_group": "Banks",
+  "industry": "Banks"
+}

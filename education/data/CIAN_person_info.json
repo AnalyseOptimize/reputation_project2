@@ -1,0 +1,445 @@
+{
+  "company_name": "МКПАО \"Циан\"",
+  "company_ticker": "CIAN",
+  "ceo": {
+    "name": "Григорьев Дмитрий Константинович",
+    "current_role": "Генеральный директор МКПАО \"Циан\"; член Совета директоров",
+    "company_name": "МКПАО \"Циан\"",
+    "education": [
+      {
+        "institution": "Национальный исследовательский университет «МИЭТ»",
+        "year": 2010,
+        "details": "Окончил/received a degree in microdevices and technical cybernetics, computers, complexes, systems and networks.",
+        "source_url": "https://ir.ciangroup.ru/upload/iblock/710/q2795tl35o72v26ctssjryuteqxjiad0/cian-announces-changes-to-its-senior-management-team.pdf",
+        "qualification_degree": "Specialist degree"
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "МКПАО \"Циан\" / Cian PLC",
+        "role": "Генеральный директор / Chief Executive Officer",
+        "start_year": 2022,
+        "end_year": null,
+        "description": "Cian announced that Dmitriy Grigoriev would become CEO effective 30 May 2022. The 2024 local annual report states that from 24 September 2024 he holds the General Director position in МКПАО \"Циан\" for a 3-year term.",
+        "source_url": "https://ir.ciangroup.ru/upload/iblock/710/q2795tl35o72v26ctssjryuteqxjiad0/cian-announces-changes-to-its-senior-management-team.pdf",
+        "sector": "Communication Services",
+        "industry_group": "Media & Entertainment",
+        "industry": "Interactive Media & Services"
+      },
+      {
+        "organization": "МКПАО \"Циан\"",
+        "role": "Член Совета директоров",
+        "start_year": 2024,
+        "end_year": null,
+        "description": "The 2024 annual report lists Dmitry Grigoriev in the board formed by shareholder decision on 11 November 2024.",
+        "source_url": "MOEXBMI_Отчеты_2024/CIAN/МКПАО ЦИАН_Годовой отчет_2024_.pdf",
+        "sector": "Communication Services",
+        "industry_group": "Media & Entertainment",
+        "industry": "Interactive Media & Services"
+      },
+      {
+        "organization": "Cian",
+        "role": "Директор по продукту / Chief Product Officer",
+        "start_year": 2019,
+        "end_year": 2022,
+        "description": "Cian interview and Kommersant profile state that he joined Cian in 2017 to lead the secondary real estate segment; the official Cian press release says he previously served as Product Lead.",
+        "source_url": "https://www.cian.ru/stati-dmitrij-grigorev-nam-ochen-vazhno-tsifrovizirovat-nedvizhimost-329646/",
+        "sector": "Communication Services",
+        "industry_group": "Media & Entertainment",
+        "industry": "Interactive Media & Services"
+      },
+      {
+        "organization": "Cian",
+        "role": "Руководитель сегмента вторичной недвижимости / Product Lead",
+        "start_year": 2017,
+        "end_year": 2019,
+        "description": "Cian interview and Kommersant profile state that he joined Cian in 2017 to lead the secondary real estate segment; the official Cian press release says he previously served as Product Lead.",
+        "source_url": "https://www.cian.ru/stati-dmitrij-grigorev-nam-ochen-vazhno-tsifrovizirovat-nedvizhimost-329646/",
+        "sector": "Communication Services",
+        "industry_group": "Media & Entertainment",
+        "industry": "Interactive Media & Services"
+      },
+      {
+        "organization": "FL.ru",
+        "role": "Технический директор / CTO",
+        "start_year": 2007,
+        "end_year": null,
+        "description": "Cian and Kommersant describe FL.ru as his first significant classifieds experience and state that he worked as CTO there for six years. Exact end year is not independently fixed in the retained sources.",
+        "source_url": "https://www.kommersant.ru/doc/7834325",
+        "sector": "Industrials",
+        "industry_group": "Commercial & Professional Services",
+        "industry": "Professional Services"
+      },
+      {
+        "organization": "Choister; Rubrain",
+        "role": "Founder / startup projects",
+        "start_year": 2015,
+        "end_year": 2017,
+        "description": "Cian interview, Forbes and Kommersant state that in 2015-2017 he launched his own startup projects, including Choister and Rubrain, in Russia and the United States.",
+        "source_url": "https://www.cian.ru/stati-dmitrij-grigorev-nam-ochen-vazhno-tsifrovizirovat-nedvizhimost-329646/",
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "CSV contains Григорьев Дмитрий Константинович in CIAN row with role CEO+Член СД."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/CIAN/МКПАО ЦИАН_Годовой отчет_2024_.pdf",
+        "title": "Годовой отчет МКПАО \"Циан\" за 2024 год",
+        "fact": "Page 56 lists Григорьев Дмитрий Константинович in the board formed on 11 November 2024; page 58 states that from 24 September 2024 he holds the General Director position for 3 years."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/CIAN/МКПАО Циан Консолидированная отчетность по МСФО 2024.pdf",
+        "title": "Консолидированная финансовая отчетность МКПАО \"Циан\" по МСФО за 2024 год",
+        "fact": "Financial statements were checked for personal biography/education terms; no biographical facts for Grigoriev were found."
+      },
+      {
+        "url": "https://ir.ciangroup.ru/upload/iblock/710/q2795tl35o72v26ctssjryuteqxjiad0/cian-announces-changes-to-its-senior-management-team.pdf",
+        "title": "Cian Announces Changes to Its Senior Management Team",
+        "fact": "Official Cian press release dated 25 April 2022 states that Dmitriy Grigoriev would assume the CEO role effective 30 May 2022; it describes his Cian product roles, six years as CTO at fl.ru, startup projects, and MIET education in 2010."
+      },
+      {
+        "url": "https://www.cian.ru/novosti-tsian-objavljaet-o-novyh-naznachenijah-324848/",
+        "title": "Циан объявляет о новых назначениях",
+        "fact": "Russian Cian news confirms the same 2022 CEO transition, prior Cian roles, FL.ru experience and MIET education."
+      },
+      {
+        "url": "https://www.cian.ru/stati-dmitrij-grigorev-nam-ochen-vazhno-tsifrovizirovat-nedvizhimost-329646/",
+        "title": "Дмитрий Григорьев: \"Нам очень важно цифровизировать недвижимость\"",
+        "fact": "Cian interview biography states he was born in Moscow in 1987, graduated from MIET in 2010, worked at FL.ru, created Choister and Rubrain in 2015-2017, joined Cian in 2017, became product director in 2019 and CEO in May 2022."
+      },
+      {
+        "url": "https://blogs.forbes.ru/author/grigorievdmitri/",
+        "title": "Дмитрий Григорьев | Forbes Council",
+        "fact": "Forbes profile confirms over 15 years of classifieds experience, CTO role at FL.ru, startups in 2015-2017, Cian roles from 2017 and CEO appointment in May 2022."
+      },
+      {
+        "url": "https://www.kommersant.ru/doc/7834325",
+        "title": "Григорьев Дмитрий Константинович",
+        "fact": "Kommersant profile confirms birth in Moscow in 1987, MIET graduation in 2010, FL.ru CTO experience, Choister/Rubrain startups, Cian roles and May 2022 CEO appointment."
+      },
+      {
+        "url": "https://www.tadviser.ru/index.php/Персона:Григорьев_Дмитрий_Константинович",
+        "title": "Григорьев Дмитрий Константинович - TAdviser",
+        "fact": "TAdviser confirms MIET education in 2010, FL.ru CTO experience and Cian career progression to general director."
+      },
+      {
+        "url": "https://fl.ru/about/",
+        "title": "FL.ru - about the platform",
+        "fact": "Official FL.ru about page describes it as a two-sided freelance marketplace (\"digital labor exchange\") connecting clients posting orders/jobs/contests with independent freelancers, monetized via paid promotion and premium tools; used in round 2 to classify the FL.ru professional_experience entry as Industrials / Commercial & Professional Services / Professional Services rather than a media/classifieds business. (This citation was dropped from the file by an unrelated 2026-07-28 bulk QA restore and is restored here in the 2026-07-29 quality pass; the GICS fields it supports were never removed from the record.)"
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1867752/000110465923051263/cian-20211231x20f.htm",
+        "title": "Cian PLC Form 20-F for fiscal year 2022, filed 27 April 2023",
+        "fact": "2026-07-30 quality-pass-round-2 source: first Cian annual SEC filing covering Grigoriev's tenure as CEO; independently re-confirms (via directly fetchable primary-source HTML, not only the company press release) his CEO start (May 2022), prior Chief Product Officer / Product Lead roles, FL.ru CTO experience ('a leading service for remote work search in Russia for 6 years') and MIET graduation in 2010. Still gives only the 'for 6 years' duration for FL.ru with no specific end year -- the FL.ru end-year gap remains unresolved even against this new primary source."
+      }
+    ],
+    "notes": "No confirmed candidate/doctor/PhD degree, research appointment, publications, patents or h-index were found. Academic and patent searches returned namesakes with different patronymics, fields or affiliations and were rejected. ROUND 2 (2026-07-18, gap-filling per REFINEMENT.md): qualification_degree \"Specialist degree\" was assigned to the MIET education entry as a contextual inference (specialty 230101 \"Вычислительные машины, комплексы, системы и сети\" was a classical 5-year pre-Bologna Russian specialist engineering program at the time of his 2010 graduation; moderate-high, not absolute, confidence -- see research_notes/CIAN/Григорьев_Дмитрий_Константинович_round_2.md). FL.ru end year was re-searched and remains null/unconfirmed after this additional round (no source gives a specific end date, only \"6 years\"). GICS sector/industry_group/industry added to every professional_experience entry: Cian/МКПАО \"Циан\" entries = Communication Services / Media & Entertainment / Interactive Media & Services (company's own self-description as an online real-estate classifieds platform, per the local 2024 annual report and the official Cian press release); FL.ru = Industrials / Commercial & Professional Services / Professional Services (freelance labor marketplace, per fl.ru/about); Choister; Rubrain left null/null/null because this single combined entry spans two organizations with different primary businesses (an ad-aggregator classifieds platform and an IT-professional staffing platform per Kommersant) and a single GICS triple cannot be supported without conflating them. Institution normalized to the canonical form in university_names.json (exact alias match, no new institution to log). ROUND 3/4 (2026-07-19): institution normalization, qualification_degree and GICS triples re-verified programmatically against gics_taxonomy.json/university_names.json, no discrepancy found; FL.ru end year re-attempted via an independent tool path (WebFetch of the cached TAdviser bio), still unresolved -- \"in the course of six years\" is the only duration given, with no calendar end date. QUALITY PASS ROUND 1 (2026-07-29, see research_notes/CIAN/quality_pass_round1_20260729.md): found that a 2026-07-28 bulk QA-restore pass (QA_RECHECK_FIRST20_20260728.md) had silently reverted this person's institution string to its pre-normalization alias and dropped the fl.ru/about source citation while re-applying GICS/qualification_degree on top of an older snapshot; both are restored here as a simple desync fix (no new research needed, values were already established and cited in round 2). One more bounded fresh attempt (WebSearch + 3 new WebFetch URLs: en.wikipedia.org/wiki/Dmitry_Grigoryev_(businessman), ir.ciangroup.ru/en/corporate-governance/management/dmitry-grigoriev/, interfax.ru/business/837738) at the FL.ru end-year gap again found nothing new (the Wikipedia hit is a same-named Kazakh businessman, born 1975, KazMunayGas/Rompetrol career -- unrelated namesake, rejected; the ir.ciangroup.ru bio URL 404s; Interfax repeats only the already-known three-line Cian/fl.ru summary). FL.ru end_year remains null, now confirmed unresolved across four independent research rounds plus this one. QUALITY PASS ROUND 2 (2026-07-30, see research_notes/CIAN/quality_pass_round2_20260730.md): re-verified the current JSON against every research_notes/CIAN/*.md file and against quality_pass_round1_20260729.md -- no further desync or regression had occurred since round 1 (institution string, all sources and the notes/validation_notes trail restored in round 1 were still intact). GICS triples re-checked programmatically against gics_taxonomy.json -- all exact matches, nothing changed. One more bounded fresh attempt at the FL.ru end-year gap: this session's WebSearch budget was already exhausted (0 of 5 planned fresh queries executed, a session-wide constraint independently re-encountered here after also being documented in rounds 3 and 4); fell back to WebFetch/direct HTML retrieval of Cian's first Grigoriev-era SEC annual filing (Form 20-F for FY2022, filed 27 April 2023) as a genuinely new tool path not tried in any prior round -- it independently confirms the existing FL.ru/MIET/Cian facts but still gives only 'for 6 years' with no specific end year. FL.ru end_year remains null, now confirmed unresolved against a sixth independent research pass."
+  },
+  "tmt": [
+    {
+      "name": "Мельников Максим Анатольевич",
+      "current_role": "Председатель Совета директоров МКПАО \"Циан\"",
+      "company_name": "МКПАО \"Циан\"",
+      "education": [
+        {
+          "institution": "Финансовый университет при Правительстве Российской Федерации",
+          "year": null,
+          "details": "Master in Finance with honors; focus on banking, securities and public markets.",
+          "source_url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001867752/37f16bed-2381-4b5c-9507-3956b89c589d.pdf",
+          "qualification_degree": "Master's degree"
+        },
+        {
+          "institution": "Stanford Graduate School of Business",
+          "year": null,
+          "details": "Master of Business Administration.",
+          "source_url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001867752/37f16bed-2381-4b5c-9507-3956b89c589d.pdf",
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [
+        {
+          "degree": "Master in Finance with honors",
+          "institution": "Финансовый университет при Правительстве Российской Федерации",
+          "year": null,
+          "source_url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001867752/37f16bed-2381-4b5c-9507-3956b89c589d.pdf",
+          "qualification_degree": "Master's degree"
+        },
+        {
+          "degree": "Master of Business Administration",
+          "institution": "Stanford Graduate School of Business",
+          "year": null,
+          "source_url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001867752/37f16bed-2381-4b5c-9507-3956b89c589d.pdf",
+          "qualification_degree": "MBA"
+        }
+      ],
+      "professional_experience": [
+        {
+          "organization": "МКПАО \"Циан\" / Cian PLC",
+          "role": "Председатель Совета директоров / Executive Chairperson",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Official Cian release announced that Maxim Melnikov would become Executive Chairperson of the Board in 2022; the 2024 local annual report lists him as Chairman of the Board of Directors.",
+          "source_url": "https://ir.ciangroup.ru/upload/iblock/710/q2795tl35o72v26ctssjryuteqxjiad0/cian-announces-changes-to-its-senior-management-team.pdf",
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        },
+        {
+          "organization": "МКПАО \"Циан\"",
+          "role": "Председатель Комитета по вознаграждениям, корпоративному управлению и номинациям",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "The 2024 annual report lists Maxim Melnikov as chair of this board committee.",
+          "source_url": "MOEXBMI_Отчеты_2024/CIAN/МКПАО ЦИАН_Годовой отчет_2024_.pdf",
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        },
+        {
+          "organization": "Cian / Cian PLC",
+          "role": "Chief Executive Officer",
+          "start_year": 2014,
+          "end_year": 2022,
+          "description": "Cian/SEC annual report states he served as CEO since February 2014; official Cian release states he served in this capacity since 2014 and transferred responsibilities to Dmitriy Grigoriev effective 30 May 2022. Quality-pass note (2026-07-29): several Russian-language sources (Kommersant, rb.ru, ru.wikipedia.org, and Cian's own 2021 'top-20 leaders' retrospective) describe him becoming general director/managing partner in 2013 instead, an apparent conflict flagged in round 1. Additional research this round found a precise reconciliation via Forbes.ru: Media3's subsidiary Delovoy Mir Onlayn acquired Cian in July 2013, and leadership passed from Sergey Osipov to Melnikov roughly six months later (~early 2014) -- consistent with the SEC-filed February 2014 date. The 2013 references most likely describe the acquisition/his arrival at the group rather than the formal CEO title date. The SEC-filed 2014 date is kept as the more authoritative, legally-disclosed value for this entry; 2013 remains documented here as the resolved-but-not-adopted alternative rather than silently dropped.",
+          "source_url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001867752/37f16bed-2381-4b5c-9507-3956b89c589d.pdf",
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Interactive Media & Services"
+        },
+        {
+          "organization": "Media3 Holding",
+          "role": "Chief Executive Officer and director",
+          "start_year": 2010,
+          "end_year": 2014,
+          "description": "Cian/SEC and HeadHunter SEC filings state that he served as CEO and director of Media3 Holding from 2010 to 2014. Quality-pass round 1 (2026-07-29) found this employer's own business described only by lower-tier aggregator sources and left sector/industry_group/industry null as a reasoned gap. QUALITY PASS ROUND 2 (2026-07-30): the HTML-readable text of Cian PLC's own SEC F-1 registration statement (filed 13 October 2021) and its 20-F for fiscal year 2022 (filed 27 April 2023 -- the first annual filing to also cover Grigoriev as CEO) were fetched directly (earlier rounds could only reach the cloudfront-hosted PDF rendering of this filing family and could not extract text from it). Both state, verbatim: 'From 2010 to 2014, Mr. Melnikov served as Chief Executive Officer and director for Media3 Holding, a large print and digital media holding company focused on selling print media businesses and investing in online media ventures.' This primary-source description was independently corroborated by ru.wikipedia.org's article on ЗАО «Медиа3» (verified directly, not only via a summarizing tool), which names Maxim Melnikov himself as its General Director and describes the group as owning Russia's largest printing facility (Krasnogorsk), a roughly 2,600-point retail print-distribution network across 14 regions, and the newspapers Труд, Экстра-М and Аргументы и факты (all sold or closed by August 2014, coinciding with the end of Melnikov's tenure and the Cian transition), alongside a number of internet portals; Wikipedia's own infobox classifies the company's industry as 'Медиа' (Media). Because both the primary SEC-filed description and the independent tertiary corroboration characterize Media3 Holding first and foremost as a diversified print/broadcast media conglomerate (not a pure-play online/interactive platform), sector/industry_group/industry are now filled in as Communication Services / Media & Entertainment / Media -- the exact gics_taxonomy.json row for traditional publishing/print media holding companies, distinct from the Interactive Media & Services row used for Cian itself and for Media3's own online-classifieds subsidiary. This replaces the prior round's informed null with a sourced, confirmed value; the previous null is documented here as superseded, not silently discarded.",
+          "source_url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001867752/37f16bed-2381-4b5c-9507-3956b89c589d.pdf",
+          "sector": "Communication Services",
+          "industry_group": "Media & Entertainment",
+          "industry": "Media"
+        },
+        {
+          "organization": "HeadHunter Group PLC",
+          "role": "Board member",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Cian/SEC and HeadHunter 20-F sources state that he served on the board of HeadHunter Group PLC since May 2019.",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1721181/000119312520073148/d847382d20f.htm",
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV contains Мельников Максим Анатольевич in CIAN row with role Председатель СД."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/CIAN/МКПАО ЦИАН_Годовой отчет_2024_.pdf",
+          "title": "Годовой отчет МКПАО \"Циан\" за 2024 год",
+          "fact": "Page 56 lists Мельников Максим Анатольевич as Chairman of the Board of Directors in the board formed on 11 November 2024; page 57 lists him as chair of the compensation, corporate governance and nominations committee."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/CIAN/МКПАО Циан Консолидированная отчетность по МСФО 2024.pdf",
+          "title": "Консолидированная финансовая отчетность МКПАО \"Циан\" по МСФО за 2024 год",
+          "fact": "Financial statements were checked for personal biography/education terms; no biographical facts for Melnikov were found."
+        },
+        {
+          "url": "https://ir.ciangroup.ru/upload/iblock/710/q2795tl35o72v26ctssjryuteqxjiad0/cian-announces-changes-to-its-senior-management-team.pdf",
+          "title": "Cian Announces Changes to Its Senior Management Team",
+          "fact": "Official Cian press release dated 25 April 2022 states that Maxim Melnikov would move from CEO to Executive Chairperson of the Board and remain engaged in long-term strategy, M&A, strategic partnerships and organizational development."
+        },
+        {
+          "url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001867752/37f16bed-2381-4b5c-9507-3956b89c589d.pdf",
+          "title": "Cian PLC 2021 Annual Report / Form 20-F",
+          "fact": "Cian public filing states that Maksim Melnikov served as CEO since February 2014, was CEO/director of Media3 Holding in 2010-2014, served on HeadHunter Group PLC's board since May 2019, and received a Master in Finance with honors from the Finance Academy and an MBA from Stanford GSB."
+        },
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1721181/000119312520073148/d847382d20f.htm",
+          "title": "HeadHunter Group PLC 2019 Annual Report / Form 20-F",
+          "fact": "HeadHunter filing independently confirms Melnikov's CIAN CEO/board role since February 2014, Media3 Holding role in 2010-2014, Finance Academy Master in Finance and Stanford GSB MBA."
+        },
+        {
+          "url": "https://www.cian.ru/stati-maksim-melnikov-ja-prosto-hotel-postroit-horoshuju-it-kompaniju-322746/",
+          "title": "Максим Мельников: \"Я просто хотел построить хорошую IT-компанию\"",
+          "fact": "Cian interview identifies him as Cian CEO in 2021 and states that he has two economic educations and studied at Stanford."
+        },
+        {
+          "url": "https://www.kommersant.ru/doc/5327410",
+          "title": "Максим Мельников ушел с поста гендиректора ЦИАН",
+          "fact": "Kommersant confirms he moved from Cian CEO to board chair, and summarizes education at the Finance Academy and Stanford MBA."
+        },
+        {
+          "url": "https://rb.ru/stories/cian/",
+          "title": "Максим Мельников: история успеха компании Циан",
+          "fact": "RB.ru profile provides weaker background that Melnikov became general director/managing partner of Cian in 2013 and describes business transformation under his leadership."
+        },
+        {
+          "url": "https://ru.wikipedia.org/wiki/HeadHunter",
+          "title": "HeadHunter -- Википедия",
+          "fact": "Describes HeadHunter (hh.ru) as the largest Russian internet-recruitment company, monetized primarily via selling employers access to its resume database and job postings; used in round 2 to classify the HeadHunter Group PLC professional_experience entry as Industrials / Commercial & Professional Services / Professional Services. (This citation was dropped from the file by an unrelated 2026-07-28 bulk QA restore and is restored here in the 2026-07-29 quality pass; the GICS fields it supports were never removed from the record.)"
+        },
+        {
+          "url": "https://www.forbes.ru/biznes/430663-sliyaniya-i-pogloshcheniya-cian-kak-odin-iz-krupneyshih-agregatorov-nedvizhimosti",
+          "title": "Слияния и поглощения Циан: как один из крупнейших агрегаторов недвижимости готовится к первому IPO в отрасли",
+          "fact": "2026-07-29 quality-pass source: describes Media3 Holding's subsidiary Delovoy Mir Onlayn owning classifieds sites (dmir.ru, realty.dmir.ru, auto.dmir.ru, zarplata.ru) and acquiring Cian in July 2013, with leadership passing to Melnikov roughly six months later; used to reconcile the 2013-vs-2014 Cian-CEO-start discrepancy and to document Media3's diversified business for the GICS null justification."
+        },
+        {
+          "url": "https://www.cnews.ru/news/top/2022-04-26_glava_tsian_pokinul_svoj_post",
+          "title": "Глава ЦИАН покинул свой пост, сохранив бронь на участие в совете директоров",
+          "fact": "2026-07-29 quality-pass source: independently confirms Melnikov led Cian as CEO \"с 2014 г.\" (from 2014) until the April 2022 transition, corroborating the SEC-filed 2014 date."
+        },
+        {
+          "url": "https://ru.wikipedia.org/wiki/Циан_(компания)",
+          "title": "Циан (компания) -- Википедия",
+          "fact": "2026-07-29 quality-pass source: states Melnikov became general director/managing partner of Cian in 2013 and describes the 2014 Elbrus Capital stake transition and the cian.ru/realty.dmir.ru site merger; used as the main documented alternative-date source in the 2013-vs-2014 review (2013 treated as the acquisition/arrival date, not the formal CEO title date)."
+        },
+        {
+          "url": "https://www.cian.ru/novosti-maksim-melnikov-voshel-v-top-20-liderov-sovremennogo-biznesa-322751/",
+          "title": "Максим Мельников вошел в топ-20 лидеров современного бизнеса",
+          "fact": "2026-07-29 quality-pass source: Cian's own retrospective states \"Придя в 2013 году в Циан, Мельников сразу взялся за амбициозную задачу...\" (obtained via search-engine snippet; direct fetch was blocked by a Yandex CAPTCHA page). Used as further context that 2013 in Cian's own materials refers to his arrival at the company, not the formal CEO title date."
+        },
+        {
+          "url": "https://mainfin.ru/persona/melnikov-maksim-gendirektor-cian",
+          "title": "Мельников Максим Анатольевич, генеральный директор Циан - биография",
+          "fact": "2026-07-29 quality-pass source, checked as a lead for two open gaps (education graduation years; pre-Media3 employers) but NOT used to add new facts: this lower-tier aggregator states an unverified 1996-2004 investment-bank/private-equity/Sistema Telecom background and describes Media3 as owner of print/digital media titles (Аиф, Труд, Экстра-М); a companion source (izbran.com, citing the unreachable wiki.fa100.ru) gives different, more specific and partly inconsistent dates (1999 Olma/Strategic Investment Group/MDC Partners, 2002-2004 Sistema Telecom, 1999 Finance Academy graduation, 2006 Stanford MBA) for the same period. Given the internal inconsistency between these two aggregator accounts and the inability to verify wiki.fa100.ru directly (connection refused on three attempts), none of these specific years or employer names were added to the JSON; both gaps remain null/unconfirmed, now with named leads logged for a future round."
+        },
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1867752/000110465921125821/tm2120160-9_f1.htm",
+          "title": "Cian PLC Form F-1 (IPO registration statement), filed 13 October 2021",
+          "fact": "2026-07-30 quality-pass-round-2 source: HTML-text version of Cian's own SEC registration statement (previous rounds only had the unparseable cloudfront PDF of the related 20-F). States Melnikov served as Cian CEO since February 2014 (confirming the already-resolved 2013-vs-2014 date), and describes Media3 Holding verbatim as 'a large print and digital media holding company focused on selling print media businesses and investing in online media ventures' -- used to resolve the previously-null Media3 GICS classification. Also gives Melnikov's Finance Academy/Stanford GSB credentials with no graduation years and no pre-Media3 employer, confirming those two gaps remain unresolved."
+        },
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1867752/000110465923051263/cian-20211231x20f.htm",
+          "title": "Cian PLC Form 20-F for fiscal year 2022, filed 27 April 2023",
+          "fact": "2026-07-30 quality-pass-round-2 source: first Cian annual SEC filing covering Grigoriev's tenure as CEO; independently re-confirms Melnikov's Cian CEO dates (February 2014 - May 2022), HeadHunter board seat since May 2019, Media3 Holding 2010-2014 with the same 'print and digital media holding company...' description used to resolve the Media3 GICS gap, and his Finance Academy/Stanford GSB credentials (still no graduation years or pre-Media3 employer given)."
+        },
+        {
+          "url": "https://ru.wikipedia.org/wiki/Медиа3",
+          "title": "Медиа3 -- Википедия",
+          "fact": "2026-07-30 quality-pass-round-2 source: independently corroborates Media3 Holding's business (verified directly via curl, not only via a summarizing fetch) -- names Maxim Melnikov as General Director of ЗАО «Медиа3», describes ownership of Russia's largest printing facility, a ~2,600-point print retail distribution network, and the newspapers Труд/Экстра-М/Аргументы и факты (all divested by August 2014), plus a number of internet portals; the article's own infobox classifies its industry as 'Медиа' (Media). Used together with the SEC F-1/20-F description to resolve the Media3 Holding GICS gap."
+        }
+      ],
+      "notes": "No confirmed candidate/doctor/PhD degree, research appointment, publications, patents or h-index were found. Earlier finance-sector employers before Media3 were not added because public sources found in this round did not confirm specific organizations and dates with sufficient precision. ROUND 2 (2026-07-18, gap-filling per REFINEMENT.md): qualification_degree assigned directly from the explicit credential titles already on file -- \"Master's degree\" for the Finance Academy Master in Finance, \"MBA\" for the Stanford GSB MBA (no inference needed). Exact graduation years for both credentials were re-searched (Kommersant, rb.ru, Cian 20-F) and remain unconfirmed/null after this additional round. A further targeted search for Melnikov's pre-Media3 employers (flagged as vague in round 1) found only a vague aggregate claim (rb.ru: real estate is the \"seventh industry\" he worked in) with no named organizations or dates, so no new professional_experience entry was added; this gap is confirmed to remain genuinely unresolved. GICS sector/industry_group/industry added to every professional_experience entry: Cian/МКПАО \"Циан\" entries = Communication Services / Media & Entertainment / Interactive Media & Services (same basis as Grigoriev's Cian entries); HeadHunter Group PLC = Industrials / Commercial & Professional Services / Professional Services (online recruitment/employment-services marketplace, per ru.wikipedia.org); Media3 Holding left null/null/null because no source found in this or the prior round describes what business Media3 Holding actually conducted. Both institution strings normalized to their canonical form in university_names.json (exact alias match, no new institution to log). ROUND 3/4 (2026-07-19): all fields re-verified programmatically against gics_taxonomy.json/university_names.json, no discrepancy found; education years and pre-Media3 employers re-attempted via an independent WebFetch path (Kommersant re-fetch, list-org.com registry lookup, direct SEC PDF re-fetch), still unresolved. QUALITY PASS ROUND 1 (2026-07-29, see research_notes/CIAN/quality_pass_round1_20260729.md): found that a 2026-07-28 bulk QA-restore pass (QA_RECHECK_FIRST20_20260728.md) had silently reverted both institution strings to their pre-normalization aliases and dropped the ru.wikipedia.org/wiki/HeadHunter source citation while re-applying GICS/qualification_degree on top of an older snapshot; both are restored here as a simple desync fix. GENUINE INCONSISTENCY investigated and resolved: round 1 flagged, but never actually re-investigated, a 2013-vs-2014 conflict for when Melnikov became Cian's CEO (SEC/Cian filings say February 2014; Kommersant/rb.ru/ru.wikipedia.org/Cian's own retrospective say 2013). Fresh research (Forbes.ru's account of the July 2013 Media3/Delovoy Mir Onlayn acquisition of Cian and the ~6-month leadership handover to Melnikov, independently corroborated by CNews' \"CEO since 2014\" line) reconciles both: 2013 = Media3's acquisition of Cian / Melnikov's arrival at the group, 2014 = his formal CEO title, consistent with the SEC-filed date. 2014 is kept (unchanged value) but is now a researched, evidenced resolution rather than a bare pick between two unreconciled sources. GICS gap follow-up: Media3 Holding's business was re-investigated (previously null for lack of any source); Forbes.ru shows its Delovoy Mir Onlayn subsidiary ran online classifieds (matching Cian's own GICS bucket), while lower-tier aggregator sources also describe print/broadcast media titles under Media3 -- since these span two different GICS categories and the print-media claim is from an unverifiable source, the field is kept null but is now a reasoned, evidenced null rather than a bare gap. Education-year and pre-Media3-employer gaps: one bounded fresh attempt (2 new WebSearch queries plus WebFetch of mainfin.ru and izbran.com/wiki.fa100.ru) surfaced candidate leads (1999 Finance Academy graduation, 2006 Stanford MBA, Olma/Strategic Investment Group/MDC Partners/Sistema Telecom pre-Media3 employers) but these did not meet the confirmation bar -- a direct re-fetch of mainfin.ru's own text did not contain the 1999/2006 years found in the aggregated search synthesis, and wiki.fa100.ru itself could not be reached (connection refused, 3 attempts) to verify the more specific claims independently. Both gaps remain null, now logged with named leads for a future round rather than being re-attempted blind. QUALITY PASS ROUND 2 (2026-07-30, see research_notes/CIAN/quality_pass_round2_20260730.md): re-verified the current JSON against every research_notes/CIAN/*.md file and against quality_pass_round1_20260729.md -- no further desync or regression had occurred since round 1. GICS triples and both qualification_degree values re-checked programmatically against gics_taxonomy.json/university_names.json -- all exact matches, nothing changed except the item below. This session's WebSearch budget was already exhausted before this round's planned fresh queries (education-year and pre-Media3-employer angles) could be issued, so research this round proceeded via WebFetch/direct HTML retrieval instead: (1) tadviser.ru's URL pattern for a dedicated Melnikov person page returned HTTP 404 (no such page exists); (2) rbc.ru's tag-listing page for his name returned HTTP 403 (blocked); (3) Cian's own SEC F-1 (filed 13 October 2021) and 20-F for FY2022 (filed 27 April 2023) were fetched directly as HTML for the first time -- prior rounds only had the unparseable cloudfront PDF rendering of this filing family. Both confirm the existing Finance Academy/Stanford GSB credentials and the 2014-2022 Cian CEO dates with no graduation years and no pre-Media3 employer named; those two gaps remain unresolved, now against a fifth independent research pass. HONEST-GAP FOLLOW-UP RESOLVED: the same newly-fetched SEC F-1/20-F HTML text gives, for the first time in directly-readable form, Media3 Holding's own business description -- 'a large print and digital media holding company focused on selling print media businesses and investing in online media ventures' -- independently corroborated by directly verifying ru.wikipedia.org's ЗАО «Медиа3» article (which names Melnikov as General Director and describes the same diversified print+digital media conglomerate, classified in its own infobox as industry 'Медиа'/Media). Media3 Holding's sector/industry_group/industry are now set to Communication Services / Media & Entertainment / Media (an exact gics_taxonomy.json row), replacing round 1's informed null with a sourced, confirmed value."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/CIAN/МКПАО ЦИАН_Годовой отчет_2024_.pdf",
+      "title": "Годовой отчет МКПАО \"Циан\" за 2024 год",
+      "fact": "Page 55 describes the governance bodies; page 56 states that the 11 November 2024 shareholder decision formed the board including Maxim Melnikov as chairman and Dmitry Grigoriev as board member; page 58 states that Dmitry Grigoriev has held the General Director position since 24 September 2024."
+    },
+    {
+      "url": "https://ir.ciangroup.ru/upload/iblock/710/q2795tl35o72v26ctssjryuteqxjiad0/cian-announces-changes-to-its-senior-management-team.pdf",
+      "title": "Cian Announces Changes to Its Senior Management Team",
+      "fact": "Official Cian release confirms the 2022 transition: Dmitriy Grigoriev to CEO and Maxim Melnikov to Executive Chairperson of the Board."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CIAN rows define the two people processed: Dmitry Grigoriev and Maxim Melnikov."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/CIAN/МКПАО ЦИАН_Годовой отчет_2024_.pdf",
+      "title": "Годовой отчет МКПАО \"Циан\" за 2024 год",
+      "fact": "Local annual report confirms 2024 governance body composition, board chair and CEO."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/CIAN/МКПАО Циан Консолидированная отчетность по МСФО 2024.pdf",
+      "title": "Консолидированная финансовая отчетность МКПАО \"Циан\" по МСФО за 2024 год",
+      "fact": "Local financial report was checked; it did not contain personal biographies or education data for the two CSV persons."
+    },
+    {
+      "url": "https://ir.ciangroup.ru/upload/iblock/710/q2795tl35o72v26ctssjryuteqxjiad0/cian-announces-changes-to-its-senior-management-team.pdf",
+      "title": "Cian Announces Changes to Its Senior Management Team",
+      "fact": "Official Cian press release provides appointment, education and career facts for Dmitriy Grigoriev and the board-chair transition for Maxim Melnikov."
+    },
+    {
+      "url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001867752/37f16bed-2381-4b5c-9507-3956b89c589d.pdf",
+      "title": "Cian PLC 2021 Annual Report / Form 20-F",
+      "fact": "Cian public filing provides Maxim Melnikov's education and career facts."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1721181/000119312520073148/d847382d20f.htm",
+      "title": "HeadHunter Group PLC 2019 Annual Report / Form 20-F",
+      "fact": "Independent public-company filing confirms Maxim Melnikov's Cian, Media3 and education facts."
+    },
+    {
+      "url": "https://www.cian.ru/stati-dmitrij-grigorev-nam-ochen-vazhno-tsifrovizirovat-nedvizhimost-329646/",
+      "title": "Дмитрий Григорьев: \"Нам очень важно цифровизировать недвижимость\"",
+      "fact": "Cian interview gives Dmitry Grigoriev's biography and career chronology."
+    },
+    {
+      "url": "https://www.cian.ru/stati-maksim-melnikov-ja-prosto-hotel-postroit-horoshuju-it-kompaniju-322746/",
+      "title": "Максим Мельников: \"Я просто хотел построить хорошую IT-компанию\"",
+      "fact": "Cian interview confirms Maxim Melnikov's identity, Cian leadership and education context."
+    },
+    {
+      "url": "https://www.kommersant.ru/doc/7834325",
+      "title": "Григорьев Дмитрий Константинович",
+      "fact": "Kommersant profile independently confirms Dmitry Grigoriev's education and career sequence."
+    },
+    {
+      "url": "https://www.kommersant.ru/doc/5327410",
+      "title": "Максим Мельников ушел с поста гендиректора ЦИАН",
+      "fact": "Kommersant independently confirms Maxim Melnikov's transition from CEO to board chair and education summary."
+    },
+    {
+      "url": "https://fl.ru/about/",
+      "title": "FL.ru - about the platform",
+      "fact": "Round 2 source: confirms FL.ru's business model as a freelance labor marketplace, used to classify Grigoriev's FL.ru professional_experience entry under GICS. Restored 2026-07-29 after being dropped by an unrelated bulk QA restore; see quality_pass_round1_20260729.md."
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/HeadHunter",
+      "title": "HeadHunter -- Википедия",
+      "fact": "Round 2 source: confirms HeadHunter's business model as an online recruitment/employment-services platform, used to classify Melnikov's HeadHunter Group PLC professional_experience entry under GICS. Restored 2026-07-29 after being dropped by an unrelated bulk QA restore; see quality_pass_round1_20260729.md."
+    },
+    {
+      "url": "https://www.forbes.ru/biznes/430663-sliyaniya-i-pogloshcheniya-cian-kak-odin-iz-krupneyshih-agregatorov-nedvizhimosti",
+      "title": "Слияния и поглощения Циан: как один из крупнейших агрегаторов недвижимости готовится к первому IPO в отрасли",
+      "fact": "2026-07-29 quality-pass source: resolves the 2013-vs-2014 Melnikov CEO-start discrepancy (Media3/Delovoy Mir Onlayn acquired Cian July 2013, CEO handover about 6 months later) and documents Media3's diversified classifieds business for the GICS null justification."
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Циан_(компания)",
+      "title": "Циан (компания) -- Википедия",
+      "fact": "2026-07-29 quality-pass source: alternative-date account (2013) for Melnikov becoming Cian general director, used in the 2013-vs-2014 reconciliation."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1867752/000110465923051263/cian-20211231x20f.htm",
+      "title": "Cian PLC Form 20-F for fiscal year 2022, filed 27 April 2023",
+      "fact": "2026-07-30 quality-pass-round-2 source: newly-fetched HTML-readable primary SEC filing (previous rounds only reached the unparseable PDF rendering of this filing family); used to resolve Media3 Holding's previously-null GICS classification and to independently re-confirm both people's existing biography facts."
+    },
+    {
+      "url": "https://ru.wikipedia.org/wiki/Медиа3",
+      "title": "Медиа3 -- Википедия",
+      "fact": "2026-07-30 quality-pass-round-2 source: independent tertiary corroboration of Media3 Holding's diversified print/digital media business, used alongside the SEC F-1/20-F to resolve the previously-null Media3 GICS classification."
+    }
+  ],
+  "validation_notes": "Processed 2 people for ticker CIAN. Checked 2 local documents in MOEXBMI_Отчеты_2024/CIAN before web search: the 2024 annual report and the 2024 IFRS consolidated financial statements. Total research rounds: 2 person-rounds (one round per person). Education was confirmed for both people; no confirmed research experience, publications, patents or h-index were found for either person. Weak/background sources were used only for context: RB.ru for Melnikov's 2013 leadership context and TAdviser as secondary confirmation for Grigoriev; core facts rely on local annual report, Cian official release, Cian/SEC filing, HeadHunter SEC filing, Cian interviews and Kommersant. Excluded namesakes include academic Dmitry/Dmitriy Grigoriev profiles in psychology, mathematics, paleontology and materials science; a vocalist Dmitry Grigoriev; Cumberland University professor Max Melnikov; hockey player Maxim Melnikov born 1999; and unrelated ORCID/Scholar Melnikov/Melnik profiles. Remaining gaps: exact FL.ru end year and Melnikov's specific pre-Media3 employers were not confirmed with enough precision. Search is considered complete because local documents were checked, official biographies were found, previous employers and education leads were followed, LinkedIn/snippet-only facts were not used without confirmation, and two expanded Russian/English search passes produced no unresolved high-quality leads.\n\nROUND 2 (2026-07-18, gap-filling per REFINEMENT.md, both people already fully identified in round 1 -- this round only fills previously null/vague fields and adds new required fields, it does not redo round-1 identity/career research):\n\n1) Local documents re-checked first: MOEXBMI_Отчеты_2024/CIAN/МКПАО ЦИАН_Годовой отчет_2024_.pdf, pages 1-8, re-read specifically for the company's own business-model description (needed for the new GICS requirement, not previously extracted in round 1 which only covered the governance pages 55-58). No new personal-biography detail for either person was found there; this was expected and is not itself a gap.\n\n2) sector/industry_group/industry added at company level: Communication Services / Media & Entertainment / Interactive Media & Services. Source: the company's own description in the local 2024 annual report and the official Cian press release. This matches gics_taxonomy.json exactly. Same triple applied to every professional_experience entry whose organization is Cian / MKPAO Cian in any of its legal-name variants, for both Grigoriev and Melnikov.\n\n3) sector/industry_group/industry added to non-Cian professional_experience entries by the organization's own primary business: FL.ru (Grigoriev, CTO) = Industrials / Commercial & Professional Services / Professional Services. HeadHunter Group PLC (Melnikov, board member) = Industrials / Commercial & Professional Services / Professional Services. Two entries left null with justification: Choister; Rubrain (single entry combining two organizations with different primary businesses) and Media3 Holding (no source in round 1/2 described its business).\n\n4) qualification_degree added to every education[]/degrees[] entry for both people. Grigoriev's MIET entry mapped to Specialist degree as a contextual inference from the specialty code/era (documented in research_notes). Melnikov's two entries mapped directly from explicit credential titles (Master's degree, MBA).\n\n5) Institution normalization: Grigoriev's MIET string, Melnikov's Finance Academy string and Stanford GSB string normalized to their canonical university_names.json keys.\n\n6) Remaining gaps re-attempted and confirmed to remain genuinely unresolved: Grigoriev's exact FL.ru end year; Melnikov's exact graduation years for both credentials; Melnikov's specific pre-Media3 employers.\n\n7) No previously confirmed fact was deleted or overwritten. A backup of the pre-round-2 file was kept at output/CIAN_person_info.json.bak_before_round2.\n\nROUND 3/4 (2026-07-19): verification-only passes. All fields programmatically re-checked against gics_taxonomy.json / university_names.json / the qualification_degree enum; no discrepancy found. The remaining open gaps (FL.ru end year; Melnikov's education years and pre-Media3 employers) were each re-attempted via an independent tool path and confirmed to remain genuinely unresolved, not merely unexamined. Round 3's work had been researched but its sync into this validation_notes field and each person's notes field had not happened until round 4.\n\nQUALITY PASS ROUND 1 (2026-07-29, see research_notes/CIAN/quality_pass_round1_20260729.md for full detail):\n\n1) DESYNC FOUND AND FIXED (simple omission): the 2026-07-28 bulk QA-restore pass documented in QA_RECHECK_FIRST20_20260728.md (which restored clean Cyrillic from the backup_before_refinement_20260717_233715 snapshot and re-applied confirmed GICS / qualification_degree on top) had silently reverted this ticker to a pre-round-2 state for institution-name normalization and dropped two source citations, without touching the GICS / qualification_degree values themselves. Restored: Grigoriev's MIET institution string to its canonical university_names.json form; both of Melnikov's institution strings (Finance Academy, Stanford GSB) to their canonical forms in education[] and degrees[]; the fl.ru/about source (ceo and top-level); the ru.wikipedia.org/wiki/HeadHunter source (tmt[0] and top-level). Each person's notes field and this validation_notes field had also reverted to their round-1-only text, losing the round 2-4 documentation trail; that trail is restored above and this new section appended.\n\n2) GENUINE INCONSISTENCY investigated and resolved: round 1 had flagged, but no subsequent round had actually re-investigated, a 2013-vs-2014 conflict for when Melnikov became Cian's CEO (SEC/Cian PLC 20-F and the official Cian press release say February 2014; Kommersant, rb.ru, ru.wikipedia.org and Cian's own 2021 top-20-leaders retrospective say 2013). Fresh research this round (Forbes.ru's account that Media3's subsidiary Delovoy Mir Onlayn acquired Cian in July 2013 and leadership passed to Melnikov about six months later, independently corroborated by CNews stating he led Cian since 2014) reconciles both accounts: 2013 = the Media3/Delovoy Mir Onlayn acquisition of Cian / Melnikov's arrival at the group, 2014 = his formal CEO title. The JSON's existing 2014 start_year is kept (SEC-filed, legally-disclosed, most authoritative), now with a documented, evidence-based reconciliation instead of a silent pick between conflicting sources.\n\n3) GICS gap follow-up: Media3 Holding's business (previously null for lack of any source) was re-investigated. Forbes.ru shows its Delovoy Mir Onlayn subsidiary ran online real-estate/auto/jobs classifieds (the same GICS bucket as Cian itself), while separate lower-tier aggregator sources (mainfin.ru; a wiki.fa100.ru-sourced summary reproduced by izbran.com) describe it as also owning print/broadcast media titles. Because the holding's own operating businesses genuinely span two different GICS buckets and the print-media claim could not be verified against a higher-tier source (wiki.fa100.ru was unreachable in three attempts), sector/industry_group/industry remain null -- now a reasoned, evidenced null rather than a bare gap.\n\n4) GICS label sanity-check (task 2): every professional_experience entry with a non-null GICS triple for both people (Cian / MKPAO Cian roles, FL.ru, HeadHunter Group PLC) was checked against the organization's real primary business; all were already exact-row matches consistent with gics_taxonomy.json and the organization's actual business (online real-estate classifieds; freelance labor marketplace; online recruitment marketplace respectively). No mislabeled GICS triple was found for this ticker; nothing was changed under this check.\n\n5) HONEST-GAP FOLLOW-UP attempts (bounded, one per gap): (a) Grigoriev's FL.ru end year -- 2 fresh WebSearch queries plus WebFetch of 3 new URLs not tried in prior rounds (en.wikipedia.org/wiki/Dmitry_Grigoryev_(businessman) -- a same-named Kazakh businessman, b. 1975, unrelated, rejected as a new namesake; ir.ciangroup.ru/en/corporate-governance/management/dmitry-grigoriev/ -- 404; interfax.ru/business/837738 -- repeats the already-known 3-line summary). Still unresolved, remains null. (b) Melnikov's exact graduation years for both credentials -- 2 fresh WebSearch queries plus WebFetch of mainfin.ru and izbran.com (citing wiki.fa100.ru) surfaced candidate years (1999 Finance Academy, 2006 Stanford MBA) but a direct re-fetch of mainfin.ru's own text did not contain these years, and wiki.fa100.ru itself could not be reached (connection refused, 3 attempts) to verify independently; the candidate years do not meet the confirmation bar and were NOT added. Still unresolved, remains null. (c) Melnikov's pre-Media3 employers -- the same mainfin.ru/izbran.com sources named Sistema Telecom, investment bank Olma, Strategic Investment Group and MDC Partners for the 1996-2004 period, but the two accounts disagree on specific sub-dates and neither could be cross-checked against a primary/high-tier source within this round's bounded budget; NOT added as a new professional_experience entry. Still unresolved, remains null -- now logged with named leads for a future round instead of a blind re-search.\n\n6) No previously confirmed fact was deleted or overwritten in this round; all changes were either restorations of previously-established round-2 work that had been silently reverted, additive source citations/description enrichments backed by newly found sources, or documentation of gap-attempts that found nothing conclusive.\n\nQUALITY PASS ROUND 2 (2026-07-30, see research_notes/CIAN/quality_pass_round2_20260730.md for full detail):\n\n1) DESYNC CHECK: re-read every research_notes/CIAN/*.md file (rounds 1-4 for both people plus quality_pass_round1_20260729.md) against the current output/CIAN_person_info.json. No further desync or regression had occurred since round 1 -- the institution-string normalizations, the fl.ru/about and ru.wikipedia.org/wiki/HeadHunter source restorations, and the full notes/validation_notes documentation trail from round 1 were all still intact and matched exactly. Programmatic re-check confirmed both qualification_degree values remain within the ten-value enum and all three institution strings remain exact canonical keys in university_names.json.\n\n2) GICS LABEL CORRECTNESS: every non-null sector/industry_group/industry triple (Cian/МКПАО \"Циан\" x7 entries, FL.ru, HeadHunter Group PLC) was independently re-checked programmatically against gics_taxonomy.json for exact-row validity and against each organization's real primary business. All confirmed correct; no mislabeling found; nothing changed under this check.\n\n3) HONEST-GAP FOLLOW-UP (bounded, one attempt per remaining gap): this session's WebSearch budget was already exhausted before any of this round's planned fresh queries could be issued (a session-wide constraint, consistent with what rounds 3 and 4 separately documented), so all follow-up this round used WebFetch/direct HTML retrieval instead. (a) Grigoriev's FL.ru end year -- fetched Cian's first Grigoriev-era SEC annual filing (Form 20-F for FY2022, filed 27 April 2023) directly as HTML for the first time (prior rounds only reached the unparseable cloudfront PDF of this filing family); it independently confirms the existing bio facts but still gives only 'for 6 years' with no specific end year. Still unresolved. (b) Melnikov's exact graduation years -- tadviser.ru's URL pattern for a dedicated person page 404s (no such page); rbc.ru's tag page 403s; the newly-fetched SEC F-1 (13 October 2021) and 20-F (27 April 2023) both state the two credentials with no graduation year for either. Still unresolved. (c) Melnikov's pre-Media3 employers -- the same two newly-fetched SEC filings name no employer before Media3 Holding. Still unresolved. (d) Media3 Holding's GICS classification (previously an informed null) -- RESOLVED this round. The HTML text of Cian's SEC F-1 and 20-F, fetched directly for the first time, states verbatim that Media3 Holding was 'a large print and digital media holding company focused on selling print media businesses and investing in online media ventures'; this was independently corroborated by directly verifying (not just summarizing) ru.wikipedia.org's article on ЗАО «Медиа3», which names Maxim Melnikov as its General Director and describes the same diversified print-plus-digital media conglomerate (largest Moscow printing facility, ~2,600-point print retail network, the newspapers Труд/Экстра-М/Аргументы и факты, several internet portals), classifying its own industry as 'Медиа' (Media) in its infobox. sector/industry_group/industry for the Media3 Holding professional_experience entry are now set to Communication Services / Media & Entertainment / Media (an exact gics_taxonomy.json row), replacing round 1's reasoned null with a sourced, confirmed value.\n\n4) No previously confirmed fact was deleted or overwritten this round; the Media3 GICS change replaces a documented null with a newly-sourced value (not a value-vs-value conflict), and all other changes are additive source citations and description/notes enrichment.",
+  "sector": "Communication Services",
+  "industry_group": "Media & Entertainment",
+  "industry": "Interactive Media & Services"
+}

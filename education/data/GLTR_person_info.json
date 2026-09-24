@@ -1,0 +1,1240 @@
+{
+    "company_name": "Глобалтранс Инвестмент ПЛС / Globaltrans Investment PLC",
+    "company_ticker": "GLTR",
+    "sector": "Industrials",
+    "industry_group": "Transportation",
+    "industry": "Ground Transportation (New Name)",
+    "ceo": {
+        "name": "Газизов Антон / Anton Gazizov",
+        "current_role": "Managing Director; Executive Director and member of the Board of Directors in the 2024 governance period",
+        "company_name": "Глобалтранс Инвестмент ПЛС / Globaltrans Investment PLC",
+        "education": [
+            {
+                "institution": "University of Cambridge",
+                "year": null,
+                "program_or_specialty": "Economics",
+                "qualification": "First-class degree",
+                "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                "qualification_degree": "Bachelor's degree"
+            },
+            {
+                "institution": "London Business School",
+                "year": null,
+                "program_or_specialty": "Executive MBA",
+                "qualification": "Executive MBA",
+                "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                "qualification_degree": "MBA"
+            },
+            {
+                "institution": "CFA Institute",
+                "year": null,
+                "program_or_specialty": null,
+                "qualification": "Chartered Financial Analyst",
+                "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                "qualification_degree": "Professional certification"
+            }
+        ],
+        "degrees": [],
+        "professional_experience": [
+            {
+                "organization": "Globaltrans Investment PLC",
+                "role": "Managing Director; Executive Director; Board member",
+                "start_year": 2024,
+                "end_year": null,
+                "description": "Local Annual Report 2024 identifies Anton Gazizov as Managing Director and member of the Board; the board list says he was appointed Executive Director on 4 April 2024.",
+                "source": "MOEXBMI_Отчеты_2024/GLTR/annual-report-2024 глобалтранс.pdf",
+                "sector": "Industrials",
+                "industry_group": "Transportation",
+                "industry": "Ground Transportation (New Name)"
+            },
+            {
+                "organization": "AQNIET Capital",
+                "role": "Portfolio Manager",
+                "start_year": null,
+                "end_year": null,
+                "description": "Globaltrans Annual Report 2023 states that he currently served as Portfolio Manager at AQNIET Capital. GICS classification: AQNIET Capital's own primary business is a multi-sector investment/holding company (portfolio across retail, distribution, logistics, agriculture), analogous to a diversified financial holding, not a subsidiary-specific bucket.",
+                "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                "sector": "Financials",
+                "industry_group": "Financial Services (New Name)",
+                "industry": "Financial Services (New Name)"
+            },
+            {
+                "organization": "Sky Light Invest",
+                "role": "Chief Executive Officer",
+                "start_year": null,
+                "end_year": null,
+                "description": "Globaltrans Annual Report 2023 and the Sky Light Invest profile identify him as CEO of Sky Light Invest in the UAE. GICS classification: Sky Light Invest is a family office (private wealth/investment management vehicle), which falls under Capital Markets (asset/wealth management).",
+                "source": "https://skylightinvest.ae/183-2/",
+                "sector": "Financials",
+                "industry_group": "Financial Services (New Name)",
+                "industry": "Capital Markets"
+            },
+            {
+                "organization": "Deutsche Bank",
+                "role": null,
+                "start_year": null,
+                "end_year": null,
+                "description": "Official biography says his international career included positions at Deutsche Bank.",
+                "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                "sector": "Financials",
+                "industry_group": "Banks",
+                "industry": "Banks"
+            },
+            {
+                "organization": "Goldman Sachs",
+                "role": null,
+                "start_year": null,
+                "end_year": null,
+                "description": "Official biography says his international career included positions at Goldman Sachs.",
+                "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                "sector": "Financials",
+                "industry_group": "Financial Services (New Name)",
+                "industry": "Capital Markets"
+            },
+            {
+                "organization": "QVT",
+                "role": null,
+                "start_year": null,
+                "end_year": null,
+                "description": "Official biography says his international career included positions at US hedge fund QVT. GICS classification: QVT is described as a US hedge fund, which falls under Capital Markets (asset management).",
+                "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                "sector": "Financials",
+                "industry_group": "Financial Services (New Name)",
+                "industry": "Capital Markets"
+            }
+        ],
+        "research_experience": [],
+        "publications": [],
+        "patents": [],
+        "h_index": null,
+        "sources": [
+            {
+                "url": "MOEXBMI_2024.csv",
+                "title": "MOEXBMI_2024.csv",
+                "fact": "CSV row 229 lists GLTR / Глобалтранс Инвестмент ПЛС / Газизов Антон / \"Управляющий директор, член СД\"."
+            },
+            {
+                "url": "MOEXBMI_Отчеты_2024/GLTR/annual-report-2024 глобалтранс.pdf",
+                "title": "Globaltrans Investment PLC. Annual Report and Accounts for the year ended 31 December 2024",
+                "fact": "Page 5: Anton Gazizov signs the report as Managing Director and member of the Board; page 13 states Anton Gazizov is Managing Director; page 26 lists him as Executive Director appointed on 4 April 2024."
+            },
+            {
+                "url": "https://www.globaltrans.com/investors/news/detail/2451",
+                "title": "Globaltrans announces results of its Extraordinary General Meeting of shareholders",
+                "fact": "The 4 April 2024 EGM announcement lists Anton Gazizov among the 13 directors appointed to the Board until the 2025 AGM."
+            },
+            {
+                "url": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                "title": "Globaltrans Annual Report & Accounts 2023",
+                "fact": "Pages 110-111: official biography lists Anton Gazizov as Executive Director and Managing Director appointed April 2024 and provides finance career and education details."
+            },
+            {
+                "url": "https://skylightinvest.ae/183-2/",
+                "title": "Sky Light Invest. Meet Anton Gazizov",
+                "fact": "Sky Light Invest identifies Anton Gazizov as CEO and confirms the Cambridge, London Business School and CFA details."
+            }
+        ],
+        "notes": "No separate CEO title was confirmed for 2024; Anton Gazizov is placed in ceo as the confirmed Managing Director and senior management lead."
+    },
+    "tmt": [
+        {
+            "name": "Джафар Борхан / Jaafar Borhan Jaafar",
+            "current_role": "Senior Independent Non-Executive Director; Chair of Nomination and Remuneration Committees; ESG Committee member",
+            "company_name": "Глобалтранс Инвестмент ПЛС / Globaltrans Investment PLC",
+            "education": [
+                {
+                    "institution": "Beirut Arab University",
+                    "year": null,
+                    "program_or_specialty": "Business Administration and Finance",
+                    "qualification": "Bachelor's Degree",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "qualification_degree": "Bachelor's degree"
+                }
+            ],
+            "degrees": [],
+            "professional_experience": [
+                {
+                    "organization": "Globaltrans Investment PLC",
+                    "role": "Senior Independent Non-Executive Director",
+                    "start_year": 2024,
+                    "end_year": null,
+                    "description": "Local Annual Report 2024 lists Jaafar Borhan as Senior Independent Non-Executive Director appointed on 4 April 2024.",
+                    "source": "MOEXBMI_Отчеты_2024/GLTR/annual-report-2024 глобалтранс.pdf",
+                    "sector": "Industrials",
+                    "industry_group": "Transportation",
+                    "industry": "Ground Transportation (New Name)"
+                },
+                {
+                    "organization": "Business Hub",
+                    "role": "Chief Executive Officer",
+                    "start_year": 2023,
+                    "end_year": null,
+                    "description": "Official biography says he has been CEO of Business Hub since early 2023. GICS classification: Business Hub is described as a corporate services provider (company formation/business support), which fits Professional Services.",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "sector": "Industrials",
+                    "industry_group": "Commercial & Professional Services",
+                    "industry": "Professional Services"
+                },
+                {
+                    "organization": "KEZAD Group",
+                    "role": "Commercial Director - SME & Business Development",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Official biography identifies this as a prior role. GICS classification: KEZAD (Khalifa Economic Zone Abu Dhabi) is an economic-zone developer/manager, i.e. an industrial real estate management and development entity.",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "sector": "Real Estate",
+                    "industry_group": "Real Estate Management & Development (New)",
+                    "industry": "Real Estate Management & Development (New Code)"
+                },
+                {
+                    "organization": "RAKEZ, OnTime Government Services, UAE Exchange Centre, Emirates NBD",
+                    "role": "Senior managerial positions",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Official biography lists senior managerial positions at these UAE organizations. GICS not applicable: this single record combines four structurally different organizations (a free-zone authority, a government-services facilitator, a money-exchange house and a commercial bank); no single GICS bucket fits all four and the source does not separate role dates per employer.",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                }
+            ],
+            "research_experience": [],
+            "publications": [],
+            "patents": [],
+            "h_index": null,
+            "sources": [
+                {
+                    "url": "MOEXBMI_2024.csv",
+                    "title": "MOEXBMI_2024.csv",
+                    "fact": "CSV row 230 lists Джафар Борхан as GLTR board member."
+                },
+                {
+                    "url": "MOEXBMI_Отчеты_2024/GLTR/annual-report-2024 глобалтранс.pdf",
+                    "title": "Globaltrans Annual Report 2024",
+                    "fact": "Page 26 lists Jaafar Borhan as Senior Independent Non-Executive Director; pages 34-35 confirm 2024 attendance and committee chair roles."
+                },
+                {
+                    "url": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "title": "Globaltrans Annual Report & Accounts 2023",
+                    "fact": "Pages 110-111 provide Jaafar Borhan's official biography, prior employers and Beirut Arab University degree."
+                }
+            ],
+            "notes": "Exact dates for roles before Business Hub were not confirmed."
+        },
+        {
+            "name": "Жуслен Хейраллах / Jouslin Khairallah",
+            "current_role": "Independent Non-Executive Director; ESG Committee Chair; Audit, Remuneration and Nomination Committee member in local 2024 board list",
+            "company_name": "Глобалтранс Инвестмент ПЛС / Globaltrans Investment PLC",
+            "education": [
+                {
+                    "institution": "Beirut Arab University",
+                    "year": null,
+                    "program_or_specialty": "Law",
+                    "qualification": "Bachelor of Law",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "qualification_degree": "Bachelor's degree"
+                }
+            ],
+            "degrees": [],
+            "professional_experience": [
+                {
+                    "organization": "Globaltrans Investment PLC",
+                    "role": "Independent Non-Executive Director",
+                    "start_year": 2024,
+                    "end_year": null,
+                    "description": "Local Annual Report 2024 lists Jouslin Khairallah as Independent Non-Executive Director appointed on 4 April 2024.",
+                    "source": "MOEXBMI_Отчеты_2024/GLTR/annual-report-2024 глобалтранс.pdf",
+                    "sector": "Industrials",
+                    "industry_group": "Transportation",
+                    "industry": "Ground Transportation (New Name)"
+                },
+                {
+                    "organization": "Khairallah Advocates & Legal Consultants",
+                    "role": "Founder and Managing Director",
+                    "start_year": 2008,
+                    "end_year": null,
+                    "description": "Official biography and KH Legal pages identify her as founder/managing director of the Dubai law firm. ROUND 2: KH Legal's own firm website (khlegal.ae) states the firm 'founded by Mrs. Jouslin Khairallah in the year 2008', confirming the start year.",
+                    "source": "https://khlegal.ae/",
+                    "sector": "Industrials",
+                    "industry_group": "Commercial & Professional Services",
+                    "industry": "Professional Services"
+                },
+                {
+                    "organization": "International Association of Lawyers; Emirates Human Rights Association; Dubai Business Women Council",
+                    "role": "Member",
+                    "start_year": 2022,
+                    "end_year": null,
+                    "description": "Official biography says she became a member of the International Association of Lawyers in 2022 and is also a member of the listed UAE associations. GICS not applicable: this record combines membership in a legal professional association, a human-rights advocacy NGO and a business networking council; none is a commercial operating company and the three are structurally different bodies.",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                }
+            ],
+            "research_experience": [],
+            "publications": [],
+            "patents": [],
+            "h_index": null,
+            "sources": [
+                {
+                    "url": "MOEXBMI_2024.csv",
+                    "title": "MOEXBMI_2024.csv",
+                    "fact": "CSV row 231 lists Жуслен Хейраллах as GLTR board member."
+                },
+                {
+                    "url": "MOEXBMI_Отчеты_2024/GLTR/annual-report-2024 глобалтранс.pdf",
+                    "title": "Globaltrans Annual Report 2024",
+                    "fact": "Page 26 lists Jouslin Khairallah as Independent Non-Executive Director; pages 34-35 confirm 2024 committee participation."
+                },
+                {
+                    "url": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "title": "Globaltrans Annual Report & Accounts 2023",
+                    "fact": "Pages 108-109 provide legal career, firm founder role and Bachelor of Law details."
+                },
+                {
+                    "url": "https://khlegal.ae/",
+                    "title": "KH Legal",
+                    "fact": "Firm site identifies Jouslin Khairallah as Founder & Managing Director - Senior Lawyer."
+                }
+            ],
+            "notes": "Graduation year was not found. Quality pass (2026-07-30): a fresh WebSearch query surfaced a claim, attributed to her own LinkedIn profile (linkedin.com/in/jouslin-khairallah-5b561b15), that she studied 2000-2004 for her LLB at Beirut Arab University. This was NOT added to the record: a direct WebFetch of the LinkedIn URL itself was blocked (HTTP 999), so the claim could only be checked against a search engine's secondhand paraphrase, not verified verbatim; the linked Wikidata entry (Q114608972) additionally gives her date of birth as 11 January 1976, which does not comfortably line up with a 2000-2004 undergraduate LLB (she would have been 24 to 28), adding further reason for caution. Graduation year is left null pending a source that can be directly verified rather than paraphrased."
+        },
+        {
+            "name": "Абдулла Белобайда / Abdulla Belobaida",
+            "current_role": "Independent Non-Executive Director; Audit Committee Chair; Nomination and Remuneration Committee member",
+            "company_name": "Глобалтранс Инвестмент ПЛС / Globaltrans Investment PLC",
+            "education": [],
+            "degrees": [],
+            "professional_experience": [
+                {
+                    "organization": "Globaltrans Investment PLC",
+                    "role": "Independent Non-Executive Director",
+                    "start_year": 2024,
+                    "end_year": null,
+                    "description": "Local Annual Report 2024 lists Abdulla Belobaida as Independent Non-Executive Director appointed on 4 April 2024.",
+                    "source": "MOEXBMI_Отчеты_2024/GLTR/annual-report-2024 глобалтранс.pdf",
+                    "sector": "Industrials",
+                    "industry_group": "Transportation",
+                    "industry": "Ground Transportation (New Name)"
+                },
+                {
+                    "organization": "Engineering Contracting Co",
+                    "role": "Business partner and board member",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Official biography identifies him as business partner and board member of Engineering Contracting Co.",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "sector": "Industrials",
+                    "industry_group": "Capital Goods",
+                    "industry": "Construction & Engineering"
+                },
+                {
+                    "organization": "Prime Metal Industries",
+                    "role": "Board member",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Official biography says he sits on the board of Prime Metal Industries. GICS classification: Prime Metal Industries is described as a provider of steel and aluminum metalworks (fabricated metal products for construction), closest to Building Products in the absence of a more specific fabrication bucket.",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "sector": "Industrials",
+                    "industry_group": "Capital Goods",
+                    "industry": "Building Products"
+                }
+            ],
+            "research_experience": [],
+            "publications": [],
+            "patents": [],
+            "h_index": null,
+            "sources": [
+                {
+                    "url": "MOEXBMI_2024.csv",
+                    "title": "MOEXBMI_2024.csv",
+                    "fact": "CSV row 232 lists Абдулла Белобайда as GLTR board member."
+                },
+                {
+                    "url": "MOEXBMI_Отчеты_2024/GLTR/annual-report-2024 глобалтранс.pdf",
+                    "title": "Globaltrans Annual Report 2024",
+                    "fact": "Page 26 lists Abdulla Belobaida as Independent Non-Executive Director; pages 34-35 confirm Audit/Nomination/Remuneration Committee roles."
+                },
+                {
+                    "url": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "title": "Globaltrans Annual Report & Accounts 2023",
+                    "fact": "Pages 108-109 provide the official professional biography for Abdulla Belobaida."
+                }
+            ],
+            "notes": "Education was not found after English, Russian and Arabic variant searches; this is the main unresolved biographical gap. Quality pass (2026-07-30): one further bounded attempt using fresh queries not tried in rounds 1-2 (Bloomberg / MarketScreener / Reuters / WSJ director-profile search; Belobaida plus Prime Metal or Engineering Contracting businessman search; university/degree biography search) found no education information -- only unrelated UAE namesakes (an Antarctica-expedition traveller, a jet-ski competitor, a lawyer named Mahra Belobaida Alsuwaidi, unrelated trading and auto-parts firms using the Belobaida surname). Confirms this is a genuine, still-open gap rather than a round 1/2 extraction miss; left as an empty education list per the sourcing rule."
+        },
+        {
+            "name": "Абдултайаб Бахрейнвала / Dr. Abdultaiyab Bahrainwala",
+            "current_role": "Non-executive Director",
+            "company_name": "Глобалтранс Инвестмент ПЛС / Globaltrans Investment PLC",
+            "education": [
+                {
+                    "institution": "European University Institute in Paris",
+                    "year": null,
+                    "program_or_specialty": "Law",
+                    "qualification": "Law Doctorate",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "qualification_degree": "Doctoral degree"
+                },
+                {
+                    "institution": "National University of Singapore",
+                    "year": null,
+                    "program_or_specialty": "International Business Law",
+                    "qualification": "LLM",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "qualification_degree": "Master's degree"
+                },
+                {
+                    "institution": "Maharaja Sayajirao University of Baroda",
+                    "year": null,
+                    "program_or_specialty": "Arts and Laws",
+                    "qualification": "Bachelor of Arts and Laws",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "qualification_degree": "Bachelor's degree"
+                }
+            ],
+            "degrees": [
+                {
+                    "degree": "Law Doctorate",
+                    "field": "Law",
+                    "institution": "European University Institute in Paris",
+                    "year": null,
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "qualification_degree": "Doctoral degree"
+                }
+            ],
+            "professional_experience": [
+                {
+                    "organization": "Globaltrans Investment PLC",
+                    "role": "Non-executive Director",
+                    "start_year": 2024,
+                    "end_year": null,
+                    "description": "Local Annual Report 2024 lists Abdultaiab Bahrainwala as Non-executive Director appointed on 4 April 2024.",
+                    "source": "MOEXBMI_Отчеты_2024/GLTR/annual-report-2024 глобалтранс.pdf",
+                    "sector": "Industrials",
+                    "industry_group": "Transportation",
+                    "industry": "Ground Transportation (New Name)"
+                },
+                {
+                    "organization": "Khairallah Advocates & Legal Consultants",
+                    "role": "Partner; Head of Corporate Department",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Official biography identifies him as Partner at Khairallah Advocates & Legal Consultants heading the Corporate Department.",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "sector": "Industrials",
+                    "industry_group": "Commercial & Professional Services",
+                    "industry": "Professional Services"
+                }
+            ],
+            "research_experience": [],
+            "publications": [],
+            "patents": [],
+            "h_index": null,
+            "sources": [
+                {
+                    "url": "MOEXBMI_2024.csv",
+                    "title": "MOEXBMI_2024.csv",
+                    "fact": "CSV row 233 lists Абдултайаб Бахрейнвала as GLTR board member."
+                },
+                {
+                    "url": "MOEXBMI_Отчеты_2024/GLTR/annual-report-2024 глобалтранс.pdf",
+                    "title": "Globaltrans Annual Report 2024",
+                    "fact": "Page 26 lists Abdultaiab Bahrainwala as Non-executive Director; page 34 confirms 2024 board attendance."
+                },
+                {
+                    "url": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "title": "Globaltrans Annual Report & Accounts 2023",
+                    "fact": "Pages 110-111 provide corporate-law career, Khairallah role and education."
+                },
+                {
+                    "url": "https://khlegal.ae/",
+                    "title": "KH Legal",
+                    "fact": "Firm site identifies Dr. Abdultaiyab Bahrainwala as Partner Senior Lawyer."
+                },
+                {
+                    "url": "https://www.khairallahlegal.com/how-do-you-deal-with-facebook-defamation-in-uae/",
+                    "title": "Facebook defamation in UAE - Khairallah Advocates & Legal Consultants",
+                    "fact": "Firm article identifies Abdultaiyab Bahrainwala as LLM/LLB lawyer and confirms National University of Singapore LLM details."
+                }
+            ],
+            "notes": "Spelling varies between Abdultaiab and Abdultaiyab; context confirms the same person."
+        },
+        {
+            "name": "Альбина Амангельдинова / Albina Amangeldinova",
+            "current_role": "Non-Executive Director",
+            "company_name": "Глобалтранс Инвестмент ПЛС / Globaltrans Investment PLC",
+            "education": [
+                {
+                    "institution": "Almaty Institute of National Economy",
+                    "year": null,
+                    "program_or_specialty": "Economics",
+                    "qualification": "Degree in Economics",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "qualification_degree": "Specialist degree"
+                },
+                {
+                    "institution": "Kazakh Humanitarian-Legal University",
+                    "year": null,
+                    "program_or_specialty": "Law",
+                    "qualification": "Studied law; completion not confirmed",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "qualification_degree": null
+                }
+            ],
+            "degrees": [],
+            "professional_experience": [
+                {
+                    "organization": "Globaltrans Investment PLC",
+                    "role": "Non-Executive Director",
+                    "start_year": 2024,
+                    "end_year": null,
+                    "description": "Local Annual Report 2024 lists Albina Amangeldinova as Non-Executive Director appointed on 4 April 2024.",
+                    "source": "MOEXBMI_Отчеты_2024/GLTR/annual-report-2024 глобалтранс.pdf",
+                    "sector": "Industrials",
+                    "industry_group": "Transportation",
+                    "industry": "Ground Transportation (New Name)"
+                },
+                {
+                    "organization": "DAR Company-2008",
+                    "role": "Director General",
+                    "start_year": 2011,
+                    "end_year": null,
+                    "description": "Official biography says she has been Director General of DAR Company-2008 since 2011; Kazakhstan registry page lists Амангельдинова Альбина Сериковна as head. GICS classification: DAR Company-2008 provides support services to the rail transportation sector; Ground Transportation is the closest available bucket in this taxonomy since there is no separate 'logistics support services' category.",
+                    "source": "https://niac.kz/080840004471",
+                    "sector": "Industrials",
+                    "industry_group": "Transportation",
+                    "industry": "Ground Transportation (New Name)"
+                },
+                {
+                    "organization": "National Company Kazakhstan Temir Zholy",
+                    "role": "Several key positions",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Official biography says she spent more than a decade at Kazakhstan Temir Zholy in several key positions.",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "sector": "Industrials",
+                    "industry_group": "Transportation",
+                    "industry": "Ground Transportation (New Name)"
+                }
+            ],
+            "research_experience": [],
+            "publications": [],
+            "patents": [],
+            "h_index": null,
+            "sources": [
+                {
+                    "url": "MOEXBMI_2024.csv",
+                    "title": "MOEXBMI_2024.csv",
+                    "fact": "CSV row 234 lists Альбина Амангельдинова as GLTR board member."
+                },
+                {
+                    "url": "MOEXBMI_Отчеты_2024/GLTR/annual-report-2024 глобалтранс.pdf",
+                    "title": "Globaltrans Annual Report 2024",
+                    "fact": "Page 26 lists Albina Amangeldinova as Non-Executive Director; page 34 confirms 2024 attendance."
+                },
+                {
+                    "url": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "title": "Globaltrans Annual Report & Accounts 2023",
+                    "fact": "Pages 110-111 provide finance/rail/logistics career and education details."
+                },
+                {
+                    "url": "https://niac.kz/080840004471",
+                    "title": "ТОО DAR COMPANY-2008",
+                    "fact": "Registry page lists Амангельдинова Альбина Сериковна as head of DAR Company-2008."
+                }
+            ],
+            "notes": "Law study was not converted into a completed law degree."
+        },
+        {
+            "name": "Ержан Ниязалиев / Yerzhan Niyazaliyev",
+            "current_role": "Chairman of the Board of Directors; Executive Director",
+            "company_name": "Глобалтранс Инвестмент ПЛС / Globaltrans Investment PLC",
+            "education": [
+                {
+                    "institution": "M. Auezov South Kazakhstan University",
+                    "year": null,
+                    "program_or_specialty": "History",
+                    "qualification": "Bachelor of Science",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "qualification_degree": "Bachelor's degree"
+                },
+                {
+                    "institution": "Maqsut Narikbayev University",
+                    "year": null,
+                    "program_or_specialty": "Law",
+                    "qualification": "LLB",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "qualification_degree": "Bachelor's degree"
+                },
+                {
+                    "institution": "Regional Social and Innovation University",
+                    "year": null,
+                    "program_or_specialty": "Law",
+                    "qualification": "LLM",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "qualification_degree": "Master's degree"
+                }
+            ],
+            "degrees": [],
+            "professional_experience": [
+                {
+                    "organization": "Globaltrans Investment PLC",
+                    "role": "Chairman of the Board; Executive Director",
+                    "start_year": 2024,
+                    "end_year": null,
+                    "description": "Local Annual Report 2024 lists Yerzhan Niyazaliyev as Chairman of the Board appointed on 4 April 2024.",
+                    "source": "MOEXBMI_Отчеты_2024/GLTR/annual-report-2024 глобалтранс.pdf",
+                    "sector": "Industrials",
+                    "industry_group": "Transportation",
+                    "industry": "Ground Transportation (New Name)"
+                },
+                {
+                    "organization": "AQNIET Capital / Aqniet Group",
+                    "role": "Senior executive roles; CEO then Supervisory Board",
+                    "start_year": 2018,
+                    "end_year": null,
+                    "description": "Official biography says he held key senior positions at AQNIET Capital since 2018, first as CEO and then moved to the Supervisory Board in 2023. GICS classification: AQNIET Capital / Aqniet Group's own primary business is a multi-sector investment/holding company, classified by its own line of business (diversified financial holding), not its portfolio companies'.",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "sector": "Financials",
+                    "industry_group": "Financial Services (New Name)",
+                    "industry": "Financial Services (New Name)"
+                },
+                {
+                    "organization": "Pana",
+                    "role": "Co-founder and Chairman",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Official biography identifies him as co-founder and Chairman of Pana.",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "sector": "Consumer Discretionary",
+                    "industry_group": "Consumer Services",
+                    "industry": "Hotels, Restaurants & Leisure"
+                }
+            ],
+            "research_experience": [],
+            "publications": [],
+            "patents": [],
+            "h_index": null,
+            "sources": [
+                {
+                    "url": "MOEXBMI_2024.csv",
+                    "title": "MOEXBMI_2024.csv",
+                    "fact": "CSV row 235 lists Ержан Ниязалиев as GLTR Chairman of the Board."
+                },
+                {
+                    "url": "MOEXBMI_Отчеты_2024/GLTR/annual-report-2024 глобалтранс.pdf",
+                    "title": "Globaltrans Annual Report 2024",
+                    "fact": "Page 26 lists Yerzhan Niyazaliyev as Chairman of the Board and Executive Director; page 34 confirms 2024 attendance."
+                },
+                {
+                    "url": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "title": "Globaltrans Annual Report & Accounts 2023",
+                    "fact": "Pages 108-111 provide AQNIET, Pana and education details."
+                },
+                {
+                    "url": "https://forbes.kz/articles/aqniet_group_otkryila_novyie_etnokofeyni_tary_v_ayusae_i_charyine",
+                    "title": "Forbes Kazakhstan. Новый виток развития внутреннего туризма в Казахстане",
+                    "fact": "Forbes Kazakhstan quotes Ержан Ниязалиев as General Director of Aqniet Group in a Pana/Tary project context."
+                }
+            ],
+            "notes": "Exact graduation years were not found."
+        },
+        {
+            "name": "Кайрат Итемгенов / Kairat Itemgenov",
+            "current_role": "Executive Director; Chief Strategy Officer and shareholder in official biography",
+            "company_name": "Глобалтранс Инвестмент ПЛС / Globaltrans Investment PLC",
+            "education": [
+                {
+                    "institution": "Kazakh State National University",
+                    "year": null,
+                    "program_or_specialty": "Jurisprudence",
+                    "qualification": "Graduated; major in jurisprudence",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "qualification_degree": "Specialist degree"
+                },
+                {
+                    "institution": "Технологический институт в Семее",
+                    "year": null,
+                    "program_or_specialty": "Mechanical Engineering",
+                    "qualification": "Engineering degree (инженер-механик / mechanical engineer)",
+                    "source": "https://ru.wikipedia.org/wiki/Итемгенов,_Кайрат_Шакиртович",
+                    "qualification_degree": "Specialist degree"
+                }
+            ],
+            "degrees": [],
+            "professional_experience": [
+                {
+                    "organization": "Globaltrans Investment PLC",
+                    "role": "Executive Director; Chief Strategy Officer; shareholder",
+                    "start_year": 2024,
+                    "end_year": null,
+                    "description": "Local Annual Report 2024 lists Kairat Itemgenov as Executive Director appointed on 4 April 2024; official biography describes him as Chief Strategy Officer and shareholder.",
+                    "source": "MOEXBMI_Отчеты_2024/GLTR/annual-report-2024 глобалтранс.pdf",
+                    "sector": "Industrials",
+                    "industry_group": "Transportation",
+                    "industry": "Ground Transportation (New Name)"
+                },
+                {
+                    "organization": "AQNIET Capital / Aqniet Group",
+                    "role": "Owner / main shareholder / chairman of supervisory board",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Official biography says he owns AQNIET Capital; Forbes Kazakhstan confirms he is chairman of the supervisory board and main shareholder of Aqniet Group. GICS classification: same reasoning as for other AQNIET Capital / Aqniet Group entries: classified by the holding company's own diversified-investment business, not its portfolio companies'.",
+                    "source": "https://forbes.kz/ranking/object/1037",
+                    "sector": "Financials",
+                    "industry_group": "Financial Services (New Name)",
+                    "industry": "Financial Services (New Name)"
+                },
+                {
+                    "organization": "Europharma, hotels/lodging properties, Satti Logistics, KBI Energy",
+                    "role": "Entrepreneur / owner of businesses",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Official biography and Forbes profile describe businesses across pharmacy, hotels/lodging, logistics and energy equipment. GICS not applicable: this record combines four structurally different owned businesses (pharmacy retail, hospitality, freight logistics and power-equipment services); no single GICS bucket fits all four.",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                },
+                {
+                    "organization": "Legal practice",
+                    "role": "Law practitioner",
+                    "start_year": null,
+                    "end_year": 2006,
+                    "description": "Official biography states that before business development in 2006, he practiced law for ten years.",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "sector": "Industrials",
+                    "industry_group": "Commercial & Professional Services",
+                    "industry": "Professional Services"
+                }
+            ],
+            "research_experience": [],
+            "publications": [],
+            "patents": [],
+            "h_index": null,
+            "sources": [
+                {
+                    "url": "MOEXBMI_2024.csv",
+                    "title": "MOEXBMI_2024.csv",
+                    "fact": "CSV row 236 lists Кайрат Итемгенов as GLTR board member."
+                },
+                {
+                    "url": "MOEXBMI_Отчеты_2024/GLTR/annual-report-2024 глобалтранс.pdf",
+                    "title": "Globaltrans Annual Report 2024",
+                    "fact": "Page 26 lists Kairat Itemgenov as Executive Director; page 34 confirms 2024 attendance."
+                },
+                {
+                    "url": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "title": "Globaltrans Annual Report & Accounts 2023",
+                    "fact": "Pages 110-111 provide AQNIET, business portfolio, law practice and education details."
+                },
+                {
+                    "url": "https://forbes.kz/ranking/object/1037",
+                    "title": "Forbes Kazakhstan. Кайрат Итемгенов",
+                    "fact": "Forbes profile confirms Aqniet Group, Europharma/ArzanPharm, Satti Logistics, KBI Energy and Globaltrans stake context in 2024."
+                },
+                {
+                    "url": "https://www.rbc.ru/business/15/01/2024/65a4dc3d9a794718de495f8d",
+                    "title": "РБК. Бизнесмен из Казахстана выкупил долю в российском Globaltrans",
+                    "fact": "RBC reports that AQNIET, beneficially owned by Kairat Itemgenov, acquired 26.19% of Globaltrans and agreed to acquire additional stakes."
+                },
+                {
+                    "url": "https://ru.wikipedia.org/wiki/Итемгенов,_Кайрат_Шакиртович",
+                    "title": "Итемгенов, Кайрат Шакиртович — Википедия",
+                    "fact": "States he graduated from the Technological Institute in Semey (mechanical engineer specialty), then obtained higher legal education at Al-Farabi Kazakh National University and a Master of Laws (LL.M.). Only the engineering-institute claim was independently corroborated this round; the LL.M. claim remains single-sourced and was not added."
+                },
+                {
+                    "url": "https://ratel.kz/raw/pochemu_kajrat_itemgenov_chetyre_goda_ne_mozhet_zapustit_raspiarennuju_kotelnuju",
+                    "title": "Ratel.kz. Pochemu Kairat Itemgenov chetyre goda ne mozhet zapustit raspiarennuju kotelnuju",
+                    "fact": "Independent Kazakhstani investigative-journalism article describing him verbatim as an engineer by education, corroborating the Wikipedia engineering-institute claim from a second, independent source."
+                }
+            ],
+            "notes": "Non-official claims of additional education were reconsidered in the quality pass (2026-07-30): round 1 had found via Wikipedia that he also holds an engineering degree (Tekhnologicheskiy institut v Semee / Semey Technological Institute, specialty inzhener-mekhanik / mechanical engineer) and a Master of Laws (LL.M.), but rejected both because only one source (Wikipedia) supported them. This round re-fetched the Russian Wikipedia article directly (verbatim, translated: \"He graduated from the Technological Institute in Semey with a specialty of mechanical engineer. He obtained higher legal education at Al-Farabi Kazakh National University, and subsequently a Master of Laws degree (LL.M).\") and found independent corroboration for the engineering credential specifically in Ratel.kz, an established Kazakhstani investigative-journalism outlet, which separately describes him (verbatim, translated) as \"an engineer by education\". With two independent sources now agreeing on the engineering credential, it was added to education[] with qualification_degree inferred as Specialist degree, consistent with his 1971 birth year and pre-2006 career timeline placing any technical-institute graduation in the Soviet/CIS pre-Bologna era. The official Globaltrans corporate biography (AR2023) does not mention this credential at all -- it lists only the KazNU law degree -- so this is read as an additional credential the corporate bio simply omits, not a factual conflict with it. The Master of Laws (LL.M.) claim remains UNCONFIRMED: it is still sourced only to Wikipedia, and this round's fresh search for independent corroboration found none, so it was deliberately NOT added to education[] or degrees[]."
+        },
+        {
+            "name": "Сторожев Александр Валентинович / Alexander Storozhev",
+            "current_role": "Executive Director; Chief Procurement Officer",
+            "company_name": "Глобалтранс Инвестмент ПЛС / Globaltrans Investment PLC",
+            "education": [
+                {
+                    "institution": "Kiev Military Academy of Aviation and Engineering",
+                    "year": 1990,
+                    "program_or_specialty": "Engineering",
+                    "qualification": "Degree in Engineering",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "qualification_degree": "Specialist degree"
+                },
+                {
+                    "institution": "Московская международная высшая школа бизнеса «МИРБИС»",
+                    "year": null,
+                    "program_or_specialty": "Business Administration and Finance",
+                    "qualification": "Diploma; Master's degree",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "qualification_degree": "Master's degree"
+                }
+            ],
+            "degrees": [],
+            "professional_experience": [
+                {
+                    "organization": "Globaltrans Investment PLC",
+                    "role": "Executive Director; Chief Procurement Officer",
+                    "start_year": 2013,
+                    "end_year": null,
+                    "description": "Official biography says he was appointed from April 2013 to February 2024 and rejoined in April 2024; local 2024 report lists him as Executive Director appointed on 4 April 2024.",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "sector": "Industrials",
+                    "industry_group": "Transportation",
+                    "industry": "Ground Transportation (New Name)"
+                },
+                {
+                    "organization": "Globaltrans Group subsidiaries",
+                    "role": "Board member",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Official biography says he sits on the boards of all Group subsidiaries.",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "sector": "Industrials",
+                    "industry_group": "Transportation",
+                    "industry": "Ground Transportation (New Name)"
+                }
+            ],
+            "research_experience": [],
+            "publications": [],
+            "patents": [],
+            "h_index": null,
+            "sources": [
+                {
+                    "url": "MOEXBMI_2024.csv",
+                    "title": "MOEXBMI_2024.csv",
+                    "fact": "CSV row 237 lists Сторожев Александр Валентинович as GLTR board member."
+                },
+                {
+                    "url": "MOEXBMI_Отчеты_2024/GLTR/annual-report-2024 глобалтранс.pdf",
+                    "title": "Globaltrans Annual Report 2024",
+                    "fact": "Page 26 lists Alexander Storozhev as Executive Director; page 34 confirms 2024 attendance."
+                },
+                {
+                    "url": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "title": "Globaltrans Annual Report & Accounts 2023",
+                    "fact": "Pages 110-113 provide Chief Procurement Officer role, rail career, subsidiary board role and education."
+                }
+            ],
+            "notes": "Exact early-career employers before Globaltrans were not found."
+        },
+        {
+            "name": "Вячеслав Станиславский / Viacheslav Stanislavskiy",
+            "current_role": "Executive Director; Head of Operations",
+            "company_name": "Глобалтранс Инвестмент ПЛС / Globaltrans Investment PLC",
+            "education": [
+                {
+                    "institution": "Иркутский национальный исследовательский технический университет",
+                    "year": null,
+                    "program_or_specialty": null,
+                    "qualification": "Graduated",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "qualification_degree": "Specialist degree"
+                },
+                {
+                    "institution": null,
+                    "year": null,
+                    "program_or_specialty": "Railway engineering",
+                    "qualification": "Degree in railway engineering",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "qualification_degree": "Specialist degree"
+                }
+            ],
+            "degrees": [],
+            "professional_experience": [
+                {
+                    "organization": "Globaltrans Investment PLC",
+                    "role": "Executive Director; Head of Operations",
+                    "start_year": 2024,
+                    "end_year": null,
+                    "description": "Local Annual Report 2024 lists Viacheslav Stanislavskiy as Executive Director appointed on 4 April 2024; official biography states Head of Operations.",
+                    "source": "MOEXBMI_Отчеты_2024/GLTR/annual-report-2024 глобалтранс.pdf",
+                    "sector": "Industrials",
+                    "industry_group": "Transportation",
+                    "industry": "Ground Transportation (New Name)"
+                },
+                {
+                    "organization": "New Forwarding Company",
+                    "role": "Deputy General Director for Operations and Commerce; First Deputy General Director",
+                    "start_year": 2010,
+                    "end_year": null,
+                    "description": "Official biography says he joined New Forwarding Company in March 2010 and became First Deputy General Director in April 2011.",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "sector": "Industrials",
+                    "industry_group": "Transportation",
+                    "industry": "Ground Transportation (New Name)"
+                },
+                {
+                    "organization": "Transportation companies",
+                    "role": "Senior positions",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Official biography says he held various senior positions in transportation companies before New Forwarding Company. GICS not applicable: 'Transportation companies' is a generic, unnamed placeholder for unspecified prior employers; the specific companies and their exact primary business are not disclosed, so no GICS bucket can be supported.",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                }
+            ],
+            "research_experience": [],
+            "publications": [],
+            "patents": [],
+            "h_index": null,
+            "sources": [
+                {
+                    "url": "MOEXBMI_2024.csv",
+                    "title": "MOEXBMI_2024.csv",
+                    "fact": "CSV row 238 lists Вячеслав Станиславский as GLTR board member."
+                },
+                {
+                    "url": "MOEXBMI_Отчеты_2024/GLTR/annual-report-2024 глобалтранс.pdf",
+                    "title": "Globaltrans Annual Report 2024",
+                    "fact": "Page 26 lists Viacheslav Stanislavskiy as Executive Director; page 34 confirms 2024 attendance."
+                },
+                {
+                    "url": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "title": "Globaltrans Annual Report & Accounts 2023",
+                    "fact": "Pages 110-113 provide Head of Operations role, New Forwarding Company career and education."
+                }
+            ],
+            "notes": "Transliteration variants Viacheslav/Vyacheslav and Stanislavskiy/Stanislavsky were treated as one person based on identical Globaltrans role."
+        },
+        {
+            "name": "Руслан Изатов / Ruslan Izatov",
+            "current_role": "Non-executive Director; Audit Committee member from 27 August 2024",
+            "company_name": "Глобалтранс Инвестмент ПЛС / Globaltrans Investment PLC",
+            "education": [
+                {
+                    "institution": "Taraz State University",
+                    "year": null,
+                    "program_or_specialty": "Economics",
+                    "qualification": "Graduated with honours",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "qualification_degree": null
+                }
+            ],
+            "degrees": [],
+            "professional_experience": [
+                {
+                    "organization": "Globaltrans Investment PLC",
+                    "role": "Non-executive Director; Audit Committee member",
+                    "start_year": 2024,
+                    "end_year": null,
+                    "description": "Local Annual Report 2024 lists Ruslan Izatov as Non-executive Director and Audit Committee member, appointed on 4 April 2024.",
+                    "source": "MOEXBMI_Отчеты_2024/GLTR/annual-report-2024 глобалтранс.pdf",
+                    "sector": "Industrials",
+                    "industry_group": "Transportation",
+                    "industry": "Ground Transportation (New Name)"
+                },
+                {
+                    "organization": "AQNIET Capital",
+                    "role": "Director General / head",
+                    "start_year": 2023,
+                    "end_year": null,
+                    "description": "Official biography says he was named Director General of AQNIET Capital in 2023; registry pages list him as head of AQNIET Capital from 29 September 2023.",
+                    "source": "https://pk.uchet.kz/search/bin/230940042659",
+                    "sector": "Financials",
+                    "industry_group": "Financial Services (New Name)",
+                    "industry": "Financial Services (New Name)"
+                },
+                {
+                    "organization": "Kazakh companies",
+                    "role": "Chief Financial Officer of two companies",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Official biography states he is CFO of two Kazakh companies. GICS not applicable: the two 'Kazakh companies' where he serves as CFO are not named in any opened source, so their primary business cannot be determined.",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                },
+                {
+                    "organization": "Kazakh Economic University",
+                    "role": "Senior lecturer, Department of Economics",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Official biography says he worked in education as a senior lecturer in the Department of Economics. GICS not applicable: a public university/academic institution, not a commercial entity classifiable under GICS (consistent with how research institutes and universities are treated elsewhere in this dataset).",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                }
+            ],
+            "research_experience": [],
+            "publications": [],
+            "patents": [],
+            "h_index": null,
+            "sources": [
+                {
+                    "url": "MOEXBMI_2024.csv",
+                    "title": "MOEXBMI_2024.csv",
+                    "fact": "CSV row 239 lists Руслан Изатов as GLTR board member."
+                },
+                {
+                    "url": "MOEXBMI_Отчеты_2024/GLTR/annual-report-2024 глобалтранс.pdf",
+                    "title": "Globaltrans Annual Report 2024",
+                    "fact": "Page 26 lists Ruslan Izatov as Non-executive Director and Audit Committee member; page 34 confirms 2024 attendance and committee entry from 27 August 2024."
+                },
+                {
+                    "url": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "title": "Globaltrans Annual Report & Accounts 2023",
+                    "fact": "Pages 110-111 provide finance/accounting career, AQNIET Capital role, lecturer role and Taraz State University education."
+                },
+                {
+                    "url": "https://pk.uchet.kz/search/bin/230940042659",
+                    "title": "ТОО AQNIET Capital",
+                    "fact": "Registry page lists ИЗАТОВ РУСЛАН МЕНГАЛИЕВИЧ as head of AQNIET Capital."
+                }
+            ],
+            "notes": "The senior lecturer role is retained as professional/teaching experience; no research publications were found."
+        },
+        {
+            "name": "Стефан Хенрих / Stefan Henrich",
+            "current_role": "Non-executive Director",
+            "company_name": "Глобалтранс Инвестмент ПЛС / Globaltrans Investment PLC",
+            "education": [
+                {
+                    "institution": "Queen Mary University of London",
+                    "year": null,
+                    "program_or_specialty": "International Business and Finance Law",
+                    "qualification": "Master of Laws (LL.M.)",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "qualification_degree": "Master's degree"
+                }
+            ],
+            "degrees": [],
+            "professional_experience": [
+                {
+                    "organization": "Globaltrans Investment PLC",
+                    "role": "Non-executive Director",
+                    "start_year": 2024,
+                    "end_year": null,
+                    "description": "Local Annual Report 2024 lists Stefan Henrich as Non-executive Director appointed on 26 February 2024.",
+                    "source": "MOEXBMI_Отчеты_2024/GLTR/annual-report-2024 глобалтранс.pdf",
+                    "sector": "Industrials",
+                    "industry_group": "Transportation",
+                    "industry": "Ground Transportation (New Name)"
+                },
+                {
+                    "organization": "Financial institutions across Europe, the Middle East and Asia",
+                    "role": "Senior investment professional, transaction/asset-management lawyer and general counsel",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Official biography states more than 20 years of finance and business-law experience in these roles. GICS not applicable: generic, unnamed reference to multiple financial institutions; no specific organization can be classified.",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                },
+                {
+                    "organization": "DFSA, FCA, MAS; UK and German bar associations",
+                    "role": "Approved person / bar member",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Official biography says he is approved by DFSA, FCA and MAS and is a member of bar associations in the UK and Germany. GICS not applicable: these are financial regulators and bar associations, not commercial operating companies.",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "sector": null,
+                    "industry_group": null,
+                    "industry": null
+                }
+            ],
+            "research_experience": [],
+            "publications": [],
+            "patents": [],
+            "h_index": null,
+            "sources": [
+                {
+                    "url": "MOEXBMI_2024.csv",
+                    "title": "MOEXBMI_2024.csv",
+                    "fact": "CSV row 240 lists Стефан Хенрих as GLTR board member."
+                },
+                {
+                    "url": "MOEXBMI_Отчеты_2024/GLTR/annual-report-2024 глобалтранс.pdf",
+                    "title": "Globaltrans Annual Report 2024",
+                    "fact": "Page 26 lists Stefan Henrich as Non-executive Director appointed 26 February 2024; page 34 confirms 2024 attendance."
+                },
+                {
+                    "url": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "title": "Globaltrans Annual Report & Accounts 2023",
+                    "fact": "Pages 106-111 provide finance/business-law career, regulatory approvals, bar memberships and Queen Mary LL.M."
+                },
+                {
+                    "url": "https://www.globaltrans.com/fileadmin/user_upload/Files/General_Meetings/GLTR_AGM_Notice__Signed_.pdf",
+                    "title": "Globaltrans 2025 AGM Notice",
+                    "fact": "Appendix 2 repeats Stefan Henrich's pre-2025 career and Queen Mary LL.M. details."
+                }
+            ],
+            "notes": "Specific employers and exact role dates were not found in opened sources."
+        },
+        {
+            "name": "Юсеф Абу Лабан / Yousef Abu Laban",
+            "current_role": "Non-executive Director",
+            "company_name": "Глобалтранс Инвестмент ПЛС / Globaltrans Investment PLC",
+            "education": [
+                {
+                    "institution": "The World Islamic Sciences & Education University (W.I.S.E)",
+                    "year": null,
+                    "program_or_specialty": "Computer Network Systems",
+                    "qualification": "Graduated",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "qualification_degree": "Bachelor's degree"
+                }
+            ],
+            "degrees": [],
+            "professional_experience": [
+                {
+                    "organization": "Globaltrans Investment PLC",
+                    "role": "Non-executive Director",
+                    "start_year": 2024,
+                    "end_year": null,
+                    "description": "Local Annual Report 2024 lists Yousef Abu Laban as Non-executive Director appointed on 26 February 2024.",
+                    "source": "MOEXBMI_Отчеты_2024/GLTR/annual-report-2024 глобалтранс.pdf",
+                    "sector": "Industrials",
+                    "industry_group": "Transportation",
+                    "industry": "Ground Transportation (New Name)"
+                },
+                {
+                    "organization": "Synergate LLC",
+                    "role": "Co-founder and Managing Partner",
+                    "start_year": null,
+                    "end_year": null,
+                    "description": "Official biography identifies him as Co-founder and Managing Partner of Synergate LLC. GICS classification: Synergate LLC is described in the official biography (AR2023) as a boutique financial services company, a generic financial-services provider.",
+                    "source": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "sector": "Financials",
+                    "industry_group": "Financial Services (New Name)",
+                    "industry": "Financial Services (New Name)"
+                }
+            ],
+            "research_experience": [],
+            "publications": [],
+            "patents": [],
+            "h_index": null,
+            "sources": [
+                {
+                    "url": "MOEXBMI_2024.csv",
+                    "title": "MOEXBMI_2024.csv",
+                    "fact": "CSV row 241 lists Юсеф Абу Лабан as GLTR board member."
+                },
+                {
+                    "url": "MOEXBMI_Отчеты_2024/GLTR/annual-report-2024 глобалтранс.pdf",
+                    "title": "Globaltrans Annual Report 2024",
+                    "fact": "Page 26 lists Yousef Abu Laban as Non-executive Director appointed 26 February 2024; page 34 confirms 2024 attendance."
+                },
+                {
+                    "url": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+                    "title": "Globaltrans Annual Report & Accounts 2023",
+                    "fact": "Pages 106-109 provide Synergate role, advisory-services experience and W.I.S.E education."
+                },
+                {
+                    "url": "https://www.globaltrans.com/fileadmin/user_upload/Files/General_Meetings/2023/GLTR_EGM_Notice_2023__Redomiciliation__final__executed_.pdf",
+                    "title": "Globaltrans 2023 EGM Notice",
+                    "fact": "Appendix biography confirms Synergate LLC, GCC business-advisory experience and W.I.S.E Computer Network Systems education."
+                }
+            ],
+            "notes": "Exact Synergate founding date and prior employers were not found."
+        }
+    ],
+    "board_sources": [
+        {
+            "url": "MOEXBMI_2024.csv",
+            "title": "MOEXBMI_2024.csv",
+            "fact": "CSV contains predefined company people and positions used as pipeline input."
+        },
+        {
+            "url": "MOEXBMI_Отчеты_2024/GLTR/annual-report-2024 глобалтранс.pdf",
+            "title": "Globaltrans Investment PLC. Annual Report and Accounts for the year ended 31 December 2024",
+            "fact": "Pages 13, 26 and 33-35 confirm the 13-member Board in the 2024 governance period, individual 2024 board roles, committee roles and attendance."
+        },
+        {
+            "url": "https://www.globaltrans.com/investors/news/detail/2451",
+            "title": "Globaltrans announces results of its Extraordinary General Meeting of shareholders",
+            "fact": "On 4 April 2024 Globaltrans announced appointment of the 13 directors: Abdulla Belobida, Abdultaiyab Bahrainwala, Albina Amangeldinova, Alexander Storozhev, Anton Gazizov, Jaafar Borhan, Jouslin Khairallah, Kairat Itemgenov, Ruslan Izatov, Stefan Henrich, Viacheslav Stanislavskiy, Yerzhan Niyazaliyev and Yousef Abu Laban."
+        },
+        {
+            "url": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+            "title": "Globaltrans Annual Report & Accounts 2023",
+            "fact": "Pages 108-111 provide official biographies for the Board effective from 4 April 2024."
+        },
+        {
+            "url": "https://www.interfax.ru/business/954063",
+            "title": "Interfax. Globaltrans сменила совет директоров после редомициляции и смены собственника",
+            "fact": "Interfax reported on 4 April 2024 that the extraordinary shareholders' meeting elected the new 13-person Globaltrans board and listed the same directors in Russian transliteration."
+        }
+    ],
+    "sources": [
+        {
+            "url": "https://www.globaltrans.com/fileadmin/user_upload/Annual_Report_2023.pdf",
+            "title": "Globaltrans Annual Report & Accounts 2023",
+            "fact": "Primary official source for individual biographies, education and career summaries for the Board effective from 4 April 2024."
+        },
+        {
+            "url": "https://www.globaltrans.com/investors/news/detail/2451",
+            "title": "Globaltrans EGM results announcement",
+            "fact": "Official appointment source for the 13-member Board on 4 April 2024."
+        },
+        {
+            "url": "https://skylightinvest.ae/183-2/",
+            "title": "Sky Light Invest. Meet Anton Gazizov",
+            "fact": "Employer/profile source confirming Anton Gazizov's CEO role and education/qualification details."
+        },
+        {
+            "url": "https://khlegal.ae/",
+            "title": "KH Legal",
+            "fact": "Law-firm source confirming Jouslin Khairallah and Abdultaiyab Bahrainwala roles."
+        },
+        {
+            "url": "https://www.khairallahlegal.com/how-do-you-deal-with-facebook-defamation-in-uae/",
+            "title": "Khairallah Advocates & Legal Consultants",
+            "fact": "Firm article confirming Abdultaiyab Bahrainwala's LLM/LLB legal profile and National University of Singapore LLM."
+        },
+        {
+            "url": "https://forbes.kz/ranking/object/1037",
+            "title": "Forbes Kazakhstan. Кайрат Итемгенов",
+            "fact": "Business profile confirming Kairat Itemgenov's Aqniet Group, Europharma/ArzanPharm and Globaltrans context."
+        },
+        {
+            "url": "https://www.rbc.ru/business/15/01/2024/65a4dc3d9a794718de495f8d",
+            "title": "РБК. Бизнесмен из Казахстана выкупил долю в российском Globaltrans",
+            "fact": "Business-media confirmation of AQNIET/Kairat Itemgenov acquisition of a Globaltrans stake."
+        },
+        {
+            "url": "https://forbes.kz/articles/aqniet_group_otkryila_novyie_etnokofeyni_tary_v_ayusae_i_charyine",
+            "title": "Forbes Kazakhstan. Новый виток развития внутреннего туризма в Казахстане",
+            "fact": "Confirms Yerzhan Niyazaliyev's Aqniet Group / Pana business context."
+        },
+        {
+            "url": "https://niac.kz/080840004471",
+            "title": "ТОО DAR COMPANY-2008",
+            "fact": "Registry confirmation for Albina Amangeldinova as head of DAR Company-2008."
+        },
+        {
+            "url": "https://pk.uchet.kz/search/bin/230940042659",
+            "title": "ТОО AQNIET Capital",
+            "fact": "Registry confirmation for Ruslan Izatov as head of AQNIET Capital."
+        },
+        {
+            "url": "https://ru.wikipedia.org/wiki/Итемгенов,_Кайрат_Шакиртович",
+            "title": "Итемгенов, Кайрат Шакиртович — Википедия",
+            "fact": "Independent biography confirming Kairat Itemgenov's engineering education (Technological Institute in Semey) in addition to his official law degree."
+        },
+        {
+            "url": "https://ratel.kz/raw/pochemu_kajrat_itemgenov_chetyre_goda_ne_mozhet_zapustit_raspiarennuju_kotelnuju",
+            "title": "Ratel.kz. Pochemu Kairat Itemgenov chetyre goda ne mozhet zapustit raspiarennuju kotelnuju",
+            "fact": "Independent Kazakhstani investigative-journalism corroboration that Kairat Itemgenov is an engineer by education."
+        }
+    ],
+    "new_institutions_found": [
+        {
+            "raw_string": "Технологический институт в Семее",
+            "candidate_canonical_name": "Технологический институт в Семее",
+            "person": "Кайрат Итемгенов / Kairat Itemgenov",
+            "context": "education[] (specialty: mechanical engineer; no graduation year found in any opened source). Not present in university_names.json prior to this round. Quality pass (2026-07-30): added as its own canonical entry after independent corroboration (Russian Wikipedia + Ratel.kz) of this engineering credential, which the official Globaltrans corporate biography does not mention.",
+            "source": "https://ru.wikipedia.org/wiki/Итемгенов,_Кайрат_Шакиртович"
+        }
+    ],
+    "validation_notes": "Processed 13 GLTR people from CSV rows 229-241. Checked 1 local relevant document: MOEXBMI_Отчеты_2024/GLTR/annual-report-2024 глобалтранс.pdf, including pages 5, 13, 26 and 33-36. Completed 13 research rounds: one per person. CEO-equivalent is Anton Gazizov because 2024 local Annual Report identifies him as Managing Director; no separate 2024 CEO title was confirmed. Education was not confirmed for Abdulla Belobaida. Weak/secondary sources used only with caveats: LinkedIn/search snippets for namesake checks, registry aggregators for Kazakh company-head confirmation, and 2025 AGM notice only to confirm earlier facts, not later roles. Main excluded namesakes: generic Abdulla/Abdullah results, unrelated Amangeldinov railway-family article, generic LinkedIn directory results for Anton Gazizov and Abu Laban, and non-official Kairat Itemgenov education claims. No scientific publications, patents or h-index profiles were attributed to any person. Search considered complete because local documents, official Globaltrans appointment/biography sources, separate education/professional searches, employer/business-profile checks and namesake checks converged; remaining gaps are described in person notes. ROUND 2 (gap-filling pass, 2026-07-19): re-opened the local annual-report-2024 filing and re-extracted the full text of the primary Globaltrans Annual Report 2023 (board-biography source) to re-check every field flagged null/vague/uncertain in round 1; confirmed neither document contains graduation years, additional employer dates, or education for Abdulla Belobaida beyond what round 1 already found, so those gaps remain genuine and are not silently guessed. Also fetched and OCR'd the 2025 AGM Notice (GLTR_AGM_Notice__Signed_.pdf, downloaded and parsed locally since the online WebFetch render of the PDF was corrupted) -- it repeats only the already-known Gazizov and Henrich facts, no new dates for the 2024 board. WebSearch quota was exhausted for this session, so remaining checks used WebFetch on primary-source and already-cited URLs only. One new confirmed fact was added: KH Legal's own firm site (https://khlegal.ae/) states Khairallah Advocates & Legal Consultants was 'founded by Mrs. Jouslin Khairallah in the year 2008', filling her previously-null start_year for that role. Added company-level and per-professional_experience sector/industry_group/industry fields copied verbatim from gics_taxonomy.json, classifying each organization by its own primary line of business (e.g. AQNIET Capital / Aqniet Group as a diversified investment holding regardless of its portfolio companies' sectors); set the GICS triple to null with a reasoning clause in the entry description wherever a record combines multiple structurally different organizations (e.g. Borhan's 'RAKEZ, OnTime Government Services, UAE Exchange Centre, Emirates NBD'; Itemgenov's 'Europharma, hotels/lodging properties, Satti Logistics, KBI Energy'; Khairallah's combined association membership), is a generic unnamed placeholder (Stanislavskiy's 'Transportation companies'; Izatov's 'Kazakh companies'; Henrich's 'Financial institutions across Europe, the Middle East and Asia'), or is a government regulator, bar association or academic institution rather than a commercial entity (DFSA/FCA/MAS and bar associations; Kazakh Economic University). Added qualification_degree to every education[] and degrees[] entry: explicit degree labels already present in the source (Bachelor's Degree, Bachelor of Law, Bachelor of Science, LLB, LLM, Executive MBA, Master of Laws, Bachelor of Arts and Laws, Law Doctorate, Chartered Financial Analyst) were mapped directly to the closest allowed value with high confidence. Where the source only says 'degree'/'graduated' without a level, inferred 'Specialist degree' from career-timeline evidence anchoring graduation to the Soviet/CIS pre-Bologna era, and stated the reasoning here rather than in a free-text field: Storozhev's Kiev Military Academy of Aviation and Engineering entry already carries an explicit 1990 graduation year (definite Soviet era); Itemgenov's Kazakh State National University entry is anchored by 'practiced law for ten years' before starting business in 2006, implying law studies finished by the mid-1990s; Amangeldinova's Almaty Institute of National Economy entry is anchored by her 25+ years of career experience since roughly 1998; Stanislavskiy's Irkutsk National Research Technical University entry (and its paired 'degree in railway engineering' entry, read as describing the same credential) is anchored by his 30+ years in the rail industry and his already-senior 2010 appointment. Storozhev's MIRBIS 'Diploma; Master's degree' was mapped directly to Master's degree since the source states it explicitly. Abu Laban's W.I.S.E. Computer Network Systems entry was inferred as Bachelor's degree from the modern-university 'majored in X' phrasing plus his 10+-year career timeline (moderate-high confidence, not Soviet-era). Left qualification_degree null where no reliable basis exists: Izatov's Taraz State University entry (no anchoring date found) and Amangeldinova's Kazakh Humanitarian-Legal University entry (source itself says 'completion not confirmed'). Normalized 4 institution strings to the canonical form in university_names.json: 'Cambridge University' -> 'University of Cambridge' (Gazizov); 'Beirut Al Arabia University' -> 'Beirut Arab University' (Khairallah, already an alias of the same university used for Borhan); 'MIRBIS Business School' -> 'Московская международная высшая школа бизнеса «МИРБИС»' (Storozhev); 'Irkutsk National Research Technical University' -> 'Иркутский национальный исследовательский технический университет' (Stanislavskiy). All institutions used in this file matched an existing canonical entry in university_names.json, so new_institutions_found is empty for this ticker. No previously confirmed fact was deleted or overwritten this round; only null/vague fields were filled or annotated. QUALITY PASS ROUND 1 (2026-07-30): found and fixed a data-regression in the working-tree copy of this file relative to already-committed git history -- the round-2 institution normalizations (Cambridge University to University of Cambridge; Beirut Al Arabia University to Beirut Arab University; MIRBIS Business School to the canonical Russian MIRBIS entry; Irkutsk National Research Technical University to the canonical Russian entry), Khairallah's law-firm start_year (2008), and several professional_experience GICS-reasoning description clauses had all been silently lost from the working copy despite being correctly present in git HEAD; all were restored verbatim from HEAD, recovering already-completed round-2 work rather than re-doing it. GICS labels: every non-null sector/industry_group/industry triple across all 13 people (22 non-null professional_experience triples) was re-checked against gics_taxonomy.json and against fresh web research on the named organizations' actual primary business (DAR Company-2008 confirmed via a Kazakhstan business registry as a railway-operations company -- Ground Transportation is correct; Prime Metal Industries confirmed via web search as a steel/aluminium metalwork, cladding and architectural-panel manufacturer -- Building Products is correct, not Metals and Mining; KEZAD Group confirmed as an integrated economic-zones and industrial-real-estate operator -- Real Estate Management and Development is correct; Engineering Contracting Co confirmed via ECC Group as a construction and engineering contractor founded 1975 -- Construction and Engineering is correct); no incorrect label was found, so none was changed. Genuine inconsistency resolved: Kairat Itemgenov's Wikipedia-sourced claim of an engineering degree (Technological Institute in Semey), flagged unresolved in round 1's own Contradictions section because only one source supported it, was independently corroborated this round by a second source (Ratel.kz) and added to education[] as Specialist degree; the LL.M. claim in the same Wikipedia sentence remains single-sourced and was deliberately left out. Honest-gap follow-ups: Abdulla Belobaida's education gap (the ticker's main unresolved biographical gap) received one further bounded attempt with fresh queries and remains genuinely unresolved; Jouslin Khairallah's graduation-year gap surfaced an unverifiable LinkedIn-paraphrase lead (not independently fetchable, and in some tension with her Wikidata birth year) that was documented but not written into the record; fresh queries for Kairat Itemgenov's KazNU graduation year, Ruslan Izatov's two CFO employer names, and Yerzhan Niyazaliyev's three graduation years were also attempted and remain unresolved (no stronger source found than the existing AR2023 biography)."
+}

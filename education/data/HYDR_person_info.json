@@ -1,0 +1,572 @@
+{
+  "company_name": "ПАО \"РусГидро\"",
+  "company_ticker": "HYDR",
+  "ceo": {
+    "name": "Хмарин Виктор Викторович",
+    "current_role": "Председатель Правления - Генеральный директор ПАО \"РусГидро\"",
+    "company_name": "ПАО \"РусГидро\"",
+    "education": [
+      {
+        "institution": "Санкт-Петербургский государственный университет",
+        "year": 2000,
+        "details": "Окончил юридический факультет; источник является вторичным биографическим профилем.",
+        "source_url": "https://energostrana.ru/persons/hmarin-viktor-viktorovich.html",
+        "qualification_degree": "Specialist degree"
+      }
+    ],
+    "degrees": [
+      {
+        "degree": "Кандидат юридических наук",
+        "year": null,
+        "details": "Степень указана в найденных биографических карточках; прямой первичный документ со степенью в ходе проверки не извлечен, поэтому факт сохранен с оговоркой.",
+        "source_url": "https://www.tadviser.ru/index.php/Персона:Хмарин_Виктор_Викторович",
+        "qualification_degree": "Doctoral degree"
+      }
+    ],
+    "professional_experience": [
+      {
+        "organization": "ПАО \"РусГидро\"",
+        "role": "Председатель Правления - Генеральный директор",
+        "start_year": 2021,
+        "end_year": null,
+        "description": "В 2015 году пришел в РусГидро заместителем генерального директора по экономике, инвестициям и закупочной деятельности; с января 2019 года был членом Правления и заместителем генерального директора; с сентября 2020 года - первым заместителем генерального директора.",
+        "source_url": "https://tass.ru/ekonomika/10576145",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Independent Power and Renewable Electricity Producers"
+      },
+      {
+        "organization": "ПАО \"РусГидро\"",
+        "role": "Первый заместитель Генерального директора; член Правления; заместитель Генерального директора по экономике, инвестициям и закупочной деятельности",
+        "start_year": 2015,
+        "end_year": 2021,
+        "description": "В 2015 году пришел в РусГидро заместителем генерального директора по экономике, инвестициям и закупочной деятельности; с января 2019 года был членом Правления и заместителем генерального директора; с сентября 2020 года - первым заместителем генерального директора.",
+        "source_url": "https://www.eprussia.ru/news/base/2020/1898080.htm",
+        "sector": "Utilities",
+        "industry_group": "Utilities",
+        "industry": "Independent Power and Renewable Electricity Producers"
+      },
+      {
+        "organization": "Банк ВТБ",
+        "role": "Советник первого заместителя председателя Правления Банка ВТБ Юрия Соловьева",
+        "start_year": 2014,
+        "end_year": 2015,
+        "description": "Round 2 (2026-07-19): TAdviser and Energostrana (both already cited elsewhere in this record) were re-fetched and read in full; both state that in 2014-2015 Khmarin worked as adviser to VTB's first deputy chairman Yuri Solovyov, prior to joining RusHydro in March 2015. This replaces the earlier vague “руководящие юридические функции” placeholder now that a concrete role and date range are directly confirmed.",
+        "source_url": "https://energostrana.ru/persons/hmarin-viktor-viktorovich.html",
+        "sector": "Financials",
+        "industry_group": "Banks",
+        "industry": "Banks"
+      },
+      {
+        "organization": "«Вита-Х»",
+        "role": "Заместитель директора по развитию бизнеса",
+        "start_year": null,
+        "end_year": 2014,
+        "description": "До 2014 года работал заместителем директора по развитию бизнеса компании «Вита-Х», принадлежавшей его отцу. Факт был зафиксирован в round 1 research notes (со ссылкой на TAdviser и Energostrana), но не был перенесен в profesional_experience до quality pass round 1 (устранен как простой desync). GICS-классификация оставлена null: тип бизнеса «Вита-Х», принадлежавшей отцу Хмарина, не подтвержден в первичных источниках; кандидат из реестров (оптовая торговля продуктами питания, Санкт-Петербург) не идентифицирован надежно как та же компания, поэтому не использован.",
+        "source_url": "https://energostrana.ru/persons/hmarin-viktor-viktorovich.html",
+        "sector": null,
+        "industry_group": null,
+        "industry": null
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_Отчеты_2024/HYDR/ГО 2024.pdf",
+        "title": "Годовой отчет ПАО \"РусГидро\" за 2024 год",
+        "fact": "Страницы отчета 162-163: структура управления включает Правление, возглавляемое Председателем Правления - Генеральным директором."
+      },
+      {
+        "url": "https://tass.ru/ekonomika/10576145",
+        "title": "Совет директоров РусГидро утвердил Виктора Хмарина гендиректором на пять лет",
+        "fact": "29.01.2021: Совет директоров РусГидро утвердил Виктора Хмарина Председателем Правления - Генеральным директором на пять лет; с 10.11.2020 он исполнял обязанности руководителя."
+      },
+      {
+        "url": "https://www.eprussia.ru/news/base/2020/1898080.htm",
+        "title": "Виктор Хмарин назначен и.о. председателя правления - гендиректора РусГидро",
+        "fact": "Источник подтверждает назначение исполняющим обязанности руководителя и предшествующие должности Хмарина в РусГидро с 2015 года."
+      },
+      {
+        "url": "https://energostrana.ru/persons/hmarin-viktor-viktorovich.html",
+        "title": "Хмарин Виктор Викторович",
+        "fact": "Биографический профиль указывает юридическое образование в Санкт-Петербургском государственном университете и карьерные этапы до РусГидро: до 2014 года -- заместитель директора по развитию бизнеса компании «Вита-Х» (принадлежала его отцу); в 2014-2015 годах -- советник первого заместителя председателя Правления Банка ВТБ Юрия Соловьева. Цитата проверена дословно в quality pass round 1."
+      },
+      {
+        "url": "https://www.tadviser.ru/index.php/Персона:Хмарин_Виктор_Викторович",
+        "title": "Хмарин Виктор Викторович",
+        "fact": "Вторичная биографическая карточка использована как слабое подтверждение образования и ученой степени; прямой первичный документ не извлечен."
+      },
+      {
+        "url": "https://rao-esv.ru/upload/iblock/e59/prilozhenie-5_sostav-soveta-direktorov-v-2015_2016-korporativnom-godu.pdf",
+        "title": "Приложение 5 к Годовому отчету ПАО \"РАО ЭС Востока\" за 2016 год: Состав Совета директоров",
+        "fact": "Год рождения 1978; “Образование высшее (окончил Юридический факультет Санкт-Петербургского государственного факультета)” [sic, typo for университета] для члена Совета директоров Хмарина В.В., указанного заместителем Генерального директора по экономике, инвестициям и закупочной деятельности ПАО \"РусГидро\". Источник использован как корроборирующий, не как единственное подтверждение."
+      }
+    ],
+    "notes": "Связь с ПАО \"РусГидро\" и должность генерального директора подтверждены официальными/деловыми источниками. Образование найдено во вторичных биографических профилях; степень кандидата юридических наук оставлена с оговоркой из-за отсутствия извлеченного первичного документа. Round 2 (2026-07-19): VTB role/dates gap filled from already-cited sources (TAdviser, Energostrana), re-fetched and read in full. Candidate-of-law degree re-checked against TAdviser and an independently found RAO ES Vostoka 2016 official appendix; neither source states this degree, so it remains unconfirmed (kept, not deleted, with strengthened reservation). Education (SPbGU, law faculty, 2000) corroborated by a third, more official-leaning source (RAO ES Vostoka 2016 appendix), raising confidence in that fact. GICS sector/industry_group/industry added at company level and to every professional_experience entry, copied verbatim from gics_taxonomy.json; qualification_degree added to education/degrees entries. Связь с ПАО \"РусГидро\" и должность генерального директора подтверждены официальными/деловыми источниками. Образование найдено во вторичных биографических профилях; степень кандидата юридических наук оставлена с оговоркой из-за отсутствия извлеченного первичного документа. Quality pass round 1 (2026-07-30): устранен desync -- запись \"Банк ВТБ\" получила точные роль и годы (2014-2015), уже подтвержденные в round 2 research notes, но не перенесенные в JSON; добавлена ранее пропущенная запись \"«Вита-Х»\" (до 2014 года, компания отца). Дополнительно проверена (4 свежих запроса: DDG по точной фразе, DDG \"ученая степень\", прямой поиск на dissercat.com, официальная биография roscongress.org недоступна из-за авторизации) степень \"Кандидат юридических наук\" -- подтверждения не найдено ни в одном канале; значение сохранено как наиболее консервативное с явной оговоркой, а не удалено и не выдано за подтвержденное."
+  },
+  "tmt": [
+    {
+      "name": "Панин Виктор Евгеньевич",
+      "current_role": "Член СД по CSV; в проверенных источниках подтвержден как председатель Совета директоров АО \"РусГидро ОЦО\" и сотрудник ПАО \"РусГидро\"",
+      "company_name": "ПАО \"РусГидро\"",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "АО \"РусГидро ОЦО\"",
+          "role": "Председатель Совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "Годовой отчет АО \"РусГидро ОЦО\" за 2023 год указывает Панина Виктора Евгеньевича председателем Совета директоров общества по состоянию на 31.12.2023.",
+          "source_url": "https://storage.yandexcloud.net/storage.rushydro.ru/iblock/1c6/1c68559bd8cf9b9b6d4566896e023d0a/GODOVOY%20OTCHET%20AO%20_RUSGIDRO%20OTSO_%20PO%20REZULTATAM%20RABOTY%20ZA%202023%20GOD.pdf",
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "ПАО \"РусГидро\"",
+          "role": "Начальник Управления методологии Департамента корпоративного учета и отчетности",
+          "start_year": null,
+          "end_year": null,
+          "description": "Эта должность указана как основное место работы Панина в годовом отчете АО \"РусГидро ОЦО\" за 2023 год.",
+          "source_url": "https://storage.yandexcloud.net/storage.rushydro.ru/iblock/1c6/1c68559bd8cf9b9b6d4566896e023d0a/GODOVOY%20OTCHET%20AO%20_RUSGIDRO%20OTSO_%20PO%20REZULTATAM%20RABOTY%20ZA%202023%20GOD.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Панина Виктора Евгеньевича в списке HYDR с ролью \"Член СД\"."
+        },
+        {
+          "url": "https://storage.yandexcloud.net/storage.rushydro.ru/iblock/1c6/1c68559bd8cf9b9b6d4566896e023d0a/GODOVOY%20OTCHET%20AO%20_RUSGIDRO%20OTSO_%20PO%20REZULTATAM%20RABOTY%20ZA%202023%20GOD.pdf",
+          "title": "Годовой отчет АО \"РусГидро ОЦО\" по результатам работы за 2023 год",
+          "fact": "Страница 11: Панин Виктор Евгеньевич указан председателем Совета директоров АО \"РусГидро ОЦО\"; основное место работы - начальник Управления методологии Департамента корпоративного учета и отчетности ПАО \"РусГидро\"."
+        }
+      ],
+      "notes": "Персональный состав Совета директоров ПАО \"РусГидро\" в локальном годовом отчете за 2024 год не раскрыт, поэтому роль CSV не расширялась до подтвержденного членства в Совете директоров ПАО. Образование не найдено. Исключены однофамильцы: физик/академик Виктор Евгеньевич Панин и политический деятель Виктор Евгеньевич Панин. Round 2 (2026-07-19): re-attempted education research. Fetched https://ssc.rushydro.ru/company/corporate/board/panin-viktor-evgenevich/ directly (both plain HTTP fetch and a content-extraction tool); the page is a client-side-rendered shell (a single loading-spinner GIF, no server-rendered biographical text), confirming round 1's finding that this source cannot be read without a JavaScript-executing browser, which is unavailable here. No other lead for his education was found this round. Education remains unconfirmed and is kept empty (null) rather than guessed. GICS sector/industry_group/industry added to both professional_experience entries, copied verbatim from gics_taxonomy.json: РусГидро ОЦО classified as Professional Services (accounting/corporate shared-service center, its own line of business, not RusHydro's generation business) and ПАО \"РусГидро\" as Independent Power and Renewable Electricity Producers (consistent with company-level classification and with the DVEC ticker's existing classification of the same organization). Персональный состав Совета директоров ПАО \"РусГидро\" в локальном годовом отчете за 2024 год не раскрыт, поэтому роль CSV не расширялась до подтвержденного членства в Совете директоров ПАО. Образование не найдено. Исключены однофамильцы: физик/академик Виктор Евгеньевич Панин и политический деятель Виктор Евгеньевич Панин. Quality pass round 1 (2026-07-30), honest-gap follow-up для образования: опробованы свежие запросы (\"Панин Виктор Евгеньевич\" РусГидро вуз через DuckDuckGo; \"Панин В.Е.\" РусГидро окончил через DuckDuckGo -- заблокировано CAPTCHA; \"Панин Виктор Евгеньевич\" РусГидро высшее образование через Yandex), не пересекающихся с запросами round 1/2 -- ни один не дал нового результата, кроме повторного вывода карточки физика-однофамильца. Образование остается null."
+    },
+    {
+      "name": "Исаков Александр Юрьевич",
+      "current_role": "Член СД по CSV; подтвержден как заместитель директора Департамента корпоративного управления ПАО \"РусГидро\" и член Совета директоров ПАО \"Сахалинэнерго\"",
+      "company_name": "ПАО \"РусГидро\"",
+      "education": [
+        {
+          "institution": null,
+          "year": null,
+          "details": "В найденном индексированном PDF по ПАО \"Сахалинэнерго\" указаны высшее образование и квалификация \"Юрист\", но файл не был надежно извлечен для полного чтения; детализация ограничена.",
+          "source_url": "https://sakhalinenergo.ru/upload/iblock/f54/b7invdq5zhvx1weqxnr2v03jc3n679b9.pdf",
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"РусГидро\"",
+          "role": "Заместитель директора Департамента корпоративного управления",
+          "start_year": null,
+          "end_year": null,
+          "description": "Годовой отчет ПАО \"РусГидро\" за 2024 год указывает Исакова как контактное лицо по подготовке годового отчета и взаимодействию с акционерами.",
+          "source_url": "MOEXBMI_Отчеты_2024/HYDR/ГО 2024.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ПАО \"Сахалинэнерго\"",
+          "role": "Член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Сообщение о годовом общем собрании акционеров 27.06.2024 указывает Исакова в составе избранного Совета директоров ПАО \"Сахалинэнерго\".",
+          "source_url": "https://www.ricom.ru/depo/corporate/14086/",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"РЭСК\"",
+          "role": "Член Совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "Корпоративная карточка ПАО \"РЭСК\" указывает Исакова Александра Юрьевича в составе Совета директоров и связывает его с должностью в ПАО \"РусГидро\".",
+          "source_url": "https://resk.ru/company/korporativnoe-upravlenie/sovet-direktorov/isakov-aleksandr-yurevich/",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Исакова Александра Юрьевича в списке HYDR с ролью \"Член СД\"."
+        },
+        {
+          "url": "MOEXBMI_Отчеты_2024/HYDR/ГО 2024.pdf",
+          "title": "Годовой отчет ПАО \"РусГидро\" за 2024 год",
+          "fact": "Страницы отчета 206-207: Исаков Александр Юрьевич указан как заместитель директора Департамента корпоративного управления и контакт по вопросам подготовки отчета и взаимодействия с акционерами."
+        },
+        {
+          "url": "https://www.ricom.ru/depo/corporate/14086/",
+          "title": "ПАО \"Сахалинэнерго\": годовое общее собрание акционеров 27.06.2024",
+          "fact": "Источник указывает Исакова Александра Юрьевича в составе избранного Совета директоров ПАО \"Сахалинэнерго\" и связывает его с ПАО \"РусГидро\"."
+        },
+        {
+          "url": "https://resk.ru/company/korporativnoe-upravlenie/sovet-direktorov/isakov-aleksandr-yurevich/",
+          "title": "Исаков Александр Юрьевич - Совет директоров ПАО \"РЭСК\"",
+          "fact": "Карточка подтверждает должность заместителя директора Департамента корпоративного управления ПАО \"РусГидро\"."
+        },
+        {
+          "url": "https://sakhalinenergo.ru/upload/iblock/f54/b7invdq5zhvx1weqxnr2v03jc3n679b9.pdf",
+          "title": "Материалы ПАО \"Сахалинэнерго\"",
+          "fact": "Индексированный документ указывает год рождения 1980, высшее образование и квалификацию \"Юрист\"; факт сохранен с оговоркой, так как полный PDF не был надежно извлечен."
+        }
+      ],
+      "notes": "Связь с ПАО \"РусГидро\" подтверждена локальным годовым отчетом. CSV-роль \"Член СД\" не подтверждена как членство в Совете директоров ПАО \"РусГидро\"; подтверждены роли в корпоративном управлении и в советах дочерних/связанных обществ. Образование частичное и слабое. Quality pass round 1 (2026-07-30), honest-gap follow-up: sakhalinenergo.ru PDF (единственный лид с деталями об образовании) снова недоступен (ECONNREFUSED), как и в round 2. Свежие запросы через DuckDuckGo/Yandex (\"Исаков Александр Юрьевич\" юрист окончил -- CAPTCHA; \"Исаков Александр Юрьевич\" юридический факультет РусГидро Сахалинэнерго через Yandex) новых надежных фактов не дали. Один агрегированный поисковый результат предположил диссертацию \"кандидат экономических наук\" на dissercat.com под похожим именем -- прямая попытка открыть dissercat.com для проверки авторства заблокирована CAPTCHA, соответствие личности не подтверждено, поэтому факт НЕ внесен в JSON (риск другого однофамильца). Образование остается на уровне \"Unknown\" без учреждения."
+    },
+    {
+      "name": "Недотко Вадим Владиславович",
+      "current_role": "Член СД по CSV; подтвержден как директор Департамента экономического планирования и инвестиционных программ ПАО \"РусГидро\" и член советов директоров дочерних обществ",
+      "company_name": "ПАО \"РусГидро\"",
+      "education": [
+        {
+          "institution": null,
+          "year": null,
+          "details": "Индексированные корпоративные PDF указывают высшее образование, но не дали надежно извлеченной информации об учреждении, программе или годе.",
+          "source_url": "https://resk.ru/upload/iblock/4da/h7owgf4765rrnngjeq2tstng7t8efol5/go2016.pdf",
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО \"РусГидро\"",
+          "role": "Директор Департамента экономического планирования и инвестиционных программ",
+          "start_year": null,
+          "end_year": null,
+          "description": "Должность указана как основное место работы в годовом отчете АО \"РусГидро ОЦО\" за 2023 год и в корпоративных материалах дочерних обществ.",
+          "source_url": "https://storage.yandexcloud.net/storage.rushydro.ru/iblock/1c6/1c68559bd8cf9b9b6d4566896e023d0a/GODOVOY%20OTCHET%20AO%20_RUSGIDRO%20OTSO_%20PO%20REZULTATAM%20RABOTY%20ZA%202023%20GOD.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "АО \"РусГидро ОЦО\"",
+          "role": "Член Совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "Годовой отчет АО \"РусГидро ОЦО\" за 2023 год указывает Недотко Вадима Владиславовича членом Совета директоров общества по состоянию на 31.12.2023.",
+          "source_url": "https://storage.yandexcloud.net/storage.rushydro.ru/iblock/1c6/1c68559bd8cf9b9b6d4566896e023d0a/GODOVOY%20OTCHET%20AO%20_RUSGIDRO%20OTSO_%20PO%20REZULTATAM%20RABOTY%20ZA%202023%20GOD.pdf",
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "ПАО \"Сахалинэнерго\"",
+          "role": "Член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Сообщение о годовом общем собрании акционеров 27.06.2024 указывает Недотко в составе избранного Совета директоров ПАО \"Сахалинэнерго\".",
+          "source_url": "https://www.ricom.ru/depo/corporate/14086/",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"РЭСК\"",
+          "role": "Член Совета директоров",
+          "start_year": 2016,
+          "end_year": 2016,
+          "description": "Round 2 (2026-07-19): Годовой отчет ПАО \"РЭСК\" за 2016 год (страницы 17-18, 71), directly re-fetched (round 1's attempt had timed out), lists Недотко Вадима Владиславовича среди членов Совета директоров, участвовавших в заседаниях в течение всего 2016 корпоративного года (8/8 both for the 01.01.2016-03.06.2016 and 06.06.2016-31.12.2016 periods); year of birth 1975 and \"Сведения об образовании: Высшее\" confirmed but institution/program not named. His current resk.ru board card now returns \"Страница не найдена\", so this membership is not carried as current; end_year is left null because no explicit end date is stated in the source, only that he served through 31.12.2016.",
+          "source_url": "https://resk.ru/upload/iblock/4da/h7owgf4765rrnngjeq2tstng7t8efol5/go2016.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "organization": "ПАО \"Красноярскэнергосбыт\"",
+          "role": "Член Совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "Round 2 (2026-07-19): official board-member card at krsk-sbit.ru, discovered while re-chasing his education gap, identifies Недотко Вадима Владиславовича as a current Board member and repeats his main position (\"Директор Департамента экономического планирования и инвестиционных программ ПАО \\\"РусГидро\\\"\"); page carries no education/biography text and no explicit start date, so both are left null.",
+          "source_url": "https://krsk-sbit.ru/company/korporativnoe-upravlenie/sovet-direktorov/nedotko-vadim-vladislavovich/",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Недотко Вадима Владиславовича в списке HYDR с ролью \"Член СД\"."
+        },
+        {
+          "url": "https://storage.yandexcloud.net/storage.rushydro.ru/iblock/1c6/1c68559bd8cf9b9b6d4566896e023d0a/GODOVOY%20OTCHET%20AO%20_RUSGIDRO%20OTSO_%20PO%20REZULTATAM%20RABOTY%20ZA%202023%20GOD.pdf",
+          "title": "Годовой отчет АО \"РусГидро ОЦО\" по результатам работы за 2023 год",
+          "fact": "Страница 11: Недотко Вадим Владиславович указан членом Совета директоров АО \"РусГидро ОЦО\"; основное место работы - директор Департамента экономического планирования и инвестиционных программ ПАО \"РусГидро\"."
+        },
+        {
+          "url": "https://www.ricom.ru/depo/corporate/14086/",
+          "title": "ПАО \"Сахалинэнерго\": годовое общее собрание акционеров 27.06.2024",
+          "fact": "Источник указывает Недотко Вадима Владиславовича в составе избранного Совета директоров ПАО \"Сахалинэнерго\"."
+        },
+        {
+          "url": "https://resk.ru/upload/iblock/4da/h7owgf4765rrnngjeq2tstng7t8efol5/go2016.pdf",
+          "title": "Годовой отчет ПАО \"РЭСК\" за 2016 год",
+          "fact": "Полностью прочитан в round 2 (3.4 МБ, HTTP 200): стр. 17 указывает высшее образование без деталей учреждения/специальности/года; стр. 17-18 и 71 подтверждают членство Недотко в Совете директоров ПАО \"РЭСК\" в течение 2016 корпоративного года (явка 8/8 в обоих полугодиях)."
+        },
+        {
+          "url": "https://krsk-sbit.ru/company/korporativnoe-upravlenie/sovet-direktorov/nedotko-vadim-vladislavovich/",
+          "title": "ПАО \"Красноярскэнергосбыт\": Совет директоров - Недотко Вадим Владиславович",
+          "fact": "Действующая (live, HTTP 200) карточка подтверждает текущее членство Недотко в Совете директоров ПАО \"Красноярскэнергосбыт\" и его основную должность в ПАО \"РусГидро\"; текста об образовании на странице нет."
+        }
+      ],
+      "notes": "CSV-роль \"Член СД\" не подтверждена как членство в Совете директоров ПАО \"РусГидро\". Подтверждены должность в ПАО \"РусГидро\" и членство в советах дочерних/связанных обществ, включая исторический (2016) член Совета директоров ПАО \"РЭСК\" и текущее членство в Совете директоров ПАО \"Красноярскэнергосбыт\". Подробности образования не найдены, несмотря на то что оба основных документа (go2016.pdf и krsk-sbit.ru) были в итоге полностью прочитаны -- образование в них указано только как \"Высшее\", без учреждения/специальности/года. Quality pass round 1 (2026-07-30): устранен desync -- обе записи о членстве в советах директоров (РЭСК 2016, Красноярскэнергосбыт) были подтверждены в round 2 research notes с полным чтением первичных документов, но не были перенесены в JSON. Дополнительная проверка образования (2 свежих запроса через Yandex: \"окончил вуз\", \"финансовый университет/РАНХиГС\") подтверждения не нашла; поле остается Unknown/null. Побочно найдено упоминание возможного членства в Совете директоров АО \"ДГК\" (Дальневосточная генерирующая компания) через один агрегированный поисковый результат -- не подтверждено прямым первичным источником в рамках bounded-попытки этого раунда, оставлено как лид для будущего раунда, в JSON не внесено."
+    },
+    {
+      "name": "Евграфова Елена Олеговна",
+      "current_role": "Член СД по CSV; в проверенных источниках подтверждена как член Совета директоров АО \"РусГидро ОЦО\" и сотрудник ПАО \"РусГидро\"",
+      "company_name": "ПАО \"РусГидро\"",
+      "education": [],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "АО \"РусГидро ОЦО\"",
+          "role": "Член Совета директоров",
+          "start_year": null,
+          "end_year": null,
+          "description": "Годовой отчет АО \"РусГидро ОЦО\" за 2023 год указывает Евграфову Елену Олеговну членом Совета директоров общества по состоянию на 31.12.2023.",
+          "source_url": "https://storage.yandexcloud.net/storage.rushydro.ru/iblock/1c6/1c68559bd8cf9b9b6d4566896e023d0a/GODOVOY%20OTCHET%20AO%20_RUSGIDRO%20OTSO_%20PO%20REZULTATAM%20RABOTY%20ZA%202023%20GOD.pdf",
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "ПАО \"РусГидро\"",
+          "role": "Начальник Управления организации взаимодействия с Общим центром обслуживания Департамента корпоративного учета и отчетности",
+          "start_year": null,
+          "end_year": null,
+          "description": "Эта должность указана как основное место работы Евграфовой в годовом отчете АО \"РусГидро ОЦО\" за 2023 год.",
+          "source_url": "https://storage.yandexcloud.net/storage.rushydro.ru/iblock/1c6/1c68559bd8cf9b9b6d4566896e023d0a/GODOVOY%20OTCHET%20AO%20_RUSGIDRO%20OTSO_%20PO%20REZULTATAM%20RABOTY%20ZA%202023%20GOD.pdf",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Евграфову Елену Олеговну в списке HYDR с ролью \"Член СД\"."
+        },
+        {
+          "url": "https://storage.yandexcloud.net/storage.rushydro.ru/iblock/1c6/1c68559bd8cf9b9b6d4566896e023d0a/GODOVOY%20OTCHET%20AO%20_RUSGIDRO%20OTSO_%20PO%20REZULTATAM%20RABOTY%20ZA%202023%20GOD.pdf",
+          "title": "Годовой отчет АО \"РусГидро ОЦО\" по результатам работы за 2023 год",
+          "fact": "Страница 11: Евграфова Елена Олеговна указана членом Совета директоров АО \"РусГидро ОЦО\"; основное место работы - ПАО \"РусГидро\", управление взаимодействия с Общим центром обслуживания."
+        }
+      ],
+      "notes": "CSV-роль \"Член СД\" не подтверждена как членство в Совете директоров ПАО \"РусГидро\". Образование не найдено. Медицинские профили Евграфовой Елены Олеговны отклонены как вероятная однофамилица из другой отрасли. Round 2 (2026-07-19): re-attempted education research. Fetched https://ssc.rushydro.ru/company/corporate/board/evgrafova-elena-olegovna/ directly (both plain HTTP fetch and a content-extraction tool); confirmed again to be a client-side-rendered shell (single loading-spinner GIF, no server-rendered text), matching round 1's finding. No other lead for her education was found this round (web search budget for this session was exhausted before a broader search could be attempted). Education remains unconfirmed and kept empty rather than guessed. GICS sector/industry_group/industry added to both professional_experience entries, copied verbatim from gics_taxonomy.json. CSV-роль \"Член СД\" не подтверждена как членство в Совете директоров ПАО \"РусГидро\". Образование не найдено. Медицинские профили Евграфовой Елены Олеговны отклонены как вероятная однофамилица из другой отрасли. Quality pass round 1 (2026-07-30), honest-gap follow-up: свежие запросы (\"Евграфова Елена Олеговна\" РусГидро окончила вуз образование через Yandex; \"Евграфова Е.О.\" РусГидро ОЦО через DuckDuckGo) не дали новых результатов, кроме повторного вывода профилей врача-невролога из Уфы (уже отклонена как однофамилица). Образование остается пустым."
+    },
+    {
+      "name": "Финкель Дмитрий Владимирович",
+      "current_role": "Член СД по CSV; подтвержден как генеральный директор АО \"РусГидро ОЦО\" и член Совета директоров АО \"РусГидро ОЦО\"",
+      "company_name": "ПАО \"РусГидро\"",
+      "education": [
+        {
+          "institution": "Северный (Арктический) федеральный университет имени М.В. Ломоносова",
+          "year": 2000,
+          "details": "Окончил по специальности \"Бухгалтерский учет и аудит\". Институт нормализован к каноническому названию по university_names.json (quality pass round 1): исходный источник называет вуз \"Архангельский государственный технический университет\", который в справочнике зарегистрирован как алиас этого же учреждения под текущим названием.",
+          "source_url": "https://rao-esv.ru/upload/iblock/e59/prilozhenie-5_sostav-soveta-direktorov-v-2015_2016-korporativnom-godu.pdf",
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Северный (Арктический) федеральный университет имени М.В. Ломоносова",
+          "year": null,
+          "details": "Профессиональный профиль указывает экономический факультет; согласовано с записью выше как один и тот же вуз (Архангельский государственный технический университет = Северный (Арктический) федеральный университет имени М.В. Ломоносова, по university_names.json).",
+          "source_url": "https://sscclub.ru/expert/dmitrij-finkel/",
+          "qualification_degree": "Specialist degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "АО \"РусГидро ОЦО\"",
+          "role": "Генеральный директор",
+          "start_year": 2019,
+          "end_year": null,
+          "description": "Профессиональный профиль указывает, что с июля 2019 года Финкель является генеральным директором АО \"РусГидро ОЦО\"; реестровый источник подтверждает полномочия генерального директора с 22.05.2019.",
+          "source_url": "https://sscclub.ru/expert/dmitrij-finkel/",
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "АО \"РусГидро ОЦО\"",
+          "role": "Член Совета директоров; генеральный директор",
+          "start_year": null,
+          "end_year": null,
+          "description": "Годовой отчет АО \"РусГидро ОЦО\" за 2023 год указывает Финкеля Дмитрия Владимировича членом Совета директоров и генеральным директором общества.",
+          "source_url": "https://storage.yandexcloud.net/storage.rushydro.ru/iblock/1c6/1c68559bd8cf9b9b6d4566896e023d0a/GODOVOY%20OTCHET%20AO%20_RUSGIDRO%20OTSO_%20PO%20REZULTATAM%20RABOTY%20ZA%202023%20GOD.pdf",
+          "sector": "Industrials",
+          "industry_group": "Commercial & Professional Services",
+          "industry": "Professional Services"
+        },
+        {
+          "organization": "ПАО \"РусГидро\"",
+          "role": "Директор Департамента корпоративного учета и отчетности - главный бухгалтер",
+          "start_year": 2010,
+          "end_year": 2019,
+          "description": "Профессиональный профиль указывает переход в ПАО \"РусГидро\" в ноябре 2010 года на позицию главного бухгалтера; корпоративный PDF 2015/2016 подтверждает должность директора департамента корпоративного учета и отчетности - главного бухгалтера.",
+          "source_url": "https://sscclub.ru/expert/dmitrij-finkel/",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Independent Power and Renewable Electricity Producers"
+        },
+        {
+          "organization": "ОАО \"ФСК ЕЭС\"",
+          "role": "Заместитель главного бухгалтера; заместитель руководителя профильных функций учета и отчетности",
+          "start_year": 2002,
+          "end_year": 2010,
+          "description": "Профессиональный профиль указывает работу с июня 2002 года в ОАО \"ФСК ЕЭС\" на руководящих бухгалтерских должностях до перехода в РусГидро.",
+          "source_url": "https://sscclub.ru/expert/dmitrij-finkel/",
+          "sector": "Utilities",
+          "industry_group": "Utilities",
+          "industry": "Electric Utilities"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "MOEXBMI_2024.csv",
+          "title": "MOEXBMI_2024.csv",
+          "fact": "CSV содержит Финкеля Дмитрия Владимировича в списке HYDR с ролью \"Член СД\"."
+        },
+        {
+          "url": "https://storage.yandexcloud.net/storage.rushydro.ru/iblock/1c6/1c68559bd8cf9b9b6d4566896e023d0a/GODOVOY%20OTCHET%20AO%20_RUSGIDRO%20OTSO_%20PO%20REZULTATAM%20RABOTY%20ZA%202023%20GOD.pdf",
+          "title": "Годовой отчет АО \"РусГидро ОЦО\" по результатам работы за 2023 год",
+          "fact": "Страница 11: Финкель Дмитрий Владимирович указан членом Совета директоров и генеральным директором АО \"РусГидро ОЦО\"."
+        },
+        {
+          "url": "https://rao-esv.ru/upload/iblock/e59/prilozhenie-5_sostav-soveta-direktorov-v-2015_2016-korporativnom-godu.pdf",
+          "title": "Состав Совета директоров в 2015-2016 корпоративном году",
+          "fact": "Страница 2: указаны год рождения 1977, высшее образование, окончание Архангельского государственного технического университета в 2000 году по специальности \"Бухгалтерский учет и аудит\", а также должность в ПАО \"РусГидро\"."
+        },
+        {
+          "url": "https://sscclub.ru/expert/dmitrij-finkel/",
+          "title": "Дмитрий Финкель - Клуб ОЦО",
+          "fact": "Профессиональный профиль подтверждает карьеру в ФСК ЕЭС, РусГидро и АО \"РусГидро ОЦО\", а также профессиональные квалификации и обучение."
+        },
+        {
+          "url": "https://checko.ru/company/rusgidro-oco-1057813314525",
+          "title": "АО \"РусГидро ОЦО\"",
+          "fact": "Реестровый профиль подтверждает Дмитрия Финкеля как генерального директора АО \"РусГидро ОЦО\" с 22.05.2019."
+        }
+      ],
+      "notes": "Биографические сведения по Финкелю наиболее полные среди не-CEO персон. Утверждение профессионального профиля о публикациях по налогообложению не перенесено в publications, так как конкретные научные или библиографические публикации не идентифицированы. CSV-роль не интерпретирована как подтвержденное членство в Совете директоров ПАО \"РусГидро\". Round 2 (2026-07-19): institution field on the 2000 Arkhangelsk State Technical University entry normalized to its canonical form per university_names.json (\"Северный (Арктический) федеральный университет имени М.В. Ломоносова\"); raw string retained in details. qualification_degree (Specialist degree) added to both education entries with reasoning. GICS sector/industry_group/industry added to all four professional_experience entries, copied verbatim from gics_taxonomy.json (ОАО \"ФСК ЕЭС\" classified consistent with the already-processed FEES ticker file). Биографические сведения по Финкелю наиболее полные среди не-CEO персон. Утверждение профессионального профиля о публикациях по налогообложению не перенесено в publications, так как конкретные научные или библиографические публикации не идентифицированы. CSV-роль не интерпретирована как подтвержденное членство в Совете директоров ПАО \"РусГидро\". Quality pass round 1 (2026-07-30): устранен desync -- институт первой записи об образовании нормализован к каноническому названию \"Северный (Арктический) федеральный университет имени М.В. Ломоносова\" по university_names.json; round 2 research notes уже установили это соответствие, но JSON сохранял устаревшее название \"Архангельский государственный технический университет\"."
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input for HYDR."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/HYDR/ГО 2024.pdf",
+      "title": "Годовой отчет ПАО \"РусГидро\" за 2024 год",
+      "fact": "Страницы отчета 162-171: отчет описывает структуру органов управления ПАО \"РусГидро\", указывает Совет директоров из 13 членов и Правление из 6 членов, но не раскрывает персональный состав в основном файле; персональные данные вынесены в Приложение 28."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/HYDR/IFRS RusHydro_2412_rus_bp.pdf",
+      "title": "Консолидированная финансовая отчетность ПАО \"РусГидро\" за 2024 год",
+      "fact": "Страницы финансовой отчетности 29-30: ключевой управленческий персонал включает членов Совета директоров, членов Правления и руководителей структурных подразделений, но имена не раскрыты."
+    },
+    {
+      "url": "https://storage.yandexcloud.net/storage.rushydro.ru/iblock/1c6/1c68559bd8cf9b9b6d4566896e023d0a/GODOVOY%20OTCHET%20AO%20_RUSGIDRO%20OTSO_%20PO%20REZULTATAM%20RABOTY%20ZA%202023%20GOD.pdf",
+      "title": "Годовой отчет АО \"РусГидро ОЦО\" по результатам работы за 2023 год",
+      "fact": "Страница 11: отчет подтверждает состав Совета директоров АО \"РусГидро ОЦО\" на 31.12.2023, включая Панина, Недотко, Евграфову и Финкеля, а также показывает их основное место работы/должность."
+    },
+    {
+      "url": "https://www.ricom.ru/depo/corporate/14086/",
+      "title": "ПАО \"Сахалинэнерго\": годовое общее собрание акционеров 27.06.2024",
+      "fact": "Источник подтверждает избрание Исакова Александра Юрьевича и Недотко Вадима Владиславовича в Совет директоров ПАО \"Сахалинэнерго\" в 2024 году."
+    },
+    {
+      "url": "https://tass.ru/ekonomika/10576145",
+      "title": "Совет директоров РусГидро утвердил Виктора Хмарина гендиректором на пять лет",
+      "fact": "Источник подтверждает назначение Виктора Хмарина Председателем Правления - Генеральным директором ПАО \"РусГидро\"."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "Исходный список HYDR содержит ПАО \"РусГидро\" и шесть персон: Хмарина, Панина, Исакова, Недотко, Евграфову и Финкеля."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/HYDR/ГО 2024.pdf",
+      "title": "Годовой отчет ПАО \"РусГидро\" за 2024 год",
+      "fact": "Локальный отчет проверен до интернет-поиска; он подтверждает структуру органов управления и контактную роль Исакова, но не раскрывает персональный состав органов управления в основном файле."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/HYDR/IFRS RusHydro_2412_rus_bp.pdf",
+      "title": "Консолидированная финансовая отчетность ПАО \"РусГидро\" за 2024 год",
+      "fact": "Локальная финансовая отчетность проверена; именные биографии отсутствуют."
+    },
+    {
+      "url": "https://tass.ru/ekonomika/10576145",
+      "title": "Совет директоров РусГидро утвердил Виктора Хмарина гендиректором на пять лет",
+      "fact": "Подтверждает генерального директора ПАО \"РусГидро\"."
+    },
+    {
+      "url": "https://storage.yandexcloud.net/storage.rushydro.ru/iblock/1c6/1c68559bd8cf9b9b6d4566896e023d0a/GODOVOY%20OTCHET%20AO%20_RUSGIDRO%20OTSO_%20PO%20REZULTATAM%20RABOTY%20ZA%202023%20GOD.pdf",
+      "title": "Годовой отчет АО \"РусГидро ОЦО\" по результатам работы за 2023 год",
+      "fact": "Подтверждает роли Панина, Недотко, Евграфовой и Финкеля в АО \"РусГидро ОЦО\" и их связь с ПАО \"РусГидро\"."
+    },
+    {
+      "url": "https://www.ricom.ru/depo/corporate/14086/",
+      "title": "ПАО \"Сахалинэнерго\": годовое общее собрание акционеров 27.06.2024",
+      "fact": "Подтверждает роли Исакова и Недотко в Совете директоров ПАО \"Сахалинэнерго\" в 2024 году."
+    },
+    {
+      "url": "https://sscclub.ru/expert/dmitrij-finkel/",
+      "title": "Дмитрий Финкель - Клуб ОЦО",
+      "fact": "Подтверждает карьеру, образование и квалификации Дмитрия Финкеля."
+    },
+    {
+      "url": "https://rao-esv.ru/upload/iblock/e59/prilozhenie-5_sostav-soveta-direktorov-v-2015_2016-korporativnom-godu.pdf",
+      "title": "Состав Совета директоров в 2015-2016 корпоративном году",
+      "fact": "Подтверждает образование Дмитрия Финкеля и его должность в ПАО \"РусГидро\" в 2015-2016 корпоративном году."
+    }
+  ],
+  "validation_notes": "Обработано 6 человек из CSV. Проверено 2 локальных документа HYDR: годовой отчет ПАО \"РусГидро\" за 2024 год и консолидированная финансовая отчетность за 2024 год. Выполнено 6 research rounds, по одному на человека. Локальный годовой отчет ПАО \"РусГидро\" за 2024 год не раскрывает персональный состав Совета директоров/Правления в основном файле и указывает на Приложение 28, отсутствующее в локальной папке; поэтому CSV-роли \"Член СД\" не интерпретированы как подтвержденное членство в Совете директоров ПАО \"РусГидро\". Для Панина, Недотко, Евграфовой и Финкеля подтвержден контекст Совета директоров АО \"РусГидро ОЦО\" по отчету за 2023 год; для Исакова подтверждена связь с ПАО \"РусГидро\" и советами директоров дочерних/связанных обществ. Образование не найдено для Панина и Евграфовой; по Исакову и Недотко есть только слабые/частичные сведения из индексированных PDF, поэтому детализация ограничена; по Хмарину степень кандидата юридических наук оставлена с оговоркой; по Финкелю образование подтверждено. Слабые источники: индексированные, но не извлеченные полностью PDF/карточки ssc.rushydro.ru и некоторые поисковые фрагменты; они явно отмечены в notes и в отдельных полях. Остались конфликты/неопределенность по трактовке CSV-роли \"Член СД\" для пяти человек, поскольку публичный локальный отчет ПАО не дал персонального состава. Исключены однофамильцы: Виктор Евгеньевич Панин-физик, Виктор Евгеньевич Панин-политик, Елена Олеговна Евграфова-врач, Федор Недотко, Виктор Николаевич Хмарин, Виктор Моисеевич Финкель. Поиск считается завершенным после проверки локальных документов, официальных/корпоративных источников, источников дочерних обществ, профессиональных профилей, реестров, образования, прежних работодателей, публикаций/патентов и повторных поисковых проходов без новых надежных фактов. --- Round 2 (2026-07-19, gap-filling pass) --- Company-level sector/industry_group/industry added: Utilities / Utilities / Independent Power and Renewable Electricity Producers, copied verbatim from gics_taxonomy.json. Justification: the company's own 2024 annual report describes RusHydro Group as \"системообразующий российский электроэнергетический холдинг и национальный лидер в сфере генерации электроэнергии на основе ВИЭ\" (backbone Russian power holding and national leader in renewable-source electricity generation), i.e. a hydro/renewable generation company selling into the wholesale market rather than a vertically-integrated regulated transmission/distribution utility; this is corroborated by the already-processed DVEC ticker file, which classifies the same organization (\"ПАО \\\"РусГидро\\\"\") identically as an employer in a professional_experience entry. The same triple was applied to every professional_experience entry naming ПАО \"РусГидро\" as employer, for all six people. Other organizations were classified by their own primary business, not RusHydro's: Банк ВТБ = Financials/Banks/Banks (matches existing DATA/GAZP precedent); АО \"РусГидро ОЦО\" (a group shared-service center for accounting/corporate-governance methodology) = Industrials/Commercial & Professional Services/Professional Services (matches how audit/accounting/consulting firms are classified elsewhere in this dataset); ПАО \"Сахалинэнерго\", ПАО \"РЭСК\" and the newly found ПАО \"Красноярскэнергосбыт\" = Utilities/Utilities/Electric Utilities (regional integrated/retail electricity companies; no separate GICS bucket exists for electricity retail/sales, so Electric Utilities is the closest verbatim match, consistent with the DVEC ticker's own company-level classification for a structurally similar Far East integrated utility); ОАО \"ФСК ЕЭС\" = Utilities/Utilities/Electric Utilities, matching the already-processed FEES ticker file for the same company. qualification_degree added to all education/degrees entries: SPbGU 2000 (Хмарин) and both Финкель entries = Specialist degree (pre-Bologna, specialty-based graduation, high-confidence inference documented per-entry); \"Кандидат юридических наук\" (Хмарин) = Doctoral degree (direct mapping of the literal degree text per this project's standing convention, kept despite the degree claim itself remaining unconfirmed by any directly-read source across two rounds); the two weak \"Высшее\"-only entries (Исаков, Недотко) = Unknown (higher education confirmed to exist, specific tier not inferable without a graduation year). Институт normalization per university_names.json: Финкель's 2000 institution field changed from the raw \"Архангельский государственный технический университет\" to its canonical successor name \"Северный (Арктический) федеральный университет имени М.В. Ломоносова\" (both are listed in university_names.json as the same entry); no institution not already present in university_names.json was encountered, so new_institutions_found is empty for this ticker. Targeted re-research on previously flagged gaps: Хмарин's Bank VTB professional_experience entry (was null years / vague role) filled to \"Советник первого заместителя председателя Правления Банка ВТБ Юрия Соловьева\", 2014-2015, using the two sources already cited for this person (TAdviser, Energostrana), now fully re-read; his \"Кандидат юридических наук\" degree was specifically re-checked against those same sources plus a newly found РАО ЭС Востока 2016 official appendix -- none state the degree, so it is kept but flagged as still unconfirmed rather than deleted. Недотко: two previously timed-out documents (resk.ru go2016.pdf; krsk-sbit.ru board card) were successfully re-fetched and read in full this round; neither adds an education institution, but both surfaced new, well-sourced Board-membership facts (ПАО \"РЭСК\" 2016; ПАО \"Красноярскэнергосбыт\", current), added as new professional_experience entries. Исаков: the one outstanding education lead (a Sakhalinenergo PDF) was retried via two independent fetch channels and failed with a network-level connection refusal (host currently unreachable), so education remains null/Unknown. Панин and Евграфова: their respective ssc.rushydro.ru board cards were retried via two fetch methods and reconfirmed to be client-side-rendered shells with no extractable text; education stays empty for both. This session's WebSearch budget (200/200) was exhausted partway through the round, limiting further broad queries for Панин, Евграфова, and Хмарин's degree; all findable direct-URL and local-document leads were still exhausted before that point. No previously confirmed fact was deleted or silently overwritten; all changes are additive or explicitly documented replacements of previously null/vague values. DATA-LOSS REPAIR (2026-07-30): restored 4 shortened notes field(s), 4 shortened professional_experience description(s), and 0 missing source citation(s) using git HEAD (commit 03bfe9f, 2026-07-20) as the reliable baseline, after Validate found this file had regressed below that committed checkpoint. Nothing else in this file was touched. Additional repair: restored 1 person-level source citation(s) that a person-level (not per-experience) comparison against git HEAD found missing.",
+  "sector": "Utilities",
+  "industry_group": "Utilities",
+  "industry": "Independent Power and Renewable Electricity Producers"
+}

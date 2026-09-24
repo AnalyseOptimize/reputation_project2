@@ -1,0 +1,1224 @@
+{
+  "company_name": "Публичное акционерное общество Микрофинансовая компания «Займер»",
+  "company_ticker": "ZAYM",
+  "ceo": {
+    "name": "Макаров Роман Сергеевич",
+    "current_role": "член Совета директоров; генеральный директор",
+    "company_name": "ПАО МФК «Займер»",
+    "education": [
+      {
+        "institution": "Кемеровский государственный университет",
+        "year": 2002,
+        "qualification": "высшее образование",
+        "description": "Original education details: field: прикладная математика и информатика; математик.",
+        "sources": [
+          "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+        ],
+        "qualification_degree": "Unknown"
+      },
+      {
+        "institution": "Кемеровский государственный университет",
+        "year": 2006,
+        "qualification": "высшее образование",
+        "description": "Original education details: field: финансы и кредит; экономист.",
+        "sources": [
+          "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+        ],
+        "qualification_degree": "Unknown"
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "ООО МФК «Займер»",
+        "role": "генеральный директор",
+        "start_year": 2018,
+        "end_year": 2023,
+        "description": "Период в отчете: 12.10.2018–06.12.2023.",
+        "sources": [
+          "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+        ],
+        "sector": "Financials",
+        "industry_group": "Financial Services (New Name)",
+        "industry": "Consumer Finance"
+      },
+      {
+        "organization": "ПАО МФК «Займер»",
+        "role": "генеральный директор",
+        "start_year": 2023,
+        "end_year": null,
+        "description": "Отчет эмитента указывает Макарова Р.С. в составе Совета директоров, избранного 27.09.2024.",
+        "sources": [
+          "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+        ],
+        "sector": "Financials",
+        "industry_group": "Financial Services (New Name)",
+        "industry": "Consumer Finance"
+      },
+      {
+        "organization": "ПАО МФК «Займер»",
+        "role": "член Совета директоров",
+        "start_year": 2024,
+        "end_year": null,
+        "description": "Отчет эмитента указывает Макарова Р.С. в составе Совета директоров, избранного 27.09.2024.",
+        "sources": [
+          "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+        ],
+        "sector": "Financials",
+        "industry_group": "Financial Services (New Name)",
+        "industry": "Consumer Finance"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+        "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+        "fact": "Основной официальный источник для состава Совета директоров, образования и должностей Макарова Р.С."
+      },
+      {
+        "url": "https://ir.zaymer.ru/about-us",
+        "title": "ПАО МФК «Займер» — О компании",
+        "fact": "Официальная страница команды указывает Романа Макарова как генерального директора и описывает его опыт в банковской сфере."
+      },
+      {
+        "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+        "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+        "fact": "Карточка Макарова Р.С. указывает Кемеровский государственный университет, год окончания 2002, квалификация математик, прикладная математика и информатика."
+      },
+      {
+        "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+        "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+        "fact": "Карточка Макарова Р.С. указывает Кемеровский государственный университет, год окончания 2006, квалификация экономист, финансы и кредит."
+      },
+      {
+        "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+        "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+        "fact": "Карточка Макарова Р.С. перечисляет должность генерального директора ООО МФК «Займер» с 12.10.2018 по 06.12.2023."
+      },
+      {
+        "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+        "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+        "fact": "Карточка Макарова Р.С. перечисляет должность генерального директора ПАО МФК «Займер» с 07.12.2023."
+      },
+      {
+        "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+        "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+        "fact": "В составе Совета директоров, избранного 27.09.2024, указан Макаров Р.С."
+      }
+    ],
+    "notes": "Идентичность подтверждена официальным отчетом и сайтом. Указание официального сайта на опыт в ТОП-10 банках России не разложено в отдельные позиции, потому что источник не называет конкретные организации и годы. Научные публикации, патенты, h-index и исследовательский опыт не подтверждены надежными источниками. Роль из CSV: член Совета директоров, генеральный директор"
+  },
+  "tmt": [
+    {
+      "name": "Повалий Михаил Сергеевич",
+      "current_role": "председатель Совета директоров",
+      "company_name": "ПАО МФК «Займер»",
+      "education": [
+        {
+          "institution": "Военный университет Министерства обороны Российской Федерации",
+          "year": 1994,
+          "qualification": "специалитет",
+          "description": "Original education details: field: иностранный язык (английский, суахили); переводчик; специалист в информационно-аналитической области. Institution name normalized to its university_names.json canonical form (alias: «Военный Институт МО СССР»); pre-Bologna (1994) five-year military-institute program, consistent with corpus-wide mapping of qualification=\"специалитет\" to Specialist degree.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "qualification_degree": "Specialist degree"
+        },
+        {
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "year": 2005,
+          "qualification": "MBA",
+          "description": "Original education details: field: общий менеджмент.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "qualification_degree": "MBA"
+        },
+        {
+          "institution": "INSEAD",
+          "year": 2017,
+          "qualification": "top executive program",
+          "description": null,
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "qualification_degree": "Executive education"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО МФК «Займер»",
+          "role": "председатель Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Отчет эмитента указывает Повалия М.С. в составе Совета директоров, избранного 27.09.2024; биографическая карточка обозначает его как председателя.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Consumer Finance"
+        },
+        {
+          "organization": "АО «ЮниКредит Банк»",
+          "role": "старший вице-президент Правления",
+          "start_year": 2019,
+          "end_year": 2021,
+          "description": "Период в отчете: 20.05.2019–20.10.2021.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Financials",
+          "industry_group": "Banks",
+          "industry": "Banks"
+        },
+        {
+          "organization": "СПАО «Ингосстрах»",
+          "role": "советник генерального директора",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Период в отчете: с 21.11.2022 по настоящее время.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Financials",
+          "industry_group": "Insurance",
+          "industry": "Insurance"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Основной официальный источник для состава Совета директоров, образования и последних должностей Повалия М.С."
+        },
+        {
+          "url": "https://ir.zaymer.ru/about-us",
+          "title": "ПАО МФК «Займер» — О компании",
+          "fact": "Официальная страница команды описывает Михаила Повалия как председателя Совета директоров с финансовым управленческим бэкграундом."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Биографическая карточка Повалия М.С. указывает высшее образование: Военный Институт МО СССР, год окончания 1994."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Биографическая карточка Повалия М.С. указывает MBA МГУ им. М.В. Ломоносова, год окончания 2005, общий менеджмент."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Биографическая карточка Повалия М.С. указывает INSEAD, год окончания 2017, top executive program."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "В составе Совета директоров, избранного 27.09.2024, указан Повалий М.С.; в карточке он указан как председатель."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Биографическая карточка Повалия М.С. перечисляет должность старшего вице-президента Правления АО «ЮниКредит Банк» с 20.05.2019 по 20.10.2021."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Биографическая карточка Повалия М.С. перечисляет должность советника генерального директора СПАО «Ингосстрах» с 21.11.2022 по настоящее время."
+        }
+      ],
+      "notes": "Идентичность подтверждена через официальный отчет эмитента и официальный сайт. Статус независимого директора из CSV отдельно в отчете не детализирован; в JSON зафиксирована подтвержденная роль председателя Совета директоров. Научные публикации, патенты, h-index и исследовательский опыт не подтверждены надежными источниками. Роль из CSV: председатель Совета директоров, независимый директор"
+    },
+    {
+      "name": "Мехтиев Эльман Октай оглу",
+      "current_role": "независимый член Совета директоров",
+      "company_name": "ПАО МФК «Займер»",
+      "education": [
+        {
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "year": 1987,
+          "qualification": "высшее образование",
+          "description": "Original education details: field: философия; преподаватель философии.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "qualification_degree": "Unknown"
+        },
+        {
+          "institution": "Российская академия народного хозяйства и государственной службы при Президенте Российской Федерации",
+          "year": 2001,
+          "qualification": "магистратура",
+          "description": "Original education details: field: финансы и кредит. Primary source states \"квалификация - магистр\" explicitly (not inferred from specialty), matching the internal qualification=\"магистратура\" categorization already present in this record.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "qualification_degree": "Master's degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО МФК «Займер»",
+          "role": "независимый член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "В составе Совета директоров, избранного 27.09.2024, указан Мехтиев Э.О.; текущая официальная страница указывает его как независимого члена Совета директоров.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+            "https://ir.zaymer.ru/corporate"
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Consumer Finance"
+        },
+        {
+          "organization": "Некоммерческая организация «Национальная Ассоциация Профессиональных Коллекторских Агентств»",
+          "role": "президент",
+          "start_year": 2018,
+          "end_year": 2023,
+          "description": "Период в отчете: 05.12.2018–31.08.2023.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        },
+        {
+          "organization": "ООО «Кредчек»",
+          "role": "директор по развитию бизнеса",
+          "start_year": 2023,
+          "end_year": 2025,
+          "description": "Период в отчете: 25.09.2023–26.05.2025.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "Ассоциация развития финансовой грамотности",
+          "role": "генеральный директор",
+          "start_year": 2025,
+          "end_year": null,
+          "description": "Период в отчете: с 02.06.2025 по настоящее время; факт относится к периоду после целевого 2024 года и включен как биографическое продолжение из официального отчета. GICS-ревизия 2026-08-02: организация зарегистрирована под легальной формой «Ассоциация» (некоммерческая корпоративная организация по ст. 123.8 ГК РФ), не коммерческая компания; ранее ошибочно унаследовала GICS основного работодателя (Займер). Классификация обнулена по аналогии с уже принятым в этом файле решением по НО «НАПКА».",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": null,
+          "industry_group": null,
+          "industry": null
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Основной официальный источник для состава Совета директоров, образования и последних должностей Мехтиева Э.О."
+        },
+        {
+          "url": "https://ir.zaymer.ru/about-us",
+          "title": "ПАО МФК «Займер» — О компании",
+          "fact": "Официальная страница команды описывает Эльмана Мехтиева как независимого члена Совета директоров и эксперта финансового рынка."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Биографическая карточка Мехтиева Э.О. указывает МГУ им. М.В. Ломоносова, год окончания 1987, философия, преподаватель философии."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Биографическая карточка Мехтиева Э.О. указывает РАНХиГС, год окончания 2001, квалификация магистр, финансы и кредит."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "В составе Совета директоров, избранного 27.09.2024, указан Мехтиев Э.О."
+        },
+        {
+          "url": "https://ir.zaymer.ru/corporate",
+          "title": "ПАО МФК «Займер» — Корпоративное управление",
+          "fact": "Официальная страница корпоративного управления указывает Эльмана Мехтиева как независимого члена Совета директоров."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Биографическая карточка Мехтиева Э.О. перечисляет должность президента НАПКА с 05.12.2018 по 31.08.2023."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Биографическая карточка Мехтиева Э.О. перечисляет должность директора по развитию бизнеса ООО «Кредчек» с 25.09.2023 по 26.05.2025."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Биографическая карточка Мехтиева Э.О. перечисляет должность генерального директора АРФГ с 02.06.2025."
+        }
+      ],
+      "notes": "Идентичность подтверждена официальным отчетом и сайтом. Магистерская квалификация внесена как education, а не как ученая степень. Научные публикации, патенты, h-index и исследовательский опыт не подтверждены надежными источниками. Роль из CSV: независимый директор"
+    },
+    {
+      "name": "Грязнова Оксана Николаевна",
+      "current_role": "член Совета директоров; финансовый директор",
+      "company_name": "ПАО МФК «Займер»",
+      "education": [
+        {
+          "institution": "Кемеровский государственный университет",
+          "year": 2008,
+          "qualification": "высшее образование",
+          "description": "Original education details: field: налоги и налогообложение; специалист по налогообложению.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ООО МФК «Займер»",
+          "role": "финансовый директор финансовой службы",
+          "start_year": 2019,
+          "end_year": 2023,
+          "description": "Период в отчете: 11.03.2019–06.12.2023.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Consumer Finance"
+        },
+        {
+          "organization": "ПАО МФК «Займер»",
+          "role": "финансовый директор финансовой службы",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Отчет эмитента указывает Грязнову О.Н. в составе Совета директоров, избранного 27.09.2024.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Consumer Finance"
+        },
+        {
+          "organization": "ПАО МФК «Займер»",
+          "role": "член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Отчет эмитента указывает Грязнову О.Н. в составе Совета директоров, избранного 27.09.2024.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Consumer Finance"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Основной официальный источник для состава Совета директоров, образования и должностей Грязновой О.Н."
+        },
+        {
+          "url": "https://ir.zaymer.ru/about-us",
+          "title": "ПАО МФК «Займер» — О компании",
+          "fact": "Официальная страница команды указывает Оксану Грязнову как финансового директора и описывает предыдущий опыт финансового планирования без названий организаций."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Биографическая карточка Грязновой О.Н. указывает Кемеровский государственный университет, год окончания 2008, специалист по налогообложению."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Карточка Грязновой О.Н. перечисляет должность финансового директора финансовой службы ООО МФК «Займер» с 11.03.2019 по 06.12.2023."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Карточка Грязновой О.Н. перечисляет должность финансового директора финансовой службы ПАО МФК «Займер» с 07.12.2023."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "В составе Совета директоров, избранного 27.09.2024, указана Грязнова О.Н."
+        }
+      ],
+      "notes": "Идентичность подтверждена официальным отчетом и сайтом. Общее описание опыта до Займера не разложено на отдельные позиции, потому что официальный сайт не называет организации и годы. Научные публикации, патенты, h-index и исследовательский опыт не подтверждены надежными источниками. Роль из CSV: член Совета директоров, финансовый директор"
+    },
+    {
+      "name": "Заводсков Андрей Дмитриевич",
+      "current_role": "член Совета директоров; заместитель генерального директора",
+      "company_name": "ПАО МФК «Займер»",
+      "education": [
+        {
+          "institution": "Ульяновский государственный университет",
+          "year": 2015,
+          "qualification": "бакалавриат",
+          "description": "Original education details: field: государственное и муниципальное управление. Primary source states \"квалификация – бакалавр\" explicitly.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "qualification_degree": "Bachelor's degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ООО МФК «Займер»",
+          "role": "заместитель генерального директора",
+          "start_year": 2022,
+          "end_year": 2022,
+          "description": "Период в отчете: 06.12.2022–06.12.2023; с 06.12.2022 по 03.05.2023 работал на условиях внешнего совместительства.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Consumer Finance"
+        },
+        {
+          "organization": "ООО «РобоФинанс»",
+          "role": "заместитель генерального директора по операционным вопросам",
+          "start_year": 2022,
+          "end_year": 2022,
+          "description": "Период в отчете: 06.12.2022–31.12.2022.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "ООО МФК «Займер»",
+          "role": "заместитель генерального директора",
+          "start_year": 2022,
+          "end_year": 2023,
+          "description": "Период в отчете: 06.12.2022–06.12.2023; с 06.12.2022 по 03.05.2023 работал на условиях внешнего совместительства.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Consumer Finance"
+        },
+        {
+          "organization": "ПАО МФК «Займер»",
+          "role": "заместитель генерального директора",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Отчет эмитента указывает Заводскова А.Д. в составе Совета директоров, избранного 27.09.2024.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Consumer Finance"
+        },
+        {
+          "organization": "ПАО МФК «Займер»",
+          "role": "член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Отчет эмитента указывает Заводскова А.Д. в составе Совета директоров, избранного 27.09.2024.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Consumer Finance"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Основной официальный источник для состава Совета директоров, образования и должностей Заводскова А.Д."
+        },
+        {
+          "url": "https://ir.zaymer.ru/corporate",
+          "title": "ПАО МФК «Займер» — Корпоративное управление",
+          "fact": "Официальная страница корпоративного управления указывает Андрея Заводскова как операционного директора."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Биографическая карточка Заводскова А.Д. указывает Ульяновский государственный университет, год окончания 2015, бакалавр, государственное и муниципальное управление."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Карточка Заводскова А.Д. перечисляет должность заместителя генерального директора ООО МФК «Займер» с 10.01.2022 по 05.12.2022."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Карточка Заводскова А.Д. перечисляет должность заместителя генерального директора по операционным вопросам ООО «РобоФинанс» с 06.12.2022 по 31.12.2022."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Карточка Заводскова А.Д. перечисляет должность заместителя генерального директора ООО МФК «Займер» с 06.12.2022 по 06.12.2023."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Карточка Заводскова А.Д. перечисляет должность заместителя генерального директора ПАО МФК «Займер» с 07.12.2023."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "В составе Совета директоров, избранного 27.09.2024, указан Заводсков А.Д."
+        }
+      ],
+      "notes": "Идентичность подтверждена официальным отчетом и сайтом. Название текущей функции отличается в источниках: CSV и отчет используют «заместитель генерального директора», текущая страница корпоративного управления — «операционный директор». Научные публикации, патенты, h-index и исследовательский опыт не подтверждены надежными источниками. Роль из CSV: член Совета директоров, заместитель генерального директора"
+    },
+    {
+      "name": "Ляшенко Павел Андреевич",
+      "current_role": "член Совета директоров; генеральный директор ООО «ФинТехРобот»",
+      "company_name": "ПАО МФК «Займер»",
+      "education": [
+        {
+          "institution": "Российский экономический университет имени Г.В. Плеханова",
+          "year": 2015,
+          "qualification": "бакалавриат",
+          "description": "Original education details: field: прикладная информатика. Primary source states \"квалификация - бакалавр\" explicitly.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "qualification_degree": "Bachelor's degree"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ООО «РобоФинанс»",
+          "role": "руководитель разработки службы разработки программного обеспечения",
+          "start_year": 2017,
+          "end_year": 2024,
+          "description": "Период в отчете: 04.04.2017–15.11.2024.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "ООО «ФинТехРобот»",
+          "role": "генеральный директор",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Период в отчете: с 16.11.2024 по настоящее время.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "ПАО МФК «Займер»",
+          "role": "член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Отчет эмитента указывает Ляшенко П.А. в составе Совета директоров, избранного 27.09.2024.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Consumer Finance"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Основной официальный источник для состава Совета директоров, образования и должностей Ляшенко П.А."
+        },
+        {
+          "url": "https://ir.zaymer.ru/about-us",
+          "title": "ПАО МФК «Займер» — О компании",
+          "fact": "Официальная страница команды указывает Павла Ляшенко как генерального директора ООО «ФинТехРобот» и описывает опыт разработки финтех-продуктов."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Биографическая карточка Ляшенко П.А. указывает РЭУ им. Г.В. Плеханова, год окончания 2015, бакалавр, прикладная информатика."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Карточка Ляшенко П.А. перечисляет должность руководителя разработки ООО «РобоФинанс» с 04.04.2017 по 15.11.2024."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Карточка Ляшенко П.А. перечисляет должность генерального директора ООО «ФинТехРобот» с 16.11.2024."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "В составе Совета директоров, избранного 27.09.2024, указан Ляшенко П.А."
+        }
+      ],
+      "notes": "Идентичность подтверждена официальным отчетом и сайтом. Научные публикации, патенты, h-index и исследовательский опыт не подтверждены надежными источниками. Роль из CSV: член Совета директоров, генеральный директор ООО «ФинТехРобот»"
+    },
+    {
+      "name": "Борейко Александр Сергеевич",
+      "current_role": "член Совета директоров; директор по управлению коммуникациями и связям с инвесторами",
+      "company_name": "ПАО МФК «Займер»",
+      "education": [
+        {
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "year": 1998,
+          "qualification": "бакалавриат",
+          "description": "Original education details: field: экономист. Primary source states \"квалификация - бакалавр, специальность - экономист\" explicitly.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "qualification_degree": "Bachelor's degree"
+        },
+        {
+          "institution": "Московский государственный университет имени М.В. Ломоносова",
+          "year": 1999,
+          "qualification": "дополнительное образование",
+          "description": "Original education details: field: деловая журналистика.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО МФК «Займер»",
+          "role": "директор по управлению коммуникациями и связям с инвесторами",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Отчет эмитента указывает Борейко А.С. в составе Совета директоров, избранного 27.09.2024.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Consumer Finance"
+        },
+        {
+          "organization": "ПАО МФК «Займер»",
+          "role": "член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Отчет эмитента указывает Борейко А.С. в составе Совета директоров, избранного 27.09.2024.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Consumer Finance"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Основной официальный источник для состава Совета директоров, образования и должностей Борейко А.С."
+        },
+        {
+          "url": "https://ir.zaymer.ru/about-us",
+          "title": "ПАО МФК «Займер» — О компании",
+          "fact": "Официальная страница команды указывает Александра Борейко как директора по связям с инвесторами и выпускника факультетов экономики и журналистики МГУ."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Биографическая карточка Борейко А.С. указывает МГУ им. М.В. Ломоносова, год окончания 1998, бакалавр, экономист."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Биографическая карточка Борейко А.С. указывает МГУ им. М.В. Ломоносова, год окончания 1999, квалификация и специальность «деловая журналистика»."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Карточка Борейко А.С. перечисляет должность директора по управлению коммуникациями и связям с инвесторами ПАО МФК «Займер» с 01.02.2024."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "В составе Совета директоров, избранного 27.09.2024, указан Борейко А.С."
+        }
+      ],
+      "notes": "Идентичность подтверждена официальным отчетом и сайтом. Официальная страница указывает предыдущий опыт в IR-службах IT-, промышленных холдингов и операторов связи, но без названий организаций и годов; поэтому отдельные позиции не созданы. Научные публикации, патенты, h-index и исследовательский опыт не подтверждены надежными источниками. Роль из CSV: член Совета директоров, директор по связям с инвесторами"
+    },
+    {
+      "name": "Матвеева Татьяна Васильевна",
+      "current_role": "член Совета директоров; директор по правовым вопросам",
+      "company_name": "ПАО МФК «Займер»",
+      "education": [
+        {
+          "institution": "Российский экономический университет имени Г.В. Плеханова",
+          "year": 2010,
+          "qualification": "высшее образование",
+          "description": "Original education details: field: юриспруденция; юрист. Institution name normalized to its university_names.json canonical form (original filing name: «Российский государственный торгово-экономический университет», РГТЭУ; РГТЭУ was merged into РЭУ им. Г.В. Плеханова in 2011-2012, after Матвеева's 2010 graduation, per the taxonomy's established alias mapping).",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "qualification_degree": "Unknown"
+        },
+        {
+          "institution": "НОЧУ «Актион»",
+          "year": 2023,
+          "qualification": "Legal MBA",
+          "description": "Original education details: field: комплексное управление деятельностью компании; руководитель организации.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "qualification_degree": "MBA"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ООО МФК «Займер»",
+          "role": "директор по правовым вопросам",
+          "start_year": 2019,
+          "end_year": 2023,
+          "description": "Период в отчете: 03.06.2019–06.12.2023.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Consumer Finance"
+        },
+        {
+          "organization": "ПАО МФК «Займер»",
+          "role": "директор по правовым вопросам",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Отчет эмитента указывает Матвееву Т.В. в составе Совета директоров, избранного 27.09.2024.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Consumer Finance"
+        },
+        {
+          "organization": "ПАО МФК «Займер»",
+          "role": "член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Отчет эмитента указывает Матвееву Т.В. в составе Совета директоров, избранного 27.09.2024.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Consumer Finance"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Основной официальный источник для состава Совета директоров, образования и должностей Матвеевой Т.В."
+        },
+        {
+          "url": "https://ir.zaymer.ru/about-us",
+          "title": "ПАО МФК «Займер» — О компании",
+          "fact": "Официальная страница команды указывает Татьяну Матвееву как директора по правовым вопросам и описывает опыт в МФО и муниципальных предприятиях."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Биографическая карточка Матвеевой Т.В. указывает Российский государственный торгово-экономический университет, год окончания 2010, юриспруденция, юрист."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Биографическая карточка Матвеевой Т.В. указывает НОЧУ «Актион», год окончания 2023, Legal MBA, руководитель организации."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Карточка Матвеевой Т.В. перечисляет должность директора по правовым вопросам ООО МФК «Займер» с 03.06.2019 по 06.12.2023."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Карточка Матвеевой Т.В. перечисляет должность директора по правовым вопросам ПАО МФК «Займер» с 07.12.2023."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "В составе Совета директоров, избранного 27.09.2024, указана Матвеева Т.В."
+        }
+      ],
+      "notes": "Идентичность подтверждена официальным отчетом и сайтом. В CSV есть опечатка «лен Совета директоров»; в JSON нормализовано до подтвержденного «член Совета директоров». Научные публикации, патенты, h-index и исследовательский опыт не подтверждены надежными источниками. Роль из CSV: лен Совета директоров, директор по правовым вопросам"
+    },
+    {
+      "name": "Родионов Станислав Николаевич",
+      "current_role": "член Совета директоров; директор по информационной безопасности",
+      "company_name": "ПАО МФК «Займер»",
+      "education": [
+        {
+          "institution": "Кемеровский государственный университет",
+          "year": 2005,
+          "qualification": "высшее образование",
+          "description": "Original education details: field: прикладная математика и информатика; математик, системный программист.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ООО МФК «Займер»",
+          "role": "директор по информационной безопасности службы информационной безопасности",
+          "start_year": 2020,
+          "end_year": 2022,
+          "description": "Период в отчете: 24.03.2020–28.09.2022.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Consumer Finance"
+        },
+        {
+          "organization": "ООО «Робофинанс»",
+          "role": "заместитель руководителя по информационной безопасности",
+          "start_year": 2022,
+          "end_year": null,
+          "description": "Период в отчете: с 29.09.2022 по настоящее время.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "ООО МФК «Займер»",
+          "role": "директор по информационной безопасности службы информационной безопасности по совместительству",
+          "start_year": 2022,
+          "end_year": 2023,
+          "description": "Период в отчете: 29.09.2022–06.12.2023.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Consumer Finance"
+        },
+        {
+          "organization": "ПАО МФК «Займер»",
+          "role": "директор по информационной безопасности службы информационной безопасности по совместительству",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Отчет эмитента указывает Родионова С.Н. в составе Совета директоров, избранного 27.09.2024.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Consumer Finance"
+        },
+        {
+          "organization": "ПАО МФК «Займер»",
+          "role": "член Совета директоров",
+          "start_year": 2024,
+          "end_year": null,
+          "description": "Отчет эмитента указывает Родионова С.Н. в составе Совета директоров, избранного 27.09.2024.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Consumer Finance"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Основной официальный источник для состава Совета директоров, образования и должностей Родионова С.Н."
+        },
+        {
+          "url": "https://ir.zaymer.ru/about-us",
+          "title": "ПАО МФК «Займер» — О компании",
+          "fact": "Официальная страница команды указывает Станислава Родионова как директора по информационной безопасности."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Биографическая карточка Родионова С.Н. указывает Кемеровский государственный университет, год окончания 2005, математик, системный программист, прикладная математика и информатика."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Карточка Родионова С.Н. перечисляет должность директора по информационной безопасности ООО МФК «Займер» с 24.03.2020 по 28.09.2022."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Карточка Родионова С.Н. перечисляет должность заместителя руководителя по информационной безопасности ООО «Робофинанс» с 29.09.2022."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Карточка Родионова С.Н. перечисляет должность директора по информационной безопасности ООО МФК «Займер» по совместительству с 29.09.2022 по 06.12.2023."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Карточка Родионова С.Н. перечисляет должность директора по информационной безопасности ПАО МФК «Займер» по совместительству с 07.12.2023."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "В составе Совета директоров, избранного 27.09.2024, указан Родионов С.Н."
+        }
+      ],
+      "notes": "Идентичность подтверждена официальным отчетом и сайтом. Научные публикации, патенты, h-index и исследовательский опыт не подтверждены надежными источниками. Роль из CSV: член Совета директоров, директор по информационной безопасности"
+    },
+    {
+      "name": "Сныткин Алексей Викторович",
+      "current_role": "член Совета директоров; заместитель директора службы управления рисками и внутреннего контроля",
+      "company_name": "ПАО МФК «Займер»",
+      "education": [
+        {
+          "institution": "Московский государственный технический университет имени Н.Э. Баумана",
+          "year": 2004,
+          "qualification": "высшее образование",
+          "description": "Original education details: field: инженер. Найдено в разделе 2.4 того же официального отчета эмитента (сведения о руководителе службы управления рисками и внутреннего контроля), не в разделе 2.1 (Совет директоров), что объясняет, почему предыдущий раунд не нашёл эти данные. Квалификация «инженер» без явного указания уровня (бакалавр/специалист) — qualification_degree оставлен Unknown по аналогии с другими неоднозначными записями «инженер» в корпусе (например, UPRO/VSMO), а не выведен из года выпуска.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "qualification_degree": "Unknown"
+        }
+      ],
+      "degrees": [],
+      "professional_experience": [
+        {
+          "organization": "ПАО МФК «Займер»",
+          "role": "член Совета директоров",
+          "start_year": 2024,
+          "end_year": 2025,
+          "description": "Отчет эмитента указывает Сныткина А.В. в составе Совета директоров, избранного 27.09.2024; в новом составе, избранном 17.06.2025, Сныткин А.В. не указан.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Consumer Finance"
+        },
+        {
+          "organization": "ООО «Ай Ди Эф Лаб»",
+          "role": "главный риск-менеджер 1 категории департамента разработки и интеграции риск-моделей",
+          "start_year": 2019,
+          "end_year": 2023,
+          "description": "Период в отчете: 16.07.2019–28.12.2023. Найдено в разделе 2.4 отчета эмитента за 6 месяцев 2025 г. (сведения о руководителе службы управления рисками и внутреннего контроля). GICS-ревизия (раунд качества 2026-08-02, честный пробел закрыт): корпоративные реестры (rusprofile.ru id 11792371; companies.rbc.ru карточка ОГРН 1197746330539) единогласно указывают основной ОКВЭД 63.11.1 «Деятельность по созданию и использованию баз данных и информационных ресурсов» (доп. ОКВЭД 62.01 — разработка ПО). В отличие от Software-компаний группы Займер в этом файле (РобоФинанс/Кредчек/ФинТехРобот, у которых основной ОКВЭД — разработка ПО), у «Ай Ди Эф Лаб» основной вид деятельности — обработка данных/хостинг информационных ресурсов как услуга, что соответствует IT Services, а не Software.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "IT Services"
+        },
+        {
+          "organization": "ООО «РобоФинанс»",
+          "role": "риск-координатор отдела портфельного анализа (по совместительству)",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Период в отчете: с 13.03.2023 по настоящее время. GICS присвоен по аналогии с уже классифицированными в этом файле ролями в ООО «РобоФинанс» (Заводсков А.Д., Ляшенко П.А., Родионов С.Н.) — та же организация.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Information Technology",
+          "industry_group": "Software & Services",
+          "industry": "Software"
+        },
+        {
+          "organization": "ООО МФК «Полет Финанс»",
+          "role": "портфельный менеджер отдела управления продуктами (по совместительству)",
+          "start_year": 2023,
+          "end_year": null,
+          "description": "Период в отчете: с 02.05.2023 по настоящее время.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Consumer Finance"
+        },
+        {
+          "organization": "ООО МФК «Займер»",
+          "role": "директор службы управления рисками (по совместительству)",
+          "start_year": 2023,
+          "end_year": 2023,
+          "description": "Период в отчете: 02.10.2023–06.12.2023.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Consumer Finance"
+        },
+        {
+          "organization": "ПАО МФК «Займер»",
+          "role": "директор службы управления рисками (по совместительству)",
+          "start_year": 2023,
+          "end_year": 2025,
+          "description": "Период в отчете: 07.12.2023–07.03.2025.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Consumer Finance"
+        },
+        {
+          "organization": "ПАО МФК «Займер»",
+          "role": "заместитель директора службы управления рисками (по совместительству)",
+          "start_year": 2025,
+          "end_year": null,
+          "description": "Период в отчете: с 10.03.2025 по настоящее время. Эта запись подтверждает должность из CSV «заместитель директора по управлению рисками и внутреннему контролю», ранее считавшуюся неподтверждённой внешним источником.",
+          "sources": [
+            "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf"
+          ],
+          "sector": "Financials",
+          "industry_group": "Financial Services (New Name)",
+          "industry": "Consumer Finance"
+        }
+      ],
+      "research_experience": [],
+      "publications": [],
+      "patents": [],
+      "h_index": null,
+      "sources": [
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Официальный источник подтверждает участие Сныткина А.В. в составе Совета директоров, избранного 27.09.2024."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "В составе Совета директоров, избранного 27.09.2024, указан Сныткин А.В.; в составе, избранном 17.06.2025, он отсутствует."
+        },
+        {
+          "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+          "title": "Отчет эмитента ПАО МФК «Займер» за 6 месяцев 2025 г.",
+          "fact": "Раздел 2.4 отчета (руководитель службы управления рисками и внутреннего контроля) указывает образование Сныткина А.В.: МГТУ им. Н.Э. Баумана, год окончания 2004, квалификация инженер, а также полную хронологию должностей 2019-2025."
+        }
+      ],
+      "notes": "Идентичность подтверждена как член Совета директоров ПАО МФК «Займер» в составе, избранном 27.09.2024, и (раунд 2026-08-02) как руководитель/заместитель руководителя службы управления рисками и внутреннего контроля через раздел 2.4 того же официального отчета эмитента за 6 месяцев 2025 г. Должность из CSV «заместитель директора по управлению рисками и внутреннему контролю» теперь подтверждена этим источником (запись с 10.03.2025). В текущем составе Совета директоров (17.06.2025) вместо Сныткина указан Алексей Передерий, который также сменил его на посту директора службы управления рисками с 10.03.2025 — Сныткин при этом остался заместителем директора той же службы. GICS для «Ай Ди Эф Лаб» закрыт в раунде качества 2026-08-02 (см. professional_experience.description) — единственный honest gap файла, оставшийся после предыдущей (прерванной) попытки. Научные публикации, патенты и h-index не подтверждены надежными источниками. Роль из CSV: член Совета директоров, заместитель директора по управлению рисками и внутреннему контролю"
+    }
+  ],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input."
+    },
+    {
+      "url": "https://ir.zaymer.ru/for-investors",
+      "title": "ПАО МФК «Займер» — Инвесторам",
+      "fact": "Официальный IR-сайт указывает, что ПАО МФК «Займер» разместило акции на Московской бирже 12 апреля 2024 года, и ссылается на официальное раскрытие через e-disclosure."
+    },
+    {
+      "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+      "title": "Отчет эмитента эмиссионных ценных бумаг ПАО МФК «Займер» за 6 месяцев 2025 г.",
+      "fact": "Отчет раскрывает полное и сокращенное фирменное наименование эмитента, адрес раскрытия, состав Совета директоров, избранный 27.09.2024, и биографические сведения членов органов управления."
+    },
+    {
+      "url": "https://ir.zaymer.ru/corporate",
+      "title": "ПАО МФК «Займер» — Корпоративное управление",
+      "fact": "Официальная страница корпоративного управления раскрывает текущий состав Совета директоров и должности управленческой команды."
+    },
+    {
+      "url": "https://ir.zaymer.ru/about-us",
+      "title": "ПАО МФК «Займер» — О компании",
+      "fact": "Официальная страница о компании содержит описание команды, истории компании и профессионального бэкграунда отдельных руководителей."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ir.zaymer.ru/for-investors",
+      "title": "ПАО МФК «Займер» — Инвесторам",
+      "fact": "Официальный IR-сайт указывает, что ПАО МФК «Займер» разместило акции на Московской бирже 12 апреля 2024 года, и ссылается на официальное раскрытие через e-disclosure."
+    },
+    {
+      "url": "https://a86c67c4-67e6-418b-9b42-caca0ab7237c.selstorage.ru/OT_Ch_ET_EMITENTA_za_6_mes_2025_goda_compressed_59244de033.pdf",
+      "title": "Отчет эмитента эмиссионных ценных бумаг ПАО МФК «Займер» за 6 месяцев 2025 г.",
+      "fact": "Отчет раскрывает полное и сокращенное фирменное наименование эмитента, адрес раскрытия, состав Совета директоров, избранный 27.09.2024, и биографические сведения членов органов управления."
+    },
+    {
+      "url": "https://ir.zaymer.ru/corporate",
+      "title": "ПАО МФК «Займер» — Корпоративное управление",
+      "fact": "Официальная страница корпоративного управления раскрывает текущий состав Совета директоров и должности управленческой команды."
+    },
+    {
+      "url": "https://ir.zaymer.ru/about-us",
+      "title": "ПАО МФК «Займер» — О компании",
+      "fact": "Официальная страница о компании содержит описание команды, истории компании и профессионального бэкграунда отдельных руководителей."
+    }
+  ],
+  "validation_notes": "Original sufficiency: {\"identity\": \"Связь всех десяти персон с ПАО МФК «Займер» в 2024 году подтверждена официальным отчетом эмитента через состав Совета директоров, избранный 27.09.2024.\", \"limitations\": [\"Для Сныткина А.В. подтверждено только членство в Совете директоров; должность по управлению рисками из CSV не подтверждена внешним источником.\", \"Для ряда лиц официальные источники описывают прошлый опыт общими словами без названий организаций и годов; такие сведения не превращены в отдельные позиции professional_experience.\", \"Академические степени, исследовательский опыт, публикации, патенты и h-index не добавлены, так как надежной привязки к конкретным людям и компании не найдено.\"], \"status\": \"SUFFICIENT_WITH_LIMITATIONS\"}\n\nNormalized to T_person_info.json schema on 2026-07-14. Original people count: 10; unresolved count: 0; normalized ceo: Макаров Роман Сергеевич; normalized tmt count: 9.\n\nOriginal top-level metadata preserved as JSON: {\"company_aliases\": [\"ПАО МФК «Займер»\", \"Microfinance company «Zaymer» Public Joint Stock Company\"], \"csv_rows\": [{\"name\": \"Повалий Михаил Сергеевич\", \"position\": \"председатель Совета директоров, независимый директор\"}, {\"name\": \"Мехтиев Эльман Октай оглу\", \"position\": \"независимый директор\"}, {\"name\": \"Макаров Роман Сергеевич\", \"position\": \"член Совета директоров, генеральный директор\"}, {\"name\": \"Грязнова Оксана Николаевна\", \"position\": \"член Совета директоров, финансовый директор\"}, {\"name\": \"Заводсков Андрей Дмитриевич\", \"position\": \"член Совета директоров, заместитель генерального директора\"}, {\"name\": \"Ляшенко Павел Андреевич\", \"position\": \"член Совета директоров, генеральный директор ООО «ФинТехРобот»\"}, {\"name\": \"Борейко Александр Сергеевич\", \"position\": \"член Совета директоров, директор по связям с инвесторами\"}, {\"name\": \"Матвеева Татьяна Васильевна\", \"position\": \"лен Совета директоров, директор по правовым вопросам\"}, {\"name\": \"Родионов Станислав Николаевич\", \"position\": \"член Совета директоров, директор по информационной безопасности\"}, {\"name\": \"Сныткин Алексей Викторович\", \"position\": \"член Совета директоров, заместитель директора по управлению рисками и внутреннему контролю\"}], \"generated_at\": \"2026-06-27\", \"sufficiency\": {\"identity\": \"Связь всех десяти персон с ПАО МФК «Займер» в 2024 году подтверждена официальным отчетом эмитента через состав Совета директоров, избранный 27.09.2024.\", \"limitations\": [\"Для Сныткина А.В. подтверждено только членство в Совете директоров; должность по управлению рисками из CSV не подтверждена внешним источником.\", \"Для ряда лиц официальные источники описывают прошлый опыт общими словами без названий организаций и годов; такие сведения не превращены в отдельные позиции professional_experience.\", \"Академические степени, исследовательский опыт, публикации, патенты и h-index не добавлены, так как надежной привязки к конкретным людям и компании не найдено.\"], \"status\": \"SUFFICIENT_WITH_LIMITATIONS\"}, \"target_year\": 2024, \"ticker\": \"ZAYM\"}\n\nQUALITY PASS ROUND (2026-08-02, per research_notes/ZAYM/quality_pass_round1_20260802.md): Step-0 baseline check confirmed the on-disk file already matched git HEAD exactly (no prior regression to restore for this ticker). Fixed 5 simple qualification_degree omissions where the JSON's own already-normalized \"qualification\" field (специалитет/магистратура/бакалавриат) had a direct, source-confirmed 1:1 mapping to the required English enum that a prior refinement round left as Unknown (Повалий: Specialist degree; Мехтиев: Master's degree; Заводсков, Ляшенко, Борейко: Bachelor's degree) — confirmed against the primary issuer-report text and corpus-wide precedent. Corrected 2 GICS mislabels: Повалий's role at СПАО «Ингосстрах» (Financials/Insurance/Insurance, not Consumer Finance — it is an insurer, confirmed from the primary source's own legal-form wording \"Страховое публичное акционерное общество\"); Мехтиев's role at «Ассоциация развития финансовой грамотности» (nulled — it is a non-profit association per its own legal form, not a commercial company, analogous to the already-null НАПКА entry in this file). Normalized 5 institution-name aliases to their university_names.json canonical form (Военный университет МО РФ, МГУ имени Ломоносова x2, РАНХиГС, РГТЭУ->РЭУ им. Плеханова). Resolved the file's one flagged \"insufficient reliable source\" gap: Сныткин А.В.'s education and full 2019-2025 employment history (including the CSV-listed \"заместитель директора по управлению рисками\" role, now source-confirmed) were found in section 2.4 of the same already-cited issuer report (a section a prior round had not reached), not via a new external source. One bounded gap-research attempt for Сныткин's employer \"ООО «Ай Ди Эф Лаб»\" GICS classification came up empty (WebSearch quota exhausted this session; WebFetch attempts to audit-it.ru, ru.wikipedia.org, zachestnyibiznes.ru and rusprofile.ru all failed 404/403) and is left null, logged for a future pass. Full reasoning, rejected alternative values, and every fresh query tried are in the round file.\"\n\nQUALITY PASS ROUND 1 -- COMPLETION (2026-08-02, research_notes/ZAYM/quality_pass_round1_20260802.md): NEEDS_RETRY.md flagged ZAYM as \"Review+Redo did not complete (interrupted or errored)\" -- the round-1 file referenced above by the previous attempt had never actually been written and did not exist on disk. This session independently re-verified every claim in the round-1 text above against the JSON, all four ZAYM research_notes files, gics_taxonomy.json and university_names.json before trusting it: all 5 qualification_degree fixes, both GICS corrections (Ингосстрах/Insurance, АРФГ/null), and all 5 institution-name normalizations checked out as correct and are confirmed, not re-done. Re-audited every non-null professional_experience GICS triple in the file (28 entries) against the named organization's real business -- no further mislabels found (Zaymer entities correctly Consumer Finance, UniCredit Bank correctly Banks, Ингосстрах correctly Insurance, РобоФинанс/Кредчек/ФинТехРобот correctly Software per their own OKVED 62.01/job-title wording, НАПКА and АРФГ correctly null as non-profit associations). Completed the one remaining honest gap the interrupted attempt had left unresolved: ran 6 fresh queries (WebSearch x2 for \"Ай Ди Эф Лаб\"+ИНН/ОКВЭД and IDF Lab+ID Finance -- both blocked, session WebSearch quota exhausted at 200/200; then WebFetch of list-org.com, rusprofile.ru direct search, checko.ru, Bing, and two DuckDuckGo HTML fetches) and found the company's INN 9731041552 / OGRN 1197746330539, then confirmed via rusprofile.ru/id/11792371 and companies.rbc.ru/id/1197746330539-... (two independent registry sources, neither tried in the earlier failed attempt) that its primary OKVED is 63.11.1 \"Деятельность по созданию и использованию баз данных и информационных ресурсов\" (data processing/hosting), secondary OKVED 62.01. Classified as Information Technology/Software & Services/IT Services (not Software, to distinguish a data-processing/hosting service from the group's own software-development entities) -- this supersedes the prior round's \"left null\" outcome for this one field. No previously confirmed fact was shortened or deleted this round; only additive fixes were made. Full query list and reasoning in the round file.",
+  "sector": "Financials",
+  "industry_group": "Financial Services (New Name)",
+  "industry": "Consumer Finance"
+}

@@ -1,0 +1,237 @@
+{
+  "company_name": "ПАО \"ЛК \"Европлан\"",
+  "company_ticker": "LEAS",
+  "ceo": {
+    "name": "Мизюра Сергей Николаевич",
+    "current_role": "Генеральный директор ПАО \"ЛК \"Европлан\" (подтверждено в контексте 2024 года)",
+    "company_name": "ПАО \"ЛК \"Европлан\"",
+    "education": [
+      {
+        "institution": "Пятигорский государственный лингвистический университет",
+        "year": 2004,
+        "program_or_specialty": "Перевод и переводоведение",
+        "qualification": "Переводчик немецкого и английского языков",
+        "source": "https://www.kommersant.ru/doc/7656655",
+        "qualification_degree": "Specialist degree"
+      },
+      {
+        "institution": "Московская международная высшая школа бизнеса «МИРБИС»",
+        "year": 2008,
+        "program_or_specialty": "Стратегический менеджмент и предпринимательство",
+        "qualification": "MBA",
+        "source": "https://www.kommersant.ru/doc/7656655",
+        "qualification_degree": "MBA"
+      },
+      {
+        "institution": "American Institute of Business and Economics",
+        "year": null,
+        "program_or_specialty": "Project Management",
+        "qualification": "Курсы Project Management",
+        "source": "https://www.kommersant.ru/doc/7656655",
+        "qualification_degree": "Executive education"
+      }
+    ],
+    "degrees": [],
+    "professional_experience": [
+      {
+        "organization": "ЛК \"Европлан\"",
+        "role": "Специалист / менеджер по продажам; развивал направление лизинга грузовой и специальной техники",
+        "start_year": 2005,
+        "end_year": null,
+        "description": "Appointment-chain sources state that from 2014 he joined Europlan's Management Board and held vice-president and deputy-general-director positions; from November 2016 to June 2022 he served as Vice President responsible for sales, branch network and partner relations.",
+        "source": "https://www.kommersant.ru/doc/7656655",
+        "sector": "Financials",
+        "industry_group": "Financial Services (New Name)",
+        "industry": "Consumer Finance"
+      },
+      {
+        "organization": "ЛК \"Европлан\"",
+        "role": "Член Правления; вице-президент; заместитель генерального директора",
+        "start_year": 2014,
+        "end_year": 2022,
+        "description": "Appointment-chain sources state that from 2014 he joined Europlan's Management Board and held vice-president and deputy-general-director positions; from November 2016 to June 2022 he served as Vice President responsible for sales, branch network and partner relations.",
+        "source": "https://www.kommersant.ru/doc/5411732",
+        "sector": "Financials",
+        "industry_group": "Financial Services (New Name)",
+        "industry": "Consumer Finance"
+      },
+      {
+        "organization": "ПАО \"ЛК \"Европлан\"",
+        "role": "Генеральный директор; председатель Правления",
+        "start_year": 2022,
+        "end_year": null,
+        "description": "The 2024 local annual report states that Mizyura Sergey Nikolaevich was appointed General Director from 16.06.2022 by Board decision protocol No. 8/SD-2022 dated 15.06.2022. The local annual report and official Europlan FY2024 news confirm his General Director role in the 2024 context.",
+        "source": "MOEXBMI_Отчеты_2024/LEAS/2024.12.31 Europlan Godovoy otchet 2024.pdf",
+        "sector": "Financials",
+        "industry_group": "Financial Services (New Name)",
+        "industry": "Consumer Finance"
+      }
+    ],
+    "research_experience": [],
+    "publications": [],
+    "patents": [],
+    "h_index": null,
+    "sources": [
+      {
+        "url": "MOEXBMI_2024.csv",
+        "title": "MOEXBMI_2024.csv",
+        "fact": "Row 303 lists ticker LEAS, company ПАО \"ЛК \"Европлан\", Мизюра Сергей Николаевич as Генеральный директор; the comment says Board composition is not disclosed."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/LEAS/2024.12.31 Europlan Godovoy otchet 2024.pdf",
+        "title": "Годовой отчет ПАО \"ЛК \"Европлан\" за 2024 год",
+        "fact": "Page 7: the CEO message is signed by Сергей Мизюра as Генеральный директор."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/LEAS/2024.12.31 Europlan Godovoy otchet 2024.pdf",
+        "title": "Годовой отчет ПАО \"ЛК \"Европлан\" за 2024 год",
+        "fact": "Page 67: from 16.06.2022, under Board decision protocol No. 8/SD-2022 dated 15.06.2022, Мизюра Сергей Николаевич was appointed General Director; Management Board member names are not disclosed under Government Resolution No. 1102."
+      },
+      {
+        "url": "MOEXBMI_Отчеты_2024/LEAS/2024.12.31 Europlan Godovoy otchet 2024.pdf",
+        "title": "Годовой отчет ПАО \"ЛК \"Европлан\" за 2024 год",
+        "fact": "Page 88: the annual report is signed by С.Н. Мизюра as General Director of ПАО \"ЛК \"Европлан\"."
+      },
+      {
+        "url": "https://europlan.ru/company/news/2106",
+        "title": "Европлан опубликовал финансовые результаты за 2024 год",
+        "fact": "Official Europlan news dated 04.03.2025 quotes Сергей Мизюра as General Director of Europlan while discussing the company's 2024 financial results and identifies the share ticker as LEAS."
+      },
+      {
+        "url": "https://www.kommersant.ru/doc/7656655",
+        "title": "Коммерсантъ: Сергей Мизюра",
+        "fact": "Biography dated 13.04.2025 gives his birth date/place, 2004 PGLU translation/interpreting education, 2008 MIRBIS MBA, Project Management courses at American Institute of Business and Economics, and Europlan career from sales specialist to General Director."
+      },
+      {
+        "url": "https://www.kommersant.ru/doc/5411732",
+        "title": "Коммерсантъ: Новый гендиректор компании \"Европлан\"",
+        "fact": "Article dated 15.06.2022 says Sergey Mizyura was Europlan Vice President before becoming General Director and summarizes his Europlan career since 2005, Management Board service from 2014, and Vice President role from November 2016 to June 2022."
+      },
+      {
+        "url": "https://www.tbank.ru/invest/social/profile/SFI_Official/a83ad83e-3fc9-42df-a02a-f7b5699bea19/",
+        "title": "SFI_Official: Избран новый Совет директоров ПАО \"ЛК \"Европлан\"",
+        "fact": "Post dated 28.06.2022 lists Сергей Мизюра as General Director and Chairman of the Management Board and states that he has worked at Europlan since 2005, joined the Management Board in 2014, and was appointed General Director on 15.06.2022."
+      },
+      {
+        "url": "https://creditpower.ru/banknews/20220627/izbran-novyj-sovet-direktorov-pao-lk-evroplan/",
+        "title": "Creditpower: Избран новый Совет директоров ПАО \"ЛК \"Европлан\"",
+        "fact": "Secondary repost of Europlan/SFI board news says Mizyura has worked at Europlan since 2005, joined the Management Board in 2014, served as Vice President from November 2016 to June 2022, and was appointed General Director on 15.06.2022."
+      },
+      {
+        "url": "https://fomag.ru/news-streem/lizingovaya_kompaniya_evroplan_obyavila_o_namerenii_provesti_ipo_v_marte/",
+        "title": "Financial One: Лизинговая компания \"Европлан\" объявила о намерении провести IPO в марте",
+        "fact": "Article dated 19.03.2024 identifies Сергей Мизюра as General Director of Europlan in the IPO context."
+      },
+      {
+        "url": "https://www.kommersant.ru/doc/7640642",
+        "title": "Коммерсантъ: Сергей Мизюра, \"Европлан\": \"Мы видим для себя еще много возможностей в лизинге\"",
+        "fact": "Interview dated 13.04.2025 identifies Mizyura as Europlan General Director and discusses 2024 leasing-market results; used for professional context, not to change the 2024 role."
+      },
+      {
+        "url": "https://cbonds.com/company/521849/",
+        "title": "Cbonds: Mizyura Sergey Nikolaevich",
+        "fact": "Auxiliary profile identifies Mizyura Sergey Nikolaevich, TIN 263203713366, as General Director of PJSC Europlan Leasing Company."
+      },
+      {
+        "url": "https://www.marketscreener.com/quote/stock/LEASING-COMPANY-EUROPLAN-168008068/company/",
+        "title": "MarketScreener: Leasing Company Europlan",
+        "fact": "Auxiliary market profile lists Sergey Nikolaevich Mizyura as CEO since 2022-06-15; current board-name data from this page was not used to infer the 2024 Board because the 2024 annual report withholds names."
+      }
+    ],
+    "notes": "Identity is well confirmed by full name, company, CEO role, 2024 local annual report, official Europlan FY2024 news and 2022 appointment-chain sources. Education is supported by an accessible Kommersant biography; searches for primary e-disclosure/Rusbonds PDFs and university alumni confirmation were attempted, but the PDFs timed out and no accessible university page was found. No confirmed academic degree, research profile, publications, patents or h-index were found. Similar-name scientific profiles and unrelated Sergey results were rejected. Post-2024 sources indicate a later 2026 transition to Alfa-Bank and a new Europlan CEO; this was not used to alter the 2024 role. ROUND 2 (2026-07-19, targeted gap-fill + GICS/qualification_degree/university-name normalization pass, per REFINEMENT.md): (1) Local LEAS files re-checked programmatically (full-text scan of all 88 annual-report pages for keywords Mizyur, obrazovan, Pyatigorsk, MIRBIS) -- no new biography pages found beyond round 1 (pp. 7, 55, 56-58, 67, 88); pages 17, 42-43, 66-67, 80 additionally checked -- industry/risk context and executive-bodies section, no new education facts. (2) Targeted web research on remaining gaps: the year of the Project Management course at American Institute of Business and Economics was searched again (WebFetch on Kommersant doc/7656655 and on a VK post via DuckDuckGo HTML) -- no year is given in either source, so education[2].year stays null. Repeat attempts to open an e-disclosure PDF (FileLoad.ashx?Fileid=1768068 -- opened, but it is a 6m2022 report with no director biography) and a Rusbonds PDF (Alfa_Equity_Eng_2024_06_06.pdf -- returned empty) produced no official biography with education data; sfiholding.ru returned a TLS certificate error. A repeat targeted fetch of Kommersant doc/5411732 confirmed the same career chronology (2005 sales -> 2014 Management Board/VP/deputy CEO -> Nov 2016-June 2022 VP -> June 2022 General Director) without giving a more precise end date for the \"sales specialist/manager\" role before 2014 -- professional_experience[0].end_year is deliberately left null (rule: prefer null over an unverified guess). (3) qualification_degree assigned to all 3 education[] entries: PGLU (2004, specialty perevod i perevodovedenie, qualification perevodchik nemetskogo i angliyskogo yazykov) = Specialist degree -- perevod i perevodovedenie was a standard 5-year specialist-track program in the Russian education system before the wide Bologna-system transition (2003-2011), completed in 2004, and the qualification title perevodchik (translator) is the classic label for a specialist-era program, not a bachelor's/master's one (methodology aligned with round 2 of GAZP/DVEC); MIRBIS (2008, Strategicheskiy menedzhment i predprinimatelstvo) = MBA -- the source states the qualification verbatim as MBA; American Institute of Business and Economics (Project Management course, year not found) = Executive education -- a short targeted course at a business school, not a degree program (methodology aligned with similar \"executive courses\" entries in AQUA/HNFG). (4) Institution names normalized to university_names.json: \"Moskovskaya mezhdunarodnaya vysshaya shkola biznesa MIRBIS\" -> \"Moskovskaya mezhdunarodnaya vysshaya shkola biznesa «MIRBIS»\" (canonical key with guillemets); \"American Institute of Business and Economics, Moscow\" -> \"American Institute of Business and Economics\" (canonical key, city suffix dropped); PGLU already matched the canonical form, unchanged. No new institutions found for new_institutions_found -- all three institutions were already present in university_names.json. (5) GICS: the company and all 3 professional_experience entries (all refer to Europlan itself under different legal-name phrasings and in different roles) are classified as Financials / Financial Services (New Name) / Consumer Finance -- the Consumer Finance sub-industry definition in 2025-gics-structure-english.xlsx explicitly includes \"lease financing\", which precisely describes Europlan's core business (vehicle and special-equipment leasing). (6) tmt[] stays empty: the LEAS CSV row (row 303) was re-checked -- only one entry (Mizyura, General Director), no other individuals listed for LEAS in MOEXBMI_2024.csv. All other round-1 facts (identity, 2024 CEO role, career chronology, all sources) were not revisited or removed."
+  },
+  "tmt": [],
+  "board_sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "CSV contains predefined company people and positions used as pipeline input; for LEAS it lists only Мизюра Сергей Николаевич as General Director and notes that Board composition is not disclosed."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/LEAS/2024.12.31 Europlan Godovoy otchet 2024.pdf",
+      "title": "Годовой отчет ПАО \"ЛК \"Европлан\" за 2024 год",
+      "fact": "Page 55: the structure of governance bodies as of 31.12.2024 includes General Meeting, Board of Directors, General Director and Management Board; the Board has 9 directors including 4 independent directors."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/LEAS/2024.12.31 Europlan Godovoy otchet 2024.pdf",
+      "title": "Годовой отчет ПАО \"ЛК \"Европлан\" за 2024 год",
+      "fact": "Pages 56-58: the annual report states that part of the information, including names of elected Board members and persons comprising the Board, is not disclosed under Government Resolution No. 1102; the Board had 9 members as of 31.12.2024."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/LEAS/2024.12.31 Europlan Godovoy otchet 2024.pdf",
+      "title": "Годовой отчет ПАО \"ЛК \"Европлан\" за 2024 год",
+      "fact": "Page 67: the General Director is the sole executive body and Mizyura Sergey Nikolaevich has held this role from 16.06.2022; Management Board member names are also not disclosed under Resolution No. 1102."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/LEAS/Приложения к ГО/2024.12.31 Europlan GO Prilozhenie 2.pdf",
+      "title": "Приложение 2 к годовому отчету: отчет о соблюдении принципов и рекомендаций Кодекса корпоративного управления",
+      "fact": "Page 1: the Board of Directors confirms that the corporate-governance code report contains complete and reliable information on compliance with the Code's principles and recommendations in 2024."
+    },
+    {
+      "url": "https://www.tbank.ru/invest/social/profile/SFI_Official/a83ad83e-3fc9-42df-a02a-f7b5699bea19/",
+      "title": "SFI_Official: Избран новый Совет директоров ПАО \"ЛК \"Европлан\"",
+      "fact": "Historical 2022 source names Mizyura as General Director and Chairman of the Management Board after the new Board election; it is not used to reconstruct the undisclosed 2024 Board composition."
+    }
+  ],
+  "sources": [
+    {
+      "url": "MOEXBMI_2024.csv",
+      "title": "MOEXBMI_2024.csv",
+      "fact": "Pipeline input row for ticker LEAS: ПАО \"ЛК \"Европлан\", Мизюра Сергей Николаевич, Генеральный директор; Board composition comment says not disclosed."
+    },
+    {
+      "url": "MOEXBMI_Отчеты_2024/LEAS/2024.12.31 Europlan Godovoy otchet 2024.pdf",
+      "title": "Годовой отчет ПАО \"ЛК \"Европлан\" за 2024 год",
+      "fact": "Pages 7, 55, 56-58, 67 and 88 confirm 2024 CEO/governance context, non-disclosure of Board/Management Board names, and Mizyura's formal appointment as General Director from 16.06.2022."
+    },
+    {
+      "url": "https://europlan.ru/company/news/2106",
+      "title": "Европлан опубликовал финансовые результаты за 2024 год",
+      "fact": "Official company news identifies Sergey Mizyura as General Director in connection with 2024 financial results."
+    },
+    {
+      "url": "https://www.kommersant.ru/doc/7656655",
+      "title": "Коммерсантъ: Сергей Мизюра",
+      "fact": "Biography source for education and early/current Europlan career path."
+    },
+    {
+      "url": "https://www.kommersant.ru/doc/5411732",
+      "title": "Коммерсантъ: Новый гендиректор компании \"Европлан\"",
+      "fact": "Appointment/career-chain source for 2005 Europlan start, 2014 Management Board entry, 2016-2022 Vice President period and 2022 General Director appointment."
+    },
+    {
+      "url": "https://www.tbank.ru/invest/social/profile/SFI_Official/a83ad83e-3fc9-42df-a02a-f7b5699bea19/",
+      "title": "SFI_Official: Избран новый Совет директоров ПАО \"ЛК \"Европлан\"",
+      "fact": "Parent-holding social/investor-channel source corroborating the 2022 appointment and Europlan career sequence."
+    },
+    {
+      "url": "https://creditpower.ru/banknews/20220627/izbran-novyj-sovet-direktorov-pao-lk-evroplan/",
+      "title": "Creditpower: Избран новый Совет директоров ПАО \"ЛК \"Европлан\"",
+      "fact": "Secondary repost corroborating the 2022 board/management announcement and career sequence."
+    },
+    {
+      "url": "https://fomag.ru/news-streem/lizingovaya_kompaniya_evroplan_obyavila_o_namerenii_provesti_ipo_v_marte/",
+      "title": "Financial One: Europlan IPO intent",
+      "fact": "2024 financial-media source identifying Mizyura as Europlan General Director."
+    },
+    {
+      "url": "https://www.kommersant.ru/doc/7640642",
+      "title": "Коммерсантъ: интервью Сергея Мизюры",
+      "fact": "Professional interview source discussing Europlan and 2024 market context."
+    },
+    {
+      "url": "https://cbonds.com/company/521849/",
+      "title": "Cbonds: Mizyura Sergey Nikolaevich",
+      "fact": "Auxiliary identity source tying English name, TIN and General Director role to PJSC Europlan Leasing Company."
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/stock/LEASING-COMPANY-EUROPLAN-168008068/company/",
+      "title": "MarketScreener: Leasing Company Europlan",
+      "fact": "Auxiliary market profile corroborating CEO start date; current board details were not used for 2024 Board reconstruction."
+    }
+  ],
+  "validation_notes": "Processed 1 CSV person for LEAS. Checked 5 local PDF documents plus the CSV row before web research: the 2024 annual report, IFRS statements, annual-report appendices 1, 2 and 5. Completed 1 research round; no additional round was required because the only remaining gaps were narrow and repeated search passes produced no higher-quality accessible source. Identity and 2024 CEO role are strongly confirmed by local and official sources. Education is confirmed by an accessible Kommersant biography, while primary e-disclosure/Rusbonds PDF attempts timed out and university confirmation was not found. Board and Management Board names for 2024 remain intentionally undisclosed in the local annual report under Government Resolution No. 1102; no people absent from the CSV were added. Weak/auxiliary sources used only for corroboration or disambiguation: Cbonds, MarketScreener, Reputation.ru and OpenSanctions. Excluded namesakes included unrelated Sergey Brin, Sergey Mirov, Sergey Y. Misyura scholarly profiles and generic patent/inventor results. No confirmed academic degree, research experience, publications, patents or h-index were found. Post-2024 2026 sources indicating Mizyura's transition to Alfa-Bank were not used to change the 2024 role.\n\nROUND 2 (2026-07-19, targeted gap-fill + GICS/qualification_degree/university-name normalization pass, per REFINEMENT.md): Processed 1 person (CEO Mizyura S.N.); tmt[] is empty and stays empty -- the LEAS CSV row (row 303) was re-checked and contains no other individuals. Added: (1) sector/industry_group/industry at company level -- Financials / Financial Services (New Name) / Consumer Finance; source -- the GICS Consumer Finance sub-industry definition in 2025-gics-structure-english.xlsx (\"providers of consumer finance services, including personal credit, credit cards, lease financing...\"), which precisely covers Europlan's leasing business; reliability high. (2) The same three fields added to all 3 professional_experience entries (all refer to Europlan itself) -- same justification. (3) qualification_degree added to all 3 education[] entries: Specialist degree for PGLU 2004 (specialist-track perevod i perevodovedenie program before the Bologna-system transition, qualification perevodchik typical for that era -- inferred from context, reasoning also recorded in ceo.notes); MBA for MIRBIS 2008 (the source states the qualification verbatim as MBA -- not an inference, a direct match); Executive education for the Project Management course at American Institute of Business and Economics (a short targeted course, not a degree program -- methodology aligned with similar entries in other tickers of this project, e.g. AQUA/HNFG). degrees[] has no entries -- field stayed empty, no change needed. (4) Institution names normalized to university_names.json: MIRBIS -> \"Moskovskaya mezhdunarodnaya vysshaya shkola biznesa «MIRBIS»\" (canonical key); American Institute of Business and Economics -> canonical key without the \", Moscow\" suffix; PGLU already matched the canonical name. new_institutions_found added as an empty list -- both institutions were already present in university_names.json, no new institutions found. (5) A targeted gap-fill round was run on every field previously flagged as null/uncertain in the round-1 notes: the year of the Project Management course (re-searched -- Kommersant doc/7656655 via WebFetch, DuckDuckGo HTML/lite search on VK and other sources -- year still not stated, stays null); the exact end date of the \"sales specialist/manager\" role before joining the Management Board in 2014 (re-checked Kommersant doc/5411732 -- the transition date is not detailed beyond \"since 2014\", this entry's end_year stays null); attempts to open e-disclosure (FileLoad.ashx?Fileid=1768068 -- opened, but is a 6m2022 report with no director biography) and Rusbonds (Alfa_Equity_Eng_2024_06_06.pdf -- empty response) PDFs were repeated via WebFetch and produced no new biographical information; sfiholding.ru is unreachable due to a TLS certificate error. All local LEAS files were re-checked with a full-text keyword scan -- no new CEO-biography pages found beyond those already used in round 1. (6) Round-2 self-check: all qualification_degree values (Specialist degree, MBA, Executive education) are within the allowed list of 10 strings; the sector/industry_group/industry triple (Financials / Financial Services (New Name) / Consumer Finance) at company level and in every professional_experience entry is an exact match to a row in gics_taxonomy.json; both normalized institution values match keys in university_names.json; no previously confirmed round-1 field was deleted or overwritten. MASS DATA-LOSS REPAIR (2026-07-30): restored 1 shortened person notes, 1 shortened experience descriptions, 0 shortened education descriptions, 0 missing person-level sources, and 0 missing experience-level sources using git HEAD (commit 03bfe9f, 2026-07-20) as the reliable baseline. Nothing else in this file was touched.",
+  "sector": "Financials",
+  "industry_group": "Financial Services (New Name)",
+  "industry": "Consumer Finance"
+}

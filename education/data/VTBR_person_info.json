@@ -1,0 +1,1437 @@
+{
+    "company_name":  "Банк ВТБ (ПАО)",
+    "company_ticker":  "VTBR",
+    "ceo":  {
+                "name":  "Костин Андрей Леонидович",
+                "current_role":  "Президент – Председатель Правления Банка ВТБ (ПАО)",
+                "company_name":  "Банк ВТБ (ПАО)",
+                "education":  [
+                                  {
+                                      "institution":  "Московский государственный университет имени М.В. Ломоносова",
+                                      "year":  1979,
+                                      "qualification":  "экономист-международник",
+                                      "description":  "В 1979 году Костин с отличием окончил экономический факультет МГУ по специальности «экономист-международник».",
+                                      "sources":  [
+                                                      "https://ru.wikipedia.org/wiki/Костин,_Андрей_Леонидович"
+                                                  ],
+                                      "qualification_degree":  "Specialist degree"
+                                  }
+                              ],
+                "degrees":  [
+                                {
+                                    "degree":  "кандидат экономических наук",
+                                    "university":  "Финансовый университет при Правительстве Российской Федерации",
+                                    "year":  2001,
+                                    "sources":  [
+                                                    "https://ru.wikipedia.org/wiki/Костин,_Андрей_Леонидович"
+                                                ],
+                                    "qualification_degree":  "Doctoral degree"
+                                }
+                            ],
+                "professional_experience":  [
+                                                {
+                                                    "organization":  "Банк ВТБ (ПАО)",
+                                                    "role":  "Президент – Председатель Правления Банка ВТБ (ПАО)",
+                                                    "start_year":  2024,
+                                                    "end_year":  null,
+                                                    "description":  "Годовой отчет 2024 содержит обращение Андрея Костина как Президента – Председателя Правления; проект решения ГОСА по вопросу 8 называет А.Л. Костина Президентом – Председателем Правления.",
+                                                    "sources":  [
+                                                                    "https://www.vtb.ru/media-files/vtb.ru/sitepages/ir/information/general/20250530-godovoi-otchet-Banka-VTB-2024.pdf",
+                                                                    "https://www.vtb.ru/media-files/vtb.ru/sitepages/agm2024/agm2024-q8-1pr.pdf"
+                                                                ],
+                                                    "sector":  "Financials",
+                                                    "industry_group":  "Banks",
+                                                    "industry":  "Banks"
+                                                }
+                                            ],
+                "research_experience":  [
+
+                                        ],
+                "publications":  [
+
+                                 ],
+                "patents":  [
+
+                            ],
+                "h_index":  null,
+                "sources":  [
+                                {
+                                    "url":  "https://www.vtb.ru/media-files/vtb.ru/sitepages/ir/information/general/20250530-godovoi-otchet-Banka-VTB-2024.pdf",
+                                    "title":  "Годовой отчет Банка ВТБ (ПАО) за 2024 год",
+                                    "fact":  "Официальный годовой отчет: ГОСА 7 июня 2024 года избрало новый состав Наблюдательного совета из 11 человек; на 31.12.2024 было 10 неисполнительных директоров и 5 независимых, но персональный список в тексте отчета не раскрыт."
+                                },
+                                {
+                                    "url":  "https://www.vtb.ru/media-files/vtb.ru/sitepages/agm2024/agm2024-q8-1pr.pdf",
+                                    "title":  "ГОСА-2024 ВТБ — проект решения по вопросу 8",
+                                    "fact":  "Проект решения по консолидации акций предоставляет право подписать изменения в Устав Президенту — Председателю Правления Банка ВТБ (ПАО) А.Л. Костину."
+                                },
+                                {
+                                    "url":  "https://ru.wikipedia.org/wiki/Костин,_Андрей_Леонидович",
+                                    "title":  "Википедия — Костин, Андрей Леонидович",
+                                    "fact":  "В 1979 году Костин с отличием окончил экономический факультет МГУ по специальности «экономист-международник»; в 2001 году получил степень кандидата экономических наук в Финансовой академии при Правительстве РФ."
+                                }
+                            ],
+                "notes":  "Claim-level подтверждена роль Президента – Председателя Правления. Членство в Наблюдательном совете и статус исполнительного директора присутствуют в CSV, но персональный список Наблюдательного совета в официальных материалах ГОСА/годовом отчете не раскрыт по №1102, поэтому эти части роли не нормализованы как подтвержденные. Публикации, патенты и h-index не заполнены без отдельного источника. Quality pass 2026-08-02 (honest-gap follow-up): fresh queries beyond the exhausted round-2/3 angles (\"Костин Андрей Леонидович образование\" via direct Wikipedia fetch) found and confirmed education (МГУ, экономический факультет, 1979, «экономист-международник», с отличием) and a degree (кандидат экономических наук, Финансовая академия при Правительстве РФ, 2001); added with Wikipedia source. Роль из CSV: Член Наблюдательного совета Банка ВТБ (ПАО); исполнительный директор; Президент – Председатель Правления Банка ВТБ (ПАО)"
+            },
+    "tmt":  [
+                {
+                    "name":  "Григоренко Дмитрий Юрьевич",
+                    "current_role":  "Председатель Наблюдательного совета Банка ВТБ (ПАО)",
+                    "company_name":  "Банк ВТБ (ПАО)",
+                    "education":  [
+                                      {
+                                          "institution":  "Кубанский государственный университет",
+                                          "year":  2000,
+                                          "qualification":  "юриспруденция",
+                                          "description":  "Окончил Институт экономики, права и естественных специальностей Кубанского государственного университета по специальности «Юриспруденция».",
+                                          "sources":  [
+                                                          "https://ru.wikipedia.org/wiki/Григоренко,_Дмитрий_Юрьевич"
+                                                      ],
+                                          "qualification_degree":  "Specialist degree"
+                                      },
+                                      {
+                                          "institution":  "Кубанский институт международного предпринимательства и менеджмента",
+                                          "year":  2000,
+                                          "qualification":  "финансы и кредит",
+                                          "description":  "В 2000 году также окончил Кубанский институт международного предпринимательства и менеджмента по специальности «Финансы и кредит».",
+                                          "sources":  [
+                                                          "https://ru.wikipedia.org/wiki/Григоренко,_Дмитрий_Юрьевич"
+                                                      ],
+                                          "qualification_degree":  "Specialist degree"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Банк ВТБ (ПАО)",
+                                                        "role":  "Председатель Наблюдательного совета",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Region DK lists Д.Ю. Григоренко in the 2024 VTB Supervisory Board voting item; a VTB-management-change repost identifies Дмитрий Григоренко as chairman of the Supervisory Board.",
+                                                        "sources":  [
+                                                                        "https://www.region-dk.ru/news/87801/",
+                                                                        "https://yarreg.ru/n5yyz/"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://www.region-dk.ru/news/87801/",
+                                        "title":  "РЕГИОН Брокер — О проведении общего собрания акционеров эмитента",
+                                        "fact":  "ГОСА Банка ВТБ на 07.06.2024 included election of the Supervisory Board and listed Д.Ю. Григоренко among the named board persons."
+                                    },
+                                    {
+                                        "url":  "https://yarreg.ru/n5yyz/",
+                                        "title":  "ВТБ обновил правление перед запуском новой стратегии",
+                                        "fact":  "The article identifies Дмитрия Григоренко as chairman of the VTB Supervisory Board in the context of management changes before the 2024-2026 strategy."
+                                    },
+                                    {
+                                        "url":  "https://ru.wikipedia.org/wiki/Григоренко,_Дмитрий_Юрьевич",
+                                        "title":  "Википедия — Григоренко, Дмитрий Юрьевич",
+                                        "fact":  "В 2000 году окончил Институт экономики, права и естественных специальностей Кубанского государственного университета по специальности «Юриспруденция» и Кубанский институт международного предпринимательства и менеджмента по специальности «Финансы и кредит»."
+                                    }
+                                ],
+                    "notes":  "Chair role is supported by a secondary repost rather than an opened official VTB page. Quality pass 2026-08-02 (honest-gap follow-up): fresh query beyond exhausted round-2/3 angles (direct Wikipedia fetch) found and confirmed education -- two 2000 specialist diplomas (Юриспруденция at Кубанский государственный университет, Финансы и кредит at Кубанский институт международного предпринимательства и менеджмента); added with Wikipedia source. Роль из CSV: Председатель Наблюдательного совета Банка ВТБ (ПАО); неисполнительный директор"
+                },
+                {
+                    "name":  "Сидоренко Валерий Валерьевич",
+                    "current_role":  "Член Наблюдательного совета Банка ВТБ (ПАО)",
+                    "company_name":  "Банк ВТБ (ПАО)",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Банк ВТБ (ПАО)",
+                                                        "role":  "Член Наблюдательного совета",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Region DK lists В.В. Сидоренко in the 2024 VTB Supervisory Board voting item.",
+                                                        "sources":  [
+                                                                        "https://www.region-dk.ru/news/87801/"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://www.region-dk.ru/news/87801/",
+                                        "title":  "РЕГИОН Брокер — О проведении общего собрания акционеров эмитента",
+                                        "fact":  "ГОСА Банка ВТБ на 07.06.2024 included election of the Supervisory Board and listed В.В. Сидоренко among the named board persons."
+                                    }
+                                ],
+                    "notes":  "No reliable biography, education, degree, publication or patent facts were synthesized in round 3. Quality pass 2026-08-02 (honest-gap follow-up): fresh Wikipedia site search for \"Сидоренко Валерий Валерьевич ВТБ\" found no dedicated article or mention (only unrelated football-roster hits). Still unresolved; left null rather than guessing. Роль из CSV: Член Наблюдательного совета Банка ВТБ (ПАО); неисполнительный директор"
+                },
+                {
+                    "name":  "Решетников Максим Геннадьевич",
+                    "current_role":  "Член Наблюдательного совета Банка ВТБ (ПАО)",
+                    "company_name":  "Банк ВТБ (ПАО)",
+                    "education":  [
+                                      {
+                                          "institution":  "Пермский государственный национальный исследовательский университет",
+                                          "year":  2000,
+                                          "qualification":  "экономист-математик",
+                                          "description":  "В 2000 году окончил Пермский государственный университет по специальности «экономист-математик».",
+                                          "sources":  [
+                                                          "https://ru.wikipedia.org/wiki/Решетников,_Максим_Геннадьевич"
+                                                      ],
+                                          "qualification_degree":  "Specialist degree"
+                                      },
+                                      {
+                                          "institution":  "Пермский государственный национальный исследовательский университет",
+                                          "year":  2002,
+                                          "qualification":  "лингвист-переводчик",
+                                          "description":  "В 2002 году получил второе высшее образование в том же университете по специальности «лингвист-переводчик».",
+                                          "sources":  [
+                                                          "https://ru.wikipedia.org/wiki/Решетников,_Максим_Геннадьевич"
+                                                      ],
+                                          "qualification_degree":  "Specialist degree"
+                                      }
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "degree":  "кандидат экономических наук",
+                                        "university":  "Пермский государственный национальный исследовательский университет",
+                                        "year":  2003,
+                                        "sources":  [
+                                                        "https://ru.wikipedia.org/wiki/Решетников,_Максим_Геннадьевич"
+                                                    ],
+                                        "qualification_degree":  "Doctoral degree"
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Банк ВТБ (ПАО)",
+                                                        "role":  "Член Наблюдательного совета",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Region DK lists М.Г. Решетников in the 2024 VTB Supervisory Board voting item.",
+                                                        "sources":  [
+                                                                        "https://www.region-dk.ru/news/87801/"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://www.region-dk.ru/news/87801/",
+                                        "title":  "РЕГИОН Брокер — О проведении общего собрания акционеров эмитента",
+                                        "fact":  "ГОСА Банка ВТБ на 07.06.2024 included election of the Supervisory Board and listed М.Г. Решетников among the named board persons."
+                                    },
+                                    {
+                                        "url":  "https://ru.wikipedia.org/wiki/Решетников,_Максим_Геннадьевич",
+                                        "title":  "Википедия — Решетников, Максим Геннадьевич",
+                                        "fact":  "В 2000 году окончил Пермский государственный университет по специальности «экономист-математик», в 2002 году получил второе высшее образование по специальности «лингвист-переводчик», в 2003 году защитил диссертацию на соискание степени кандидата экономических наук."
+                                    }
+                                ],
+                    "notes":  "Official public identity as minister was not expanded into biography fields because the opened round-3 evidence focused on VTB board membership. Quality pass 2026-08-02 (honest-gap follow-up): fresh query beyond exhausted round-2/3 angles (direct Wikipedia fetch) found and confirmed education (Пермский государственный университет, 2000 экономист-математик, 2002 лингвист-переводчик) and a degree (кандидат экономических наук, 2003); added with Wikipedia source. Роль из CSV: Член Наблюдательного совета Банка ВТБ (ПАО); неисполнительный директор"
+                },
+                {
+                    "name":  "Моисеев Алексей Владимирович",
+                    "current_role":  "Член Наблюдательного совета Банка ВТБ (ПАО)",
+                    "company_name":  "Банк ВТБ (ПАО)",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Банк ВТБ (ПАО)",
+                                                        "role":  "Член Наблюдательного совета",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Region DK lists А.В. Моисеев in the 2024 VTB Supervisory Board voting item.",
+                                                        "sources":  [
+                                                                        "https://www.region-dk.ru/news/87801/"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://www.region-dk.ru/news/87801/",
+                                        "title":  "РЕГИОН Брокер — О проведении общего собрания акционеров эмитента",
+                                        "fact":  "ГОСА Банка ВТБ на 07.06.2024 included election of the Supervisory Board and listed А.В. Моисеев among the named board persons."
+                                    }
+                                ],
+                    "notes":  "Education and career fields remain empty pending opened official biography source. Quality pass 2026-08-02 (honest-gap follow-up): fresh queries tried -- direct Wikipedia article fetch at ru.wikipedia.org/wiki/Моисеев,_Алексей_Владимирович (404, no standalone article) and Wikipedia site search for \"Моисеев Алексей Владимирович Минфин\" (only a one-line mention in the Ministry of Finance article, no education detail). Still unresolved; left null rather than guessing. Роль из CSV: Член Наблюдательного совета Банка ВТБ (ПАО); неисполнительный директор"
+                },
+                {
+                    "name":  "Шадаев Максут Игоревич",
+                    "current_role":  "Член Наблюдательного совета Банка ВТБ (ПАО)",
+                    "company_name":  "Банк ВТБ (ПАО)",
+                    "education":  [
+                                      {
+                                          "institution":  "Российский государственный социальный университет",
+                                          "year":  2004,
+                                          "qualification":  "социология",
+                                          "description":  "В 2004 году окончил Московский государственный социальный университет (ныне — Российский государственный социальный университет) Министерства труда и социального развития по специальности «социология».",
+                                          "sources":  [
+                                                          "https://ru.wikipedia.org/wiki/Шадаев,_Максут_Игоревич"
+                                                      ],
+                                          "qualification_degree":  "Specialist degree"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Банк ВТБ (ПАО)",
+                                                        "role":  "Член Наблюдательного совета",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Region DK lists М.И. Шадаев in the 2024 VTB Supervisory Board voting item.",
+                                                        "sources":  [
+                                                                        "https://www.region-dk.ru/news/87801/"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://www.region-dk.ru/news/87801/",
+                                        "title":  "РЕГИОН Брокер — О проведении общего собрания акционеров эмитента",
+                                        "fact":  "ГОСА Банка ВТБ на 07.06.2024 included election of the Supervisory Board and listed М.И. Шадаев among the named board persons."
+                                    },
+                                    {
+                                        "url":  "https://ru.wikipedia.org/wiki/Шадаев,_Максут_Игоревич",
+                                        "title":  "Википедия — Шадаев, Максут Игоревич",
+                                        "fact":  "В 2004 году окончил Московский государственный социальный университет (ныне — Российский государственный социальный университет) Министерства труда и социального развития по специальности «социология»."
+                                    }
+                                ],
+                    "notes":  "Quality pass 2026-08-02 (honest-gap follow-up): fresh query beyond exhausted round-2/3 angles (direct Wikipedia fetch) found and confirmed education (Российский государственный социальный университет, 2004, «социология»); added with Wikipedia source. Роль из CSV: Член Наблюдательного совета Банка ВТБ (ПАО); неисполнительный директор"
+                },
+                {
+                    "name":  "Репин Игорь Николаевич",
+                    "current_role":  "Независимый член Наблюдательного совета Банка ВТБ (ПАО)",
+                    "company_name":  "Банк ВТБ (ПАО)",
+                    "education":  [
+                                      {
+                                          "institution":  "Harvard Business School",
+                                          "year":  null,
+                                          "qualification":  "MBA",
+                                          "description":  null,
+                                          "sources":  [
+                                                          "https://www.vtb.ru/ir/information/board/members/repin/"
+                                                      ],
+                                          "qualification_degree":  "MBA"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Банк ВТБ (ПАО)",
+                                                        "role":  "Независимый член Наблюдательного совета",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Region DK confirms 2024 board context; official VTB profile identifies Igor Repin as an independent Supervisory Board member.",
+                                                        "sources":  [
+                                                                        "https://www.region-dk.ru/news/87801/",
+                                                                        "https://www.vtb.ru/ir/information/board/members/repin/"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://www.region-dk.ru/news/87801/",
+                                        "title":  "РЕГИОН Брокер — О проведении общего собрания акционеров эмитента",
+                                        "fact":  "ГОСА Банка ВТБ на 07.06.2024 included election of the Supervisory Board and listed И.Н. Репин among the named board persons."
+                                    },
+                                    {
+                                        "url":  "https://www.vtb.ru/ir/information/board/members/repin/",
+                                        "title":  "Банк ВТБ — Игорь Репин",
+                                        "fact":  "Official VTB profile identifies Igor Repin as an independent member of the Supervisory Board and states an MBA from Harvard Business School."
+                                    },
+                                    {
+                                        "url":  "https://www.vtb.ru/ir/information/board/members/repin/",
+                                        "title":  "Банк ВТБ — Игорь Репин",
+                                        "fact":  "Official VTB profile states that Igor Repin has an MBA from Harvard Business School."
+                                    },
+                                    {
+                                        "url":  "https://www.vtb.ru/ir/information/board/members/repin/",
+                                        "title":  "Банк ВТБ — Игорь Репин",
+                                        "fact":  "Official VTB profile identifies Igor Repin as an independent member of the Supervisory Board."
+                                    }
+                                ],
+                    "notes":  "No publications, patents or h-index were added. Роль из CSV: Член Наблюдательного совета Банка ВТБ (ПАО); независимый директор"
+                },
+                {
+                    "name":  "Гаврилов Сергей Анатольевич",
+                    "current_role":  "Независимый член Наблюдательного совета Банка ВТБ (ПАО)",
+                    "company_name":  "Банк ВТБ (ПАО)",
+                    "education":  [
+                                      {
+                                          "institution":  "University of California, Berkeley",
+                                          "year":  null,
+                                          "qualification":  "MBA",
+                                          "description":  null,
+                                          "sources":  [
+                                                          "https://www.vtb.ru/ir/information/board/members/gavrilov/"
+                                                      ],
+                                          "qualification_degree":  "MBA"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Банк ВТБ (ПАО)",
+                                                        "role":  "Независимый член Наблюдательного совета",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Region DK confirms 2024 board context; official VTB profile identifies Sergey Gavrilov as an independent Supervisory Board member.",
+                                                        "sources":  [
+                                                                        "https://www.region-dk.ru/news/87801/",
+                                                                        "https://www.vtb.ru/ir/information/board/members/gavrilov/"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://www.region-dk.ru/news/87801/",
+                                        "title":  "РЕГИОН Брокер — О проведении общего собрания акционеров эмитента",
+                                        "fact":  "ГОСА Банка ВТБ на 07.06.2024 included election of the Supervisory Board and listed С.А. Гаврилов among the named board persons."
+                                    },
+                                    {
+                                        "url":  "https://www.vtb.ru/ir/information/board/members/gavrilov/",
+                                        "title":  "Банк ВТБ — Сергей Гаврилов",
+                                        "fact":  "Official VTB profile identifies Sergey Gavrilov as an independent member of the Supervisory Board and states an MBA from UC Berkeley."
+                                    },
+                                    {
+                                        "url":  "https://www.vtb.ru/ir/information/board/members/gavrilov/",
+                                        "title":  "Банк ВТБ — Сергей Гаврилов",
+                                        "fact":  "Official VTB profile states that Sergey Gavrilov has an MBA from the University of California at Berkeley."
+                                    },
+                                    {
+                                        "url":  "https://www.vtb.ru/ir/information/board/members/gavrilov/",
+                                        "title":  "Банк ВТБ — Сергей Гаврилов",
+                                        "fact":  "Official VTB profile identifies Sergey Gavrilov as an independent member of the Supervisory Board."
+                                    }
+                                ],
+                    "notes":  "No publications, patents or h-index were added. Роль из CSV: Член Наблюдательного совета Банка ВТБ (ПАО); независимый директор"
+                },
+                {
+                    "name":  "Каганов Вениамин Шаевич",
+                    "current_role":  "Член Наблюдательного совета Банка ВТБ (ПАО)",
+                    "company_name":  "Банк ВТБ (ПАО)",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "degree":  "доктор экономических наук",
+                                        "university":  null,
+                                        "year":  null,
+                                        "sources":  [
+                                                        "https://psyjournals.ru/authors/31751"
+                                                    ],
+                                        "qualification_degree":  "Doctoral degree"
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Банк ВТБ (ПАО)",
+                                                        "role":  "Член Наблюдательного совета",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Region DK lists В.Ш. Каганов in the 2024 VTB Supervisory Board voting item.",
+                                                        "sources":  [
+                                                                        "https://www.region-dk.ru/news/87801/"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://www.region-dk.ru/news/87801/",
+                                        "title":  "РЕГИОН Брокер — О проведении общего собрания акционеров эмитента",
+                                        "fact":  "ГОСА Банка ВТБ на 07.06.2024 included election of the Supervisory Board and listed В.Ш. Каганов among the named board persons."
+                                    },
+                                    {
+                                        "url":  "https://psyjournals.ru/authors/31751",
+                                        "title":  "PsyJournals.ru — Каганов Вениамин Шаевич",
+                                        "fact":  "Professional profile identifies Veniamin Kaganov as Doctor of Economics and professor."
+                                    }
+                                ],
+                    "notes":  "Independent-director status from CSV was not independently confirmed in round 3. Quality pass 2026-08-02: qualification_degree on the доктор экономических наук degree filled as Doctoral degree, matching the doctor/candidate-of-sciences convention used for this exact degree text elsewhere in the corpus. Роль из CSV: Член Наблюдательного совета Банка ВТБ (ПАО); независимый директор"
+                },
+                {
+                    "name":  "Прокофьев Станислав Евгеньевич",
+                    "current_role":  "Член Наблюдательного совета Банка ВТБ (ПАО)",
+                    "company_name":  "Банк ВТБ (ПАО)",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+                                    {
+                                        "degree":  "доктор экономических наук",
+                                        "university":  "Финансовый университет при Правительстве Российской Федерации",
+                                        "year":  null,
+                                        "sources":  [
+                                                        "https://www.fa.ru/university/employee/prokofev-stanislav-evgenevich"
+                                                    ],
+                                        "qualification_degree":  "Doctoral degree"
+                                    }
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Банк ВТБ (ПАО)",
+                                                        "role":  "Член Наблюдательного совета",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Region DK lists С.Е. Прокофьев in the 2024 VTB Supervisory Board voting item.",
+                                                        "sources":  [
+                                                                        "https://www.region-dk.ru/news/87801/"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    },
+                                                    {
+                                                        "organization":  "Финансовый университет при Правительстве Российской Федерации",
+                                                        "role":  "ректор",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Official university profile identifies Stanislav Prokofev as rector.",
+                                                        "sources":  [
+                                                                        "https://www.fa.ru/university/employee/prokofev-stanislav-evgenevich"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+                                                {
+                                                    "organization":  "Финансовый университет при Правительстве Российской Федерации",
+                                                    "role":  "профессор / доктор экономических наук",
+                                                    "start_year":  null,
+                                                    "end_year":  null,
+                                                    "description":  "Official university profile includes academic degree, professor title and bibliometric/publication metadata.",
+                                                    "sources":  [
+                                                                    "https://www.fa.ru/university/employee/prokofev-stanislav-evgenevich"
+                                                                ]
+                                                }
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://www.region-dk.ru/news/87801/",
+                                        "title":  "РЕГИОН Брокер — О проведении общего собрания акционеров эмитента",
+                                        "fact":  "ГОСА Банка ВТБ на 07.06.2024 included election of the Supervisory Board and listed С.Е. Прокофьев among the named board persons."
+                                    },
+                                    {
+                                        "url":  "https://www.fa.ru/university/employee/prokofev-stanislav-evgenevich",
+                                        "title":  "Финансовый университет — Прокофьев Станислав Евгеньевич",
+                                        "fact":  "Official university profile identifies Stanislav Prokofev as rector, Doctor of Economics and professor."
+                                    },
+                                    {
+                                        "url":  "https://www.fa.ru/university/employee/prokofev-stanislav-evgenevich",
+                                        "title":  "Финансовый университет — Прокофьев Станислав Евгеньевич",
+                                        "fact":  "Official university profile identifies Stanislav Prokofev as Doctor of Economics and professor."
+                                    },
+                                    {
+                                        "url":  "https://www.fa.ru/university/employee/prokofev-stanislav-evgenevich",
+                                        "title":  "Финансовый университет — Прокофьев Станислав Евгеньевич",
+                                        "fact":  "Official university profile identifies Stanislav Prokofev as rector."
+                                    },
+                                    {
+                                        "url":  "https://www.fa.ru/university/employee/prokofev-stanislav-evgenevich",
+                                        "title":  "Финансовый университет — Прокофьев Станислав Евгеньевич",
+                                        "fact":  "Official university profile includes Doctor of Economics, professor and publication/citation metadata."
+                                    }
+                                ],
+                    "notes":  "Independent-director status from CSV was not independently confirmed in round 3. Publication list not expanded into individual records. Quality pass 2026-08-02: GICS on the Финансовый университет rector role corrected from Financials/Banks/Banks to null/null/null -- a state university has no matching commercial GICS row in gics_taxonomy.json and is non-classifiable like a government body, not a bank. qualification_degree on the доктор экономических наук degree filled as Doctoral degree, matching the doctor/candidate-of-sciences convention used for the same degree text elsewhere in the corpus (e.g. this exact person's entry in AFLT_person_info.json). Роль из CSV: Член Наблюдательного совета Банка ВТБ (ПАО); независимый директор"
+                },
+                {
+                    "name":  "Осеевский Михаил Эдуардович",
+                    "current_role":  "Член Наблюдательного совета Банка ВТБ (ПАО)",
+                    "company_name":  "Банк ВТБ (ПАО)",
+                    "education":  [
+                                      {
+                                          "institution":  "Санкт-Петербургский политехнический университет Петра Великого",
+                                          "year":  1983,
+                                          "qualification":  "инженерная электрофизика",
+                                          "description":  "В 1983 году окончил Ленинградский политехнический институт им. М. И. Калинина по специальности «инженерная электрофизика».",
+                                          "sources":  [
+                                                          "https://ru.wikipedia.org/wiki/Осеевский,_Михаил_Эдуардович"
+                                                      ],
+                                          "qualification_degree":  "Specialist degree"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Банк ВТБ (ПАО)",
+                                                        "role":  "Член Наблюдательного совета",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Region DK lists М.Э. Осеевский in the 2024 VTB Supervisory Board voting item.",
+                                                        "sources":  [
+                                                                        "https://www.region-dk.ru/news/87801/"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://www.region-dk.ru/news/87801/",
+                                        "title":  "РЕГИОН Брокер — О проведении общего собрания акционеров эмитента",
+                                        "fact":  "ГОСА Банка ВТБ на 07.06.2024 included election of the Supervisory Board and listed М.Э. Осеевский among the named board persons."
+                                    },
+                                    {
+                                        "url":  "https://ru.wikipedia.org/wiki/Осеевский,_Михаил_Эдуардович",
+                                        "title":  "Википедия — Осеевский, Михаил Эдуардович",
+                                        "fact":  "В 1983 году окончил Ленинградский политехнический институт им. М. И. Калинина по специальности «инженерная электрофизика»."
+                                    }
+                                ],
+                    "notes":  "Independent-director status from CSV was not independently confirmed in round 3. Quality pass 2026-08-02 (honest-gap follow-up): fresh query beyond exhausted round-2/3 angles (direct Wikipedia fetch) found and confirmed education (Ленинградский политехнический институт им. М.И. Калинина, 1983, «инженерная электрофизика»); added with Wikipedia source. Роль из CSV: Член Наблюдательного совета Банка ВТБ (ПАО); независимый директор"
+                },
+                {
+                    "name":  "Пьянов Дмитрий Васильевич",
+                    "current_role":  "Первый заместитель Президента – Председателя Правления Банка ВТБ (ПАО)",
+                    "company_name":  "Банк ВТБ (ПАО)",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Банк ВТБ (ПАО)",
+                                                        "role":  "Первый заместитель Президента – Председателя Правления Банка ВТБ (ПАО)",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Годовой отчет 2024 упоминает подкаст «Диалог с ВТБ» с участием Первого заместителя Президента – Председателя Правления Дмитрия Пьянова.",
+                                                        "sources":  [
+                                                                        "https://www.vtb.ru/media-files/vtb.ru/sitepages/ir/information/general/20250530-godovoi-otchet-Banka-VTB-2024.pdf"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://www.vtb.ru/media-files/vtb.ru/sitepages/ir/information/general/20250530-godovoi-otchet-Banka-VTB-2024.pdf",
+                                        "title":  "Годовой отчет Банка ВТБ (ПАО) за 2024 год",
+                                        "fact":  "Официальный годовой отчет: ГОСА 7 июня 2024 года избрало новый состав Наблюдательного совета из 11 человек; на 31.12.2024 было 10 неисполнительных директоров и 5 независимых, но персональный список в тексте отчета не раскрыт."
+                                    }
+                                ],
+                    "notes":  "Claim-level подтверждена роль Первого заместителя Президента – Председателя Правления. Детализация функций из CSV, образование, степени, публикации, патенты и h-index не заполнены без отдельного источника. Quality pass 2026-08-02 (honest-gap follow-up): fresh queries tried -- direct Wikipedia article fetch at ru.wikipedia.org/wiki/Пьянов,_Дмитрий_Васильевич (404, no standalone article). This session's WebSearch quota was also exhausted, limiting further fresh-query attempts this round. Still unresolved; left null rather than guessing. Роль из CSV: Первый заместитель Президента – Председателя Правления Банка ВТБ (ПАО); куратор финансовой и административно-хозяйственной функций и интеграции финансовых активов"
+                },
+                {
+                    "name":  "Бортников Денис Александрович",
+                    "current_role":  "Заместитель Президента – Председателя Правления Банка ВТБ (ПАО); руководитель блока среднего и малого бизнеса",
+                    "company_name":  "Банк ВТБ (ПАО)",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Банк ВТБ (ПАО)",
+                                                        "role":  "Заместитель Президента – Председателя Правления; руководитель блока среднего и малого бизнеса",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Official VTB strategy page for 2024-2026 names Denis Bortnikov in this role.",
+                                                        "sources":  [
+                                                                        "https://www.vtb.ru/about/bank/strategy/"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://www.vtb.ru/about/bank/strategy/",
+                                        "title":  "Банк ВТБ — Стратегия развития ВТБ на 2024-2026 годы",
+                                        "fact":  "Official VTB strategy page names Denis Bortnikov as Deputy President and Chairman of the Management Board and Head of SME Banking."
+                                    }
+                                ],
+                    "notes":  "Education, previous roles, publications, patents and h-index were not added without opened claim-level sources. Quality pass 2026-08-02 (honest-gap follow-up): fresh queries tried -- direct Wikipedia article fetch at ru.wikipedia.org/wiki/Бортников,_Денис_Александрович (404, no standalone article) and Wikipedia site search for \"Бортников Денис Александрович ВТБ\" (only a passing mention as the son of FSB director A.V. Bortnikov in an unrelated article; no VTB-role education content). Still unresolved; left null rather than guessing. Роль из CSV: Заместитель Президента – Председателя Правления Банка ВТБ (ПАО); руководитель блока «Средний и малый бизнес»"
+                },
+                {
+                    "name":  "Дергунова Ольга Константиновна",
+                    "current_role":  "Заместитель Президента – Председателя Правления Банка ВТБ (ПАО)",
+                    "company_name":  "Банк ВТБ (ПАО)",
+                    "education":  [
+                                      {
+                                          "institution":  "Российский экономический университет имени Г.В. Плеханова",
+                                          "year":  1987,
+                                          "qualification":  null,
+                                          "description":  "Original education details: field: кибернетика.",
+                                          "sources":  [
+                                                          "https://www.rea.ru/news/45359-izvestnyie-vyipuskniki-reu-olga-dergunova--zamestitel-prezidenta--predsedatelya-pravleniya-banka-vtb-"
+                                                      ],
+                                          "qualification_degree":  "Unknown"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Банк ВТБ (ПАО)",
+                                                        "role":  "Заместитель Президента – Председателя Правления",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Official Plekhanov University alumni profile identifies Olga Dergunova as Deputy President and Chairman of the VTB Management Board.",
+                                                        "sources":  [
+                                                                        "https://www.rea.ru/news/45359-izvestnyie-vyipuskniki-reu-olga-dergunova--zamestitel-prezidenta--predsedatelya-pravleniya-banka-vtb-"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://www.rea.ru/news/45359-izvestnyie-vyipuskniki-reu-olga-dergunova--zamestitel-prezidenta--predsedatelya-pravleniya-banka-vtb-",
+                                        "title":  "РЭУ им. Г.В. Плеханова — Известные выпускники РЭУ: Ольга Дергунова...",
+                                        "fact":  "Official university source confirms VTB role and 1987 Plekhanov education in cybernetics."
+                                    },
+                                    {
+                                        "url":  "https://www.rea.ru/news/45359-izvestnyie-vyipuskniki-reu-olga-dergunova--zamestitel-prezidenta--predsedatelya-pravleniya-banka-vtb-",
+                                        "title":  "РЭУ им. Г.В. Плеханова — Известные выпускники РЭУ: Ольга Дергунова...",
+                                        "fact":  "Official university source says Olga Dergunova graduated in 1987 from Plekhanov Institute of National Economy with a degree in cybernetics."
+                                    },
+                                    {
+                                        "url":  "https://www.rea.ru/news/45359-izvestnyie-vyipuskniki-reu-olga-dergunova--zamestitel-prezidenta--predsedatelya-pravleniya-banka-vtb-",
+                                        "title":  "РЭУ им. Г.В. Плеханова — Известные выпускники РЭУ: Ольга Дергунова...",
+                                        "fact":  "Official university profile identifies Olga Dergunova as Deputy President and Chairman of the VTB Management Board."
+                                    }
+                                ],
+                    "notes":  "Previous career is summarized in notes but not split into periodized positions because round-3 synthesis focused on claim-level role and education. Роль из CSV: Заместитель Президента – Председателя Правления Банка ВТБ (ПАО)"
+                },
+                {
+                    "name":  "Кулик Вадим Валерьевич",
+                    "current_role":  "Заместитель Президента – Председателя Правления Банка ВТБ (ПАО); руководитель технологического блока",
+                    "company_name":  "Банк ВТБ (ПАО)",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Банк ВТБ (ПАО)",
+                                                        "role":  "Заместитель Президента – Председателя Правления; руководитель технологического блока",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Official VTB strategy page for 2024-2026 names Vadim Kulik in this role.",
+                                                        "sources":  [
+                                                                        "https://www.vtb.ru/about/bank/strategy/"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://www.vtb.ru/about/bank/strategy/",
+                                        "title":  "Банк ВТБ — Стратегия развития ВТБ на 2024-2026 годы",
+                                        "fact":  "Official VTB strategy page names Vadim Kulik as Deputy President and Chairman of the Management Board and Head of Technology."
+                                    }
+                                ],
+                    "notes":  "Education, previous roles, publications, patents and h-index were not added without opened claim-level sources. Quality pass 2026-08-02 (honest-gap follow-up): fresh queries tried -- direct Wikipedia article fetch at ru.wikipedia.org/wiki/Кулик,_Вадим_Валерьевич (404, no standalone article) and Wikipedia site search for \"Кулик Вадим Валерьевич ВТБ\" (only a one-line membership mention in the Association of Big Data article; no education content). Still unresolved; left null rather than guessing. Роль из CSV: Заместитель Президента – Председателя Правления Банка ВТБ (ПАО); руководитель технологического блока"
+                },
+                {
+                    "name":  "Лукьяненко Валерий Васильевич",
+                    "current_role":  "Заместитель Президента – Председателя Правления Банка ВТБ (ПАО)",
+                    "company_name":  "Банк ВТБ (ПАО)",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Банк ВТБ (ПАО)",
+                                                        "role":  "Заместитель Президента – Председателя Правления",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "A June 2024 RG/RIA item quoting VTB identifies Valery Lukyanenko as Deputy President and Chairman of the VTB Management Board.",
+                                                        "sources":  [
+                                                                        "https://rg.ru/2024/06/05/vtb-kolichestvo-vneshnetorgovyh-operacij-v-iuaniah-vyroslo-v-chetyre-raza.html"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://rg.ru/2024/06/05/vtb-kolichestvo-vneshnetorgovyh-operacij-v-iuaniah-vyroslo-v-chetyre-raza.html",
+                                        "title":  "Российская газета / РИА Новости — ВТБ: количество внешнеторговых операций в юанях выросло в четыре раза",
+                                        "fact":  "The article identifies Valery Lukyanenko as Deputy President and Chairman of the VTB Management Board in June 2024."
+                                    }
+                                ],
+                    "notes":  "Source does not include patronymic; identity is inferred from unique role/name/company context and CSV anchor. Quality pass 2026-08-02 (honest-gap follow-up): Wikipedia site search for \"Лукьяненко Валерий Васильевич ВТБ\" surfaced a summarized mention of \"Лукьяненко, Валерий Васильевич — член правления Банка ВТБ (публичного акционерного общества), город Санкт-Петербург\" tied to a 2016 state-award list, which would independently support the full name/patronymic if confirmed. However, a direct fetch of the guessed award-list article URL returned 404, so the exact article could not be opened and quoted verbatim this round -- per this pass's no-fabricated-quote rule, this lead is logged but NOT used to upgrade the inferred-identity caveat. Still unresolved; a future pass should locate the exact award-list article title before citing it. Роль из CSV: Заместитель Президента – Председателя Правления Банка ВТБ (ПАО); член Правления"
+                },
+                {
+                    "name":  "Сергейчук Виталий Юрьевич",
+                    "current_role":  "Член Правления Банка ВТБ (ПАО); руководитель блока корпоративно-инвестиционного бизнеса",
+                    "company_name":  "Банк ВТБ (ПАО)",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Банк ВТБ (ПАО)",
+                                                        "role":  "Член Правления; руководитель блока корпоративно-инвестиционного бизнеса",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Official VTB strategy page for 2024-2026 names Vitaly Sergeychuk in this role.",
+                                                        "sources":  [
+                                                                        "https://www.vtb.ru/about/bank/strategy/"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://www.vtb.ru/about/bank/strategy/",
+                                        "title":  "Банк ВТБ — Стратегия развития ВТБ на 2024-2026 годы",
+                                        "fact":  "Official VTB strategy page names Vitaly Sergeychuk as Management Board member and Head of Corporate and Investment Banking."
+                                    }
+                                ],
+                    "notes":  "Education, previous roles, publications, patents and h-index were not added without opened claim-level sources. Quality pass 2026-08-02 (honest-gap follow-up): fresh Wikipedia site search for \"Сергейчук Виталий Юрьевич ВТБ\" found no article or mention. Still unresolved; left null rather than guessing. Роль из CSV: Член Правления Банка ВТБ (ПАО); руководитель блока «Корпоративно-инвестиционный бизнес»"
+                },
+                {
+                    "name":  "Кондратенко Максим Дмитриевич",
+                    "current_role":  null,
+                    "company_name":  "Банк ВТБ (ПАО)",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://yarreg.ru/n5yyz/",
+                                        "title":  "ВТБ обновил правление перед запуском новой стратегии",
+                                        "fact":  "Article about VTB management changes before the 2024-2026 strategy names Maxim Kondratenko among role decisions."
+                                    }
+                                ],
+                    "notes":  "Partial round-3 evidence merged from output/VTBR_unresolved_round_3.json. Yarreg/VTB-management-change article names Maxim Kondratenko among management-board role decisions and matches the public CRO role, but no opened official 2024 VTB source confirmed full-name Management Board/CRO status in this round. Quality pass 2026-08-02 (honest-gap follow-up): fresh Wikipedia site search for \"Кондратенко Максим Дмитриевич ВТБ риск\" found no article or mention; this session's WebSearch quota was also exhausted, limiting further attempts. Still unresolved; left null rather than guessing. Роль из CSV: Член Правления Банка ВТБ (ПАО); главный риск-менеджер (CRO) Группы ВТБ"
+                },
+                {
+                    "name":  "Диркс Наталья Германовна",
+                    "current_role":  null,
+                    "company_name":  "Банк ВТБ (ПАО)",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://yarreg.ru/n5yyz/",
+                                        "title":  "ВТБ обновил правление перед запуском новой стратегии",
+                                        "fact":  "Article about VTB management changes before the 2024-2026 strategy names Natalia Dirks among role decisions."
+                                    }
+                                ],
+                    "notes":  "Partial round-3 evidence merged from output/VTBR_unresolved_round_3.json. Yarreg/VTB-management-change article names Natalia Dirks among management-board role decisions, but no opened official 2024 VTB source confirmed full-name Management Board status in this round. Quality pass 2026-08-02 (honest-gap follow-up): fresh Wikipedia site search for \"Диркс Наталья Германовна ВТБ\" found no article or mention. Still unresolved; left null rather than guessing. Роль из CSV: Член Правления Банка ВТБ (ПАО); руководитель Департамента операционной поддержки бизнеса – старший вице-президент"
+                },
+                {
+                    "name":  "Норов Эркин Рахматович",
+                    "current_role":  null,
+                    "company_name":  "Банк ВТБ (ПАО)",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://yarreg.ru/n5yyz/",
+                                        "title":  "ВТБ обновил правление перед запуском новой стратегии",
+                                        "fact":  "Article about VTB management changes before the 2024-2026 strategy names Erkin Norov among role decisions."
+                                    }
+                                ],
+                    "notes":  "Partial round-3 evidence merged from output/VTBR_unresolved_round_3.json. Yarreg/VTB-management-change article names Erkin Norov among management-board role decisions, but no opened official 2024 VTB source confirmed full-name Management Board status in this round. Quality pass 2026-08-02 (honest-gap follow-up): fresh Wikipedia site search for \"Норов Эркин Рахматович ВТБ\" found no article or mention. Still unresolved; left null rather than guessing. Роль из CSV: Член Правления Банка ВТБ (ПАО)"
+                },
+                {
+                    "name":  "Андресов Юрий Николаевич",
+                    "current_role":  "Заместитель Президента – Председателя Правления Банка «Открытие»",
+                    "company_name":  "Банк ВТБ (ПАО)",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Банк «Открытие»",
+                                                        "role":  "Заместитель Президента – Председателя Правления",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "A 2024 RIA source identifies Yuriy Andresov as Deputy President and Chairman of the Management Board of Otkritie Bank.",
+                                                        "sources":  [
+                                                                        "https://ria.ru/20241025/vtb-1979946249.html"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://ria.ru/20241025/vtb-1979946249.html",
+                                        "title":  "РИА Новости — ВТБ прогнозирует дальнейшее охлаждение рынка ипотеки",
+                                        "fact":  "The article identifies Yuriy Andresov as Deputy President and Chairman of the Management Board of Otkritie Bank in 2024."
+                                    }
+                                ],
+                    "notes":  "This confirms the Otkritie part of the CSV anchor. VTB Management Board membership and offline-channel curator role still require a stronger 2024 source. Quality pass 2026-08-02 (honest-gap follow-up): fresh Wikipedia site search for \"Андресов Юрий Николаевич ВТБ\" found no article or mention (only an unrelated same-patronymic namesake). Still unresolved; left null rather than guessing. Роль из CSV: Член Правления Банка ВТБ (ПАО); куратор офлайн-каналов розничных продаж; заместитель Президента – Председателя Правления Банка «Открытие» в 2024 году"
+                },
+                {
+                    "name":  "Лозовой Алексей",
+                    "current_role":  null,
+                    "company_name":  "Банк ВТБ (ПАО)",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://yarreg.ru/n5yyz/",
+                                        "title":  "ВТБ обновил правление перед запуском новой стратегии",
+                                        "fact":  "Article about VTB management changes before the 2024-2026 strategy mentions Alexey Lozovoy and VTB legal-department context."
+                                    }
+                                ],
+                    "notes":  "Partial round-3 evidence merged from output/VTBR_unresolved_round_3.json. Yarreg/VTB-management-change article mentions Alexey Lozovoy and the legal-department role, but CSV lacks patronymic and no opened official full-name source was found in this round. Quality pass 2026-08-02 (honest-gap follow-up): fresh Wikipedia site search for \"Лозовой Алексей ВТБ юридический\" found no article or mention. Still unresolved; left null rather than guessing. Роль из CSV: Член Правления Банка ВТБ (ПАО); до избрания в Правление — руководитель юридического департамента"
+                },
+                {
+                    "name":  "Левыкин Владимир Дмитриевич",
+                    "current_role":  null,
+                    "company_name":  "Банк ВТБ (ПАО)",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://yarreg.ru/n5yyz/",
+                                        "title":  "ВТБ обновил правление перед запуском новой стратегии",
+                                        "fact":  "Article about VTB management changes before the 2024-2026 strategy mentions Vladimir Levykin and strategy/corporate-development context."
+                                    }
+                                ],
+                    "notes":  "Partial round-3 evidence merged from output/VTBR_unresolved_round_3.json. Yarreg/VTB-management-change article mentions Vladimir Levykin as Head of Strategy and Corporate Development Department, but no opened official 2024 source confirmed both full name and VTB Management Board membership. Quality pass 2026-08-02 (honest-gap follow-up): fresh Wikipedia site search for \"Левыкин Владимир Дмитриевич ВТБ\" found no article or mention (only an unrelated similarly-named namesake). Still unresolved; left null rather than guessing. Роль из CSV: Член Правления Банка ВТБ (ПАО); руководитель Департамента стратегии и корпоративного развития"
+                },
+                {
+                    "name":  "Еременко Руслан Юрьевич",
+                    "current_role":  "Член Правления Банка ВТБ (ПАО)",
+                    "company_name":  "Банк ВТБ (ПАО)",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "Банк ВТБ (ПАО)",
+                                                        "role":  "Член Правления; старший вице-президент",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Interfax reports that the VTB Supervisory Board elected Senior Vice President Ruslan Eremenko as a Management Board member in March 2024.",
+                                                        "sources":  [
+                                                                        "https://www.interfax.ru/business/949975"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Banks",
+                                                        "industry":  "Banks"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://www.interfax.ru/business/949975",
+                                        "title":  "Интерфакс — ВТБ ввел в правление главу департамента регионального корпоративного бизнеса",
+                                        "fact":  "The article says the VTB Supervisory Board elected Ruslan Eremenko as a Management Board member after Bank of Russia approval, and that he was a VTB department head / senior vice president from September 2017."
+                                    }
+                                ],
+                    "notes":  "Major financial-news source citing VTB press service; official VTB/e-disclosure appointment source still recommended. Quality pass 2026-08-02 (honest-gap follow-up): a repeat attempt to open www.e-disclosure.ru governing-body pages for VTB returned HTTP 403 (as in prior rounds); this session's WebSearch quota was also exhausted. Interfax remains the strongest available source; still unresolved for an official/e-disclosure upgrade. Роль из CSV: Член Правления Банка ВТБ (ПАО) с марта 2024 года; руководитель Департамента регионального корпоративного бизнеса – старший вице-президент"
+                },
+                {
+                    "name":  "Горшков Георгий Георгиевич",
+                    "current_role":  null,
+                    "company_name":  "Банк ВТБ (ПАО)",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://yarreg.ru/n5yyz/",
+                                        "title":  "ВТБ обновил правление перед запуском новой стратегии",
+                                        "fact":  "Article mentions Георгий Горшков in VTB management-change context, but does not provide patronymic."
+                                    },
+                                    {
+                                        "url":  "https://www.vtb.ru/ir/information/general/",
+                                        "title":  "Банк ВТБ — Общее собрание акционеров / раскрытие IR",
+                                        "fact":  "Официальная IR-страница ВТБ содержит материалы годовых общих собраний и ссылку на годовой отчет Банка ВТБ за 2024 год."
+                                    },
+                                    {
+                                        "url":  "https://www.vtb.ru/agm2024/",
+                                        "title":  "Банк ВТБ — Годовое Общее собрание акционеров 2024",
+                                        "fact":  "Официальная страница ГОСА-2024 содержит материалы собрания и указывает проведение годового общего собрания акционеров в форме заочного голосования."
+                                    },
+                                    {
+                                        "url":  "https://www.vtb.ru/media-files/vtb.ru/shared/ir/shares/20260119-vosa/godovoy_otchet_banka_vtb_pao_za_2024_god.pdf",
+                                        "title":  "Годовой отчет Банка ВТБ (ПАО) за 2024 год",
+                                        "fact":  "Официальный годовой отчет ВТБ за 2024 год; при проверке через доступные инструменты персональный состав органов управления не извлечен как читаемый текст."
+                                    },
+                                    {
+                                        "url":  "https://www.e-disclosure.ru/portal/company.aspx?id=1210",
+                                        "title":  "Интерфакс — сервер раскрытия информации: Банк ВТБ (ПАО)",
+                                        "fact":  "Официальная карточка эмитента на e-disclosure для раскрытий Банка ВТБ (ПАО)."
+                                    },
+                                    {
+                                        "url":  "https://www.vtb.ru/media-files/vtb.ru/sitepages/ir/information/general/20250530-godovoi-otchet-Banka-VTB-2024.pdf",
+                                        "title":  "Годовой отчет Банка ВТБ (ПАО) за 2024 год",
+                                        "fact":  "Официальный годовой отчет: ГОСА 7 июня 2024 года избрало новый состав Наблюдательного совета из 11 человек; на 31.12.2024 было 10 неисполнительных директоров и 5 независимых, но персональный список в тексте отчета не раскрыт."
+                                    },
+                                    {
+                                        "url":  "https://www.vtb.ru/media-files/vtb.ru/sitepages/agm2024/agm2024-q5-1pr.pdf",
+                                        "title":  "ГОСА-2024 ВТБ — проект решения по вопросу 5",
+                                        "fact":  "Документ по вопросу 5 «Избрание членов Наблюдательного совета Банка ВТБ (ПАО)» указывает, что формулировка решения не раскрывается и не предоставляется по постановлению Правительства РФ от 04.07.2023 №1102."
+                                    }
+                                ],
+                    "notes":  "Роль из CSV: Заместитель Президента – Председателя Правления Банка ВТБ (ПАО); руководитель блока «Розничный бизнес» Запись перенесена из unresolved_people старого файла; current_role оставлен null без дополнительного подтверждения. Original unresolved/status: still_unresolved Original reason: CSV has patronymic Георгиевич. Public VTB retail-role sources found in this round either omit patronymic or point to Георгий Вячеславович Горшков. No opened source confirmed exactly Георгий Георгиевич Горшков in the VTB retail role. Earlier round note: В официальных материалах ГОСА-2024 ВТБ проекты решений по избранию Наблюдательного совета не раскрывались по постановлению №1102; доступный годовой отчет 2024 не дал читаемой персональной карточки через текущие инструменты. Дополнительно найден риск смешения: публичные источники часто упоминают руководителя розничного бизнеса ВТБ как Георгия Вячеславовича Горшкова, тогда как CSV содержит Георгия Георгиевича. Дополнительно сохраняется риск ФИО: CSV содержит Георгия Георгиевича, а публичный контур часто указывает другого патронима для руководителя розничного бизнеса ВТБ; без официального источника смешение не исключено. GENUINE INCONSISTENCY -- additional research 2026-08-02: this is exactly the flagged CSV-vs-public-source patronymic conflict (Георгий Георгиевич per CSV vs. Георгий Вячеславович per public retail-business coverage). Attempted to resolve with fresh angles not already exhausted in round 3: re-checked the extracted full text of the local VTB-GO-2024_fin RUS.pdf annual report for any mention of \"Горшков\" (zero hits -- board/management personal cards are not disclosed in the report, consistent with prior rounds' finding on Постановление №1102); tried direct fetches of https://www.tadviser.ru/index.php/Персона:Горшков_Георгий_Вячеславович and https://www.vtb.ru/o-banke/upravlenie/pravlenie/ (both 404, no confirming or disconfirming page reachable); this session's WebSearch tool quota was exhausted (200/200) before a broader web search could be run, so a wider search-engine pass was not possible this round. No new evidence was found either way. Per this pass's rule against manufacturing resolution, the conflict is left explicitly unresolved rather than picking a side: current_role stays null and no professional_experience/education records are added for this person. A future pass should retry once fresh WebSearch quota is available, targeting an official 2024 VTB appointment order or e-disclosure filing that states the full patronymic."
+                }
+            ],
+    "board_sources":  [
+                          {
+                              "url":  "MOEXBMI_2024.csv",
+                              "title":  "MOEXBMI_2024.csv",
+                              "fact":  "CSV contains predefined company people and positions used as pipeline input."
+                          },
+                          {
+                              "url":  "https://www.vtb.ru/ir/information/general/",
+                              "title":  "Банк ВТБ — Общее собрание акционеров / раскрытие IR",
+                              "fact":  "Официальная IR-страница ВТБ содержит материалы годовых общих собраний и ссылку на годовой отчет Банка ВТБ за 2024 год."
+                          },
+                          {
+                              "url":  "https://www.vtb.ru/agm2024/",
+                              "title":  "Банк ВТБ — Годовое Общее собрание акционеров 2024",
+                              "fact":  "Официальная страница ГОСА-2024 содержит материалы собрания и указывает проведение годового общего собрания акционеров в форме заочного голосования."
+                          },
+                          {
+                              "url":  "https://www.vtb.ru/media-files/vtb.ru/shared/ir/shares/20260119-vosa/godovoy_otchet_banka_vtb_pao_za_2024_god.pdf",
+                              "title":  "Годовой отчет Банка ВТБ (ПАО) за 2024 год",
+                              "fact":  "Официальный годовой отчет ВТБ за 2024 год; при проверке через доступные инструменты персональный состав органов управления не извлечен как читаемый текст."
+                          },
+                          {
+                              "url":  "https://www.e-disclosure.ru/portal/company.aspx?id=1210",
+                              "title":  "Интерфакс — сервер раскрытия информации: Банк ВТБ (ПАО)",
+                              "fact":  "Официальная карточка эмитента на e-disclosure для раскрытий Банка ВТБ (ПАО)."
+                          },
+                          {
+                              "url":  "https://www.vtb.ru/o-banke/strategiya-razvitiya-2024-2026/",
+                              "title":  "Банк ВТБ — стратегия развития 2024–2026",
+                              "fact":  "Официальные материалы ВТБ по стратегии используются как контекст компании; отдельные биографические карточки правления на странице не были надежно извлечены."
+                          },
+                          {
+                              "url":  "https://www.vtb.ru/media-files/vtb.ru/sitepages/ir/information/general/20250530-godovoi-otchet-Banka-VTB-2024.pdf",
+                              "title":  "Годовой отчет Банка ВТБ (ПАО) за 2024 год",
+                              "fact":  "Официальный годовой отчет: ГОСА 7 июня 2024 года избрало новый состав Наблюдательного совета из 11 человек; на 31.12.2024 было 10 неисполнительных директоров и 5 независимых, но персональный список в тексте отчета не раскрыт."
+                          },
+                          {
+                              "url":  "https://www.vtb.ru/media-files/vtb.ru/sitepages/agm2024/agm2024-q5-1pr.pdf",
+                              "title":  "ГОСА-2024 ВТБ — проект решения по вопросу 5",
+                              "fact":  "Документ по вопросу 5 «Избрание членов Наблюдательного совета Банка ВТБ (ПАО)» указывает, что формулировка решения не раскрывается и не предоставляется по постановлению Правительства РФ от 04.07.2023 №1102."
+                          },
+                          {
+                              "url":  "https://www.vtb.ru/media-files/vtb.ru/sitepages/agm2024/agm2024-q8-1pr.pdf",
+                              "title":  "ГОСА-2024 ВТБ — проект решения по вопросу 8",
+                              "fact":  "Проект решения по консолидации акций предоставляет право подписать изменения в Устав Президенту — Председателю Правления Банка ВТБ (ПАО) А.Л. Костину."
+                          },
+                          {
+                              "url":  "https://www.region-dk.ru/news/87801/",
+                              "title":  "РЕГИОН Брокер — О проведении общего собрания акционеров эмитента",
+                              "fact":  "Round-3 source used for the 07.06.2024 VTB Supervisory Board voting item; it names several board candidates/persons from the CSV where official VTB disclosure did not publish the personal decision text."
+                          },
+                          {
+                              "url":  "https://yarreg.ru/n5yyz/",
+                              "title":  "ВТБ обновил правление перед запуском новой стратегии",
+                              "fact":  "Round-3 source used for VTB management-change context before the 2024–2026 strategy; used only with per-person caveats where it is a secondary repost or lacks full patronymic."
+                          },
+                          {
+                              "url":  "https://www.interfax.ru/business/949975",
+                              "title":  "Интерфакс — ВТБ ввел в правление главу департамента регионального корпоративного бизнеса",
+                              "fact":  "Round-3 source used to confirm Ruslan Eremenko election to the VTB Management Board after Bank of Russia approval and his prior VTB department-head role from September 2017."
+                          }
+                      ],
+    "sources":  [
+                    {
+                        "url":  "https://www.vtb.ru/ir/information/general/",
+                        "title":  "Банк ВТБ — Общее собрание акционеров / раскрытие IR",
+                        "fact":  "Официальная IR-страница ВТБ содержит материалы годовых общих собраний и ссылку на годовой отчет Банка ВТБ за 2024 год."
+                    },
+                    {
+                        "url":  "https://www.vtb.ru/agm2024/",
+                        "title":  "Банк ВТБ — Годовое Общее собрание акционеров 2024",
+                        "fact":  "Официальная страница ГОСА-2024 содержит материалы собрания и указывает проведение годового общего собрания акционеров в форме заочного голосования."
+                    },
+                    {
+                        "url":  "https://www.vtb.ru/media-files/vtb.ru/shared/ir/shares/20260119-vosa/godovoy_otchet_banka_vtb_pao_za_2024_god.pdf",
+                        "title":  "Годовой отчет Банка ВТБ (ПАО) за 2024 год",
+                        "fact":  "Официальный годовой отчет ВТБ за 2024 год; при проверке через доступные инструменты персональный состав органов управления не извлечен как читаемый текст."
+                    },
+                    {
+                        "url":  "https://www.e-disclosure.ru/portal/company.aspx?id=1210",
+                        "title":  "Интерфакс — сервер раскрытия информации: Банк ВТБ (ПАО)",
+                        "fact":  "Официальная карточка эмитента на e-disclosure для раскрытий Банка ВТБ (ПАО)."
+                    },
+                    {
+                        "url":  "https://www.vtb.ru/o-banke/strategiya-razvitiya-2024-2026/",
+                        "title":  "Банк ВТБ — стратегия развития 2024–2026",
+                        "fact":  "Официальные материалы ВТБ по стратегии используются как контекст компании; отдельные биографические карточки правления на странице не были надежно извлечены."
+                    },
+                    {
+                        "url":  "https://www.vtb.ru/media-files/vtb.ru/sitepages/ir/information/general/20250530-godovoi-otchet-Banka-VTB-2024.pdf",
+                        "title":  "Годовой отчет Банка ВТБ (ПАО) за 2024 год",
+                        "fact":  "Официальный годовой отчет: ГОСА 7 июня 2024 года избрало новый состав Наблюдательного совета из 11 человек; на 31.12.2024 было 10 неисполнительных директоров и 5 независимых, но персональный список в тексте отчета не раскрыт."
+                    },
+                    {
+                        "url":  "https://www.vtb.ru/media-files/vtb.ru/sitepages/agm2024/agm2024-q5-1pr.pdf",
+                        "title":  "ГОСА-2024 ВТБ — проект решения по вопросу 5",
+                        "fact":  "Документ по вопросу 5 «Избрание членов Наблюдательного совета Банка ВТБ (ПАО)» указывает, что формулировка решения не раскрывается и не предоставляется по постановлению Правительства РФ от 04.07.2023 №1102."
+                    },
+                    {
+                        "url":  "https://www.vtb.ru/media-files/vtb.ru/sitepages/agm2024/agm2024-q8-1pr.pdf",
+                        "title":  "ГОСА-2024 ВТБ — проект решения по вопросу 8",
+                        "fact":  "Проект решения по консолидации акций предоставляет право подписать изменения в Устав Президенту — Председателю Правления Банка ВТБ (ПАО) А.Л. Костину."
+                    },
+                    {
+                        "url":  "https://www.region-dk.ru/news/87801/",
+                        "title":  "РЕГИОН Брокер — О проведении общего собрания акционеров эмитента",
+                        "fact":  "Round-3 source used for the 07.06.2024 VTB Supervisory Board voting item; it names several board candidates/persons from the CSV where official VTB disclosure did not publish the personal decision text."
+                    },
+                    {
+                        "url":  "https://yarreg.ru/n5yyz/",
+                        "title":  "ВТБ обновил правление перед запуском новой стратегии",
+                        "fact":  "Round-3 source used for VTB management-change context before the 2024–2026 strategy; used only with per-person caveats where it is a secondary repost or lacks full patronymic."
+                    },
+                    {
+                        "url":  "https://www.interfax.ru/business/949975",
+                        "title":  "Интерфакс — ВТБ ввел в правление главу департамента регионального корпоративного бизнеса",
+                        "fact":  "Round-3 source used to confirm Ruslan Eremenko election to the VTB Management Board after Bank of Russia approval and his prior VTB department-head role from September 2017."
+                    }
+                ],
+    "validation_notes":  "Original sufficiency: {\"merged_people_count\": 24, \"partial_people\": [\"Кондратенко Максим Дмитриевич\", \"Диркс Наталья Германовна\", \"Норов Эркин Рахматович\", \"Лозовой Алексей\", \"Левыкин Владимир Дмитриевич\"], \"reason\": \"output/VTBR_unresolved_round_3.json has been merged into output/VTBR.json. The main file now contains 24 person entries from the 25 CSV rows: 19 synthesized PersonInfo records and 5 partial records retained with explicit caveats. One person remains unresolved because of an exact-name/patronymic conflict.\", \"remaining_gaps\": [\"Find official VTB/e-disclosure source for 2024 Management Board composition or appointment decisions covering Kondratenko, Dirks, Norov, Lozovoy, Levykin and Eremenko.\", \"Resolve the Gorshkov patronymic conflict with an official full-name source.\", \"Add education and previous professional experience only after opening official or high-quality biography pages for each remaining executive.\"], \"status\": \"PARTIAL_SUFFICIENT_AFTER_MERGE\", \"still_unresolved_people\": [\"Горшков Георгий Георгиевич\"]}\n\nNormalized to T_person_info.json schema on 2026-07-14. Original people count: 24; unresolved count: 1; normalized ceo: Костин Андрей Леонидович; normalized tmt count: 24.\n\nOriginal top-level metadata preserved as JSON: {\"company_aliases\": [\"VTB Bank\", \"ПАО Банк ВТБ\", \"VTBR\"], \"csv_rows\": [{\"name\": \"Григоренко Дмитрий Юрьевич\", \"position\": \"Председатель Наблюдательного совета Банка ВТБ (ПАО); неисполнительный директор\"}, {\"name\": \"Сидоренко Валерий Валерьевич\", \"position\": \"Член Наблюдательного совета Банка ВТБ (ПАО); неисполнительный директор\"}, {\"name\": \"Решетников Максим Геннадьевич\", \"position\": \"Член Наблюдательного совета Банка ВТБ (ПАО); неисполнительный директор\"}, {\"name\": \"Моисеев Алексей Владимирович\", \"position\": \"Член Наблюдательного совета Банка ВТБ (ПАО); неисполнительный директор\"}, {\"name\": \"Костин Андрей Леонидович\", \"position\": \"Член Наблюдательного совета Банка ВТБ (ПАО); исполнительный директор; Президент – Председатель Правления Банка ВТБ (ПАО)\"}, {\"name\": \"Шадаев Максут Игоревич\", \"position\": \"Член Наблюдательного совета Банка ВТБ (ПАО); неисполнительный директор\"}, {\"name\": \"Репин Игорь Николаевич\", \"position\": \"Член Наблюдательного совета Банка ВТБ (ПАО); независимый директор\"}, {\"name\": \"Гаврилов Сергей Анатольевич\", \"position\": \"Член Наблюдательного совета Банка ВТБ (ПАО); независимый директор\"}, {\"name\": \"Каганов Вениамин Шаевич\", \"position\": \"Член Наблюдательного совета Банка ВТБ (ПАО); независимый директор\"}, {\"name\": \"Прокофьев Станислав Евгеньевич\", \"position\": \"Член Наблюдательного совета Банка ВТБ (ПАО); независимый директор\"}, {\"name\": \"Осеевский Михаил Эдуардович\", \"position\": \"Член Наблюдательного совета Банка ВТБ (ПАО); независимый директор\"}, {\"name\": \"Пьянов Дмитрий Васильевич\", \"position\": \"Первый заместитель Президента – Председателя Правления Банка ВТБ (ПАО); куратор финансовой и административно-хозяйственной функций и интеграции финансовых активов\"}, {\"name\": \"Бортников Денис Александрович\", \"position\": \"Заместитель Президента – Председателя Правления Банка ВТБ (ПАО); руководитель блока «Средний и малый бизнес»\"}, {\"name\": \"Горшков Георгий Георгиевич\", \"position\": \"Заместитель Президента – Председателя Правления Банка ВТБ (ПАО); руководитель блока «Розничный бизнес»\"}, {\"name\": \"Дергунова Ольга Константиновна\", \"position\": \"Заместитель Президента – Председателя Правления Банка ВТБ (ПАО)\"}, {\"name\": \"Кулик Вадим Валерьевич\", \"position\": \"Заместитель Президента – Председателя Правления Банка ВТБ (ПАО); руководитель технологического блока\"}, {\"name\": \"Лукьяненко Валерий Васильевич\", \"position\": \"Заместитель Президента – Председателя Правления Банка ВТБ (ПАО); член Правления\"}, {\"name\": \"Сергейчук Виталий Юрьевич\", \"position\": \"Член Правления Банка ВТБ (ПАО); руководитель блока «Корпоративно-инвестиционный бизнес»\"}, {\"name\": \"Кондратенко Максим Дмитриевич\", \"position\": \"Член Правления Банка ВТБ (ПАО); главный риск-менеджер (CRO) Группы ВТБ\"}, {\"name\": \"Диркс Наталья Германовна\", \"position\": \"Член Правления Банка ВТБ (ПАО); руководитель Департамента операционной поддержки бизнеса – старший вице-президент\"}, {\"name\": \"Норов Эркин Рахматович\", \"position\": \"Член Правления Банка ВТБ (ПАО)\"}, {\"name\": \"Андресов Юрий Николаевич\", \"position\": \"Член Правления Банка ВТБ (ПАО); куратор офлайн-каналов розничных продаж; заместитель Президента – Председателя Правления Банка «Открытие» в 2024 году\"}, {\"name\": \"Лозовой Алексей\", \"position\": \"Член Правления Банка ВТБ (ПАО); до избрания в Правление — руководитель юридического департамента\"}, {\"name\": \"Левыкин Владимир Дмитриевич\", \"position\": \"Член Правления Банка ВТБ (ПАО); руководитель Департамента стратегии и корпоративного развития\"}, {\"name\": \"Еременко Руслан Юрьевич\", \"position\": \"Член Правления Банка ВТБ (ПАО) с марта 2024 года; руководитель Департамента регионального корпоративного бизнеса – старший вице-президент\"}], \"generated_at\": \"2026-07-14\", \"merged_at\": \"2026-07-14\", \"merged_from\": [\"output/VTBR_unresolved_round_3.json\"], \"research_rounds\": [{\"date\": \"2026-06-28\", \"findings\": [\"Годовой отчет 2024 подтверждает факт избрания 11 членов Наблюдательного совета на ГОСА 07.06.2024 и структуру 10 неисполнительных / 5 независимых директоров на 31.12.2024.\", \"Проект решения по вопросу 5 подтверждает, что персональная формулировка избрания Наблюдательного совета не раскрывалась по постановлению №1102.\", \"Годовой отчет содержит обращение Андрея Костина как Президента — Председателя Правления и отдельное упоминание Первого заместителя Президента — Председателя Правления Дмитрия Пьянова.\", \"Поиск по годовому отчету не нашел ФИО большинства членов Правления/Наблюдательного совета из CSV, поэтому они остаются unresolved без claim-level источников.\"], \"focus\": \"Повторная проверка VTBR по официальной странице ГОСА-2024 и годовому отчету 2024 с локальным извлечением PDF-текста.\", \"round\": 2}, {\"date\": \"2026-06-28\", \"findings\": [\"Merged 17 round-3 PersonInfo records into the main VTBR people list.\", \"Normalized 5 partial round-3 records into PersonInfo-shaped entries without promoting unconfirmed CSV roles to current_role.\", \"Left Горшков Георгий Георгиевич as the only still_unresolved_people entry because opened sources did not confirm the exact patronymic for the VTB retail role.\", \"Merged top-level source summaries for Region DK, Yarreg and Interfax while retaining per-person source details.\"], \"focus\": \"Supplemental resolution of VTBR unresolved people and merge into output/VTBR.json.\", \"round\": 3}], \"sufficiency\": {\"merged_people_count\": 24, \"partial_people\": [\"Кондратенко Максим Дмитриевич\", \"Диркс Наталья Германовна\", \"Норов Эркин Рахматович\", \"Лозовой Алексей\", \"Левыкин Владимир Дмитриевич\"], \"reason\": \"output/VTBR_unresolved_round_3.json has been merged into output/VTBR.json. The main file now contains 24 person entries from the 25 CSV rows: 19 synthesized PersonInfo records and 5 partial records retained with explicit caveats. One person remains unresolved because of an exact-name/patronymic conflict.\", \"remaining_gaps\": [\"Find official VTB/e-disclosure source for 2024 Management Board composition or appointment decisions covering Kondratenko, Dirks, Norov, Lozovoy, Levykin and Eremenko.\", \"Resolve the Gorshkov patronymic conflict with an official full-name source.\", \"Add education and previous professional experience only after opening official or high-quality biography pages for each remaining executive.\"], \"status\": \"PARTIAL_SUFFICIENT_AFTER_MERGE\", \"still_unresolved_people\": [\"Горшков Георгий Георгиевич\"]}, \"target_year\": 2024, \"ticker\": \"VTBR\", \"unresolved_people\": [{\"checked_sources\": [{\"fact\": \"Официальная IR-страница ВТБ содержит материалы годовых общих собраний и ссылку на годовой отчет Банка ВТБ за 2024 год.\", \"title\": \"Банк ВТБ — Общее собрание акционеров / раскрытие IR\", \"url\": \"https://www.vtb.ru/ir/information/general/\"}, {\"fact\": \"Официальная страница ГОСА-2024 содержит материалы собрания и указывает проведение годового общего собрания акционеров в форме заочного голосования.\", \"title\": \"Банк ВТБ — Годовое Общее собрание акционеров 2024\", \"url\": \"https://www.vtb.ru/agm2024/\"}, {\"fact\": \"Официальный годовой отчет ВТБ за 2024 год; при проверке через доступные инструменты персональный состав органов управления не извлечен как читаемый текст.\", \"title\": \"Годовой отчет Банка ВТБ (ПАО) за 2024 год\", \"url\": \"https://www.vtb.ru/media-files/vtb.ru/shared/ir/shares/20260119-vosa/godovoy_otchet_banka_vtb_pao_za_2024_god.pdf\"}, {\"fact\": \"Официальная карточка эмитента на e-disclosure для раскрытий Банка ВТБ (ПАО).\", \"title\": \"Интерфакс — сервер раскрытия информации: Банк ВТБ (ПАО)\", \"url\": \"https://www.e-disclosure.ru/portal/company.aspx?id=1210\"}, {\"fact\": \"Официальный годовой отчет: ГОСА 7 июня 2024 года избрало новый состав Наблюдательного совета из 11 человек; на 31.12.2024 было 10 неисполнительных директоров и 5 независимых, но персональный список в тексте отчета не раскрыт.\", \"title\": \"Годовой отчет Банка ВТБ (ПАО) за 2024 год\", \"url\": \"https://www.vtb.ru/media-files/vtb.ru/sitepages/ir/information/general/20250530-godovoi-otchet-Banka-VTB-2024.pdf\"}, {\"fact\": \"Документ по вопросу 5 «Избрание членов Наблюдательного совета Банка ВТБ (ПАО)» указывает, что формулировка решения не раскрывается и не предоставляется по постановлению Правительства РФ от 04.07.2023 №1102.\", \"title\": \"ГОСА-2024 ВТБ — проект решения по вопросу 5\", \"url\": \"https://www.vtb.ru/media-files/vtb.ru/sitepages/agm2024/agm2024-q5-1pr.pdf\"}], \"company_name\": \"Банк ВТБ (ПАО)\", \"name\": \"Горшков Георгий Георгиевич\", \"reason\": \"CSV has patronymic Георгиевич. Public VTB retail-role sources found in this round either omit patronymic or point to Георгий Вячеславович Горшков. No opened source confirmed exactly Георгий Георгиевич Горшков in the VTB retail role. Earlier round note: В официальных материалах ГОСА-2024 ВТБ проекты решений по избранию Наблюдательного совета не раскрывались по постановлению №1102; доступный годовой отчет 2024 не дал читаемой персональной карточки через текущие инструменты. Дополнительно найден риск смешения: публичные источники часто упоминают руководителя розничного бизнеса ВТБ как Георгия Вячеславовича Горшкова, тогда как CSV содержит Георгия Георгиевича. Дополнительно сохраняется риск ФИО: CSV содержит Георгия Георгиевича, а публичный контур часто указывает другого патронима для руководителя розничного бизнеса ВТБ; без официального источника смешение не исключено.\", \"role_from_csv\": \"Заместитель Президента – Председателя Правления Банка ВТБ (ПАО); руководитель блока «Розничный бизнес»\", \"sources\": [{\"fact\": \"Article mentions Георгий Горшков in VTB management-change context, but does not provide patronymic.\", \"title\": \"ВТБ обновил правление перед запуском новой стратегии\", \"url\": \"https://yarreg.ru/n5yyz/\"}], \"status\": \"still_unresolved\"}]}\n\nQUALITY PASS 2026-08-02 (round 4, correctness/depth): Step 0 baseline check against git HEAD found no prior-run regression for VTBR (on-disk file matched git HEAD exactly before this round's edits). Fixed 1 GICS misclassification: Прокофьев's Финансовый университет rector role was wrongly tagged Financials/Banks/Banks (a state university has no matching row in gics_taxonomy.json and is non-classifiable like a government body) -- corrected to null/null/null. Fixed 2 simple qualification_degree omissions (Каганов and Прокофьев доктор экономических наук degrees, both left null despite the corpus-wide доктор/кандидат-наук -> Doctoral degree convention already applied to this exact degree text elsewhere, e.g. AFLT_person_info.json). Investigated the one flagged GENUINE INCONSISTENCY (Горшков Георгий Георгиевич vs. public Георгий Вячеславович) with fresh angles (local annual-report full-text re-check, direct tadviser.ru/vtb.ru URL fetch attempts) -- found no new evidence either way; left explicitly unresolved (current_role null, no PE/education added) rather than picking a side. Honest-gap follow-up (bounded, one attempt each) on education/degree nulls: found and added sourced education/degree facts for Костин (МГУ 1979 + к.э.н. 2001, Wikipedia), Григоренко (2 specialist diplomas 2000, Wikipedia), Решетников (2 specialist diplomas 2000/2002 + к.э.н. 2003, Wikipedia), Шадаев (РГСУ 2004, Wikipedia), Осеевский (Ленинградский политех 1983, Wikipedia); still-unresolved after fresh queries (documented per-person with exact queries tried): Моисеев, Пьянов, Бортников, Кулик, Сергейчук, Лукьяненко (identity upgrade lead found but not independently confirmable, not applied), Кондратенко, Диркс, Норов, Андресов, Лозовой, Левыкин, Сидоренко, Еременко (official-source upgrade). Constraint hit this round: this session's WebSearch tool quota was exhausted (200/200) partway through, after which further fresh-query attempts relied on direct-URL WebFetch guesses (Wikipedia article/search endpoints, tadviser.ru, vtb.ru) instead of open web search; this is noted per-person where it limited the attempt. No previously confirmed fact, source citation, or non-classifiable null was touched or shortened. Full detail in research_notes/VTBR/quality_pass_round1_20260802.md.",
+    "sector":  "Financials",
+    "industry_group":  "Banks",
+    "industry":  "Banks"
+}

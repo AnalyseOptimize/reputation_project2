@@ -1,0 +1,1749 @@
+{
+    "company_name":  "ПАО «ВИ.ру»",
+    "company_ticker":  "VSEH",
+    "ceo":  {
+                "name":  "Фахрутдинов Валентин Кириллович",
+                "current_role":  "член Совета директоров ПАО «ВИ.ру»; исполнительный директор; генеральный директор ПАО «ВИ.ру»; генеральный директор ООО «ВсеИнструменты.ру»",
+                "company_name":  "ПАО «ВИ.ру»",
+                "education":  [
+                                  {
+                                      "institution":  "Московский государственный университет им. М.В. Ломоносова",
+                                      "year":  null,
+                                      "qualification":  null,
+                                      "description":  "Original education details: field: математика.",
+                                      "sources":  [
+                                                      "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                  ],
+                                      "qualification_degree":  "Unknown"
+                                  }
+                              ],
+                "degrees":  [
+
+                            ],
+                "professional_experience":  [
+                                                {
+                                                    "organization":  "ПАО «ВИ.ру»",
+                                                    "role":  "генеральный директор; член Совета директоров; исполнительный директор",
+                                                    "start_year":  2024,
+                                                    "end_year":  null,
+                                                    "description":  "С 03.2024 — генеральный директор и член Совета директоров ПАО «ВИ.ру».",
+                                                    "sources":  [
+                                                                    "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                ],
+                                                    "sector":  "Consumer Discretionary",
+                                                    "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+                                                    "industry":  "Specialty Retail"
+                                                },
+                                                {
+                                                    "organization":  "ООО «ВсеИнструменты.ру»",
+                                                    "role":  "генеральный директор",
+                                                    "start_year":  2021,
+                                                    "end_year":  null,
+                                                    "description":  "С 12.2021 — генеральный директор ООО «ВсеИнструменты.ру».",
+                                                    "sources":  [
+                                                                    "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                ],
+                                                    "sector":  "Consumer Discretionary",
+                                                    "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+                                                    "industry":  "Specialty Retail"
+                                                },
+                                                {
+                                                    "organization":  "ООО «ВИ Холдинг»",
+                                                    "role":  "генеральный директор",
+                                                    "start_year":  2023,
+                                                    "end_year":  2024,
+                                                    "description":  "С 10.2023 по 08.2024 — генеральный директор ООО «ВИ Холдинг».",
+                                                    "sources":  [
+                                                                    "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                ],
+                                                    "sector":  null,
+                                                    "industry_group":  null,
+                                                    "industry":  null
+                                                },
+                                                {
+                                                    "organization":  "ООО «ВсеИнструменты.ру»",
+                                                    "role":  "директор по маркетингу",
+                                                    "start_year":  2018,
+                                                    "end_year":  2021,
+                                                    "description":  "С 02.2018 по 12.2021 — директор по маркетингу ООО «ВсеИнструменты.ру».",
+                                                    "sources":  [
+                                                                    "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                ],
+                                                    "sector":  "Consumer Discretionary",
+                                                    "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+                                                    "industry":  "Specialty Retail"
+                                                }
+                                            ],
+                "research_experience":  [
+
+                                        ],
+                "publications":  [
+
+                                 ],
+                "patents":  [
+
+                            ],
+                "h_index":  null,
+                "sources":  [
+                                {
+                                    "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                    "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                    "fact":  "Подтверждает идентичность, образование, должности и профессиональный опыт Валентина Фахрутдинова."
+                                },
+                                {
+                                    "url":  "MOEXBMI_Отчеты_2024/VSEH/Годовой отчет ПАО ВИ.ру_2024.pdf",
+                                    "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                    "fact":  "Визуально сверенная локальная копия подтверждает биографическую карточку: Фахрутдинов Валентин Кириллович."
+                                },
+                                {
+                                    "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                    "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                    "fact":  "Биографическая карточка Валентина Фахрутдинова указывает образование в МГУ им. М.В. Ломоносова по математике."
+                                },
+                                {
+                                    "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                    "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                    "fact":  "Карточка Совета директоров указывает Фахрутдинова исполнительным директором и генеральным директором ПАО «ВИ.ру». Возле опыта указано: 03.2024 — н.в."
+                                },
+                                {
+                                    "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                    "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                    "fact":  "Карточка указывает опыт работы: 12.2021 — н.в., генеральный директор ООО «ВсеИнструменты.ру»."
+                                },
+                                {
+                                    "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                    "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                    "fact":  "Карточка указывает опыт работы: 10.2023–08.2024, генеральный директор ООО «ВИ Холдинг»."
+                                },
+                                {
+                                    "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                    "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                    "fact":  "Карточка указывает опыт работы: 02.2018–12.2021, директор по маркетингу ООО «ВсеИнструменты.ру»."
+                                }
+                            ],
+                "notes":  "Публикации, патенты и h-index не добавлены: надежно привязанных научных профилей или патентных записей в ходе поиска не найдено. Опыт работы уточнен по визуально проверенной карточке годового отчета: добавлен ООО «ВИ Холдинг», даты прежних записей приведены к отчету. Роль из CSV: Член Совета директоров ПАО «ВИ.ру»; исполнительный директор; генеральный директор ПАО «ВИ.ру»; генеральный директор ООО «ВсеИнструменты.ру»"
+            },
+    "tmt":  [
+                {
+                    "name":  "Шмелева Мария Николаевна",
+                    "current_role":  "председатель Совета директоров ПАО «ВИ.ру»; неисполнительный директор; член Комитета по аудиту; руководитель юридического департамента ООО «ВсеИнструменты.ру»",
+                    "company_name":  "ПАО «ВИ.ру»",
+                    "education":  [
+                                      {
+                                          "institution":  "Московский государственный университет им. М.В. Ломоносова",
+                                          "year":  null,
+                                          "qualification":  null,
+                                          "description":  "Original education details: field: юриспруденция.",
+                                          "sources":  [
+                                                          "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                      ],
+                                          "qualification_degree":  "Unknown"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО «ВИ.ру»",
+                                                        "role":  "председатель Совета директоров; неисполнительный директор; член Комитета по аудиту",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "С 03.2024 по 06.2024 — член Совета директоров; с 06.2024 — председатель Совета директоров ПАО «ВИ.ру».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+                                                        "industry":  "Specialty Retail"
+                                                    },
+                                                    {
+                                                        "organization":  "ООО «ВсеИнструменты.ру»",
+                                                        "role":  "руководитель юридического департамента",
+                                                        "start_year":  2021,
+                                                        "end_year":  null,
+                                                        "description":  "С 06.2021 — руководитель юридического департамента ООО «ВсеИнструменты.ру».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+                                                        "industry":  "Specialty Retail"
+                                                    },
+                                                    {
+                                                        "organization":  "Klever Group",
+                                                        "role":  "старший юрист инвестиционного фонда",
+                                                        "start_year":  2018,
+                                                        "end_year":  2021,
+                                                        "description":  "С 10.2018 по 06.2021 — старший юрист инвестиционного фонда Klever Group.",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Подтверждает идентичность, образование и должности Марии Шмелевой."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/VSEH/Годовой отчет ПАО ВИ.ру_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Визуально сверенная локальная копия подтверждает биографическую карточку: Шмелева Мария Николаевна."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Биографическая карточка Марии Шмелевой указывает образование в МГУ им. М.В. Ломоносова по юриспруденции."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает Шмелеву председателем Совета директоров, членом Комитета по аудиту и раскрывает периоды членства/председательства."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает опыт работы: 06.2021 — н.в., руководитель юридического департамента ООО «ВсеИнструменты.ру»."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает опыт работы: 10.2018–06.2021, старший юрист инвестиционного фонда Klever Group."
+                                    }
+                                ],
+                    "notes":  "Научные публикации, патенты и h-index не подтверждены. Опыт работы уточнен по визуально проверенной карточке годового отчета. Роль из CSV: Председатель Совета директоров ПАО «ВИ.ру»; неисполнительный директор; член Комитета по аудиту; руководитель юридического департамента ООО «ВсеИнструменты.ру»"
+                },
+                {
+                    "name":  "Безумов Олег Игоревич",
+                    "current_role":  "член Совета директоров ПАО «ВИ.ру»; исполнительный директор; финансовый директор ООО «ВсеИнструменты.ру»",
+                    "company_name":  "ПАО «ВИ.ру»",
+                    "education":  [
+                                      {
+                                          "institution":  "Международный институт экономики и финансов НИУ ВШЭ",
+                                          "year":  null,
+                                          "qualification":  null,
+                                          "description":  "Original education details: field: экономика и финансы.",
+                                          "sources":  [
+                                                          "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                      ],
+                                          "qualification_degree":  "Unknown"
+                                      },
+                                      {
+                                          "institution":  "University of London, программа при академической поддержке London School of Economics and Political Science",
+                                          "year":  null,
+                                          "qualification":  "BSc",
+                                          "description":  "Original education details: field: экономика и финансы.",
+                                          "sources":  [
+                                                          "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                      ],
+                                          "qualification_degree":  "Bachelor's degree"
+                                      },
+                                      {
+                                          "institution":  "Imperial College Business School",
+                                          "year":  null,
+                                          "qualification":  "MSc",
+                                          "description":  "Original education details: field: финансы.",
+                                          "sources":  [
+                                                          "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                      ],
+                                          "qualification_degree":  "Master's degree"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО «ВИ.ру»",
+                                                        "role":  "член Совета директоров; исполнительный директор",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "С 03.2024 — член Совета директоров ПАО «ВИ.ру».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+                                                        "industry":  "Specialty Retail"
+                                                    },
+                                                    {
+                                                        "organization":  "ООО «ВсеИнструменты.ру»",
+                                                        "role":  "финансовый директор",
+                                                        "start_year":  2021,
+                                                        "end_year":  null,
+                                                        "description":  "С 09.2021 — финансовый директор ООО «ВсеИнструменты.ру».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+                                                        "industry":  "Specialty Retail"
+                                                    },
+                                                    {
+                                                        "organization":  "Goldman Sachs International",
+                                                        "role":  "исполнительный директор инвестиционно-банковского подразделения",
+                                                        "start_year":  2014,
+                                                        "end_year":  2021,
+                                                        "description":  "С 07.2014 по 09.2021 — исполнительный директор в инвестиционно-банковском подразделении Goldman Sachs International.",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Capital Markets"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Подтверждает идентичность, образование и профессиональный опыт Олега Безумова."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/VSEH/Годовой отчет ПАО ВИ.ру_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Визуально сверенная локальная копия подтверждает биографическую карточку: Безумов Олег Игоревич."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Биография указывает образование в Международном институте экономики и финансов НИУ ВШЭ по экономике и финансам."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Биография указывает BSc in Economics and Finance, University of London, with academic direction from LSE."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Биография указывает MSc in Finance, Imperial College Business School."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка Совета директоров указывает Безумова исполнительным директором и членом Совета директоров с 03.2024."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает опыт работы: 09.2021 — н.в., финансовый директор ООО «ВсеИнструменты.ру»."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает опыт работы: 07.2014–09.2021, исполнительный директор в инвестиционно-банковском подразделении Goldman Sachs International."
+                                    }
+                                ],
+                    "notes":  "MSc/BSc сохранены как образовательные программы, а не как ученые степени. Quality pass 2026-08-02 correction: this earlier policy was superseded — BSc (University of London) and MSc (Imperial College Business School) were coded qualification_degree='Unknown' although the already-cited annual report explicitly states the degree level; corrected to Bachelor's degree / Master's degree per the fixed enum (REFINEMENT.md §4). No new source needed, both are drawn from the already-cited annual report bio card. Научные публикации, патенты и h-index не подтверждены. Даты опыта работы уточнены по визуально проверенной карточке годового отчета. Роль из CSV: Член Совета директоров ПАО «ВИ.ру»; исполнительный директор; финансовый директор ООО «ВсеИнструменты.ру»"
+                },
+                {
+                    "name":  "Кузин Вадим Сергеевич",
+                    "current_role":  "член Совета директоров ПАО «ВИ.ру»; неисполнительный директор; член Комитета по вознаграждениям и номинациям; генеральный директор ООО «Ви.Тех»; генеральный директор ООО «ВИ Холдинг»",
+                    "company_name":  "ПАО «ВИ.ру»",
+                    "education":  [
+                                      {
+                                          "institution":  "Московский государственный университет им. М.В. Ломоносова",
+                                          "year":  null,
+                                          "qualification":  null,
+                                          "description":  "Original education details: field: математика.",
+                                          "sources":  [
+                                                          "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                      ],
+                                          "qualification_degree":  "Unknown"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО «ВИ.ру»",
+                                                        "role":  "член Совета директоров; неисполнительный директор; член Комитета по вознаграждениям и номинациям",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "С 03.2024 — член Совета директоров ПАО «ВИ.ру».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+                                                        "industry":  "Specialty Retail"
+                                                    },
+                                                    {
+                                                        "organization":  "ООО «Ви.Тех»",
+                                                        "role":  "генеральный директор",
+                                                        "start_year":  2022,
+                                                        "end_year":  null,
+                                                        "description":  "С 04.2022 — генеральный директор ООО «Ви.Тех».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                                                        "https://www.audit-it.ru/buh_otchet/9723147227_ooo-vi-tekh"
+                                                                    ],
+                                                        "sector":  "Information Technology",
+                                                        "industry_group":  "Software & Services",
+                                                        "industry":  "Software"
+                                                    },
+                                                    {
+                                                        "organization":  "ООО «ВИ Холдинг»",
+                                                        "role":  "генеральный директор",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "С 08.2024 — генеральный директор ООО «ВИ Холдинг».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ООО «ВсеИнструменты.ру»",
+                                                        "role":  "ИТ-директор",
+                                                        "start_year":  2018,
+                                                        "end_year":  2022,
+                                                        "description":  "С 09.2018 по 04.2022 — ИТ-директор ООО «ВсеИнструменты.ру».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+                                                        "industry":  "Specialty Retail"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Подтверждает идентичность, образование и должности Вадима Кузина."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/VSEH/Годовой отчет ПАО ВИ.ру_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Визуально сверенная локальная копия подтверждает биографическую карточку: Кузин Вадим Сергеевич."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Биографическая карточка Вадима Кузина указывает образование в МГУ им. М.В. Ломоносова по математике."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает Кузина неисполнительным директором, членом Комитета по вознаграждениям и номинациям и членом Совета директоров с 03.2024."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает опыт работы: 04.2022 — н.в., генеральный директор ООО «Ви.Тех»."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает опыт работы: 08.2024 — н.в., генеральный директор ООО «ВИ Холдинг»."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает опыт работы: 09.2018–04.2022, ИТ-директор ООО «ВсеИнструменты.ру»."
+                                    }
+                                ],
+                    "notes":  "Quality pass 2026-08-02: honest-gap follow-up resolved ООО «Ви.Тех» (was null/null/null since round 3, 2026-07-28). Fresh registry lookup (audit-it.ru, INN 9723147227) confirms general director Кузин Вадим Сергеевич and primary OKVED 62.01 (разработка компьютерного программного обеспечения) — classified Information Technology / Software & Services / Software. ООО «ВИ Холдинг» left null: confirmed pure holding vehicle, not touched. Научные публикации, патенты и h-index не подтверждены. Дата начала работы ИТ-директором уточнена по визуально проверенной карточке годового отчета. Роль из CSV: Член Совета директоров ПАО «ВИ.ру»; неисполнительный директор; член Комитета по вознаграждениям и номинациям; генеральный директор ООО «Ви.Тех»; генеральный директор ООО «ВИ Холдинг» с августа 2024 года"
+                },
+                {
+                    "name":  "Луннов Андрей Геннадьевич",
+                    "current_role":  "член Совета директоров ПАО «ВИ.ру»; неисполнительный директор; коммерческий директор ООО «ВсеИнструменты.ру»",
+                    "company_name":  "ПАО «ВИ.ру»",
+                    "education":  [
+                                      {
+                                          "institution":  "Ковровская государственная технологическая академия им. В.А. Дегтярева",
+                                          "year":  null,
+                                          "qualification":  null,
+                                          "description":  "Original education details: field: экономика.",
+                                          "sources":  [
+                                                          "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                      ],
+                                          "qualification_degree":  "Unknown"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО «ВИ.ру»",
+                                                        "role":  "член Совета директоров; неисполнительный директор",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Годовой отчет указывает членство в Совете директоров с марта 2024 года.",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+                                                        "industry":  "Specialty Retail"
+                                                    },
+                                                    {
+                                                        "organization":  "ООО «ВсеИнструменты.ру»",
+                                                        "role":  "коммерческий директор",
+                                                        "start_year":  2021,
+                                                        "end_year":  null,
+                                                        "description":  "Годовой отчет указывает работу коммерческим директором с января 2021 года по настоящее время.",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+                                                        "industry":  "Specialty Retail"
+                                                    },
+                                                    {
+                                                        "organization":  "ООО «ВсеИнструменты.ру»",
+                                                        "role":  "директор по продажам",
+                                                        "start_year":  2018,
+                                                        "end_year":  2020,
+                                                        "description":  "Период указан в годовом отчете как апрель 2018 — декабрь 2020.",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+                                                        "industry":  "Specialty Retail"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Подтверждает идентичность, образование и должности Андрея Луннова."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Биографическая карточка Андрея Луннова указывает образование в Ковровской государственной технологической академии им. В.А. Дегтярева по экономике."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "В карточке Совета директоров Луннов указан неисполнительным директором."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Биография указывает Луннова коммерческим директором ООО «ВсеИнструменты.ру» с января 2021 года."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Биография указывает работу директором по продажам ООО «ВсеИнструменты.ру» с апреля 2018 по декабрь 2020."
+                                    }
+                                ],
+                    "notes":  "Научные публикации, патенты и h-index не подтверждены. Роль из CSV: Член Совета директоров ПАО «ВИ.ру»; неисполнительный директор; коммерческий директор ООО «ВсеИнструменты.ру»"
+                },
+                {
+                    "name":  "Иванов Павел Андреевич",
+                    "current_role":  "член Совета директоров ПАО «ВИ.ру»; неисполнительный директор; генеральный директор ООО «Вирент»",
+                    "company_name":  "ПАО «ВИ.ру»",
+                    "education":  [
+                                      {
+                                          "institution":  "Ковровская государственная технологическая академия им. В.А. Дегтярева",
+                                          "year":  null,
+                                          "qualification":  null,
+                                          "description":  "Original education details: field: менеджмент.",
+                                          "sources":  [
+                                                          "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                      ],
+                                          "qualification_degree":  "Unknown"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО «ВИ.ру»",
+                                                        "role":  "член Совета директоров; неисполнительный директор",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Годовой отчет указывает членство в Совете директоров с июня 2024 года.",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+                                                        "industry":  "Specialty Retail"
+                                                    },
+                                                    {
+                                                        "organization":  "ООО «Вирент»",
+                                                        "role":  "генеральный директор",
+                                                        "start_year":  2020,
+                                                        "end_year":  null,
+                                                        "description":  "Годовой отчет указывает работу генеральным директором ООО «Вирент» с февраля 2020 года по настоящее время.",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                                                        "https://www.audit-it.ru/buh_otchet/7727438551_ooo-virent"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Services",
+                                                        "industry":  "Diversified Consumer Services"
+                                                    },
+                                                    {
+                                                        "organization":  "ООО «ВсеИнструменты.ру»",
+                                                        "role":  "генеральный директор",
+                                                        "start_year":  2018,
+                                                        "end_year":  2021,
+                                                        "description":  "Период указан в годовом отчете как апрель 2018 — июнь 2021.",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+                                                        "industry":  "Specialty Retail"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Подтверждает идентичность, образование и должности Павла Иванова."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Биографическая карточка Павла Иванова указывает образование в Ковровской государственной технологической академии им. В.А. Дегтярева по менеджменту."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "В карточке Совета директоров Иванов указан неисполнительным директором и членом Совета директоров с июня 2024 года."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Биография указывает Иванова генеральным директором ООО «Вирент» с февраля 2020 года."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Биография указывает работу генеральным директором ООО «ВсеИнструменты.ру» с апреля 2018 по июнь 2021."
+                                    }
+                                ],
+                    "notes":  "Quality pass 2026-08-02: honest-gap follow-up resolved ООО «Вирент» (was null/null/null since round 3, 2026-07-28). Fresh registry lookup (audit-it.ru, INN 7727438551) confirms general director since 02.2020 and primary OKVED 77.29.2 (прокат мебели, электрических и неэлектрических бытовых приборов); co-owned by ООО «ВсеИнструменты.ру» and АО «ВИ.ру» — classified Consumer Discretionary / Consumer Services / Diversified Consumer Services. Поиск научных данных выявляет однофамильцев, но надежной связи этих профилей с директором ПАО «ВИ.ру» не найдено; публикации, патенты и h-index не добавлены. Роль из CSV: Член Совета директоров ПАО «ВИ.ру»; неисполнительный директор; генеральный директор ООО «Вирент»"
+                },
+                {
+                    "name":  "Школлер Роман Александрович",
+                    "current_role":  "член Совета директоров ПАО «ВИ.ру»; независимый директор; председатель Комитета по аудиту; член Комитета по вознаграждениям и номинациям",
+                    "company_name":  "ПАО «ВИ.ру»",
+                    "education":  [
+                                      {
+                                          "institution":  "Высшая школа экономики",
+                                          "year":  null,
+                                          "qualification":  null,
+                                          "description":  "Original education details: field: мировая экономика.",
+                                          "sources":  [
+                                                          "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                      ],
+                                          "qualification_degree":  "Unknown"
+                                      },
+                                      {
+                                          "institution":  "Российская экономическая школа",
+                                          "year":  null,
+                                          "qualification":  null,
+                                          "description":  "Original education details: field: экономика.",
+                                          "sources":  [
+                                                          "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                      ],
+                                          "qualification_degree":  "Unknown"
+                                      },
+                                      {
+                                          "institution":  "Массачусетский технологический институт",
+                                          "year":  null,
+                                          "qualification":  "MBA",
+                                          "description":  null,
+                                          "sources":  [
+                                                          "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                      ],
+                                          "qualification_degree":  "MBA"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО «ВИ.ру»",
+                                                        "role":  "независимый директор; председатель Комитета по аудиту; член Комитета по вознаграждениям и номинациям",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "С 06.2024 — член Совета директоров ПАО «ВИ.ру».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+                                                        "industry":  "Specialty Retail"
+                                                    },
+                                                    {
+                                                        "organization":  "ООО «Русагро-Инвест»",
+                                                        "role":  "генеральный директор",
+                                                        "start_year":  2021,
+                                                        "end_year":  2021,
+                                                        "description":  "С 03.2021 по 09.2021 — генеральный директор ООО «Русагро-Инвест».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Staples",
+                                                        "industry_group":  "Food, Beverage \u0026 Tobacco",
+                                                        "industry":  "Food Products"
+                                                    },
+                                                    {
+                                                        "organization":  "McKinsey \u0026 Company",
+                                                        "role":  "младший партнер",
+                                                        "start_year":  2022,
+                                                        "end_year":  2024,
+                                                        "description":  "С 01.2022 по 07.2024 — младший партнер McKinsey \u0026 Company.",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Industrials",
+                                                        "industry_group":  "Commercial \u0026 Professional Services",
+                                                        "industry":  "Professional Services"
+                                                    },
+                                                    {
+                                                        "organization":  "ООО «Экстраверт»",
+                                                        "role":  "генеральный директор",
+                                                        "start_year":  2023,
+                                                        "end_year":  2024,
+                                                        "description":  "С 09.2023 по 04.2024 — генеральный директор ООО «Экстраверт».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                                                        "https://www.audit-it.ru/buh_otchet/5310011273_ooo-ekstravert"
+                                                                    ],
+                                                        "sector":  "Materials",
+                                                        "industry_group":  "Materials",
+                                                        "industry":  "Paper & Forest Products"
+                                                    },
+                                                    {
+                                                        "organization":  "ООО «Новые Мебельные Решения»",
+                                                        "role":  "генеральный директор",
+                                                        "start_year":  2023,
+                                                        "end_year":  2024,
+                                                        "description":  "С 10.2023 по 04.2024 — генеральный директор ООО «Новые Мебельные Решения».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+                                                        "industry":  "Specialty Retail"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Подтверждает идентичность, образование и должности Романа Школлера."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/VSEH/Годовой отчет ПАО ВИ.ру_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Визуально сверенная локальная копия подтверждает биографическую карточку: Школлер Роман Александрович."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка Романа Школлера указывает образование в Высшей школе экономики, специальность «мировая экономика»."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка Романа Школлера указывает образование в Российской экономической школе, специальность «экономика»."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка Романа Школлера указывает MBA в Массачусетском технологическом институте."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает Школлера независимым директором, председателем Комитета по аудиту и членом Комитета по вознаграждениям и номинациям."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает опыт работы: 03.2021–09.2021, генеральный директор ООО «Русагро-Инвест»."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает опыт работы: 01.2022–07.2024, младший партнер McKinsey \u0026 Company."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает опыт работы: 09.2023–04.2024, генеральный директор ООО «Экстраверт»."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает опыт работы: 10.2023–04.2024, генеральный директор ООО «Новые Мебельные Решения»."
+                                    }
+                                ],
+                    "notes":  "Quality pass 2026-08-02 (verification re-check): fixed a desync between this note and the JSON — the 2026-08-02 first pass's own edit for ООО «Экстраверт» set sector/industry_group to Materials/Materials but left the industry field null instead of 'Paper & Forest Products' as this same note already claimed; the JSON now matches the claim exactly (no new research needed, same already-cited audit-it.ru source). Quality pass 2026-08-02: honest-gap follow-up resolved ООО «Экстраверт» (was null/null/null since round 3, 2026-07-28). Fresh registry lookup (audit-it.ru, INN 5310011273) confirms Школлер as director 09.2023–04.2024 (succeeded by Осипов Вадим Евгеньевич 04.2024) and primary OKVED 16.21.12 (производство древесно-стружечных плит) — classified Materials / Materials / Paper & Forest Products. Научные публикации, патенты и h-index не подтверждены. Образование и опыт заменены по визуально проверенной карточке годового отчета; прежние данные относились к другой карточке и прямо противоречили отчету. Роль из CSV: Член Совета директоров ПАО «ВИ.ру»; независимый директор; председатель Комитета по аудиту; член Комитета по вознаграждениям и номинациям"
+                },
+                {
+                    "name":  "Ершов Роман Владимирович",
+                    "current_role":  "член Совета директоров ПАО «ВИ.ру»; независимый директор; председатель Комитета по вознаграждениям и номинациям; член Комитета по аудиту",
+                    "company_name":  "ПАО «ВИ.ру»",
+                    "education":  [
+                                      {
+                                          "institution":  "Ивановский государственный университет",
+                                          "year":  null,
+                                          "qualification":  null,
+                                          "description":  "Original education details: field: филология.",
+                                          "sources":  [
+                                                          "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                      ],
+                                          "qualification_degree":  "Unknown"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО «ВИ.ру»",
+                                                        "role":  "независимый директор; председатель Комитета по вознаграждениям и номинациям; член Комитета по аудиту",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "С 06.2024 — член Совета директоров ПАО «ВИ.ру».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+                                                        "industry":  "Specialty Retail"
+                                                    },
+                                                    {
+                                                        "organization":  "ООО «Аскона-Век»",
+                                                        "role":  "генеральный директор",
+                                                        "start_year":  2016,
+                                                        "end_year":  null,
+                                                        "description":  "С 07.2016 — генеральный директор ООО «Аскона-Век».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Durables \u0026 Apparel",
+                                                        "industry":  "Household Durables"
+                                                    },
+                                                    {
+                                                        "organization":  "ООО «Торговый дом «Аскона»",
+                                                        "role":  "генеральный директор",
+                                                        "start_year":  2016,
+                                                        "end_year":  null,
+                                                        "description":  "С 07.2016 — генеральный директор ООО «Торговый дом «Аскона».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Durables \u0026 Apparel",
+                                                        "industry":  "Household Durables"
+                                                    },
+                                                    {
+                                                        "organization":  "ООО «Шведские матрасы»",
+                                                        "role":  "генеральный директор",
+                                                        "start_year":  2016,
+                                                        "end_year":  null,
+                                                        "description":  "С 11.2016 — генеральный директор ООО «Шведские матрасы».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Durables \u0026 Apparel",
+                                                        "industry":  "Household Durables"
+                                                    },
+                                                    {
+                                                        "organization":  "ООО «Байсон»",
+                                                        "role":  "генеральный директор",
+                                                        "start_year":  2017,
+                                                        "end_year":  null,
+                                                        "description":  "С 05.2017 — генеральный директор ООО «Байсон».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                                                        "https://www.audit-it.ru/buh_otchet/5029192897_ooo-bayson"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Discretionary Distribution & Retail (New Name)",
+                                                        "industry":  "Specialty Retail"
+                                                    },
+                                                    {
+                                                        "organization":  "ООО «Аскона Лайф Групп»",
+                                                        "role":  "председатель Совета директоров",
+                                                        "start_year":  2018,
+                                                        "end_year":  null,
+                                                        "description":  "С 04.2018 — председатель Совета директоров ООО «Аскона Лайф Групп».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Durables \u0026 Apparel",
+                                                        "industry":  "Household Durables"
+                                                    },
+                                                    {
+                                                        "organization":  "Dealrose Limited",
+                                                        "role":  "член Совета директоров",
+                                                        "start_year":  2018,
+                                                        "end_year":  2024,
+                                                        "description":  "С 10.2018 по 12.2024 — член Совета директоров Dealrose Limited.",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "HEILCROFT LIMITED",
+                                                        "role":  "директор филиала компании с ограниченной ответственностью",
+                                                        "start_year":  2019,
+                                                        "end_year":  null,
+                                                        "description":  "С 08.2019 — директор филиала HEILCROFT LIMITED.",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "КПК «ФинМаркет»",
+                                                        "role":  "член Правления",
+                                                        "start_year":  2020,
+                                                        "end_year":  null,
+                                                        "description":  "С 11.2020 — член Правления КПК «ФинМаркет».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Financials",
+                                                        "industry_group":  "Financial Services (New Name)",
+                                                        "industry":  "Consumer Finance"
+                                                    },
+                                                    {
+                                                        "organization":  "ООО «Доброград ФудТех»",
+                                                        "role":  "член Совета директоров",
+                                                        "start_year":  2024,
+                                                        "end_year":  2025,
+                                                        "description":  "С 02.2024 по 04.2025 — член Совета директоров ООО «Доброград ФудТех».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Services",
+                                                        "industry":  "Hotels, Restaurants \u0026 Leisure"
+                                                    },
+                                                    {
+                                                        "organization":  "ООО «Первый КМЦ»",
+                                                        "role":  "генеральный директор",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "С 10.2024 — генеральный директор ООО «Первый КМЦ».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                                                        "https://list-org.com/company/1326755"
+                                                                    ],
+                                                        "sector":  "Health Care",
+                                                        "industry_group":  "Health Care Equipment & Services",
+                                                        "industry":  "Health Care Providers & Services"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Подтверждает идентичность, образование и должности Романа Ершова."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/VSEH/Годовой отчет ПАО ВИ.ру_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Визуально сверенная локальная копия подтверждает биографическую карточку: Ершов Роман Владимирович."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка Романа Ершова указывает образование в Ивановском государственном университете, специальность «филология»."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает Ершова независимым директором, председателем Комитета по вознаграждениям и номинациям и членом Комитета по аудиту."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает опыт работы: 07.2016 — н.в., генеральный директор ООО «Аскона-Век»."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает опыт работы: 07.2016 — н.в., генеральный директор ООО «Торговый дом «Аскона»."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает опыт работы: 11.2016 — н.в., генеральный директор ООО «Шведские матрасы»."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает опыт работы: 05.2017 — н.в., генеральный директор ООО «Байсон»."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает опыт работы: 04.2018 — н.в., председатель Совета директоров ООО «Аскона Лайф Групп»."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает опыт работы: 10.2018–12.2024, член Совета директоров Dealrose Limited."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает опыт работы: 08.2019 — н.в., директор филиала компании с ограниченной ответственностью HEILCROFT LIMITED."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает опыт работы: 11.2020 — н.в., член Правления КПК «ФинМаркет»."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает опыт работы: 02.2024–04.2025, член Совета директоров ООО «Доброград ФудТех»."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает опыт работы: 10.2024 — н.в., генеральный директор ООО «Первый КМЦ»."
+                                    }
+                                ],
+                    "notes":  "Quality pass 2026-08-02: (1) GICS correction — ООО «Первый КМЦ» was mislabeled Consumer Discretionary/Specialty Retail; fresh registry lookup (list-org.com, INN 3305719564, full legal name ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ «ПЕРВЫЙ КЛИНИЧЕСКИЙ МЕДИЦИНСКИЙ ЦЕНТР») shows primary OKVED 86.10 (больничная деятельность) — this is a hospital/medical-center entity, corrected to Health Care / Health Care Equipment & Services / Health Care Providers & Services. (2) Honest-gap follow-up resolved ООО «Байсон» (was null/null/null since round 3): audit-it.ru INN 5029192897 confirms director Ершов since 05.2017 and OKVED 47.91 (розничная торговля по интернету) — classified Consumer Discretionary / Consumer Discretionary Distribution & Retail (New Name) / Specialty Retail. (3) Honest-gap follow-up attempted for Dealrose Limited and HEILCROFT LIMITED (both still null, not changed): Dealrose Limited confirmed as a Cyprus-registered entity (HE351215) within Askona Group's corporate/holding structure with Ershov as director alongside Askona officers — correctly non-classifiable pure holding vehicle, left null. HEILCROFT LIMITED: fresh search found no reliable registry match (only an unrelated same-sounding UK 'Hillcroft Ltd' with no Askona/Ershov link) — left null, unresolved; queries tried: \"Dealrose Limited Askona Ershov director\", \"Heilcroft Limited Askona Ershov company\". Образование и опыт заменены по визуально проверенной карточке годового отчета; прежние данные относились к другой карточке и прямо противоречили отчету. Научные публикации, патенты и h-index не подтверждены. Роль из CSV: Член Совета директоров ПАО «ВИ.ру»; независимый директор; председатель Комитета по вознаграждениям и номинациям; член Комитета по аудиту"
+                },
+                {
+                    "name":  "Гребенюк Михаил Сергеевич",
+                    "current_role":  "член Совета директоров ПАО «ВИ.ру»; независимый директор; член Комитета по аудиту; член Комитета по вознаграждениям и номинациям",
+                    "company_name":  "ПАО «ВИ.ру»",
+                    "education":  [
+                                      {
+                                          "institution":  "Московский городской педагогический университет",
+                                          "year":  null,
+                                          "qualification":  null,
+                                          "description":  "Original education details: field: история.",
+                                          "sources":  [
+                                                          "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                      ],
+                                          "qualification_degree":  "Unknown"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО «ВИ.ру»",
+                                                        "role":  "независимый директор; член Комитета по аудиту; член Комитета по вознаграждениям и номинациям",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "С 06.2024 — член Совета директоров ПАО «ВИ.ру».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+                                                        "industry":  "Specialty Retail"
+                                                    },
+                                                    {
+                                                        "organization":  "АНО «Центр дополнительного образования «Резалтинг»",
+                                                        "role":  "генеральный директор",
+                                                        "start_year":  2021,
+                                                        "end_year":  null,
+                                                        "description":  "С 10.2021 — генеральный директор АНО «Центр дополнительного образования «Резалтинг».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ООО «Резалтинг»",
+                                                        "role":  "генеральный директор",
+                                                        "start_year":  2022,
+                                                        "end_year":  null,
+                                                        "description":  "С 10.2022 — генеральный директор ООО «Резалтинг».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ООО «СПБ»",
+                                                        "role":  "генеральный директор",
+                                                        "start_year":  2023,
+                                                        "end_year":  null,
+                                                        "description":  "С 04.2023 — генеральный директор ООО «СПБ».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    },
+                                                    {
+                                                        "organization":  "ООО «Стройинвест»",
+                                                        "role":  "генеральный директор",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "С 01.2024 — генеральный директор ООО «Стройинвест».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                                                        "https://www.audit-it.ru/buh_otchet/9108129535_ooo-stroyinvest"
+                                                                    ],
+                                                        "sector":  "Real Estate",
+                                                        "industry_group":  "Real Estate Management & Development (New)",
+                                                        "industry":  "Real Estate Management & Development (New Code)"
+                                                    },
+                                                    {
+                                                        "organization":  "АНО «Поколение»",
+                                                        "role":  "генеральный директор",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "С 10.2024 — генеральный директор АНО «Поколение».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  null,
+                                                        "industry_group":  null,
+                                                        "industry":  null
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Подтверждает идентичность, образование и должности Михаила Гребенюка."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/VSEH/Годовой отчет ПАО ВИ.ру_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Визуально сверенная локальная копия подтверждает биографическую карточку: Гребенюк Михаил Сергеевич."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Биографическая карточка Михаила Гребенюка указывает образование в Московском городском педагогическом университете по истории."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает Гребенюка независимым директором и членом комитетов по аудиту и по вознаграждениям и номинациям."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает опыт работы: 10.2021 — н.в., генеральный директор АНО «Центр дополнительного образования «Резалтинг»."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает опыт работы: 10.2022 — н.в., генеральный директор ООО «Резалтинг»."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает опыт работы: 04.2023 — н.в., генеральный директор ООО «СПБ»."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает опыт работы: 01.2024 — н.в., генеральный директор ООО «Стройинвест»."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает опыт работы: 10.2024 — н.в., генеральный директор АНО «Поколение»."
+                                    }
+                                ],
+                    "notes":  "Quality pass 2026-08-02: (1) GICS correction — АНО «Поколение» was mislabeled Consumer Discretionary/Specialty Retail; fresh research confirms this is a nonprofit mentorship program for teenagers (registered as АНО in Moscow, INN 9723240480, 10.2024), not a commercial entity — corrected to null/null/null (non-classifiable nonprofit, same treatment as АНО «Центр дополнительного образования «Резалтинг»»). (2) Honest-gap follow-up resolved ООО «Стройинвест» (was null/null/null since round 3): audit-it.ru INN 9108129535 confirms Гребенюк as general director since 30.01.2024 (exact match to annual report date) and primary OKVED 68.20 (аренда и управление собственным или арендованным недвижимым имуществом); a separate marketing description also ties the same registration to residential-complex construction/development — classified Real Estate / Real Estate Management & Development (New) / Real Estate Management & Development (New Code). (3) Honest-gap follow-up attempted for ООО «СПБ» and ООО «Резалтинг» (both still null, not changed): ООО «Резалтинг» (INN 9723173555, Гребенюк GD since 26.10.2022) shows primary OKVED as software development with near-zero net assets (~10,000 RUB, zero profit for 2024) — signal too thin/ambiguous to confidently represent his actual coaching/consulting business, left null rather than guess. ООО «СПБ»: fresh search found no registry match at all (only unrelated 'Упак СПБ' in St. Petersburg) — left null, unresolved; queries tried: \"ООО СПБ Гребенюк Михаил Сергеевич 2023\", \"Гребенюк Михаил Сергеевич СПБ резалтинг\". Научные публикации, патенты и h-index не подтверждены. Опыт заменен по визуально проверенной карточке годового отчета; прежние организация/даты для части записей противоречили отчету. Роль из CSV: Член Совета директоров ПАО «ВИ.ру»; независимый директор; член Комитета по аудиту; член Комитета по вознаграждениям и номинациям"
+                },
+                {
+                    "name":  "Грунин Дмитрий",
+                    "current_role":  "директор по электронной коммерции ПАО «ВИ.ру»; руководитель направления продаж и маркетинга",
+                    "company_name":  "ПАО «ВИ.ру»",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО «ВИ.ру» / ВсеИнструменты.ру",
+                                                        "role":  "директор по электронной коммерции",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "Официальный пресс-релиз от 25.07.2024 сообщает о назначении Дмитрия Грунина директором по электронной коммерции.",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/25.07.2024_VSEH_Ecom.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+                                                        "industry":  "Specialty Retail"
+                                                    },
+                                                    {
+                                                        "organization":  "Авито Услуги",
+                                                        "role":  "руководитель",
+                                                        "start_year":  null,
+                                                        "end_year":  2024,
+                                                        "description":  "Официальный пресс-релиз указывает, что ранее Дмитрий Грунин руководил Авито Услугами.",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/25.07.2024_VSEH_Ecom.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+                                                        "industry":  "Specialty Retail"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/25.07.2024_VSEH_Ecom.pdf",
+                                        "title":  "В «ВсеИнструменты.ру» появился директор по электронной коммерции",
+                                        "fact":  "Подтверждает назначение Дмитрия Грунина и предыдущий опыт в Авито Услугах."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/25.07.2024_VSEH_Ecom.pdf",
+                                        "title":  "В «ВсеИнструменты.ру» появился директор по электронной коммерции",
+                                        "fact":  "Пресс-релиз сообщает, что Дмитрий Грунин назначен директором по электронной коммерции и будет развивать стратегию e-com."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/25.07.2024_VSEH_Ecom.pdf",
+                                        "title":  "В «ВсеИнструменты.ру» появился директор по электронной коммерции",
+                                        "fact":  "В релизе сказано, что до прихода во ВсеИнструменты.ру Дмитрий Грунин руководил Авито Услугами."
+                                    }
+                                ],
+                    "notes":  "Quality pass 2026-08-02: honest-gap follow-up attempted (fresh queries: \"Грунин Дмитрий директор по электронной коммерции ВсеИнструменты Авито образование\"). Found a fuller prior-role description (LinkedIn: Chief Commercial Officer at Авито Услуги, grew the division from ~700M to ~16B RUB revenue) but no patronymic and no education institution with a citable primary source — left as-is, not added, to avoid low-confidence sourcing. CSV не содержит отчество; поэтому образование, публикации, патенты и научные показатели не добавлены без надежного disambiguation. Роль из CSV: Директор по электронной коммерции ПАО «ВИ.ру» с 25 июля 2024 года; руководитель направления продаж и маркетинга"
+                },
+                {
+                    "name":  "Агранович Мария",
+                    "current_role":  "директор департамента развития собственных торговых марок ООО «ВсеИнструменты.ру»",
+                    "company_name":  "ПАО «ВИ.ру»",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ООО «ВсеИнструменты.ру»",
+                                                        "role":  "директор департамента развития собственных торговых марок",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Официальный годовой отчет упоминает Марию Агранович как директора департамента развития собственных торговых марок в контексте развития брендов группы.",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+                                                        "industry":  "Specialty Retail"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Подтверждает должность Марии Агранович в группе."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "В разделе о собственных торговых марках приведен комментарий Марии Агранович, директора департамента развития собственных торговых марок."
+                                    }
+                                ],
+                    "notes":  "Quality pass 2026-08-02: honest-gap follow-up attempted (fresh queries: \"Агранович Мария директор собственных торговых марок ВсеИнструменты образование\"). Found she also appears as \"Мария Агранович (Гвоздовская)\" and developed the Grizzly private-label brand, but no patronymic or education found with a citable primary source — left as-is. CSV не содержит отчество. Образование и прежний опыт не добавлены: найденные слабые или одноименные источники не дают надежного claim-level подтверждения. Роль из CSV: Директор департамента развития собственных торговых марок ООО «ВсеИнструменты.ру»"
+                },
+                {
+                    "name":  "Куприянов Иван",
+                    "current_role":  "директор по закупкам ООО «ВсеИнструменты.ру»",
+                    "company_name":  "ПАО «ВИ.ру»",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ООО «ВсеИнструменты.ру»",
+                                                        "role":  "директор по закупкам",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Официальная промостраница ВсеИнструменты.ру и публикация Коммерсанта подтверждают публичную роль Ивана Куприянова как директора по закупкам.",
+                                                        "sources":  [
+                                                                        "https://about.vseinstrumenti.ru/page58125235.html",
+                                                                        "https://www.kommersant.ru/doc/6134713?erid=4CQwVszH9pUjpJUcTqb"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+                                                        "industry":  "Specialty Retail"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://about.vseinstrumenti.ru/page58125235.html",
+                                        "title":  "ВсеИнструменты.ру — промостраница о поставщиках и брендах",
+                                        "fact":  "Подтверждает должность Ивана Куприянова."
+                                    },
+                                    {
+                                        "url":  "https://www.kommersant.ru/doc/6134713?erid=4CQwVszH9pUjpJUcTqb",
+                                        "title":  "Коммерсантъ — ВсеИнструменты.ру договорились с поставщиками о заморозке цен",
+                                        "fact":  "Дополнительно подтверждает должность Ивана Куприянова."
+                                    },
+                                    {
+                                        "url":  "https://about.vseinstrumenti.ru/page58125235.html",
+                                        "title":  "ВсеИнструменты.ру — промостраница о поставщиках и брендах",
+                                        "fact":  "Страница приводит комментарий Ивана Куприянова и указывает его директором по закупкам ВсеИнструменты.ру."
+                                    },
+                                    {
+                                        "url":  "https://www.kommersant.ru/doc/6134713?erid=4CQwVszH9pUjpJUcTqb",
+                                        "title":  "Коммерсантъ — ВсеИнструменты.ру договорились с поставщиками о заморозке цен",
+                                        "fact":  "Публикация приводит комментарий Ивана Куприянова как директора по закупкам ВсеИнструменты.ру."
+                                    }
+                                ],
+                    "notes":  "Quality pass 2026-08-02: honest-gap follow-up attempted (fresh queries: \"Куприянов Иван директор по закупкам ВсеИнструменты образование\"). Only current-role/media context found (procurement webinar speaker, DIY-sector commentary); no patronymic or education, and multiple namesakes exist on LinkedIn with no reliable disambiguator — left as-is. CSV не содержит отчество. Образование, прежний опыт и научные данные не добавлены без надежной идентификации. Роль из CSV: Директор по закупкам ООО «ВсеИнструменты.ру»"
+                },
+                {
+                    "name":  "Гришков Сергей",
+                    "current_role":  "руководитель отдела корпоративных финансов / IR",
+                    "company_name":  "ПАО «ВИ.ру»",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ВсеИнструменты.ру",
+                                                        "role":  "руководитель отдела корпоративных финансов / IR",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Официальный пресс-релиз 25.07.2024 указывает Сергея Гришкова контактным лицом IR и руководителем отдела корпоративных финансов / IR.",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/25.07.2024_VSEH_Ecom.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+                                                        "industry":  "Specialty Retail"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/25.07.2024_VSEH_Ecom.pdf",
+                                        "title":  "В «ВсеИнструменты.ру» появился директор по электронной коммерции",
+                                        "fact":  "Подтверждает должность Сергея Гришкова как IR/корпоративные финансы."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/25.07.2024_VSEH_Ecom.pdf",
+                                        "title":  "В «ВсеИнструменты.ру» появился директор по электронной коммерции",
+                                        "fact":  "В контактах пресс-релиза Сергей Гришков указан как руководитель отдела корпоративных финансов / IR."
+                                    }
+                                ],
+                    "notes":  "Quality pass 2026-08-02: honest-gap follow-up attempted (fresh queries: \"Гришков Сергей IR ВсеИнструменты корпоративные финансы образование\"). Only current-role/IR-event context found (2025 strategy presentation, dividend-plan comments); no patronymic or education with a citable primary source — left as-is. CSV не содержит отчество. Образование, прежний опыт, публикации, патенты и h-index не добавлены без надежной идентификации. Роль из CSV: Руководитель корпоративных финансов и IR ООО «ВсеИнструменты.ру»"
+                },
+                {
+                    "name":  "Денисенко Сергей",
+                    "current_role":  "руководитель PR-направления",
+                    "company_name":  "ПАО «ВИ.ру»",
+                    "education":  [
+
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ВсеИнструменты.ру",
+                                                        "role":  "руководитель PR-направления",
+                                                        "start_year":  null,
+                                                        "end_year":  null,
+                                                        "description":  "Официальный пресс-релиз 25.07.2024 указывает Сергея Денисенко контактным лицом PR и руководителем PR-направления.",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/25.07.2024_VSEH_Ecom.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+                                                        "industry":  "Specialty Retail"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/25.07.2024_VSEH_Ecom.pdf",
+                                        "title":  "В «ВсеИнструменты.ру» появился директор по электронной коммерции",
+                                        "fact":  "Подтверждает должность Сергея Денисенко как руководителя PR-направления."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/25.07.2024_VSEH_Ecom.pdf",
+                                        "title":  "В «ВсеИнструменты.ру» появился директор по электронной коммерции",
+                                        "fact":  "В контактах пресс-релиза Сергей Денисенко указан как руководитель PR-направления."
+                                    }
+                                ],
+                    "notes":  "Quality pass 2026-08-02: honest-gap follow-up attempted (fresh queries: \"Денисенко Сергей PR ВсеИнструменты образование\"). Found self-described \"15+ years in communications, last ~6 years leading PR at ВсеИнструменты.ру\" on a LinkedIn-style bio, which would imply a start_year around 2018–2019, but no pinpointable citable primary source/date for that tenure figure was found — not added to avoid an unverifiable derived date; no patronymic or education found either. CSV не содержит отчество. Образование, прежний опыт, публикации, патенты и h-index не добавлены без надежной идентификации. Роль из CSV: Руководитель PR-направления ООО «ВсеИнструменты.ру»"
+                },
+                {
+                    "name":  "Алеева Гульнара Ринатовна",
+                    "current_role":  "корпоративный секретарь ПАО «ВИ.ру»",
+                    "company_name":  "ПАО «ВИ.ру»",
+                    "education":  [
+                                      {
+                                          "institution":  "Московский государственный университет им. М.В. Ломоносова",
+                                          "year":  null,
+                                          "qualification":  null,
+                                          "description":  "Original education details: field: юриспруденция.",
+                                          "sources":  [
+                                                          "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                      ],
+                                          "qualification_degree":  "Unknown"
+                                      },
+                                      {
+                                          "institution":  "Московский государственный юридический университет им. О.Е. Кутафина",
+                                          "year":  null,
+                                          "qualification":  null,
+                                          "description":  "Original education details: field: юриспруденция.",
+                                          "sources":  [
+                                                          "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                      ],
+                                          "qualification_degree":  "Unknown"
+                                      },
+                                      {
+                                          "institution":  "Национальное объединение корпоративных секретарей",
+                                          "year":  null,
+                                          "qualification":  "сертифицированный корпоративный секретарь",
+                                          "description":  "Original education details: field: корпоративное управление.",
+                                          "sources":  [
+                                                          "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                      ],
+                                          "qualification_degree":  "Professional certification"
+                                      }
+                                  ],
+                    "degrees":  [
+
+                                ],
+                    "professional_experience":  [
+                                                    {
+                                                        "organization":  "ПАО «ВИ.ру»",
+                                                        "role":  "корпоративный секретарь",
+                                                        "start_year":  2024,
+                                                        "end_year":  null,
+                                                        "description":  "С 20.06.2024 — корпоративный секретарь ПАО «ВИ.ру».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+                                                        "industry":  "Specialty Retail"
+                                                    },
+                                                    {
+                                                        "organization":  "ООО «ВсеИнструменты.ру»",
+                                                        "role":  "главный юрист по корпоративным вопросам",
+                                                        "start_year":  2022,
+                                                        "end_year":  2024,
+                                                        "description":  "С 12.2022 по 06.2024 — главный юрист по корпоративным вопросам ООО «ВсеИнструменты.ру».",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Consumer Discretionary",
+                                                        "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+                                                        "industry":  "Specialty Retail"
+                                                    },
+                                                    {
+                                                        "organization":  "Eversheds Sutherland (Birch Legal)",
+                                                        "role":  "старший юрист",
+                                                        "start_year":  2017,
+                                                        "end_year":  2022,
+                                                        "description":  "С 09.2017 по 12.2022 — старший юрист Eversheds Sutherland (Birch Legal).",
+                                                        "sources":  [
+                                                                        "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf"
+                                                                    ],
+                                                        "sector":  "Industrials",
+                                                        "industry_group":  "Commercial & Professional Services",
+                                                        "industry":  "Professional Services"
+                                                    }
+                                                ],
+                    "research_experience":  [
+
+                                            ],
+                    "publications":  [
+
+                                     ],
+                    "patents":  [
+
+                                ],
+                    "h_index":  null,
+                    "sources":  [
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Подтверждает идентичность, образование и должность Гульнары Алеевой."
+                                    },
+                                    {
+                                        "url":  "MOEXBMI_Отчеты_2024/VSEH/Годовой отчет ПАО ВИ.ру_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Визуально сверенная локальная копия подтверждает биографическую карточку: Алеева Гульнара Ринатовна."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка корпоративного секретаря указывает юридическое образование в МГУ им. М.В. Ломоносова."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка корпоративного секретаря указывает юридическое образование в Московском государственном юридическом университете им. О.Е. Кутафина."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает, что Алеева является сертифицированным корпоративным секретарем Национального объединения корпоративных секретарей."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает, что с 20 июня 2024 года Алеева является корпоративным секретарем Общества."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает опыт работы: 12.2022–06.2024, главный юрист по корпоративным вопросам ООО «ВсеИнструменты.ру»."
+                                    },
+                                    {
+                                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                                        "fact":  "Карточка указывает опыт работы: 09.2017–12.2022, старший юрист Eversheds Sutherland (Birch Legal)."
+                                    }
+                                ],
+                    "notes":  "Quality pass 2026-08-02 (verification re-check): GICS correction — Eversheds Sutherland (Birch Legal) was mislabeled Consumer Discretionary/Consumer Discretionary Distribution & Retail (New Name)/Specialty Retail, an obvious mismatch inherited unchanged from git HEAD and missed by both the 2026-07-28 GICS quality round and the first 2026-08-02 pass. Eversheds Sutherland is an international law firm (Birch Legal being its Russian practice); the role is 'старший юрист' (senior lawyer). Corrected to Industrials / Commercial & Professional Services / Professional Services, matching this same person's/company's own established treatment of professional-services firms elsewhere in this ticker (McKinsey & Company) and the corpus precedent for HEAD (HeadHunter, whose company-level GICS in this same taxonomy is also Industrials/Commercial & Professional Services/Professional Services). No new source needed — same already-cited annual report bio card, general-knowledge business-type correction (same class of fix as the McKinsey/Goldman Sachs corrections in gics_quality_round_20260728.md). Quality pass 2026-08-02: qualification_degree misclassification fixed — the certified-corporate-secretary credential (Национальное объединение корпоративных секретарей) was coded 'Unknown' although the raw 'qualification' field already states 'сертифицированный корпоративный секретарь' (certified corporate secretary); corrected to 'Professional certification' per the fixed enum. No new source needed, already drawn from the cited annual report bio card. Статус сертифицированного корпоративного секретаря сохранен как дополнительная профессиональная квалификация, не как ученая степень. Опыт работы заменен по визуально проверенной карточке годового отчета; прежние записи про Право.ру и X5 Retail Group противоречили отчету. Научные публикации, патенты и h-index не подтверждены. Роль из CSV: Корпоративный секретарь ПАО «ВИ.ру» с 20 июня 2024 года"
+                }
+            ],
+    "board_sources":  [
+                          {
+                              "url":  "MOEXBMI_2024.csv",
+                              "title":  "MOEXBMI_2024.csv",
+                              "fact":  "CSV contains predefined company people and positions used as pipeline input."
+                          },
+                          {
+                              "url":  "https://www.e-disclosure.ru/portal/company.aspx?id=39131",
+                              "title":  "Интерфакс — сервер раскрытия информации: ПАО «ВИ.ру»",
+                              "fact":  "Официальная карточка эмитента ПАО «ВИ.ру» на e-disclosure."
+                          },
+                          {
+                              "url":  "https://ir.vseinstrumenti.ru/",
+                              "title":  "ПАО «ВИ.ру» — центр раскрытия корпоративной информации",
+                              "fact":  "Официальный IR-сайт эмитента с годовыми отчетами, отчетами эмитента и корпоративными документами."
+                          },
+                          {
+                              "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                              "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                              "fact":  "Основной официальный источник для состава Совета директоров, комитетов, биографий директоров и корпоративного секретаря за 2024 год."
+                          },
+                          {
+                              "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/Otchet%20emitenta_6m24.pdf",
+                              "title":  "Отчет эмитента ПАО «ВИ.ру» за 6 месяцев 2024 года",
+                              "fact":  "Официальный отчет эмитента с данными о составе органов управления и структуре корпоративного управления в 2024 году."
+                          },
+                          {
+                              "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/25.07.2024_VSEH_Ecom.pdf",
+                              "title":  "В «ВсеИнструменты.ру» появился директор по электронной коммерции",
+                              "fact":  "Официальный пресс-релиз от 25.07.2024 о назначении Дмитрия Грунина директором по электронной коммерции и контактах IR/PR."
+                          },
+                          {
+                              "url":  "MOEXBMI_Отчеты_2024/VSEH/Годовой отчет ПАО ВИ.ру_2024.pdf",
+                              "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                              "fact":  "Локальная копия годового отчета использована для визуальной сверки биографических карточек директоров и корпоративного секретаря."
+                          }
+                      ],
+    "sources":  [
+                    {
+                        "url":  "https://www.e-disclosure.ru/portal/company.aspx?id=39131",
+                        "title":  "Интерфакс — сервер раскрытия информации: ПАО «ВИ.ру»",
+                        "fact":  "Официальная карточка эмитента ПАО «ВИ.ру» на e-disclosure."
+                    },
+                    {
+                        "url":  "https://ir.vseinstrumenti.ru/",
+                        "title":  "ПАО «ВИ.ру» — центр раскрытия корпоративной информации",
+                        "fact":  "Официальный IR-сайт эмитента с годовыми отчетами, отчетами эмитента и корпоративными документами."
+                    },
+                    {
+                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/%D0%93%D0%BE%D0%B4%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D0%9F%D0%90%D0%9E%20%D0%92%D0%98.%D1%80%D1%83_2024.pdf",
+                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                        "fact":  "Основной официальный источник для состава Совета директоров, комитетов, биографий директоров и корпоративного секретаря за 2024 год."
+                    },
+                    {
+                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/Otchet%20emitenta_6m24.pdf",
+                        "title":  "Отчет эмитента ПАО «ВИ.ру» за 6 месяцев 2024 года",
+                        "fact":  "Официальный отчет эмитента с данными о составе органов управления и структуре корпоративного управления в 2024 году."
+                    },
+                    {
+                        "url":  "https://cdn.vseinstrumenti.ru/res/content/documents/25.07.2024_VSEH_Ecom.pdf",
+                        "title":  "В «ВсеИнструменты.ру» появился директор по электронной коммерции",
+                        "fact":  "Официальный пресс-релиз от 25.07.2024 о назначении Дмитрия Грунина директором по электронной коммерции и контактах IR/PR."
+                    },
+                    {
+                        "url":  "MOEXBMI_Отчеты_2024/VSEH/Годовой отчет ПАО ВИ.ру_2024.pdf",
+                        "title":  "Годовой отчет ПАО «ВИ.ру» за 2024 год",
+                        "fact":  "Локальная копия годового отчета использована для визуальной сверки биографических карточек директоров и корпоративного секретаря."
+                    }
+                ],
+    "validation_notes":  "Quality-review verification re-check (2026-08-02, second pass): spot-checked round 1's own output and found two issues, both fixed directly (no content deleted, no new unresolved gaps): (a) ООО «Экстраверт» (Школлер) — round 1 set sector/industry_group to Materials/Materials but left industry null, contradicting round 1's own notes claim of 'Paper & Forest Products'; industry corrected to match, no new research needed (same already-cited audit-it.ru source). (b) Eversheds Sutherland/Birch Legal (Алеева) — a law firm mislabeled Consumer Discretionary/Specialty Retail, inherited unchanged from git HEAD and missed by both the 2026-07-28 GICS round and round 1; corrected to Industrials/Commercial & Professional Services/Professional Services (matching this ticker's own McKinsey classification and the corpus's HEAD-ticker precedent). All other GICS triples in this file were re-validated programmatically against the 74-row gics_taxonomy.json and all now match a valid row exactly. Quality pass round 1 (2026-08-02): see research_notes/VSEH/quality_pass_round1_20260802.md for full detail. Step 0 baseline check: current file was byte-for-byte identical (modulo CRLF/LF) to git HEAD (commit f973022) — no prior-round regression to restore. GICS corrections (2): АНО «Поколение» (Гребенюк) was wrongly labeled Consumer Discretionary/Specialty Retail — it is a nonprofit teen-mentorship program, corrected to null/null/null; ООО «Первый КМЦ» (Ершов) was wrongly labeled Consumer Discretionary/Specialty Retail — registry confirms it is a hospital/medical-center entity (OKVED 86.10), corrected to Health Care/Health Care Equipment & Services/Health Care Providers & Services. Honest-gap follow-up resolved (5): ООО «Ви.Тех» (Кузин) → Information Technology/Software & Services/Software; ООО «Вирент» (Иванов) → Consumer Discretionary/Consumer Services/Diversified Consumer Services; ООО «Байсон» (Ершов) → Consumer Discretionary/Consumer Discretionary Distribution & Retail (New Name)/Specialty Retail; ООО «Экстраверт» (Школлер) → Materials/Materials/Paper & Forest Products; ООО «Стройинвест» (Гребенюк) → Real Estate/Real Estate Management & Development (New)/Real Estate Management & Development (New Code) — all backed by fresh company-registry sources added to each entry's sources[]. Honest-gap follow-up attempted, still unresolved/left null (7): ООО «СПБ», ООО «Резалтинг» (Гребенюк); Dealrose Limited (confirmed correctly-non-classifiable Askona holding vehicle), HEILCROFT LIMITED (Ершов); education/patronymic for Грунин Дмитрий, Агранович Мария, Куприянов Иван, Гришков Сергей, Денисенко Сергей — fresh queries logged in each person's notes field and in the round file, not repeated. qualification_degree misclassifications fixed (2, no new research needed): Безумов (BSc/MSc coded 'Unknown' despite explicit degree text → Bachelor's degree/Master's degree); Алеева (certified-corporate-secretary credential coded 'Unknown' → Professional certification). No genuine notes-vs-JSON inconsistency (per the strict definition — conflicting sourced values) was found this round; the only internal inconsistency was the qualification_degree/enum miscoding above, resolved from already-cited source text without new research. Nothing was deleted; all previously confirmed facts, descriptions, and source citations were preserved and cross-checked longer/equal versus git HEAD.\n\nOriginal notes: Исследование выполнено по строкам MOEXBMI_2024.csv для VSEH. Основной официальный источник — годовой отчет ПАО «ВИ.ру» за 2024 год; для менеджеров вне биографического раздела годового отчета использованы официальные пресс-релизы и открытые публикации с подтверждением роли. Поля оставлены пустыми, если факт не подтвержден прочитанной страницей или документом. После визуальной сверки страниц 68–73 годового отчета исправлены записи, где текстовое извлечение перепутало биографические карточки директоров и корпоративного секретаря.\n\nNormalized to T_person_info.json schema on 2026-07-14. Original people count: 15; unresolved count: 0; normalized ceo: Фахрутдинов Валентин Кириллович; normalized tmt count: 14.\n\nOriginal top-level metadata preserved as JSON: {\"company_aliases\": [\"ПАО \\\"ВИ.ру\\\"\", \"ПАО ВИ.ру\", \"ВсеИнструменты.ру\", \"ООО «ВсеИнструменты.ру»\", \"Vseinstrumenti.ru\", \"VseInstrumenti.ru\"], \"csv_rows\": [{\"name\": \"Фахрутдинов Валентин Кириллович\", \"position\": \"Член Совета директоров ПАО «ВИ.ру»; исполнительный директор; генеральный директор ПАО «ВИ.ру»; генеральный директор ООО «ВсеИнструменты.ру»\"}, {\"name\": \"Шмелева Мария Николаевна\", \"position\": \"Председатель Совета директоров ПАО «ВИ.ру»; неисполнительный директор; член Комитета по аудиту; руководитель юридического департамента ООО «ВсеИнструменты.ру»\"}, {\"name\": \"Безумов Олег Игоревич\", \"position\": \"Член Совета директоров ПАО «ВИ.ру»; исполнительный директор; финансовый директор ООО «ВсеИнструменты.ру»\"}, {\"name\": \"Кузин Вадим Сергеевич\", \"position\": \"Член Совета директоров ПАО «ВИ.ру»; неисполнительный директор; член Комитета по вознаграждениям и номинациям; генеральный директор ООО «Ви.Тех»; генеральный директор ООО «ВИ Холдинг» с августа 2024 года\"}, {\"name\": \"Луннов Андрей Геннадьевич\", \"position\": \"Член Совета директоров ПАО «ВИ.ру»; неисполнительный директор; коммерческий директор ООО «ВсеИнструменты.ру»\"}, {\"name\": \"Иванов Павел Андреевич\", \"position\": \"Член Совета директоров ПАО «ВИ.ру»; неисполнительный директор; генеральный директор ООО «Вирент»\"}, {\"name\": \"Школлер Роман Александрович\", \"position\": \"Член Совета директоров ПАО «ВИ.ру»; независимый директор; председатель Комитета по аудиту; член Комитета по вознаграждениям и номинациям\"}, {\"name\": \"Ершов Роман Владимирович\", \"position\": \"Член Совета директоров ПАО «ВИ.ру»; независимый директор; председатель Комитета по вознаграждениям и номинациям; член Комитета по аудиту\"}, {\"name\": \"Гребенюк Михаил Сергеевич\", \"position\": \"Член Совета директоров ПАО «ВИ.ру»; независимый директор; член Комитета по аудиту; член Комитета по вознаграждениям и номинациям\"}, {\"name\": \"Грунин Дмитрий\", \"position\": \"Директор по электронной коммерции ПАО «ВИ.ру» с 25 июля 2024 года; руководитель направления продаж и маркетинга\"}, {\"name\": \"Агранович Мария\", \"position\": \"Директор департамента развития собственных торговых марок ООО «ВсеИнструменты.ру»\"}, {\"name\": \"Куприянов Иван\", \"position\": \"Директор по закупкам ООО «ВсеИнструменты.ру»\"}, {\"name\": \"Гришков Сергей\", \"position\": \"Руководитель корпоративных финансов и IR ООО «ВсеИнструменты.ру»\"}, {\"name\": \"Денисенко Сергей\", \"position\": \"Руководитель PR-направления ООО «ВсеИнструменты.ру»\"}, {\"name\": \"Алеева Гульнара Ринатовна\", \"position\": \"Корпоративный секретарь ПАО «ВИ.ру» с 20 июня 2024 года\"}], \"notes\": \"Исследование выполнено по строкам MOEXBMI_2024.csv для VSEH. Основной официальный источник — годовой отчет ПАО «ВИ.ру» за 2024 год; для менеджеров вне биографического раздела годового отчета использованы официальные пресс-релизы и открытые публикации с подтверждением роли. Поля оставлены пустыми, если факт не подтвержден прочитанной страницей или документом. После визуальной сверки страниц 68–73 годового отчета исправлены записи, где текстовое извлечение перепутало биографические карточки директоров и корпоративного секретаря.\", \"target_year\": 2024, \"ticker\": \"VSEH\"}",
+    "sector":  "Consumer Discretionary",
+    "industry_group":  "Consumer Discretionary Distribution \u0026 Retail (New Name)",
+    "industry":  "Specialty Retail"
+}
